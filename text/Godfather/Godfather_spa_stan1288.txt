@@ -1,0 +1,1769 @@
+1	Creo en América.	
+2	América hizo mi fortuna.	
+3	Y eduqué a mi hija al estilo americano.	
+4	Le di libertad, pero le enseñé a no deshonrar a su familia.	
+5	Conoció a un chico, no era italiano.	
+6	Iba al cine con él.	
+7	Volvía tarde.	
+8	Nunca protesté.	
+9	Hace dos meses la llevó de paseo con otro amigo.	
+10	Le obligaron a beber whisky y después trataron de abusar de ella.	
+11	Ella se resistió, defendió su honor.	
+12	Y le pegaron como a un animal.	
+13	Cuando llegué al hospital, tenía la nariz rota, la mandíbula destrozada, y sujetada con un alambre.	
+14	No podía ni llorar a causa del dolor.	
+15	Pero yo sí.	
+16	¿Por qué lloré?	
+17	Ella era la luz de mi vida.	
+18	Una chica preciosa.	
+19	Nunca volverá a serlo.	
+20	Perdón.	
+21	Yo fui a la policía, como buen americano.	
+22	Los dos tipos fueron procesados.	
+23	El juez los sentenció a tres años de prisión, pero suspendió la condena.	
+24	¡Suspendió la condena!	
+25	¡Y los puso en libertad el mismo día!	
+26	Yo me quedé en la sala como un imbécil.	
+27	Esos dos cabrones me sonreían.	
+28	Le dije a mi mujer: La justicia, nos la hará Don Corleone.	
+29	¿Por qué acudiste a la policía?	
+30	¿Por qué no viniste a mí primero?	
+31	¿Qué quiere de mí?	
+32	Lo que sea, pero haga lo que le suplico.	
+33	¿Qué quieres?	
+34	Los quiero muertos.	
+35	Eso no puedo.	
+36	Le daré lo que me pida.	
+37	Nos conocemos desde hace años, y por primera vez me pides ayuda.	
+38	No recuerdo la última vez que me invitaste a una taza de café.	
+39	Aunque mi mujer sea la madrina de tu única hija.	
+40	Pero hablemos claro.	
+41	Nunca has querido mi amistad.	
+42	Y te asustaba estar en deuda.	
+43	No quería correr ningún peligro.	
+44	Entiendo.	
+45	Tu paraíso era América.	
+46	La vida te iba bien, la policía te protegía y había tribunales de justicia.	
+47	No necesitabas a un amigo como yo.	
+48	Pero ahora vienes a mí a decir:	
+49	Don Corleone, pido justicia.	
+50	Pero pides sin ningún respeto.	
+51	No ofreces amistad.	
+52	Ni siquiera me llamas Padrino.	
+53	Vienes el día de la boda de mi hija y me pides que mate por dinero.	
+54	Lo que le pido es justicia.	
+55	Eso no es justicia.	
+56	Tu hija está viva.	
+57	Que sufran, como ella sufrió.	
+58	¿Cuánto tengo que pagarle?	
+59	Bonasera, Bonasera.	
+60	¿Qué he hecho para que me trates con tan poco respeto?	
+61	Si hubieras mantenido mi amistad, la escoria que arruinó a tu hija lo habría pagado con creces.	
+62	Y si un hombre honesto como tú tiene enemigos, son enemigos míos.	
+63	Y entonces te temerían.	
+64	¿Amigos?	
+65	¿Padrino?	
+66	Bien.	
+67	Algún día, y puede que nunca llegue, te pediré un servicio.	
+68	Pero hasta entonces... acepta esta justicia como regalo en el día de la boda de mi hija.	
+69	Grazie, Padrino.	
+70	Prego.	
+71	Que se encargue de esto Clemenza.	
+72	Quiero gente que no se entusiasme demasiado.	
+73	No somos asesinos, a pesar de lo que diga ese funerario.	
+74	¿Dónde está Michael?	
+75	No te preocupes, ya vendrá.	
+76	No quiero que hagan la foto sin Michael.	
+77	¿Qué pasa?	
+78	Michael.	
+79	Don Barzini.	
+80	¡Eh, Paulie!	
+81	Dame más vino.	
+82	¡Paulie!	
+83	Más vino.	
+84	Eres terrible bailando.	
+85	¿Te crees jurado del baile?	
+86	Date una vuelta y haz tu trabajo.	
+87	Sandra, vigila a los chicos.	
+88	Que estén tranquilos.	
+89	Tú vigílate a ti mismo, ¿de acuerdo?	
+90	20, 30 mil.	
+91	En billetes pequeños, en efectivo.	
+92	En esa cartera de seda.	
+93	Si ésta fuera la boda de otro...	
+94	¡Sfortunato!	
+95	¡Eh, Paulie!	
+96	[NO TRANSLATION]	missing translation
+97	¡Estúpido idiota!	
+98	¿Qué sucede?	
+99	Tengo que volver al trabajo.	
+100	Tom.	
+101	[NO TRANSLATION]	missing translation
+102	Como siciliano debe atender peticiones del día de la boda de su hija.	
+103	Don Corleone, es un honor y un placer que me haya invitado.	
+104	¡Fuera!	
+105	Es una fiesta privada.	
+106	¡Largo!	
+107	¿Qué pasa?	
+108	Es la boda de mi hermana.	
+109	¡Esta gentuza del FBI no respeta nada!	
+110	¡Ven aquí, ven aquí!	
+111	pero al final, le liberaron para ayudar al esfuerzo de guerra americano. Los últimos seis meses trabajó en mi pastelería.	
+112	Nazorine, ¿qué puedo hacer por ti?	
+113	Como la guerra ha terminado, a este chico, Enzo, quieren repatriarlo a Italia.	
+114	Padrino, tengo una hija.	
+115	Ella y Enzo...	
+116	Quieres que Enzo se quede en el país y que tu hija se case.	
+117	Usted lo comprende todo.	
+118	Sr. Hagen.	
+119	Gracias.	
+120	¡Espere a ver la tarta de boda que he hecho para su hija!	
+121	La novia, el novio y el ángel...	
+122	¿A quién le doy este trabajo?	
+123	No a nuestro paisà.	
+124	Que lo haga un diputado judío de otro distrito.	
+125	¿Quién más está en la lista?	
+126	¡Hola, Michael!	
+127	Él no está en la lista, pero Luca Brasi quiere verle.	
+128	¿Es necesario?	
+129	Él no esperaba ser invitado a la boda, y quiere darle las gracias.	
+130	Don Corleone, es un honor y un placer que me haya invitado... a la boda de su hija.	
+131	Que su primer hijo sea un chico.	
+132	Michael...	
+133	Ese hombre de ahí está hablando solo.	
+134	¿Ves ese tipo horrible de ahí?	
+135	Da miedo.	
+136	¿Cómo se llama?	
+137	Se llama Luca Brasi.	
+138	Ayuda a mi padre a veces.	
+139	¡Michael, viene para aquí!	
+140	¡Estás estupendo!	
+141	Mi hermano Tom Hagen, la Srta. Kay Adams.	
+142	Tu padre ha preguntado por ti.	
+143	Mucho gusto.	
+144	El gusto es mío.	
+145	Si es tu hermano, ¿por qué lleva otro apellido?	
+146	Mi hermano Sonny encontró a Tom Hagen en la calle.	
+147	No tenía casa, y mi padre lo recogió.	
+148	Ha vivido con nosotros desde entonces.	
+149	Es un buen abogado.	
+150	No es siciliano.	
+151	Creo que va a ser consigliere.	
+152	¿Eso qué es?	
+153	Eso es... como consejero, o asesor.	
+154	Muy importante para la familia.	
+155	¿Te gusta la lasaña?	
+156	Don Corleone.	
+157	Es un honor y un placer que me haya invitado a la boda de su hija.	
+158	En el día de la boda de su hija.	
+159	Y espero que su primer hijo sea un chico.	
+160	En prenda de mi eterna lealtad.	
+161	Para la bolsa nupcial de su hija.	
+162	Gracias, Luca.	
+163	Mi más valioso amigo.	
+164	Don Corleone, le dejo ahora, porque sé que está ocupado.	
+165	Gracias.	
+166	¡Signora Corleone!	
+167	¡No!	
+168	El senador Cauley se disculpa por no venir, pero dijo que lo entendería.	
+169	Lo mismo han dicho algunos jueces.	
+170	Todos han enviado regalos.	
+171	¿Qué ocurre ahí fuera?	
+172	¡Johnny!	
+173	¡Johnny!	
+174	¡Te quiero!	
+175	Ha venido desde California.	
+176	¡Te dije que vendría!	
+177	Seguramente tenga problemas.	
+178	Es un buen ahijado.	
+179	¡Johnny, Johnny!	
+180	¡Canta una canción!	
+181	¡No sabía que conocieras a Johnny Fontane!	
+182	Claro.	
+183	¿Te lo presento?	
+184	[NO TRANSLATION]	missing translation
+185	Claro que sí.	
+186	Mi padre le ayudó en su carrera.	
+187	¿Sí?	
+188	¿Cómo?	
+189	Escuchemos la canción.	
+190	Michael...	
+191	Por favor, Michael.	
+192	Cuéntame.	
+193	Cuando Johnny estaba empezando, firmó un contrato de servicio personal con un gran líder de banda.	
+194	Como su carrera fue de más a más, él quiso librarse.	
+195	Johnny es ahijado de mi padre.	
+196	Mi padre fue a ver al líder de banda.	
+197	Le ofreció 10.000 dólares por dejar a Johnny, pero el tipo se negó.	
+198	Al día siguiente, mi padre fue a verlo, pero esta vez con Luca Brasi.	
+199	En menos de una hora, firmó su liberación por un cheque de 1.000 dólares.	
+200	¿Cómo lo logró?	
+201	Con una oferta que no pudo rehusar.	
+202	¿Y cuál fue?	
+203	Luca Brasi le apuntó a la cabeza... y mi padre dijo que podía elegir entre sus sesos o su firma al pie del contrato.	
+204	Es una historia verídica.	
+205	Así es mi familia, Kay.	
+206	Pero yo no.	
+207	¡Precioso!	
+208	Yo me ocupo.	
+209	Tom...	
+210	Ve a buscar a Santino.	
+211	Dile que venga a mi despacho.	
+212	¿Cómo estás, Fredo?	
+213	Mi hermano Fredo, ésta es Kay Adams.	
+214	Hola.	
+215	¿Qué tal estás?	
+216	Éste es mi hermano Mike.	
+217	¿Lo estáis pasando bien?	
+218	Sí.	
+219	¿Es tu amiga?	
+220	Yo no sé qué hacer.	
+221	Estoy perdiendo la voz.	
+222	[NO TRANSLATION]	missing translation
+223	Si me dieran el papel en la película, eso me lanzaría de nuevo.	
+224	Pero ese... hombre no quiere dármelo, es el amo del estudio.	
+225	¿Cómo se llama?	
+226	Woltz.	
+227	No me lo dará, y dice que no tengo posibilidades.	
+228	¿Sonny?	
+229	¿Sonny?	
+230	¿Sonny?	
+231	Sonny, ¿estás ahí?	
+232	¿Qué?	
+233	El viejo quiere verte.	
+234	Un momento.	
+235	Hace un mes compró los derechos de esa novela para el cine.	
+236	El protagonista es un tipo como yo.	
+237	No tendría ni siquiera que actuar.	
+238	Padrino, ¿qué va a ser de mí?	
+239	¡Actuar como un hombre!	
+240	¿Qué demonios te pasa?	
+241	¿Te has convertido en un mariquita de Hollywood y lloras como una mujer?	forced duplication
+242	¿Te has convertido en un mariquita de Hollywood y lloras como una mujer?	forced duplication
+243	¿Qué puedo hacer?	
+244	¿Qué puedo hacer?	
+245	¡Qué tontería!	
+246	Ridículo.	
+247	¿Pasas tiempo con tu familia?	
+248	Claro.	
+249	Bien.	
+250	Un hombre que no pasa tiempo con su familia no puede ser un hombre.	
+251	Tienes mal aspecto.	
+252	Quiero que comas.	
+253	Descansa, en un mes Hollywood te dará lo que quieres.	
+254	Es demasiado tarde, empiezan a rodar en una semana.	
+255	Le voy a hacer una oferta que no rechazará.	
+256	Vuelve a la fiesta y diviértete. Olvídate de todas estas tonterías.	
+257	Déjalo todo en mis manos.	
+258	Está bien.	
+259	¿A qué hora parte mi hija?	
+260	Pronto, en cuanto corten la tarta.	
+261	¿Le damos a su yerno algo importante?	
+262	Nunca.	
+263	Que viva bien, pero que no intervenga en la familia.	
+264	¿Qué más?	
+265	Virgil Sollozzo llamó.	
+266	Debemos verlo la semana que viene.	
+267	Cuando vuelvas de California.	
+268	¿Cuándo voy a ir a California?	
+269	Esta noche.	
+270	Quiero que veas a ese pez gordo, y soluciones este tema para Johnny.	
+271	Si no hay nada más, me gustaría volver a la boda de mi hija.	
+272	Carlo, vamos a hacer la foto.	
+273	Espera un minuto.	
+274	No, Michael.	
+275	Yo no.	
+276	Muy bien.	
+277	Justo así.	
+278	¡Quietos!	
+279	Necesitas más calor en ese arco.	
+280	Larga lo que sea.	
+281	Represento a un amigo de Johnny Fontane.	
+282	Este amigo concederá su amistad al Sr. Woltz, si el Sr. Woltz nos hace un pequeño favor.	
+283	Woltz te escucha.	
+284	Que sea Johnny el protagonista de la película de guerra que va a empezar.	
+285	¿Y qué clase de favor puede hacerle ese amigo al Sr. Woltz?	
+286	Puede hacer que desaparezcan sus problemas con el sindicato.	
+287	Y una de sus estrellas se ha pasado de la marihuana a la heroína.	
+288	¿Pretendes asustarme?	
+289	¡Escucha, hijo de puta!	
+290	Que quede claro.	
+291	Johnny Fontane nunca trabajará en la película.	
+292	¡Yo no me bajo los pantalones por muchos italianos que vengan a joder!	
+293	Soy germano-irlandés.	
+294	Es más, amigo nazi católico.	
+295	¡Os voy a armar un follón!	
+296	Soy abogado.	
+297	No le he amenazado...	
+298	Conozco a los mejores abogados de Nueva York.	
+299	¿Quién eres tú?	
+300	Mi caso es especial.	
+301	Tengo un solo cliente.	
+302	Espero su llamada.	
+303	A propósito, soy un admirador de sus películas.	
+304	Échalo.	
+305	Realmente precioso.	
+306	Mire esto.	
+307	Decoraba el palacio de un rey.	
+308	Magnífico.	
+309	¿Por qué no dijo que trabajaba para Corleone?	
+310	Pensé que era un chulo barato que Johnny usaba para asustarme.	
+311	Sólo uso su nombre si es necesario.	
+312	¿Qué le parece el vino?	
+313	Exquisito.	
+314	Quiero enseñarle algo precioso.	
+315	Usted sabe apreciar la belleza, ¿verdad?	
+316	Aquí tiene.	
+317	600.000 dólares sobre cuatro patas.	
+318	Ni los zares de Rusia soltaron tanta pasta por un caballo.	
+319	Khartoum.	
+320	Khartoum.	
+321	No lo voy a hacer correr.	
+322	Lo reservo para semental.	
+323	Gracias, Tony.	
+324	Habrá que comer algo.	
+325	Corleone es el padrino de Johnny.	
+326	Para los italianos es un vínculo religioso, casi sagrado.	
+327	Lo respeto.	
+328	Me puede pedir lo que sea,	
+329	pero ese favor es imposible.	
+330	Él nunca pide un segundo favor si se le niega el primero.	
+331	Ustedes no entienden.	
+332	Johnny Fontane no trabajará en la película.	
+333	Ese papel es perfecto para él.	
+334	Le convertiría en una estrella.	
+335	Yo le quiero echar del negocio, y le voy a decir por qué.	
+336	Johnny Fontane robó a Woltz International su más valiosa promesa.	
+337	La formamos durante cinco años.	
+338	Clase de canto, interpretación y baile.	
+339	He gastado en ella miles de dólares para convertirla en una gran estrella.	
+340	Y le seré aún más franco,	
+341	para que vea que no soy un tipo insensible	
+342	que sólo piensa en el dinero.	
+343	Era preciosa.	
+344	¡Era joven e inocente!	
+345	La tía más sexy que he tenido y he tenido muchas en todo el mundo.	
+346	Y Johnny Fontane se presentó con su voz empalagosa y pinta de siciliano.	
+347	Y ella se largó con él.	
+348	¡Lo echó todo a perder para ponerme en ridículo!	
+349	¡Un hombre con mi posición no aguanta que le pongan en ridículo!	
+350	¡Y ahora largo de aquí!	
+351	Y si ese macarrón intenta fastidiar, dile que no soy el líder de la banda.	
+352	Sí, ya conozco la historia.	
+353	Gracias por la cena y por una agradable velada.	
+354	¿Puede llevarme su coche al aeropuerto?	
+355	Al Sr. Corleone le gusta que le informen inmediatamente.	
+356	¿Estás cansado, Tom?	
+357	No, he dormido en el avión.	
+358	Tengo aquí el informe de Sollozzo.	
+359	Veamos...	
+360	Sollozzo, alias el Turco.	
+361	Muy rápido con el cuchillo, pero sólo lo utiliza cuando tiene dificultades en los negocios.	
+362	Se dedica a la droga.	
+363	Tiene plantaciones en Turquía donde cultiva el opio.	
+364	En Sicilia tiene plantas para convertirlo en heroína.	
+365	Necesita fondos y, además, protección de la policía.	
+366	Está dispuesto a ceder una parte.	
+367	No sé la cifra.	
+368	La familia Tattaglia le respalda aquí.	
+369	Deben estar metidos en el asunto.	
+370	¿Antecedentes penales?	
+371	Un proceso en Italia, otro aquí.	
+372	En los narcóticos es un punto fuerte.	
+373	Santino, ¿qué piensas?	
+374	Hay mucho dinero en el polvo blanco.	
+375	¿Tom?	
+376	Sí.	
+377	Hay más dinero en las drogas que en cualquier otra cosa.	
+378	Si no nos metemos, lo harán otros, una de las cinco familias, o todas.	
+379	Con ese dinero podrán comprar más policía y poder político.	
+380	Y luego vendrán a por nosotros.	
+381	Dominamos los sindicatos y el juego, pero la droga es el negocio del futuro.	
+382	Si dejamos pasar esta oportunidad, perderemos todo en diez años.	
+383	¿Qué?	
+384	¿Cuál es tu respuesta, papá?	
+385	Don Corleone.	
+386	Necesito un hombre que tenga amigos influyentes.	
+387	Y un millón de dólares en la mano.	
+388	Necesito los políticos que se ha metido en el bolsillo, como si fueran calderilla.	
+389	¿Qué parte habría para la familia?	
+390	El 30%.	
+391	El primer año usted ganará tres o cuatro millones de dólares.	
+392	De ahí, para arriba.	
+393	¿Y cuánto se lleva la familia Tattaglia?	
+394	Mi enhorabuena.	
+395	Yo me ocupo de ellos, a partir de mi parte.	
+396	¿Así que recibo el 30% por financiarle, influencia política y protección legal?	
+397	Exacto.	
+398	¿Por qué viene a mí?	
+399	¿A qué debo tanta generosidad?	
+400	Si considera un millón de dólares en mano una modesta financiación, vi saluto, Don Corleone.	
+401	Dije que le recibiría porque he oído que usted es un hombre serio, que hay que respetar.	
+402	Pero, debo contestar que no.	
+403	Y le daré mis razones.	
+404	Es cierto, tengo amigos en la política.	
+405	Dejarían de serlo si oyen que estoy metido en drogas en lugar del juego, para ellos el juego es un vicio inocente y las drogas un negocio sucio.	
+406	Me es indiferente lo que un hombre haga para ganarse la vida.	
+407	Pero su negocio es... un poco peligroso.	
+408	Si le preocupa la seguridad, los Tattaglia la garantizarán.	
+409	Si los Tattaglia garantizan nuestra...	
+410	Un momento.	
+411	Siento ciertas debilidades por mis hijos, y los mimo.	
+412	Hablan cuando deberían escuchar.	
+413	De todos modos...	
+414	Señor Sollozzo, mi no es firme.	
+415	Deseo felicitarle por su nuevo negocio.	
+416	Sé que le irá muy bien y buena suerte.	
+417	Sus intereses no se enfrentarán con los míos.	
+418	Gracias.	
+419	Santino.	
+420	Ven aquí.	
+421	¿Qué te pasa?	
+422	Se te están ablandando los sesos de tanto jugar con esa chica.	
+423	Nunca digas a ningún extraño lo que estás pensando.	
+424	Anda.	
+425	Tom, ¿a qué viene esa tontería?	
+426	Lo envía Johnny.	
+427	Va a protagonizar esa nueva película.	
+428	Quítalo de aquí.	
+429	Llévatelo.	
+430	Y... dile a Luca Brasi que venga.	
+431	Empiezo a estar preocupado con ese Sollozzo.	
+432	Averigua qué se trae entre manos.	
+433	Ve a ver a los Tattaglia.	
+434	Dales a entender que no estás muy a gusto con nuestra familia y a ver lo que sacas.	
+435	Tengo algo para tu madre y para Sonny, una corbata para Freddy, y una pluma Reynolds para Tom Hagen.	
+436	¿Y tú qué quieres por Navidad?	
+437	Te quiero a ti.	
+438	Andiamo, Fredo.	
+439	Dile a Paulie que traiga el coche.	
+440	Vale, papá.	
+441	Tendré que llevarte yo.	
+442	Paulie llamó está mañana y está enfermo.	
+443	Paulie es un buen chico.	
+444	No me importa llevar el coche.	
+445	Buon Natale, caro.	
+446	Grazie.	
+447	¡Luca!	
+448	Soy Bruno Tattaglia.	
+449	Lo sé.	
+450	¿Sabes quién soy?	
+451	Sé quién es usted.	
+452	Ha estado hablando con la familia Tattaglia, ¿no?	
+453	Creo que podemos hacer algún negocio.	
+454	Necesito a alguien fuerte como usted.	
+455	He oído que no está contento con la familia Corleone.	
+456	¿Quiere unirse a mí?	
+457	¿Qué beneficio sacaré?	
+458	50.000 dólares, para empezar.	
+459	¡No está mal!	
+460	¿De acuerdo?	
+461	¡Tom!	
+462	Tom Hagen.	
+463	Feliz Navidad.	
+464	Me alegra verte.	
+465	Debo decirte algo.	
+466	No tengo tiempo.	
+467	Haz tiempo, Consigliere.	
+468	Sube al coche.	
+469	¿De qué tienes miedo?	
+470	Si quisiera liquidarte, ya lo habría hecho.	
+471	Sube.	
+472	Fredo, voy a comprar algo de fruta.	
+473	Vale, papá.	
+474	Feliz Navidad.	
+475	Quiero algo de fruta.	
+476	¿Te gustaría más si yo fuese una monja?	
+477	Como en la película.	
+478	No.	
+479	¿Y si fuera Ingrid Bergman?	
+480	Mira, es una idea.	
+481	Michael.	
+482	No, no me gustarías más si fueses Ingrid Bergman.	
+483	¿Qué te pasa?	
+484	No dicen si está vivo o muerto.	
+485	Sonny, soy Michael.	
+486	¿Dónde estabas?	
+487	¿Está bien?	
+488	Aún no lo sabemos.	
+489	Se cuentan muchas historias.	
+490	Es grave, Mikey.	
+491	¿Sigues ahí?	
+492	Sí, estoy aquí.	
+493	¿Dónde estabas?	
+494	Estaba inquieto.	
+495	Hablé con Tom. ¿No te lo dijo?	
+496	No.	
+497	Escucha, ven a casa, chico.	
+498	Debes estar con mamá, ¿me oyes?	
+499	¡Dios mío!	
+500	¡Sonny!	
+501	Métete ahí.	
+502	¿Quién es?	
+503	Abre, soy Clemenza.	
+504	Hay más noticias sobre tu viejo.	
+505	Se dice que ya está muerto.	
+506	¿Qué te pasa?	
+507	¡Calma!	
+508	¿Dónde estaba Paulie?	
+509	Enfermo.	
+510	Lleva malo todo el invierno.	
+511	¿Cuántas veces?	
+512	Tres o cuatro.	
+513	Freddy no quería otro guardaespaldas.	
+514	Búscalo ahora mismo.	
+515	No me importa cómo esté.	
+516	Llévalo a casa de mi padre ya.	
+517	¿Quieres que mandemos a alguien?	
+518	No. Sólo tú y él.	
+519	[NO TRANSLATION]	missing translation
+520	Voy a hacer que manden a casa a dos de los nuestros.	
+521	¿Diga?	
+522	¿Santino Corleone?	
+523	Sí.	
+524	Tenemos a Tom Hagen.	
+525	Dentro de tres horas lo soltaremos con nuestra proposición.	
+526	Escucha todo lo que te diga antes de hacer nada.	
+527	Lo hecho, hecho está.	
+528	No pierdas los estribos como siempre, Sonny.	
+529	Esperaré.	
+530	Tu jefe está muerto.	
+531	Ya sé que eres el cerebro de la familia. No debes temer nada.	
+532	Quiero que ayudes a los Corleone y a mí.	
+533	Lo cazamos frente a su oficina una hora antes de recogerte.	
+534	¿Un trago?	
+535	Depende de ti que no haya problemas entre Sonny y yo.	
+536	A Sonny le iba mi plan, ¿verdad?	
+537	Y tú sabías que era lo que había que hacer.	
+538	Sonny irá a por ti.	
+539	Ésa será su primera reacción, claro.	
+540	Tú tendrás que hacerle comprender.	
+541	La familia Tattaglia está de mi lado.	
+542	Las otras familias de Nueva York harán lo que sea por evitar una guerra.	
+543	Con el todo debido respeto, el Don, que en paz descanse, chocheaba.	
+544	Hace diez años, ¿me lo hubiese podido cargar?	
+545	Ahora está muerto, Tom, y nada lo va a resucitar.	
+546	Tienes que hablar con Sonny, los Caporegime, Tessio y Clemenza.	
+547	Es un buen negocio, Tom.	
+548	Lo intentaré.	
+549	Pero ni siquiera Sonny podrá contener a Luca Brasi.	
+550	Ya, bueno...	
+551	Déjame a mí lo de Luca.	
+552	Tú convence a Sonny.	
+553	Y a los otros dos.	
+554	Haré lo que pueda.	
+555	Bien.	
+556	Ahora, puedes irte.	
+557	No me gusta la violencia, Tom.	
+558	Soy un hombre de negocios.	
+559	La sangre cuesta cara.	
+560	Está vivo.	
+561	¡Le han pegado cinco tiros y sigue vivo!	
+562	Mala suerte para mí, y para ti si no arreglas este asunto.	
+563	Tu madre está en el hospital con tu padre.	
+564	Creo que se salvará.	
+565	Demasiada sangre.	
+566	Sollozzo, Philip y Bruno Tattaglia, Ramón...	
+567	¿Vas a acabar con todos?	
+568	No te metas en esto.	
+569	Si eliminas a Sollozzo, lo demás caerá seguido.	
+570	¿Qué hay de Luca?	
+571	Sollozzo piensa que puede controlarlo.	
+572	Si Luca abandona, las cosas se pondrán difíciles.	
+573	¿Ha dado alguien con él?	
+574	Llevo intentándolo todo la noche.	
+575	Oye, hazme un favor...	
+576	Luca nunca duerme con una fulana.	
+577	Bien, Tom, eres consigliere.	
+578	¿Qué hacemos si se muere el padre?	
+579	Si perdemos al viejo, perdemos contactos políticos y nuestra influencia.	
+580	Las otras familias pactarán con Sollozzo para evitar una guerra.	
+581	Estamos en 1946.	
+582	Nadie quiere ya sangre.	
+583	Si se muere tu padre... firma el trato, Sonny.	
+584	Fácil de decirlo.	
+585	No es tu padre.	
+586	Soy para él como tú o Mike.	
+587	¿Quién es?	
+588	Paulie, te dije que no te movieras.	
+589	El chico de la puerta tiene un paquete.	
+590	Tessio, ve a ver qué es.	
+591	¿Me quedo aquí?	
+592	Sí.	
+593	¿Cómo estás?	
+594	Estoy bien.	
+595	Hay comida.	
+596	¿Tienes hambre?	
+597	No.	
+598	¿Whisky?	
+599	Te hará sudar.	
+600	Anda.	
+601	No es mala idea.	
+602	Encárgate de este hijo de puta.	
+603	Paulie traicionó al viejo.	
+604	Ponlo el primero en tu lista.	
+605	Entendido.	
+606	Mickey, mañana, agarras a dos y te vas al apartamento de Luca.	
+607	Creo que no deberíamos mezclar a Mike en nada de esto.	
+608	Si te quedas en casa junto al teléfono, sería de gran ayuda.	
+609	Llama a Luca.	
+610	¿Qué es esto?	
+611	Un mensaje siciliano.	
+612	Significa que Luca Brassi está durmiendo con los peces.	
+613	Me voy.	
+614	¿A qué hora vuelves?	
+615	No lo sé. Puede que tarde.	
+616	¡No te olvides de los cannoli!	
+617	Sí, sí, sí.	
+618	Rocco, ponte al otro lado.	
+619	No veo por el retrovisor.	
+620	Sonny está loco.	
+621	Está convencido de los colchones.	
+622	Hay que encontrar un sitio en el West Side.	
+623	Prueba 309 Oeste, C/43.	
+624	¿Conoces algún sitio en el West Side?	
+625	Lo pensaré.	
+626	Piensa mientras conduces.	
+627	Quiero llegar a Nueva York este mes.	
+628	Cuidado con los chicos.	
+629	Ve a la C/39, compra 18 colchones y me pasas la cuenta.	
+630	Está bien.	
+631	Procura que estén limpios porque se van a quedar una temporada.	
+632	Están limpios y exterminados.	
+633	Vaya palabra.	
+634	¡Exterminado!	
+635	¡Cuidado, no te exterminemos a ti!	
+636	Para.	
+637	Voy a echar un pis.	
+638	Suelta el arma.	
+639	Trae los cannoli.	
+640	¡Eh, Mike!	
+641	¡Mikey!	
+642	Sí.	
+643	¡Te llaman al teléfono!	
+644	¿Quién es?	
+645	Una chica.	
+646	Hola.	
+647	¿Kay?	
+648	¿Cómo está tu padre?	
+649	Creo que se salvará.	
+650	Te quiero.	
+651	¡Te quiero!	
+652	¿Michael?	
+653	Sí, ya lo sé.	
+654	Dime que me quieres.	
+655	No puedo hablar.	
+656	¿No puedes decirlo?	
+657	Te veré esta noche.	
+658	¿Por qué no le dices de una vez que la quieres?	
+659	Te amo con el corazón.	
+660	¡Si no te veo pronto, me moriré!	
+661	Ven y aprende algo.	
+662	Puede que algún día tengas que guisar para 20.	
+663	Primero echas un poco de aceite, luego fríes un ajo.	
+664	Añades tomate, y lo rehogas procurando que no se pegue.	
+665	Lo pones a hervir, echas las salchichas y las albóndigas...	
+666	Y añades un poco de vino.	
+667	Y un poco de azúcar.	
+668	Es mi truco.	
+669	Ya vale.	
+670	Tienes cosas más importantes que hacer.	
+671	¿Qué es de Paulie?	
+672	No lo verás más.	
+673	¿Adónde vas?	
+674	Al centro.	
+675	Manda un par de guardaespaldas.	
+676	Voy al hospital...	
+677	¿Qué le puede pasar?	
+678	Sollozzo sabe que éste no cuenta.	
+679	Ten cuidado.	
+680	Sí, señor.	
+681	De todas maneras, que lo acompañen.	
+682	Tengo que irme.	
+683	¿No voy contigo?	
+684	No, Kay.	
+685	Habrá allí detectives y gente de la prensa.	
+686	Me iré en un taxi.	
+687	No quiero verte envuelta en esto.	
+688	¿Cuándo te voy a ver?	
+689	Vuelve a New Hampshire, y te llamaré a casa de tus padres.	
+690	Michael, ¿te voy a ver de nuevo?	
+691	No lo sé.	
+692	¿Qué hace aquí?	
+693	Aquí no se puede estar.	
+694	Soy Michael Corleone.	
+695	Éste es mi padre.	
+696	¿Dónde están los guardas?	
+697	Su padre tenía muchas visitas.	
+698	Interferían con el servicio del hospital.	
+699	La policía ordenó que se fueran hace unos diez minutos.	
+700	Póngame con Long Beach 45620, por favor.	
+701	Enfermera.	
+702	Espere.	
+703	Quédese.	
+704	Sonny, estoy en el hospital.	
+705	Aquí pasa algo, no hay nadie.	
+706	Ni los hombres de Tessio, ni detectives. Nadie.	
+707	Papá está solo.	
+708	No te asustes.	
+709	No me asusto.	
+710	Lo siento, pero tiene usted que marcharse.	
+711	Vamos a llevarlo a otro cuarto.	
+712	¿Puede usted desconectar los tubos?	
+713	¡Eso es imposible!	
+714	¿Sabe quién es mi padre?	
+715	Van a venir a matarlo.	
+716	¿Me entiende?	
+717	Ayúdeme, por favor.	
+718	¿Quién eres?	
+719	Soy Enzo, el pastelero.	
+720	¿No te acuerdas?	
+721	Enzo.	
+722	Es mejor que te marches, va a haber jaleo.	
+723	Si va a haber jaleo, me quedo contigo.	
+724	Por tu padre.	
+725	Oye,	
+726	me esperas ahí fuera, frente al hospital, ¿estamos?	
+727	Yo salgo enseguida.	
+728	Aquí estarás mejor, papá.	
+729	Yo cuidaré de ti.	
+730	Estoy contigo.	
+731	Contigo.	
+732	Tira eso.	
+733	Ven aquí.	
+734	Métete la mano en el bolsillo como si llevaras un arma.	
+735	No pasa nada.	
+736	Muy bien.	
+737	¡Creía que había limpiado de italianos el hospital!	
+738	¿Por qué no vigila nadie a mi padre?	
+739	¡Oye, guapo!	
+740	¡No te metas en mis asuntos!	
+741	Aquí soy yo el que manda.	
+742	¡No aparezcas por este hospital!	
+743	No hasta que mi padre esté vigilado.	
+744	¡Phil, llévatelo!	
+745	Es un buen chico, capitán.	
+746	Es un héroe de guerra.	
+747	No está...	
+748	¡Que lo apartes de mi vista!	
+749	¿Le paga el Turco, capitán?	
+750	Agarradlo.	
+751	Sujetadlo.	
+752	Que no se mueva.	
+753	Soy el abogado de los Corleone.	
+754	Los detectives protegen a Vito Corleone.	
+755	Tienen licencia para llevar armas.	
+756	Si se interpone, tendré que ir al juez y presentar la denuncia.	
+757	Soltadlo.	
+758	¿Por qué tanta gente nueva?	
+759	Hacen falta.	
+760	Con lo del hospital, Sonny está furioso.	
+761	Matamos a Bruno Tattaglia esta madrugada.	
+762	¡Dios!	
+763	Esto parece una fortaleza.	
+764	[NO TRANSLATION]	missing translation
+765	Oye, picapleitos, quiero hombres en la calle las 24 horas del día.	
+766	Si el Turco asoma el pelo, nos lo cargamos.	
+767	Mike, deja que te vea.	
+768	Estás muy guapo, guapísimo.	
+769	Arrebatador.	
+770	¡El Turco quiere hablar!	
+771	¿Qué os parece ese hijo de puta?	
+772	Quiero que nos reunamos hoy.	
+773	¿Qué dijo?	
+774	¿Qué dijo?	
+775	Que mandemos a Michael a oír su proposición.	
+776	Nos promete que el trato es demasiado bueno para rechazarlo.	
+777	¿Y Bruno Tattaglia?	
+778	Ésa es la otra parte del trato.	
+779	Ha desmentido lo que hicieron.	
+780	Hay que oír lo que proponen.	
+781	¡Ya vale!	
+782	No esta vez, Consigliere.	
+783	No más reuniones, discusiones o trucos de Sollozzo.	
+784	Quiero a Sollozzo, o si no la guerra...	
+785	Las otras familias...	
+786	¡Que me den a Sollozzo!	
+787	¡Esto es un negocio, nada personal!	
+788	Dispararon a mi padre...	
+789	También era negocio, nada personal.	
+790	Entonces, el negocio deberá esperar.	
+791	Hazme un favor.	
+792	No más consejos sobre lo que debo hacer.	
+793	Limítate a que gane.	
+794	Sé algo de ese capitán McCluskey, que le partió la cara a Mike.	
+795	Es evidente que Sollozzo le paga, y mucho dinero.	
+796	McCluskey va a servir al Turco de guardaespaldas.	
+797	Mientras Sollozzo esté protegido, es invulnerable.	
+798	Nadie ha matado nunca a un capitán de policía de Nueva York.	
+799	Las cinco familias irían a por ti.	
+800	¡Los Corleone quedarían fuera!	
+801	Hasta la famosa protección política del viejo huiría de nosotros.	
+802	Hazme ese favor.	
+803	Piénsalo.	
+804	Está bien, esperaremos.	
+805	No podemos esperar.	
+806	No podemos esperar.	
+807	No importa lo que diga Sollozzo, quiere acabar con papá.	
+808	Es lo más importante para él.	
+809	Hay que ir a por Sollozzo.	
+810	Mike tiene razón.	
+811	Te quiero hacer una pregunta.	
+812	¿Qué hacemos con ese McCluskey?	
+813	¿Qué hacemos con ese poli?	
+814	Quieren reunirse conmigo, ¿no?	
+815	Yo mismo hablaré con McCluskey y Sollozzo.	
+816	Fijemos la reunión.	
+817	Que nuestros informadores averigüen dónde tendrá lugar.	
+818	Preferiría en un lugar público.	
+819	Un bar, un restaurante.	
+820	Donde haya gente y esté a salvo.	
+821	Querrán registrarme en cuanto me vean, ¿no?	
+822	No podré llevar armas encima.	
+823	Pero si Clemenza encuentra el medio de dejar una pistola a mi alcance... mataré a los dos.	
+824	Vaya con el colegial.	
+825	No querías mezclarte en los asuntos de familia...	
+826	y ahora vas a cargarte a un capitán de policía porque te dio una torta.	
+827	Esto no es el ejército.	
+828	Aquí te acercas, les vuelas los sesos y que te salpique.	
+829	Te lo estás tomando personalmente.	
+830	Tom, esto es un negocio y él se lo toma personalmente.	
+831	¿Está prohibido cargarse a un poli?	
+832	Mikey...	
+833	Me refiero a un poli que está metido en drogas, un poli corrupto.	
+834	Un poli metido en el tráfico y que va a recibir lo que se merece.	
+835	Sería una noticia sensacional.	
+836	¿Acaso no hay periodistas en nómina?	
+837	Quizá les guste una historia así.	
+838	Quizá.	
+839	No es personal, Sonny.	
+840	Sólo negocio.	
+841	Está preparado.	
+842	Imposible de seguir, no te preocupes por las huellas.	
+843	Lleva cinta adhesiva en el gatillo y la culata.	
+844	Prueba.	
+845	¿Está duro el gatillo?	
+846	¡Mis oídos!	
+847	Lo dejé adrede, así los infelices del local se quedarán clavados.	
+848	Disparas a los dos.	
+849	Y después, ¿qué haces?	
+850	Sentarme y acabar mi cena.	
+851	No hagas tonterías.	
+852	Dejas caer el brazo y sueltas el arma.	
+853	Todos creerán que la conservas.	
+854	Te estarán mirando a la cara, escapa deprisa, pero sin correr.	
+855	Sin fijar la mirada en nadie, pero sin dejar de mirar.	
+856	Ellos tendrán miedo de ti, no debes temer nada.	
+857	Todo saldrá bien.	
+858	Luego vacaciones, nadie sabrá dónde, y para nosotros el jaleo.	
+859	¿Cómo crees que acabará?	
+860	Pues, bastante mal.	
+861	Las otras familias irán probablemente contra nosotros.	
+862	Esto pasa cada cinco o diez años.	
+863	Ayuda a soltar la mala sangre.	
+864	La última fue hace diez años.	
+865	Habría que haber cortado por lo sano.	
+866	Igual que con Hitler en Munich, para que no se saliera con la suya.	
+867	[NO TRANSLATION]	missing translation
+868	Mike, estamos orgullosos de ti.	
+869	Eres un héroe y todo eso.	
+870	Tu padre también.	
+871	Nada.	
+872	Ni rastro.	
+873	Absolutamente nada.	
+874	Ni siquiera la gente de Sollozzo sabe dónde vais a encontraros.	
+875	¿Cuánto tiempo tenemos?	
+876	Te recogerán en el bar de Jack Dempsey dentro de hora y media.	
+877	¿Quieres que lo sigamos?	
+878	Sollozzo nos daría esquinazo.	
+879	¿Dónde está el intermediario?	
+880	Jugando al póker con mis hombres.	
+881	Está contento.	
+882	Le dejan ganar.	
+883	Muy peligroso.	
+884	Sería mejor abandonar.	
+885	El intermediario juega a las cartas hasta que Mike vuelva sano y salvo.	
+886	Que se cargue a los del coche.	
+887	Lo tendrán previsto.	
+888	¡Puede que Solozzo ni siquiera vaya en él!	
+889	Yo lo cojo.	
+890	Restaurante Louis en el Bronx.	
+891	¿Es de fiar?	
+892	Es mi tipo en el grupo de McCluskey.	
+893	Un capitán está de guardia 24 horas al día.	
+894	Estará allí entre las 8 y las 10.	
+895	¿Alguien lo conoce?	
+896	Sí, señor.	
+897	Es perfecto para nosotros.	
+898	Ambiente familiar, buena comida.	
+899	Nadie conoce a nadie.	
+900	Perfecto.	
+901	Tiene un retrete antiguo.	
+902	Ya sabes, con cisterna y cadena.	
+903	Un sitio muy apropiado para esconder la pistola.	
+904	Eso es.	
+905	Mike, tú llegas al restaurante, vas comiendo, hablas un rato	
+906	y así los calmas.	
+907	Luego vas a mear.	
+908	No, mejor les pides permiso antes.	
+909	Luego vuelves	
+910	y sin darles tiempo les metes dos balas en la cabeza.	
+911	Quiero alguien muy hábil que sepa esconder el arma.	
+912	No quiero que salga sólo con la polla en las manos.	
+913	El arma estará allí.	
+914	Vas con el coche y lo recoges.	
+915	Vamos, en marcha.	
+916	¿Te dijo que te deshicieras enseguida de la pistola?	
+917	Sí, un millón de veces.	
+918	Recuerda.	
+919	En cuanto llegues, dos tiros en la cabeza a cada uno.	
+920	¿Hasta cuándo no podré volver?	
+921	Por lo menos un año.	
+922	Yo hablaré con mamá, será mejor que no te despidas de ella...	
+923	Me pondré en contacto con esa chica cuando sea oportuno.	
+924	Cuídate.	
+925	Cuídate, Mike.	
+926	Me alegra que hayas venido.	
+927	Espero que todo se arregle.	
+928	Éste no es mi modo de hacer negocios.	
+929	No tenía que haber pasado.	
+930	Quiero arreglarlo todo.	
+931	No quiero que molesten a mi padre.	
+932	Juro por mis hijos que nunca más, Mike.	
+933	Pero tienes que fijarte bien cuando hablemos.	
+934	Espero que no seas como tu hermano Sonny.	
+935	No se puede hacer negocios.	
+936	Es un buen chico.	
+937	Siento lo de la otra noche, Mike.	
+938	Tengo que cachearte, date la vuelta.	
+939	De rodillas, frente a mí.	
+940	Creo que soy demasiado viejo y gruñón para este trabajo.	
+941	[NO TRANSLATION]	missing translation
+942	No aguanto que me provoquen.	
+943	Ya sabes lo que pasa.	
+944	Está limpio.	
+945	¿Vamos a Jersey?	
+946	Puede.	
+947	Bravo, Lou.	
+948	¿Qué tal se come aquí?	
+949	Pide ternera.	
+950	La mejor de la ciudad.	
+951	La probaré.	
+952	Voy a hablar en italiano con Mikey.	
+953	Adelante.	
+954	Lo que quiero...	
+955	Lo más importante para mí... es alguna garantía	
+956	de que no van a atentar contra la vida de mi padre.	
+957	¿Qué garantía puedo darte, Mike?	
+958	¡Soy yo a quien han cazado!	
+959	Perdí mi oportunidad.	
+960	Me valoras demasiado, chico.	
+961	No soy tan listo.	
+962	Lo único que quiero es una tregua.	
+963	Necesito ir al lavabo.	
+964	¿Puedo?	
+965	Si tienes que ir, ve.	
+966	[NO TRANSLATION]	missing translation
+967	Está limpio.	
+968	No tardes.	
+969	He cacheado a muchos de éstos.	
+970	Vale, ahora tú.	
+971	Te quiero, abuelo.	
+972	Lo siento, papá.	
+973	Aún no te conoce.	
+974	Oye, grandullón.	
+975	Dásela al abuelo.	
+976	Vale.	
+977	Espero que te pongas bien, abuelo, y verte pronto.	
+978	Tu nieto, Frank.	
+979	Ve con tu madre.	
+980	Llévalos abajo.	
+981	Vamos, Carlo, tú también.	
+982	Vamos.	
+983	¿Qué te pasa, Carlo?	
+984	Calla y pon la mesa.	
+985	Desde lo de McCluskey, la policía no ha dejado de vigilarnos.	
+986	Y también las otras familias.	
+987	Ha corrido mucha sangre.	
+988	Nos atacaron, y les atacamos.	
+989	Con nuestros contactos en la prensa hemos sacado mucho material... sobre la relación de McCluskey con Sollozzo en el tráfico de drogas.	
+990	Las cosas empiezan a arreglarse.	
+991	Voy a mandar a Fredo a Las Vegas, bajo la protección de Don Francesco.	
+992	Quiero que descanse.	
+993	Quiero trabajar en el casino.	
+994	¿Dónde está Michael?	
+995	Michael mató a Sollozzo.	
+996	Está a salvo.	
+997	Procuraremos traerlo pronto.	
+998	¿Averiguaste dónde se esconde el chulo de Tattaglia?	
+999	Lo quiero ya.	
+1000	Sonny, las cosas se están arreglando.	
+1001	Si vas a por Tattaglia, se complicará todo.	
+1002	Papá puede negociar.	
+1003	Que se recupere.	
+1004	Yo decidiré...	
+1005	La guerra es costosa.	
+1006	No hay dinero.	
+1007	Ellos tampoco.	
+1008	No pienses más.	
+1009	No es rentable un pie de guerra.	
+1010	[NO TRANSLATION]	missing translation
+1011	¡Voy a matar a ese cabrón!	
+1012	¡Así te ganas una gran reputación!	
+1013	¡Haz lo que digo!	
+1014	Si tuviera un siciliano no estaría metido en este lío.	
+1015	Papá tenía a Genco.	
+1016	¿Yo a quién tengo?	
+1017	Lo siento.	
+1018	Lo siento de veras.	
+1019	Mamá ha hecho la cena.	
+1020	Es domingo.	
+1021	Los negros se están aprovechando de nuestra situación en Harlem.	
+1022	Conducen Cadillacs nuevos, y pagan la mitad en una apuesta.	
+1023	Eso es porque han empezado a hacer dinero.	
+1024	Papá nunca habla de negocios en la mesa.	
+1025	Connie, cierra la boca...	
+1026	Tú no le dices que se calle.	
+1027	Tú no te metas.	
+1028	Me gustaría hablar después de la cena.	
+1029	Puedo ayudar más a la familia...	
+1030	No hablemos de negocios en la mesa.	
+1031	Beso su mano, Don Tommasino.	
+1032	¿Por qué estás tan lejos de la casa?	
+1033	Yo respondo por tu vida.	
+1034	Tengo a Carlo y a Fabrizio.	
+1035	Sigue siendo peligroso.	
+1036	Tenemos noticias de Santino en Nueva York.	
+1037	Tus enemigos saben que estás aquí.	
+1038	¿Ha dicho Santino cuándo puedo volver?	
+1039	Todavía no.	
+1040	Es imposible.	
+1041	¿Adónde vas?	
+1042	A Corleone.	
+1043	Coge el coche.	
+1044	No, prefiero andar.	
+1045	¡Ten cuidado!	
+1046	¿Dónde están todos los hombres?	
+1047	Murieron por las luchas.	
+1048	Aquí están los nombres de los muertos.	
+1049	¡Oye, llévame a América!	
+1050	¡Oye, llévame a América!	
+1051	¡Clark Gable!	
+1052	¡América!	
+1053	¡Llévame a América!	
+1054	¡Clark Gable, Rita Hayworth!	
+1055	¡Mamma mia! ¡Qué preciosidad!	
+1056	Parece que te ha caído un rayo.	
+1057	En Sicilia las mujeres son más peligrosas que las escopetas.	
+1058	¿Tuvieron buena caza?	
+1059	¿Conoce a todas las mujeres de la zona?	
+1060	Vimos unas bellezas.	
+1061	Una de ellas dejó boquiabierto a nuestro amigo.	
+1062	Seduciría al mismo diablo.	
+1063	Tenía un tipazo.	
+1064	¿Verdad, Calo?	
+1065	¡Qué pelo, qué boca!	
+1066	Las mujeres de esta parte son hermosas... pero virtuosas.	
+1067	Ésta llevaba un vestido morado	
+1068	y un lazo morado en el pelo.	
+1069	Parecía más bien griega que italiana.	
+1070	¿La conoce usted?	
+1071	No hay ninguna chica así en este pueblo.	
+1072	¡Dios mío, comprendo!	
+1073	¿Qué pasa?	
+1074	Vámonos.	
+1075	Es su hija.	
+1076	Dile que venga aquí.	
+1077	Llámale.	
+1078	Fabrizio, traduce.	
+1079	Perdóneme si le he ofendido.	
+1080	Soy extranjero en este país.	
+1081	Le respeto a usted y le respeto a su hija.	
+1082	Soy americano, me escondo en Sicilia.	
+1083	Me llamo Michael Corleone.	
+1084	Hay quien pagaría mucho dinero por esta información.	
+1085	Pero su hija perdería un padre... en vez de ganar un marido.	
+1086	Quiero conocer a su hija.	
+1087	Con su permiso, y el consentimiento de su familia.	
+1088	Con todo el respeto.	
+1089	Venga a mi casa el domingo por la mañana.	
+1090	Me llamo Vitelli.	
+1091	¿Cómo se llama su hija?	
+1092	Te vas a marear.	
+1093	Déjalo para la biblioteca.	
+1094	Tenemos que recoger a mi hermana.	
+1095	¿Qué te pasa?	
+1096	¿Qué te pasa?	
+1097	¡Fue culpa mía!	
+1098	¿Dónde está?	
+1099	Fue culpa mía.	
+1100	Le pegué.	
+1101	Empecé a reñir con él.	
+1102	Le pegué, él me pegó...	
+1103	Voy a ir a buscar a un médico para que te mire.	
+1104	Sonny, no hagas nada, por favor.	
+1105	¿Qué te pasa?	
+1106	¿Qué voy a hacer?	
+1107	¿Vas a dejar al chico huérfano antes de que nazca?	
+1108	¿Ha vuelto a ganar éste otra vez?	
+1109	Diles que no vuelvan a aparecer por aquí.	
+1110	Hemos perdido mucho esta semana.	
+1111	¡Ven aquí!	
+1112	Si vuelves a tocar a mi hermana, te mato.	
+1113	¡Vaya, Kay!	
+1114	No te esperábamos.	
+1115	Debiste avisar.	
+1116	Sí, avisé.	
+1117	Intenté escribir y llamar.	
+1118	Quisiera localizar a Michael.	
+1119	Nadie sabe dónde está.	
+1120	Lo único que sabemos es que está bien.	
+1121	¿Qué ha sido eso?	
+1122	Un accidente, no ha habido heridos.	
+1123	Tom, ¿enviarás esta carta a Michael?	
+1124	Por favor.	
+1125	Si lo acepto, un tribunal podría probar que yo sabía dónde estaba.	
+1126	Él se pondrá en contacto contigo.	
+1127	Despediré el taxi, ¿puedo llamar para que envíen otro?	
+1128	Ven conmigo.	
+1129	[NO TRANSLATION]	missing translation
+1130	¿Diga?	
+1131	¿Está Carlo ahí?	
+1132	¿Quién es?	
+1133	Una amiga de Carlo.	
+1134	Dígale que esta noche llegaré tarde.	
+1135	¡Zorra!	
+1136	La cena está en la mesa.	
+1137	No tengo hambre.	
+1138	La comida se va a enfriar.	
+1139	Comeré más tarde.	
+1140	¡Dijiste que querías cenar!	
+1141	[NO TRANSLATION]	missing translation
+1142	[NO TRANSLATION]	missing translation
+1143	¡Guarra siciliana!	
+1144	Eso, rómpelo todo. Histérica.	
+1145	Rómpelo todo.	
+1146	¿Por qué no te traes a tu furcia a cenar?	
+1147	Puede que la traiga.	
+1148	¡Límpialo!	
+1149	¡No me da la gana!	
+1150	Cerda flaca malcriada.	
+1151	¡Límpialo!	
+1152	¡Límpialo!	
+1153	¡Límpialo!	
+1154	¡He dicho que lo limpies!	
+1155	¡Límpialo!	
+1156	Límpialo.	
+1157	Que limpies eso...	
+1158	¡Límpialo!	
+1159	¡Límpialo!	
+1160	Sí, mátame.	
+1161	¡Asesina como tu padre!	
+1162	¡Todos los Corleone sois asesinos!	
+1163	¡Te odio!	
+1164	¡Venga, mátame!	
+1165	¡Sal de aquí!	
+1166	¡Te odio!	
+1167	Ahora te voy a matar.	
+1168	Cerda italiana.	
+1169	¡Sal de ahí!	
+1170	Connie, ¿qué te pasa?	
+1171	No te oigo.	
+1172	Connie, habla más alto.	
+1173	El bebé está llorando.	
+1174	Santino, no entiendo.	
+1175	No sé lo que dice.	
+1176	Sí, Connie.	
+1177	Espera ahí.	
+1178	No, quédate ahí.	
+1179	Hijo de puta.	
+1180	¡Hijo de puta!	
+1181	¿Qué ocurre?	
+1182	¡Abre esa maldita puerta!	
+1183	Mueve el culo.	
+1184	¡Sonny!	
+1185	Sonny.	
+1186	¡Sal de ahí!	
+1187	¡Seguidle, vamos!	
+1188	Hijo de puta.	
+1189	¡Apártate!	
+1190	Dame el vaso.	
+1191	Mi mujer está arriba llorando.	
+1192	He oído llegar varios coches.	
+1193	Consigliere mío, dile a tu Don lo que todos sabéis menos yo.	
+1194	No le he dicho a la mama nada.	
+1195	Ahora iba a subir a despertarle a usted para decírselo.	
+1196	Y necesitabas beber primero.	
+1197	Sí.	
+1198	Bueno, ya has bebido.	
+1199	Han disparado a Sonny en el puente.	
+1200	Ha muerto.	
+1201	Que no se investigue nada.	
+1202	No quiero venganzas.	
+1203	Quiero que organices una reunión... con los cabezas de las cinco familias.	
+1204	Se acabó la guerra.	
+1205	Avisa a Bonasera.	
+1206	Le necesito.	
+1207	Soy Tom Hagen.	
+1208	Llamo de parte de Vito Corleone. Orden suya.	
+1209	Usted debe a su Don un favor.	
+1210	¡No duda por un momento de que se lo devolverá!	
+1211	Estará en su funeraria dentro de una hora.	
+1212	Espérele.	
+1213	Bien, amigo mío, ¿vas a pagarme aquel favor?	
+1214	Sí.	
+1215	¿Qué es lo que debo hacer?	
+1216	Quiero que uses todos tus poderes y todas tus habilidades.	
+1217	No quiero que su madre lo vea de esta manera.	
+1218	Mira lo que han hecho con mi hijo.	
+1219	Sería más seguro enseñarte inglés.	
+1220	Sé hablar inglés...	
+1221	Lunes, martes, jueves, miércoles, viernes, domingo, sábado.	
+1222	Saludos, Don Tommasino.	
+1223	¿Cómo van las cosas en Palermo?	
+1224	Michael me está enseñando a conducir.	
+1225	Fíjese, ya verá.	
+1226	¿Cómo van las cosas en Palermo?	
+1227	La gente joven ya no siente respeto por nada.	
+1228	Corren malos tiempos.	
+1229	Este lugar se está poniendo demasiado peligroso.	
+1230	Quiero que os trasladéis a una casa cerca de Siracusa. Ahora mismo.	
+1231	¿Qué pasa?	
+1232	Malas noticias de América.	
+1233	Tu hermano Santino... Lo han asesinado.	
+1234	Vámonos.	
+1235	Me lo has prometido.	
+1236	¡Fabrizio!	
+1237	Prepara el coche.	
+1238	¿Vas a conducir, jefe?	
+1239	¿Viene tu mujer contigo?	
+1240	No, quiero que la lleves con sus padres hasta que no haya peligro.	
+1241	Bien, lo que tú digas.	
+1242	Calo, ¿dónde está Apollonia?	
+1243	Quiere darte una sorpresa.	
+1244	Quiere conducir.	
+1245	Será una buena esposa americana.	
+1246	Espera, cogeré las maletas.	
+1247	¡Fabrizio!	
+1248	¿Adónde vas?	
+1249	¡Quédate ahí!	
+1250	Voy a acercar el coche.	
+1251	¡No, Apollonia!	
+1252	Don Barzini, le agradezco su ayuda para organizar esta reunión, y a las otras cinco familias de Nueva York y Nueva Jersey.	
+1253	Carmine Cuneo del Bronx, y de Brooklyn... Philip Tattaglia.	
+1254	Y de Staten Island... están con nosotros Victor Strachi...	
+1255	y los demás asociados que vienen de California, Kansas City y de los demás territorios del país.	
+1256	Gracias.	
+1257	¿Por qué hemos llegado hasta este extremo?	
+1258	No lo sé.	
+1259	Todo ha sido desafortunado e innecesario.	
+1260	Tattaglia perdió un hijo, yo perdí otro.	
+1261	Estamos iguales.	
+1262	Si Tattaglia acepta, yo propongo dejar las cosas como estaban antes.	
+1263	Agradecemos a Don Corleone su invitación a esta reunión.	
+1264	Sabemos que es un hombre de palabra y sensato	
+1265	que atiende a razones.	
+1266	Sí, Don Barzini.	
+1267	Es demasiado modesto.	
+1268	Tiene a los jueces y a los políticos metidos en el bolsillo.	
+1269	Pero no los comparte.	
+1270	¿Cuándo he rechazado yo mi colaboración?	
+1271	Todos me conocen.	
+1272	¿Cuándo me he negado? Sólo una vez.	
+1273	¿Y por qué?	
+1274	Porque creí que el negocio de la droga podría destruirnos en unos años.	
+1275	No es como el juego, el alcohol o la prostitución. Diversiones practicadas por la mayoría aunque estén condenadas por la Iglesia.	
+1276	Incluso la policía, que nos ha ayudado con el juego y otras actividades, se negará a ayudarnos en el tema de los narcóticos.	
+1277	Lo creía entonces... y lo creo ahora.	
+1278	Los tiempos han cambiado.	
+1279	No es igual que antes, que hacíamos todo lo que queríamos.	
+1280	Una negativa no es un gesto de amistad.	
+1281	Si Don Corleone tiene a los jueces y los políticos, debe compartirlos... o que otros los aprovechen.	
+1282	Debe dejarnos sacar agua del pozo.	
+1283	Cierto que puede presentar factura por el servicio.	
+1284	Después de todo, no somos comunistas.	
+1285	Yo tampoco creo en las drogas.	
+1286	He tenido que compensar a mi gente para que eviten ese tipo de negocios.	
+1287	Hay tipos que les dicen: Tengo polvo.	
+1288	Si inviertes 3.000, 4.000 dólares, puedes sacar 50.000 distribuyendo.	
+1289	Nadie se resiste.	
+1290	Quiero controlar este negocio para hacerlo respetable.	
+1291	No lo quiero en las escuelas, ni venderlo a los niños.	
+1292	Eso sería una infamia.	
+1293	En mi ciudad podríamos limitarnos a traficar con los negros.	
+1294	Como son animales, no perderían el alma.	
+1295	Esperaba encontrar una solución entre todos.	
+1296	Estoy dispuesto a hacer lo que sea para encontrar una solución pacífica.	
+1297	De acuerdo.	
+1298	Permitiremos el tráfico de drogas, pero controlado.	
+1299	Don Corleone nos dará protección en el este, y eso será la paz.	
+1300	Quiero garantías por parte de Corleone.	
+1301	Con el tiempo, y si su posición se refuerza, ¿no intentará una venganza personal?	
+1302	Somos gente respetable.	
+1303	No tenemos que dar garantías.	
+1304	Ha dicho venganza.	
+1305	¿La venganza podrá devolverle a su hijo?	
+1306	¿Devolverme a mí el mío?	
+1307	Renuncio a vengar la muerte de mi hijo.	
+1308	Porque tengo mis razones.	
+1309	Mi otro hijo tuvo que poner tierra de por medio... por lo que pasó con Sollozzo.	
+1310	Estoy procurando traerlo a casa sin que corra ningún peligro.	
+1311	Sin ningún cargo falso.	
+1312	Pero soy muy supersticioso.	
+1313	Y si un accidente le sobreviniese, si un policía le pegara un tiro, o si le encarcelaran y apareciera ahorcado en su celda o si fuera fulminado por un rayo, entonces yo culparía a algunos de los aquí presentes.	
+1314	Y no perdonaría.	
+1315	Pero, a parte de eso... juro solemnemente... por la salvación de mis nietos, que no seré yo quien viole la paz que hemos acordado aquí.	
+1316	¿Insisto en que los traficantes de Tattaglia no tengan antecedentes?	
+1317	Menciónalo.	
+1318	Pero no insistas.	
+1319	A Barzini no hay que repetírselo.	
+1320	Dirá usted, Tattaglia.	
+1321	Tattaglia es un chulo.	
+1322	Nunca se hubiera atrevido con Santino.	
+1323	Pero yo no lo supe hasta el día en que Barzini lo asesinó.	
+1324	Vamos, Nancy.	
+1325	No os separéis.	
+1326	Brian.	
+1327	Vale, de acuerdo.	
+1328	¿Cuánto hace que has vuelto?	
+1329	Ha pasado un año.	
+1330	Creo que algo más.	
+1331	Me alegra verte, Kay.	
+1332	Ahora trabajo para mi padre.	
+1333	Ha estado enfermo.	
+1334	Muy enfermo.	
+1335	Tú no eres como él.	
+1336	Me dijiste que nunca serías como él.	
+1337	Mi padre no es diferente a ningún hombre con poder.	
+1338	Cualquier hombre responsable de mucha gente.	
+1339	Igual que un senador o un presidente.	
+1340	¿Cómo puedes ser tan ingenuo?	
+1341	¿Por qué?	
+1342	Ellos no matan a nadie.	
+1343	Kay, ¿quién es el ingenuo?	
+1344	Mi padre no es el mismo hombre.	
+1345	Incluso él lo sabe.	
+1346	En cinco años, los Corleone serán una familia totalmente legítima.	
+1347	Créeme.	
+1348	Es todo lo que te puedo decir por ahora.	
+1349	[NO TRANSLATION]	missing translation
+1350	Michael, ¿por qué has venido?	
+1351	¿Por qué?	
+1352	¿Qué quieres de mí después de tanto tiempo?	
+1353	He llamado y he escrito.	
+1354	He venido porque te necesito.	
+1355	Porque te quiero.	
+1356	Por favor para, Michael.	
+1357	Porque...	
+1358	quiero casarme contigo.	
+1359	Es demasiado tarde.	
+1360	Por favor, Kay...	
+1361	Haré todo lo que me pidas por lo que ha habido entre nosotros.	
+1362	Porque es importante, Kay.	
+1363	Porque lo importante es que... nos tenemos el uno al otro.	
+1364	Una vida juntos.	
+1365	Con hijos.	
+1366	Nuestros hijos.	
+1367	Kay, te necesito.	
+1368	Y te quiero.	
+1369	La gente de Barzini se mete en mi territorio y no hacemos nada.	
+1370	¡Pronto no podré colgar mi sombrero!	
+1371	Ten paciencia.	
+1372	No te estoy pidiendo ayuda.	
+1373	Deja las esposas.	
+1374	Ten calma.	
+1375	Debemos protegernos.	
+1376	Déjame reclutar a más hombres.	
+1377	No.	
+1378	Barzini encontraría pretextos.	
+1379	Mike, creo que te equivocas.	
+1380	Don Corleone...	
+1381	Usted dijo que un día Tessio y yo formaríamos nuestra familia.	
+1382	Hasta hoy no había pensado en ello.	
+1383	Le pido su permiso.	
+1384	Michael es ahora jefe de la familia.	
+1385	Si él te da su permiso, tienes mi bendición.	
+1386	Cuando haya vuelto de Nevada, te separas de nuestra familia y creas la tuya.	
+1387	¿Cuánto tendré que esperar?	
+1388	Seis meses.	
+1389	Perdóneme, pero si nos deja, Pete y yo caeremos bajo Barzini.	
+1390	Odio a Barzini.	
+1391	En seis meses nos borra del mapa.	
+1392	¿Tenéis fe en mi juicio?	
+1393	Sí.	
+1394	¿Cuento con vuestra lealtad?	
+1395	Siempre, Padrino.	
+1396	Sed amigos de Michael.	
+1397	Haced lo que él diga.	
+1398	Negociaré para solucionar vuestros problemas.	
+1399	Es cuanto os puedo decir.	
+1400	Carlo, tú te has criado en Nevada.	
+1401	Cuando vayamos allí, serás mi mano derecha.	
+1402	Tom Hagen ya no es consigliere.	
+1403	Será nuestro abogado en Las Vegas.	
+1404	No tiene que ver con Tom, pero quiero que sea así.	
+1405	Si necesito ayuda, ¿qué mejor consigliere que mi padre?	
+1406	[NO TRANSLATION]	missing translation
+1407	Gracias, papá.	
+1408	Me alegro por ti, Carlo.	
+1409	Mike...	
+1410	¿por qué me dejas fuera?	
+1411	Tom, eres un buen consigliere.	
+1412	Pero no para la acción que se va a organizar.	
+1413	Tom.	
+1414	Yo aconsejé a Michael.	
+1415	Nunca pensé que fueras un mal consigliere.	
+1416	En cambio, Santino fue un mal Don, que descanse en paz.	
+1417	Michael tiene mi confianza, igual que tú.	
+1418	Pero hay razones para que no participes en todo esto.	
+1419	Quizá podría ayudar.	
+1420	No insistas, Tom.	
+1421	No me puedo creer cómo te han dejado la cara.	
+1422	¡Estás increíble!	
+1423	Ese doctor ha hecho un buen trabajo.	
+1424	¿Quién te llevó ahí?	
+1425	¿Eh?	
+1426	Dejadlas ahí.	
+1427	Está cansado y va a ducharse.	
+1428	Déjame abrir la puerta, ¿eh?	
+1429	¡Mike!	
+1430	¡Bienvenido a Las Vegas!	
+1431	¡Todo en tu honor!	
+1432	¡Ha sido idea suya!	
+1433	Tu hermano Freddy.	
+1434	¿Chicas?	
+1435	Vuelvo ahora mismo.	
+1436	Manténlas ocupadas.	
+1437	Todo lo que quieras. Todo.	
+1438	¿Quiénes son ésas?	
+1439	Adivina.	
+1440	Deshazte de ellas, Fredo.	
+1441	Oye, Mike...	
+1442	Estoy de negocios.	
+1443	Que se larguen.	
+1444	Estoy cansando.	
+1445	Que se vayan los músicos también.	
+1446	Eh, vamos.	
+1447	Venga,	
+1448	andando.	
+1449	Se acabó.	
+1450	Oye, Angelo.	
+1451	¡Venga, fuera!	
+1452	¡Largo!	
+1453	Venga, cielo.	
+1454	No sé qué le pasa.	
+1455	Lo siento, guapa.	
+1456	No sé.	
+1457	Está muy cansado.	
+1458	¿Qué hay de Moe Greene?	
+1459	Tenía algo que hacer.	
+1460	Dijo que le avisara cuando empezase la fiesta.	
+1461	Bien, avísale.	
+1462	Johnny, ¿cómo estás?	
+1463	Me alegra verte, Mike.	
+1464	Estamos orgullosos de ti.	
+1465	Gracias.	
+1466	Siéntate, quiero hablar contigo.	
+1467	El Don también está orgulloso.	
+1468	Bueno, a él se lo debo todo.	
+1469	Sabe que eres agradecido.	
+1470	Por eso, quiere pedirte un favor.	
+1471	Mike, ¿qué puedo hacer?	
+1472	Estamos pensando en dejar el negocio del aceite de oliva e instalarnos aquí.	
+1473	Moe nos cederá su parte del casino y el hotel. Nos la quedaremos.	
+1474	[NO TRANSLATION]	missing translation
+1475	¿Estás seguro?	
+1476	Moe ama su negocio.	
+1477	Nunca me dijo nada de vender.	
+1478	Voy a hacerle una oferta que aceptará.	
+1479	Mira, Johnny...	
+1480	Unas buenas atracciones atraerán a los jugadores al casino.	
+1481	Esperamos que aceptes un contrato para venir cinco veces al año.	
+1482	Quizá puedas convencer a tus amigos del cine para que vengan también.	
+1483	Contamos contigo.	
+1484	Claro, Mike.	
+1485	Haré todo lo que sea por mi padrino.	
+1486	Bien.	
+1487	¡Eh, Mike!	
+1488	Hola, colegas.	
+1489	Todo el mundo está aquí.	
+1490	Freddy, Tom.	
+1491	Me alegro de verte.	
+1492	¿Cómo estás, Moe?	
+1493	[NO TRANSLATION]	missing translation
+1494	Te hemos preparado comida especial, las mejores bailarinas, y buen crédito.	
+1495	Dales fichas a éstos para que puedan jugar.	
+1496	¿Mi crédito es suficiente para comprarte?	
+1497	¿Comprarme?	
+1498	El casino, el hotel.	
+1499	La familia Corleone quiere comprarte.	
+1500	¿Los Corleone quieren comprarme?	
+1501	No, os compro yo.	
+1502	Tu casino pierde dinero.	
+1503	Nosotros lo llevaremos mejor.	
+1504	¿Piensas que estoy acabado?	
+1505	No tienes suerte.	
+1506	Vosotros macarrones me hacéis mucha gracia.	
+1507	¡Os tuve a Freddy cuando os iba mal, y ahora queréis echarme!	
+1508	Lo hiciste porque nosotros financiamos tu casino... y la familia Molinari te protegió.	
+1509	Ahora hablemos de negocios.	
+1510	Sí.	
+1511	Primero, estáis acabados.	
+1512	No podéis hacer el menor movimiento.	
+1513	El Padrino está enfermo.	
+1514	Y las otras familias os han echado de Nueva York.	
+1515	¿Ahora queréis venir a mi hotel a quitármelo?	
+1516	Hablaré con Barzini.	
+1517	Pactaré con él y el hotel seguirá siendo mío.	
+1518	¿Por eso le pegaste a mi hermano en público?	
+1519	Eso no fue nada, Mike.	
+1520	Moe no tenía ninguna intención.	
+1521	Se le va la mano alguna vez, pero somos buenos amigos.	
+1522	Tengo que llevar el negocio.	
+1523	Tengo que dar alguna paliza a veces.	
+1524	Freddy y yo discutimos, y me puse nervioso.	
+1525	¿Le pegaste a mi hermano?	
+1526	¡Se entendía con dos camareras!	
+1527	No se atendía a los jugadores.	
+1528	¿Qué te crees?	
+1529	Me voy a Nueva York mañana.	
+1530	Piensa en el precio.	
+1531	¡Hijo de puta!	
+1532	¡Soy Moe Greene!	
+1533	Me las sabía todas cuando tú eras un mocoso.	
+1534	Un momento, Moe.	
+1535	Tengo una idea.	
+1536	Tom, tú eres el consigliere.	
+1537	Habla con el Don...	
+1538	Un momento.	
+1539	El Don está retirado. Mike se encarga de los negocios.	
+1540	Si tienes algo que decir, díselo a Michael.	
+1541	¡No has venido a Las Vegas para hablar a alguien como Moe Greene así!	
+1542	Fredo...	
+1543	Eres mi hermano mayor, y te quiero.	
+1544	Pero nunca te pongas del lado de alguien que se oponga a la familia.	
+1545	[NO TRANSLATION]	missing translation
+1546	Debo hablar con mi padre y su gente, tendrás que cenar sin mí.	
+1547	Este fin de semana iremos al centro, iremos al cine y cenaremos.	forced duplication
+1548	Este fin de semana iremos al centro, iremos al cine y cenaremos.	forced duplication
+1549	Tu hermana quiere pedirte algo.	
+1550	Que lo pida.	
+1551	No se atreve.	
+1552	Quieren que seas el padrino de su hijo.	
+1553	Ya veremos.	
+1554	¿Lo harás?	
+1555	Déjame pensarlo.	
+1556	Ven.	
+1557	Barzini irá contra ti primero.	
+1558	Te invitará a una reunión con alguien de tu absoluta confianza.	
+1559	Garantizando tu seguridad.	
+1560	Y en esa reunión serás asesinado.	
+1561	Ahora me gusta el vino más que nunca.	
+1562	Bueno, bebo más.	
+1563	Te sienta bien, papá.	
+1564	No sé.	
+1565	¿Eres feliz con tu mujer y los chicos?	
+1566	Muy feliz.	
+1567	Me alegro.	
+1568	Espero que no te haya molestado lo que te he dicho sobre Barzini.	
+1569	No, de ningún modo.	
+1570	Es una vieja costumbre.	
+1571	Me he pasado la vida intentando no ser descuidado.	
+1572	Las mujeres y los chicos pueden serlo, pero los hombres no.	
+1573	¿Cómo está tu hijo?	
+1574	Está bien.	
+1575	Cada día se parece más a ti.	
+1576	Es más listo que yo.	
+1577	Tiene tres años y ya lee los tebeos.	
+1578	Ya lee los tebeos.	
+1579	Quiero que controlen las llamadas recibidas y enviadas.	
+1580	Ya lo he hecho.	
+1581	Ya me he ocupado.	
+1582	[NO TRANSLATION]	missing translation
+1583	Perdón, me olvidaba.	
+1584	¿Qué te pasa?	
+1585	¿Qué te preocupa?	
+1586	Yo me encargo.	
+1587	Te dije que lo haría y lo estoy haciendo.	
+1588	Sabía que Santino iba a pasar por todo esto.	
+1589	Y Fredo...	
+1590	Fredo era, en fin...	
+1591	Pero nunca pensé que fueras tú.	
+1592	He trabajado toda mi vida por el bienestar de mi familia.	
+1593	[NO TRANSLATION]	missing translation
+1594	Y me he negado a ser un muñeco, movido por los hilos de todos esos peces gordos.	
+1595	No me arrepiento.	
+1596	Es mi vida, pero pensaba que... cuando llegara tu momento, podrías mover esos hilos.	
+1597	Senador Corleone.	
+1598	Gobernador Corleone.	
+1599	Algo.	
+1600	Otro pezzo da novanta.	
+1601	Bueno...	
+1602	No ha habido tiempo, Michael.	
+1603	No ha habido tiempo.	
+1604	Lo lograremos, papá.	
+1605	Lo lograremos.	
+1606	Escucha, quienquiera que venga con lo de la reunión de Barzini, es un traidor.	
+1607	No lo olvides.	
+1608	¿Me dejas, por favor?	
+1609	¿Puedo regarlas?	
+1610	Sí, venga.	
+1611	Por ahí, por ahí.	
+1612	Ten cuidado.	
+1613	Lo estás derramando.	
+1614	¡Antony!	
+1615	Ven aquí, trae.	
+1616	Así.	
+1617	Vamos a ponerlo aquí.	
+1618	Te voy a enseñar algo.	
+1619	Ven aquí.	
+1620	No te muevas.	
+1621	¡Dame una naranja!	
+1622	Es un nuevo truco.	
+1623	Vamos a correr.	
+1624	Tú, corre.	
+1625	¿Dónde estás?	
+1626	Mike, ¿tienes un momento?	
+1627	Barzini quiere organizar una reunión.	
+1628	Dice que podemos arreglar nuestras diferencias.	
+1629	¿Hablaste con él?	
+1630	Sí.	
+1631	Puedo organizar la seguridad.	
+1632	En mi territorio.	
+1633	¿De acuerdo?	
+1634	De acuerdo.	
+1635	¿Sabes dónde vais a encontraros?	
+1636	Quiere una reunión en Brooklyn.	
+1637	En el terreno de Tessio.	
+1638	No correré ningún peligro.	
+1639	Siempre pensé que sería Clemenza, no Tessio.	
+1640	Ha sido muy inteligente.	
+1641	Tessio siempre lo ha sido.	
+1642	Pero voy a esperar.	
+1643	Hasta después del bautizo.	
+1644	He decidido ser el padrino del hijo de Connie.	
+1645	Luego, me las veré con Don Barzini... y con Tattaglia.	
+1646	Con todos los jefes de las cinco familias.	
+1647	¿Crees en Dios, Padre Todopoderoso, Creador del Cielo y la Tierra?	
+1648	Sí, creo.	
+1649	¿Crees en Jesucristo, su único hijo, nuestro Señor?	
+1650	Sí, creo.	
+1651	¿Crees en el Espíritu Santo, y en la Santa Iglesia Católica?	
+1652	Sí, creo.	
+1653	Michael Francis Rizzi, ¿renuncias a Satanás?	
+1654	Sí, renuncio.	
+1655	¿Y a todas sus obras?	
+1656	Sí, renuncio.	
+1657	¡Oh, cielos!	
+1658	¿Y a todas sus seducciones?	
+1659	Sí, renuncio.	
+1660	Michael Rizzi, ¿deseas ser bautizado?	
+1661	Sí, deseo.	
+1662	Michael Rizzi, ve en paz, y que el Señor sea contigo.	
+1663	Amén.	
+1664	¡Kay!	
+1665	Besa a tu padrino.	
+1666	No vas a Las Vegas.	
+1667	Hay que resolver algo.	
+1668	Tendrán que ir sin nosotros.	
+1669	¡Nuestras primeras vacaciones!	
+1670	Connie, por favor.	
+1671	Vuelve a casa y espera a que te llame.	
+1672	Es importante.	
+1673	Sólo serán un par de días.	
+1674	Nos vamos a Brooklyn.	
+1675	Espero que Mike llegue a un acuerdo.	
+1676	Así será.	
+1677	Sal, Tom, el jefe irá en otro coche, id vosotros por delante.	
+1678	Eso jode todo el plan.	
+1679	Es lo que ha dicho.	
+1680	Yo tampoco iré, Sal.	
+1681	Dile a Mike que lo hice por negocios.	
+1682	Siempre me cayó bien.	
+1683	Él lo entiende.	
+1684	Disculpa, Sal.	
+1685	Tom, ¿no puedes impedirlo?	
+1686	¿Por los viejos tiempos?	
+1687	No puedo, Sally.	
+1688	Vas a pagar por Santino, Carlo.	
+1689	Mike, te equivocas.	
+1690	Vendiste a Sonny a Barzini.	
+1691	Y esa farsa que interpretaste con mi hermana.	
+1692	¿Crees que engañaría a un Corleone?	
+1693	Soy inocente.	
+1694	Lo juro por mis hijos.	
+1695	Por favor, no hagas esto.	
+1696	Siéntate.	
+1697	No me hagas esto, por favor.	
+1698	Barzini está muerto.	
+1699	Y Philip Tattaglia.	
+1700	Moe Greene.	
+1701	Strachi.	
+1702	Cuneo.	
+1703	Estoy ajustando cuentas, así que no digas que eres inocente.	
+1704	Confiensa que lo hiciste.	
+1705	Dale un trago.	
+1706	Vamos.	
+1707	No temas, Carlo.	
+1708	¿Crees que dejaría a mi hermana viuda?	
+1709	Soy el padrino de tu hijo, Carlo.	
+1710	Anda, bebe. Bebe.	
+1711	No, te echo del negocio de la familia.	
+1712	Ése será tu castigo.	
+1713	Estás acabado.	
+1714	Te irás en avión a Las Vegas.	
+1715	Tom.	
+1716	Quiero que te quedes allí.	
+1717	¿Entendido?	
+1718	Y no me digas que eres inocente.	
+1719	Es un insulto a mi inteligencia.	
+1720	Me enfurece.	
+1721	¿Quién te compró?	
+1722	¿Tattaglia o Barzini?	
+1723	Fue Barzini.	
+1724	Bien.	
+1725	Hay un coche esperando fuera para dejarte en el aeropuerto.	
+1726	Avisaré a tu mujer en qué vuelo vas.	
+1727	Mike...	
+1728	Apártate de mi vista.	
+1729	Hola, Carlo.	
+1730	Estoy intentando decirte...	
+1731	¡Mamá, por favor!	
+1732	¡Michael!	
+1733	¿Qué ocurre?	
+1734	¿Dónde está?	
+1735	¡Michael, cabrón asqueroso!	
+1736	Has matado a mi marido.	
+1737	Esperaste a que muriera papá para que nadie lo impidiera.	
+1738	Le echas la culpa por lo de Sonny.	
+1739	Como todos.	
+1740	¡Pero no has pensado en mí!	
+1741	¿Qué vamos a hacer ahora?	
+1742	Connie.	
+1743	¿Por qué crees que trajo a Carlo aquí?	
+1744	Había pensado en matarle.	
+1745	Y fue el padrino de nuestro hijo.	
+1746	¡Eres un cabrón de sangre fría!	
+1747	¿Quieres saber a cuántos ha matado?	
+1748	¡Lee los periódicos!	
+1749	¡Ése es tu marido!	
+1750	¡No!	
+1751	No, no...	
+1752	Llévala arriba.	
+1753	Llama a un médico.	
+1754	Está histérica.	
+1755	Histérica.	
+1756	Michael, ¿es cierto?	
+1757	No te metas en mis asuntos, Kay.	
+1758	¿Es cierto?	
+1759	No vuelvas a preguntarme.	
+1760	¡Basta!	
+1761	De acuerdo.	
+1762	Es la última vez.	
+1763	La última vez que te permito preguntarme por los negocios.	
+1764	¿Es cierto?	
+1765	¿Lo es?	
+1766	No.	
+1767	Creo que necesitamos beber algo.	
+1768	[NO TRANSLATION]	missing translation
+1769	Don Corleone.	

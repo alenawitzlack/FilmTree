@@ -1,0 +1,1885 @@
+1	A Broad Street következik.	
+2	A Broad Street következik.	
+3	Menjünk fel!	
+4	Erre!	
+5	Jézusom, nem jött fel erre?	
+6	Semmi?	
+7	[NO TRANSLATION]	missing translation
+8	[NO TRANSLATION]	missing translation
+9	Elnézést.	
+10	Bocsánat.	
+11	Parkoljon le a sarkon túl!	
+12	Vendégek.	
+13	Megengedik, hogy betegyem a fogaimat?	
+14	Ezredes, legyen olyan szíves, forduljon meg!	
+15	Üljön le az ágyra!	
+16	Gyerünk!	
+17	[NO TRANSLATION]	missing translation
+18	Ott van a fogam a... ott a csapnál.	
+19	Rám nézzen! <Hozza ide!/>	missing English
+20	Mi a Szövetségi Nyomozóiroda ügynökei vagyunk, uram.	
+21	Rám nézzen!	
+22	Önhöz beszélek.	
+23	Tudomásunkra jutott, hogy ön kémtevékenységben vesz részt.	
+24	Vagy hajlandó velünk együtt mûködni, vagy letartóztatjuk.	
+25	Megértette, ezredes?	
+26	Nem, nem mondhatnám.	
+27	Miért... miért szólítanak engem ezredesnek?	
+28	Öltözzön fel, kérem!	
+29	Átkutatjuk a szobát.	
+30	Szabad... megtisztíthatom, kérem a palettát?	
+31	A festék ha rászárad, tönkremegy.	
+32	Ott van ön mögött.	
+33	A rongy ott van hozzá.	
+34	Köszönöm.	
+35	Jól van, lássanak munkához!	
+36	Köszönöm.	
+37	Nézzék meg a matracot, az ágy alatt, a padlót!	
+38	Beletenné ezt a hamutartóba? Ott van az ablakpárkányon?	
+39	És persze az íróasztalt.	
+40	Nézem az asztalt.	
+41	Nem akarnám, hogy tönkremenjen.	
+42	Ne mondja, hogy az ember!	
+43	Ġ, nem az emberem.	
+44	Hogyne volna az embere.	
+45	Hát kirġl beszélünk?	
+46	Egy olyan emberrġl beszélünk, akit biztosított az ügyfelem.	
+47	Tehát ġ nem az emberem.	
+48	Értem, rendben.	
+49	A lényeg az, hogy az, akit az ügyfele biztosított, nem tagadja, hogy ezek a dolgok megtörténtek.	
+50	Ezek?	
+51	Ezek a dolgok?	
+52	Igen, ez az öt dolog.	
+53	Nem, pillanat, pillanat.	
+54	Szó sincs öt dologról.	
+55	Egy dolog történt.	
+56	Ez nyilvánvalóan öt dolog.	
+57	Bocsánat, de ez nekem nem nyilvánvaló.	
+58	Miért öt dolog?	
+59	Magyarázza el!	
+60	Ez magától értetġdik.	
+61	Rendben, akkor mondja el, mi történt!	
+62	Mondja el a történetet úgy, hogy abból kiderüljön, hogy ez öt dolog!	
+63	Jó, semmi akadálya.	
+64	Az embere...	
+65	Nem az.	
+66	Az ügyfelem biztosítottja...	
+67	Elvesztette az uralmát a jármûve fölött, és elütötte az én öt emberemet, akik megbíztak engem, még pedig azért, mert nem ismerik el az igényüket.	
+68	Úgy érti, hogy az ügyfelem, a biztosító, nem ismeri el az igényüket?	
+69	Mr. Donovan, teljesen világos, kikrġl beszélünk.	
+70	Az ügyfelem minden igényt elismer.	
+71	[NO TRANSLATION]	missing translation
+72	Kifizet minden jogos kártérítési igényt, a kártérítési limit erejéig, ami ennek az úrnak a biztosítása szerint 100 ezer dollár balesetenként.	
+73	És ez egy esemény volt.	
+74	Maga is úgy mondta, hogy elütötte az öt emberemet.	
+75	Az ügyfelem biztosítottjának egy balesete volt.	
+76	Egyetlen egy.	
+77	Mivel nem vezetett elég óvatosan, elütött öt motorkerékpárost.	
+78	Akiknek a szemszögébġl öt baleset történt.	
+79	Nézze, Bob!	
+80	Ha, szabad.	
+81	Bob?	
+82	Jim.	
+83	Ha bowlingozom és tarolok, egy esemény történik.	
+84	Nem pedig tíz esemény.	
+85	Jim, az embereim nem tekebábuk, még ha a maga embere úgy is bánt velük.	
+86	[NO TRANSLATION]	missing translation
+87	Egy pillanat,	
+88	pillanat.	
+89	Hogyha biztosítja a házát, mondjuk 100 ezer dollárra, és jön egy tornádó, és elsodorja, akkor a komplett házat teszi tönkre,	
+90	nem tekintjük külön eseményeknek, hogy felkapja az egyes bútordarabokat.	
+91	Hogyha úgy lenne, ahogy maga mondja... nos, akkor nem lenne többé kártérítési limit, úgy pedig megszûnne a biztosítási szolgáltatás.	
+92	És akkor, Bob, senki nem kap pénzt.	
+93	Watters, Cowan és Donovan.	
+94	Kit kapcsolhatok?	
+95	Jó reggelt, Mr. Donovan!	
+96	Jó reggelt, Alison!	
+97	Lemondtam a 9 órását a Prudentiallel.	
+98	És ugyan miért?	
+99	Én kértem meg rá.	
+100	Valami gond van, Tom?	
+101	Hagyd itt a táskádat Alisonnál,	
+102	és gyere be!	
+103	Beütött egy elég fontos ügy.	
+104	Látogatónk érkezett.	
+105	Natalie hozza a kávédat.	
+106	Nescafé, tejszín, két cukor, igaz?	
+107	Igen,	
+108	köszönöm.	
+109	Lynn!	
+110	Jim!	
+111	Örülök, hogy látlak.	
+112	Hogy van a család?	
+113	Jól, jól.	
+114	[NO TRANSLATION]	missing translation
+115	Hogy van Annie?	
+116	Gyilkos hangulatban.	
+117	Az anyósék nálunk töltik az ünnepeket.	
+118	Ha a bûn útjára lép, legalább jó ügyvédje lesz.	
+119	Na, mi újság?	
+120	Szóval a helyzet a következġ.	
+121	Neked kéne védened a szovjet kémet, akit elkaptak.	
+122	Tessék a vádirat.	
+123	[NO TRANSLATION]	missing translation
+124	Nem biztos, hogy érdekel.	
+125	A vádlott nem ismer ügyvédeket.	
+126	A bíróság ránk bízta, kit jelölünk ki.	
+127	A kamarai bizottság szavazott.	
+128	Rád esett a választás.	
+129	Fontos volt nekünk...	
+130	Fontos az országnak, hogy ez mintaszerûen tisztességes eljárás legyen.	
+131	Az amerikai jogrendszer vizsgázik.	
+132	Jó, persze ha így nézzük, megtisztelġ a felkérés.	
+133	De... Lynn,	
+134	nem is tudom, hány éve nem dolgozott már védġügyvédként.	
+135	Az olyan, mint a biciklizés, nem?	
+136	Már megmutattad, mit tudsz Nürnbergben.	
+137	De ott a vádat képviseltem.	
+138	Az nem számít.	
+139	A lényeg, hogy ismered a büntetġjogot.	
+140	Gondolj bele a helyzetbe, Jim!	
+141	Ez az ember közutálat tárgya.	
+142	És én is az leszek.	
+143	Igen, jelentġs rétegek körében.	
+144	De épp ezért fontos, hogy megcsináld, méghozzá jól.	
+145	Az amerikai igazságszolgáltatás nem tûnhet elġítéletesnek.	
+146	Csak érdeklġdöm, mennyire stabil a vád?	
+147	Nagyon is stabil.	
+148	Remek.	
+149	Pompás.	
+150	Mindenki utálni fog, de legalább veszítek.	
+151	Te mit mondasz, Tom?	
+152	Ez az iroda részérġl is áldozat.	
+153	[NO TRANSLATION]	missing translation
+154	Ez hazafias kötelesség.	
+155	Fontos feladat.	
+156	Mondtam Lynn-nek, hogy mi nem mondhatunk nemet, és neked is kellemetlen, ha nemet mondasz.	
+157	Neked kell védened azt a nyavalyást.	
+158	Szóval, vállalta?	
+159	Micsodát?	
+160	Hogy védi Abelt, a szovjet kémet.	
+161	Lehet.	
+162	Még beszélnem kell, de...	
+163	De honnan tudja?	
+164	Kiírták a faliújságra?	
+165	Nem,	
+166	nem csak beszéltem Richard Earllel...	
+167	Nézze, ha elvállalom, segíteni kell nekem.	
+168	Dolgozhatunk ma este?	
+169	Hát ma randevúm van, uram.	
+170	Kedd van?	
+171	Igen, akkor ráérek.	
+172	Köszönöm, uram.	
+173	De ez megtiszteltetés.	
+174	És a Kamara külön engem kért fel, meg akarják mutatni, hogy Amerikában még egy kém is jó ügyvédet kap.	
+175	Semmi szükségünk az ilyen megtiszteltetésekre.	
+176	Drágám, hogyhogy itthon vagy?	
+177	A fiú nem jött el.	
+178	Hát ez felháborító.	
+179	Ki az a pernahajder?	
+180	Inkább nem mondom meg.	
+181	Jól van, ülj le!	
+182	Most kezdünk enni.	
+183	Az emberek félnek.	
+184	Óvóhelyeket építenek, pontosan az ilyenektġl tartva, mint Abel.	
+185	Ha elmegyek a boltba, azt látom, hogy az emberek konzerveket és jódtablettát vásárolnak.	
+186	És mindenrġl ez az Abel tehet, meg az, amit képvisel.	
+187	Ez egy áruló, aki félelmet kelt.	forced duplication
+188	Ez egy áruló, aki félelmet kelt.	forced duplication
+189	Ki az áruló?	
+190	Rosenberbergék.	
+191	Kik azok?	
+192	Atomtitkokat adtak ki az oroszoknak.	
+193	Amerikaiaktól ez valóban árulás.	forced duplication
+194	Amerikaiaktól ez valóban árulás.	forced duplication
+195	Abelre viszont nincs jogunk azt mondani, hogy áruló.	
+196	Mert nem amerikai.	
+197	Jim, ha hallanád magad,	
+198	máris elkezdted védeni.	
+199	Rajtam gyakorolsz.	
+200	Pedig azt mondtad, még csak fontolgatod a dolgot.	
+201	Úgy van, fontolgatom a dolgot, de nehéz dönteni.	
+202	Mindenki megérdemli a védelmet.	
+203	Minden ember fontos.	
+204	Jim, mit érdemlünk mi?	
+205	Tudod, te, hogy fognak ránk nézni?	
+206	Mi leszünk az áruló támogatójának a családja?	
+207	Abel nem áruló, Mary.	
+208	Jó, jó.	
+209	Nyisd ki, Roger!	
+210	Akkor nem áruló...	
+211	Miért én csinálok mindig mindent?	
+212	[NO TRANSLATION]	missing translation
+213	Várd meg, hogy elmondjuk az áldást!	
+214	[NO TRANSLATION]	missing translation
+215	Abel a leggyûlöltebb ember az országban, te meg a második próbálsz lenni.	
+216	Én meg a harmadik leszek.	
+217	Carol, nem ezért nem jött el az a fiú.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, ne csinálj ebbġl veszekedést, mikor nem is veszekedtünk!	
+220	Te ellene vagy, én meg mellette?	
+221	Nem állok mellette.	
+222	Nem támogatom a kémkedġ oroszokat.	
+223	De nekik is joguk van a tisztességes védelemhez, ezért hívják igazságszolgáltatásnak.	
+224	Jó estét, bocsánat, nem akartam.	
+225	A bíróság elġtt...	
+226	szia, Doug!	
+227	Nem, nem zavarsz.	
+228	Helló, Doug!	
+229	Jim épp szónokolt. egy kirakatperben.	
+230	Nem szónokolok.	
+231	Üljön le, Doug, vacsorázzon velünk!	
+232	Nagyon finom vagdalt van.	
+233	Doug azért jött, hogy együtt mérlegeljék, hogy elvállalja-e Jim az ügyet?	
+234	Dehogy, vállalni kell!	
+235	Ez nem kérdés, igaz?	
+236	Urunk, hála adományaidért, melyeket bġkezûen adtál.	
+237	Mi urunk Jézus Krisztus által.	
+238	Ámen.	
+239	Jó reggelt, uram!	
+240	A nevem Jim Donovan.	
+241	Itt vannak a papírjaim.	
+242	A Watters, Cowan és Donovan Ügyvédi Irodától jöttem.	
+243	1941-ben vettek fel a New York-i Kamarába.	
+244	A vád 3 elkövetett és 19 megkezdett bûncselekmény.	
+245	Összebeszélés védelmi és atomtitkok kiadására a Szovjetunió részére, államtitkok megszerzése, és idegen ügynökként való bejelentkezés elmulasztása.	
+246	Sokan jelentkeznek be idegen ügynökként?	
+247	Ha nem veszi zokon a kérdésemet, uram, miután elfogták, hol tartották?	
+248	Azt nem tudom megmondani.	
+249	Nem tudja?	
+250	Elvittek egy repülġtérre, feltettek egy gépre, az elvitt valahova.	
+251	És meleg volt.	
+252	Itt is az van.	
+253	Ott párás meleg volt.	
+254	Aztán bevittek egy szobába.	
+255	Megverték?	
+256	Nem.	
+257	Csak gyġzködtek.	
+258	Ajánlatokkal.	
+259	Mifélékkel?	
+260	Azt mondták, hogy dolgozhatok az önök kormányának.	
+261	Azt ígérték, ha együttmûködöm, ejtik az ellenem felhozott összes vádat.	
+262	És fizetnek is nekem.	
+263	[NO TRANSLATION]	missing translation
+264	És ön ezt nem fogadta el?	
+265	Amint látja.	
+266	Ezt természetesen nem helyeselhetem.	
+267	Kötelességem arra bíztatni, hogy mûködjön együtt az amerikai kormánnyal.	
+268	Hát én nemet mondtam.	
+269	Megmondhatja a barátainak a CIA-nál, hogy komolyan beszéltem.	
+270	Nem, nem, nem.	
+271	Én...	
+272	Nekem semmi közöm az ügynökséghez.	
+273	Vagy a kormányunkhoz.	
+274	Azért vagyok itt, hogy felajánljam önnek az ügyvédi szolgálataimat.	
+275	Amelyeket ha ön elfogad, akkor én... önnek dolgozom.	
+276	Hogyha elfogadom önt?	
+277	Jól ért a szakmájához?	
+278	Igen.	
+279	Jó ügyvéd vagyok.	
+280	Sok vád alá helyezett kémet védett már?	
+281	Nem, egyet sem.	
+282	Itt most mindketten kezdġk vagyunk.	
+283	Igen.	
+284	Rendben.	
+285	Rendben?	
+286	Tehát elfogad?	
+287	Igen, rendben.	
+288	Remek, pompás.	
+289	Elġször is.	
+290	Ha végleges a döntése, hogy nem mûködik együtt a kormánnyal...	
+291	Végleges.	
+292	Értem.	
+293	Ez esetben senkinek ne mondjon semmit az ügyével kapcsolatban!	
+294	Kivéve nekem, amit a bizalma megenged.	
+295	Csak én állok ön mellett,	
+296	senki más.	
+297	Kereken kimondva, mindenki más villamosszékbe akarja juttatni önt.	
+298	Értem.	
+299	Nem tûnik túl ijedtnek.	
+300	Az használna?	
+301	[NO TRANSLATION]	missing translation
+302	Kaphatnék esetleg eszközöket, hogy rajzolhassak?	
+303	Sajnálom, de nem.	
+304	Ceruzát, rajzlapot.	
+305	Cigarettát.	
+306	Kérem.	
+307	Mr. Donovan, vannak, akik az ön hazájáért teszik ugyanazt, amit én.	
+308	Biztosra veszem, ön azt kívánja, hogy jól bánjanak velük, ha elfogják ġket.	
+309	Mi a neve?	
+310	Francis Gary Powers.	
+311	Rendfokozata?	
+312	Az Egyesült Államok Légierejének fġhadnagya.	
+313	Kapcsolatban áll bármi módon a Szovjetunióval, Powers fġhadnagy?	
+314	Viccel?	
+315	Igennel, nemmel, vagy minél tömörebben válaszoljon a kérdésekre!	forced duplication
+316	Igennel, nemmel, vagy minél tömörebben válaszoljon a kérdésekre!	forced duplication
+317	Kapcsolatban áll valamiképp a Szovjetunióval?	
+318	Nem, dehogy.	
+319	Tudja, miért van itt?	
+320	[NO TRANSLATION]	missing translation
+321	Ez nemet jelent?	
+322	Igen.	
+323	Mármint...	
+324	Nemet, igen, nemet jelent.	
+325	Úgy értem, fogalmam sincs, hogy miért vagyok itt.	
+326	Elġre néz, hadnagy!	
+327	Értettem.	
+328	Na, mi van, Gary, hogy ment?	
+329	Egész jól.	
+330	Tudtam a saját nevemet.	
+331	Akkor Shinn-nél biztos jobb voltál.	
+332	Ki a nyerġ?	
+333	Most épp szerénységem.	
+334	[NO TRANSLATION]	missing translation
+335	Ossz nekem is!	
+336	Akkor ez mind az enyém, ugye?	
+337	Mondtam, hogy vele ne játszatok.	
+338	Jól van, pilóták, fogjunk bele!	
+339	Egy olyan feladatra választották ki magukat, amirġl senkivel nem beszélhetnek ezen a körön kívül.	
+340	Senkivel.	
+341	Nem érdekel, kiben bíznak meg.	
+342	Anya, feleség, szeretġ.	
+343	A jó Isten, akihez imádkoznak.	
+344	Egyiknek se mondanak el egy szót se abból, amit most hallanak.	
+345	Maguk valamennyien teljesítik az elvárásainkat.	
+346	Biztonsági szempontból megfelelnek.	
+347	Kiváló pilóták és a repülési óraszámuk alapján rutinosan vezetnek együléses gépet.	
+348	Ami ma zajlik, az háború.	
+349	Háború, amelyben nem a harcosoké a fġszerep,	
+350	hanem az információké.	
+351	Hírszerzési adatokat fognak gyûjteni.	
+352	Adatokat az ellenségrġl.	
+353	Olyan adatokat, melyek segíthetnek abban, hogy gyġztesen kerüljön ki egy termonukleáris konfliktusból a Szovjetunióval.	
+354	Vagy elkerüljünk egy ilyet.	
+355	A nyilvánosság számára, ideértve anyát, felséget, szeretġt és az atyaúristent, a maguk feladata nem létezik.	
+356	És mivel nem létezik, maguk sem léteznek.	
+357	A gépüket nem lġhetik le.	
+358	Nem eshetnek fogságba.	
+359	Most a CIA-nak dolgoznak.	
+360	Mondja, Jim, hogy lesz ez, úgy hallom, az embere jól titkolja, hogy orosz.	
+361	De biztos, hogy kilóg a lóláb?	
+362	Nem uram, tökéletesen beszél angolul.	
+363	Ami el is várható, hiszen brit útlevele van.	
+364	Igen, de csodálnám, ha nem lenne hamis.	
+365	Na, lássuk, Jim, hogy is állunk?	
+366	Azt látom itt... hogy...	
+367	Uram, tehát, nem hiszem, ugye, hogy három hét elég lenne a felkészülésre.	
+368	[NO TRANSLATION]	missing translation
+369	Sok bizonyítékot kell megvizsgálnunk.	
+370	Halasztást akarnak?	
+371	Hat hetet, igen.	
+372	Hisz gyakorlatilag ketten visszük ez a munkatársammal, ugye.	
+373	Komolyan gondolja ezt, Jim?	
+374	Uram?	
+375	Komolyan gondolja ezt?	
+376	Igen.	
+377	Természetesen.	
+378	Azért is indítványoztam...	
+379	Jim, a maga védence szovjet kém.	
+380	A vád szerint.	
+381	Ugyan már, ügyvéd úr!	
+382	Bíró úr.	
+383	Szó se róla.	
+384	Becsüljük magát, mert elvállalta ezt a hálátlan munkát.	
+385	Az emberünk törvényes eljárást kap.	
+386	De azért ne essünk túlzásokba!	
+387	Kifogástalan védelemben lesz része.	
+388	Ha rajtunk múlik, el fogjuk ítélni.	
+389	Ugyan, ügyvéd úr.	
+390	Most ne játszadozzon!	
+391	Se velem, se az üggyel.	
+392	Megvan a dátum... és meglesz a tárgyalás.	
+393	Taxi!	
+394	Taxi!	
+395	Ég a lámpája!	
+396	A rosseb belé.	
+397	Persze rohan vissza Manhattanbe.	
+398	Szabadot jelzett, nem?	
+399	A fene egyen meg!	
+400	[NO TRANSLATION]	missing translation
+401	[NO TRANSLATION]	missing translation
+402	[NO TRANSLATION]	missing translation
+403	[NO TRANSLATION]	missing translation
+404	[NO TRANSLATION]	missing translation
+405	[NO TRANSLATION]	missing translation
+406	Mr. Donovan!	
+407	Tessék?	
+408	Tessék?	
+409	CIA?	
+410	Igen.	
+411	Csevegjünk egy kicsit!	
+412	Hogy halad az üggyel?	
+413	Remekül haladok.	
+414	Soha jobban.	
+415	[NO TRANSLATION]	missing translation
+416	Beszélt az emberrel?	
+417	Mire gondol?	
+418	Találkozott Abellel.	
+419	[NO TRANSLATION]	missing translation
+420	Mondott valami érdemlegeset?	
+421	Mi errġl nem beszélgetünk.	
+422	Nem, persze hogy nem.	
+423	Mármint tényleg nem beszélgetünk.	
+424	Mert engem titoktartási kötelezettség terhel.	
+425	Ugyan már, ügyvéd úr.	
+426	Nem hagyja végre abba ezt az ugyan már, ügyvéd uram-ozást?	
+427	A bíró ma kétszer mondta nekem, és bevallom, hogy rühellem.	forced duplication
+428	A bíró ma kétszer mondta nekem, és bevallom, hogy rühellem.	forced duplication
+429	Egyre jobban, minél többet hallom.	
+430	Na, jól van, nézze, tudom, hogy van ügyvédi titoktartás.	
+431	Tudom, hogy mirġl szól a jogi csûrcsavarás.	
+432	És azt is tudom, hogy ezzel keresi a kenyerét.	
+433	De itt valami másról van szó.	
+434	A hazája biztonságáról.	
+435	És sajnálom, ha sértġ volt, ahogy kifejeztem magam.	
+436	De nekünk meg kell tudnunk, amit Abel elmond.	
+437	Ez így világos, Donovan?	
+438	Meg kell tudnunk.	
+439	Itt nincs cserkészbecsület.	
+440	Itt nincs játékszabály.	
+441	A maga neve, Hoffman, igaz?	
+442	Igen.	
+443	Az német eredetû.	
+444	Igen, és?	
+445	Én, Donovan vagyok.	
+446	Ír név.	
+447	Ír ġsök, mindkét állam.	
+448	Én ír vagyok, maga német.	
+449	De mi tesz bennünket, amerikaivá?	
+450	Csak egy dolog.	
+451	Egyetlen egy.	
+452	A játékszabály.	
+453	Úgy hívjuk, hogy Alkotmány, és nagyon komolyan vesszük, ez tesz minket amerikaivá.	
+454	Úgyhogy ne mondja nekem, hogy nincsenek játékszabályok, és ne bólogasson így nekem, maga gazember.	
+455	Mondja, tartanunk kell magától?	
+456	Hagyjuk egymást dolgozni, akkor nem lesz baj!	
+457	Ettġl a naptól fogva az U-2-t nem szabad sem kémrepülġgépként, sem felderítġgépként emlegetniük.	
+458	A neve egyszerûen Tétel.	
+459	A Tétel fesztávja 24 méter.	
+460	A hajtómûve egy darab Pratt and Whitney J57 P-37-es motor.	
+461	A tolóereje 4500 kilopont, a legnagyobb sebessége 690 km/h.	
+462	Nem valami gyors, de 21 ezer méter magasan repülnek majd vele, oda nem megy fel semmi.	
+463	21 ezer?	
+464	Igen, hogy biztosan ne vegyék észre magukat.	
+465	Elég törékenynek tûnik.	
+466	Minden plusz kilogramm súly, mínusz fél méter magasság... és a kamerákat is cipelni kell.	
+467	Ezek 4500 milliméteres lencsék, három darab.	
+468	Kiváló panorámafényképezġgép, négyszer olyan jó, mint az eddig használt legjobb légi felderítġ fényképezġgépünk.	
+469	Fotókat fognak csinálni, számtalan fotót.	
+470	21 ezer méteren a Tétel 5 ezer négyzetkilométernyi területet tud lefotózni egy menetben.	
+471	Ennyi, pilóták, most pedig átadom a szót Sumner ügynöknek.	
+472	Mutatom, hogy milyen eszközöket használnak majd.	
+473	Revere 8-as kamera, 40-es magazine modell, Keystone Capri K-25-ös, ezüst.	
+474	Üreges nyelû borotvapamacs.	
+475	Teljes kódtábla készlet ehetġ ezüst fólián.	
+476	Speciális fotófelszerelés.	
+477	Igen,	
+478	minden világos.	
+479	Köszönjük.	
+480	Még egy pillanat, Mr... Bosco.	
+481	Blasco.	
+482	Igen?	
+483	Van egy alcsoport itt, ebben a felsorolásban, ha jól látom.	
+484	Mert a holmik nagy része a mûtermében volt, de találtunk pár dolgot a hotelszobában is.	
+485	Ahol elfogtuk.	
+486	És amit átkutattak?	
+487	Igen, ott.	
+488	Láthatnám a parancsot?	
+489	A mit?	
+490	Ez fejtse ki bġvebben!	
+491	Hisz volt parancsuk.	
+492	Hisz volt parancsuk.	
+493	Volt, de csak ġrizetbe vételi parancsuk egy külföldi ellen, nem házkutatási parancsuk bûncselekmény gyanúsítottja ellen.	
+494	Így a házkutatás törvénytelen volt, semmi, amit találtak, nem fogadható el bizonyítékként.	
+495	Milyen védelem jár neki, uram?	
+496	Ez az ember nem...	
+497	Ki ez az ember?	
+498	Rudolf Ivanovich Abel.	
+499	Külföldi, szovjet állampolgár.	
+500	Nem amerikai.	
+501	1886, Yick Wo kontra Hopkins ügy.	
+502	Az ítélet szerint külföldi személyt, ez esetben egy kínait, törvényes eljárás keretében kell felelġsségre vonni, még ha illegálisan tartózkodik is nálunk.	
+503	Az Igazságügyi Minisztérium elsġsorban az Amerikai Egyesült Államokat szolgálja.	
+504	Nem világos a számomra, hogy egy illegálisan itt lévġ külföldit milyen jogoktól foszthatnánk meg.	
+505	Kitġl kap jogokat?	
+506	Amerikától?	
+507	Mondja, kitġl kap jogokat, ügyvéd úr?	
+508	A civilizációnk a tét.	
+509	Ez az orosz kém a társadalmi rendünkre jelent veszélyt.	
+510	A terem tele van, csak ránk várnak.	
+511	Menjen, és üljön le az orosz mellé!	
+512	Essünk túl ezen az egészen!	
+513	Az indítványt elutasítom.	
+514	Most neki se ártana egy jó biztosítás.	
+515	Hogy ment a dolog?	
+516	Odabent?	
+517	[NO TRANSLATION]	missing translation
+518	Nem túl jól.	
+519	Mivel nem amerikai állampolgár.	
+520	Hát az tény.	
+521	És a fġnöke szerint nem is szovjet állampolgár.	
+522	Hát a fġnöknek nincs mindig igaza... de olyankor is ġ a fġnök.	
+523	Ön sosem aggódik?	
+524	Használna?	
+525	Álljanak fel!	
+526	Hûséget fogadok az Amerikai Egyesült Államok Zászlajának, és a köztársaságnak, amelyet jelképez: egy és oszthatatlan nemzet az Isten színe elġtt, amely szabadságot és igazságosságot nyújt mindenkinek.	
+527	Tehát lássuk, mi történik, amikor felrobban egy atombomba.	
+528	A napnál is fényesebb villanás látható.	
+529	Kárt tehet épületekben, betörheti házak ablakát.	
+530	De ha gyorsan fedezékbe húzódunk, ahogy Bert, akkor kisebb a veszély.	
+531	Kétféle támadás jöhet, amire számítunk és ami váratlanul ér.	
+532	[NO TRANSLATION]	missing translation
+533	Te meg mit csinálsz?	
+534	Figyelj, apa, mert ez nagyon fontos.	
+535	Ha háború lesz, akkor rögtön az elején elzárják a vizet és nem lesz már áram.	
+536	Erre úgy készülhetünk fel, hogy ezt megtöltjük, meg még a mosogatót és a zuhanyt használjuk, meg a kinti kerti csapot...	
+537	Csupa jó ötlet.	
+538	De szerintem teljesen felesleges, Roger, hogy ilyen dolgokon törd a fejedet.	
+539	Jó, de amikor megszólalnak a szirénák, már nem lesz elég idġ megtölteni a kádat.	
+540	De nem szólalnak meg a szirénák.	
+541	Az meg mi?	
+542	A bomba úgy jön, hogy az Empire State Building lesz a cél.	
+543	De 3000 méter magasan robban majd fel.	
+544	A Life magazinban olvastam, hogy ez lesz, hogyha a bomba 50 megatonnás, a lökéshullám kifut erre meg erre, és miden megolvad innentġl idáig.	
+545	És nézd meg, hol lakunk!	
+546	Itt.	
+547	Igen, ott lakunk.	
+548	De ide hallgass, senki sem akar atombombát dobni ránk.	
+549	Az oroszok akarnak.	
+550	Az az orosz is, akit te védesz?	
+551	Azért jött, hogy elġkészítse a bomba ledobását.	
+552	Ugyan már, dehogyis...	
+553	Nem azért.	
+554	És még csak nem is orosz.	
+555	Úgy tudjuk, hogy Észak-Angliában született.	
+556	De az oroszoknak kémkedett.	
+557	Nem értem, miért vagy az ügyvédje.	
+558	Nem vagy kommunista, akkor meg miért véded?	
+559	Azért, mert ez a munkám.	
+560	Eddig nem ez volt.	
+561	Az Amerikai Egyesült Államok kontra Rudolf Abel ügy elsġ vádpontja tekintetében mi az esküdtszék döntése?	
+562	Bûnös vagy nem bûnös?	
+563	Bûnös.	
+564	A második vádpontban?	
+565	Bûnös.	
+566	A harmadik vádpontban?	
+567	Bûnös.	
+568	Bíró úr, indítványozom az ítélet bizonyítékok miatti érvénytelenítését.	
+569	Elutasítom.	
+570	Az esküdtszéket feloszlatom.	
+571	Nagyon köszönöm.	
+572	Meg kell jegyeznem, ha önök közt ülök, hasonló döntést hoztam volna.	
+573	A büntetés kihirdetése... november 15-én lesz.	
+574	Egyáltalán nem biztos, hogy halálra ítélik.	
+575	ne aggódjon!	
+576	Nem félek a haláltól, Mr. Donovan.	
+577	Jó, lehet... ha választhatnék, elkerülném.	
+578	Ezt nálam felejtette.	
+579	Ó, köszönöm.	
+580	Ó, hálásan köszönöm.	
+581	Azt nem is kérdezte, hogy igazak-e a vádak.	
+582	Hogy kém vagyok vagy sem.	
+583	Mi így dolgozunk.	
+584	Az eljárás a fontos.	
+585	A bizonyíthatóság számít.	
+586	[NO TRANSLATION]	missing translation
+587	Az, hogy a vádak... igazak vagy sem, az nem fontos.	
+588	Bizonyítaniuk kell, hogy ön kém.	
+589	Ön nem is kíváncsi rá?	
+590	Nem, tényleg nem.	
+591	Az én számomra ön mûvész.	
+592	A feleségem, ġ a mûvész.	
+593	A zenének él. A Moszkvai Gyermekzenekarnál, ott dolgozik.	
+594	És min játszik?	
+595	Hárfán.	
+596	[NO TRANSLATION]	missing translation
+597	Akkor biztosan angyal.	
+598	Ahogy ott áll, egy illetġre emlékeztet, aki gyermekkoromban sokszor megfordult nálunk.	
+599	Apám azt mondta: Jól figyeled ġt, fiam.	
+600	Úgy tettem, sokáig figyeltem.	
+601	De nem csinált soha semmi, de semmi érdekeset.	
+602	És rá emlékeztetem?	
+603	Mikor nagyjából annyi idġs voltam, mint a fia,	
+604	a házunkat fegyveres partizánok rohanták le.	
+605	Egy nagy csapat.	
+606	Megverték apámat, megverték anyámat, és az apám barátját, ġt is megverték.	
+607	Akkor is figyeltem ġt.	
+608	Ütötték és elesett, de rögtön újra felállt.	
+609	Erre durvábban verték.	
+610	De ġ akkor is mindig felállt.	
+611	Talán épp ezért végül nem verték tovább.	
+612	Életben hagyták.	
+613	Itt van a fülemben, ahogy mondták.	
+614	Ez olyasmit jelent, hogy... Álló ember.	
+615	Álló ember.	
+616	Nahát, Jim!	
+617	Millie, kegyed egy tünemény.	
+618	Mortie épp igyekszik kicsípni magát.	
+619	De jöjjön be!	
+620	Whiskyt, Jim?	
+621	Ó, igen, kérek.	
+622	Köszönöm.	
+623	Egy kis vízzel kérném.	
+624	Bíró úr.	
+625	Helló, Jim.	
+626	Menni készülünk.	
+627	De azért van pár percem.	
+628	Jótékonysági dolog.	
+629	Millie beszervezett.	
+630	Köszönöm, hogy idġt szán rám.	
+631	Csak lenne néhány gondolatom Abel büntetésérġl.	
+632	És úgy véltem, jobb, ha otthon zaklatom önt ezzel, mert túllépnék a szûken vett jogi szempontokat.	
+633	Igen, ez az Abel ügy már csak ilyen.	
+634	Ha kissé nyers voltam a tárgyaláson, az pontosan azért volt, amit mondd.	
+635	Mert itt nem csak jogi szempontok vannak.	
+636	Hanem fontosabbak.	
+637	Fontosabb szempontok!	
+638	Köszönöm, köszönöm.	
+639	[NO TRANSLATION]	missing translation
+640	Uram...	
+641	Az a meggyġzġdésem, hogy legjobban az szolgálná az Egyesült Államok érdekeit, ha Abel nem halna meg.	
+642	Miért?	
+643	Nem mondom, hogy már döntöttem, de ha Abel kész lenne együttmûködni a kormánnyal, azt már jelezte volna.	
+644	Jó, de az is fontos...	
+645	[NO TRANSLATION]	missing translation
+646	Befejezhetem.	
+647	Nem állíthatja, hogy az áll az Egyesült Államok érdekében, hogy Abel egy cellában töltse élte hátralévġ részét.	
+648	Hol van itt a nemzeti érdek?	
+649	Nem a bebörtönzése áll érdekünkben, uram.	
+650	Hanem lehetséges, hogy valamikor a belátható jövġben, a szovjetek elfognak esetleg egy hasonló rangú és értékû amerikait.	
+651	Akit azután jó lenne kiváltani.	
+652	[NO TRANSLATION]	missing translation
+653	A fantázia birodalmába tévedt.	
+654	Mi lenne, hogyha ez meg az történne.	
+655	Ez a szakterületem.	
+656	A biztosítások.	
+657	Ez korántsem valószínûtlen fejlemény.	
+658	Reális esély van rá, hogy bekövetkezik.	
+659	Az ilyen dolgokra már biztosítást szokás kötni.	
+660	De ha most Abelt a halálba küldjük, azzal felmondjuk a biztosítást.	
+661	Nem lesz kötvény a zsebünkben, ha villám csap a házba.	
+662	Szép beszéd volt.	
+663	Uram, emellett még ott van a humanitárius szempont is.	
+664	Halljon meg, csak mert elvégezte, amivel megbízták?	
+665	Jól van, ügyvéd úr.	
+666	Mennem kell.	
+667	Örülök, hogy láttam.	
+668	Majd én kikísérem.	
+669	Álljanak fel!	
+670	A Kelet-New-York-i Kerületi Bíróság összeült.	
+671	Mortimer Byers bíró úr elnököl.	
+672	Üljenek le!	
+673	A vádlott álljon fel!	
+674	A bíróság megítélése szerint, és a vádlottat minden vádpontban bûnösnek ítélġ esküdtszéki döntés alapján, a következġ büntetés indokolt és törvényes.	
+675	Tekintettel arra, hogy valamennyi vádpontban bûnös, a vádlottat, átadva ġt az Egyesült Államok igazságügyi miniszterének, szövetségi büntetġintézetben letöltendġ 30 év szabadságvesztésre ítélem.	
+676	Elrendelem az elítélt ġrizetbe vételét.	
+677	[NO TRANSLATION]	missing translation
+678	Nem végeznek ki?	
+679	Nem.	
+680	Nem, nem.	
+681	Kötelet érdemel!	
+682	Az ég szerelmére, miért nem akasztjuk fel?	
+683	Üljön le, uram!	
+684	Ez egy kém!	
+685	A vesztünket okozza a hazugságaival!	
+686	Az ég szerelmére, fel kell akasztani!	
+687	Így van!	
+688	Ġ egy kém!	
+689	Mr. Donovan!	
+690	Mr. Donovan!	
+691	Egyetlen kérdés.	
+692	Csak egyetlen kérdés, uram.	
+693	A kalapom!	
+694	A kalapom!	
+695	A kalapom!	
+696	Nem nyilatkozunk.	
+697	Mr. és Mrs. Donovan nem válaszol kérdésekre.	
+698	Hogy érzi magát most, hogy végetért a rémálom?	
+699	Mr. Donovan, elégedett az ítélettel?	
+700	[NO TRANSLATION]	missing translation
+701	Elég jó alapunk van egy fellebbezéshez.	
+702	Fellebbez?	
+703	Igen.	
+704	Jim, megtetted a dolgodat.	
+705	Az elváráson felül teljesítettél.	
+706	De az az ember egy kém.	
+707	Az ítélet méltányos, nincs okod megfellebbezni.	
+708	De hát eljárási hibákat vétettek.	
+709	A házkutatás jogtalan volt.	
+710	És a negyedik alkotmánykiegészítést a fellebbviteli bíróság mindig komolyabban veszi.	
+711	[NO TRANSLATION]	missing translation
+712	Mi a jó isten haragjáról beszélsz te.	
+713	Arról volt szó, hogy Abel kapjon kielégítġ védelmet, megkapta.	
+714	Mit jössz nekem még itt az istenverte alkotmánnyal?	
+715	Tom, mondd azt a szemembe nézve, hogy szerinted a fellebbezés jogilag megalapozatlan.	
+716	Nem mondom azt.	
+717	Egészen másról beszélek.	
+718	Tom arra céloz, hogy ára van a dolognak.	
+719	Pontosan.	
+720	És azt a családod és az iroda fizetné meg.	
+721	Hiányzott a zene.	
+722	Ellenġrizték a rádiót, hogy nem alkalmas-e adásra.	
+723	Hát természetesen.	
+724	Sosztakovics.	
+725	[NO TRANSLATION]	missing translation
+726	Sosztakovics a legnagyobbak egyike.	
+727	Úgy vélem... a legerġsebb érvünk a fellebbezésben... az alkotmánysértés.	
+728	Jó esélyünk van, ha a Legfelsġbb Bíróság újratárgyalja az ügyet.	
+729	Jim...	
+730	Legyen óvatos!	
+731	Óvatos.	
+732	77 Sunset Strip	
+733	Edward Byrnes.	
+734	77 Sunset Strip	
+735	És Richard Long.	
+736	Jó reggelt, Suzanne!	
+737	Jó reggelt, Dick!	
+738	Van itt önnek egy levél.	
+739	Ó, tġle jött.	
+740	Anya!	
+741	Jézus Mária, mi történt?	
+742	Jól vagy, csillagom?	
+743	Anya.	
+744	Jól vagy?	
+745	Itt maradok.	
+746	Menj fel!	
+747	[NO TRANSLATION]	missing translation
+748	Leültem a fal tövébe, apa!	
+749	Jól vagy?	
+750	Nem esett bajod?	
+751	Hallod, apa, leültem a fal tövébe!	
+752	[NO TRANSLATION]	missing translation
+753	Jó messze az ablaktól!	
+754	Jól van, jól van.	
+755	Jól tetted. Ügyes vagy, ügyes vagy.	
+756	Jól van.	
+757	Jól van, semmi baj.	
+758	Semmi baj, elmentek. Elmentek.	
+759	Gyáva alakok.	
+760	Elmentek.	
+761	A nyomozok már elindultak bejárni a környéket.	
+762	Talán sikerül leírást szerezni a kocsiról, de nem tartom valószínûnek.	
+763	Védelemre van szükségünk.	
+764	Igen, már szóltam, hogy két kocsit hagyjanak itt önöknél.	
+765	Nyilvánvaló, hogy...	
+766	De meddig?	
+767	A hét második felében Washingtonba kell utaznom.	
+768	Miért csinálja ezt?	
+769	Kell ez a családjának?	
+770	Hogyan, kérem?	
+771	Még mindig védi a kémet?	
+772	Miért nem száll ki az ügybġl?	
+773	Na jó, errġl ennyit, fejezze be!	
+774	Majd ha végigmondtam.	
+775	A harmadik hullámban voltam az Omaha parton.	
+776	Én is voltam a seregben.	
+777	...és maga ġket védi?	
+778	Ha már rendġrnek ment, akkor csinálja, ami a dolga!	
+779	Jól van, bocsánat.	
+780	Jöjjön, kimegyünk!	
+781	Jöjjön!	
+782	[NO TRANSLATION]	missing translation
+783	[NO TRANSLATION]	missing translation
+784	Ezt nem tudom elfogadni.	
+785	Azt mondtam, gyerünk kifelé!	
+786	Bocsásson meg!	
+787	[NO TRANSLATION]	missing translation
+788	[NO TRANSLATION]	missing translation
+789	[NO TRANSLATION]	missing translation
+790	Ha kénytelenek szovjet területek felett elhagyni a repülġt, akkor használják a géptörzsben elhelyezett 1 kg-os robbanótöltetet!	
+791	Ehhez elġbb élesítik a folyamatot.	
+792	És aztán bekapcsolják az idġzítġt, a felirattal ellátott kapcsolót átbillentve.	
+793	Ezeknek a repüléseknek mindenképpen titokban kell maradniuk, és a gép nem kerülhet az ellenség kezébe.	
+794	De mi igen?	
+795	Nem tudom, maga tréfál-e, Powers fġhadnagy.	
+796	De én nem.	
+797	Amit a géprġl tudnak, az épp úgy titok, mint a gép létezése.	
+798	Ahogy a repülġket nem foghatják el... épp úgy magukat se.	
+799	Nyilván, ha úgy tûnik, hogy kicsúszhatnak a kezükbġl, mert közel van az országhatár,	
+800	akkor katapultáljanak.	
+801	De ha úgy tesznek... kell ez az egy dolláros.	
+802	Találnak benne egy tût.	
+803	Egy karcolás elég, nem kell több, azonnal hat.	
+804	Ha szükséges, a zsebpénz megváltja magukat a fogságtól.	
+805	Világos?	
+806	Ha fizetni kell, akkor fizessenek.	
+807	Tisztelt fġbíró úr, igen tisztelt bíróság.	
+808	A Hidegháború egyáltalán nem képletes kifejezés.	
+809	Nem is túlzó elnevezés.	
+810	Valóságos összecsapásról, csatáról van szó, amit két világnézet vív egymással.	
+811	Le kell szögeznem, Rudolf Ivanovich Abel, vagy Abel ezredes, ahogy még a letartóztatói is szólították ġt, szemben áll velünk ebben a harcban.	
+812	Segédhajtómû?	
+813	Bekapcsolva.	
+814	Oxigéntartály nyomása?	
+815	126 atmoszféra.	
+816	Átalakító?	
+817	Bekapcsolva.	
+818	Ezen háború résztvevġjének tekintették ġt, de aztán a kormányunk úgy döntött, hogy többé nem kezeli ġt akként.	
+819	Ennél fogva... megfosztatott a honfitársainknak kijáró jogi védelemtġl.	
+820	Az, ahogy bántak vele helyén való a védelmezett ellenséggel szemben, de nem az egy védelmezett bûnözġvel szemben.	
+821	Szivattyúk?	
+822	Szivattyú be.	
+823	Megsemmisítġ?	
+824	Fedél alatt.	
+825	Emelkedġ adatok.	
+826	A fedélzeten.	
+827	Megismertem ġt.	
+828	Ha a vád igaz, idegen hatalmat szolgál, de azt hûséggel teszi.	
+829	Ha Abel az ellenséges sereg katonája, akkor jó katona.	
+830	Nem menekült el a csatából, hogy mentse a bġrét.	
+831	Nem lett áruló a fogságban sem.	
+832	Végig hû maradt ahhoz, amire felesküdött.	
+833	Nem lépett a gyávák menekülġútjára.	
+834	A gyáva feladja a büszkeségét, mert ez a megmenekülése ára.	
+835	De ez Rudolf Abelnek túl nagy ár.	
+836	Nem illene a társadalmi rendszerünk alapját képezġ jogok biztosításával megmutatnunk ennek az embernek, hogy kik vagyunk?	
+837	Hogy kik vagyunk mi.	
+838	Hisz épp ez ebben a Hidegháborúban a legerġsebb fegyverünk.	
+839	Vagy mi kevésbé vagyunk hûek az elveinkhez, mint ġ az övéihez?	
+840	Az elnök bejelentette, hogy egy meteorológiai repülġ négy napja eltûnt Törökországtól északra.	
+841	A NASA tart tġle, hogy a gép lezuhant, és a pilóta életét vesztette.	
+842	A radarkép tanúsága szerint a gép, mielġtt megszakadt vele a kapcsolat, irányt tévesztve behatolt a szovjet légtérbe, a roncsok illetve a pilóta felkutatása így nehézségekbe ütközik.	
+843	Most következzen egy washingtoni hír!	
+844	A Legfelsġbb Bíróság megosztott, 5-4 arányú szavazással helyben hagyta az orosz kém, Rudolf Abel perében született ítéletet.	
+845	Abel ügyvédje, James Donovan szerint, a per állampolgári jogokkal kapcsolatos problémákat vetett fel.	
+846	Arra a kérdésre, hogy hogyan érzi magát a mai vereség után, Mr. Donovan azt felelte: fáradtan.	
+847	A reklám után további hírekkel folyatjuk adásunkat.	
+848	[NO TRANSLATION]	missing translation
+849	Vége van.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	Hogyhogy nem találom sehol a Prudential ügy dossziéját?	
+853	Igen... Mr. Watters kérte, hogy vigyem át Jack Elwes irodájába a beadvány vázlatával együtt.	
+854	Igen?	
+855	Ġ véglegesítette és beadta amíg ön Washingtonban volt.	
+856	Elég rég dolgozunk együtt.	
+857	Tudja, hogy nem vagyok kezdġ ezen a téren.	
+858	Hozzon össze egy találkozót!	
+859	Valami szép helyen!	
+860	Hogy a New York-i életbe is belekóstolhasson.	
+861	De elġtte kérek egy összefoglaló anyagot mindazokról...	
+862	Van ismerġse Leipzigben?	
+863	Leipzig.	
+864	Már Németországból is jönnek gyalázkodó levelek?	
+865	Kelet-Németországból.	
+866	A felesége?	
+867	Nem.	
+868	Nem, nem, nem, nem.	
+869	Azt próbálja elhitetni, de nem valami ügyesen csinálja.	
+870	Azért veszem a bátorságot, hogy írjak önnek, mert megtudtam az újságokból, hogy mennyi jóindulattal és odaadással védte az én szeretett férjemet, Rudolf Abelt.	
+871	És válaszoljak rá?	
+872	Ez jó kérdés.	
+873	Mit lépjen az ember, ha nem tudja mi a játék célja?	
+874	Francis Gary Powers!	
+875	A Szovjeunió Alkotmányának 2. cikkelye alapján államellenes bûncselekmény elkövetése miatt 10 év szabadságvesztésre ítéljük, melybġl az elsġ 3 börtönben letöltendġ.	
+876	A büntetés ideje, beszámítva az elġzetes leztartóztatást is, 1960. május 1-jétġl kezdve számítandó.	
+877	Mr. Donovan, nagyon köszönöm, hogy eljött.	
+878	Örülök, hogy megismerhetem, Mr. Dulles.	
+879	Nagyon örvendek.	
+880	Nescafé, tejszín, két cukor.	
+881	Köszönöm.	
+882	Van hát ez a levél, amit kapott.	
+883	Nyilvánvaló, hogy szovjet kezdeményezésrġl van szó.	
+884	Az oroszok még mindig nem akarják elismerni, hogy Abel szovjet állampolgár, illetve szovjet kém.	
+885	Úgyhogy...	
+886	koholmánnyal operálnak.	
+887	Értem, uram, de mi a céljuk?	
+888	Náluk van az emberünk, a kémpilóta.	
+889	Nálunk meg az övék.	
+890	Fogolycserét, úgy hiszem, azt szeretnének.	
+891	Ami aligha meglepġ az ön számára, ügyvéd úr.	
+892	Hisz úgy tudom, elġre látta ezt a fejleményt.	
+893	Igen, uram, így igaz, ezek szerint igazam lett.	
+894	Hát igen, gratulálok.	
+895	Ünnepelhet.	
+896	Tehát... van az elfogott emberünk,	
+897	Powers.	
+898	Jó ember, de sajnos tele van a feje titkos adatokkal.	
+899	Abelnek szintén tele van a feje titkos adatokkal, de nekünk nem mondott semmit.	
+900	Higgye el, uram, nem is fog.	
+901	Igen, mi tudjuk ezt, de az oroszok nem.	
+902	Meg akarják kapni ġt, mielġtt megtörik.	
+903	Nekünk meg Powers kéne mielġbb, hasonló okokból.	
+904	Ha jól értelmezem, uram, kilátásban van a hapy end mindkét fél számára.	
+905	Igen, akkor, ha... belemegyünk a játékba.	
+906	Önnek kell letárgyalni a cserét, hogy a dolog ne kormányok egyezkedése legyen.	
+907	Ġk nem ismerik el, hogy Abel szovjet polgár, mi nem ismerjük el, hogy Kelet-Németország független állam.	
+908	Kelet-Berlint se ismerjük el, hiába annektálták a szovjetek '45-ben.	
+909	Tehát én, kijelölt tárgyaló, képviselem...	
+910	Nem, ön nem képvisel senkit.	
+911	Nem dolgozik a kormánynak.	
+912	Nincs státusza.	
+913	Szóval nekünk is van színjátékunk.	
+914	Hogyne.	
+915	Épp ezért nem is számíthat semmiféle hivatalos egységre, ha nehézségei támadnak.	
+916	A CIA nem vállal felelġsséget.	
+917	Mi mossuk kezeinket.	
+918	És hol kell majd lefolytatnom ezt a tárgyalást?	
+919	Ott.	
+920	Ott?	
+921	Berlinben.	
+922	Úgy tudom, Berlinben most eléggé...	
+923	Igen, ott most elég komplikált a helyzet.	
+924	Úgy van, komplikált.	
+925	A szovjet oldalon hónapok óta ellenġrzġpontokkal próbálják gátolni a lakosság átszivárgását nyugatra, de nem sikerül.	
+926	Hírszerzési adatok szerint egy lépéssel tovább akarnak menni, fallal fogják elválasztani a keleti szektort.	
+927	Ennyi, ez a helyzet dióhéjban.	
+928	Döntse el, vállalja-e a dolgot!	
+929	Nyilván kér egy kis gondolkodási idġt.	
+930	Nem.	
+931	Nem kérek.	
+932	Annál jobb.	
+933	Remek.	
+934	Hálás volnék, ha ezt bizalmasan kezelné.	
+935	Ha lehet, ne beszéljen róla se... Maryvel, se senki mással.	
+936	A levelezésrġl tájékoztasson minket!	
+937	Mondja el, mit akarnak tenni, és mikor!	
+938	Nincs megbízóm, nincs feleségem, nincs hazám.	
+939	Nem tudom, mit tegyek, mikor tegyem, és hogy kinek.	
+940	A hazájának fogja tenni, csak az még nem tudhat róla.	
+941	És mit tudhat az ügyfelem, akit elcserélünk?	
+942	Az emberem?	
+943	[NO TRANSLATION]	missing translation
+944	Mármint az orosz kém?	
+945	Ġ már nem az ön embere, ügyvéd úr.	
+946	Az ön embere most Francis Gary Powers.	
+947	De mit mondjak Rudolf Abelnek?	
+948	Hogy meg ne haljon nekünk.	
+949	Tanár úr?	
+950	Tanár úr?	
+951	Papa bement az egyetemre.	
+952	Nem lett volna szabad idejönnöd.	
+953	Ma is tartanak órákat?	
+954	Bement megnézni.	
+955	Ġ már csak ilyen.	
+956	De te mit keresel itt?	
+957	Értetek jöttem, Kátya.	
+958	Velem kell jönnötök.	
+959	Holnap talán már késġ.	
+960	[NO TRANSLATION]	missing translation
+961	Hogy menjünk el?	
+962	Igen.	
+963	Igen, igen, igen, végleg.	
+964	Most rögtön.	
+965	Menj vissza!	
+966	Menj vissza!	
+967	Nem lesz semmi baj, én amerikai vagyok.	
+968	[NO TRANSLATION]	missing translation
+969	Most menj haza,	
+970	majd átjöttök máskor!	
+971	Menj!	
+972	Hé!	
+973	Én... jó napot!	
+974	Az iratait kérem!	
+975	Ich bin Student Frederic Pryor.	
+976	Igen, student.	
+977	Frederic Pryor vagyok.	
+978	Közgazdász hallgató.	
+979	Nézze!	
+980	Itt a disszertációm.	
+981	Itt írtam.	
+982	[NO TRANSLATION]	missing translation
+983	Nézzék meg!	
+984	Tessék, tessék. A körkereskedelem az európai kommunista országokban.	
+985	[NO TRANSLATION]	missing translation
+986	Nagy munka volt.	
+987	Ne, ne, ez az egyetlen példány.	
+988	Nem!	
+989	Azért mondj valamit!	
+990	Az utolsó percben derült ki.	
+991	Van egy irodájuk Londonban.	
+992	Fontos ügyfél.	
+993	És ragaszkodnak hozzám.	
+994	Aztán skóciai horgászkirándulás.	
+995	Miféle horgászkirándulás, Jim?	
+996	Pisztrángra megyünk.	
+997	Nyugtass meg, hogy nem fenyeget veszély, Jim, mondd, hogy egyszerû üzleti útra indulsz, és akkor nem aggódom!	
+998	Az útlevél is kell.	
+999	Csak mondj valamit, akármit!	
+1000	Még az sem fontos nekem, hogy igaz legyen.	
+1001	A családért teszem.	
+1002	A berlini kísérġje Mr. Michener lesz.	
+1003	Attasé az amerikai követségen.	
+1004	Tehát komplikálódott a dolog.	
+1005	[NO TRANSLATION]	missing translation
+1006	Mint tudja, az állítólagos feleség az utolsó levelében azt írta, hogy egy Vogel nevû kelet-berlini ügyvéd képviseli az érdekeit.	
+1007	Igen, Vogel elment a kelet-berlini orosz követségre, és megtudta, hogy az oroszok odaadnák Powerst Abelért.	
+1008	Nem tudjuk, ki kicsoda, de nyilván mind orosz, igaz?	
+1009	Szovjet.	
+1010	Úgy hisszük.	
+1011	Ezt hogy érti?	
+1012	Van ebben a kocsiban fûtés? <Nincs.../>	missing English
+1013	Van egy bökkenġ.	
+1014	Lehet, hogy csavart labdát dobnak.	
+1015	Lehet, hogy valaki mást akarnak adni Powers helyett.	
+1016	Egy másik amerikait?	
+1017	A... kelet-német Stasi fogott egy amerikai diákot.	
+1018	Frederic Pryort.	
+1019	A kölyök átkeveredett a túloldalra.	
+1020	A Yale-rġl jött.	
+1021	Közgazdász doktor akar lenni.	
+1022	[NO TRANSLATION]	missing translation
+1023	A komcsik kitalálták, hogy megvádolják ġt kémkedéssel.	
+1024	Vagy valamivel, akármivel.	
+1025	A lényeg ez.	
+1026	Vogel értesített minket, ġ Pryor ügyvédje.	
+1027	Egy pillanat.	
+1028	Vogel képviseli Abel nejét... meg ezt a gyereket is?	
+1029	Igen, szorgalmas.	
+1030	Most akkor ki ez?	
+1031	Miféle szerzet ez a Vogel, kelet-német vagy orosz?	
+1032	Hát derítse ki a találkozón!	
+1033	Szovjet követség, Kelet-Berlin, holnap dél.	
+1034	Hoffman majd elmondja, hogy jut el oda.	
+1035	Hogy jutok el?	
+1036	Gondolom, elkísér valaki.	
+1037	Nem?	
+1038	Igen, az volt a terv, de mondtam, hogy van egy bökkenġ.	
+1039	Nem vihetem el.	
+1040	Felsġbb döntés.	
+1041	Egyetlen tisztviselġ sem lépheti most át a határt.	
+1042	De miért?	
+1043	Túl veszélyes.	
+1044	A kölyök a kelet-németeké.	
+1045	Van egy olyan tényezġ ebben a történetben, amivel nem számoltunk.	
+1046	Hogy értse, a kelet-németek szándéka és az oroszok szándéka nem biztos, hogy egyezik.	
+1047	Bogozza ki a dolgot!	
+1048	És próbálja letárgyalni a cserét!	
+1049	Powerst Abelért.	
+1050	Jó, de akkor mi lesz azzal a gyerekkel, Pryorrel?	
+1051	[NO TRANSLATION]	missing translation
+1052	Felejtse el!	
+1053	Ġt majd kihozzuk máskor.	
+1054	Ez a meccs Powersrġl szól.	
+1055	A maga szobája?	
+1056	Én a Hiltonban lakom.	
+1057	Nincs messze.	
+1058	Ez egy nyugat-berlini telefonszám.	
+1059	Jegyezze meg és adja vissza!	
+1060	Nem, nem.	
+1061	[NO TRANSLATION]	missing translation
+1062	Most rögtön.	
+1063	A nemzetközi hívásokat szétkapcsolják a szovjetek, de a helyieket nem.	
+1064	Ezt éjjel nappal hívhatja.	
+1065	Ez az útleveléhez csatolt dokumentum lesz a be- és kilépġ jegye, amikor keletre, a szovjet szektorba megy.	
+1066	Vogellel holnap délben fog találkozni.	
+1067	Pár helyen lehet csak átmenni keletre.	
+1068	Felszáll az S-Bahn-ra, annál a megállónál, amit mutattunk.	
+1069	Leszáll a Friedrichstrasse megállónál, és elsétál az Unter den Lindenre, ott van a követség.	
+1070	Jegyezze meg,	
+1071	mert nem vihet térképet!	
+1072	Aki térképet nézeget, az amerikai, vagyis kém.	
+1073	És nem lenne jó, ha bevinnék.	
+1074	Az lesz a legjobb, ha nem áll szóba senkivel.	
+1075	[NO TRANSLATION]	missing translation
+1076	Ha nem szólal meg, akkor nem tûnik fel.	
+1077	Odaát kevés az élelem,	
+1078	elszemtelenedtek az utcai bandák. Szóval lényegesen rosszabb a közbiztonság, mint itt.	
+1079	És ne menjen a Fal közelébe!	
+1080	A Falnál széles sávban még a házakat is elbontották.	
+1081	Az a Halálsáv.	
+1082	Ha odamegy, lelövik.	
+1083	Van azért lehetġség, hogy se ne vigyenek be, se ne lġjenek le?	
+1084	Ne aggassza, amit Michener elmondott.	
+1085	Az aggaszt, amit maga mond.	
+1086	Ez a gyerek, Pryor, akit a németek elkaptak, hány éves?	
+1087	25	
+1088	Miért?	
+1089	Pont annyi, mint Dougie.	
+1090	Ki?	
+1091	Az egyik munkatársam.	
+1092	Frederic Pryor.	
+1093	Oké, oké, oké.	
+1094	Danke.	
+1095	Sajnáljuk... ha ez sértġ.	
+1096	[NO TRANSLATION]	missing translation
+1097	Kabát?	
+1098	Jó, rendben.	
+1099	Beszél ön angolul?	
+1100	Igen, uram.	
+1101	James Donovan vagyok.	
+1102	Vogel úr hívott ide.	
+1103	Vogel úr.	
+1104	Nem dolgozik itt.	
+1105	De itt vár rám.	
+1106	Ennyit tudok.	
+1107	Mr. Donovan!	
+1108	Hát végre találkozunk.	
+1109	Helen Abel vagyok.	
+1110	Hogy van a férjünk?	
+1111	[NO TRANSLATION]	missing translation
+1112	Jól van.	
+1113	Az én Rudolfom?	
+1114	A körülményekhez képest jól van.	
+1115	És vissza is kapjuk ġt, igaz?	
+1116	Ġ a mi nagy lányunk.	
+1117	Kisasszony.	
+1118	Lydia.	
+1119	És ön, Vogel úr?	
+1120	Nem, nem, nem!	
+1121	Nem Vogel vagyok.	
+1122	A nevem Drews.	
+1123	Ġ Rudolf szeretett unokatestvére.	
+1124	Á, unokatestvér.	
+1125	Unokatestvér.	
+1126	Drews, igen.	
+1127	Én pedig Helen Abel.	
+1128	Mikor látjuk ġt?	
+1129	Mikor engedik el férjem?	
+1130	Nos egy kicsit... tanácstalan vagyok.	
+1131	Vogel úrra számítottam.	
+1132	Ó, ġ az ügyvédünk.	
+1133	Igen, tudom, és úgy volt, hogy vele tárgyalok a cserérġl.	
+1134	Hogy Rudolf ide jön?	
+1135	Igen, igen, hogy idehozzuk.	
+1136	De ennek kétoldalú dolognak kell lennie.	
+1137	Csak úgy megy, hogy csereként.	
+1138	Nincs itt?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Mr. Donovan?	
+1143	Vogel úr.	
+1144	Nem, nem, nem.	
+1145	Dehogy.	
+1146	A nevem Siskin.	
+1147	Iván Siskin.	
+1148	A szovjet nagykövetség másodtitkára vagyok.	
+1149	Nem volna helyénvaló, ha Vogel úr idejönne.	
+1150	Hiszen ġ német, ugyebár.	
+1151	Tehát ön nem azért van itt, hogy...	
+1152	Segítsek önöknek.	
+1153	Talán engedjük Abelnét visszavonulni, hogy megnyugodhasson.	
+1154	Addig mi Mr. Donovannel elbeszélgetünk.	
+1155	Köszönöm.	
+1156	Kissé zavarban vagyok.	
+1157	Miért?	
+1158	Nekem nem számít, kivel tárgyalok, amíg a téma az alkalmazottak cseréje.	
+1159	Önnel tárgyalhatok errġl?	
+1160	Igen, igen, igen, hogyne.	
+1161	Tárgyaljuk.	
+1162	Kérem, foglaljon helyet, Mr. Donovan!	
+1163	Hogyan érkezett a keleti szektorba?	
+1164	Vasúton.	
+1165	Az S-Bahnon.	
+1166	Egyedül jött?	
+1167	Igen.	
+1168	És mi az ön státusza?	
+1169	Úgy hittem, tudják, hogy ki vagyok.	
+1170	Egyszerû magánember.	
+1171	Ügyvédként dolgozom Brooklynban, és a munkám mellett idġt szakítottam rá, hogy segítsek az ügyfelemnek, Rudolf Abelnek.	
+1172	Közölhetem önnel, hogy készek vagyunk átadni Abelt, ha megkapjuk érte Francis Gary Powerst.	
+1173	Tessék, itt a kegyelmi végzés, aláírás akkor kerül rá, amikor nyélbe ütjük a cserét.	
+1174	Én csak ezért jöttem ide.	
+1175	Remélem és bízom benne, hogy gyorsan meg tudunk egyezni.	
+1176	Abelt, Francis Gary Powersért... és Frederic Pryorért.	
+1177	Pryor nincs nálunk.	
+1178	Nincs?	
+1179	Biztos?	
+1180	Pryorrel az a helyzet, hogy a fogvatartója a Német Demokratikus Köztársaság, nem a Szovjet Szocialista Köztársaságok Szövetsége.	
+1181	Tudja, mi a baj önökkel?	
+1182	Hogy az országaiknak túl hosszú a nevük.	
+1183	Igen, igen.	
+1184	Amennyiben elengedjük Powerst, kizárólag azért tesszük, hogy jelét adjuk a jóindulatunknak.	
+1185	Vagyis nem lehet szó cserérġl.	
+1186	Ellenben...	
+1187	Esetleg elengedhetnék Abelt német barátaink iránti jóindulatuk jeleként, aztán pár hónapra rá mi elengednénk Powerst.	
+1188	Ehhez mit szól?	
+1189	Nem.	
+1190	Ez elfogadhatatlan számunkra.	
+1191	Mi mindenképpen cserében gondolkodunk.	
+1192	Lényegtelen, hogy minek nevezzük, de cserének kell lennie.	
+1193	Abel itt lehet 48 órán belül.	
+1194	És egyidġben azzal, hogy megkapjuk Powerst, átadjuk Abelt.	
+1195	[NO TRANSLATION]	missing translation
+1196	Hát ez...	
+1197	Úgy mondanám, egy türelmetlen terv.	
+1198	Nevezze, aminek csak akarja!	
+1199	Továbbíthatom a türelmetlen tervét Moszkvának, hogy mit szólnak...	
+1200	De nem értik majd, hogy miért ilyen türelmetlen.	
+1201	Mert megfáztam.	
+1202	És mert nem itt lakom, és haza akarok menni.	
+1203	Azt mondják majd: Ejnye az amerikaiak már mindent kiszedtek Abelbġl, amit tudott.	
+1204	És nyilván azért sürgetik a cserét, hogy mielġbb visszakapják ezt a bizonyos Powerst, aki esetleg Abellel ellentétben még nem mondott el mindent, amit tud.	
+1205	Ez a csere így nem értékarányos, uram.	
+1206	Ebbġl az következik, hogy ha Powers már elmondott mindent, amit tud, Moszkva kész lesz kiadni ġt?	
+1207	Miért is ne lenne?	
+1208	De ha Abel a mi börtönünkben hal meg, a következġ orosz ügynök, akit elkapnak, kétszer is meggondolja, hogy érdemes-e hallgatnia.	
+1209	De továbbmegyek.	
+1210	Abelre is rátörhet a szabadságvágy. És orosz titkokat ajánlhat fel apró amerikai szívességekért.	
+1211	Honnan is tudhatnánk?	
+1212	Mi, kisemberek, csak tesszük a dolgunkat.	
+1213	Ahogy Powers fġhadnagy.	
+1214	Ġ csak egy pilóta.	
+1215	Fényképeket készít 20 kilométer magasról, amikor lelġtték a gépét.	
+1216	Az ilyesmit nálunk úgy nevezik... háborús cselekmény.	
+1217	Szálljunk le errġl a körhintáról, uram!	
+1218	Az országaink következġ hibája az utolsó lehet.	
+1219	Mi itt és most tudunk úgy tárgyalni, ahogy a vezetġk nem.	
+1220	Megkérdezem Moszkvát.	
+1221	Meglátjuk, mit mondanak.	
+1222	Nagyon sokan vannak, akik nem akarják, hogy erre a... cserére egyáltalán sor kerüljön.	
+1223	Eljönne, kérem, holnap újra, hogy megbeszéljük a választ?	
+1224	Powerst Abelért.	
+1225	És Frederic Pryort.	
+1226	Mint már mondtam, Pryort a Német Demokratikus Köztársaság állambiztonsági szervei védik.	
+1227	Biztosra veszem, uram, hogy ön tud intézkedni.	
+1228	Én csak egy egyszerû titkár vagyok egy idegen ország követségén.	
+1229	Persze.	
+1230	Vogel úrral beszéljen!	
+1231	Leírom a címét.	
+1232	Tehát az a Vogel úr valóban létezik?	
+1233	Már miért is ne létezne?	
+1234	Taxival néhány perc.	
+1235	És kérem, Mr. Donovan, vegyen kabátot ilyen idġben!	
+1236	Volt rajtam, de ellopták.	
+1237	Mire számított?	
+1238	A Saksban vette a Fifth Avenue-n.	
+1239	Nem igaz?	
+1240	Mr. Donovan.	
+1241	Á, Vogel úr.	
+1242	Kerüljön beljebb!	
+1243	Danke.	
+1244	Kérem, bocsásson meg.	
+1245	De a szovjetek nem láttak szívesen.	
+1246	Igen bosszantó.	
+1247	Próbálom megismerni az érdekelt felek...	
+1248	Igényeit?	
+1249	Igen.	
+1250	És az érdekeiket.	
+1251	[NO TRANSLATION]	missing translation
+1252	Ez egy új világ.	
+1253	Minden olyan zavaros benne, nemde?	
+1254	Elmondom, mit tudok ajánlani.	
+1255	Nekem jó barátom...	
+1256	Barát.	
+1257	Nem, idġsebb.	
+1258	Pártfogó?	
+1259	A Német Demokratikus Köztársaság igazságügyi minisztere.	
+1260	Foglaljon helyet!	
+1261	Ez a szerencsétlen Frederic Pryor egyszerûen csak rosszkor volt rossz helyen.	
+1262	De minden véletlen egyszersmind kínálkozó lehetġség is, nemde?	
+1263	Hát...	
+1264	Az önök országa nem ismeri el a Német Demokratikus Köztársaságot.	
+1265	Van az a légbġl kapott elméletük, hogy az NDK nemlétezġ ország.	
+1266	Bocsánat.	
+1267	Azért, hogy az önök kormánya kénytelen legyen elismerni ezt a létezġ országot, ahol most tartózkodik, az NDK-t. A miniszter úr szívesen tárgyal önnel, mint az amerikai kormány képviselġjével, Mr. Pryor sorsáról.	
+1268	Vogel úr, én nem az amerikai kormány képviseletében vagyok it.	
+1269	Értem.	
+1270	Hát ez elég gyermeteg dolog.	
+1271	Nos,	
+1272	nincs hivatalos megbízásom.	
+1273	Nem baj.	
+1274	Ön nem képviseli Amerikát, én nem képviselem az NDK-t.	
+1275	Az ügyfelem Lydia Abel, Rudolf neje.	
+1276	És történetesen...	
+1277	Lydia a lánya.	
+1278	Helen a neje.	
+1279	Nos...	
+1280	Kész vagyok felajánlani Frederic Pryort cserébe Rudolf Abelért.	
+1281	Akkor tisztázzuk!	
+1282	Mi kiadjuk Rudolf Abelt.	
+1283	Maguk pedig egyidejûleg kiadják Frederic Pryort.	
+1284	Egyidejûleg?	
+1285	Ahogy mondja.	
+1286	A csere két tárgya tehát egy orosz, aki az élete végén jár, és egy amerikai diák, aki most kezd el élni.	
+1287	Siskin?	
+1288	Már hogy volna követségi titkár.	
+1289	Ivan Siskin a KGB nyugat-európai vezetġje.	
+1290	Hát, akárki is ġ, most továbbítja a javaslatunkat Moszkvába, és ott döntenek.	
+1291	Elvesztettem a kabátomat?	
+1292	Kérnék egyet.	
+1293	Elveszett a kabátja?	
+1294	Igen, ilyen a kémek élete.	
+1295	Kap másik kabátot.	
+1296	Az jó, mert...	
+1297	Szóval ki ez a... Ki ez a Vogel?	
+1298	Ġt nem ismerjük.	
+1299	Lehet, hogy az, akinek mondja magát.	
+1300	A miniszter barátja.	
+1301	Egy fickó, akit megbíztak ezzel az ügyel.	
+1302	Úgy tûnik, a kelet-németek helyet akarnak az asztalunknál.	
+1303	Az NDK visszaszerzi Abelt az oroszoknak, szívességet tesz nekik,	
+1304	közben reklámot csinálnál saját magának.	
+1305	Mert szeretne végre felkerülni a térképre.	
+1306	De minket nem érdekel a térkép.	
+1307	Maradnak az oroszok.	
+1308	Csak velük tárgyal.	
+1309	Powerst Abelért.	
+1310	Ezt értsem úgy, hogy valóban nyélbe üthetġ a csere?	
+1311	Amit elmondott, abból úgy tûnik.	
+1312	Elindítjuk Abelt, péntekre itt is lesz.	
+1313	Úgyhogy Siskin engedélyt kap, már csak azt kell letárgyalni,	
+1314	hogyan cseréljük ki az emberüket az emberükre.	
+1315	Embereinkre.	
+1316	Kettġ van.	
+1317	Powers és Pryor.	
+1318	Nem, ne jöjjön ilyen könnyfakasztó szöveggel!	
+1319	Ez a meccs Powersrġl szól.	
+1320	Felejtse el az úri fiút, aki olyan jó ötletnek tartotta szovjet gazdaságtant tanulni Berlinben a Hidegháború közepén!	
+1321	Powers kell, nem ġ.	
+1322	Pedig nem is szeretik Powerst.	
+1323	Mindenki utálja Powerst.	
+1324	Nem lett öngyilkos, a komcsik a televízióban mutogathatták.	
+1325	Ġ a leggyûlöltebb ember otthon.	
+1326	Leszámítva Rudolf Abelt esetleg.	
+1327	Meg engem.	
+1328	Ébresztġ!	
+1329	Aludnom kell.	
+1330	Aludnom kell végre.	
+1331	Megmondtam, majd akkor alhatsz, ha megbeszéltük, ami kell.	
+1332	Most jól figyelj ide rám!	
+1333	A kormányotokat nem érdekli a sorsotok.	
+1334	[NO TRANSLATION]	missing translation
+1335	Cseppet sem.	
+1336	Tizenkét U-2-es pilóta lett már agykárosodott?	
+1337	Buggyantak lettek odafent az oxigénhiánytól.	
+1338	Mégis felküldenek titeket.	
+1339	A barátaidat, Gary.	
+1340	És kaptok egy ilyet.	
+1341	Karcoló tût, igaz?	
+1342	Kálium-cianiddal.	
+1343	Hát ennyire érdekli ġket a sorsotok?	
+1344	Írja le az önmegsemmisítġ felépítését!	
+1345	Hogyan mûködtetik azt az egységet?	
+1346	Milyen robbanóanyag az egység töltete, és mekkora pusztító erġvel bír?	
+1347	Nem tudom.	
+1348	A pilótáknak nem mondanak el ilyeneket.	
+1349	Milyen nagy területet térképez fel a gép radarja egy repülés alatt?	
+1350	Nem tudom, nem tudom!	
+1351	Maga végzett április 9-én titkos repülést a MiG-ek bázisa és az ipari terület fölött?	
+1352	Nem, nem én.	
+1353	Ez volt az elsġ bevetésem.	
+1354	Mondja meg, mennyi a repülġ siklási arányszáma.	
+1355	Hogyan megy olyan magasra.	
+1356	Tudjuk, hogy felmegy 21 ezer méter magasra is.	
+1357	Gary, ezt tudjuk.	
+1358	És tudni akarjuk, hova repültek a gépek.	
+1359	Hova repültek azok a gépek.	
+1360	És ezt most kell megtudnunk.	
+1361	Most.	
+1362	És aztán mehetsz aludni.	
+1363	Ébredjen, uram!	
+1364	Ébredjen!	
+1365	Uram, velem jönne, kérem?	
+1366	Igen.	
+1367	Legyen szíves.	
+1368	Igen, hogyne.	
+1369	Velem jönne, kérem?	
+1370	Igen.	
+1371	Köszönöm.	
+1372	A szemüvege?	
+1373	[NO TRANSLATION]	missing translation
+1374	Hány óra van?	
+1375	Késġre jár, de beszélnünk kell, aztán felülünk egy repülġre, rendben?	
+1376	Igen.	
+1377	Igen.	
+1378	Hoppla hopp!	
+1379	Hoppla.	
+1380	Úgy bizony.	
+1381	Meg is vagyunk.	
+1382	Indulhatunk.	
+1383	Köszönöm.	
+1384	Nem, nem arra.	
+1385	Arra tessék.	
+1386	Repülne?	
+1387	Arra megyünk, jó.	
+1388	Menjen, kérem!	
+1389	Nos, közölhetem, hogy Moszkva kedvezġen bírálta el a javaslatát, segítünk az NDK-béli barátainknak azzal, hogy kicseréljük Mr. Powerst Rudolf Abellel.	
+1390	Ez nagyszerû.	
+1391	Javasolhatom a Glienicke hidat a csere helyének?	
+1392	A Checkpoint Charlie nem jó?	
+1393	Nem, nem akarunk nyilvánosságot.	
+1394	Glienicke igen csöndes hely, különösen hajnalban.	
+1395	Glienicke híd.	
+1396	Rendben, jó. Megkérdezem.	
+1397	Abel péntekre itt lehet.	
+1398	Megejtjük szombat hajnalban?	
+1399	Mindig ez a türelmetlenség.	
+1400	Vágyom az otthoni ágyamba.	
+1401	Akkor szombat hajnal?	
+1402	5:30?	
+1403	Jó, rendben.	
+1404	Készen vagyunk.	
+1405	Adok egy számot, ha esetleg felmerülne közben valami.	
+1406	Jó, rendben.	
+1407	Éjjel-nappal felveszi valaki.	
+1408	Aligha lesz szükség rá.	
+1409	Akkor iszunk az egyezségre?	
+1410	Miért ne?	
+1411	Örmény konyak.	
+1412	Jó megfázásra.	
+1413	Köszönöm.	
+1414	Megengedi...	
+1415	Ennek semmi köze az egyezséghez... Lenne pár kérdésem,	
+1416	de ha nem akar, akkor ne feleljen.	
+1417	Felelni fogok, amire tudok.	
+1418	Tudja, kedvelem az embereket.	
+1419	Mi lesz az emberükkel, ha hazamegy?	
+1420	Nos, hát elġször meg kell vizsgálnunk, hogy az emberünk nem lett-e közben az ön embere.	
+1421	Ez nem kérdés, ahogy már mondtam.	
+1422	Feddhetetlen marad, még mindig az önöké.	
+1423	Természetesen ezt mondja akkor is, ha igaz... meg akkor, ha nem igaz.	
+1424	Mi egyebet is gondolhatna?	
+1425	Bocsánat, hogy erġsködöm, de fenyegeti ġt veszély, ha túl lesz ezen a vizsgálaton?	
+1426	Hát, istenem.	
+1427	Ahogy a dolgok állnak, mindenki veszélyben van.	
+1428	Igyunk!	
+1429	Nazdarovje.	
+1430	Nem lesz csere a Glienicke hídon.	
+1431	Ezt meg hogy értsem?	
+1432	Úgy értse, hogy nem lesz csere.	
+1433	Nem adjuk át Pryort.	
+1434	Vogel úr, tegnap megegyeztünk vagy nem?	
+1435	Igen abban, hogy Abelért megkapják Pryort.	
+1436	De most kiderült, hogy ön mint lókupec, két vevġnek adta el ugyanazt a lovat.	
+1437	Nekünk eladta Abelt Pryorért.	
+1438	Igen.	
+1439	És a szovjeteknek meg eladta Powersért.	
+1440	Nem, nem értem, miért probléma, ha az egyezség kielégít két felet, vagy hármat vagy négyet.	
+1441	[NO TRANSLATION]	missing translation
+1442	Ezt a felet nem elégíti ki az egyezség.	
+1443	Kérem, Vogel úr...	
+1444	Úgy látom, nincs tisztában azzal, hogy kivel tárgyal.	
+1445	Nézze, ebben a Német Demokratikus Köztársaságnak az az érdeke,	
+1446	hogy tárgyalhasson, és tárgyalni lássák önökkel, független államként.	
+1447	Egyenrangúként.	
+1448	Nem a Szovjet Szocialista Köztársaságok szövetsége bábállamaként.	
+1449	Ne fecséreljük az idġt, oroszok, jó?	forced duplication
+1450	Ne fecséreljük az idġt, oroszok, jó?	forced duplication
+1451	Találkozóm van, uram.	
+1452	Ön az, aki az idejét fecséreli.	
+1453	Javítson ki, ha rosszul írom le a helyzetet!	
+1454	Van önöknél egy egyetemista. Akirġl tudják, hogy nem kém, nem jelent fenyegetést önökre.	
+1455	És cserébe ezért az önök számára értéktelen személyért, az oroszok és amerikaiak mellett egyenrangú fél lehetnek az ügyletben.	
+1456	Ez egyetlen ügylet, megegyezés köztünk és két másik fél között.	
+1457	Mi nem próbálunk két dolgot csinálni, uram.	
+1458	Csak egyet.	
+1459	Egyetlen egyet.	
+1460	Nem látom be, hogy a Kelet-Német Demokraták Köztársasága számára mitġl lenne ez sértġ.	
+1461	Ön a hátam mögött megegyezett a szovjetekkel.	
+1462	Akkor ez tárgyalás vagy összebeszélés?	
+1463	Összebeszélés akkor lenne, ha önöket hátrány érné,	
+1464	de ez mindenkinek elġnyös.	
+1465	Egyeznek az érdekek.	
+1466	Nem, azt csak ön állítja.	
+1467	Hol van a találkozója?	
+1468	Nyugaton.	
+1469	Ku-Damm.	
+1470	Jó.	
+1471	Nézzen körül!	
+1472	Milyen a keleti szektor a nyugatihoz képest?	
+1473	[NO TRANSLATION]	missing translation
+1474	Az orosz barátaink úgy döntöttek, hogy ne építsük újjá a fġvárosunkat.	
+1475	Éljünk a romhalmazban, amivé ġk tették.	
+1476	Kössön csak egyezséget az oroszokkal!	
+1477	Mi nem kérünk belġle.	
+1478	Nincs egyezség Pryor nélkül.	
+1479	Nem hagyjuk itt.	
+1480	Ezt ön mondja vagy a kormányuk?	
+1481	Uram,	
+1482	azt mondja, akivel ön tárgyal.	
+1483	Csakhogy ön nem a kormányuk képviselġje.	
+1484	Nem tudja, hogy kicsoda.	
+1485	Ahogy mi se.	
+1486	Legyen óvatos,	
+1487	mert nem Brooklynban van, Mr. Donovan.	
+1488	Nézze, uram!	
+1489	Tudja, hogy minden lényeges szempontból a kormányunkat képviselem.	
+1490	Tudja, hogy ki vagyok.	
+1491	Valóban?	
+1492	[NO TRANSLATION]	missing translation
+1493	Rendben vannak a papírjai?	
+1494	Kötve hiszem.	
+1495	De nem számít.	
+1496	Egy amerikai ügyvéd mindig ki tudja magyarázni magát.	
+1497	Nemde?	
+1498	Elmegy vele.	
+1499	Miért?	
+1500	Probléma útlevél.	
+1501	[NO TRANSLATION]	missing translation
+1502	Mi a probléma?	
+1503	Mi a gond?	
+1504	Menjen vele!	
+1505	Ne feledje, Pryor sorsa a mi kezünkben van!	
+1506	Uramisten!	
+1507	Igen, elġször egy kávét kérnék.	
+1508	Aztán egy Hilton kombót plusz egy amerikai reggelit.	
+1509	És kávét.	
+1510	Mindkét reggelit?	
+1511	Igen, igen.	
+1512	Egymás után...	
+1513	Együtt,	
+1514	mindegy hogyan, ahogy elkészülnek.	
+1515	És kávét.	
+1516	[NO TRANSLATION]	missing translation
+1517	Maga miért jött ide?	
+1518	Németországban jól esik néha egy bġséges amerikai reggeli.	
+1519	Mi történt?	
+1520	Hol volt az éjjel?	
+1521	Vogel elintézte nekem, hogy keleten alhassak.	
+1522	Uramisten!	
+1523	Egyébként nem volt sokkal rosszabb, mint az itteni szállás, ahová dugtak.	
+1524	Szóval az oroszok rábólintottak a cserére, de most Vogel azt mondja, hogy a kelet-németek visszakoznak.	
+1525	Mégsem adják ki Pryort.	
+1526	Remek, jól van.	
+1527	Akkor minden rendben,	
+1528	megkapjuk Powerst.	
+1529	Meglesz, Powers.	
+1530	Szép munka.	
+1531	De mondom, hogy a kelet-németek visszakoztak.	
+1532	Nem adják Pryort, és a srác is fontos.	
+1533	Minden ember fontos.	
+1534	Hát persze, azért próbálkozott.	
+1535	Azért próbálta meg.	
+1536	Abel már úton van, holnap reggel mehet a dolog.	
+1537	Egy pillanat.	
+1538	Így még egyszerûbb.	
+1539	Még egyszerûbb.	
+1540	Nem kapjuk meg a srácot.	
+1541	Értem, világos.	
+1542	Ennyi volt.	
+1543	Akkor a ma reggeli üzenet nem is fontos.	
+1544	Üzenet jött?	
+1545	A kelet-németektġl.	
+1546	Hívták a számot, amit adtam.	
+1547	Ma beszélni akartak volna magával.	
+1548	Vogel volt?	
+1549	Nem.	
+1550	Egy titkár, Harald Ott miniszter nevében.	
+1551	Mit akar?	
+1552	Mit akar tġlem?	
+1553	Hát, beszélni magával.	
+1554	De mindegy, nem kérhetem, hogy visszamenjen oda.	
+1555	Mert aztán úgy tûnik, maga szálka egyesek szemében, úgyhogy jobb, ha nem ugrálunk.	
+1556	Szóval beszélni akar velem.	
+1557	Hánykor?	
+1558	Jaj, nem, nem. <Az ki van zárva. Nem, nem.../>	missing English
+1559	[NO TRANSLATION]	missing translation
+1560	Nem kell elmennie.	
+1561	Nem is tanácsos elmennie.	
+1562	Sġt nem szabad elmennie.	
+1563	Megvan az egyezségünk.	
+1564	Ne barmoljuk el!	
+1565	Nem fogom elbarmolni.	
+1566	Nem mehet el!	
+1567	Ne játssza nekünk az eszét!	
+1568	A rendelésem.	
+1569	Jó étvágyat az amerikai reggelihez!	
+1570	Úgy gondoltam, tárgyaljuk meg ezt a legmagasabb szinten tiszteletünk jeleként.	
+1571	Nagyra értékelem, uram.	
+1572	Nem is tudom, mitġl lett ilyen zavaros a helyzet.	
+1573	Hát azt néha valóban nem lehet tudni.	
+1574	Csak hogy tisztán lássuk, leszögezem, a magunk részérġl készek vagyunk kicserélni az állítólagos diákot, Pryort, Rudolf Abelre.	
+1575	És úgy tudom, Vogel úrtól, hogy Pryor nagyon fontos önnek.	
+1576	Igen, de...	
+1577	Akkor most írunk is errġl egy memorandumot.	
+1578	Á, memorandumot.	
+1579	És nyilván ragaszkodunk a bilaterális cseréhez.	
+1580	Igen, igen, hogyne.	
+1581	Nem tudom, pontosan, hogy ez mit jelent, de...	
+1582	Az én országom pedig ragaszkodik, Francis Gary Powershöz is.	
+1583	Nem!	
+1584	Épp ettġl lett egy kissé zavaros a helyzet.	
+1585	Powers.	
+1586	Mire jó még ġ, uram?	
+1587	Csak arra kell, hogy megbüntethessék?	
+1588	Az már mit segít?	
+1589	Elmondott, amennyit elmondott, és ez nyilván Abelre is igaz.	
+1590	Mi viszont olyan embert adunk, akirġl önök azt állítják, hogy ártatlan.	
+1591	És ġ a jó.	
+1592	Ġt érdemes visszaszerezniük.	
+1593	A jövġ.	
+1594	A jövġt tekintse!	
+1595	Ott!	
+1596	Ott!	
+1597	Bocsánat.	
+1598	Bocsásson meg egy percre, uram!	
+1599	Sajnálom, uram,	
+1600	de az igazságügyi miniszter úrnak egy sürgġs ügy miatt távoznia kellett.	
+1601	Elment?	
+1602	Igen.	
+1603	Elnézését kérjük.	
+1604	Itt várok már több mint egy órája.	
+1605	Nagyon sajnálom.	
+1606	Fiatalember.	
+1607	Jöjjön!	
+1608	[NO TRANSLATION]	missing translation
+1609	Na, jöjjön ide!	
+1610	[NO TRANSLATION]	missing translation
+1611	Üljön le!	
+1612	Ugyan már, ne féljen!	
+1613	Jöjjön!	
+1614	Szeret itt dolgozni?	
+1615	Nagyon jó állás, uram.	
+1616	Bizonyára.	
+1617	És érdekes a munka.	
+1618	Ó, igen, nagyon.	
+1619	Fontos beosztása van.	
+1620	És nagyon jól beszéli a nyelvünket is.	
+1621	Igen, úgy gondolom, hogy kifogástalan a nyelvtudásom, uram.	forced duplication
+1622	Igen, úgy gondolom, hogy kifogástalan a nyelvtudásom, uram.	forced duplication
+1623	Igen, igen.	
+1624	Igen.	
+1625	Az a helyzet, hogy elvesztettem a tárgyalópartneremet, de valakivel beszélnem kell és maga értelmes fiatalembernek tûnik.	
+1626	Meghallgat engem?	
+1627	[NO TRANSLATION]	missing translation
+1628	Ne féljen!	
+1629	Ne féljen!	
+1630	Csak...	
+1631	Csak üzennék magával a fġnökének.	
+1632	De nagyon fontos, hogy jól adja át.	
+1633	Ért engem?	
+1634	Igen, uram.	
+1635	De talán jobb, ha megvárja...	
+1636	Nem, nem.	
+1637	Nagyon meg vagyok fázva, és alig várom, hogy hazamehessek, hogy kifeküdhessem.	
+1638	Átadja az üzenetet?	
+1639	Hogyne, uram.	
+1640	Az üzenet így hangzik.	
+1641	Abel marad, ha nem kapjuk meg Powerst és Pryort.	
+1642	Ez világos?	
+1643	Világos.	
+1644	Holnap hajnalban lenne a csere,	
+1645	de nem kerül rá sor, ha nem kapunk két embert.	
+1646	Azt a kettġt.	
+1647	Kettġ embert.	
+1648	Értem.	
+1649	Ha nem lesz egyezség, maguk mondják meg a szovjeteknek.	
+1650	A fġnöke mondja meg, hogy mégse kapják meg Rudolf Abelt.	
+1651	Értem, uram.	
+1652	Ó, még valami.	
+1653	Mind eddig, Abel megmaradt jó katonának, de most azt hiszi, hazamehet.	
+1654	Ha meg fogja tudni, hogy mégse mehet haza, és azért nem mehet, mert a szovjetek nem akarják ġt igazán,	
+1655	akkor talán megváltozik a viselkedése.	
+1656	És vajon kit fognak felelġssé tenni ezért?	
+1657	Tudom, jó hosszú üzenet.	
+1658	De megjegyezte?	
+1659	Igen, uram.	
+1660	Hogyne.	
+1661	Helyes.	
+1662	Maga jó ember.	
+1663	[NO TRANSLATION]	missing translation
+1664	Tegye hozzá, nincs alku, ha nem jelentkezik még ma munkaidġben!	
+1665	Tudja a számot.	
+1666	Ha nem kerül sor a cserére, mi értelme annyi embernek hajnalban kelnie.	
+1667	Az tényleg fölösleges lenne.	
+1668	Maga viccel!	
+1669	Ezt nem hiszem el!	
+1670	Csak nyugalom.	
+1671	Kéne egy kis apró.	
+1672	Pont azt csinálta, amit egyáltalán nem lett volna szabad.	
+1673	Nekem az volt a dolgom, hogy puhatolózzak.	
+1674	Az volt a dolga, hogy megszervezze Powerst, nem Pryort.	
+1675	Mert nem érte jöttünk.	
+1676	Erre elszúrta az egészet!	
+1677	Honnan tudja?	
+1678	Még egyáltalán nem biztos.	
+1679	Mondom, hogy elbaszta!	
+1680	Ó, ne izguljon már!	
+1681	Szerintem minden rendben lesz.	
+1682	Honnan tudja?	
+1683	Honnan tudhatná?	
+1684	Egyesült Államok.	
+1685	New York, New York.	
+1686	Danke.	
+1687	Nézze, annyi történt, hogy ġk is puhatolóztak.	
+1688	Megnézték, belemegyek-e az egy-egyes cserébe.	
+1689	De én megmondtam, kettġt egyért.	
+1690	Most már tudják, hogy állunk.	
+1691	Jó, és mi van, ha most azt mondják,	
+1692	hogy kösz szépen!	
+1693	Nincs üzlet, az embereitek maradnak?	
+1694	Hát, akkor elbasztam a dolgot.	
+1695	Szervusz, drágám!	
+1696	Én vagyok.	
+1697	Igen.	
+1698	Élveztük a horgászást.	
+1699	Londonban vagyok, lesz még egy tárgyalásom, és megyek haza.	
+1700	Igen, igen, emlékszem, kérted a lekvárt.	
+1701	Abból a boltból a Regent's Parknál.	
+1702	Mindenképpen, ha lesz rá idġm.	
+1703	Add át egy szóra Rogert!	
+1704	A lányokat tudod adni?	
+1705	Van valaki, aki ráér?	
+1706	Azért észrevették, hogy elutaztam?	
+1707	Nyertünk.	
+1708	Kettġ-egy.	
+1709	Hot dog.	
+1710	Erre inni kell.	
+1711	Van egy bibi.	
+1712	És mi az?	
+1713	Nem ott jön át Pryor, ahol Powers, nem a hídnál.	
+1714	De ugyanakkor engedik el ġt.	
+1715	Pont, amikor megkapjuk Powerst a hídon, átengedik Pryort a Checkpoint Charlie-n.	
+1716	Ez mit jelentsen?	
+1717	Szerintem csak annyit, hogy miénk az utolsó szó.	
+1718	De elengedik.	
+1719	[NO TRANSLATION]	missing translation
+1720	Maga puhatolózott.	
+1721	Hol vannak?	
+1722	Miért nem hozzák az emberünket?	
+1723	Miért nem hozzák az emberünket?	
+1724	Késnek.	
+1725	Nem,	
+1726	mi jöttünk korán.	
+1727	Szabad?	
+1728	Tessék.	
+1729	Hoffman.	
+1730	Igen?	
+1731	Lehetnek odaát...	
+1732	Mik?	
+1733	mesterlövészek.	
+1734	Ó, persze hogy vannak.	
+1735	Persze hogy vannak?	
+1736	Persze, hisz itt is vannak.	
+1737	Szálljon ki, uram!	
+1738	Jim!	
+1739	Kedves, Jim.	
+1740	Hogy van?	
+1741	Örülök, hogy látom.	
+1742	Magának köszönhetem, hogy itt vagyok?	
+1743	Lássuk meg, mi lesz belġle, mielġtt... Mielġtt megköszöni.	
+1744	Meghozták Pryort a Checkpoint Charlie-hoz?	
+1745	Még semmi mozgás.	
+1746	Elnézést, uram.	
+1747	Bemutatom Murphy hadnagyot a Légierġtġl, Powerst jött azonosítani.	
+1748	Murphy hadnagy.	
+1749	Uram.	
+1750	Még lehet egy kis gond.	
+1751	Még fiatalon mentem el.	
+1752	Ki tudna azonosítani engem?	
+1753	Hát a kelet-német családja biztos nem.	
+1754	Azok még egymást se igen tudnák.	
+1755	Úgy fest, ġk azok.	
+1756	Hát, indulás.	
+1757	Maga itt maradhat.	
+1758	Azt már nem.	
+1759	A sorompót.	
+1760	Mit gondol, mi lesz, amikor hazatért?	
+1761	Hát, azt hiszem...	
+1762	Iszom egy vodkát.	
+1763	Persze.	
+1764	Persze.	
+1765	Nem tartja elképzelhetġnek azt...	
+1766	hogy a mieink agyon fognak lġni?	
+1767	De.	
+1768	Nem aggódik?	
+1769	Használna?	
+1770	Hogy feleljek a kérdésére, azt hiszem, tudják, hogy kitartottam.	forced duplication
+1771	Hogy feleljek a kérdésére, azt hiszem, tudják, hogy kitartottam.	forced duplication
+1772	Ugyanakkor ġk is csak emberek, így tévedhetnek.	forced duplication
+1773	Ugyanakkor ġk is csak emberek, így tévedhetnek.	forced duplication
+1774	Meglátjuk, hogy fogadnak.	
+1775	Mire figyeljek majd?	
+1776	Arra, hogy megölelnek vagy csak beültetnek a kocsiba.	
+1777	Da.	
+1778	A sapkát vegye le!	
+1779	Helló, Powers.	
+1780	Helló, Murph.	
+1781	Igen, ġ Powers.	
+1782	Rendben, Mr. Donovan.	
+1783	Induljunk!	
+1784	Pillanat.	
+1785	Higgyék el, hogy szólni fogok!	
+1786	Nincs itt senki.	
+1787	A Checkpoint Charlie-nál is elengednek valakit.	
+1788	Várjuk a hírt, hogy megérkezett.	
+1789	Gyerünk!	
+1790	Tartsuk magunkat a tervhez!	
+1791	Menjünk!	
+1792	Vagy hozza Pryort, vagy nem.	
+1793	Gyerünk.	
+1794	Ez csak újabb próbálkozás a részükrġl.	
+1795	Nem szabad engednünk, ne induljunk el.	
+1796	Nem érdekel, hogy mit akarnak.	
+1797	Tudjuk, mi a dolgunk.	
+1798	Menjen, Abel!	
+1799	Induljon, uram!	
+1800	Elmehet.	
+1801	Ha nem tartják a tervet, hazamegyünk.	
+1802	Ha cserélünk, akkor cseréljünk most!	
+1803	Egy másik emberre várnak?	
+1804	Igen.	
+1805	És akarja ġt is.	
+1806	Akarom.	
+1807	De itt nem ġ dönt, hanem én.	
+1808	Tessék, uram, szabadon távozhat.	
+1809	Induljon!	
+1810	Menjen át!	
+1811	Én ráérek.	
+1812	Jött egy kocsi.	
+1813	Lehet, hogy ġk.	
+1814	Várjanak!	
+1815	Gyerünk!	
+1816	Megkaptuk ġt!	
+1817	De, Jim...	
+1818	Küldtem magának valamit.	
+1819	Egy...	
+1820	egy festményt.	
+1821	Remélem, hogy érteni fogja.	
+1822	Én sajnos nem készültem ajándékkal.	forced duplication
+1823	Én sajnos nem készültem ajándékkal.	forced duplication
+1824	Ez az ajándéka.	
+1825	Ez az ajándéka.	
+1826	Hogy vagy, öregem?	
+1827	<Jól./> Gyerünk, gyerünk, gyerünk!	missing English
+1828	Mr. Donovan,	
+1829	ezt Abel ezredes küldi önnek.	
+1830	Elnézést, uram.	
+1831	Ön vezette ezt a dolgot, uram?	
+1832	Igen.	
+1833	Nagyon köszönöm, uram.	
+1834	Vagy kinek köszönjem meg?	
+1835	Nem mondtam semmit.	
+1836	Nem mondtam semmit.	
+1837	Nem érdekes.	
+1838	Nem számit, hogy ki mit gondol.	
+1839	Tudja, amit tud.	
+1840	Isten hozott.	
+1841	Micsoda út volt.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Minden rendben?	
+1845	Igen, minden rendben.	
+1846	Megvetted a lekvárt?	
+1847	Igen, igen.	
+1848	Persze.	
+1849	Persze.	
+1850	Itt van.	
+1851	Parancsodra.	
+1852	Jim.	
+1853	Ez az Arno'sból van.	
+1854	És?	
+1855	Innen a sarokról!	
+1856	Jaj, drágám, nem volt idġm.	
+1857	Bocsánat.	
+1858	Nem volt idġm.	
+1859	Ó, istenem!	
+1860	[NO TRANSLATION]	missing translation
+1861	Itt van Roger?	
+1862	Itthon van.	
+1863	Carol és Pegg is.	
+1864	Mindenki itthon van.	
+1865	Anya!	
+1866	Gyere gyorsan!	
+1867	Nézd!	
+1868	Anya, gyere már!	
+1869	Anya, gyere már!	
+1870	Ezt nézd meg!	
+1871	Nézd!	
+1872	Nézd!	
+1873	Gyere!	
+1874	Francis Gary Powerst szabadlábra helyezték a Szovjetunióban, és ma Berlinben átvették ġt hazánk képviselġi.	
+1875	Az elnök csökkentette Rudolf Abel büntetését.	
+1876	Abelt Berlinbe szállították, és ott szabadlábra helyezték.	
+1877	Mr. Powers hazatérése kitartó munka eredménye.	
+1878	Ebben a munkában a kormányunk számára kiemelkedġ segítséget nyújtott Mr. James B. Donovan, New York-i ügyvéd.	
+1879	Frederic L. Pryor amerikai diákot 1961 augusztusa óta tartották fogva a kelet-német hatóságok...	
+1880	Azt mondtad, apa horgászott.	
+1881	Pisztrángra.	
+1882	Abelnek nyoma veszett a kommunista világban.	
+1883	Itt van velünk Powers, válaszol a kérdésekre.	
+1884	Donovan pedig visszament folytatni a jogi praxisát.	
+1885	Most pedig következzen George Fenneman...	

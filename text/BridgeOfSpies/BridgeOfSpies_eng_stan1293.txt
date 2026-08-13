@@ -1,0 +1,1885 @@
+1	The next stop is Broad Street.
+2	Broad Street will be next.
+3	Upstairs.
+4	This way.
+5	He didn't come up this way?
+6	Anything?
+7	He's not up here.
+8	Go back down.
+9	Excuse me.
+10	Excuse me.
+11	Go ahead and park around the corner.
+12	Visitors.
+13	Do you mind if I fetch my teeth?
+14	Colonel, would you turn around, please?
+15	Sit down on the bed.
+16	Let's go.
+17	Uh, they're in the...
+18	The teeth are in the... on the sink.
+19	Look at me.
+20	We are agents from the Federal Bureau of Investigation.
+21	Look at me!
+22	I'm talking to you.
+23	We've received information concerning your involvement in espionage.
+24	You can either cooperate with us right now, or you'll be under arrest.
+25	Do you understand, Colonel?
+26	No, not really.
+27	Why do you keep calling me Colonel?
+28	You need to get dressed.
+29	We have to search your apartment.
+30	Would you mind if I, uh, cleaned my palette?
+31	The paints, it'll get ruined otherwise.
+32	It's just behind you there.
+33	I have a cloth myself.
+34	Thank you.
+35	All right, start searching the place.
+36	Thank you.
+37	All right, search the mattress, the bed, the floorboards, his chair.
+38	Would you put that in the ashtray on the windowsill there?
+39	Take a good look at that desk.
+40	Let's see the desk.
+41	Wouldn't want to get this ruined.
+42	Don't say my guy.
+43	He's not my guy.
+44	Yes, he's your guy.
+45	Who are we talking about?
+46	We're talking about a guy who was insured by my client.
+47	So, don't make him my guy.
+48	Okay, fine.
+49	My point is, the guy insured by your client, he doesn't deny that any of these things happened.
+50	These...
+51	These things?
+52	Yes, these five things.
+53	Wait, hold it, hold it, hold it.
+54	Not five things.
+55	One thing.
+56	Clearly, it's five things.
+57	Well, I'm sorry, it's not clear to me.
+58	Five things?
+59	Explain it to me.
+60	It's self-evident.
+61	Okay, then tell me what happened.
+62	Tell me the story in a way that makes sense for five things.
+63	Fine, absolutely.
+64	Your guy is...
+65	Not my guy.
+66	Insured by my client.
+67	The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys, the five guys who hired me to represent them because you're not honoring your claim.
+68	You mean my client is not honoring the claim, the insurance company?
+69	Mr. Donovan, we're all clear on who's who, here.
+70	Except my client honors every claim.
+71	They do, Mr. Bates.
+72	Every single legitimate claim, up to the limit of their liability, which is $100,000 per accident, in the case of this man's policy.
+73	And this is one claim.
+74	According to your description, He hit my five guys.
+75	The guy insured by my client had one accident.
+76	One, one, one.
+77	Losing control of the car and hitting five motorcyclists.
+78	From their point of view, five things happened.
+79	Well, look, Bob.
+80	May I?
+81	Bob?
+82	Jim.
+83	If I go bowling and I throw a strike, one thing happened.
+84	Ten things didn't happen.
+85	Jim, my guys aren't bowling pins, as much as your guy may have treated them as such.
+86	If...
+87	Let me finish.
+88	Let me finish.
+89	If your house is insured for $100,000 and a tornado carries it away, it carried away one house.
+90	It didn't pick up every stick of furniture and destroy it in a separate incident.
+91	If that is what you're saying, well, then there is never any limit to our liability and that is the end of the insurance business.
+92	And then, Bob, nobody is safe.
+93	Watters, Cowan and Donovan.
+94	How may I direct your call?
+95	Morning, Mr. Donovan.
+96	Good morning, Alison.
+97	I moved your 9:00 a.m. with Prudential, sir.
+98	Why did you do that?
+99	I asked her to.
+100	Is everything all right, Tom?
+101	Why don't you leave your stuff with Alison.
+102	Come on inside.
+103	Something pretty important has come up.
+104	Somebody's here to see us.
+105	Natalie's getting your coffee.
+106	Nescafe, cream, two lumps, right?
+107	That's right.
+108	Thanks.
+109	Lynn!
+110	Jim!
+111	Nice to see you again.
+112	How's the family?
+113	Great, good.
+114	Thanks.
+115	How's Annie?
+116	Homicidal.
+117	We had the in-laws for the holiday.
+118	Well, if she acts on it, she'll have good representation.
+119	Now, what's up?
+120	Okay, here's the thing.
+121	The Soviet spy they caught, we want you to defend him.
+122	Here's the indictment.
+123	Wow.
+124	I'm not sure I wanna pick that up.
+125	The accused doesn't know any lawyers.
+126	The federal court tossed it into our lap.
+127	The Bar Committee took a vote.
+128	You're the unanimous choice.
+129	It was important to us...
+130	It's important to our country, Jim, that this man is seen as getting a fair shake.
+131	American justice will be on trial.
+132	Well, of course, when you put it that way, it's an honor to be asked.
+133	But, Lynn, I'm an insurance lawyer.
+134	I haven't done criminal work in years.
+135	It's like riding a bike, isn't it?
+136	You distinguished yourself at Nuremberg.
+137	I was on the prosecution team.
+138	Not the point.
+139	You're no stranger to criminal law.
+140	Jim, look at the situation.
+141	The man is publicly reviled.
+142	And I will be, too.
+143	Yes, in more ignorant quarters.
+144	But that's exactly why this has to be done, and capably done.
+145	It can't look like our justice system tosses people on the ash heap.
+146	Suppose I did, what's the evidence look like?
+147	Pretty overwhelming.
+148	Great.
+149	Great.
+150	Everyone will hate me but at least I'll lose.
+151	Well, what do you think, Tom?
+152	The firm will suffer.
+153	I have work here.
+154	I think it's a patriotic duty.
+155	It's an important mission.
+156	I told Lynn, the firm can't say no, and you'd have a tough time saying no, too.
+157	I think you have to defend the son of a bitch.
+158	So, you're doing it?
+159	Doing what?
+160	Defending Abel, the Soviet spy.
+161	I may.
+162	I have to speak to...
+163	Wait, how do you know?
+164	Did they post it on the bulletin board?
+165	No, I...
+166	I was talking to Richard Earl...
+167	Look, if I do this, I'm going to need your help.
+168	Can you work tonight?
+169	Well, I have a dinner date, sir.
+170	It's Tuesday, right?
+171	Yeah, no, I'm free, completely free.
+172	Thank you, sir.
+173	But it's also an honor.
+174	And the Bar Association asked me because they want to show that even a spy gets a capable advocate.
+175	Well, maybe it's the kind of honor we could do without.
+176	Hey, honey, what are you doing home?
+177	I got stood up.
+178	Well, that's despicable.
+179	Who is this knot-head?
+180	I'd rather not say.
+181	Well, sit down.
+182	We just started.
+183	People are scared.
+184	They're building bomb shelters to protect themselves from people like this man.
+185	I go to the store, people are buying canned food and potassium tablets.
+186	It's all about this man and what he represents.
+187	He's a threat to all of us.
+188	A traitor.
+189	Who's a traitor?
+190	The Rosenbergs were traitors.
+191	Who were they?
+192	They gave atomic secrets to the Russians.
+193	They were Americans.
+194	They betrayed their country.
+195	You can't accuse Abel of being a traitor.
+196	He's not an American.
+197	Oh, listen to yourself.
+198	You're defending him already.
+199	You're rehearsing it on me.
+200	You said you were just thinking about taking it.
+201	I am just thinking about it, just very hard.
+202	Everyone deserves a defense.
+203	Every person matters.
+204	Jim, what do we deserve?
+205	Do you know how people will look at us?
+206	The family of a man trying to free a traitor?
+207	He's not a traitor, Mary.
+208	Yes, yes.
+209	Roger, get that!
+210	He's not a traitor...
+211	Why do I have to do all the work?
+212	Oh!
+213	You wait till we say grace.
+214	I'm hungry!
+215	He's about the most unpopular man in this country, and you're trying to take second place!
+216	Yeah, and I'm third.
+217	Carol, you just dated the wrong guy.
+218	I wanna eat.
+219	Mary, don't make this an argument when we're not having an argument.
+220	You're against him, I'm for him?
+221	No, I'm not for him.
+222	I'm not for the Russians spying on us.
+223	I'm for his right to have a defense in a court of law, which is why they call it a court of law.
+224	I didn't mean to interrupt dinner.
+225	A court of law...
+226	Hey, Doug.
+227	Oh, no, not at all.
+228	Hello, Doug.
+229	Jim was just flailing.
+230	I'm not flailing.
+231	Go ahead, Doug, you can join us for dinner.
+232	We're having meatloaf tonight.
+233	So, you came over to help Jim think about whether he's taking the case?
+234	Oh, we're taking it!
+235	It's exciting, isn't it?
+236	Lord, we thank thee for thy blessings we are about to receive.
+237	Thy bounty through Christ, our Lord.
+238	Amen.
+239	Good morning, sir.
+240	My name is Jim Donovan.
+241	These are my credentials.
+242	I am a partner in Watters, Cowan and Donovan.
+243	I was admitted to the New York Bar in 1941.
+244	You have been charged with three counts and 19 overt acts.
+245	Conspiracy to transmit United States defense and atomic secrets to the Soviet Union, conspiracy to gather secrets, and failing to register as a foreign agent.
+246	Do many foreign agents register?
+247	If you don't mind my asking, sir, since your arrest, where have you been?
+248	I couldn't say for certain.
+249	You don't know?
+250	They drove me to an airport and put me on a plane, took me off the plane.
+251	Somewhere hot.
+252	It's hot here.
+253	Hotter, very humid.
+254	They put me in a room.
+255	Were you beaten?
+256	No.
+257	I was talked to.
+258	Offers were made.
+259	What do you mean?
+260	Offers of employment, to work for your government.
+261	I was told if I cooperated, no further charges would be made against me.
+262	And I would be given money.
+263	Hmm.
+264	And you declined?
+265	As you see.
+266	Well, of course I can't endorse that.
+267	I feel duty-bound to urge you to cooperate with the U.S. government.
+268	Well, I said no.
+269	Perhaps you could relay to your friends at the CIA that I meant it.
+270	No, no, no.
+271	I...
+272	I don't work for the agency.
+273	I don't work for the government.
+274	I am here to offer my services as your legal counsel.
+275	If you accept them as such, I work for you.
+276	If I accept you?
+277	Are you good at what you do?
+278	Yeah.
+279	Yeah, I'm pretty good.
+280	Have you represented many accused spies?
+281	No, not yet.
+282	This will be a first for the both of us.
+283	Yes.
+284	All right.
+285	All right?
+286	You accept?
+287	Yes, all right.
+288	Good, okay.
+289	Let's start here.
+290	If you are firm in your resolve not to cooperate with the U.S. government...
+291	I am.
+292	Yeah.
+293	Then do not talk to anybody else about your case, inside of government or out.
+294	Except to me, to the extent that you trust me.
+295	I have a mandate to serve you.
+296	Nobody else does.
+297	Quite frankly, everybody else has an interest in sending you to the electric chair.
+298	All right.
+299	You don't seem alarmed.
+300	Would it help?
+301	I...
+302	I would like materials to draw with.
+303	That's not possible.
+304	A pencil, a piece of paper.
+305	Cigarettes.
+306	Please?
+307	Mr. Donovan, you have men like me doing the same for your country.
+308	If they were caught, I'm sure that you would wish them to be treated well.
+309	What's your name?
+310	Francis Gary Powers.
+311	Rank, service?
+312	First Lieutenant, United States Air Force.
+313	Do you have any association with the Soviet Union, Lieutenant Powers?
+314	Kidding?
+315	Just answer the questions, Lieutenant.
+316	Yes, no, or as simply as you can.
+317	Do you have any association with the Soviet Union?
+318	Hell, no.
+319	Do you know why you're here?
+320	Mmm-mmm.
+321	Is that a no?
+322	Yes.
+323	I mean...
+324	No, it's just no.
+325	Yes, I have absolutely no idea why I'm here.
+326	Eyes front, Lieutenant.
+327	Yes, sir.
+328	How'd you do in there, Gary?
+329	Pretty good.
+330	Think I got my name right.
+331	You probably outscored Shinn, then.
+332	Who's winning?
+333	Uh, that would be me.
+334	Oh.
+335	Well, deal me in.
+336	So, these are all mine, then.
+337	I told you boys not to play with him.
+338	Okay, drivers, here's the deal.
+339	You've been selected for a mission which you are not to discuss with anyone outside of this room.
+340	No one.
+341	I don't care who you trust.
+342	Wife, mother, sweetheart.
+343	The good Lord when you pray at night.
+344	You don't tell any of them anything of what I'm about to tell you.
+345	Each of you drivers has met certain qualifications.
+346	High level security clearance.
+347	Exceptional pilot ratings in excess of the required hours flight time in a single-seat aircraft.
+348	We are engaged in a war.
+349	This war does not, for the moment, involve men-at-arms.
+350	It involves information.
+351	You will be collecting information.
+352	You will be gathering intelligence about the enemy.
+353	The intelligence you gather could give us the upper hand in a full thermonuclear exchange with the Soviet Union.
+354	Or it could prevent one.
+355	For public purposes, as far as your wife or mother or sweetheart or the good Lord above, your mission does not exist.
+356	If it does not exist, you do not exist.
+357	You cannot be shot down.
+358	You cannot be captured.
+359	You work for the CIA now.
+360	So, Jim, I heard your guy is speaking with a phony accent.
+361	Does he keep that up all the time?
+362	Actually, I'm pretty sure that's just the way he talks.
+363	He's got the Russian name but a British passport.
+364	Well, I doubt that that's genuine.
+365	So, Jim, where are we?
+366	I see here...
+367	Yes, uh, Judge, you see, I just don't think that three weeks is going to do it, here.
+368	We...
+369	We got a massive amount of evidence, as you know.
+370	You wanna postpone?
+371	Six weeks.
+372	I mean, there's just myself and my associate, basically.
+373	Jim, is this serious?
+374	Sir?
+375	Is this serious?
+376	Yes.
+377	Yes, indeed, it is.
+378	You can see in the filing...
+379	Jim, this man is a Soviet spy.
+380	Allegedly.
+381	Come on, Counselor!
+382	Your Honor.
+383	Of course, I salute you.
+384	We all salute you for taking on a thankless task.
+385	This man has to have due process.
+386	But let's not kid each other.
+387	He'll receive a capable defense.
+388	And, God willing, he'll be convicted.
+389	Come on, Counselor.
+390	Let's not play games with this.
+391	Not in my courtroom.
+392	We have a date and we're going to trial.
+393	Taxi!
+394	Taxi!
+395	I see your light on!
+396	Son of a bitch.
+397	Can't wait to get back to Manhattan.
+398	His light was on, right?
+399	Son of a bitch.
+400	Against their level of comfort.
+401	The statute hasn't changed.
+402	Oh, excuse me, sir.
+403	Pardon me.
+404	Sorry.
+405	Oh!
+406	Mr. Donovan.
+407	What?
+408	What?
+409	CIA.
+410	Yeah.
+411	I just wanted to chat.
+412	How's the case going?
+413	Case is going great.
+414	Couldn't be better.
+415	Mmm-hmm.
+416	Has your guy talked?
+417	Excuse me.
+418	You met him.
+419	Has he talked?
+420	Has he said anything yet?
+421	We're not having this conversation.
+422	No, of course not.
+423	No, I mean, we really are not having it.
+424	You're asking me to violate attorney-client privilege.
+425	Oh, come on, Counselor.
+426	You know, I wish people like you would quit saying Oh, come on, Counselor.
+427	I didn't like it the first time it happened today.
+428	A judge said it to me twice.
+429	And the more I hear it, the more I don't like it.
+430	Okay, well, listen, I understand attorney-client privilege.
+431	I understand all the legal gamesmanship.
+432	And I understand that's how you make a living.
+433	But I'm talking to you about something else.
+434	The security of your country.
+435	And I'm sorry if the way I put it offends you.
+436	But we need to know what Abel is telling you.
+437	You understand me, Donovan?
+438	We need to know.
+439	Don't go Boy Scout on me.
+440	We don't have a rule book, here.
+441	You're Agent Hoffman, yeah?
+442	Yeah.
+443	German extraction.
+444	Yeah, so?
+445	My name's Donovan.
+446	Irish.
+447	Both sides, mother and father.
+448	I'm Irish, you're German.
+449	But what makes us both Americans?
+450	Just one thing.
+451	One, one, one.
+452	The rule book.
+453	We call it the Constitution and we agree to the rules, and that's what makes us Americans.
+454	It's all that makes us Americans so don't tell me there's no rule book, and don't nod at me like that, you son of a bitch.
+455	Do we need to worry about you?
+456	Not if I'm left alone to do my job.
+457	From this moment forward you will not refer to the U-2 as a spy plane or reconnaissance aircraft.
+458	You will refer to it as The Article.
+459	The Article has an 80-foot wingspan.
+460	It's powered by a single Pratt and Whitney J57 P-37 engine.
+461	10,000 pounds of thrust and a maximum speed of 430 miles an hour.
+462	She may not be quick, but at your cruising altitude of 70,000 feet, nothing will come close to you.
+463	70,000?
+464	The idea is the enemy doesn't even know you're there.
+465	It looks kind of flimsy.
+466	Every extra pound of weight costs a foot in altitude, and we need to accommodate the cameras.
+467	That's a 4,500-millimeter lens, times three.
+468	A pin-sharp panoramic camera four times as powerful as any aerial reconnaissance cameras we've ever used.
+469	You're gonna be taking pictures, lots of pictures.
+470	At 70,000 feet, The Article can photograph 2,000 square miles of territory in one pass.
+471	Now, drivers, give Agent Sumner your undivided attention.
+472	The items you will need on your mission are over here.
+473	B camera, Revere 8 model 40 magazine, Keystone Capri K-25, silver.
+474	Hollow-handle shaving brush.
+475	Complete set of cipher tables on edible silver foil.
+476	Specialist photographic equipment.
+477	Yeah, we, uh...
+478	We get the idea.
+479	Thank you.
+480	Uh, excuse me, Agent, uh, Bosco.
+481	Blasco.
+482	Sir.
+483	There seems to be a subsection to this list here.
+484	Well, most of this stuff came from his studio, but the rest is from the hotel room he was holed up in.
+485	Where we found him.
+486	The hotel room you searched?
+487	Well, yeah.
+488	Can I see the warrant?
+489	The what?
+490	Yeah, explain this to me.
+491	There was a warrant.
+492	There was a warrant.
+493	A civil detention writ for the arrest of an alien, but there was no search warrant for suspicion of criminal activity.
+494	So, the search and the evidence that is the fruit of that search, that's all tainted and should not be admitted.
+495	What protections is he due, Your Honor?
+496	The man is not...
+497	The man is what?
+498	He's Rudolf Ivanovich Abel.
+499	He is a Soviet citizen.
+500	He's not an American.
+501	1886, Yick Wo v. Hopkins.
+502	The court held that even aliens, in that case Chinese immigrants, could not be held to answer for a crime without due process of law, including any alien that entered the country illegally.
+503	The Department of Justice has its first allegiance to the United States.
+504	I don't see how an alien, if he's here illegally, how he suffered deprivation of rights.
+505	Rights as what?
+506	An American?
+507	Rights as what, Counselor?
+508	We're in a battle for civilization.
+509	This Russian spy came here to threaten our way of life.
+510	Now, I have a courtroom of people waiting.
+511	Get out there, sit beside the Russian.
+512	Let's get this over and done with.
+513	And your motion is denied.
+514	He should take some insurance out on himself.
+515	How did we do?
+516	In there?
+517	Uh...
+518	Not too good.
+519	Apparently, you're not an American citizen.
+520	That's true.
+521	And according to your boss, you're not a Soviet citizen either.
+522	Well, the boss isn't always right but he's always the boss.
+523	Do you never worry?
+524	Would it help?
+525	All rise.
+526	I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.
+527	First, you have to know what happens when an atomic bomb explodes.
+528	There is a bright flash, brighter than the sun.
+529	It can smash in buildings, break windows all over town.
+530	But if you duck and cover like Bert, you will be much safer.
+531	There are two kinds of attack, with warning and without any warning.
+532	Mmm.
+533	What's going on in here?
+534	Okay, Dad, this is really important.
+535	When the war begins, the first thing they do is cut off all the water and all the electricity.
+536	So the first thing we should do is keep this filled, use the shower in your room, use the sink downstairs, the garden hose outside...
+537	Those are good ideas.
+538	But, Roger, I don't see this as being something you ever have to worry about.
+539	Yeah, but when you hear the sirens, there may not be enough time to fill the tub and the sinks.
+540	Not gonna be any sirens...
+541	What is this?
+542	When the bomb comes, the Reds will aim for the Empire State Building.
+543	But the bomb goes off at 10,000 feet up.
+544	In Life magazine, it's called an airburst, and if the bomb is 50 megatons, the blast wave goes out and out and out and melts everything from here to here.
+545	Including where we live.
+546	Here.
+547	Yeah, right there.
+548	But, you know, Roger, no one is dropping atomic bombs on us.
+549	But the Russians want to.
+550	You know that Russian guy you're defending?
+551	He's here to get things ready for the guys who drop the bombs.
+552	No, no, he's not...
+553	Not here for that.
+554	He's not even Russian.
+555	He was born, we think, in Northern England.
+556	Yeah, but he's a spy for Russia.
+557	I don't even understand what you're doing.
+558	You're not a Communist, so why are you defending one?
+559	Well, because it's my job.
+560	It never used to be.
+561	In the case of the United States of America versus Rudolf Abel, as to the first count in the indictment, how do you find the defendant?
+562	Guilty or not guilty?
+563	Guilty.
+564	As to the second count?
+565	Guilty.
+566	As to the third count?
+567	Guilty.
+568	Your Honor, I make a motion to set aside these guilty verdicts against the weight of evidence.
+569	Denied.
+570	The jury is discharged.
+571	Thank you all.
+572	I would like to add that, if I were one of you, I would've reached the same verdict.
+573	Sentencing will be November 15.
+574	The death sentence is not a foregone conclusion.
+575	Don't worry.
+576	I'm not afraid to die, Mr. Donovan.
+577	Although it wouldn't be my first choice.
+578	You left this behind.
+579	Oh, thank you.
+580	Oh, thank you very much!
+581	You've never asked me if the charges were true.
+582	If I am indeed a spy.
+583	This is how we do it.
+584	The case against you matters.
+585	Making them prove it matters.
+586	The fiction is...
+587	Whether you did it or not doesn't matter.
+588	The state has to prove it, that you're a spy.
+589	So you're not curious?
+590	No, not really.
+591	I always assumed you were an artist.
+592	My wife, she's the artist.
+593	She's a musician in the Children's Orchestra of Moscow.
+594	What instrument?
+595	The harp.
+596	Oh.
+597	Then, she's an angel.
+598	Standing there like that, you remind me of a man who used to come to our house when I was young.
+599	My father used to say, Watch this man.
+600	So I did, every time he came.
+601	And never once did he do anything remarkable.
+602	And I remind you of him?
+603	This one time, I was about the age of your son.
+604	Our house was overrun by partisan border guards.
+605	Dozens of them.
+606	My father was beaten, my mother was beaten, and this man, my father's friend, he was beaten.
+607	And I watched this man.
+608	Every time they hit him he stood back up again.
+609	So they hit him harder.
+610	Still, he got back to his feet.
+611	I think because of this they stopped the beating.
+612	They let him live.
+613	I remember them saying it.
+614	It sort of means, like, uh, standing man.
+615	Standing man.
+616	Hello, Jim!
+617	Millie, you're a vision.
+618	Mortie's busy getting kitted out.
+619	But come on in.
+620	Scotch, Jim?
+621	Oh, yes, please.
+622	Thank you.
+623	Uh, just a drop of water.
+624	Your Honor.
+625	Hello, Jim!
+626	Just going out.
+627	Got a few minutes though.
+628	March of Dimes thing.
+629	Millie is active.
+630	Well, thank you for seeing me.
+631	I just wanted to give you my two cents on the sentencing.
+632	And I thought maybe I should pester you at home as not all of my points are narrowly legal.
+633	Yeah, well, it's that kind of case.
+634	I hope I wasn't too scratchy during the trial but it's exactly what you say.
+635	Nothing about this is narrowly legal.
+636	There are bigger issues.
+637	Bigger issues!
+638	Thank you, thank you.
+639	Uh...
+640	Sir...
+641	I think it could be considered in the best interests of the United States that Abel remain alive.
+642	Why?
+643	I'm not saying I've made up my mind but if he was gonna cooperate, work with the government, he would've done it already.
+644	True, but the issue here...
+645	You can't...
+646	Excuse me.
+647	You can't say it's in the best interest of the United States that he spend the rest of his days in a prison cell.
+648	How is this the national interest?
+649	Not the incarceration itself, sir.
+650	It is possible that, in the foreseeable future, an American of equivalent rank might be captured by Soviet Russia.
+651	We might want to have someone to trade.
+652	Wow.
+653	That sounds like spinning what-ifs.
+654	You could do that till the cows come home.
+655	It's my business, what-ifs.
+656	I'm in insurance.
+657	And there's nothing implausible about this one.
+658	It's entirely in the realm of what could happen.
+659	It's the kind of probability that people buy insurance for.
+660	If we send this guy to his death, we leave ourselves wide open.
+661	No policy in our back pocket for the day the storm comes.
+662	Nice speech.
+663	Sir, there is also the humanitarian argument.
+664	Should he die for doing the job they sent him to do?
+665	All right, Counselor.
+666	I gotta run.
+667	Good seeing you, Jim.
+668	I'll walk you out.
+669	All rise.
+670	The United States District Court for the Eastern District of New York is now in session.
+671	The honorable Mortimer Byers presiding.
+672	Be seated.
+673	The defendant will please rise.
+674	In the measured judgment of this court the following sentence, based upon the jury's verdict of guilty as to each count of the indictment, is believed to meet the test which has been stated.
+675	Pursuant to the verdict of guilty as to all counts, the defendant is committed to the custody of the Attorney General of the United States for imprisonment in a federal institution to be selected by him for a period of 30 years.
+676	Marshals, you may take the defendant into custody.
+677	No...
+678	No electrocution?
+679	No.
+680	No, no.
+681	Why aren't we hanging him?
+682	In the name of God, why aren't we hanging him?
+683	Sit down, sir!
+684	He's a spy!
+685	He's killing us with his lies!
+686	In the name of God, why aren't we hanging him?
+687	That's right!
+688	He's a spy!
+689	Mr. Donovan!
+690	Mr. Donovan!
+691	Just one question.
+692	Just one question, sir.
+693	My hat!
+694	My hat!
+695	My hat!
+696	Nobody here has a comment.
+697	Mr. and Mrs. Donovan are not answering questions.
+698	How do you feel now that this national nightmare is over?
+699	Mr. Donovan, are you happy with the verdict?
+700	We're...
+701	We're in firm ground on, uh, for a case on appeal.
+702	Appeal?
+703	Appeal, yes.
+704	Jim, you did a great job.
+705	You fulfilled your mandate and then some.
+706	But the man is a spy.
+707	The verdict is correct and there's no reason to appeal it.
+708	There's ample procedural reason.
+709	We know the search is tainted.
+710	And Fourth Amendment issues will always weigh more heavily in an appellate forum.
+711	We've got a good shot.
+712	What the goddamn hell are you talking about?
+713	We were supposed to show he had a capable defense, which we did.
+714	Why are you citing the goddamn Constitution at me?
+715	Tom, if you look me in the eye and tell me we don't have grounds for an appeal, I'll drop it right now.
+716	I'm not saying that.
+717	You know what I'm saying.
+718	Tom is saying there's a cost to these things.
+719	That's right.
+720	A cost to both your family and your firm.
+721	I've missed music.
+722	They checked the radio to make sure there was no transmitter in it.
+723	I'm sure they did.
+724	Shostakovich.
+725	Mmm.
+726	That's a very great artist, Shostakovich.
+727	Uh, I think our strongest grounds for reversal are constitutional.
+728	Our best chance is if the Supreme Court agrees to review our case.
+729	Jim...
+730	You should be careful.
+731	Careful.
+732	77 Sunset Strip
+733	Edward Byrnes.
+734	77 Sunset Strip
+735	And Richard Long.
+736	Good morning, Suzanne.
+737	Good morning, Dick.
+738	There is a special delivery letter here for you.
+739	Oh, her.
+740	Mom!
+741	What in God's name happened?
+742	Honey, are you all right?
+743	Mom!
+744	Are you hurt?
+745	I've got her.
+746	Upstairs!
+747	Are you all right?
+748	I sat with my back against the wall, Dad!
+749	Are you okay?
+750	Are you all right?
+751	Dad, I sat with my back against the wall!
+752	Good, good.
+753	Away from the windows!
+754	Good, good, good, good, good.
+755	Good boy, good boy, good boy.
+756	It's okay.
+757	It's all right.
+758	It's all right, they're gone, they're gone.
+759	They're cowards.
+760	They're gone.
+761	We have detectives canvassing the neighborhood.
+762	Maybe we'll find a description of the car but I don't think it's very likely.
+763	We're gonna need protection.
+764	Oh, I have instructions to leave two cars here.
+765	It'll be pretty obvious that this is a secure...
+766	For how long?
+767	I have to be in Washington later on this week.
+768	What are you doing?
+769	What are you doing to your family?
+770	Pardon me, Officer?
+771	You're still defending this guy?
+772	I mean, what are you fighting for him for?
+773	Okay, knock that off, Officer.
+774	I'll knock off nothing.
+775	I was in the third wave at Omaha Beach.
+776	Hey, I did my time in the service.
+777	I was fighting these guys, and you're defending them?
+778	Why don't you just do your job as an officer of the law?
+779	Okay, I'm sorry.
+780	Let's go outside.
+781	Come on.
+782	You know what?
+783	Just forget him.
+784	What am I not getting here?
+785	Outside, Officer.
+786	I'm sorry.
+787	Defending a commie spy.
+788	Jeez!
+789	Do you feel that you deserve this, sir?
+790	Should it become necessary to abandon the aircraft over Soviet territory, then there's a two-and-a-half pound explosive charge contained within the fuselage.
+791	Now, first, you activate the circuits.
+792	But to start the 70-second timer, you need to flip the switch marked Destruct.
+793	It is imperative that these flights remain a secret and this equipment does not fall into enemy hands.
+794	What about us?
+795	I don't know if you're kidding, Lieutenant Powers.
+796	I'm not.
+797	What you know about the plane is as secret as the plane itself.
+798	If capture is a foregone conclusion, you go down with your plane.
+799	Now, if you think you can ditch and get away, if you're close enough to a border, fine.
+800	You know the ejection protocol.
+801	But if you ditch, you bring the dollar with you.
+802	All right, there's a pin inside.
+803	You scratch your skin anywhere, it's instantaneous.
+804	If you think you are about to be captured, you use it.
+805	Drivers, you understand me?
+806	Spend the dollar.
+807	Mr. Chief Justice, and may it please the court.
+808	The Cold War is not just a phrase, Your Honor.
+809	It's not just a figure of speech.
+810	Truly, a battle is being fought between two competing views of the world.
+811	I contend that Rudolf Ivanovich Abel, Colonel Abel, as he was called even by the men who arrested him, is our foe in that battle.
+812	Auxiliary power?
+813	Connected and on.
+814	Oxygen seat-pack supply?
+815	Supply at 1,800 psi.
+816	Inverter?
+817	On, light out.
+818	He was treated as a combatant in that war until it no longer suited our government to so treat him.
+819	Accordingly, he was not given the protections we give our own citizens.
+820	He was subjected to treatment that, however appropriate for a suspected enemy, was not appropriate to a suspected criminal.
+821	Fuel transfer?
+822	Transfer switch off.
+823	Destructor?
+824	Destructor safety.
+825	Climb data card.
+826	Installed in aircraft.
+827	I know this man.
+828	If the charge is true, he serves a foreign power but he serves it faithfully.
+829	If he is a soldier in the opposing army, he is a good soldier.
+830	He has not fled the field of battle to save himself.
+831	He has refused to serve his captor.
+832	He has refused to betray his cause.
+833	He has refused to take the coward's way out.
+834	The coward must abandon his dignity before he abandons the field of battle.
+835	That, Rudolf Abel will never do.
+836	Shouldn't we, by giving him the full benefit of the rights that define our system of government, show this man who we are?
+837	Who we are.
+838	Is that not the greatest weapon we have in this Cold War?
+839	Will we stand by our cause less resolutely than he stands by his?
+840	The President announced that a NASA weather plane disappeared four days ago north of Turkey.
+841	And the Space Administration fears that its pilot died in the crash.
+842	Radar showed the plane wandering off course deep into Soviet territory before contact was lost, complicating any effort to recover it or the remains of the pilot.
+843	Now to news out of Washington.
+844	In a close vote today, the Supreme Court affirmed the conviction of Russian spy Rudolf Ivanovich Abel, five votes to four.
+845	The case presented civil liberties issues, according to the Russian's lawyer, James B. Donovan.
+846	When asked how he felt about today's loss, Mr. Donovan simply said, Tired.
+847	I'll have more news for you after this message.
+848	Styling tricks.
+849	It's over.
+850	See the new, exciting styling tricks.
+851	Marty.
+852	I'll be damned if I can find the file on that Prudential case.
+853	I, uh, Mr. Watters had me move it over to Jack Elwes's office along with the first draft of the appeal.
+854	He did?
+855	Yeah, he redrafted and filed that last week while you were in Washington.
+856	How long have we been together?
+857	You act as if I've never closed a deal.
+858	Set up a meeting.
+859	Someplace fancy.
+860	I'm betting Mr. Young would like some of the finer things New York has to offer.
+861	And I want you to give me the summary of...
+862	Do you know anyone from Leipzig?
+863	Leipzig.
+864	Am I getting hate mail from Germany now?
+865	From East Germany.
+866	Is it your wife?
+867	No.
+868	No, no, no, no.
+869	She pretends to be but it's not even a good pretense.
+870	I'm taking this liberty to write to you after having learned from the newspapers about your most humane attitude towards my beloved husband, Rudolf Abel.
+871	And do I write back?
+872	Yeah, yeah, yeah.
+873	What's the next move when you don't know what the game is?
+874	Francis Gary Powers...
+875	On the strength of Article Two of the U.S.S.R. law on criminal responsibility for state crimes to 10 years of confinement with the first three years to be served in prison.
+876	The term of the punishment, including preliminary detention, shall be counted from May first, nineteen hundred and sixty.
+877	Mr. Donovan, thank you so much for coming.
+878	It's a pleasure to meet you, Mr. Dulles.
+879	It's an honor, sir.
+880	Nescafe, cream, two lumps.
+881	Thank you.
+882	Okay, this letter you received.
+883	Seems pretty clear that the Soviets are making an overture here.
+884	They're doing it through East Germany because they still don't want to acknowledge Abel as a Soviet citizen, much less a Soviet spy.
+885	So...
+886	Lot of fiction going on.
+887	Yes, sir, but to what end?
+888	They got our guy, our spy pilot.
+889	We've got their guy.
+890	Prisoner exchange, I think that's what they're after.
+891	Which could hardly be a surprise to you, Counselor.
+892	It's an eventuality that I think you foresaw.
+893	Yes, I sure did, and I'm so rarely right.
+894	Well, congratulations.
+895	Red letter day.
+896	Now, we have our man over there.
+897	Powers.
+898	Good man, but with a head full of classified information.
+899	Abel has a head full of classified information, too, but he hasn't given us a lick.
+900	And, sir, take it from me, he won't.
+901	Yes, we know that, but the Russians don't.
+902	They want their man back before he cracks.
+903	And we want Powers back for the same reasons.
+904	I think you are saying, sir, that there might be a happy ending for everyone.
+905	Yes, if we, um, indulge their fiction.
+906	We want you to negotiate the swap because you're a private citizen, so it's not governments talking.
+907	They don't acknowledge Abel as a Soviet citizen, and we don't acknowledge East Germany as a sovereign country.
+908	We haven't recognized East Berlin since it was annexed by the Soviets in '45.
+909	So I act as a negotiator, representing...
+910	You're not representing anybody.
+911	Not a government official.
+912	You have no official standing.
+913	So, some fiction on our side as well.
+914	Correct.
+915	Which means, of course, you can't rely on any acknowledgment or help if things go south.
+916	CIA can't be responsible.
+917	We can't be embarrassed.
+918	Where do they want this negotiation to take place?
+919	There.
+920	There?
+921	East Berlin.
+922	Well, isn't East Berlin getting rather...
+923	Oh, yes, the place is getting complicated.
+924	Yeah, complicated.
+925	The Soviet side has been setting up checkpoints for the past few months to try to stop people hemorrhaging to the Western sectors, and it hasn't worked.
+926	We have intelligence to suggest that they may go one step further and wall off the entire Eastern sector.
+927	Okay, that's it in a nutshell.
+928	The decision is entirely yours.
+929	You need time to kick it around.
+930	No.
+931	No, I don't.
+932	Well, fine.
+933	Fine.
+934	Best that this all remains confidential.
+935	Let's not discuss any of this with, uh, Mary or with anyone else.
+936	Share the correspondence only with us.
+937	Let us know what they want to do and when.
+938	I've got no client, no wife, no country.
+939	Don't know what I'm doing or when or who for.
+940	You're doing it for your country, but your country doesn't know that yet.
+941	What about my client, the other person in this equation?
+942	My guy?
+943	Your guy?
+944	You mean the Russian?
+945	He's not your guy anymore, Counselor.
+946	Your guy is Francis Gary Powers now.
+947	What do I tell Rudolf Abel?
+948	Tell him not to drop dead.
+949	Professor?
+950	Professor?
+951	Papa went to university.
+952	You shouldn't be here, Frederic.
+953	They're having classes today?
+954	He went to see.
+955	That's where he goes.
+956	What are you doing here?
+957	I came to get you and your father.
+958	You have to come with me.
+959	You might not get out tomorrow.
+960	Just...
+961	Just leave?
+962	Yes.
+963	Yes, yes, yes, leave.
+964	Right now.
+965	Go back.
+966	Go back.
+967	I'll be okay, I'm American.
+968	Go back.
+969	Go back to your father's.
+970	We'll find another way.
+971	Go.
+972	Hey!
+973	So, hi.
+974	Papers, please.
+975	Ich bin Student Frederic Pryor.
+976	Yes, Student.
+977	My name's Frederic Pryor.
+978	I'm an economics student.
+979	See?
+980	It's my dissertation.
+981	My thesis.
+982	You see?
+983	Look, look.
+984	Look: The foreign trade system of the European Communist nations.
+985	Huh?
+986	It was a lot of work.
+987	No, that's my only copy.
+988	No!
+989	Tell me something.
+990	It came up at the last minute.
+991	They have offices in London.
+992	These clients.
+993	Not my idea.
+994	Scotland, this fishing expedition.
+995	What kind of fishing trip, Jim?
+996	Salmon fishing.
+997	Just tell me that you're not gonna be in any danger, that this is just a routine business trip, and I won't worry.
+998	I need my passport.
+999	Just give me something to hold on to.
+1000	I don't even care if it's the truth.
+1001	I'm doing this for us.
+1002	Mr. Michener, here, is your Berlin escort.
+1003	He's an attache with the U.S. embassy.
+1004	So, it's gotten goddamn complicated.
+1005	Uh-huh.
+1006	As you know, the last letter from Mrs. Abel, whoever she is, talks about a lawyer in East Berlin, Mr. Vogel, whoever he is, representing her interests, she says.
+1007	Yeah, Vogel says he's gone to the Russian embassy in East Berlin and they may be ready to trade Abel for Powers.
+1008	But no one knows who's who, but essentially they're all Russian, right?
+1009	Well, Soviet.
+1010	Well, we think so.
+1011	What do you mean?
+1012	Could we turn up the heat in here?
+1013	There's a wrinkle.
+1014	They might try to throw you a curveball.
+1015	Try and get you to accept another prisoner other than Powers.
+1016	Another American?
+1017	The, uh, East German Stasi picked up an American student.
+1018	Frederic Pryor.
+1019	Uh, the kid they found on the wrong side of the Wall.
+1020	He's a grad student out of Yale.
+1021	Came over here to study economics.
+1022	Mmm-hmm.
+1023	So, they're making noises about trying this kid for espionage.
+1024	Grave offense, capital crime.
+1025	Well.
+1026	Vogel got in touch with us, said he represents Pryor.
+1027	Wait a minute.
+1028	Vogel represents Mrs. Abel and this... this kid?
+1029	Yeah, he's busy.
+1030	Well, so, what is he?
+1031	Vogel, is he, uh, East German or is he Russian?
+1032	Well, try to figure it out when you meet him.
+1033	At Russian embassy, East Berlin, noon tomorrow.
+1034	Hoffman will show you how to get there.
+1035	Wait, show me how to get there?
+1036	I'm gonna have an escort.
+1037	Right?
+1038	Well, that was the plan but like I said, there's a wrinkle.
+1039	I won't be taking you.
+1040	Decision's been made.
+1041	No U.S. government personnel are to cross the border until further notice.
+1042	How come?
+1043	It's too dangerous.
+1044	Yeah, the East Germans grabbed this kid.
+1045	There's a degree of impunity that we had not anticipated.
+1046	The point is that the East German agenda and the Russian agenda may not be the same thing.
+1047	Try and figure it out and act accordingly.
+1048	And try to make a deal.
+1049	Powers for Abel.
+1050	Well, what about this college kid, Pryor?
+1051	Mmm-mmm.
+1052	Don't fall for that.
+1053	We can get him out another time.
+1054	Powers is the whole ball game.
+1055	Where's your room?
+1056	I'll be staying at the Hilton.
+1057	It's not far.
+1058	This is a number here in West Berlin.
+1059	Memorize it and give it back to me.
+1060	No, no.
+1061	I...
+1062	I mean, now.
+1063	The Soviets keep cutting the international lines but local calls are okay.
+1064	Someone will pick up day and night.
+1065	Now, this docket attached to your passport will serve as your ticket into and out of the Eastern Soviet sector.
+1066	The meeting with Vogel is set for noon tomorrow.
+1067	There are only a few routes left to the East.
+1068	You take the S-Bahn, the station we showed you on the way in.
+1069	You're gonna get off at the Friedrichstrasse station here and walk to the Soviet embassy on Unter den Linden here.
+1070	Look at the map now.
+1071	You shouldn't take it with you.
+1072	You're looking at a map, you're an American, you're a spy.
+1073	You could well be detained.
+1074	Just avoid interacting with people generally.
+1075	You don't...
+1076	You don't belong, so don't stick out.
+1077	Food is scarce over there and things have started to fall apart.
+1078	There are gangs, and rule of law is less firmly established over there.
+1079	And definitely stay away from the Wall.
+1080	On their side, there's a line cleared of buildings along the Wall.
+1081	They call it the Death Line.
+1082	Cross it and you'll be shot.
+1083	Is there any outcome here where I'm not either detained or shot?
+1084	Don't worry too much about what Michener said.
+1085	No, I'm worried about what you're saying.
+1086	This kid, Pryor, that the East Germans have, how old is he?
+1087	Twenty-five.
+1088	Why?
+1089	Same age as Dougie.
+1090	Who?
+1091	Eh, an associate of mine.
+1092	Frederic Pryor.
+1093	Okay, okay, okay.
+1094	Danke.
+1095	So, we apologize if this offends.
+1096	Uh...
+1097	Coat?
+1098	Okay.
+1099	Do you understand English?
+1100	Yes, sir.
+1101	I'm James Donovan.
+1102	I'm here to meet a Mr. Vogel.
+1103	Mr. Vogel.
+1104	He doesn't work here.
+1105	I'm just supposed to meet him.
+1106	That's all I know.
+1107	Mr. Donovan!
+1108	So we finally meet you.
+1109	I'm Helen Abel.
+1110	How is our husband?
+1111	Oh.
+1112	He's fine.
+1113	How is my Rudolf?
+1114	As good as can be expected.
+1115	And we will get him back, yes?
+1116	This is our daughter.
+1117	How do you do?
+1118	Lydia.
+1119	Are you Mr. Vogel?
+1120	No, no, no!
+1121	I'm not Vogel.
+1122	I'm cousin Drews.
+1123	This is Rudolf's beloved cousin Drews.
+1124	Yes, cousin Drews.
+1125	I am cousin Drews.
+1126	Cousin Drews, yes.
+1127	I'm Helen Abel.
+1128	When will you see him?
+1129	When will your government release him?
+1130	I'm a little, uh, lost here.
+1131	I'm supposed to meet a Mr. Vogel.
+1132	Oh, Mr. Vogel is our lawyer.
+1133	We were supposed to negotiate, uh, the exchange.
+1134	To bring Rudolf here?
+1135	Yes, yes, to bring him here.
+1136	But it doesn't happen unilaterally, do you understand?
+1137	It has to be an exchange.
+1138	Not here?
+1139	Shh.
+1140	Shh.
+1141	Shh.
+1142	Mr. Donovan?
+1143	Mr. Vogel.
+1144	No, no, no.
+1145	Goodness.
+1146	My name is Schischkin.
+1147	Ivan Schischkin.
+1148	I'm the second secretary of the Soviet embassy.
+1149	It wouldn't be appropriate for Mr. Vogel to join us.
+1150	He is a German national.
+1151	So you aren't here to...
+1152	To facilitate this meeting.
+1153	Uh, perhaps Mrs. Abel would like to compose herself privately?
+1154	And let Mr. Donovan and myself to talk?
+1155	Thank you.
+1156	So, I'm confused.
+1157	Yes.
+1158	Uh, I don't care who I talk to if it's about an exchange of personnel.
+1159	Are you the person to talk to?
+1160	Yes, yes, yes, of course.
+1161	Uh, we should talk.
+1162	Please, have a seat, Mr. Donovan.
+1163	Uh, how did you arrive to the Eastern sector?
+1164	The train.
+1165	The S-Bahn.
+1166	Ah, and you were alone?
+1167	Yeah.
+1168	And you are credentialed?
+1169	Now, you must know about me, sir.
+1170	I'm a private citizen.
+1171	I'm a lawyer in Brooklyn in the United States, and I've taken time out of my busy schedule to help my client, Rudolf Abel.
+1172	I'm authorized to arrange an exchange of Abel for Francis Gary Powers.
+1173	This is a full pardon of Abel that will be signed when the exchange actually takes place.
+1174	This is the only reason I'm here.
+1175	I hope and expect to make this arrangement quickly.
+1176	Abel for Francis Gary Powers and Frederic Pryor.
+1177	Mmm, we don't have Pryor.
+1178	No?
+1179	You don't?
+1180	I've heard of Pryor, but he's held by the German Democratic Republic, not by the Union of Soviet Socialist Republics.
+1181	Well, I'll tell you the first problem.
+1182	The names of your countries are too long.
+1183	Yes, yes.
+1184	If we release Powers, it is only to promote a goodwill between our countries.
+1185	So, it cannot be an exchange.
+1186	Perhaps...
+1187	Perhaps you could release Abel as a token of goodwill to our friends in Germany, and then, some months later, we would release Powers.
+1188	There is an idea.
+1189	No.
+1190	That just won't work for us at all.
+1191	See, we need this to be an exchange.
+1192	You can call it what you want, but an exchange it must be.
+1193	We can have Abel here within 48 hours.
+1194	We need Powers at the same time we give you Abel.
+1195	Hmm.
+1196	This is...
+1197	Can we call this the impatient plan?
+1198	Well, you can call it whatever you want.
+1199	I can relay your impatient plan to Moscow, see what they say...
+1200	But they will wonder why so impatient.
+1201	Because I have a cold.
+1202	And I don't live in Berlin and I want to go home.
+1203	They will think, Well, the Americans must have gotten all the information that Abel had to give.
+1204	And now they're impatient to trade him, hoping to get in return this man, Powers, that, perhaps, has not yet given up all the information that he has to give.
+1205	This is not an equitable trade, sir.
+1206	But what you're saying is, if Powers has given up everything he knows, then Moscow would trade?
+1207	Why wouldn't they?
+1208	As for Abel, if he dies in an American prison, the next Russian operative who gets caught might think twice about keeping his mouth shut.
+1209	And you never know.
+1210	Abel might want to see the sky again and decide to trade Russian secrets for small American favors.
+1211	How can we know this?
+1212	We little men, we just do our jobs.
+1213	Like Lieutenant Powers.
+1214	He's just a pilot.
+1215	He was making photographs from 70,000 feet when he was shot from the sky.
+1216	People in my country consider this an act of war.
+1217	We have to get off this merry-go-round, sir.
+1218	The next mistake our countries make could be the last one.
+1219	We need to have the conversation our governments can't.
+1220	I will ask Moscow.
+1221	Who knows what they will say.
+1222	There are a lot of people, Mr. Donovan, who doesn't want this exchange to ever take place.
+1223	Can you come back tomorrow to discuss their answer?
+1224	Powers for Abel.
+1225	And Frederic Pryor.
+1226	As I said, Pryor is in the hands of the organs of State Security of the German Democratic Republic.
+1227	I'm confident you can make arrangements.
+1228	I am merely a secretary in the embassy of foreign power.
+1229	Okay, okay.
+1230	You have to see Mr. Vogel.
+1231	I'll give you his address.
+1232	There actually is a Mr. Vogel?
+1233	Why would you imagine otherwise?
+1234	Uh, it's a short cab ride.
+1235	And please, Mr. Donovan, wear an overcoat in this weather.
+1236	I had mine stolen from me.
+1237	What do you expect?
+1238	It was from Saks Fifth Avenue.
+1239	Wasn't it?
+1240	Mr. Donovan.
+1241	Mr. Vogel.
+1242	Please come in.
+1243	Danke.
+1244	Sorry about the embassy.
+1245	But the Soviets decided not to host me.
+1246	Very irritating.
+1247	I am still trying to grasp each party's...
+1248	Status?
+1249	Yes.
+1250	And interest in the proceedings.
+1251	Oh.
+1252	It's a new world.
+1253	All very disorienting, isn't it?
+1254	Let me tell you what I have to offer.
+1255	I'm a good friend...
+1256	Friend.
+1257	No, he's older.
+1258	Protege?
+1259	Of the attorney general of the German Democratic Republic.
+1260	Sit down, please.
+1261	This unfortunate, Frederic Pryor, he was in the wrong place at the wrong time.
+1262	But every accident, properly viewed, is an opportunity, isn't it, Mr. Donovan?
+1263	Well...
+1264	Your country refuses to recognize the German Democratic Republic.
+1265	They prefer to make up stories that the GDR doesn't exist, for instance.
+1266	Sorry.
+1267	As a means of forcing your government's recognition of this real place, sir, in which you find yourself, the GDR, the attorney general is happy to negotiate with you as a representative of your government for Mr. Pryor's return.
+1268	Mr. Vogel, I'm not here as a representative of my government.
+1269	All right.
+1270	I think that's childish, Mr. Donovan.
+1271	Well, I...
+1272	I have no official status.
+1273	Fine.
+1274	You do not represent the USA, I do not represent the GDR.
+1275	My client is Lydia Abel, Rudolf's wife.
+1276	And I have also...
+1277	Lydia is the daughter.
+1278	Helen is the wife.
+1279	Well...
+1280	I am prepared to offer Frederic Pryor's exchange for Rudolf Abel's.
+1281	Then let's be clear.
+1282	We will produce Rudolf Abel.
+1283	You will produce, at the same time, the student, Pryor.
+1284	At the same time?
+1285	Absolutely.
+1286	The exchange on offer is a Russian at the end of his life for an American student at the start of his.
+1287	Schischkin?
+1288	He's not an embassy secretary.
+1289	Ivan Schischkin is the KGB's chief in western Europe.
+1290	Well, whatever he is, he's relaying our proposal to Moscow and they'll decide.
+1291	Could I borrow a coat?
+1292	I lost mine.
+1293	How did you lose your coat?
+1294	You know, spy stuff.
+1295	I'll get you another coat.
+1296	Good, because...
+1297	So who is, uh... Who is this Vogel?
+1298	Him, we don't know.
+1299	He might be what you said he said he is.
+1300	Friend of the attorney general.
+1301	Just some guy the GDR tapped to handle this.
+1302	Sounds like the East Germans are fighting for a place at our table.
+1303	The GDR gets Abel back for the Russians, winning their respect...
+1304	And capturing the headlines for their cause.
+1305	Which, of course, puts East Germany on the map.
+1306	But we don't care about their map.
+1307	Stick with the Russians.
+1308	Stick with the Russians.
+1309	It's Powers for Abel.
+1310	So, does all this mean this might actually happen?
+1311	Yeah, that's what you seem to be telling me.
+1312	We'll put Abel on a plane, he'll be here Friday.
+1313	So, if Schischkin gets the okay, all that's left is the mechanics of the trade.
+1314	How we swap our guy for their guy.
+1315	Our guys.
+1316	Two guys.
+1317	Powers and Pryor.
+1318	No, now don't go bleeding heart on me.
+1319	Powers is the whole ball game.
+1320	Forget this Ivy League boy, who obviously thought it was a good idea to study Soviet economics in Berlin in the middle of the Cold War.
+1321	Powers is who we need.
+1322	You don't even like Powers.
+1323	Everybody hates Powers.
+1324	He didn't kill himself and he let the commies parade him on television.
+1325	He's the most hated man in America.
+1326	After Rudolf Abel, maybe.
+1327	And me.
+1328	Now wake up!
+1329	I gotta sleep.
+1330	I just gotta sleep.
+1331	I told you, you can sleep once we talk what we need to talk.
+1332	You must focus on me.
+1333	Your government doesn't care about you.
+1334	You know that.
+1335	Any of you.
+1336	You know that twelve U-2 pilots incurred brain damage?
+1337	They're vegetables because of altitude, insufficient oxygen.
+1338	But they keep you flying, Gary.
+1339	You and your friends.
+1340	They gave you this.
+1341	A scratcher, yes?
+1342	Potassium cyanide.
+1343	Does that look like they care about you?
+1344	What is the construction of the destructor unit?
+1345	By what means is this unit operated?
+1346	With what explosives is the unit charged, and what destruction is it capable of?
+1347	I don't know.
+1348	The pilots were never shown any of the equipment.
+1349	How wide far can the radar map an area during an overflight?
+1350	I don't know, I don't know!
+1351	Were you making the overflight on April 9th over the industrial area and MiG bomber base at Baranovichi?
+1352	I was not.
+1353	This was my first overflight.
+1354	I need to know about engine-out to glide ratio.
+1355	How the plane gets so high.
+1356	We know it reaches altitude of 70,000 feet.
+1357	Gary, we know this.
+1358	And I need to know where the planes have flown.
+1359	Where they have flown, Gary.
+1360	And we must have this talk now.
+1361	Now.
+1362	And then you can sleep a little.
+1363	Sir, wake up.
+1364	Wake up, sir.
+1365	Sir, can you come with me, please?
+1366	Yeah.
+1367	We gotta move.
+1368	Yeah, of course.
+1369	Can you come with me, please?
+1370	Yeah.
+1371	Okay.
+1372	Got your glasses?
+1373	Uh-huh.
+1374	What time is it?
+1375	It's late, but we need to talk, and then we need to get on a plane, okay?
+1376	Yeah.
+1377	Yep.
+1378	Upsy-daisy!
+1379	Upsy-daisy.
+1380	That's right.
+1381	There we go.
+1382	Keep it moving.
+1383	Thank you.
+1384	Other way, other way.
+1385	There we go.
+1386	You say a plane?
+1387	This way, please.
+1388	Keep moving.
+1389	So, I received a favorable decision from Moscow on your proposal that we help our friends in the German Democratic Republic by exchanging Mr. Powers for Mr. Abel.
+1390	That's well.
+1391	May I suggest the Glienicke Bridge as a place of a swap?
+1392	Why not Checkpoint Charlie?
+1393	We're not looking for publicity.
+1394	The Glienicke Bridge is very quiet, especially early in the morning.
+1395	Glienicke Bridge.
+1396	I'll run that by our side.
+1397	We can have Abel here on Friday.
+1398	So, Saturday morning?
+1399	Always impatience, yeah?
+1400	I want to get home and get into bed.
+1401	So, Saturday morning?
+1402	5:30?
+1403	All right.
+1404	We're done here.
+1405	This is a number, in case anything should come up.
+1406	All right.
+1407	Someone will answer at any hour.
+1408	I don't expect to use it.
+1409	Shall we toast the arrangement?
+1410	Why not?
+1411	Armenian brandy.
+1412	Good bracer for your cold.
+1413	Thank you.
+1414	Would you mind...
+1415	This is not part of our business but I'd like to ask you a couple of questions.
+1416	You do not have to answer.
+1417	I shall answer what I know.
+1418	I like this guy, your guy.
+1419	What happens to your guy when he gets home?
+1420	Well, we have to make a determination whether our guy is now your guy.
+1421	Now, as I said to you before, he's acted honorably.
+1422	He's still your guy, believe me.
+1423	Of course you will say that if it were true and if it were not true.
+1424	I guess it has come down to that, huh?
+1425	Well, forgive me for pushing, but is he in any danger if the determination is made?
+1426	Well, goodness.
+1427	As things are now, everyone is in danger.
+1428	Cheers.
+1429	Na zdorovie.
+1430	There will be no exchange on Glienicke Bridge.
+1431	Excuse me, sir.
+1432	There will be no exchange.
+1433	Not for Frederic Pryor.
+1434	Mr. Vogel, I thought yesterday we had agreed.
+1435	We agreed on an exchange, Abel for Pryor.
+1436	Now I learn you are a rug merchant selling the same rug to two customers.
+1437	Abel for Pryor you sell to us.
+1438	Yeah.
+1439	And Abel for Powers you sell to the Soviets.
+1440	I'm not quite sure what the problem is if the arrangement satisfies two parties or three or four.
+1441	What difference does it make?
+1442	The arrangement does not satisfy this party.
+1443	Now, Mr. Vogel, please...
+1444	Obviously you do not know who you are dealing with.
+1445	Here's the interest of the German Democratic Republic.
+1446	To deal with, and to be seen to be dealing with another sovereign power, the United States.
+1447	An equal power.
+1448	Instead you treat us as stooges for the Union of Soviet Socialist Republics.
+1449	Can we just call them the Russians?
+1450	It'll save time.
+1451	I have an appointment, sir.
+1452	I think it's you who are wasting time.
+1453	Now, tell me if I am describing this wrong.
+1454	You have a kid, a university student, someone you know is not a spy, who's no threat to you.
+1455	And in exchange for this person who is worthless to you, you play an equal part in an exchange between the Russians and the Americans.
+1456	And this is one transaction between us and the two of you.
+1457	We're not trying to do two things here, sir.
+1458	We're just doing one thing.
+1459	One, one, one.
+1460	It's hard for me to see how the Republic of East German Democrats is being slighted.
+1461	You agreed with the Soviets without consulting me.
+1462	Is this a negotiation or a conspiracy?
+1463	For it to be a conspiracy, there would have to be harm to you, sir.
+1464	There's just benefits here.
+1465	We're of agreeing interests.
+1466	No, you decide they agree.
+1467	Where is your appointment, sir?
+1468	In the West.
+1469	Ku'damm.
+1470	Good.
+1471	Look around you.
+1472	How does the Eastern sector compare with the West?
+1473	Hmm?
+1474	Our Russian friends have decided that we should not rebuild our capital city.
+1475	But we live in this ruin made by our Russian friends.
+1476	Go ahead, make your deal with these Russians.
+1477	We won't be part of it.
+1478	There is no deal without Pryor.
+1479	We are not leaving him here.
+1480	Is this your position or your government's?
+1481	Sir, I'm here.
+1482	I'm talking to you.
+1483	But you are not a representative of your government.
+1484	You don't know who you are.
+1485	Neither do we.
+1486	You should be careful.
+1487	This is not Brooklyn, Mr. Donovan.
+1488	Look, sir.
+1489	You must know that in every respect that matters, I represent my government.
+1490	You know who I am.
+1491	Do I?
+1492	Uh-oh.
+1493	Do you have the proper papers?
+1494	Of course not.
+1495	It doesn't matter.
+1496	An American lawyer like you can talk your way out of anything.
+1497	Can't you?
+1498	You go with him.
+1499	Why?
+1500	It's passport problem.
+1501	What...
+1502	What problem?
+1503	What's the problem?
+1504	You go with him.
+1505	And remember, we control the fate of Frederic Pryor.
+1506	My God!
+1507	Yeah, I'll start with some coffee, please.
+1508	Then I'll have the Hilton combo and the American breakfast.
+1509	And coffee.
+1510	Both breakfasts?
+1511	Yeah, yeah.
+1512	One first or...
+1513	Both first, both.
+1514	Whenever they're ready.
+1515	And coffee.
+1516	Hmm.
+1517	You shouldn't be here.
+1518	Well, sometimes in Germany, you just want a big American breakfast.
+1519	What happened?
+1520	Where were you last night?
+1521	Vogel arranged for me to spend some time in the East.
+1522	Oh, Jesus.
+1523	Frankly, it's not that much worse than where you have me here in the West.
+1524	So the Russians are fine with the exchange, but now Vogel is saying that the East Germans won't do it.
+1525	We're not gonna get Pryor.
+1526	Great, good.
+1527	So the Soviets are set.
+1528	We get Powers.
+1529	We get Powers.
+1530	Well done.
+1531	No, the East Germans won't do it.
+1532	We won't get Pryor, and that kid matters.
+1533	Every person matters.
+1534	Sure, that's why you tried.
+1535	That's why you tried.
+1536	Abel's on his way, so we're all set for tomorrow morning.
+1537	Wait a minute.
+1538	Makes things simple.
+1539	Makes things simple.
+1540	We are not getting the kid.
+1541	Yeah, I understand.
+1542	We're set.
+1543	We can ignore the message we got this morning.
+1544	What message?
+1545	From the East Germans.
+1546	They called the number I gave you.
+1547	They said they wanted to speak to you today.
+1548	Vogel called?
+1549	No, um...
+1550	Office of, uh, Harald Ott, East German attorney general.
+1551	Wanting what?
+1552	What does he want?
+1553	Well, to talk to you.
+1554	But it's okay, I can't ask you to go back there.
+1555	And listen, you seem to be persona non grata to some elements, so we won't push our luck.
+1556	So he wants to see me.
+1557	What time?
+1558	Oh, no, no.
+1559	Now, listen.
+1560	You don't need to go.
+1561	In fact, you shouldn't go.
+1562	In fact, you can't go.
+1563	We're set with the Soviets.
+1564	We don't want to screw it up.
+1565	I'm not gonna screw it up.
+1566	You're not going!
+1567	Don't be a pain in the ass.
+1568	Oh, I ordered.
+1569	Enjoy your big American breakfast.
+1570	I thought it should be negotiated at the highest level as a courtesy to you.
+1571	I thank you, sir.
+1572	I don't know how things became so confused.
+1573	Well, I guess sometimes they just do.
+1574	For sake of clarity, I say we are fully prepared to exchange the so-called student, Pryor, for Rudolf Abel.
+1575	I understand from Mr. Vogel that Pryor is very important to you.
+1576	Yes, but...
+1577	Ah, we'll do a memorandum to that effect.
+1578	Oh, a memorandum.
+1579	Certainly, we commit to a bi-lateral exchange.
+1580	Yes, yes, sure.
+1581	I'm not sure what that means but...
+1582	My country also insists on Francis Gary Powers.
+1583	No!
+1584	This is how things became so confused.
+1585	Powers.
+1586	What use is he, sir?
+1587	You want him back for punitive reasons?
+1588	What's done is done.
+1589	He has divulged what he will divulge, as no doubt Abel has also.
+1590	We are offering instead someone who you insist is innocent.
+1591	And this is right.
+1592	This is who you should retrieve.
+1593	The future.
+1594	Look to the future.
+1595	Ott.
+1596	Ott.
+1597	I'm sorry.
+1598	If you could give me a moment, sir.
+1599	I'm very sorry, sir.
+1600	The attorney general regrets that he had to leave on urgent business.
+1601	He left?
+1602	Yes.
+1603	Many apologies.
+1604	I've been waiting for over an hour.
+1605	Very sorry, sir.
+1606	Young man.
+1607	Come here.
+1608	It's all right.
+1609	Come here.
+1610	Uh...
+1611	Take a seat.
+1612	Oh, come on, come on.
+1613	Sit down.
+1614	Do you like your job here?
+1615	It's a very good job, sir.
+1616	It must be.
+1617	Must be interesting.
+1618	Oh, yes, sir.
+1619	And important, too.
+1620	And your English is... is good.
+1621	Yes, I hesitate to say it's excellent.
+1622	But it's excellent, sir.
+1623	Good, good.
+1624	Good.
+1625	See, I just lost my negotiating partner, and I need somebody to talk to, and you seem like a reasonable young man.
+1626	Can I talk to you?
+1627	Uh...
+1628	It's all right.
+1629	It's all right.
+1630	I just...
+1631	I just need you to give a message to your boss.
+1632	But it has to be very, very, very clear.
+1633	You understand?
+1634	Yes, sir.
+1635	But perhaps you should wait until he...
+1636	No, no.
+1637	The thing is, I have this cold and I wanna get home and get in bed.
+1638	Can you give him the message?
+1639	Certainly.
+1640	Well, this is the message.
+1641	There is no deal for Abel unless we get Powers and Pryor.
+1642	Do you understand?
+1643	Yes, sir.
+1644	It's arranged for tomorrow morning.
+1645	It will not happen unless we get two men.
+1646	Those two men.
+1647	Two, two, two.
+1648	Yes, sir.
+1649	If there is no deal, your boss must tell the Soviets.
+1650	He has to tell the Soviets that they are not getting Rudolf Abel.
+1651	Yes, sir.
+1652	Oh, and tell him this.
+1653	That so far, Abel has been a good soldier, but he thinks he's going home.
+1654	If we had to tell him that he's not going home, that the Soviets don't even want him, that he's never going home...
+1655	Well, I imagine his behavior might change.
+1656	And who will be held responsible for that?
+1657	That's a long message.
+1658	Uh, did you get it all?
+1659	Yes, sir.
+1660	Got it.
+1661	Good.
+1662	You're a good man.
+1663	Oh...
+1664	And also tell him there's no deal unless we hear before the end of business today.
+1665	He has the number.
+1666	If the exchange isn't gonna happen, no reason for everybody to get up first thing in the morning.
+1667	No, sir, that would be pointless.
+1668	You're kidding me!
+1669	You're kidding me!
+1670	Not really.
+1671	I need some change.
+1672	This is exactly what you weren't supposed to do.
+1673	My instructions were to feel out the situation.
+1674	Your instructions were to get Powers, not Pryor.
+1675	That was not the original deal.
+1676	You fouled it all up!
+1677	How do you know?
+1678	I feel pretty good about it.
+1679	You fucked it all up!
+1680	Oh, don't worry.
+1681	I think it's gonna be fine.
+1682	How do you know?
+1683	You don't know that.
+1684	United States.
+1685	New York, New York.
+1686	Danke.
+1687	Look, this whole thing has been to feel me out.
+1688	Would I swap one for one and which one?
+1689	But I said No, two for one.
+1690	So they know where we stand.
+1691	Yeah, what if they think about it and say, uh...
+1692	Forget it!
+1693	You keep our guy, we keep your guys?
+1694	Well, then I have fucked it all up.
+1695	Hey, honey!
+1696	It's me.
+1697	Yeah.
+1698	The fishing's been great.
+1699	I'm in London, just for one more meeting, then I'm on my way home.
+1700	Yeah, yeah, I remember that marmalade.
+1701	It's that shop right by Regent's Park.
+1702	All right, I will if I have the time.
+1703	Hey, can I say hi to Roger?
+1704	Could I say hi to the girls?
+1705	Is anyone not busy?
+1706	Have they even noticed I'm not around?
+1707	We're on.
+1708	Two for one.
+1709	Hot dog.
+1710	Let's have a drink.
+1711	One wrinkle.
+1712	What is that?
+1713	They won't release Pryor with Powers, not at the bridge.
+1714	They'll release him at the same time.
+1715	When the Russians give us Powers on the bridge, they'll release Pryor over Checkpoint Charlie.
+1716	What does that mean?
+1717	I think it means, We wanna have the last word.
+1718	But they will do it.
+1719	You tell me.
+1720	You felt them out.
+1721	Where are they?
+1722	Where's our guy?
+1723	Where's our guy?
+1724	They're late.
+1725	Nobody's late.
+1726	We're early.
+1727	May I?
+1728	Yeah.
+1729	Hoffman.
+1730	Yeah?
+1731	I think they have...
+1732	What?
+1733	Snipers.
+1734	Well, I'm sure they do.
+1735	How are you sure they do?
+1736	Because we have snipers.
+1737	Step out, sir.
+1738	Jim.
+1739	Dear Jim.
+1740	How are you?
+1741	Happy to see you.
+1742	Have you arranged all this for me?
+1743	Well, let's see what this is before I... I take credit for it.
+1744	Any word about Pryor from Checkpoint Charlie?
+1745	Nothing cooking yet.
+1746	Excuse me, sir.
+1747	This is Lieutenant Joe Murphy, United States Air Force, here to identify Powers.
+1748	Lieutenant Murphy.
+1749	Sir.
+1750	There may be a slight glitch.
+1751	I was a young man when I left.
+1752	Who will they find to identify me?
+1753	Well, I hope it's not your East German family.
+1754	I doubt they could identify each other.
+1755	Looks like our party.
+1756	Well, let's go.
+1757	You can stay here, Donovan.
+1758	Not likely.
+1759	Open the gate.
+1760	What do you think will happen when you get home?
+1761	Uh, I think...
+1762	I'll have a vodka.
+1763	Yeah.
+1764	Yeah.
+1765	But, Rudolf, is there not the possibility...
+1766	That my people are going to shoot me?
+1767	Yes.
+1768	You're not worried?
+1769	Would it help?
+1770	To answer your question, my friend, I acted honorably.
+1771	I think they know that.
+1772	But sometimes people think wrong.
+1773	People are people.
+1774	Let's see how they greet me.
+1775	What can I look for?
+1776	If I'm embraced or just shown the back seat.
+1777	Da.
+1778	Take off the hat.
+1779	Hey, Powers.
+1780	Hey, Murph.
+1781	Yeah, that's Powers.
+1782	All right, Mr. Donovan.
+1783	We go now!
+1784	Hang on.
+1785	Believe me, I will tell you.
+1786	There's no one here.
+1787	They're releasing another man at Checkpoint Charlie.
+1788	We're just confirming that he's there.
+1789	Now!
+1790	As per plan, if you please.
+1791	Let's go.
+1792	Pryor will show up or he won't.
+1793	Let's go.
+1794	They're waiting to see if we'll do it without him.
+1795	We just have to stand here, show them we won't.
+1796	I don't give a shit what they want.
+1797	We have our objective.
+1798	Go ahead, Abel.
+1799	Go ahead, sir.
+1800	You can go.
+1801	If it is not to plan, we go home.
+1802	We exchange now or we go home!
+1803	You're waiting for another man?
+1804	Yup.
+1805	You want him, too.
+1806	I want him.
+1807	Doesn't matter what he wants, sir.
+1808	I'm in charge and you are free to go.
+1809	Please go.
+1810	Walk across.
+1811	I can wait.
+1812	It's something.
+1813	I'm not sure yet.
+1814	Hang on!
+1815	Let's go.
+1816	We got him!
+1817	Uh, I, uh...
+1818	I sent you a gift, Jim.
+1819	It's a...
+1820	It's a painting.
+1821	I hope it has some meaning to you.
+1822	I'm sorry.
+1823	I didn't think to get you a gift.
+1824	This is your gift.
+1825	This is your gift.
+1826	You okay?
+1827	Let's go, let's go, let's go!
+1828	Mr. Donovan.
+1829	Colonel Abel asked me to give this to you.
+1830	Pardon me, sir.
+1831	Were you in charge of this thing, sir?
+1832	Yeah.
+1833	Well, I gotta thank you.
+1834	I gotta thank somebody.
+1835	I gave them nothing.
+1836	I gave them nothing.
+1837	It doesn't matter.
+1838	It doesn't matter what people think.
+1839	You know what you did.
+1840	Welcome home.
+1841	What a trip.
+1842	Mmm.
+1843	Mmm.
+1844	You okay?
+1845	Yeah, I'm fine.
+1846	Did you get the marmalade?
+1847	Yes, yes.
+1848	Yep.
+1849	Yep.
+1850	I did.
+1851	As ordered.
+1852	Jim.
+1853	This is from Arno's.
+1854	So?
+1855	On the corner!
+1856	Well, honey, I was busy.
+1857	I'm sorry.
+1858	We were so busy.
+1859	Oh, for Pete's sake.
+1860	How's Roger?
+1861	Is he home?
+1862	He's home.
+1863	Carol's home, Peggy's home.
+1864	Everyone's home.
+1865	Mom!
+1866	Come quick!
+1867	Look!
+1868	Mom, come here!
+1869	Mom, come here!
+1870	Come see this!
+1871	Look!
+1872	Watch!
+1873	Come on!
+1874	Francis Gary Powers has been released from prison in the Soviet Union and turned over to American authorities early this morning in Berlin.
+1875	The President has commuted the sentence of Rudolf Abel.
+1876	Mr. Abel has been deported and has been released in Berlin.
+1877	Efforts to obtain Mr. Powers' release had been underway for some time.
+1878	In recent efforts, the United States government has had the cooperation and assistance of Mr. James B. Donovan, a New York attorney.
+1879	Frederic L. Pryor, an American student held by East German authorities since August of 1961...
+1880	I thought Daddy was fishing.
+1881	For salmon.
+1882	Abel now has disappeared into the communist world.
+1883	Powers is here, answering questions.
+1884	And Donovan has gone back to his law practice.
+1885	And now, here is George Fenneman, speaking for the Douglas Fir Plywood Association.

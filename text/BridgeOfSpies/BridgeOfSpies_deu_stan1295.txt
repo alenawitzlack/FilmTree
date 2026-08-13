@@ -1,0 +1,1885 @@
+1	Der nächste Halt ist: Broad Street.	
+2	[NO TRANSLATION]	missing translation
+3	Nach oben.	
+4	Da lang.	
+5	Ist er nicht rausgekommen?	
+6	[NO TRANSLATION]	missing translation
+7	Er ist nicht hier.	
+8	Gehen Sie wieder runter.	
+9	Verzeihung.	
+10	Verzeihung.	
+11	Parken Sie den Wagen um die Ecke.	
+12	Besuch.	
+13	Darf ich mein Gebiss holen?	
+14	Oberst, drehen Sie sich bitte um.	
+15	Setzen Sie sich aufs Bett.	
+16	[NO TRANSLATION]	missing translation
+17	[NO TRANSLATION]	missing translation
+18	Das Gebiss ist auf dem Waschbecken.	
+19	Sehen Sie mich an.	
+20	Wir sind Agenten vom FBI.	
+21	Sehen Sie mich an.	
+22	Ich rede mit Ihnen.	
+23	Wir haben Informationen, wonach Sie der Spionage verdächtigt werden.	
+24	Entweder Sie kooperieren, oder wir nehmen Sie in Haft.	
+25	Haben Sie verstanden, Oberst?	
+26	Nein, nicht ganz.	
+27	Warum nennen Sie mich Oberst?	
+28	Ziehen Sie sich was an.	
+29	Wir müssen Ihr Zimmer durchsuchen.	
+30	Darf ich... die Farben abwischen?	
+31	Die Palette geht sonst kaputt.	
+32	Direkt hinter Ihnen.	
+33	Ein Tuch habe ich hier.	
+34	Danke.	
+35	Fangt mit der Durchsuchung an.	
+36	Danke.	
+37	Sucht in der Matratze, im Bett, unter den Dielen.	
+38	Ausmachen, bitte?	
+39	Unterm Stuhl. Der Aschenbecher steht auf dem Fensterbrett.	
+40	Durchsucht den Schreibtisch.	
+41	Ich will nicht, dass sie kaputt geht.	
+42	Sagen Sie nicht mein Mann.	
+43	Er ist nicht mein Mann.	
+44	Klar ist er Ihr Mann.	
+45	Von wem reden wir denn?	
+46	Wir reden von dem Mann, der bei meinem Mandanten versichert ist.	
+47	Sagen Sie also nicht mein Mann.	
+48	Na schön.	
+49	Der Mann also, der bei Ihrem Mandanten versichert ist, bestreitet diese Vorfälle gar nicht.	
+50	Diese...	
+51	Diese Vorfälle?	
+52	Ja, diese fünf Vorfälle.	
+53	Warten Sie, Moment.	
+54	Nicht fünf Vorfälle.	
+55	Ein Vorfall.	
+56	Es sind ganz klar fünf Vorfälle.	
+57	Mir ist das nicht klar.	
+58	Fünf Vorfälle?	
+59	Erklären Sie mir das.	
+60	Das erklärt sich von selbst.	
+61	Dann sagen Sie mir, was passiert ist.	
+62	Und zwar so, dass man versteht, dass es fünf Vorfälle sind.	
+63	Gern, natürlich.	
+64	Ihr Mann...	
+65	Nicht meiner.	
+66	[NO TRANSLATION]	missing translation
+67	Der bei Ihrem Mandanten Versicherte... fährt auf dem Highway 19, verliert die Kontrolle und fährt meine fünf Leute an. Die fünf Leute, die ich vertrete, weil Sie deren Forderungen nicht anerkennen.	
+68	Sie meinen, mein Mandant erkennt die Forderung nicht an? Die Versicherung?	
+69	Mr. Donovan, wir sind uns wohl einig, wer hier wer ist.	
+70	Aber mein Mandant erkennt jede Forderung an.	
+71	So ist es, Mr. Bates.	
+72	Bis zur Haftungsobergrenze, die bei 100.000 Dollar pro Unfall liegt, gemäß der Police dieses Mannes. Jede berechtigte Forderung.	
+73	Und das ist eine Forderung.	
+74	Laut Ihrer eigenen Schilderung: Er fährt meine fünf Leute an.	
+75	Der bei meinem Mandanten Versicherte hatte nur einen Unfall.	
+76	Einen, einen, einen.	
+77	Er verlor die Kontrolle und fuhr fünf Motorradfahrer an.	
+78	Aus deren Sicht waren das fünf Vorfälle.	
+79	Hören Sie, Bob.	
+80	Darf ich?	
+81	Bob?	
+82	Jim.	
+83	Wenn ich beim Bowlen abräume, ist das ein Volltreffer und keine zehn.	forced duplication
+84	Wenn ich beim Bowlen abräume, ist das ein Volltreffer und keine zehn.	forced duplication
+85	Meine Leute sind keine Bowling-Kegel, auch wenn Ihr Mann sie so behandelt hat.	
+86	[NO TRANSLATION]	missing translation
+87	Lassen Sie mich ausreden.	
+88	Lassen Sie mich ausreden.	
+89	Wenn Ihr Haus versichert ist, auf 100.000 Dollar und ein Tornado fegt es hinweg, dann fegt er ein Haus weg.	
+90	Er zerstört nicht jedes einzelne Möbelstück gesondert voneinander.	
+91	Wenn Sie das sagen wollen, gibt es überhaupt keine Haftungsgrenzen mehr. Und das wäre dann das Ende der Versicherungsbranche.	
+92	Und dann, Bob, ist gar niemand mehr sicher.	
+93	Watters, Cowan und Donovan.	
+94	Mit wem darf ich verbinden?	
+95	Morgen, Mr. Donovan.	
+96	Guten Morgen, Alison.	
+97	Ich habe Ihren Termin mit der Prudential verschoben.	
+98	Wieso das?	
+99	Ich bat sie darum.	
+100	Alles in Ordnung, Tom?	
+101	Lassen Sie Ihre Sachen bei Alison.	
+102	Kommen Sie rein.	
+103	Es gibt etwas sehr Wichtiges.	
+104	Wir haben Besuch.	
+105	Natalie holt Ihnen einen Kaffee.	
+106	Nescafé, Sahne, zwei Stück Zucker?	
+107	Ganz genau.	
+108	Danke.	
+109	Lynn.	
+110	Jim.	
+111	Schön, Sie zu sehen.	
+112	Wie geht's der Familie?	
+113	Gut,	
+114	danke.	
+115	Und Annie?	
+116	Hat Mordgelüste.	
+117	Ihre Eltern waren zu Besuch.	
+118	Wenn sie sie auslebt, hat sie ja einen guten Rechtsbeistand.	
+119	Also, was gibt's?	
+120	Gut, die Sache ist die:	
+121	Wir wollen, dass Sie den gefassten sowjetischen Spion verteidigen.	
+122	Hier ist die Anklageschrift.	
+123	[NO TRANSLATION]	missing translation
+124	Will ich die überhaupt in die Hand nehmen?	
+125	Der Angeklagte kennt keine Anwälte.	
+126	Das Bundesgericht hat uns den Fall untergejubelt.	
+127	Die Anwaltskammer hat abgestimmt.	
+128	Die Wahl fiel einstimmig auf Sie.	
+129	[NO TRANSLATION]	missing translation
+130	Es ist wichtig für unser Land, Jim, dass jeder sieht, dieser Mann erhält einen fairen Prozess.	
+131	Die amerikanische Justiz steht auf dem Prüfstand.	
+132	So gesagt, ist das Angebot eine Ehre für mich, aber ich bin Versicherungsanwalt.	
+133	[NO TRANSLATION]	missing translation
+134	Ich habe ewig keine Strafsachen verhandelt.	
+135	Das ist wie Fahrradfahren.	
+136	Sie haben sich ausgezeichnet, damals in Nürnberg.	
+137	Ich war nur einer von vielen Anklägern.	
+138	Unwichtig.	
+139	Das Strafrecht ist Ihnen nicht fremd.	
+140	Jim, bedenken Sie die Situation.	
+141	Der Mann ist öffentlich angeprangert.	
+142	Das werde ich dann auch.	
+143	Ja, von unverständigen Personen.	
+144	Aber genau deshalb muss es gemacht werden. Und zwar kompetent.	
+145	Es darf nicht so wirken, als würde unsere Justiz Leute auf die Müllhalde werfen.	
+146	Angenommen, ich mache es, wie ist die Beweislage?	
+147	Ziemlich erdrückend.	
+148	Großartig.	
+149	Großartig.	
+150	Alle werden mich hassen, aber wenigstens verliere ich.	
+151	Wie sehen Sie das, Tom?	
+152	Die Kanzlei wird leiden.	
+153	Ich habe hier zu tun.	
+154	Ich sehe es als patriotische Pflicht.	
+155	Es ist ein wichtiger Auftrag.	
+156	Ich sagte Lynn bereits, die Kanzlei kann nicht Nein sagen, und Sie können auch schwerlich Nein sagen.	
+157	Sie werden den Schweinehund wohl verteidigen müssen.	
+158	Sie machen es also?	
+159	Was mache ich?	
+160	Sie verteidigen Abel, den sowjetischen Spion.	
+161	Vielleicht.	
+162	Ich muss erst...	
+163	Woher wissen Sie das?	
+164	Steht's am Schwarzen Brett?	
+165	Nein,	
+166	ich sprach mit Richard Earl...	
+167	Wenn ich das mache, brauche ich Ihre Hilfe.	
+168	Können Sie heute länger arbeiten?	
+169	Ich habe eine Verabredung zum Essen.	
+170	Heute ist Dienstag?	
+171	Nein, da habe ich nichts vor.	
+172	Danke.	
+173	Aber es ist auch eine Ehre.	
+174	Die Kammer hat mich darum gebeten. Sie wollen zeigen, dass selbst ein Spion einen guten Anwalt bekommt.	
+175	Auf diese Ehre könnten wir gut verzichten.	
+176	Schatz, warum bist du schon zu Hause?	
+177	Ich wurde versetzt.	
+178	Das ist abscheulich.	
+179	Wer ist dieser Heini?	
+180	Das sage ich lieber nicht.	
+181	Setz dich.	
+182	Wir wollten gerade anfangen.	
+183	Leute haben Angst	
+184	und bauen Luftschutzbunker, um sich vor Männern wie ihm zu schützen.	
+185	Die Leute bunkern Konserven und Jodtabletten.	
+186	Nur wegen dieses Mannes und allem, wofür er steht.	
+187	Er ist eine Gefahr.	
+188	Ein Verräter.	
+189	Wer ist ein Verräter?	
+190	Die Rosenbergs waren Verräter.	
+191	Wer ist das?	
+192	Amerikaner, die den Russen Atomgeheimnisse und damit ihr Vaterland verraten haben.	forced duplication
+193	Amerikaner, die den Russen Atomgeheimnisse und damit ihr Vaterland verraten haben.	forced duplication
+194	Amerikaner, die den Russen Atomgeheimnisse und damit ihr Vaterland verraten haben.	forced duplication
+195	Du kannst Abel nicht des Verrats beschuldigen.	
+196	Er ist kein Amerikaner.	
+197	Du solltest dich mal hören.	
+198	Du verteidigst ihn bereits.	
+199	Du probst mit mir.	
+200	Du hast gesagt, du denkst nur darüber nach.	
+201	Das tue ich, nur eben sehr gründlich.	
+202	Jedem steht eine Verteidigung zu.	
+203	Jeder Mensch ist wichtig.	
+204	Jim, was steht uns zu?	
+205	Wie stehen wir vor den Leuten da?	
+206	Als Familie des Mannes, der einen Verräter befreien will?	
+207	Er ist kein Verräter, Mary.	
+208	Ja, ja.	
+209	Roger, mach auf.	
+210	Dann eben kein Verräter, aber...	
+211	[NO TRANSLATION]	missing translation
+212	[NO TRANSLATION]	missing translation
+213	Halt, erst beten.	
+214	Ich hab aber Hunger!	
+215	Der meist gehasste Mensch im Land. Und du willst den zweiten Platz.	
+216	Und ich bin auf dem dritten.	
+217	Carol, du hast nur den falschen Freund.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, streite nicht über etwas, wo es nichts zu streiten gibt.	
+220	Du bist gegen ihn. Bin ich für ihn?	
+221	Nein!	
+222	Ich bin nicht für russische Spione.	
+223	Ich bin für sein Recht auf ein ordentliches Gericht, deshalb heißt es ja ordentliches Gericht.	
+224	Ich wollte nicht stören.	
+225	[NO TRANSLATION]	missing translation
+226	Hallo, Doug.	
+227	Sie stören nicht.	
+228	Hallo, Doug.	
+229	Jim hält seine Volksreden. Und nicht Scheingericht.	
+230	Ich halte keine Volksreden.	
+231	Doug, essen Sie mit uns.	
+232	Es gibt Falscher Hase.	
+233	Helfen Sie Jim beim Nachdenken, ob er den Fall annehmen soll?	
+234	Oh, wir nehmen ihn an.	
+235	Aufregend, nicht?	
+236	Herr, wir danken für die Gaben, die Du uns bescherst.	
+237	Durch Christus, unseren Herrn.	
+238	Amen.	
+239	Guten Morgen.	
+240	Mein Name ist Jim Donovan.	
+241	Hier sind meine Referenzen.	
+242	Ich bin Partner bei Watters, Cowan und Donovan.	
+243	Meine Zulassung bei der New Yorker Anwaltskammer bekam ich 1941.	
+244	Sie sind in drei Punkten angeklagt, bezogen auf 19 offenkundige Handlungen.	
+245	Verschwörung zur Preisgabe von Staatsgeheimnissen der atomaren Verteidigung an die Sowjetunion, Ausspähen von Geheimnissen und Arbeit als ausländischer Agent ohne Registrierung.	
+246	Lassen sich viele ausländische Agenten registrieren?	
+247	Wenn Sie die Frage gestatten, nach Ihrer Verhaftung... wo waren Sie da?	
+248	Das kann ich Ihnen nicht genau sagen.	
+249	Sie wissen es nicht?	
+250	Ich wurde zu einem Flugplatz gefahren, in ein Flugzeug gesetzt und wieder rausgeholt.	
+251	Es war heiß dort.	
+252	Hier ist es auch heiß.	
+253	Heiß und sehr schwül.	
+254	Ich wurde in einen Raum gebracht.	
+255	Hat man Sie geschlagen?	
+256	Nein.	
+257	Man hat mit mir geredet.	
+258	Mir Angebote gemacht.	
+259	Wie meinen Sie das?	
+260	Stellenangebote. Ich sollte für Ihre Regierung arbeiten.	
+261	Es hieß, wenn ich kooperiere, würden keine weiteren Anklagen gegen mich erhoben.	
+262	Und ich würde Geld bekommen.	
+263	[NO TRANSLATION]	missing translation
+264	Und Sie haben abgelehnt?	
+265	Wie Sie sehen.	
+266	Das kann ich natürlich nicht gutheißen.	
+267	Ich fühle mich verpflichtet, Sie zu einer Kooperation mit der Regierung zu drängen.	
+268	Ich sagte Nein.	
+269	Richten Sie Ihren CIA-Freunden aus, dass es mir ernst war.	
+270	Nein.	
+271	[NO TRANSLATION]	missing translation
+272	Ich arbeite nicht für die CIA.	
+273	Ich arbeite nicht für die Regierung.	
+274	Ich biete Ihnen meine Dienste als Rechtsbeistand an.	
+275	Wenn Sie diese als solche akzeptieren, arbeite ich für Sie.	
+276	Wenn ich Sie akzeptiere?	
+277	Sind Sie gut in Ihrem Beruf?	
+278	Ja.	
+279	Ziemlich gut.	
+280	Haben Sie viele vermeintliche Spione vertreten?	
+281	Nein, bisher nicht.	
+282	Das wird für uns beide das erste Mal.	
+283	Ja.	
+284	In Ordnung.	
+285	In Ordnung?	
+286	Sie akzeptieren?	
+287	Ja, in Ordnung.	
+288	Gut.	
+289	Fangen wir an.	
+290	Wenn Sie dabei bleiben, dass Sie nicht kooperieren wollen...	
+291	Das tue ich.	
+292	Ja.	
+293	Dann reden Sie mit niemandem, inner- oder außerhalb der Regierung.	
+294	Mit Ausnahme von mir, soweit Sie mir vertrauen.	
+295	Ich allein habe ein Mandat, Ihnen zu dienen.	
+296	[NO TRANSLATION]	missing translation
+297	Alle anderen sähen Sie gern auf dem elektrischen Stuhl.	
+298	In Ordnung.	
+299	Sie wirken nicht beunruhigt.	
+300	Würde das helfen?	
+301	[NO TRANSLATION]	missing translation
+302	Ich hätte gern Materialien zum Zeichnen.	
+303	Das geht nicht.	
+304	Bleistift, Blatt Papier.	
+305	Zigaretten.	
+306	Bitte?	
+307	Mr. Donovan, Sie haben Männer wie mich, die dasselbe für Ihr Land tun.	
+308	Würden sie gefasst, wünschen Sie sich gewiss auch, dass man sie gut behandelt.	
+309	Ihr Name?	
+310	Francis Gary Powers.	
+311	Dienstgrad, Truppengattung?	
+312	First Lieutenant, United States Air Force.	
+313	Haben Sie irgendwelche Verbindungen zur Sowjetunion, Lieutenant Powers?	
+314	Ist das ein Witz?	
+315	Beantworten Sie nur die Fragen.	
+316	Ja, nein, oder so einfach, wie Sie können.	
+317	Haben Sie Verbindungen zur Sowjetunion?	
+318	Teufel, nein.	
+319	Wissen Sie, warum Sie hier sind?	
+320	[NO TRANSLATION]	missing translation
+321	Ist das ein Nein?	
+322	Ja.	
+323	Ich meine...	
+324	Nein, einfach nur nein.	
+325	Ja, ich habe keine Ahnung, warum ich hier bin.	
+326	Augen geradeaus, Lieutenant.	
+327	Ja, Sir.	
+328	Wie ist es gelaufen, Gary?	
+329	Ganz gut.	
+330	Ich wusste sogar meinen richtigen Namen.	
+331	Dann hast du besser abgeschnitten als Shinn.	
+332	Wer gewinnt?	
+333	Ich natürlich.	
+334	[NO TRANSLATION]	missing translation
+335	Ich spiel mit.	
+336	Das ist alles meins?	
+337	Ich sag doch, mit dem spielt man nicht.	
+338	Na gut, Flieger, die Sache ist die:	
+339	Sie wurden für eine Mission auserwählt, über die Sie nicht reden dürfen.	
+340	Mit niemandem.	
+341	Ganz egal, wem Sie vertrauen.	
+342	Ehefrau, Mutter, der Liebsten.	
+343	Dem lieben Gott beim Abendgebet.	
+344	Sie erzählen niemandem etwas davon, was ich Ihnen jetzt sage.	
+345	Jeder von euch Fliegern erfüllt gewisse Qualifikationen.	
+346	Hohe Sicherheitsfreigabe,	
+347	herausragende fliegerische Leistungen über die erforderlichen Flugstunden hinaus... in einem einsitzigen Flugzeug.	
+348	Wir befinden uns im Krieg.	
+349	Dieser Krieg wird noch nicht mit Waffen geführt,	
+350	sondern mit Informationen.	
+351	Sie werden Informationen sammeln.	
+352	Sie sammeln geheime Informationen über den Gegner.	
+353	Durch diese Informationen könnten wir die Oberhand erlangen... in einem Atomkrieg mit der Sowjetunion.	
+354	Oder aber diesen verhindern.	
+355	Für die Öffentlichkeit - selbst für Ihre Frau, Mutter, Liebste oder den lieben Gott - existiert diese Mission nicht.	
+356	Und wenn sie nicht existiert, existieren Sie auch nicht.	
+357	Sie dürfen nicht abgeschossen werden 	
+358	oder in Gefangenschaft geraten.	
+359	Sie arbeiten jetzt für die CIA.	
+360	Jim, ich hörte, Ihr Spion spricht mit einem falschen Akzent?	
+361	Hält er das durch?	
+362	Ich glaube, das ist einfach seine Art zu reden.	
+363	Er hat einen russischen Namen und einen britischen Pass.	
+364	Ich bezweifle, dass der echt ist.	
+365	Nun, Jim, wo stehen wir?	
+366	Ich sehe hier...	
+367	Ja, Euer Ehren, sehen Sie, ich glaube, drei Wochen werden einfach nicht ausreichen.	
+368	[NO TRANSLATION]	missing translation
+369	Uns liegt ein umfangreiches Beweisdossier vor.	
+370	Sie wollen einen Aufschub?	
+371	Sechs Wochen.	
+372	Ich bin ganz allein und habe nur einen Mitarbeiter.	
+373	Jim, ist das Ihr Ernst?	
+374	Sir?	
+375	Ist das Ihr Ernst?	
+376	[NO TRANSLATION]	missing translation
+377	Ja, natürlich.	
+378	Wie im Antrag dargelegt...	
+379	Jim, der Mann ist ein sowjetischer Spion.	
+380	Vermeintlich.	
+381	Ich bitte Sie, Herr Anwalt.	
+382	Euer Ehren.	
+383	[NO TRANSLATION]	missing translation
+384	Natürlich ziehen wir alle den Hut davor, dass Sie die leidige Sache übernehmen.	
+385	Der Mann braucht ein ordentliches Verfahren,	
+386	aber machen wir uns nichts vor.	
+387	Er erhält eine kompetente Verteidigung.	
+388	Und so Gott will, wird er verurteilt.	
+389	Ich bitte Sie, Herr Anwalt.	
+390	Keine Spielchen.	
+391	Nicht in meinem Gerichtssaal.	
+392	Wir haben einen Termin, und wir verhandeln den Fall.	
+393	Taxi!	
+394	Taxi!	
+395	Ich sehe, dass Ihr Licht brennt.	
+396	Elender Mistkerl.	
+397	Will so schnell wie's geht nach Manhattan.	
+398	Das Licht war doch an, oder?	
+399	Mistkerl.	
+400	Mehr als es ihnen behagt.	
+401	Die Statuten sind dieselben.	
+402	Oh, Entschuldigung.	
+403	Pardon.	
+404	Verzeihung.	
+405	[NO TRANSLATION]	missing translation
+406	Mr. Donovan.	
+407	Was?	
+408	Was?	
+409	CIA.	
+410	Ja.	
+411	Ich will nur ein bisschen plaudern.	
+412	Wie läuft's mit dem Fall?	
+413	Es läuft großartig.	
+414	Könnte besser nicht sein.	
+415	[NO TRANSLATION]	missing translation
+416	Hat Ihr Mann ausgepackt?	
+417	Wie bitte?	
+418	Sie waren bei ihm.	
+419	Hat er geredet?	
+420	Hat er schon irgendwas gesagt?	
+421	Dieses Gespräch findet nicht statt.	
+422	Nein, natürlich nicht.	
+423	Nein, im Ernst, es findet nicht statt.	
+424	Sie verlangen, dass ich meine Schweigepflicht verletze?	
+425	Ich bitte Sie, Herr Anwalt.	
+426	Was soll dieses ständige: Ich bitte Sie, Herr Anwalt?	
+427	Es missfiel mir schon beim ersten Mal.	
+428	Ein Richter sagte es zweimal.	
+429	Je öfter ich es höre, desto weniger gefällt es mir.	
+430	Gut, ich verstehe das mit der Schweigepflicht.	
+431	Ich verstehe die juristischen Winkelzüge.	
+432	Und ich verstehe, dass Sie damit Ihre Brötchen verdienen.	
+433	Aber ich will mit Ihnen über etwas anderes reden.	
+434	Über die Sicherheit Ihres Landes.	
+435	Es tut mir leid, wenn Ihnen meine Ausdrucksweise missfällt.	
+436	Aber wir müssen wissen, was Abel Ihnen erzählt.	
+437	Verstehen Sie mich, Donovan?	
+438	Wir müssen es wissen.	
+439	Spielen Sie nicht den Moralapostel.	
+440	Bei uns gibt es kein Regelbuch.	
+441	Sie sind Agent Hoffman, ja?	
+442	Ja.	
+443	Deutscher Herkunft.	
+444	Ja, und?	
+445	Mein Name ist Donovan.	
+446	Irisch.	
+447	Beide Seiten, Mutter und Vater.	
+448	Ich bin Ire, Sie sind Deutscher.	
+449	Aber was macht uns beide zu Amerikanern?	
+450	Nur eine Sache.	
+451	Eine, eine, eine.	
+452	Das Regelbuch.	
+453	Wir nennen es Verfassung. Wir haben uns auf die Regeln geeinigt. Das macht uns zu Amerikanern.	
+454	Und nur das. Es gibt also sehr wohl ein Regelbuch, und nicken Sie nicht so dämlich, Sie Scheißkerl.	
+455	Müssen wir uns Ihretwegen Sorgen machen?	
+456	Nicht, wenn man mich in Ruhe meine Arbeit machen lässt.	
+457	Luftwaffenstützpunkt Peshawar Pakistan Ab sofort sind für die U-2 die Begriffe Spionage- oder Aufklärungsflugzeug tabu.	
+458	Sie verwenden den Begriff Article.	
+459	Die Article hat eine Spannweite von 24 Metern.	
+460	Angetrieben von einem Pratt and Whitney J57 P-37 Triebwerk.	
+461	10.000 Pfund Schubkraft... und eine Höchstgeschwindigkeit von 430 Meilen pro Stunde.	
+462	Nicht allzu schnell, aber bei einer Flughöhe von 70.000 Fuß, kann Sie niemand erreichen.	
+463	70.000?	
+464	Der Gegner wird gar nicht merken, dass Sie da sind.	
+465	Wirkt instabil.	
+466	Jedes zusätzliche Pfund Gewicht kostet einen Fuß an Höhe, und wir müssen die Kameras unterbringen.	
+467	Das ist eine 4500er Linse. Davon gibt es drei.	
+468	Eine gestochen scharfe Panoramakamera. Viermal so leistungsstark wie jede Luftbildkamera, die bisher im Einsatz war.	
+469	Sie werden Fotos machen, viele Fotos.	
+470	In 70.000 Fuß fotografiert die Article ein Gebiet von 5000 Quadratkilometern, pro Überflug.	
+471	Und nun, Flieger, schenken Sie Agent Sumner Ihre Aufmerksamkeit.	
+472	Die Gegenstände, die Sie für Ihre Mission brauchen, sind hier.	
+473	Revere-8 Filmkamera, Modell 40. Keystone Capri K-25, Silber.	
+474	Rasierpinsel mit Hohlgriff.	
+475	Ein Set Chiffrier-Tabellen auf essbarer Silberfolie.	
+476	Fachmännische Foto-Ausrüstung.	
+477	Ja,	
+478	wir können's uns vorstellen.	
+479	Danke.	
+480	Verzeihung, Agent... Bosco.	
+481	Blasco.	
+482	Sir.	
+483	Anscheinend gibt es eine Untersektion für diese Liste.	
+484	Das meiste stammt aus seinem Atelier, der Rest aus dem Hotelzimmer, in dem er sich verkrochen hatte.	
+485	Wo wir ihn gefunden haben.	
+486	Das Hotelzimmer, das Sie durchsucht haben?	
+487	Genau, ja.	
+488	Darf ich den Durchsuchungsbeschluss sehen?	
+489	Den was?	
+490	Ja, erklären Sie's mir.	
+491	Es gab einen Gerichtsbeschluss.	
+492	Es gab einen Beschluss.	
+493	Eine richterliche Verfügung zur Festnahme eines Ausländers, aber keinen Durchsuchungsbeschluss wegen Verdachts auf eine kriminelle Handlung.	
+494	Daher sind die Durchsuchung und die daraus resultierenden Beweise... unsauber und somit unzulässig.	
+495	Welcher Schutz steht ihm zu?	
+496	Der Mann ist kein...	
+497	Wer ist dieser Mann?	
+498	Rudolf Iwanowitsch Abel.	
+499	Sowjetischer Staatsangehöriger.	
+500	Er ist kein Amerikaner.	
+501	1886, Yick Wo gegen Hopkins.	
+502	Demzufolge darf man Ausländer, in diesem Fall chinesische Einwanderer, ohne ordentliches Verfahren nicht für eine Straftat einsperren. Einschließlich der Ausländer, die illegal im Land sind.	
+503	Oberste Pflicht der Justiz ist die Treue gegenüber den Vereinigten Staaten.	
+504	Ich wüsste nicht, wie ein illegaler Einwanderer irgendwelcher Rechte beraubt würde.	
+505	Rechte als was?	
+506	Als Amerikaner?	
+507	Rechte als was, Herr Anwalt?	
+508	Wir kämpfen für die Zivilisation.	
+509	Dieser russische Spion ist hier, um unsere Kultur zu bedrohen.	
+510	Auf mich wartet ein voller Gerichtssaal.	
+511	Gehen Sie, setzen Sie sich neben den Russen.	
+512	Bringen wir's hinter uns.	
+513	Und Ihr Antrag ist abgelehnt.	
+514	Er sollte eine Versicherung auf sich selbst abschließen.	
+515	Wie ist es gelaufen?	
+516	Da drin?	
+517	[NO TRANSLATION]	missing translation
+518	Nicht allzu gut.	
+519	Offenbar sind Sie kein amerikanischer Staatsbürger.	
+520	Das ist wahr.	
+521	Und laut Ihrem Chef sind Sie auch kein sowjetischer Staatsbürger.	
+522	Nun, der Chef hat nicht immer Recht, aber er bleibt immer der Chef.	
+523	Machen Sie sich nie Sorgen?	
+524	Würde das helfen?	
+525	Erheben Sie sich.	
+526	Ich schwöre Treue auf die Fahne... der Vereinigten Staaten von Amerika... und die Republik, für die sie steht, eine Nation unter Gott, unteilbar, mit Freiheit und Gerechtigkeit für jeden.	
+527	Zunächst müsst ihr wissen, was passiert, wenn eine Atombombe explodiert.	
+528	Es gibt einen grellen Blitz, heller als die Sonne.	
+529	Gebäude können einstürzen, Fenster bersten, in der ganzen Stadt.	
+530	Doch wenn ihr euch duckt und bedeckt, so wie Bert, seid ihr sehr viel sicherer.	
+531	Es gibt zwei Arten von Angriffen: Mit Vorwarnung und ohne Vorwarnung.	
+532	[NO TRANSLATION]	missing translation
+533	Was machst du hier?	
+534	Dad, das ist sehr wichtig.	
+535	Wenn der Krieg anfängt, stellen die als Erstes Wasser und Strom ab.	
+536	Deshalb sollten wir als Erstes die hier füllen. Wir benutzen deine Dusche, die Spüle, den Gartenschlauch...	
+537	Das sind gute Ideen.	
+538	Aber, Roger, das ist nichts, weswegen du dir Sorgen machen musst.	
+539	Aber wenn die Sirenen heulen, ist keine Zeit mehr, um Wanne und Becken zu füllen.	
+540	Die Sirenen werden nicht heulen...	
+541	Was ist das?	
+542	Wenn die Bombe kommt, zielen die Roten aufs Empire State Building.	
+543	Aber die Bombe explodiert in 3000 Metern Höhe.	
+544	Im Life-Magazine heißt das Luftdetonation. Und wenn das eine 50-Megatonnen-Bombe ist, breitet sich die Druckwelle immer weiter aus. Und dann schmilzt alles von hier bis hier.	
+545	Einschließlich da, wo wir wohnen.	
+546	Hier.	
+547	Ja, hier.	
+548	Roger, niemand wirft Atombomben auf uns.	
+549	Aber die Russen wollen das.	
+550	Dieser Russe, den du verteidigst?	
+551	Er will alles vorbereiten für den Abwurf der Bomben.	
+552	Nein, deswegen ist er nicht hier.	
+553	Nein, deswegen ist er nicht hier.	missing translation
+554	Er ist nicht mal Russe.	
+555	Wir glauben, geboren wurde er in Nordengland.	
+556	Ja, aber er spioniert für Russland.	
+557	Ich verstehe nicht, was du machst.	
+558	Du bist kein Kommunist, wieso verteidigst du einen?	
+559	Weil das meine Arbeit ist.	
+560	Früher war das nie so.	
+561	Im Fall Vereinigte Staaten von Amerika... gegen Rudolf Abel, Punkt eins der Anklage: Wie befinden Sie den Angeklagten?	
+562	Schuldig oder nicht schuldig?	
+563	Schuldig.	
+564	Im zweiten Punkt?	
+565	Schuldig.	
+566	Im dritten Punkt?	
+567	Schuldig.	
+568	Ich beantrage, die Schuldsprüche aufgrund falscher Beweiswürdigung aufzuheben.	
+569	Abgewiesen.	
+570	Die Geschworenen sind entlassen.	
+571	Ich danke Ihnen.	
+572	Und ich möchte hinzufügen, ich wäre zu denselben Urteilen gelangt.	
+573	Die Strafzumessung erfolgt... am 15. November.	
+574	Das bedeutet nicht automatisch die Todesstrafe.	
+575	Keine Sorge.	
+576	Ich habe keine Angst vor dem Tod, Mr. Donovan.	
+577	Allerdings... reiße ich mich auch nicht darum.	
+578	Sie haben das hier vergessen.	
+579	Danke.	
+580	Vielen Dank.	
+581	Sie haben mich nie gefragt, ob die Vorwürfe stimmen.	
+582	Ob ich wirklich... ein Spion bin.	
+583	So funktioniert das hier.	
+584	Die Vorwürfe gegen Sie sind wichtig.	
+585	Die Beweise gegen Sie sind wichtig.	
+586	Die Spekulation, ob Sie's sind oder nicht, ist unwichtig.	forced duplication
+587	Die Spekulation, ob Sie's sind oder nicht, ist unwichtig.	forced duplication
+588	Der Staat muss beweisen, dass Sie ein Spion sind.	
+589	Sind Sie gar nicht neugierig?	
+590	Nein.	
+591	Ich ging immer davon aus, dass Sie Künstler sind.	
+592	Meine Frau ist die Künstlerin.	
+593	Sie ist Musikerin. In einem Orchester in Moskau.	
+594	Welches Instrument?	
+595	Harfe.	
+596	[NO TRANSLATION]	missing translation
+597	Dann ist sie ein Engel.	
+598	Wie Sie da stehen, erinnern Sie mich an einen Mann, der uns häufig besuchte, als ich klein war.	
+599	Mein Vater sagte immer: Beobachte diesen Mann.	
+600	Und das tat ich.	
+601	Bei jedem seiner Besuche. Und kein einziges Mal... tat er irgendetwas Bemerkenswertes.	
+602	Und ich erinnere Sie an ihn?	
+603	Einmal - ich war ungefähr so alt wie Ihr Sohn - 	
+604	wurde unser Haus von Partisanen gestürmt.	
+605	Es waren Dutzende.	
+606	Mein Vater und meine Mutter wurden geschlagen, und dieser Mann, der Freund meines Vaters, er wurde geschlagen.	
+607	Und ich beobachtete diesen Mann.	
+608	Immer, wenn sie ihn schlugen, stand er wieder auf.	
+609	Also schlugen sie ihn heftiger.	
+610	Er stand trotzdem immer wieder auf.	
+611	Ich glaube, deshalb hörten sie mit den Schlägen auf und ließen ihn am Leben.	
+612	[NO TRANSLATION]	missing translation
+613	Ich weiß noch, wie sie das sagten.	
+614	Was so viel heißt wie: Standhafter Mann.	
+615	Standhafter Mann.	
+616	Hallo, Jim.	
+617	Millie, Sie sehen umwerfend aus.	
+618	Mortie wirft sich noch in Schale.	
+619	Aber kommen Sie doch rein.	
+620	Scotch, Jim?	
+621	Ja, gern.	
+622	Danke.	
+623	Nur einen Tropfen Wasser.	
+624	Euer Ehren.	
+625	Hallo, Jim.	
+626	Wir sind auf dem Sprung.	
+627	Aber ein paar Minuten hätte ich.	
+628	Eine Spendengala.	
+629	Millie ist sehr engagiert.	
+630	Danke, dass Sie mich empfangen.	
+631	Ich wollte nur meinen Senf in Sachen Strafmaß beitragen.	
+632	Und ich belästige Sie damit lieber zu Hause, da nicht all meine Argumente juristisch relevant sind.	
+633	Ja, das ist einer dieser Fälle.	
+634	Ich war hoffentlich nicht zu harsch beim Prozess, aber es ist so wie Sie sagen.	
+635	Vieles an dem Fall ist juristisch nicht relevant.	
+636	Es gibt wichtigere Dinge.	
+637	Wichtigere Dinge.	
+638	Danke.	
+639	[NO TRANSLATION]	missing translation
+640	Sir,	
+641	ich denke, es dürfte wohl im Interesse der Vereinigten Staaten sein, dass Abel am Leben bleibt.	
+642	Warum?	
+643	Ich sage nicht, dass ich mich entschieden habe, aber wenn er kooperieren wollte, hätte er's längst getan.	
+644	Stimmt, aber das Problem hier...	
+645	[NO TRANSLATION]	missing translation
+646	Ich darf doch bitten!	
+647	Sie können nicht sagen, es sei im Interesse der Vereinigten Staaten, dass er den Rest seiner Tage in einer Gefängniszelle verbringt.	
+648	Wie kann das im nationalen Interesse sein?	
+649	Nicht die Inhaftierung an sich, Sir.	
+650	Es wäre möglich, dass in absehbarer Zeit... ein Amerikaner von vergleichbarem Rang in sowjetrussische Gefangenschaft gerät.	
+651	Da brauchen wir vielleicht jemanden für einen Austausch.	
+652	[NO TRANSLATION]	missing translation
+653	Das klingt nach einem Was-wäre-wenn-Spielchen.	
+654	Das können Sie treiben, bis Sie schwarz werden.	
+655	Was-wäre-wenn ist mein täglich Brot.	
+656	Ich bin in der Versicherungsbranche.	
+657	Und dieses Szenario ist durchaus denkbar.	
+658	Das liegt im Bereich des Möglichen.	
+659	Aufgrund solcher Wahrscheinlichkeiten haben die Leute Versicherungen.	
+660	Wenn wir diesen Kerl in den Tod schicken, machen wir uns angreifbar.	
+661	Wir haben dann keine Police in der Hinterhand... für den Tag, wenn der Sturm kommt.	
+662	Nette Ansprache.	
+663	Da wäre auch noch das humanitäre Argument.	
+664	Soll er sterben, weil er getan hat, wozu er hergeschickt wurde?	
+665	Na gut, Herr Anwalt.	
+666	Ich muss los.	
+667	War nett, Jim.	
+668	Ich begleite Sie hinaus.	
+669	Erheben Sie sich.	
+670	Die Sitzung des Bundesbezirksgerichts New York Ost ist eröffnet.	
+671	Der ehrenwerte Mortimer Byers hat den Vorsitz.	
+672	Setzen Sie sich.	
+673	Der Angeklagte möge sich bitte erheben.	
+674	Nach Bewertung durch dieses Gericht entspricht das folgende Strafmaß, basierend auf den Schuldsprüchen der Geschworenen in allen Anklagepunkten, den Abwägungen, die dieses Gericht zu erfüllen hat.	
+675	Den Schuldsprüchen in allen Anklagepunkten folgend... wird der Angeklagte in den Gewahrsam des Generalbundesanwaltes überstellt... zur Inhaftierung in einem von ihm auszuwählenden Bundesgefängnis für die Dauer von 30 Jahren.	
+676	Justizwachtmeister, nehmen Sie den Angeklagten in Gewahrsam.	
+677	[NO TRANSLATION]	missing translation
+678	Kein elektrischer Stuhl?	
+679	Nein.	
+680	[NO TRANSLATION]	missing translation
+681	Warum hängen wir ihn nicht?	
+682	Warum in Gottes Namen hängen wir ihn nicht?	
+683	Hinsetzen!	
+684	Er ist ein Spion.	
+685	Er bringt uns mit seinen Lügen alle um.	
+686	Warum in Gottes Namen hängen wir ihn nicht?	
+687	Er hat Recht.	
+688	Er ist ein Spion.	
+689	Mr. Donovan!	
+690	Mr. Donovan!	
+691	Eine Frage.	
+692	Nur eine Frage, Sir.	
+693	Mein Hut.	
+694	Mein Hut.	
+695	Mein Hut.	
+696	Niemand gibt einen Kommentar ab.	
+697	Mr. und Mrs. Donovan beantworten keine Fragen.	
+698	Wie fühlen Sie sich nach diesem Albtraum?	
+699	Mr. Donovan, sind Sie zufrieden mit dem Urteil?	
+700	[NO TRANSLATION]	missing translation
+701	Wir haben gute Gründe für eine Berufung.	
+702	Eine Berufung?	
+703	Berufung, ja.	
+704	Jim, das war gute Arbeit.	
+705	Sie haben Ihr Mandat mehr als erfüllt.	
+706	Aber der Mann ist ein Spion.	
+707	Das Urteil ist korrekt, und es gibt keinen Grund für eine Revision.	
+708	Es gibt verfahrensrechtliche Gründe.	
+709	Die Durchsuchung war fehlerhaft.	
+710	Bei einer Berufung hat der vierte Verfassungszusatz mehr Gewicht.	
+711	Wir haben gute Chancen.	
+712	Was zum Teufel wollen Sie damit sagen?	
+713	Wir sollten zeigen, dass er kompetent verteidigt wird und das haben wir.	
+714	Warum kommen Sie mir jetzt mit der verdammten Verfassung?	
+715	Wenn Sie mir in die Augen sehen... und sagen, dass kein Grund für eine Revision vorliegt, vergesse ich das sofort.	
+716	Das sage ich nicht.	
+717	Sie wissen, was ich sage.	
+718	Tom sagt, dass diese Dinge ihren Preis haben.	
+719	So ist es.	
+720	Sie gehen auf Kosten deiner Familie und deiner Kanzlei.	
+721	Die Musik hat mir gefehlt.	
+722	Die haben das Radio überprüft, dass kein Sender drin versteckt ist.	
+723	Denk ich mir.	
+724	Schostakowitsch.	
+725	[NO TRANSLATION]	missing translation
+726	Ein großer Künstler, Schostakowitsch.	
+727	Ich denke, unsere stichhaltigsten Gründe für eine Aufhebung... sind verfassungsrechtliche.	
+728	Wir haben eine gute Chance, wenn das Oberste Gericht die Revision zulässt.	
+729	Jim...	
+730	Sie sollten vorsichtig sein.	
+731	Vorsichtig.	
+732	[NO TRANSLATION]	missing translation
+733	Edward Byrnes.	
+734	[NO TRANSLATION]	missing translation
+735	Und Richard Long.	
+736	Guten Morgen, Suzanne.	
+737	Guten Morgen, Dick.	
+738	Eine Eilzustellung für Sie.	
+739	Oh, von ihr.	
+740	Mom!	
+741	Was in Gottes Namen ist passiert?	
+742	Schatz, geht es dir gut?	
+743	Mom!	
+744	Bist du verletzt?	
+745	Ich kümmere mich.	
+746	Geh hoch.	
+747	Alles in Ordnung?	
+748	Ich saß mit dem Rücken zur Wand.	
+749	Geht's dir gut?	
+750	[NO TRANSLATION]	missing translation
+751	Ich saß mit dem Rücken zur Wand.	
+752	[NO TRANSLATION]	missing translation
+753	Weg von den Fenstern.	
+754	Gut.	
+755	Gut gemacht.	
+756	[NO TRANSLATION]	missing translation
+757	Es ist alles gut.	
+758	Alles gut, sie sind weg.	
+759	Das sind Feiglinge,	
+760	die sind weg.	
+761	Unsere Beamten befragen die ganze Nachbarschaft.	
+762	Vielleicht kann jemand den Wagen beschreiben, aber vermutlich eher nicht.	
+763	Wir brauchen Schutz.	
+764	Ich habe Anweisung, zwei Wagen hier zu lassen.	
+765	Unsere Präsenz hier...	
+766	Für wie lange?	
+767	Ich muss nach Washington Ende der Woche.	
+768	Was soll das?	
+769	Was tun Sie Ihrer Familie an?	
+770	Wie bitte, Officer?	
+771	Sie verteidigen den Kerl immer noch?	
+772	Warum kämpfen Sie für ihn?	
+773	Lassen Sie's gut sein, Officer.	
+774	Nichts lass ich gut sein.	
+775	Ich war in Omaha Beach.	
+776	Ich habe auch gedient.	
+777	Ich hab gegen die gekämpft, und Sie verteidigen ihn?	
+778	Machen Sie Ihre Arbeit als Gesetzeshüter.	
+779	Tut mir leid.	
+780	Wir gehen jetzt raus.	
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	Vergessen Sie's.	
+784	Was kriege ich hier nicht mit?	
+785	Raus jetzt, Officer.	
+786	Tut mir leid.	
+787	Einen roten Spion verteidigen!	
+788	Herrgott!	
+789	Finden Sie das gerecht, Sir?	
+790	Sollte es notwendig werden, das Flugzeug über sowjetischem Gebiet zu verlassen, im Rumpf ist eine Sprengladung von zweieinhalb Pfund untergebracht.	
+791	Als Erstes... aktivieren Sie die Stromkreise.	
+792	Zum Starten des Siebzigsekunden-Timers... legen Sie den Schalter um mit der Aufschrift Destruct.	
+793	Oberstes Gebot ist, dass diese Flüge geheim bleiben... und die Ausrüstung nicht in feindliche Hände fällt.	
+794	Was ist mit uns?	
+795	Machen Sie Witze, Lieutenant Powers?	
+796	Ich nämlich nicht.	
+797	Was Sie über das Flugzeug wissen, ist so geheim wie das Flugzeug selbst.	
+798	Wenn eine Gefangennahme unausweichlich ist, stürzen Sie mit der Maschine ab.	
+799	Falls Sie meinen, Ihnen gelingt nahe der Grenze die Flucht per Notausstieg, bitte.	
+800	Sie wissen, wie der Schleudersitz funktioniert.	
+801	Aber wenn Sie aussteigen, nehmen Sie den Dollar mit.	
+802	Darin befindet sich eine Nadel.	
+803	Ein Kratzer in die Haut, egal wo, wirkt sofort.	
+804	Falls Ihnen die Gefangennahme droht, benutzen Sie sie.	
+805	Flieger, habt ihr mich verstanden?	
+806	Gebt den Dollar aus.	
+807	Mit Erlaubnis des Hohen Gerichts.	
+808	Der Kalte Krieg ist nicht nur ein Schlagwort, Euer Ehren.	
+809	Keine bloße Redewendung.	
+810	Er ist wahrhaftig eine Schlacht zwischen zwei rivalisierenden Weltanschauungen.	
+811	Ich argumentiere, dass Rudolf Iwanowitsch Abel - Oberst Abel, wie er selbst von den Männern genannt wurde, die ihn verhaftet haben - unser Gegner in dieser Schlacht ist.	
+812	Hilfsturbine?	
+813	Verbunden und an.	
+814	Not-Sauerstoff für Schleudersitz?	
+815	Bei 125 atü.	
+816	Gleichrichter?	
+817	An, Lampe aus.	
+818	Er wurde so lange als Kämpfer in diesem Krieg behandelt, bis es unserer Regierung nicht länger dienlich war, ihn so zu behandeln.	
+819	Folglich... wurde ihm nicht der Schutz gewährt, den wir unseren eigenen Bürgern gewähren.	
+820	Ihm wurde eine Behandlung zuteil, die - obwohl angemessen für einen mutmaßlichen Gegner - nicht angemessen war für einen mutmaßlichen Verbrecher.	
+821	Kraftstoff-Umschalter?	
+822	Umschalter aus.	
+823	Destructor?	
+824	Destructor gesichert.	
+825	Steigraten-Tabelle?	
+826	Tabelle an Bord.	
+827	Ich kenne diesen Mann.	
+828	Ist die Anklage zutreffend, dient er einem fremden Staat, doch er dient ihm treu.	
+829	Ist er Soldat in der Armee des Gegners, ist er ein guter Soldat.	
+830	Er ist nicht vom Schlachtfeld geflohen, um sich zu retten.	
+831	Er hat sich geweigert, dem Feind zu dienen.	
+832	Geweigert, seine Grundsätze zu verraten.	
+833	Geweigert, den feigen Ausweg zu wählen.	
+834	Der Feigling gibt seine Würde auf, bevor er das Schlachtfeld verlässt.	
+835	Das würde Rudolf Abel niemals tun.	
+836	Sollten wir - indem wir ihm sämtliche Vorteile unseres Rechtsstaates zugestehen - diesem Mann nicht beweisen, wer wir sind?	
+837	Wer wir sind.	
+838	Ist das nicht die beste Waffe, die wir haben in diesem Kalten Krieg?	
+839	Stehen wir zu unseren Grundsätzen weniger eisern als er zu seinen?	
+840	Der Präsident erklärte, ein NASA-Wetterflugzeug sei vor vier Tagen nördlich der Türkei verschwunden.	
+841	Die Raumfahrtbehörde fürchtet, der Pilot sei bei dem Absturz ums Leben gekommen.	
+842	Laut Radar habe das Flugzeug den Kurs verlassen und sei tief in sowjetisches Gebiet vorgedrungen, bevor der Kontakt abbrach, was nicht nur die Bergung der Maschine erschwert, sondern auch die der sterblichen Überreste des Piloten.	
+843	Nun zu den Nachrichten aus Washington:	
+844	Mit knapper Mehrheit bestätigte das Oberste Gericht das Urteil gegen den russischen Spion... Rudolf Iwanowitsch Abel mit fünf gegen vier Stimmen.	
+845	In dem Fall ging es um bürgerliche Freiheiten, so der Anwalt des Russen, James B. Donovan.	
+846	Auf die Frage, wie er sich nach der heutigen Niederlage fühle, sagte Mister Donovan nur: Müde.	
+847	Weitere Meldungen nach einer kurzen Unterbrechung.	
+848	[NO TRANSLATION]	missing translation
+849	Es ist vorbei.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	Wo zum Kuckuck ist die Akte von dem Prudential-Fall?	
+853	Mr. Watters bat mich, sie an Jack Elwes weiterzuleiten, zusammen mit dem Revisionsentwurf.	
+854	Ach so?	
+855	Er hat ihn neu aufgesetzt und eingereicht, als Sie in Washington waren.	
+856	Wie lange kennen wir uns?	
+857	Sie tun so, als könnte ich keine Verträge schließen.	
+858	Arrangieren Sie ein Treffen.	
+859	Irgendwas Ausgefallenes.	
+860	Mr. Young bevorzugt sicher die feineren Adressen in New York.	
+861	Und ich brauche die Zusammenfassung von...	
+862	Kennen Sie jemanden aus Leipzig?	
+863	Leipzig?	
+864	Bekomme ich jetzt schon Drohbriefe aus Deutschland?	
+865	Aus Ostdeutschland.	
+866	Ist das Ihre Frau?	
+867	Nein.	
+868	Nein, nein, nein.	
+869	Sie täuscht es vor zu sein, aber die Täuschung ist nicht mal gut.	
+870	Ich erlaube mir, Ihnen zu schreiben, nachdem ich aus der Zeitung erfahren habe, wie zutiefst menschlich Sie sich verhielten gegenüber meinem geliebten Mann, Rudolf Abel.	
+871	Und soll ich darauf antworten?	
+872	Ja.	
+873	Wie ist der nächste Spielzug, wenn man das Spiel nicht kennt?	
+874	Francis Gary Powers,	
+875	laut Artikel zwei, Strafgesetzbuch der UdSSR, stehen auf Verbrechen gegen die sowjetische Staatsmacht... bis zu zehn Jahre Haft, von denen die ersten drei im Gefängnis abzusitzen sind.	
+876	Diese Haftstrafe, unter Anrechnung der Untersuchungshaft, hat am 1. Mai 1960 begonnen.	
+877	Mr. Donovan, vielen Dank für Ihr Kommen.	
+878	Es ist mir ein Vergnügen, Mr. Dulles.	
+879	Eine Ehre, Sir.	
+880	Nescafé, Sahne, zwei Stück Zucker.	
+881	Danke.	
+882	Dieser Brief, den Sie erhalten haben.	
+883	Offenbar wollen die Sowjets die Tür einen Spalt öffnen.	
+884	Sie gehen über Ostdeutschland, weil sie Abel nicht als Sowjetbürger anerkennen, geschweige denn als sowjetischen Spion.	
+885	[NO TRANSLATION]	missing translation
+886	Große Märchenstunde.	
+887	Ja, aber zu welchem Zweck?	
+888	Die haben unseren Mann, den Spionage-Piloten.	
+889	Wir haben deren Mann.	
+890	Gefangenenaustausch, darauf sind sie wohl aus.	
+891	Was für Sie keine Überraschung sein wird,	
+892	weil Sie das ja wohl vorausgesehen haben.	
+893	Ja, allerdings. Und ich habe nicht oft Recht.	
+894	Meinen Glückwunsch.	
+895	Streichen Sie sich den Tag rot an.	
+896	Unser Mann ist dort drüben.	
+897	Powers.	
+898	Ein guter Mann, aber er ist ein Geheimnisträger.	
+899	Abel, auch ein Geheimnisträger, hat uns noch keine Silbe verraten.	
+900	Und das wird er auch nicht.	
+901	Ja, wir wissen das, aber die Russen nicht.	
+902	Die wollen ihren Mann zurück, bevor er einknickt.	
+903	Und wir wollen Powers zurück.	
+904	Aus denselben Gründen. Wenn ich Sie recht verstehe, könnte es für alle ein Happy End geben.	
+905	Ja, falls wir bei ihrem Märchen mitspielen.	
+906	Wir wollen, dass Sie den Austausch verhandeln, als Privatmann, damit daraus keine Regierungsgespräche werden.	
+907	Die erkennen Abel nicht als Sowjetbürger an, und wir erkennen Ostdeutschland nicht als souveränen Staat an.	
+908	Wir erkennen auch Ostberlin nicht an, seit der Annexion durch die Sowjets '45.	
+909	Ich fungiere also als Unterhändler... und repräsentiere...	
+910	Sie repräsentieren niemand.	
+911	Sie sind kein Beamter, 	
+912	haben keinen offiziellen Status.	
+913	Das heißt, wir schreiben unser eigenes Märchen?	
+914	Korrekt.	
+915	Was aber auch heißt, Sie können keinerlei... Anerkennung oder Hilfe erwarten, wenn etwas schief läuft.	
+916	Die CIA übernimmt keine Verantwortung.	
+917	Wir dürfen uns nicht blamieren.	
+918	Wo sollen die Verhandlungen stattfinden?	
+919	Dort.	
+920	Dort?	
+921	Ostberlin.	
+922	Aber wird es in Ostberlin nicht zunehmend...	
+923	Ja, es wird kompliziert.	
+924	Ja, kompliziert.	
+925	Die Sowjets errichten seit einigen Monaten Kontrollpunkte, um die Abwanderung in die West-Sektoren zu verhindern, aber das nützt nichts.	
+926	Nach unseren Informationen gehen sie vielleicht sogar noch einen Schritt weiter... und errichten eine Mauer um den gesamten Ost-Sektor.	
+927	Gut, so viel in Kürze.	
+928	Die Entscheidung liegt bei Ihnen.	
+929	Falls Sie Bedenkzeit brauchen...	
+930	Nein.	
+931	Nein, nicht nötig.	
+932	Gut.	
+933	Sehr gut.	
+934	Am besten bleibt das alles vertraulich.	
+935	Besprechen Sie nichts davon mit... Mary oder sonst wem.	
+936	Ihre Korrespondenz geht nur an uns.	
+937	Lassen Sie uns wissen, was die vorhaben und wann.	
+938	Ich habe keinen Mandanten, keine Frau, keine Heimat.	
+939	Ich weiß nicht, was ich tue oder wann oder für wen.	
+940	Sie tun es für Ihr Land. Ihr Land weiß es nur noch nicht.	
+941	Was ist mit meinem Mann, der anderen Person in der Gleichung?	
+942	[NO TRANSLATION]	missing translation
+943	Ihr Mann?	
+944	Sie meinen den Russen?	
+945	Er ist nicht mehr Ihr Mann, Herr Anwalt.	
+946	Ihr Mann ist jetzt Francis Gary Powers.	
+947	Und was sage ich Rudolf Abel?	
+948	Dass er gefälligst am Leben bleiben soll.	
+949	Professor?	
+950	Professor?	
+951	Papa ist in der Universität.	
+952	Du darfst nicht hier sein, Frederic.	
+953	Sind heute Vorlesungen?	
+954	Er wollte nachsehen.	
+955	Deshalb ist er hin.	
+956	Was machst du hier?	
+957	Dich und deinen Vater abholen.	
+958	Komm mit,	
+959	morgen geht's vielleicht nicht mehr.	
+960	[NO TRANSLATION]	missing translation
+961	Einfach weggehen?	
+962	[NO TRANSLATION]	missing translation
+963	Ja, weg von hier.	
+964	Jetzt gleich.	
+965	Geh zurück.	
+966	Geh zurück.	
+967	Mir passiert nichts, ich bin Amerikaner.	
+968	[NO TRANSLATION]	missing translation
+969	Lauf zurück nach Hause.	
+970	Wir finden einen Weg.	
+971	[NO TRANSLATION]	missing translation
+972	Hallo.	
+973	[NO TRANSLATION]	missing translation
+974	Papiere, bitte.	
+975	[NO TRANSLATION]	missing translation
+976	[NO TRANSLATION]	missing translation
+977	Ich heiße Frederic Pryor.	
+978	Ich studiere Wirtschaftswissenschaften.	
+979	[NO TRANSLATION]	missing translation
+980	Hier habe ich meine Dissertation.	
+981	Meine Doktorarbeit.	
+982	Hier.	
+983	[NO TRANSLATION]	missing translation
+984	Das Außenhandelssystem der kommunistischen Staaten Europas.	
+985	[NO TRANSLATION]	missing translation
+986	Das war sehr viel Arbeit.	
+987	Nein, das ist meine einzige Abschrift.	
+988	Nein!	
+989	Erklär's mir.	
+990	Das hat sich im letzten Moment ergeben.	
+991	Sie haben Büros in London.	
+992	Diese Mandanten.	
+993	War nicht meine Idee.	
+994	Schottland, dieser Angelausflug.	
+995	Was für ein Angelausflug, Jim?	
+996	Lachsfischen.	
+997	Sag mir, dass du nicht in Gefahr bist, dass das eine normale Geschäftsreise ist, dann mache ich mir keine Sorgen.	
+998	Ich brauche meinen Reisepass.	
+999	Gib mir was, woran ich mich klammern kann,	
+1000	ganz egal, ob es wahr ist.	
+1001	Ich tue das für uns.	
+1002	Mr. Michener wird Sie in Berlin begleiten.	
+1003	Er ist Attaché bei der US-Botschaft.	
+1004	Die Sache ist verdammt kompliziert geworden.	
+1005	[NO TRANSLATION]	missing translation
+1006	Der letzte Brief von Mrs. Abel, wer auch immer das ist, erwähnt einen Anwalt in Ostberlin, Mr. Vogel, wer auch immer das ist, der sie vertritt.	
+1007	Vogel sagt, er war bei der russischen Botschaft in Ostberlin. Sie erwägen wohl einen Austausch Abel für Powers.	
+1008	Keiner weiß, wer wer ist, aber im Grunde sind das alles Russen, oder?	
+1009	Sowjets.	
+1010	Wir gehen davon aus.	
+1011	Wie meinen Sie das?	
+1012	Kann man die Heizung höher drehen?	
+1013	Es gibt einen Haken.	
+1014	Die wollen Sie überrumpeln...	
+1015	und Ihnen einen anderen Gefangenen andrehen als Powers.	
+1016	Einen anderen Amerikaner?	
+1017	Die ostdeutsche Stasi hat einen amerikanischen Studenten aufgegriffen.	
+1018	Frederic Pryor.	
+1019	Auf der falschen Seite der Mauer.	
+1020	Er ist Doktorand aus Yale,	
+1021	studiert hier Wirtschaftswissenschaften.	
+1022	[NO TRANSLATION]	missing translation
+1023	Und jetzt... machen die Alarm wegen angeblicher Spionage.	
+1024	Schweres Vergehen, Kapitalverbrechen.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel hat uns kontaktiert. Er sagt, dass er Pryor vertritt.	
+1027	Moment mal.	
+1028	Vogel vertritt Mrs. Abel und diesen Jungen?	
+1029	Ja, viel beschäftigt.	
+1030	Was ist er denn?	
+1031	Vogel? Ist er Ostdeutscher oder Russe?	
+1032	Finden Sie's raus, wenn Sie ihn treffen.	
+1033	Russische Botschaft, Ostberlin, morgen Mittag.	
+1034	Hoffman zeigt Ihnen, wie Sie hinkommen.	
+1035	Wie ich hinkomme?	
+1036	Ich habe doch einen Begleiter.	
+1037	Oder?	
+1038	So war's geplant, aber es gibt einen Haken.	
+1039	Ich fahre Sie nicht hin.	
+1040	Das wurde so entschieden.	
+1041	Kein US-Beamter passiert bis auf Weiteres die Grenze.	
+1042	Wie kommt's?	
+1043	Zu gefährlich.	
+1044	Wenn die Ostdeutschen diesen Jungen verhaften,	
+1045	herrscht dort ein Maß an Willkür, mit dem wir nicht gerechnet hatten.	
+1046	Die ostdeutschen Interessen und die der Russen decken sich möglicherweise nicht.	
+1047	Finden Sie's heraus und verhandeln Sie entsprechend.	
+1048	[NO TRANSLATION]	missing translation
+1049	Powers für Abel.	
+1050	Was wird aus diesem Studenten, Pryor?	
+1051	[NO TRANSLATION]	missing translation
+1052	Fallen Sie darauf nicht rein.	
+1053	Den kriegen wir ein andermal frei.	
+1054	Es geht nur um Powers.	
+1055	Wo ist Ihr Zimmer?	
+1056	Ich wohne im Hilton.	
+1057	Nicht weit von hier.	
+1058	Das hier ist eine Nummer in Westberlin.	
+1059	Einprägen und mir zurückgeben.	
+1060	[NO TRANSLATION]	missing translation
+1061	[NO TRANSLATION]	missing translation
+1062	Nein, jetzt sofort.	
+1063	Die Sowjets trennen Auslandstelefonate, aber Ortsgespräche gehen durch.	
+1064	Da nimmt Tag und Nacht jemand ab.	
+1065	Mit diesem Passierschein in Ihrem Pass... kommen Sie in den sowjetischen Sektor und auch wieder raus.	
+1066	Das Treffen mit Vogel ist morgen Mittag um zwölf.	
+1067	Es gibt kaum noch Routen in den Osten.	
+1068	Sie nehmen die S-Bahn... an der Station, die wir Ihnen gezeigt haben.	
+1069	Friedrichstraße steigen Sie aus... und laufen zur sowjetischen Botschaft Unter den Linden.	
+1070	Gut einprägen,	
+1071	die Karte bleibt hier.	
+1072	Ein Amerikaner mit Stadtplan könnte ein Spion sein.	
+1073	Gut möglich, dass man Sie verhaftet.	
+1074	Meiden Sie allgemein jeglichen Kontakt.	
+1075	[NO TRANSLATION]	missing translation
+1076	Sie sind fremd, halten Sie sich bedeckt.	
+1077	Lebensmittel drüben sind knapp, die Stimmung kippt.	
+1078	Es gibt Banden, und die Rechtsstaatlichkeit ist dort weniger stabil.	
+1079	Und bleiben Sie der Mauer fern.	
+1080	Die haben eine ganze Häuserzeile abgerissen,	
+1081	das ist der Todesstreifen.	
+1082	Wer ihn betritt, wird erschossen.	
+1083	Gibt es Szenarien, wo ich weder verhaftet noch erschossen werde?	
+1084	Nehmen Sie das nicht zu ernst, was Michener sagt.	
+1085	Ich nehme ernst, was Sie sagen.	
+1086	Dieser Pryor, den die Ostdeutschen haben, wie alt ist er?	
+1087	25	
+1088	Warum?	
+1089	So alt wie Dougie.	
+1090	Wer?	
+1091	Ein Mitarbeiter von mir.	
+1092	Frederic Pryor.	
+1093	[NO TRANSLATION]	missing translation
+1094	<Ich bin Amerikaner.>	missing English
+1095	Also, es... tut uns leid, falls dich das kränkt.	
+1096	[NO TRANSLATION]	missing translation
+1097	Dein Mantel?	
+1098	[NO TRANSLATION]	missing translation
+1099	Sprechen Sie Englisch?	
+1100	Ja, Sir.	
+1101	Ich bin James Donovan.	
+1102	Ich habe einen Termin mit Mr. Vogel.	
+1103	[NO TRANSLATION]	missing translation
+1104	Er arbeitet nicht hier, ich soll ihn nur hier treffen.	
+1105	ich soll ihn nur hier treffen.	
+1106	[NO TRANSLATION]	missing translation
+1107	Mr. Donovan.	
+1108	So lernen wir Sie endlich kennen.	
+1109	Ich bin Helen Abel.	
+1110	Wie geht es meinem Mann?	
+1111	[NO TRANSLATION]	missing translation
+1112	Gut.	
+1113	Wie geht's meinem Rudolf?	
+1114	Den Umständen entsprechend gut.	
+1115	Und wir bekommen ihn zurück, ja?	
+1116	Das ist unsere Tochter.	
+1117	Sehr erfreut.	
+1118	Lydia.	
+1119	Und Sie sind Mr. Vogel?	
+1120	Nein.	
+1121	Ich bin nicht Vogel.	
+1122	Ich bin Cousin Drews.	
+1123	Rudolfs geliebter Cousin Drews.	
+1124	Ja, Cousin Drews.	
+1125	Ich bin Cousin Drews.	
+1126	Cousin Drews, ja.	
+1127	Ich bin Helen Abel.	
+1128	Wann gehen Sie zu ihm?	
+1129	Wann wird Ihre Regierung ihn freilassen?	
+1130	Ich bin ein wenig verwirrt.	
+1131	Ich soll hier einen Mr. Vogel treffen.	
+1132	Herr Vogel ist unser Anwalt.	
+1133	Wir sollen den Austausch aushandeln.	
+1134	Um Rudolf hierher zu holen?	
+1135	Ja, um ihn herzuholen.	
+1136	Aber das kann nicht einseitig vonstattengehen.	
+1137	Es muss ein Austausch sein.	
+1138	Nicht da?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Mr. Donovan?	
+1143	Mr. Vogel.	
+1144	Nein.	
+1145	Meine Güte.	
+1146	Mein Name ist Iwan Schischkin.	
+1147	[NO TRANSLATION]	missing translation
+1148	Zweiter Sekretär an der sowjetischen Botschaft.	
+1149	Die Anwesenheit von Herrn Vogel wäre hier nicht angebracht.	
+1150	Er ist deutscher Staatsbürger.	
+1151	Dann sind Sie also nicht hier, um...	
+1152	Ich werde dieses Treffen ermöglichen.	
+1153	Vielleicht möchte Frau Abel sich ungestört sammeln?	
+1154	Damit Mr. Donovan und ich uns unterhalten können?	
+1155	Danke.	
+1156	Ich bin verwirrt.	
+1157	Ja.	
+1158	Mir ist egal, mit wem ich rede, solange es um den Austausch von Personen geht.	
+1159	Sind Sie der Ansprechpartner?	
+1160	Ja, natürlich.	
+1161	Wir sollten reden.	
+1162	Bitte, nehmen Sie Platz, Mr. Donovan.	
+1163	Wie sind Sie in den Ost-Sektor gelangt?	
+1164	Mit dem Zug.	
+1165	Der S-Bahn.	
+1166	Und waren Sie allein?	
+1167	Ja.	
+1168	Und Sie... können sich legitimieren?	
+1169	Sie sind doch im Bilde.	
+1170	Ich bin eine Privatperson.	
+1171	Ich bin Anwalt in Brooklyn, Vereinigte Staaten, und ich nehme mir trotz viel Arbeit die Zeit, um meinem Mandanten, Rudolf Abel, zu helfen.	
+1172	Ich bin autorisiert, einen Austausch zu arrangieren... von Abel gegen Francis Gary Powers.	
+1173	Das hier ist die Begnadigung für Abel, die unterzeichnet wird, sobald der Austausch erfolgt.	
+1174	Nur deshalb bin ich hier.	
+1175	Ich hoffe und erwarte, dass man dies schnellstmöglich arrangiert.	
+1176	Abel für Francis Gary Powers. Und Frederic Pryor.	
+1177	Wir haben Pryor nicht.	
+1178	Nein?	
+1179	Nicht?	
+1180	Ich hörte von Pryor, aber er ist Gefangener der Deutschen Demokratischen Republik. Nicht der Union der Sozialistischen Sowjetrepubliken.	
+1181	Da kommen wir zum ersten Problem.	
+1182	Die Namen Ihrer Länder sind zu lang.	
+1183	Ja.	
+1184	Wenn wir Powers freilassen, dann nur als Zeichen des guten Willens zwischen unseren Ländern.	
+1185	Das heißt, es darf kein Austausch sein.	
+1186	[NO TRANSLATION]	missing translation
+1187	Vielleicht lassen Sie Abel frei... als Zeichen des guten Willens für unsere deutschen Freunde und dann, ein paar Monate danach, lassen wir Powers frei.	
+1188	Das wäre eine Idee.	
+1189	Nein.	
+1190	Das kommt für uns nicht in Frage.	
+1191	Es muss ein Austausch sein.	
+1192	Nennen Sie's, wie Sie wollen, aber es muss ein Austausch sein.	
+1193	Wir hätten Abel in 48 Stunden hier.	
+1194	Wir brauchen Powers zum exakt selben Zeitpunkt, wenn wir Ihnen Abel geben.	
+1195	[NO TRANSLATION]	missing translation
+1196	Das ist...	
+1197	Nennen wir es... den ungeduldigen Plan.	
+1198	Sie können es nennen, wie Sie wollen.	
+1199	Ich leite Ihren ungeduldigen Plan an Moskau weiter, mal sehen, was die sagen, aber...	
+1200	man wird sich fragen, warum diese Ungeduld.	
+1201	Weil ich erkältet bin.	
+1202	Und nicht in Berlin lebe und nach Hause will.	
+1203	Man wird denken: Na, die Amerikaner haben wohl alle Informationen, die Abel ihnen geben konnte.	
+1204	Und jetzt wollen sie ihn voller Ungeduld austauschen, in der Hoffnung, dafür diesen Powers zu bekommen, der uns vielleicht noch nicht alle Informationen gegeben hat, die er geben kann.	
+1205	Das ist kein gleichberechtigter Austausch.	
+1206	Das heißt aber, wenn Powers alles verraten hat, was er weiß, dann würde Moskau austauschen?	
+1207	Warum auch nicht?	
+1208	Und falls Abel in amerikanischer Gefangenschaft stirbt, hält der nächste gefasste russische Geheimagent vielleicht nicht seinen Mund.	
+1209	Und man weiß nie,	
+1210	vielleicht will Abel ja doch noch mal den Himmel sehen... und tauscht russische Geheimnisse gegen kleine amerikanische Gefälligkeiten ein.	
+1211	Wie können wir das wissen?	
+1212	Wir kleinen Menschen?	
+1213	Wir tun nur unsere Arbeit. Wie Lieutenant Powers.	
+1214	Er ist nur ein Pilot.	
+1215	Er hat Fotografien gemacht, aus 70.000 Fuß, als er vom Himmel geschossen wurde.	
+1216	In meinem Land bezeichnet man so etwas... als Kriegshandlung.	
+1217	Wir müssen aus diesem Karussell aussteigen.	
+1218	Der nächste Fehler, den unsere Länder machen, könnte der letzte sein.	
+1219	Wir müssen das bereden, was unsere Regierungen nicht bereden können.	
+1220	Ich werde Moskau fragen.	
+1221	Wer weiß, was man dort sagt.	
+1222	Viele Personen, Mr. Donovan, sind dagegen, dass... dieser Austausch je stattfindet.	
+1223	Können wir morgen weiter reden, nach Moskaus Antwort?	
+1224	Powers für Abel.	
+1225	Und Frederic Pryor.	
+1226	Wie gesagt, Pryor ist in den Händen der Organe der Staatssicherheit der DDR.	
+1227	Ich bin mir sicher, Sie werden eine Regelung finden.	
+1228	Ich bin nichts weiter als ein Sekretär einer ausländischen Botschaft.	
+1229	[NO TRANSLATION]	missing translation
+1230	Sie müssen zu Herrn Vogel.	
+1231	Ich gebe Ihnen seine Adresse.	
+1232	Diesen Vogel gibt es wirklich?	
+1233	Wieso denn nicht?	
+1234	Eine kurze Taxifahrt.	
+1235	Und, bitte, Mr. Donovan, ziehen Sie einen Mantel an bei diesem Wetter.	
+1236	Meiner wurde mir gestohlen.	
+1237	Was erwarten Sie?	
+1238	Er war von Saks Fifth Avenue.	
+1239	Hab ich Recht?	
+1240	Mr. Donovan.	
+1241	Mr. Vogel.	
+1242	Bitte.	
+1243	Kommen Sie rein.	
+1244	Tut mir leid wegen der Botschaft.	
+1245	Aber die Sowjets wollten mich nicht dabei haben.	
+1246	Sehr ärgerlich.	
+1247	Ich begreife immer noch nicht, welche Partei welchen...	
+1248	Status hat?	
+1249	Ja.	
+1250	Und welches Interesse in dem Verfahren.	
+1251	[NO TRANSLATION]	missing translation
+1252	Die neue Welt.	
+1253	Alles sehr verwirrend, nicht wahr?	
+1254	Ich sage Ihnen, was ich anzubieten habe.	
+1255	Ich bin ein guter Freund...	
+1256	Freund?	
+1257	Nein, er ist älter.	
+1258	Protegé...	
+1259	des Generalstaatsanwalts der Deutschen Demokratischen Republik.	
+1260	Nehmen Sie doch Platz.	
+1261	Dieser Unglücksrabe, Frederic Pryor. Er war zur falschen Zeit am falschen Ort.	
+1262	Aber jedes Unglück ist bei entsprechender Betrachtung... auch eine Chance, nicht wahr, Mr. Donovan?	
+1263	[NO TRANSLATION]	missing translation
+1264	Ihr Land verweigert die Anerkennung der Deutschen Demokratischen Republik.	
+1265	Sie erfinden lieber Geschichten. Dass die DDR nicht existiert, zum Beispiel.	
+1266	Verzeihung.	
+1267	Als Mittel, um Ihre Regierung zur Anerkennung dieses real existierenden Landes zu zwingen, in dem Sie sich befinden, der DDR, handelt der Generalstaatsanwalt gern mit Ihnen, als Repräsentant Ihrer Regierung, Mr. Pryors Rückkehr aus.	
+1268	Mr. Vogel, ich bin nicht hier als Repräsentant meiner Regierung.	
+1269	Na schön.	
+1270	Ich finde das kindisch, Mr. Donovan.	
+1271	[NO TRANSLATION]	missing translation
+1272	Ich habe keinen offiziellen Status.	
+1273	Gut.	
+1274	Sie vertreten nicht die USA, ich vertrete nicht die DDR.	
+1275	Meine Klientin ist Lydia Abel, Rudolfs Frau.	
+1276	Darüber hinaus...	
+1277	Lydia ist die Tochter.	
+1278	Helen ist die Frau.	
+1279	[NO TRANSLATION]	missing translation
+1280	Ich unterbreite Ihnen das Angebot, Frederic Pryor für Rudolf Abel auszutauschen.	
+1281	Dann schaffen wir Klarheiten.	
+1282	Wir liefern Rudolf Abel.	
+1283	Sie liefern, zum selben Zeitpunkt, den Studenten Pryor.	
+1284	Zur selben Zeit?	
+1285	Selbstverständlich.	
+1286	Das Tauschangebot lautet: Ein Russe am Ende seines Lebens... gegen einen amerikanischen Studenten, der es noch vor sich hat.	
+1287	Schischkin?	
+1288	Der ist kein Botschaftssekretär.	
+1289	Iwan Schischkin ist Chef des KGB in Westeuropa.	
+1290	Was auch immer er ist, er leitet unseren Vorschlag an Moskau weiter, und die entscheiden.	
+1291	Kann ich mir einen Mantel ausleihen?	
+1292	Ich habe meinen verloren.	
+1293	Wie verliert man einen Mantel?	
+1294	Sie wissen schon, Spionagekram.	
+1295	Ich besorge Ihnen einen neuen Mantel.	
+1296	Gut, weil...	
+1297	Also, wer ist... Wer ist dieser Vogel?	
+1298	Der? Wissen wir nicht.	
+1299	Vielleicht ist er ja das, was Sie sagen, dass er's ist.	
+1300	Freund des Generalstaatsanwalts.	
+1301	Ein von der DDR Auserkorener.	
+1302	Klingt, als würden die Ostdeutschen um einen Platz an unserem Tisch kämpfen.	
+1303	Die DDR holt Abel für die Russen zurück, gewinnt deren Respekt	
+1304	und macht Schlagzeilen für ihre eigene Sache.	
+1305	Was Ostdeutschland einen Platz auf der Landkarte sichert.	
+1306	Aber... deren Landkarte kümmert uns wenig.	
+1307	Halten Sie sich an die Russen.	
+1308	Halten Sie sich an die Russen.	
+1309	Powers für Abel.	
+1310	Das heißt also, das geht so über die Bühne?	
+1311	So zumindest habe ich Sie verstanden.	
+1312	Wir setzen Abel ins Flugzeug, dann ist er Freitag hier.	
+1313	Wenn Schischkin grünes Licht bekommt, ist nur noch der Ablauf zu besprechen.	
+1314	Wie wir unseren Mann gegen deren Mann tauschen.	
+1315	Unsere Männer.	
+1316	Zwei Männer.	
+1317	Powers und Pryor.	
+1318	Lassen Sie diese Gefühlsduselei.	
+1319	Es geht hier nur um Powers.	
+1320	Vergessen Sie dieses Elite-Jüngelchen, das es für eine gute Idee hielt, sowjetische Wirtschaftswissenschaften in Berlin zu studieren, mitten im Kalten Krieg.	
+1321	Powers brauchen wir.	
+1322	Sie können Powers doch nicht mal leiden.	
+1323	Alle Welt hasst Powers.	
+1324	Er hat sich nicht umgebracht und lässt sich von den Roten im Fernsehen zur Schau stellen.	
+1325	Er ist der meist gehasste Mann Amerikas.	
+1326	Nach Rudolf Abel vielleicht.	
+1327	Und mir.	
+1328	Aufwachen!	
+1329	Ich schlafe.	
+1330	Ich muss schlafen.	
+1331	Du darfst schlafen. Aber erst, wenn wir geredet haben.	
+1332	Konzentriere dich auf mich.	
+1333	Du bist deiner Regierung egal,	
+1334	das weißt du.	
+1335	Jeder von euch.	
+1336	Weißt du, dass zwölf U-2-Piloten einen Hirnschaden haben?	
+1337	Sie vegetieren vor sich hin wegen Sauerstoffmangels in zu großer Höhe.	
+1338	Aber man lässt euch weiter fliegen, Gary.	
+1339	Dich und deine Freunde.	
+1340	Und man gibt euch das.	
+1341	Eine Nadel, ja?	
+1342	Zyankali.	
+1343	Sieht das so aus, als würden die sich für euch interessieren?	
+1344	Wie ist die Zerstörungseinheit konstruiert?	
+1345	Wie funktioniert dieser Mechanismus?	
+1346	Mit welchem Sprengstoff ist die Einheit bestückt? Und wie hoch ist das Zerstörungspotenzial?	
+1347	Ich weiß es nicht.	
+1348	Den Piloten wurde die Ausrüstung nie vorgeführt.	
+1349	Wie groß ist das Gebiet, welches das Radar bei einem Überflug erfasst?	
+1350	Ich weiß es nicht.	
+1351	Haben Sie am 9. April den Überflug... über das Industriegebiet und den MIG-Stützpunkt Baranawitschy geflogen?	
+1352	Habe ich nicht.	
+1353	Das hier war mein erster Überflug.	
+1354	Ich muss wissen, wie hoch... der Gleitwinkel im antriebsfreien Zustand ist.	
+1355	Wie kommt das Flugzeug so hoch?	
+1356	Wir wissen, es erreicht... eine Höhe von 70.000 Fuß.	
+1357	Gary, wir wissen das.	
+1358	Und ich muss wissen, wo die Flugzeuge geflogen sind.	
+1359	Wo sie geflogen sind, Gary.	
+1360	Und das müssen wir jetzt erfahren.	
+1361	Jetzt.	
+1362	Und dann darfst du schlafen.	
+1363	Sir, aufwachen.	
+1364	Aufwachen, Sir.	
+1365	Kommen Sie bitte mit?	
+1366	Ja.	
+1367	Wir müssen uns beeilen.	
+1368	Natürlich.	
+1369	Können Sie bitte mitkommen?	
+1370	Ja.	
+1371	[NO TRANSLATION]	missing translation
+1372	Haben Sie Ihre Brille?	
+1373	[NO TRANSLATION]	missing translation
+1374	Wie spät ist es?	
+1375	Spät, aber wir müssen reden. Und dann müssen wir in ein Flugzeug steigen.	
+1376	Ja.	
+1377	Ja.	
+1378	Hoppala.	
+1379	Hoppala.	
+1380	Ganz genau.	
+1381	Geht doch.	
+1382	Los jetzt.	
+1383	Danke.	
+1384	Andere Richtung.	
+1385	[NO TRANSLATION]	missing translation
+1386	Sagten Sie Flugzeug?	
+1387	Hier lang, bitte.	
+1388	Weitergehen.	
+1389	Ich habe positiven Bescheid aus Moskau, Ihren Vorschlag betreffend. Wir helfen unseren Freunden in der Deutschen Demokratischen Republik, indem wir Mr. Powers gegen Mr. Abel austauschen.	
+1390	Fabelhaft.	
+1391	Darf ich die... Glienicker Brücke als Austauschort vorschlagen?	
+1392	Warum nicht Checkpoint Charlie?	
+1393	Wir wollen keine Aufmerksamkeit.	
+1394	An der Glienicker Brücke ist es sehr ruhig, besonders früh am Morgen.	
+1395	Glienicker Brücke.	
+1396	Ich leite es weiter.	
+1397	Wir können Abel am Freitag hier haben,	
+1398	das heißt, Samstag früh?	
+1399	Immer noch ungeduldig?	
+1400	Ich will nach Hause, ins Bett.	
+1401	Also, Samstag früh?	
+1402	Fünf Uhr dreißig?	
+1403	In Ordnung.	
+1404	Dann hätten wir's.	
+1405	Hier ist eine Nummer, sollte irgendwas dazwischen kommen.	
+1406	Gut.	
+1407	Da geht immer jemand ran, Tag und Nacht.	
+1408	Ich werde sie wohl nicht brauchen.	
+1409	Wollen wir die Vereinbarung begießen?	
+1410	Warum nicht?	
+1411	Armenischer Brandy.	
+1412	Gutes Hausmittel bei Erkältung.	
+1413	Danke.	
+1414	Dürfte ich Sie...	
+1415	Das hat nichts mit unserer Vereinbarung zu tun, aber... ich hätte ein paar Fragen,	
+1416	die Sie nicht beantworten müssen.	
+1417	Ich beantworte, was ich weiß.	
+1418	Ich kann Ihren Mann gut leiden.	
+1419	Was wird aus Ihrem Mann, wenn er nach Hause kommt?	
+1420	Erst müssen wir feststellen, inwieweit unser Mann jetzt euer Mann ist.	
+1421	Wie bereits erwähnt, er hat sich ehrenvoll verhalten.	
+1422	Er ist ganz sicher immer noch Ihr Mann.	
+1423	Natürlich würden Sie das sagen, wenn es so wäre, aber auch, wenn nicht.	
+1424	So weit ist es schon gekommen, nicht?	
+1425	Verzeihen Sie meine Hartnäckigkeit, aber... Ist er denn in Gefahr, wenn Entsprechendes festgestellt wird?	
+1426	Tja, du meine Güte.	
+1427	In der derzeitigen Lage sind alle in Gefahr.	
+1428	Zum Wohl.	
+1429	[NO TRANSLATION]	missing translation
+1430	Es wird keinen Austausch auf der Glienicker Brücke geben.	
+1431	Wie bitte?	
+1432	Es wird keinen Austausch geben.	
+1433	Nicht für Frederic Pryor.	
+1434	Mr. Vogel, ich dachte, wir hätten uns gestern geeinigt.	
+1435	Geeinigt hatten wir uns auf den Austausch Abel für Pryor.	
+1436	Jetzt erfahre ich, dass Sie ein Teppichhändler sind, der denselben Teppich an zwei Kunden verkauft.	
+1437	Abel für Pryor verkaufen Sie uns.	
+1438	Ja.	
+1439	Und Abel für Powers verkaufen Sie den Sowjets.	
+1440	Ich verstehe nicht, wo das Problem liegt. Ob zwei, drei oder vier Parteien zufrieden sind,	
+1441	was macht das?	
+1442	Diese Partei ist mit der Einigung nicht zufrieden.	
+1443	Mr. Vogel, bitte...	
+1444	Offenbar wissen Sie nicht, mit wem Sie es zu tun haben.	
+1445	Folgendes ist das Interesse der Deutschen Demokratischen Republik:	
+1446	Sie will verhandeln... und wahrgenommen werden als Verhandelnde mit einer souveränen Staatsmacht, den USA.	
+1447	Als gleichberechtigte Staatsmacht.	
+1448	Doch für Sie sind wir der Handlanger der Union der Sozialistischen Sowjetrepubliken.	
+1449	Können wir bitte Russen sagen?	
+1450	Das spart Zeit.	
+1451	Ich habe einen Termin.	
+1452	Und Sie sind es, der hier Zeit vergeudet.	
+1453	Sagen Sie mir, ob ich das falsch darstelle.	
+1454	Sie haben einen jungen Universitätsstudenten, der kein Spion ist, keine Bedrohung.	
+1455	Und im Austausch für diese Person, die für Sie wertlos ist, spielen Sie eine gleichberechtigte Rolle bei einem Austausch zwischen Russen und Amerikanern.	
+1456	Und das ist eine Transaktion zwischen uns und Ihnen beiden.	
+1457	Wir machen keine zwei Sachen.	
+1458	Wir machen nur eine.	
+1459	Eine, eine, eine.	
+1460	Inwiefern ist die Republik der Ostdeutschen Demokraten dadurch benachteiligt?	
+1461	Sie haben sich mit den Sowjets geeinigt, ohne mich zu konsultieren.	
+1462	Ist das eine Verhandlung oder eine Verschwörung?	
+1463	Für eine Verschwörung müsste Ihnen Schaden entstehen.	
+1464	Aber es gibt nur Vorteile.	
+1465	Wir verfolgen gleiche Interessen.	
+1466	Nein, Sie entscheiden, was gleich heißt.	
+1467	Wo haben Sie Ihren Termin?	
+1468	Im Westen.	
+1469	Ku'damm.	
+1470	Gut.	
+1471	Sehen Sie sich um.	
+1472	Wie schneidet der Ostsektor ab im Vergleich zum Westen?	
+1473	[NO TRANSLATION]	missing translation
+1474	Unsere russischen Freunde wollen nicht, dass wir unsere Hauptstadt wieder aufbauen.	
+1475	Jetzt leben wir in diesen Ruinen, die die Russen hinterlassen haben.	
+1476	Machen Sie ruhig Ihren Tauschhandel mit denen.	
+1477	Aber ohne uns.	
+1478	Kein Tausch ohne Pryor.	
+1479	Wir lassen ihn nicht hier.	
+1480	Ihre Position oder die Ihrer Regierung?	
+1481	Sir, ich bin hier.	
+1482	Ich spreche mit Ihnen.	
+1483	Sie sind kein Vertreter Ihrer Regierung.	
+1484	Keiner weiß, was Sie sind.	
+1485	[NO TRANSLATION]	missing translation
+1486	Seien Sie vorsichtig.	
+1487	Das ist nicht Brooklyn, Mr. Donovan.	
+1488	Hören Sie.	
+1489	Sie wissen, dass ich in allen wichtigen Belangen meine Regierung vertrete.	
+1490	Sie wissen, wer ich bin.	
+1491	Wirklich?	
+1492	[NO TRANSLATION]	missing translation
+1493	Haben Sie die korrekten Papiere?	
+1494	Natürlich nicht.	
+1495	Macht nichts.	
+1496	Als amerikanischer Anwalt können Sie sich aus allem herausreden.	
+1497	Nicht wahr?	
+1498	Sie gehen mit ihm.	
+1499	Warum?	
+1500	Ein Problem mit dem Pass.	
+1501	[NO TRANSLATION]	missing translation
+1502	[NO TRANSLATION]	missing translation
+1503	Was für ein Problem?	
+1504	Gehen Sie mit.	
+1505	Und nicht vergessen, wir entscheiden über Frederic Pryor.	
+1506	Mein Gott.	
+1507	Erst mal einen Kaffee, bitte.	
+1508	Dann das Hilton-Combo... und das amerikanische Frühstück	
+1509	und Kaffee.	
+1510	Beide Frühstücke?	
+1511	Ja.	
+1512	Eins zuerst oder...	
+1513	Beide zuerst.	
+1514	Wenn's fertig ist.	
+1515	Und Kaffee.	
+1516	[NO TRANSLATION]	missing translation
+1517	Sie dürften nicht hier sein.	
+1518	Manchmal hat man in Deutschland Lust auf ein großes amerikanisches Frühstück.	
+1519	Was ist passiert?	
+1520	Wo waren Sie?	
+1521	Vogel hat für mich einen kleinen Aufenthalt im Osten arrangiert.	
+1522	Herrgott.	
+1523	Offen gesagt, es war kaum schlechter als mein Zimmer hier im Westen.	
+1524	Die Russen sind mit dem Austausch einverstanden. Aber jetzt spielen die Ostdeutschen nicht mehr mit.	
+1525	Wir kriegen Pryor nicht.	
+1526	Großartig. Gut.	
+1527	Die Sowjets sind also einverstanden.	
+1528	Wir kriegen Powers.	
+1529	Wir kriegen Powers.	
+1530	Gut gemacht.	
+1531	Nein, die Ostdeutschen spielen nicht mit.	
+1532	Wir kriegen Pryor nicht, und der Junge ist wichtig.	
+1533	Jeder Mensch ist wichtig.	
+1534	Klar, deshalb haben Sie's ja versucht.	
+1535	[NO TRANSLATION]	missing translation
+1536	Abel ist unterwegs. Es kann losgehen.	
+1537	Moment.	
+1538	Macht die Sache einfach.	
+1539	[NO TRANSLATION]	missing translation
+1540	Wir kriegen den Jungen nicht.	
+1541	Ja, schon verstanden.	
+1542	Wir sind bereit.	
+1543	Wir können die Nachricht von heute früh ignorieren.	
+1544	Welche Nachricht?	
+1545	Von den Ostdeutschen.	
+1546	Die haben angerufen.	
+1547	Die wollten heute mit Ihnen reden.	
+1548	Vogel hat angerufen?	
+1549	Nein.	
+1550	Das Büro von Harald Ott. Ostdeutscher Generalstaatsanwalt.	
+1551	[NO TRANSLATION]	missing translation
+1552	Und was will er?	
+1553	Mit Ihnen reden, aber...	
+1554	Schon gut, Sie können ja da nicht noch mal hin.	
+1555	Sie sind da drüben persona non grata, pokern wir nicht zu hoch.	
+1556	Er will mich also sprechen.	
+1557	Und wann?	
+1558	Nein.	
+1559	Hören Sie.	
+1560	Sie müssen da nicht hin.	
+1561	Das heißt, Sie sollten nicht.	
+1562	Das heißt, Sie dürfen nicht.	
+1563	Wir sind mit den Sowjets einig,	
+1564	vermasseln wir's nicht.	
+1565	Ich vermassel's nicht.	
+1566	Sie gehen da nicht hin,	
+1567	Sie Nervensäge!	
+1568	Ich hatte bestellt.	
+1569	Genießen Sie Ihr großes amerikanisches Frühstück.	
+1570	Ich fand, man sollte das auf höchster Ebene verhandeln, aus Höflichkeit Ihnen gegenüber.	
+1571	Ich danke Ihnen.	
+1572	Ich weiß nicht, wie es zu diesem Durcheinander kam.	
+1573	So ist das eben manchmal.	
+1574	Der Klarheit halber sage ich, wir sind absolut bereit zu einem Austausch des sogenannten Studenten Pryor für Rudolf Abel.	
+1575	Ich hörte von Herrn Vogel, dass Pryor Ihnen sehr wichtig ist.	
+1576	Ja, aber...	
+1577	Wir setzen ein dahingehendes Memorandum auf.	
+1578	Ein Memorandum.	
+1579	Gewiss. Wir verpflichten uns zu einem bilateralen Austausch.	
+1580	Ja, sicher.	
+1581	Ich weiß nicht genau, was Sie meinen, aber...	
+1582	Mein Land besteht überdies auf Francis Gary Powers.	
+1583	Nein.	
+1584	Genauso kommt es zu diesem Durcheinander.	
+1585	Powers.	
+1586	Welchem Zweck dient er?	
+1587	Wollen Sie ihn bestrafen?	
+1588	Geschehen ist geschehen.	
+1589	Er hat verraten, was er bereit war zu verraten, wie Abel zweifelsohne auch.	
+1590	Wir bieten Ihnen stattdessen jemand, auf dessen Unschuld Sie beharren.	
+1591	Und das ist richtig.	
+1592	Ihn sollten Sie zurückholen.	
+1593	Die Zukunft.	
+1594	Blicken Sie in die Zukunft.	
+1595	[NO TRANSLATION]	missing translation
+1596	[NO TRANSLATION]	missing translation
+1597	Tut mir leid,	
+1598	wenn Sie mich bitte kurz entschuldigen?	
+1599	Verzeihung.	
+1600	Der Staatsanwalt äußert sein Bedauern, er musste in dringender Sache außer Haus.	
+1601	Er ist weg?	
+1602	[NO TRANSLATION]	missing translation
+1603	Er bittet vielmals um Entschuldigung.	
+1604	Ich warte seit über einer Stunde.	
+1605	Tut mir sehr leid.	
+1606	Junger Mann.	
+1607	Kommen Sie her.	
+1608	Ich beiße nicht.	
+1609	Kommen Sie her.	
+1610	[NO TRANSLATION]	missing translation
+1611	Setzen Sie sich.	
+1612	Kommen Sie schon.	
+1613	Setzen Sie sich.	
+1614	Gefällt Ihnen die Arbeit hier?	
+1615	Ist ein sehr guter Posten.	
+1616	Denk ich mir.	
+1617	Muss interessant sein.	
+1618	Ja, Sir.	
+1619	Und auch bedeutend.	
+1620	Und Ihr Englisch ist gut.	
+1621	Ja. Ich ziere mich, das zu sagen,	
+1622	aber es ist ausgezeichnet.	
+1623	[NO TRANSLATION]	missing translation
+1624	Gut.	
+1625	Ich habe meinen Verhandlungspartner verloren und brauche jemanden, mit dem ich reden kann, und Sie wirken wie ein vernünftiger junger Mann.	
+1626	Kann ich mit Ihnen reden?	
+1627	[NO TRANSLATION]	missing translation
+1628	Es ist alles gut.	
+1629	Alles gut.	
+1630	[NO TRANSLATION]	missing translation
+1631	Ich will nur, dass Sie Ihrem Chef etwas ausrichten.	
+1632	Es muss nur ganz, ganz, ganz klar sein.	
+1633	Verstehen Sie?	
+1634	Ja, schon.	
+1635	Aber vielleicht sollten Sie warten, bis er...	
+1636	Nein,	
+1637	ich bin so erkältet, und ich will nach Hause... und ins Bett.	
+1638	Können Sie ihm was ausrichten?	
+1639	Natürlich.	
+1640	Das ist die Nachricht:	
+1641	Es gibt keinen Austausch mit Abel, wenn wir nicht Powers und Pryor kriegen.	
+1642	Verstanden?	
+1643	Ja, Sir.	
+1644	Er wird morgen früh nicht stattfinden, wenn wir nicht zwei Männer kriegen.	forced duplication
+1645	Er wird morgen früh nicht stattfinden, wenn wir nicht zwei Männer kriegen.	forced duplication
+1646	Diese zwei Männer.	
+1647	Zwei, zwei, zwei.	
+1648	Ja, Sir.	
+1649	Wenn es keinen Austausch gibt, muss Ihr Chef das den Sowjets erklären.	
+1650	Er muss den Sowjets sagen, dass sie Rudolf Abel nicht bekommen.	
+1651	Ja, Sir.	
+1652	Und sagen Sie ihm:	
+1653	Bisher war Abel ein guter Soldat, aber er denkt, dass er nach Hause darf.	
+1654	Müssten wir ihm sagen, dass er nicht nach Hause darf, dass die Sowjets ihn nicht wollen und er nie mehr nach Hause darf,	
+1655	könnte ich mir vorstellen, dass sich sein Verhalten ändert.	
+1656	Und wer würde dafür verantwortlich gemacht?	
+1657	Das ist eine lange Nachricht.	
+1658	Haben Sie alles verstanden?	
+1659	Ja,	
+1660	alles.	
+1661	Gut.	
+1662	Sie sind ein guter Mann.	
+1663	[NO TRANSLATION]	missing translation
+1664	Und richten Sie ihm aus: Die Sache platzt, wenn wir nicht bis Feierabend von ihm hören.	
+1665	Er hat die Nummer.	
+1666	Falls der Austausch nicht stattfindet, muss kein Mensch in aller Herrgottsfrühe aufstehen.	
+1667	Nein, das wäre zwecklos.	
+1668	Sie verarschen mich!	
+1669	Sie verarschen mich!	
+1670	Nein.	
+1671	Ich brauche Kleingeld.	
+1672	Genau das sollten Sie nicht tun.	missing translation
+1673	Ich hatte Anweisung, die Fühler auszustrecken.	
+1674	Sie hatten Anweisung, Powers rauszuholen, nicht Pryor.	
+1675	Das war nicht Ihr Auftrag.	
+1676	Sie haben es vergeigt.	
+1677	Woher wissen Sie das?	
+1678	Ich hab ein gutes Gefühl.	
+1679	Sie haben alles versaut.	
+1680	Keine Sorge.	
+1681	Ich glaube, es wird alles gut.	
+1682	Woher wissen Sie das?	
+1683	Das wissen Sie nicht.	
+1684	[NO TRANSLATION]	missing translation
+1685	[NO TRANSLATION]	missing translation
+1686	[NO TRANSLATION]	missing translation
+1687	Hören Sie, diese ganze Sache... diente dazu, mir auf den Zahn zu fühlen.	
+1688	Tausche ich eins zu eins und wenn ja, wen?	
+1689	Aber ich sagte: Nein, zwei für einen.	
+1690	So wissen die, wo wir stehen.	
+1691	Und was, wenn die jetzt sagen,	
+1692	Vergesst es!	
+1693	Ihr behaltet unseren Mann, wir behalten eure?	
+1694	Tja, dann habe ich alles versaut.	
+1695	Hey, Schatz!	
+1696	Ich bin's.	
+1697	Ja.	
+1698	Der Angelausflug war großartig.	
+1699	Ich bin in London. Eine Besprechung noch, dann mache ich mich auf den Heimweg.	
+1700	Ja, ich weiß, welche Marmelade du meinst.	
+1701	Die aus dem Laden am Regent's Park.	
+1702	Ist gut, mache ich, wenn ich Zeit habe.	
+1703	Kann ich Roger kurz Hallo sagen?	
+1704	Kann ich den Mädchen Hallo sagen?	
+1705	Ist irgendwer nicht beschäftigt?	
+1706	Merkt irgendwer, dass ich nicht da bin?	
+1707	Grünes Licht.	
+1708	Zwei für einen.	
+1709	Dolle Sache.	
+1710	Darauf trinken wir.	
+1711	Ein Haken.	
+1712	Nämlich?	
+1713	Sie lassen Pryor und Powers nicht zusammen frei,	
+1714	sondern nur zeitgleich.	
+1715	Wenn die Russen Powers über die Brücke schicken,	
+1716	lassen die Pryor am Checkpoint Charlie gehen. Was bedeutet das?	
+1717	Ich glaube, es bedeutet: Wir wollen das letzte Wort haben.	
+1718	Aber sie werden es tun?	
+1719	Sagen Sie's mir.	
+1720	Sie haben die Fühler ausgestreckt.	
+1721	Wo sind die?	
+1722	Wo ist unser Mann?	
+1723	Wo ist unser Mann?	
+1724	Die sind zu spät.	
+1725	Keiner ist zu spät,	
+1726	wir sind zu früh.	
+1727	Darf ich?	
+1728	Ja.	
+1729	Hoffman.	
+1730	Ja?	
+1731	Ich glaube, die haben da...	
+1732	Was?	
+1733	Scharfschützen.	
+1734	Da bin ich mir sogar sicher.	
+1735	Warum sind Sie sich da sicher?	
+1736	Weil wir auch welche haben.	
+1737	Aussteigen, Sir.	
+1738	Jim.	
+1739	Mein lieber Jim.	
+1740	Wie geht es Ihnen?	
+1741	Ich freue mich, Sie zu sehen.	
+1742	Haben Sie das alles für mich arrangiert?	
+1743	Warten wir ab, was das ist, bevor ich die Lorbeeren einheimse.	
+1744	Neuigkeiten über Pryor am Checkpoint Charlie?	
+1745	Still ruht der See.	
+1746	Verzeihung, Sir.	
+1747	Das ist Lieutenant Joe Murphy, US-Air Force. Er soll Powers identifizieren.	
+1748	Lieutenant Murphy.	
+1749	Sir.	
+1750	Das könnte zum Problem werden.	
+1751	Ich habe das Land als junger Mann verlassen.	
+1752	Wer soll mich identifizieren?	
+1753	Hoffentlich nicht Ihre ostdeutsche Familie.	
+1754	Die könnten sich nicht mal selbst identifizieren.	
+1755	Könnte unser Mann sein.	
+1756	Na dann, auf geht's.	
+1757	Sie warten hier, Donovan.	
+1758	Sicher nicht.	
+1759	Schranke auf.	
+1760	Was denken Sie, wird zu Hause passieren?	
+1761	Ich denke,	
+1762	ich trinke einen Wodka.	
+1763	Ja.	
+1764	Ja.	
+1765	Aber, Rudolf, besteht nicht die Möglichkeit...	
+1766	Dass mich meine Leute erschießen?	
+1767	Ja.	
+1768	Haben Sie da keine Sorge?	
+1769	Würde das helfen?	
+1770	Um Ihre Frage zu beantworten, mein Freund, ich habe mich ehrenhaft verhalten.	
+1771	Ich denke, das wissen die.	
+1772	Aber manchmal denken Menschen das Falsche,	
+1773	weil sie Menschen sind.	
+1774	Wir sehen es an der Begrüßung.	
+1775	Worauf soll ich achten?	
+1776	Ob ich umarmt werde... oder gleich auf die Rückbank soll.	
+1777	[NO TRANSLATION]	missing translation
+1778	Setzen Sie die Mütze ab.	
+1779	Hey, Powers.	
+1780	Hey, Murph.	
+1781	Ja, das ist Powers.	
+1782	Gut, Mr. Donovan.	
+1783	Fangen wir an.	
+1784	Warten Sie noch.	
+1785	Glauben Sie mir, ich würd's Ihnen sagen.	
+1786	Hier ist niemand.	
+1787	Die lassen noch einen frei, am Checkpoint Charlie.	
+1788	Wir warten auf die Bestätigung.	
+1789	Jetzt!	
+1790	Nach Plan, wenn ich bitten darf.	
+1791	Los.	
+1792	Entweder Pryor kommt, oder er kommt nicht.	
+1793	Auf geht's.	
+1794	Die warten ab, ob wir's auch ohne ihn machen.	
+1795	Wir rühren uns nicht und zeigen denen, dass wir's nicht tun.	
+1796	Mir ist scheißegal, was die wollen.	
+1797	Wir verfolgen unser Ziel.	
+1798	Gehen Sie los, Abel.	
+1799	Gehen Sie.	
+1800	Sie können gehen.	
+1801	Läuft es nicht nach Plan, kehren wir um.	
+1802	Austausch jetzt, oder wir kehren um!	
+1803	Sie warten auf einen weiteren Mann?	
+1804	Ja.	
+1805	Sie wollen auch ihn?	
+1806	Ich will ihn.	
+1807	Spielt keine Rolle, was er will.	
+1808	Ich habe das Sagen, und Sie können gehen.	
+1809	Bitte gehen Sie.	
+1810	Gehen Sie rüber.	
+1811	Ich kann warten.	
+1812	Da tut sich was.	
+1813	Ich weiß noch nicht, was.	
+1814	Warten Sie noch.	
+1815	[NO TRANSLATION]	missing translation
+1816	Wir haben ihn.	
+1817	[NO TRANSLATION]	missing translation
+1818	Ich ließ Ihnen ein Geschenk da, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Es ist ein Gemälde.	
+1821	Ich hoffe, es bedeutet Ihnen etwas.	
+1822	[NO TRANSLATION]	missing translation
+1823	Ich habe für Sie leider kein Geschenk dabei.	
+1824	Das hier ist Ihr Geschenk.	
+1825	Das hier ist Ihr Geschenk.	
+1826	[NO TRANSLATION]	missing translation
+1827	Los jetzt, los, los.	
+1828	Mr. Donovan.	
+1829	Oberst Abel bat mich, Ihnen das zu geben.	
+1830	Verzeihung, Sir.	
+1831	Haben Sie diesen Einsatz geleitet?	
+1832	Ja.	
+1833	Dann muss ich Ihnen danken.	
+1834	Irgendwem muss ich doch danken.	
+1835	Ich hab denen nichts verraten.	
+1836	Ich hab denen nichts verraten.	
+1837	Das ist nicht wichtig.	
+1838	Es ist nicht wichtig, was die Leute denken.	
+1839	Sie kennen die Wahrheit.	
+1840	Willkommen daheim.	
+1841	Was für eine Reise.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Geht es dir gut?	
+1845	Ja, alles gut.	
+1846	Hast du die Marmelade?	
+1847	Ja.	
+1848	[NO TRANSLATION]	missing translation
+1849	[NO TRANSLATION]	missing translation
+1850	Hab ich.	
+1851	Wie befohlen.	
+1852	Jim.	
+1853	Die ist von Arno's.	
+1854	Und?	
+1855	An der Ecke.	
+1856	Ich war beschäftigt.	
+1857	Entschuldige.	
+1858	[NO TRANSLATION]	missing translation
+1859	Zum Donnerwetter.	
+1860	Wie geht's Roger?	
+1861	Ist er zu Hause?	
+1862	Ja.	
+1863	Carol und Peggy sind auch da.	
+1864	[NO TRANSLATION]	missing translation
+1865	Mom!	
+1866	Komm schnell.	
+1867	Sieh mal.	
+1868	Mom, komm her.	
+1869	Mom, komm her.	
+1870	Sieh dir das an.	
+1871	[NO TRANSLATION]	missing translation
+1872	[NO TRANSLATION]	missing translation
+1873	Komm schnell.	
+1874	Francis Gary Powers wurde in der Sowjetunion aus dem Gefängnis entlassen... und heute früh in Berlin an die amerikanischen Behörden überstellt.	
+1875	Der Präsident hat das Strafmaß für Rudolf Abel herabgesetzt.	
+1876	Mr. Abel wurde ausgewiesen... und in Berlin auf freien Fuß gesetzt.	
+1877	Bemühungen, um Mr. Powers' Freilassung zu erwirken, wurden schon seit einiger Zeit unternommen.	
+1878	Jüngste Bemühungen unternahm die amerikanische Regierung... unter Mitarbeit und Unterstützung von Mr. James B. Donovan, einem New Yorker Anwalt.	
+1879	Frederic L. Pryor, ein amerikanischer Student, der in Ostdeutschland festgehalten wurde... seit August 1961...	
+1880	Ich dachte, Daddy war fischen.	
+1881	Lachse fischen.	
+1882	Abel ist inzwischen untergetaucht in der kommunistischen Welt.	
+1883	Powers ist hier und beantwortet Fragen.	
+1884	Und Donovan ist in seine Anwaltskanzlei zurückgekehrt.	
+1885	Hier ist nun George Fenneman, Sprecher der Douglas Fir Plywood Association.	

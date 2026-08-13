@@ -1,0 +1,1885 @@
+1	Tukwiraku kwemeera oku Broad street	
+2	Broad street niyo ekwiraku	
+3	Aiguru	
+4	Eni	
+5	Teyaizire paka eni?	
+6	Kyona kyona	
+7	Taliyo eni	
+8	Irayo ansi	
+9	Nsonyiwa	
+10	Nsonyiwa	
+11	Yaba omumaiso oyemeere okuntando	
+12	Bageni	
+13	Mukufayo nenyiyayo amaino gange?	
+14	Colonel, okusobola okwinduka ssebo?	
+15	Ikaara ansi okukitabo	
+16	Twaabe	
+17	Ah, galumu	
+18	Amaino gamwei galumu Omu sink	
+19	Ndoleera	
+20	Tuli bakungu okuzwa omu Federal Bureau of Investigation	
+21	Ndoleera	
+22	Nkubazanaawe	
+23	Twafunire obubaka nga bakutukoba nti okwenyigira omu bya bukesi	
+24	Okusobola okutukoora ati oba tukwaba kukubwa	
+25	Okuntegera	
+26	Mbe, tikukutegera	
+27	Lwaki okumpita Colonel?	
+28	Oteekwa okuzwaara	
+29	Tutekwa okuswaga omunyuba yamu	
+30	Musobola okunyikiriza n’ensayirya e palette yange?	
+31	Nkwendya kwiyaku olangi oyo olwansonga akwiza kugiita	
+32	Eri mbe mabega waamu	
+33	Ndowo n’akagoye kenkukolesya	
+34	Webale	
+35	Aale, mutandike okuswaga ekifo	
+36	Webale	
+37	Aale muswage omumufaliso, ekitabu, ansi n’omuntebe	
+38	Musobola okuta ebyo omu ashtray eri oku windowsil	
+39	Mulolere kusai okumeeza	
+40	Tubone okumeeza	
+41	Tinayendye kutokomola bini byona byona	
+42	Tokoba nti musaiza wange	
+43	Timusaiza wange	
+44	Iye, musaiza wamu	
+45	Tukubaza ku nani?	
+46	Tukubaza kumusaiza okasitoma wange gweyataire omuyinsuwa	
+47	Ale, tokoba nti musaiza wange	
+48	Ale, kisai	
+49	Ensonga yange eri, oni omusaiza ali omu yinsuwa yakasitoma wamu, takwegaana ebintu byona byona ebyabairewo	
+50	Bini	
+51	Ebintu bini	
+52	Iye, bini ebintu ebitaanu	
+53	Lindaku, kyemerye	
+54	Ebintu tibitaanu	
+55	Kintu kimwei	
+56	Nga wetejerye kusai, bintu bitaanu	
+57	Ale, nsonyiwa, tinkubyeteja kusai	
+58	Bintu bitaanu?	
+59	Nyonyola	
+60	Byamazima nka n’ebiri	
+61	Ale, nkobera ekyabairewo	
+62	Nsubiira olugero nga lukubaza okubintu bitaanu	
+63	Ale, nikyo	
+64	Munywani wamu	
+65	Taba munywani wange	
+66	Atta mu yinsuwa yakasitoma wange	
+67	Omusaiza ata omu yinsuwa ya kasitoma wamu yabaire akuvugira oku State Highway 19 emotoka n’emulemeera natomera abasaiza bange bataanu, nga nibo basaiza abansabire nyize mbakikiire olwansonga tokwikiriziganya nabyebakusaba	
+68	Kyokoba omusaiza wange takwikiriziganya n’akyebakusaba, kampuni ya yinsuwa?	
+69	Mwami Donovan, iswena iswena tumaite kusai buli omwei ani	
+70	Okwiyaku nga okasitoma wange aikiriziganirye n’ekyebakumusaba	
+71	bakukikiriza, mwami Bates	
+72	Buli kusaba nga kutufu, okwikya okukikomo ekya mpiiya $100,000 buli kabenje, okusinzira oku policy ya musaiza oni	
+73	Kuni okusaba kuli kumwei	
+74	Okusinzira ku byokubaza, yatomeire abasaiza bataanu	
+75	Omusaiza ali omu yinsuwa ya kasitoma wange yafunire akabenje kamwei	
+76	kamwei, kamwei	
+77	Yalemerelwe emotoka nabanda abantu bataanu aba pikipiki	
+78	Omundowoza yabwe, ebintu bitaanu ebyabairewo	
+79	Ale, bona Bob	
+80	Nkusobola	
+81	Bob?	
+82	Jim	
+83	Ninyaba okubowlinga nenkanyuga,ekintu kimwei ekibaawo	
+84	Ebintui kumi ebitabairewo	
+85	Jim, abasaiza bange tebali mu muzenyo newankubaire omusaiza wamu nimwo akukitwala	
+86	Nikiba	
+87	Kansoke maliirye	
+88	Kansoke maliirye	
+89	Enyuba yamu neba nga eri mu yinsuwa ya $100,000 o’babirumiraki nagiyawo, aba airewo enyuba emwei	
+90	Aba teyairewo buli musale n’embawo n’abisiisa omungeri ezanjawulo	
+91	Nikiba nga ekyo nikyo okoba, aale, ekikutegeza ndoowo kugira oku liability era nga nigyo nkomerero ya bizinensi ya yinsuwa	
+92	Era Bob, ndoowo ali kusai	
+93	Watters, Cowan n’oDonovan.	
+94	Nkore ntyai essimu yamu?	
+95	Wasuure otyai, mwami Donovan	
+96	Wasuure otyai Alison	
+97	Nakyusize obwiire bwamu obwa 9:00 am ne prudential ssebo	
+98	Lwaki wakoore ekyo?	
+99	Namusabire	
+100	Buli kimwei kisai Tom?	
+101	Lwaki toleka bintu byamu n’oAlison	
+102	Iza ingira eni omunda	
+103	Ekintu ekikwetagisya kizire	
+104	Omuntu omwei aizire okutubona	
+105	Natalie akukufunira caayi wamu	
+106	Okwendya Nescafe, Cream, ebijiiko bibiri, nikyo?	
+107	Nikyo	
+108	Webale	
+109	Lynn!	
+110	Jim!	
+111	Nsanyukire okubona omulundi ogundi	
+112	Amaka gamu gali gatyai?	
+113	Kusai muno	
+114	Webale	
+115	Annie akoba atyai?	
+116	Akwendya kweita	
+117	Twabaire n’abako omu luwumula	
+118	Aale, niyakikoraku akwiza kukikiirwa kusai	
+119	Ati, kiki ekikwaba omumaiso?	
+120	Aale, ekintu kiri kiti	
+121	Ombega wa Soviet gwebakwaite, tukwendya omuwoleerye	
+122	Omusango guli guti	
+123	Kikwewunyisya	
+124	Tinkukikakasa nti nkusobola okutwala omusango ogwo	
+125	Omujunaanwa tamaite muwoleerya yena	
+126	Ekooti ya nsi yakisindikire waiswe	
+127	Akakiiko ka mateeka kakomere	
+128	Niiwe gwekakomere	
+129	Kyabaire kyamugaso gyetuli	
+130	Kyamugaso eri eiwanga lyaiswe Jim nga kikulanga nti omusaiza oni akufuna okulamulwa okusai	
+131	Obwenganiza bwa America bukwaba kuba kukigezo	
+132	Ale noba nga okiletere omungeri eyo, kyakitinisya okubuzibwa	
+133	Naye Lynn, nje nta muwoleerya wa yinsuwa	
+134	Timpozeserye misango gya bumeni bwa mateeka mu myaka	
+135	Kikwisana okuvuga egaali, tinikyo?	
+136	Wabaire wanjawulo oku Nuremberg	
+137	Nabaire ku tiimu yabalamuli	
+138	Eyo tiyensonga	
+139	Tota muyaaka omu misango gya bumeni bwa mateeka	
+140	Jim loleera embeera	
+141	Omusaiza tayendebwa bantu bona bona enzai	
+142	Njeena tebakwiza kunyendya	
+143	Nikyo, omu bantu abaingi abatakufaayo	
+144	Era niyo nsonga lwaki kini kiteekwa okolebwa era kusai	
+145	Titukwendya kiboneke nti endamula yaiswe tigisai	
+146	Katukobe nkikoore, obujulizi bukwisana butyai?	
+147	Bwingi muno	
+148	Kisai	
+149	Kisai	
+150	Buli omwei akwiza kunkyawa naye ekisai tinkwaba kuwangula	
+151	Ale, kirowoozo ki kyoli nakyo Tom?	
+152	Ekampuni yaiswe eya mateeka niyo ekwaba okukosebwa	
+153	Nta n’omulimo ani	
+154	Nkulowoza nti mulumo gwa mwooyo gwa gwanga	
+155	Mulimo musai	
+156	Nakobere Lynn, ekampuni tesobola kujeema era mukwiza okwaja obuzibu nga mukujeema	
+157	Nkulowooza mutekwa okuwoleerya omwana wamusege oyo	
+158	Ekikutegeza okwaba kikola?	
+159	Nga nkukola kiki?	
+160	Nga nkuwoleerya o’mbega wa Soviet	
+161	Nyinza	
+162	Ntekwa okubaza ne	
+163	Lindaku, wakimanyire otyai?	
+164	Bakitimbire okulutimbe lwa mawuuro?	
+165	Mbe, nje	
+166	Nabaire nkubaza ne Richard Earl	
+167	Bona, ninakola kini nkwiza kutaka onjune	
+168	Okusobola okola ekiro kyaleero?	
+169	Aale, ntekwa okwajangana n’omuntu kukyaigolo ssebo	
+170	Olwaleero lwakabiri, nikyo?	
+171	Nikyo, mbe, nina obwiire bwingi nga ndoowo kyakola	
+172	Webale ssebo	
+173	Naye nakyo nkukisiima	
+174	N’ekibiina kya mateeka kyansabire olwansonga bakwendya balange nti n’ombega akusobola okufuna omuwoleerya	
+175	Kisai, oba kiyinza okuba ekintu kyetuteekwa okola	
+176	Okoba otyai owamukwano, okukola kiki ekka?	
+177	Banyemerelye okola	
+178	Aale, ekyo kibi muno	
+179	Nani eyakikoore?	
+180	Kyaba kisai n’entabaza	
+181	Aale, ikaara ansi	
+182	Twakatandika	
+183	Abantu batiinire	
+184	Bakwomboka bifo byakwekwekamu bbomu n’abantu nka omusaiza oni	
+185	Nyikire okuduuka, abantu bakugula mmere egisabike amwei n’amakerenda ga potassium	
+186	Nga bini byona byona bikuzwa ku musaiza oni n’ebyakikiira	
+187	Akutiinisya iswena iswena	
+188	Munanfusi	
+189	Nani omunanfusi?	
+190	Aba Rosemberg nibo bali abananfusi	
+191	Bali banani?	
+192	Bawaire aba Russia ebyama byaiswe ebya bbomu	
+193	Bali bamerika	
+194	Abaliire omu nsi yabwei olukwe	
+195	Tosobola kukoba nti Abel munanfusi	
+196	Tti mumerika	
+197	Oh, wewuliirye	
+198	Otandikire okumuwoleerya	
+199	Okukigezera ku ninje	
+200	Wakobere nti okyalowoza mbe oba omusango wagutwala	
+201	Nkukirowozaku, olwakuba kizibu muno kyakulowozaku	
+202	Buli muntu akwetaga okumuwoleerya	
+203	Buli muntu wamugaso	
+204	Jim, kiki kyetukusana?	
+205	Omaite engeri abantu gyebakwaba okutuloleera?	
+206	Bakwaba kutubona nka amaka ga musaiza akugezaku okuwoleerya omuli wankwei?	
+207	Omusaiza timuli wankwei, Mary	
+208	Ale	
+209	Roger,okunfuna!	
+210	Timuli wankwei	
+211	Lwaki nteekwa okola emirumo egyo gyona gyona?	
+212	Oh!	
+213	Lindaku okwikya nga tukobere grace	
+214	Enzala ekunduma!	
+215	Akubaza ku musaiza akwekeera obutaba wamugaso omu’nsi eni era nga okugezaku kuba wa kabiri!	
+216	Nikyo, ninje wakasatu	
+217	Carol wasumbiirwe omusaiza mukyamu	
+218	Nkwendya kulya	
+219	Mary, tinkwendya ofuule kuni kutongana nga ndoowo akutongana	
+220	Tokumwendya, njemwendya?	
+221	Mbe, nje tinkumwendya	
+222	Tindowo kulwa ba Russia abakutubega	
+223	Ndowo kulwa idembe ryamwei erya kwewoleerya omu mbuga era nga nigyo nsonga lwaki bagyeeta mbuga ya mateeka	
+224	Tintakire kwonona kyaiggolo	
+225	Embuga ya mateeka	
+226	Iwe	
+227	Mbe	
+228	Okoba otyai Doug	
+229	Jim abaire akugaduuka mbe	
+230	Tinkugaduuka	
+231	Yaba omumaiso Doug, okusobola okutwegaitaku okukyaigolo	
+232	Tukwaba kulya meat loaf ekiro kyaleero	
+233	Olwansonga eyo, waizire kujunaku Jim nga akulowoza oba akwaba kuwoleerya omusaiza?	
+234	Oh, niswe tukwaba kumuwoleerya!	
+235	Kikusanyusya, tinikyo?	
+236	Kanca, tukwebalya olwa mikisa gyetukwaba okufuna	
+237	Tukwebalya omu ibara rya Kristo, kanca waiswe	
+238	Amiina	
+239	Wasuure otyai ssebo	
+240	Amabara gange ninje Jim Donovan	
+241	Bini nibyo bikumbazaku	
+242	Nkukoora Watters, Cowan n’oDonovan	
+243	Bansindikire okukoora omu kooti ya New York omumwaka gwa 1941	
+244	Bakujunaana emisango isatu amwei n’ebikolwa ebindi ebibi ikumi n’amwendai	
+245	Bakujunaana okutambulya ebyama bya Amerika ebyakulwanyisya nga obiwerya aba Soviet Union, bakujunaana okukumbania ebyama n’okulemerwa okwewandikisya nka omukungu wa nsi ya nzai	
+246	Abakungu ba’nsi bona bona bewandikisya?	
+247	N’oba nga tokufayo nga nkubuulya, ssebo, okuzwa lwebakukwaite, obaire ayi?	
+248	Tinkusobola kukobera	
+249	Tomaite gyobaire?	
+250	Banvugire nebanteka okundege ale nebampulukya enzai wa ndege	
+251	Ekifo kyabaire kikwokya	
+252	Ani nawo wakwokya	
+253	Wakwokya muno	
+254	Bantaire omu kisenge	
+255	Bakukubire?	
+256	Mbe	
+257	Bambazirire	
+258	Bansubizirye okumpeerya ebintu	
+259	Okutegeza kiki?	
+260	Bansubizirye okumperya emirumo okukoora egavumenti	
+261	Bankobere nti nituba nga tukwataganire ndoowo misango mindi gyebantaku	
+262	Era nt ibakwiza okumpeerya empiiya	
+263	Hmm	
+264	N’obigaana?	
+265	Nga bwokukibona	
+266	Era nali tinkusobola kwikiriza	
+267	Nkuwuura kyankubaire kisai nga oikirize n’okola ne gavumenti ya U.S	
+268	Nabigaine	
+269	Era kobera banywani bamu aba CIA nti nabaire nkukitegeza ekya kugaana	
+270	Mbe, mbe, mbe	
+271	Nje	
+272	Tinkukoora kitongole	
+273	Tinkukoora gavumenti	
+274	Ndi ani okujunaku nga omuwoleerya wamu	
+275	Niwaba nga oikiriize Nkwiza kukoora	
+276	Ninaba nga nkwikiriize?	
+277	Oli musai ku mulimo gwamu?	
+278	Iye	
+279	Iye ndi musai	
+280	Wawolelezeryeku ba mbega baingi?	
+281	Mbe	
+282	Guni nigwo gukwaba okuba omulundi ogukwekeera akati waiswe ababiri	
+283	Aale	
+284	Aale	
+285	Aale	
+286	Okwikiriza?	
+287	Iye	
+288	Kisai, aale	
+289	Tutandikire ani	
+290	Noba nga ogaine okukoora egavumenti ya U.S	
+291	Nje	
+292	Iye	
+293	Ale tobaza n’amuntu owondi owa munda mu gavumenti oba enzai yena yena oku musango gwamu,	
+294	Okwiyaku nje njenka olwansonga nti okunesiga	
+295	Ninje nteekwa okuwoleerya	
+296	Ndowo muntu wondi yakikola	
+297	Omumazima, abantu abandi bona bona bakwendya oyabe omu ntebe ya masanyalaze	
+298	Aale	
+299	Tokwisana atiinire	
+300	Kikunjuna?	
+301	Mbaire	
+302	Mbaire nkwendya oku byakozesya okusiiga	
+303	Ekyo tekikusoboka	
+304	Pencil oba akapapulwa	
+305	Osigala	
+306	Nkukusaba	
+307	Mwami Donovan, nywena mulina abasaiza nka nje abakola omulumo gwunwei olwa ns yaimwe	
+308	Nikiba nga babakwaite Nkukikakasa nti wandyendere babakalye kusai	
+309	Amabara gamu niiwe nani?	
+310	Ninje Francis Gary Powers	
+311	Oli ku daala ki omu maje?	
+312	Ntta First Lieutenant, omu maje ga ndege aga United States	
+313	Otta nakakwate kona kona oku Soviet Union, Lieutenant Powers	
+314	Nkusaaga	
+315	Iramu mbe ebibuuzo, Lieutenant	
+316	Nkwendya oiremu nti nikyo oba tinikyo	
+317	Otta nenkolagana yona yona ne Soviet Union?	
+318	Mbe	
+319	Omaite lwaki oli ani?	
+320	mmm-mmm	
+321	Ekyo kikutegeza nti tomaite?	
+322	Iyee	
+323	Nkutegeeza	
+324	Mbe, nkobere mbe	
+325	Aale, timaite nsonga yona yona lwaki ndi ani	
+326	Nkukitegeza, Lieutenant	
+327	Aale ssebo	
+328	Okoba otyai eyo, Gary?	
+329	Ndi musai	
+330	Nkulowooza eibara niryo	
+331	Osingireku Shinn, aale	
+332	Nani akuwangula?	
+333	Uh, oyo yankubaire ninje	
+334	Oh	
+335	Aale, njeena ngaitaku	
+336	Ekikutegeza bini byona byona byange	
+337	Nabakobere boojo mulekere awo okumuzenyesya	
+338	Aale, abavugi kini nikyo mukwaba okola	
+339	Mwalondeibwe nga mukwaba okola omulimo ogwakyama nga temutekwa kugubazaku n’amuntu yena yena enzai wa kisenge kini	
+340	ndowo muntu yena yena atekwa okukimanyaku	
+341	Tinkufayo ku nani gwokwesiga	
+342	Yaba mukali wamu, omaama wamu, oba owa mukwano	
+343	Niwaba nga okusaba okanca obwiire	
+344	Tobakobera kintu kyona ku byenkwaba okubakobera	
+345	Buli omu kunywei abavugi atta n’ebisanyizo byeyayakairemu	
+346	Babakebere muno olwa byakwerinda	
+347	Muli bavugi ba ndege basai muno era nga muvugire muno okwakalya obwiire obukwetagisya omuvugi wa ndege ya muntu omwei	
+348	Ati buni tuli mu lutalo	
+349	Olutalo luni ndoomu byakulwanyisya	
+350	Lwa bigambo (bubaka)	
+351	Mukwaba kusololya obubaka	
+352	Mukwaba kusololya obubaka bwa bukesi obukwata oku mulabe waiswe	
+353	Obubaka bwa bukesi bwemukwiza okusololya buyinza otuwerya amaani maingi muno omu byakulwanyisya bya thermonuclear nga tukwakalya ebya mukago gwa Soviet	
+354	Oba bukwiza okubalemesya	
+355	Omulimo guni ndoowo muntu yena yena okuzwa ku mukali wamu, mama wamu, mukwano gwamu oba okanca aiguru atekwa okugumanyaku nti twagukuwaire	
+356	Omulimo guni togumaiteku era wena tetukumaite	
+357	Tebasobola kukukuba Mbundu nga oli aiguru n’ogwa ansi	
+358	Tebasobola kukwata	
+359	Ati buni mukukoora CIA	
+360	Jim nawuliire nti omusaiza wamu akubaza omu lulimi lwa phony	
+361	Akubaza atyo obwiire bwona bwona?	
+362	Nkukikakasa nti eyo niyo ngeri gyakubaza	
+363	Eibara ryamwei lya ba Russia naye e pasipooti yamwei ya Bungereza	
+364	Nkukibusabusa nti ebyo bilambulukuki	
+365	Ati tuli ayi, Jim	
+366	Nkubona ani	
+367	Ale, okuboma Mulamuli Tinkukilowoza nti e wiiki eisatu zikwiza kumala	
+368	Tu	
+369	Tutta  n’obujulizi bwingi muno nga bwokimaite	
+370	Okwendya kwongeryayo?	
+371	Wiiki mukaaga	
+372	Nkutegeza nti tuli bantu babiri bonkai, nje n’omuyambi wange	
+373	Jim, tti byakubalaata?	
+374	Ssebo?	
+375	tti byakubalaata?	
+376	Iye	
+377	Iye, kituufu byakubalaata	
+378	Osobola okukibona omu byebawandikire	
+379	Jim, oni omusaiza mbega wa mukago gwa Soviet	
+380	Kikuteberezebwa	
+381	Weena Counselor!	
+382	Owakitinisya	
+383	Nkwisamu ekitinisya	
+384	Tukukwebaza iswena iswena olwa mulimo gwokwaba okola newankubaire ndoowo akugwendya	
+385	Omusaiza oni ateekwa okuyakalisyibwa omu mitendera gyona gyona	
+386	Naye tuzwe mu byakubalaata	
+387	Akwiza kufuna okuwolelezebwa okukwetagisya	
+388	Era okanca nka niyayendya, akwiza kukangavulwa	
+389	Weena Counselor	
+390	Tuleme kuzenyera omu nsonga eni	
+391	Omuzenyo guleke kuba omu kooti yange	
+392	Tulina ebiro bya mwezi era nimwo tukwaba okumuwolesya	
+393	Taxi	
+394	Taxi	
+395	Nkubona amataala gamu gakwaka	
+396	Omwana gwa musege	
+397	Nindire muno lwenkwaba okwira e Manhattan	
+398	Amataala gamwei gabaireku, nikyo?	
+399	Omwana wa musege oyo	
+400	Kikukontana nekyebendya	
+401	Ensala ekyali kwinduka	
+402	Oh, nsonyiwamu ssebo	
+403	Nyiriramuku	
+404	Nsonyiwa	
+405	Oh!	
+406	Mwami Donovan	
+407	Kiki?	
+408	Kiki?	
+409	CIA	
+410	Iyee	
+411	Mbaire nkwendya tubazemu	
+412	Omusango gukwaba gutyai	
+413	Omusango gukwaba kusai	
+414	Tegusobola kuba gusai muno	
+415	mmm-mmm	
+416	Omusaiza wamu yabazireku?	
+417	Nsonyiwa	
+418	Wamusisinkaine	
+419	Yabazire?	
+420	Yabazireyo ekintu kyona kyona	
+421	tetukwaba kubaza ku mboozi eni	
+422	Mbe, tetukwaba	
+423	Mbe, nkutegeza nti tekikwetagisya okugibazaku	
+424	Okunsaba okutyoboola ekitiibwa kya mujunaanwa	
+425	Weena, Counselor.	
+426	Omaite, nkwendya abantu nka nywei muleke okubaza nti, weena Counselor	
+427	Tinakyenderye omulundi ogwekeere gwekyabairewo olwaleero	
+428	Omulamuli yakinkobereku emirundi ibiri	
+429	Era emirundi gyenkukiwuura nigyo milundi gyenkweyongela obutakyendya	
+430	Aale, ati wuura, nkutegeera obuyinza bwa mujunaanwa	
+431	Nkutegeera obuzenyo bwa mateeka bwona bwona	
+432	Era nkukitegeera nti eyo niyo ngeri gyobaawo omu bwoomi bwamu	
+433	Naye nkubaza naawe omu ngeri eyendi	
+434	Ebya bukuumi bya nsi yamu	
+435	Era okwiza kunsonyiwa ninaba nga engeri gyenkukibaza ekukosa	
+436	Naye tutekwa okumanya kiki Abel kyakukoba	
+437	Okuntegeera, Donovan?	
+438	Tutekwa okumanya	
+439	Toniina kagere	
+440	Ndoowo kitabu kya mateeka ani	
+441	Niiwe Agent Hoffman?	
+442	Iyee	
+443	Okusibuka Germany	
+444	Nikyo?	
+445	Eibara lyange ninje Donovan	
+446	Ntta mu Irish	
+447	Oku luda lwa maana n’oTaata	
+448	Nje ntta mu Irish iwe otta mu German	
+449	Naye kiki ekitufuula iswena okuba abamerika?	
+450	Kintu kimwei kyonkai	
+451	Kimwei	
+452	Ekitabo kya mateeka	
+453	Tukyeeta constitution era tukwikiriziganya na mateeka era nikyo kitufuula abamerika	
+454	Ekyo nikyo kikutufula abamerika era tonkobera nti ndoowo kitabo kya mateeka era tonyindulila mutwei iwe mwana wa musege	
+455	Twetaaga okweralikiira?	
+456	Mbe nikiba nga mundekere nkole emirumo gyange njenkai	
+457	Okuzwa ati temukwaba kweta U-2 endege ya bukeisi	
+458	Mukwiza kugyeta Article	
+459	Article etta n’ekiwawatiro kya bugazi bwa fuuti 80	
+460	Ekufuna amasanyalaze okuzwa omu single Pratt and Whitney J57 P-37 engine	
+461	Pound omutwalo gumwei ne sipiidi eya mayiro 430 buli isawa	
+462	Eyinza okuba teiruka muno naye egulukira aiguru muno omu bunyamulai bwa fuuti 70,000 ekikutegeza nti ndoowo kintu kikwaba okusembeera	
+463	Fuuti mitwalo musanju?	
+464	Ekirowoozo kiri nti omulabe tasobola kukyeteja nti olowo	
+465	Tekikwikirizika	
+466	Buli bulemeeri obukweyongeraku bukwenkankana efuuti emwei aiguru ate tutekwa okutaaku e kamera	
+467	Ezo ziba 4,500 millimeterlens emirundi isatu	
+468	Kamera egisai omuno nga ekusingaku kamera zabuliizo emirundi einai	
+469	Mukwiza kukuba ebisani bingi muno	
+470	Oku fuuti emitwalo musanju, Article ekusobola okuba ebisani omu mayiro enkumi ibbiri omu lukuba lumwei	
+471	Ati buni abavugi muwerye mufeeyo muno oku Agent Sumner byabakoba	
+472	Ebintu byemukwaba okukolesya omu mulimo guni mbini	
+473	B kamera, Revere 8 model 40 magazini, Keystone Capri K-25, silver	
+474	Akamweno aka kawangiiryo akalumu ekituli	
+475	Set eizwiire cipher tables ne silver foil ezikuliibwa	
+476	Ebyoma bya bisani ebyanjawulo	
+477	Iye	
+478	Tukukufuna	
+479	Mwebale	
+480	Uh, nsonyiwamu Agent Bosco	
+481	Blasco	
+482	Ssebo	
+483	Kikuboneka walowo akatundutundu omu lukalala luni	
+484	Ebintu ebikusinga twabifunire okuzwa omu situdiyo yamwei naye ebindi twabifunire okuzwa omu kisenge kya wooteri mwetwamwajirye	
+485	Mwetwamwajirye	
+486	Mwaswagaine omu kisenge kyamwei ekya wooteri?	
+487	Iye, nikyo	
+488	Osobola okundanga oku kiwandiiko ekibaikiriza okuswagana?	
+489	Ekiki?	
+490	Iye, nyonyola ku kini	
+491	Walowo ekiwandiiko ekyakutoleerya	
+492	Walowo ekiwandiiko ekyakutoleerya	
+493	Ekiwandiiko ekya mateeka ekitwikiriza okubwa omuntu wanzai, naye tewabairewo kiwandiko kyatwikiriize okuswagana olwansonga yabaire akuteberezebwa okuba omumeni wa mateekak	
+494	Ekikutegeza nti okutoleerya n’obujulizi byemwafuniire tebukwiza kuwulukibwa	
+495	Bukuumi ki bwali nabwo owa kitinisya?	
+496	Omusaiza tali	
+497	Omusaiza abaire ki?	
+498	Eibara ryamwei niye Rudolf Ivanovich Abel	
+499	Mutuuze wa mukago gwa Soviet	
+500	Tata mutuuze wa Amerika	
+501	1886, Yick Wo v. Hopkins	
+502	Court yakobere nti n’abenzai, nga ekutegeeza abasenze abakyayina tebatekwa kwiramu misango nga tebagobereire mateeka nka negali, nga omwo nimwo okuta abakoli abanda abaizire omu nsi yaiswe nga tebagobereire mateeka	
+503	Ekitongole ekilamuli kisooka kwisa kitiibwa omu iwanga lyaiswe eya Amerika	
+504	Tinkubona ngeri omuntu eyaizire ani nga tali mu mateeka gyakoseibwemu nga eidenbe ryamwei lininibwe	
+505	Eidembe nka ki?	
+506	Omumerika?	
+507	Eibembe nka ki, Counselor?	
+508	Tuli mu lutalo lwa byankulakulana	
+509	Oni ombega wa Russia yaizire ani okutinisya obwoomi bwaiswe	
+510	Ati buni nta ne kooti ya bantu enindire	
+511	Wuluka enzai era oikaare ampi n’omusaiza omu Russia	
+512	Katumaliirye kini	
+513	N’okusaba kwamu kuganiibwe	
+514	Ateekwa okwewulukya kulwamwei	
+515	Twakoore tutyai?	
+516	Omunda?te	
+517	Uh	
+518	Tti kusai muno	
+519	Omu kaseera kani, toli mutuuze wa Amerika	
+520	Ekyo kituufu	
+521	Era okusinzira oku mukama wamu, totta mutuuze wa mukago gw Soviet	
+522	Nkukitegera, omukulu tasobola kuba mutuufu buli kaseera naye aba niye mukulu	
+523	Wewalikiira?	
+524	Kitta n’engeri gyekikunjuna?	
+525	Iywena iywen mwemeere	
+526	Nkuweerya ebbedera ekitiibwa Ebbendera ya United States of Amerika N’ensi gyekukikiira Ensi emwei ansi wa kanca ate nga tekwawulwamu Eizwire eidembe n’obwenganiza bwa bantu bona	
+527	Ekikwekeera, otekwa okumanya kiki ekibaawo nga ebbomu ebwatukire	
+528	Wabaawo ekimyanso ekyamanyi nga kikwakamw muno okusinga eisana	
+529	Ekusobola okukuba ebyomboke n’emenya amadirisa omu tawuni yona yona	
+530	Naye n’ogwa omumaizi newebwiika, okwiza kuba wekumire kusai	
+531	Walowo ebika bya bulumbagani bibiri, ekikwekeera okulabula n’ekitalabula	
+532	Mm	
+533	Kiki ekikwaba omumaiso ani	
+534	Aale Taata kini kyamugaso muno	
+535	Olutalo nga lutandikire, ekintu kyebekeera okola nikwo kwiyaku amazi n’amasanyalaze gona gona	
+536	Era ekintu kyetewekeera okola nikwo kukuuma kin inga kyizwiire, tukolesye ekiyigo kya mukisenge, tukolesye sink y’ansi n’endumiro y’enzai	
+537	Ebyo birowoozo bisai	
+538	Naye, Roger bini tinibyo bintu byotekwa okwelalikiira	
+539	Nikyo, naye n’owuura obugombe wayinza obutabaawo bwiire bwakwijuza tube ne sink	
+540	Tewakwaba kubaawo bugombe bwona bwona	
+541	Kino kiki?	
+542	Bbomu nga eizire, kwiza kusinga kulengeerya kizimbe kybeeta Empire State	
+543	Naye bbomu ekulikiira omu fuuti mutwalo gumwei aiguru	
+544	Omu Life Magazine, bakugyeeta airbust, era ebbomu neba ya megatons ataanu, ebizwiire omu kubwatuka byeyanjalya muno nebisiisa ebintu bingi muno	
+545	Nga omwo nimwo muli ekka waiswe	
+546	Ani	
+547	Iye, awo	
+548	Naye kankukobere Roger, ndoowo akwaba kutunagaku bbomu	
+549	Naye aba Russia bakwendya kugitunagaku	
+550	Omaite oyo omusaiza omu Russia gwokuwoleerya?	
+551	Yaizire ani okutegeka buli kimwei kulwa basaiza abatunagaku bbomu	
+552	Mbe, tinikyo	
+553	Tinikyo kyeyaizire okola ani	
+554	Omusaiza tti mu Russia	
+555	Kikuboneka yabyaliibwe mu mambuka ga Bungereza	
+556	Iye naye mbega wa Russia	
+557	Tikutegeera kyokukola	
+558	Iwe toli mu Communist, lwaki okuwoleerya omu Communist?	
+559	Kulwansonga nigwo mulimo gwange	
+560	Ekyo ti kintu kyabuliizo	
+561	Omu musango gwa United States of Amerika nga ekuwolesya Rudolf Abel, okusinzira oku musango ogukwekeera omu biwandiiko, omujunaanwa omwajirye otyai?	
+562	Gukumusinga oba mbe?	
+563	Gukumusinga	
+564	Okusinziira oku musango ogwa kabiri?	
+565	Gukumusinga	
+566	Okusinziira oku musango ogwa kasatu?	
+567	Gukumusinga	
+568	Owakitiibwa, nkusaba tuteeke emisango gini gyona gyona gyokoba nti gikumusinga amwei n’obujulizi obulowo	
+569	Nkigaine	
+570	Ekooti ya leero ekomere ani	
+571	Mwebale nywena nywena	
+572	Nkwendya okwongeryaku nti nikiba nga mbaire omu kunywei Njeena nandigusalire omu ngeri niyo gimwei	
+573	Akwiza kusalilwa Nga ikumi naitaano November	
+574	Okusalibwa ogwakufa tukyali kukuvaku	
+575	Tewelalikiira	
+576	Nje tintiina kufa ssebo Donovan	
+577	Newankubaire sandikitakire	
+578	Kini wakilekere emabega	
+579	Webale	
+580	Webale muno	
+581	Tombuzanga oba emisango gyebakunjunana mituufu	
+582	Nikiba nga ndi mbega omutuufu	
+583	Eno niyo ngeri gyetukikola	
+584	Omusango gwebakujunaana nigwo gwa makulu	
+585	Okubakakasya nti gulimu amakulu	
+586	Ekirowoozo kiri nti	
+587	Nje tinkufaayo oba wagukoore oba tewagukoore kuba tibikwetagisya	
+588	Ensi etekwa okukikakasa nti oli mbega	
+589	Ekikutegeza iwe tokwendya kumanya?	
+590	Mbe, tinkwendya	
+591	Nje nalowozanga nti wabaire musiigi wa bisani	
+592	Mukali wange niye musiigi wa bisani	
+593	Mwembi omu choir ya baana e Moscow	
+594	Akwembesya kyooma ki?	
+595	Kyebeeta harp	
+596	Oh	
+597	Oyo malaika ekikutegeza	
+598	Nga oyemereire awo okunyizukiza omusaiza eyatelanga okwiza ekka nga nkyali muto	
+599	oTaata wange yankobanga nti loleera omusaiza oni	
+600	Era namuloleeranga buli lweyaizanga	
+601	Era ndoowo lunaku lweyakoore kintu kibi kyona kyona	
+602	Kyokukoba nkwizukiza omusaiza oyo?	
+603	Omulundi gumwei nga ntta wa myaka nkka egya mwoojo wamu	
+604	Enyuba yaiswe yalumbiibwe abasirikale ba kunsalo	
+605	Bali baingi muno	
+606	Otaata wange bamukubire, mama wange bamukubire, n’omusaiza oni munywani wa Taata bamukubire	
+607	Era nabwoine omusaiza oni	
+608	Buli lwebamukubanga nga akwemeera omulundi ogundi	
+609	Era bamukubire muno	
+610	Naye yasigaire nga akwemeera	
+611	Nkulowooza nti olwakuba yakoore kini, balekeire awo okumukuba	
+612	Era bamulekere nga mwoomi	
+613	Nkubaizukira nga bakukoba nti	
+614	Kikutegeza nti omusaiza akwemeera	
+615	Omusaiza akwemeera	
+616	Hallo Jim	
+617	Millie, okubona kusai	
+618	Mortie atta nzai	
+619	Naye ingira omunda	
+620	Jim nkuweerye Scotch?	
+621	Iye	
+622	Webale	
+623	Amaizi gadyooli	
+624	Owakitiibwa	
+625	Hallo Jim	
+626	Nkwaba nzai	
+627	Ndowo n’edakiika zidyooli	
+628	Nkwaba ku March of Dimes	
+629	Millie aluku	
+630	Aale, webale kumbona	
+631	Mbaire nkwendya kukuwerya ebiroroozo byange bibiri oku nsala ya musango	
+632	Era nakilowozere nti nkwaje ekka nikiba nga ensonga zange ti zamateeka	
+633	Iye, omusango gutta gutyo	
+634	Kansubire tyabaire mubi nga nkugusala naye nikyo mbe kyokukoba	
+635	Ndoowo kubyokubaza nga tti byamateeka	
+636	Mulumu ensonga ezikooto	
+637	Ensonga ezikooto!	
+638	Webale, webale	
+639	Uh	
+640	Ssebo	
+641	Naye nkulowooza ensala yakubaire nti Abel akusigala nga mwoomi nga kini kikujuna ensi yaiswe aya United States	
+642	Lwaki?	
+643	Tinkukoba nti nayindwiire endowooza yange naye nikiba nga yaikiriize akoore amwei ne gavumenti, yankubaire yakikoore irai	
+644	Kituufu naye ensonga eri nti	
+645	Tokusobola	
+646	Nsonyiwamu	
+647	Tosobola kukoba nti kikujuna United States nti akumala obwoomi bwamwei obukwiraku bwoma bwoma omu kabuusu	
+648	Kini kikujuna kityai ensi yaiswe?	
+649	[NO TRANSLATION]	missing translation
+650	Kikusoboka okuba nti omu biseera byomumaiso omu Merika owa daala niryo limwei ayinza okukwatibwa aba Soviet Russia	
+651	Tuyinza okwetagisibwa okuba n’omuntu okuwanyisiganya	
+652	Kikwewunyisya	
+653	Ekyo kikuboneka nga ebirowoozo	
+654	Okusobola okola ekyomokwikya nga ente ziire ekka	
+655	Ebyo nibyo bibba omu mulimo gwange	
+656	Nje nkoora yinsuwa	
+657	Era ndoowo kikwewunyisya omu kini	
+658	Ekyo kirowoozo ku bikiki ebisobola okubaawo	
+659	Era ekyo niyo nsonga lwaki abantu bakugula yinsuwa nga bakusubira ebikusobola okubaawo	
+660	Nitumala tusaliire omusaiza oni ogwakufa, tusigala mu kyangaala	
+661	Nga ndoowo kyatutaasa olunaku iswena webakwata owaiswe	
+662	Obazire kusai	
+663	Ssebo, walowo n’ekirowoozo ekinsi eya buntu	
+664	Namala afire nga akukola omulimo gwebamutumire okola?	
+665	Aale Counselor	
+666	Nteekwa okwiruka	
+667	Kibaire kisai okubona	
+668	Nkwaaba kusendekeerya enzai	
+669	Mwena mwemeere	
+670	Embuga ya United States Distulikiti okuzwa omu buzwa isana lya New York etandikire	
+671	Ninje wakitiibwa Mortimer Byers agikuura	
+672	Mwikaare ansi	
+673	Akuwolelezebwa asobola okwemeera	
+674	Omu nsalawo ya mbuga nga ekusinzira okunsonga nti okusingibwa buli musango ogukujunaanwa, oteekwa okwakala okugezesebwa okwatekebwewo	
+675	Olwansonga nti buli musango gukumusinga, omujunaanwa aliibwe Attorney General ekibonerezo kya myaka asatu omu kabuusu ka gavumenti	
+676	Abakuumi musobola okutwala omujunaanwa omu kabuusu	
+677	Mbe	
+678	Takwaba kwitibwa omu katebe ka masanyalaze?	
+679	Mbe	
+680	Mbe	
+681	Lwaki tetumwiita nga bakumutuga?	
+682	Omwibara lya kanca, lwaki tetukumwiita?	
+683	Ikaara ansi, ssebo	
+684	Omusaiza mbega!	
+685	Akutwiita n’obubeegi bwamwei	
+686	Omwibara lya kanca, lwaki tetukumwiita?	
+687	Ekyo kituufu	
+688	Omusaiza mbega	
+689	Mwami Donovan	
+690	Mwami Donovan	
+691	Ekibuuzo kimwei	
+692	Ekibuzo kimwei ssebo	
+693	Enkofiira yange	
+694	Enkofiira yange	
+695	Enkofiira yange	
+696	Ndoowo muntu ani alina ekyakubaza	
+697	Omwami n’omukyala Donovan tebakwiramu bibuuzo	
+698	Okuwuura otyai ati bun inti kini ekitinisya kya nsi yaiswe kiweire?	
+699	Mwami Donovan, osanyukiire endamula ya musango?	
+700	Tu	
+701	Tukuwuura amaani gaingi aga kujuura okundamula	
+702	Kujuura?	
+703	Iye, tukwaba kujuura	
+704	Jim wakoore omulimo ogwa maani	
+705	Wakoore omulimo gwamu nka negutekwa okuba naye abanda bakyakoba	
+706	Nti omusaiza mbega	
+707	Endamula gituufu era ndoowo nsonga lwaki okujuura	
+708	Walowo ensonga egituufu	
+709	Tumaite nti okutoleerya kwali kukyamu	
+710	N’enyindukayinduka ezakanai zikwiza kuba zizito oku mujuurwa	
+711	Tufunire endamula egisai	
+712	Okubaza biki?	
+713	Twabaire tutekwa okulanga nti afunire okumuwoleerya, kyetwakoore	
+714	Lwaki okumbaziira e constitution?	
+715	Tom, nondoleera omumaiso nonkobera nti ndoowo mukisa gwa kujuura, nkwiza kukizwaku	
+716	Tinkukoba ekyo	
+717	Omaite kyenkukoba	
+718	Tom akukoba nti walowo ekyakusasuura ebintu bini	
+719	Ekyo kituufu	
+720	Ekyakusasula oku makka gamu amwei	
+721	Mbaire nkusubwa ebyembo	
+722	Bakebeire rediyo okukakasa nti teyabaire na transmitter	
+723	Nkukikakasa bagikebeire	
+724	Shostakovich	
+725	Mmm	
+726	Oyo musiigi wa bisani wa maani, Shostakovich	
+727	Uh, nkulowooza ensonga egikulu gyetusobola okolesya ya mu kitabo kya constitution	
+728	Omukisa gwaiswe ogukusinga nga embuga yaiguru eikiriize okuwuliirya omusango gwaiswe	
+729	Jim	
+730	Otekwa okwegendereza	
+731	Wegendereze	
+732	77 Sunset Strip	
+733	Edward Byrnes.	
+734	77 Sunset Strip	
+735	N’oRichard Long	
+736	Wasuure otyai Suzanne	
+737	Wasuure otyai Dick	
+738	Walowo ebbaluwa eyanjawulo nga yaamu	
+739	Oh, niye	
+740	Mama	
+741	Kiki ekyabairewo?	
+742	Mukwano, oli musai?	
+743	Maama	
+744	Olumiziibwe?	
+745	Mufunire	
+746	Aiguru	
+747	Nyena nywena muli basai?	
+748	Naikaire ansi nga omugongo gwange gwesigaime ekisenge tata!	
+749	Oli musai	
+750	Oli musai	
+751	Tata, naikaire n’omugongo gwange nga gwesigaime ekisenge	
+752	Kisai, kisai	
+753	Aria okuzwa oku madirisa	
+754	Kisai kisai	
+755	Oli mwoojo musai	
+756	Kisai	
+757	Kisai	
+758	Kisai, baabire, baabire	
+759	Batintibali	
+760	Baabire	
+761	Tulina ababyabukuumi okwetoloola omuliraano gwaiswe	
+762	Oba tukwiza kufuna ekisani kya motoka nka nekwisana naye tinkulowoza nti kikusoboka	
+763	Tukwaba kwendya obukuumi	
+764	Oh, bampeerye ebiragiro okuleka emotoka ibbiri ani	
+765	Kini kikuboneka nga kisai ndoowo bunkenke	
+766	Okumala ibanga ki?	
+767	Nteekwa okuba omu Washington week eni	
+768	Okukola kiki?	
+769	Okukola kiki oku maka gamu?	
+770	Nyiriramu woofisa?	
+771	Okyawoleerya musaiza oni?	
+772	Nkutegeza, ensonga lwaki omuwoleerya?	
+773	Aale ebyo bizweku, mukungu	
+774	Tinkwaba kuzwa ku kintu kyona kyona	
+775	Nabaire omu wave eya kasatu oku Omaha Beach	
+776	Nakoore akaseera kange nga nkuwereza	
+777	Mbaire nkulwanyisya basaiza bani nga ate iwe okubawoleerya?	
+778	Lwaki tokola mbe mulimu gwamu nka woofisa wa mateeka?	
+779	Aale, nsonyiwa	
+780	Katwabe enzai	
+781	Weena	
+782	Omaite kiki?	
+783	Mwerabire mbe	
+784	Kiki kyentafuna ani?	
+785	Enzai, woofisa	
+786	Nsonyiwa	
+787	Okuwoleerya ombega	
+788	Kanca!	
+789	Okulowooza okusaana kini ssebo?	
+790	Nikiba nga kikwetagisya okuleka endege yaiswe aiguru wa Soviet Union, walowo ebyakulwanisya omu bwingi bwa pound ibbiri n’akitundu omu fuselage ya ndege	
+791	Ati buni, okwekeera kutaaku circuits	
+792	Naye okutandika okubala e secondi nsanju, oteekwa okutaku switch eyawandikibweku nti Destruct	
+793	Kyamugaso muno nti okuguluka kwa ndege kusigala nga kwa kyaama era nti ebyakulwanyisya bini tebigwa omu mikono gya balabe	
+794	Ate iswe	
+795	Timaite oba okusaaga, Lieutenant Powers	
+796	Tinkusaga	
+797	Byomaite oku ndege byakyaama nka endege yenyenere	
+798	Nikiba nga bakwaba kukwata, yaba ansi n’endege yamu	
+799	Ati n’oba nga okulowoza osobola okwiruka noyaba nga oikire ampi n’ensalo, kisai	
+800	Omaite engeri gyebaguluka omundege	
+801	Naye noba nga bakukwaite ndoowo wokwirukira, kolesya ekinusu kya dollar kini	
+802	Omu kinusu kini mulumu akayiso	
+803	Niko okolesya okwesumita n’oferawo	
+804	N’oba nga okulowooza bali ampi okukwata, gikolesye	
+805	Abavugi, mukunfuna?	
+806	Mukolesye dollar	
+807	Mwami Omulamuli omukulu, ate nekimala kimatiize embuga	
+808	Olutalo lwa bubaka lwebeeta “cold war” tti kigambo mbe ssebo	
+809	Tekikozesebwa mbe mukubaza	
+810	Amazima, olutalo lukwaba mumaiso omunsi akati wa birowoozo ebikwawukana bibiri	
+811	Nyinza okukoba nti Rudolf Ivanovich Abel Colonel Abel nka abamukwaite webamwetere niye mutego gwaiswe omu lutalo	
+812	Amaani ga Auxiliary	
+813	Agaluku	
+814	Omwiika gwa oxygen guluku?	
+815	Okugufunira oku 1800 psi	
+816	Inverter eluku?	
+817	Eluku nga amataala ndooku	
+818	Bamwakairye nka omulwani omu lutalo olwo okwikya egavumenti yaiswe bweyabwoine nga kyali tekikwetagisya kumwakalya etyo	
+819	Okusinziira, tebamuweire bukuumi bwetuwerya abanansi	
+820	Bamwakairye omumbeera etali gisai oku mumeni wa mateeka yen yena	
+821	Okuwanyisya amafuta?	
+822	Switch ya kuwanyisya teluku	
+823	Destructor	
+824	Destructor safety	
+825	Climb data card	
+826	Byona byona babiteire omu ndege	
+827	Maite omusaiza oni	
+828	Nekiba nga omusango gwamwei mutuufu, akukoora nsi yanzai naye ekugikoora kusai	
+829	N’aba mujaasi omu maje agandi, aba mujaasi musai muno	
+830	Tairukire lutalo okwetaasa	
+831	Againe okukoora abamukwaite	
+832	Againe okwegaana byeyaizire okola	
+833	Againe okwikiriza engeri abatintibali gyebawonamu	
+834	Omutintibali asooka kwegaana mulimo gwamwei nga akyali kwiruka lutalo	
+835	Roudolf Abel ekyo yagaine okukikola	
+836	Nituba nga tuweerye omusaiza oni eidembe ryamwei nka nekiri omu gavumenti taiswe, tekimulange ekituufu kyetuli?	
+837	Kiki kyetuli?	
+838	Ti niye kyakulwanisya ekya manyi kyetulina omu Cold war?	
+839	tetwemeere okunsonga yaiswe kidyooli muno okusingaku bwayemeere okunsonga yamwei?	
+840	oPulezidenti yakobere nti endege ya NASA eya mbera yabwiire yabuure enaku inai emabega omu mambuka ga Turkery	
+841	Nga abakungu ba kitongole kya ndege bakutiina nti omuvugi wabwe yafiirire omu kabenje	
+842	Radar yalangire endege nga ekugwa omu kitundu kya Soviet nga ekyali kubula, ekyakalubize engeri yakugifunamu n’ebikukwata oku muvugi	
+843	Ati bisigaliire mawuuro okuzwa e Washington	
+844	Omu kulonda olwalweero, embuga yaiguru yakakaise okujunaanwa kwa mbega wa Russia Rudolf Ivanovich Abel n’obululu butaanu ku bunai	
+845	Omusango gwalangiire ensala ya mateeka egibi okusinziira oku munamateeka wa Russia gwebeeta James B. Donovan	
+846	Bwebamubwiirye bweyawuliire okukufeerwa kwa lwaleero Mwami Donovan yakobere	
+847	Nkwiza kuba na mawuuro ganywei nga obubaka buni buweire	
+848	[NO TRANSLATION]	missing translation
+849	Kaweiremu.	
+850	Buni mbe bukodyo	
+851	Marty	
+852	Kyakunjakalya kubi n’enyagya ekiwandiiko ekyo oku musango gwa Prudential	
+853	Nje, mwami Waters yankobere nkitambulye nkitwale omu yoofiisi ya Jack Elwes amwei n’ekiwandiiko kyakujuurwa ekyekereire	
+854	Yakikoore?	
+855	Iye, yakiwandikire buto wiiki eweire nga oyabire Washington	
+856	Tubaire iswena kumala banga ki?	
+857	Okweyisa nga akukoba nti tetumaliiryangaku diiru	
+858	Tegeka olukiiko	
+859	Omu kifo ekisai omuno	
+860	Nkutebereza mwami Young yandyendyere ebintu ebisai omuno New Yoek etekwa okureerya	
+861	Era nkwendya ompeerye obufundi bwa	
+862	Omaite omuntu yena yena okuzwa omu Leipzig?	
+863	Leipzig.	
+864	Nkufuna message ya bukyayi okuzwa e Germany ati buni?	
+865	Okuzwa omu East Germany	
+866	Mukali wamu?	
+867	Mbe	
+868	Mbe	
+869	Akwebulyabulya okuba naye takwebulyabulya kusai	
+870	Nkutwala buni obuyinza okuwandikira Nga maare okukisoma omu mawuuro Nga bakubaza okubuntu bulamu bwamu Eri omusaiza wange gwenkwendya omuno Rudolf Abel	
+871	Nteekwa okwuwandikira nga nkwiramu?	
+872	Iyee	
+873	Kiki ekikwiraku nga tomaite muzenyo ki?	
+874	Francis Gary Powers..	
+875	Okusinsira oku maani ga ngingo 2 eya U.S.S.R eya iteeka rya bumeni bwa mateeka oku misango gya nsi omuntu abwebwa emyaka ikumi nga emyaka isatu akugimala mu kabuusu	
+876	Ekiseera kya kiboneeryo n’okubwebwa kikwiza kubalibwa okuzwa omwezi gwa kataanu nga lumwei, lukumi lwendai nkaaga	
+877	Mwami Donovan	
+878	Nsanyukire okubona Dulles	
+879	Kya kitiibwa ssebo	
+880	Okwendya nescafe, cream, bigiiko bibiri	
+881	Webale	
+882	Aale, enu ebbaluwa gyewafunire	
+883	Ekulanga kusa inti aba Soviet bakweyakalya kubi ani	
+884	Bakukikora nga bakweta omu East Germany olwansonga tebakwendya kwikiriza nti Abel mutuuze wabwe nti era mbega wabwei	
+885	Anha	
+886	Bintu bingi ebikwaba omumaiso	
+887	Aale ssebo naye bikwaba kuwa bityai?	
+888	Balina omusaiza waiswe, omuvugi wa ndege	
+889	Iswena tulina omusaiza wabwe	
+890	Okukyusaganya abasibe, nkulowooza ekyo nikyo bakwendya	
+891	Ekitakwewunyisye iwe Counselor	
+892	Kintu kyewabwoine nga kikwiza okubaawo omu biseera bya mumaiso	
+893	Iye, nakikoore naye timba mutuufu ebiseera ebikusinga	
+894	Aale, kulika	
+895	Olunaku lwa bbaluwa egimyufu	
+896	Ati buni iswena tulina omusaiza waiswe gwebakwaite	
+897	Powers	
+898	Omusaiza omusai omutwei gwamwei ogwizwiire obubaka	
+899	Abel yeena alina omutwe ogwizwiire obubaka obwamugaso bwingi olwakuba againe otukobera	
+900	Ate kiwuure okuzwa omu ninje, ndoowo kyakwaba otukobera	
+901	Iye, ekyo tukimaite naye aba Russia tebakimaite	
+902	Bakwendya omusaiza wabwe aireyo nga akyali kutuwerya byama	
+903	Ate iswena tukwendya Powers aire olwansonga nizo zimwei	
+904	Nkulowooza okukoba nti wayinza okubaawo engeri yakumala ensonga zini okusai akati wa buli luda	
+905	Iye, nituba nga tukoore oku kirowoozo kyabwe	
+906	Tukwendya oteseganye okuyimbulwa akati waiswe olwansonga iwe tokukoora gavumenti ate nga tetukwendya kiboneke nga egavumenti nizo zikuteseganya	
+907	Tebakwikiriza nti Abel mutuuze wabwe ate nga iswena tetukwikiriza nti East Germany yona nsi eyemeere okulwayo	
+908	Tukyali kwikiriza East Berlin nka ensi okuzwa weyafugiibwe Soviet omu 45	
+909	Ekikutegeza nkwaba kuba nka omutesegenya nga ninze akukikiira	
+910	Tokukikiira muntu yena	
+911	Iwe toli mukozi wa gavumenti	
+912	Tolina nsonga ya bukungu gyokwemeraku	
+913	Era iswena tukulowoza mbe	
+914	Kituufu	
+915	Ekikutegeza nti tolina kusubira buyambi bwona bwona nikiba nga ebintu bitabukire	
+916	CIA tekukuvunanwaku	
+917	Tetusobola kuswala	
+918	Bakwendya tuteseganyirize wa?	
+919	Eyo	
+920	Eyo?	
+921	Omu East Berlin	
+922	Aale, east berlin tekusisikala	
+923	Iye, ekifo kikwaba kisisikala	
+924	Iye, kikusisikala	
+925	Oluda lwa ba Soviet lwabire lukutaawo ebifo wakukeberwa emyezi egyakaire nga bakugezaku kulemesya abantu okwira omu Western naye tekikoore	
+926	Tulina obubaka bwa bukes nti bayinza okwomboka ekisenge oku kitundu kya eastern kyona kyona	
+927	Aale, nibyo omubufundi	
+928	Ekirowoozo kyona kyona kyaamu	
+929	okwetaaga obwiire okukitandika	
+930	Mbe	
+931	Mbe, tinkubwetaaga	
+932	Aale, kisai	
+933	Kisai	
+934	Kyaba kisai nti bini byona byona bya kyaama	
+935	Tokobera Mary oba omuntu owondi yena yena ku kini	
+936	Tukobere nka nebikwaba okuba nga bikutambula	
+937	Tukobere kyebakwendya okola na di lwebakukyendya	
+938	Nje tindina kasitoma, omukali oba ensi	
+939	Timaite kyenkukora oba di oba nkukoora ani	
+940	Okukikoora nsi yaamu naye ensi yaamu tekyali kukimanyaku	
+941	Ate okasitoma wange, omuntu owondi omu kibalo kini?	
+942	Omusaiza wange	
+943	Musaiza wamu	
+944	Okutegeeza omu Russia	
+945	Takyali musaiza wamu, Counselor	
+946	Omusaiza wamu niye Francis Gary Powers	
+947	Kiki kyenkobera Rudolf Abel?	
+948	Mukobe aleme kufa	
+949	Pulofesa?	
+950	Pulofesa?	
+951	oTaata yayabire oku University	
+952	Totekwa kuba ani	
+953	Balina okusoma olwaleero?	
+954	Yayabire kubona	
+955	Eyo nigyo ayaba	
+956	Okukola kiki ani	
+957	Naizire kusyoma iwe n’oTaata wamu	
+958	Olina okwiza twabe	
+959	Kiyinza okuba ekizibu okuwuluka emambya	
+960	Iwe	
+961	Yaba	
+962	Iyee	
+963	Iye iye	
+964	Ati buni	
+965	Irayo	
+966	Irayo	
+967	Nkwaba kuba kusai, nje ndi mu Merika	
+968	Yaba	
+969	Yaba ewa Taata wamu	
+970	Tukwiza kufuna engeri eyendi	
+971	Yaba	
+972	Okoba otyai	
+973	Okoba otyai	
+974	Ebiwandiiko byamu birai	
+975	You are a student Frederic Pryor	
+976	Iye, ndi student	
+977	Eibara lyange ninje Frederic Pryor	
+978	Ndi musomi wa Economics	
+979	Bona?	
+980	Eni niyo dissertation yange	
+981	Eni niyo thesis	
+982	Okubona?	
+983	Bona, bona	
+984	Bona ekusoma The foreign trade system of the European communist nations.	
+985	Huh?	
+986	Gwabaire mulimo mukooto	
+987	Eyo niyo copy yange yonkai	
+988	Mbe!	
+989	Nkobera ekintu	
+990	Kyaizire omu dakiika ekusembayo	
+991	Batta ne yoofiisi omu London	
+992	Aba kasitoma bani	
+993	Ekyo kirowoozo tti kyanje	
+994	Nkwaba Scotland oku mukolo gwa kutega encwi	
+995	Lugendo kikula k inga lwa kutega ncwi?	
+996	Okutega kwebeeta Salmon	
+997	Nje nkobera nti tokwaba kuba mu buzibu nti luno olugendo lukwaba kuba mbe lwa mirimo nzwe mu kwelalikiira	
+998	Nkwendya epasipooti yange	
+999	Nje nkobera ekintu ekinangumya	
+1000	Tinkufayo oba nga nigo mazima	
+1001	Kini nkukikoora iswe	
+1002	Mwami Michener, oni niye akwaba okusendekeerya e Berlin	
+1003	Akukoora kitebe kya U.S	
+1004	Ebintu ati buni bisisikaire	
+1005	Uh-huh	
+1006	Nga bwomaite ebbaluwa eyasembereyo okuzwa oku mukyala Abel, kyona kyona kyali, ekubaza oku munamateeka omu East Germany Mwami Vogel, kyona kyona kyali, nga niye akwaba okukikiira byakutaka	
+1007	Nikyo, Vogel akukoba nti yaabire oku kitebe kya Russia omu East Berlin era betekeretekere okuwanyisya Abel batuwe Powers	
+1008	Naye ndoowo amaite nani niye nani naye kyemaite nti bona bona ba Russia	
+1009	Ba Soviet	
+1010	Aale, tulowooze tutyo	
+1011	Okutegeza kiki	
+1012	Tusobola okutaaku ebbugumu ani?	
+1013	Walowo ekirowoozo	
+1014	Bayinza okugezyaku okubulyabulya	
+1015	Nga bakugezyaku okuweerya omusibe owondi nga tti niye Powers	
+1016	Nga mumerika?	
+1017	Abakuumi ba East Germany bakwaite omusomi omumerika	
+1018	Gwebeeta Frederic Pryor	
+1019	Omwoojo gwebayajirye oku luda olukyamu olwa kisenge	
+1020	Musomi eyamamare e diguli yamwei oku Yale	
+1021	Era yaizire ani kusoma bya kubaliliira mpiiya	
+1022	mmm-hmm	
+1023	Ati buni bakubaza kubya kuwozesya omwoojo oni nka ombega	
+1024	Omusango omukooto omuno	
+1025	Aale	
+1026	Vogel yatutukiriire nga akukoba nti akukikiriira Pryor	
+1027	Lindaku edakiika	
+1028	Vogel akukikiriira mukyala Abel n’o Mwana oni?	
+1029	Iye, alina ebyakola	
+1030	Aale, ati buni niye nani?	
+1031	Vogel akuzwa omu East German oba Russia?	
+1032	Aale, gezyaku okukitoleerya nga omwajirye	
+1033	Oku kitebe kya Russia omu East Berlin emambya	
+1034	Hoffman akwiza kulanga engeri gyoikayo	
+1035	Lindaku, okundanga engeri gyenyikayo?	
+1036	Nkwaba kuba nansendekeerya	
+1037	Nikyo?	
+1038	Aale, eyo nigyo pulaani naye nka nenakobere wayinza okubaawo akatego	
+1039	Tinkwaba kutwala	
+1040	Kimaare okusalwawo	
+1041	Ndoowo mukungu wa gavumenti ya U.S akwaba okusala ensalo okwikya nga batukobere	
+1042	Kikwiza kityai?	
+1043	Kikutiisya muno	
+1044	Iye, aba East Germany bakaite akoojo kani	
+1045	Ezo ngeso zibi muno zetubaire tetukusubira	
+1046	Ekibi kiri nti East Germany eyinza okuba etta n’ensonga zanjawulo okwawukanaku ne Russia	
+1047	Gezyaku okukimanya aale okole kyotekwa okola	
+1048	Era gezyaku okutaawo diiru	
+1049	Batuwerye Powers tubawerye Abel	
+1050	Ate oni omwana weisomelo, Pryor?	
+1051	mmm-mmm	
+1052	[NO TRANSLATION]	missing translation
+1053	Tusobola okumwiyayo olundi	
+1054	Powers niye nsonga eya maani	
+1055	Ekisenge kyamu kiri ayi?	
+1056	Nkwaba kuba oku Hilton	
+1057	Ampi	
+1058	Eni namba ani omu bugwa isana bwa Germany	
+1059	Gikwate omu mutwe gwamu aale oginyiriirye	
+1060	Mbe	
+1061	Nje	
+1062	Nkutegeeza ati buni	
+1063	Aba Soviet basigaire bakwiyaku enamba zabwei eza nsi yona yona naye eza munda ziriku	
+1064	Omuntu abaku ekiro n’emisana	
+1065	Ati, eni docket ekwaite oku pasipooti yamu ekwiza kuba e tiketi yamu okwingira n’okuwuluuka ekitundu kya buzwa isana ekya Soviet	
+1066	Okwaba kwajangana Vogel emambya ku saawa mukaaga	
+1067	Walowo enzira zidyooli muno eikwingirya omu East	
+1068	Okwaba kwakala omu S-Bahn, ekifo wetwakulangire nga tukwingira	
+1069	Okwiza kuzwelaku oku Friedrichstrasse ani aale otambule oyabe oku kitebe kya Soviet ani omu Unter den Linden	
+1070	Loleera a endagiriiro ati buni	
+1071	Toteekwa kugitwalangana	
+1072	Okuloleeta maapu, oli mbega wa America. Oli mukesi	
+1073	Weena basobola okukubwa	
+1074	Wewale okubaza n’abantu boyagya okutwaliza amwei	
+1075	Toli	
+1076	Toli waayo era tobesibaku	
+1077	Emmere gidyooli eyo n’ebintu bitandikire okusisikala	
+1078	Waloyo ebibinja ebibi nga n’amateeka ga kitundu tegakuwebwa kitiibwa	
+1079	N’ekindi, toba ampi nakisenge	
+1080	Oku luda lwabwei, walowo e layini ya bizimbe byebasisire ampi ne kisenge	
+1081	Bagyeeta line ya kufa	
+1082	Gyakalye aale bakwite	
+1083	walowo ekikusoboka nti tebankwaite kumbwa oba okunyita?	
+1084	Tewelalikiira muno oku Michener byeyakobere	
+1085	Mbe, neralikiire byokubaza	
+1086	Omwana oni Pryor eyakwatibwe aba German wa myaka zingai?	
+1087	Abiri naitanu	
+1088	Lwaki?	
+1089	Myaka nigyo gimwei ne Dougie	
+1090	Nani?	
+1091	Munywani wange gwenkola naye	
+1092	Frederic Pryor	
+1093	Aale	
+1094	Thank you	
+1095	Era tukwetonda kni nikiba nga kikwakalya kubi	
+1096	Uh	
+1097	Coat?	
+1098	Aale	
+1099	Okutegeera olujungu?	
+1100	Iye ssebo	
+1101	Ninje James Donovan	
+1102	Ndi ani okwajangana mwami Vogel	
+1103	Mwami Vogel	
+1104	Takukoora ani	
+1105	Nteekwa okumwaja mbe kyonkai	
+1106	Ekyo nikyo kyonkai kyemaite	
+1107	Mwami Donovan!	
+1108	Tumaare netukwagya	
+1109	Ninje Helen Abel	
+1110	Omusaiza waiswe akoba atyai?	
+1111	Oh	
+1112	Aliyo musai	
+1113	Omusaiza wange ali atyai?	
+1114	Aliyo musai muno nka newakukyenderye	
+1115	Era akusobola okutwiriira, nikyo?	
+1116	Oni muwala waiswe	
+1117	Okoba otyai?	
+1118	Lydia	
+1119	Niiwe mwami Vogel	
+1120	Mbe mbe	
+1121	Tininje Vogel	
+1122	Ninje Drews, owaluganda lwa Abel	
+1123	Oni niye waluganda wa Rudolf gwebeeta Drews	
+1124	Iye, ninje Drews	
+1125	Iye, ninje Drews	
+1126	Ninje Drews	
+1127	Ninje Helen Abel	
+1128	Okwaba kumubona di?	
+1129	Egavumenti yamu ekwaba kumutaisya di?	
+1130	Mbuuremu kadyooli ani	
+1131	Nteekwa kwajangana mwami Vogel	
+1132	Oh, mwami Vogel munamateeka waiswe	
+1133	Tubaire tutekwa okuteesa okuwanyisiganya	
+1134	Okuleeta Rudolf ani?	
+1135	Iye, okumuleeta ani	
+1136	Naye tekibaawo omungeri eyabuliizo, okukitegeera?	
+1137	Etekwa kuba mpanyisiganya	
+1138	Tti ani	
+1139	Shh	
+1140	Shh	
+1141	Shh	
+1142	Mwami Donovan	
+1143	Mwami Vogel	
+1144	Mbe	
+1145	Kikwewunyisya	
+1146	Eibara lyange ninje Schischkin	
+1147	Ivan Schischkin	
+1148	Ninje muwandiiki owakabiri oku kitebe kya Soviet	
+1149	Tekikwiza kuba kisai kya mwami Vogel okutweyungaku	
+1150	Munansi wa German	
+1151	Ekikutegeza weena tolowo	
+1152	Okutambulya olukiiko luni	
+1153	Mukyala Abel yakwenderye okwebazaku mu kyama	
+1154	Leka mwami Donovan nanje tubaze	
+1155	Webale	
+1156	Ati buni bintabwiire	
+1157	Iye	
+1158	Uh, nje tinkufaayo ku nani gwenkubaza naye nikiba nga nkubaza ku kuwanyisiganya bantu	
+1159	Niiwe muntu owakubaza naye?	
+1160	Iye, ninje	
+1161	Uh, tutekwa okwebaza	
+1162	Okusobola okwikaara ssebo Donovan	
+1163	Waikire otyai omu kitundu kya buzwa isana?	
+1164	Egaali ya mwiika	
+1165	Gyebeeta S-Bahn	
+1166	Ah, wabaire wenkai?	
+1167	Nikyo	
+1168	Era olina ebiwandiiko?	
+1169	Ati buni oteekwa okumanya ssebo	
+1170	Ndi muntu wa kyama	
+1171	Ndi munamateeka omu Brooklyn omu nsi ya Unite States era ntwaire akaseera oku bwiire bwange njune okasitoma wange	
+1172	Nawerebwe obuyinza okutegeka okuwanyisiganya kwa Abel no Gary Powers	
+1173	Kini nikyo kiwandiiko ekikutaisya Abel nitwaba nga tumaare okubawanyisiganya	
+1174	Eyo niyo ensonga yonkai lwaki ndi ani	
+1175	Nkusubira kini tukwaba kikola mangu	
+1176	Tukwaba baweerya Abel mutuweerye Gary Powers ne Frederic Pryor	
+1177	Iswe tetulina Pryor	
+1178	Mbe?	
+1179	Temuta naye?	
+1180	Nawulireku o Pryor naye ali na ba German, tali naiswe aba Union of Soviet Socialist Republics	
+1181	Ati buni nkwaba kukukobera ekizibu ekikwekeera	
+1182	Amabara ga nsi zaimwe ganyamulai muno	
+1183	Nikyo nikyo	
+1184	Netutaisya oPowers, kikwiza kutumbula mbe enkolangana akati wa mawanga gaiswe	
+1185	Ekikutegeeza tekisobola kuba kuwanyisiganya	
+1186	Naye	
+1187	Naye nywena musobola okutaisya o Abel aale nga emyezi gyakaire, iswena tusobola okutaisya Powers	
+1188	Ekyo nikyo kirowoozo kyaiswe	
+1189	Mbe	
+1190	Ekyo tekikwiza tukoora n’omulundi ogumwei	
+1191	Bona, tukwendya kuni kube kuwanyisiganya	
+1192	Kyeete kyona kyona kyokwendya naye kutekwa kuba kuwanyisiganya	
+1193	Tusobola okuba ne Abel omu saawa 48	
+1194	Tukwendya Powers omu kaseera kamwei ketukwaba okubaweryamu Abel	
+1195	Hmm	
+1196	Kini	
+1197	Kini tukyeete pulaanu etalumu bugumikiriza	
+1198	Aale, osobola okukyeeta kyona kyona kyokwendya	
+1199	Nkusobola okwikya epulaani yanywei etalumu bugumikiriza e Moscow	
+1200	Naye bakwaba kwewunya lwaki temuli bagumikiriza	
+1201	Olwansonga ntta n’ekifuba	
+1202	Era nje tinkuba Berlin era nkwendya kwira ekka	
+1203	Bakwiza kulowoza nti Abamerika bamaare irai okufuna obubaka bwona bwona Abel bwalina okubaweerya	
+1204	Ati buni bakuswanswabbira okumuwanyisya nga bakusubira okufuna omusaiza oni Powers akyagaine okutukobera amawuuro gona gona gatekwa okutuwerya	
+1205	Kuni okuwanyisya tikwabe kwa mazima	
+1206	Naye kyokukoba nti nikiba nga Powers yeena amaare okubaza buli kimwei kyamaite, aale tukwiza kuwanyisya	
+1207	Lwaki tebaikirize kuwanyisya	
+1208	Naye Abel namala afiirire omu kabuusu ka Amerika, ombega wa Russia owondi gwabakwata akwiza kwelalikiira obutabaza	
+1209	Oyinza obutakimanyaku	
+1210	Abel ayinza okwendya okubona eisana omulundi ogundi nasalawo okubaza ebyama bya Russia afune Abamerika byebamukobere	
+1211	Kini tuyinza kukimanya tutyai?	
+1212	Iswe abasaiza abadyooli tukole mirimo gyaiswe	
+1213	Nka Lieutenant Powers bwali omuvugi wa ndege	
+1214	Muvugi wa ndege kyonkai	
+1215	Abaire akuba bisani omu fuuti 70,000 gyebamukubiire omu bwengula	
+1216	Abantu ba nsi yange kini bakibona nka kikolwa kya lutalo	
+1217	Tutekwa okuzwa mu bini ebyamuzenyo ssebo	
+1218	Ensobi ekwiraku ensi zaiswe zegikola eyinza okuba niyo ekusembayo	
+1219	Tutekwa okubaza oku bintu ensi zaiswe byezitasobole kubazaki	
+1220	Nkwiza kusaba Moscow	
+1221	Ndoowo amaite kyebabaza	
+1222	Walowo abantu baingi mwami Donovan abaakwendya kuwanyisya kuni kwabe omumaiso	
+1223	Osobola okwira emambya obairemu ebibuuzo?	
+1224	Okuwanyisya Powers no Abel	
+1225	N’o Frederic Pryor	
+1226	Nka ninakobere Pryor ali mumikono gya bitongole Bya byakwerinda ebya German Democratic Republic	
+1227	Nkukwikirizamu nti okusobola okola entegeka	
+1228	Nje ndi muwandiiki kyonkai omu kitebe kya nsi yanzai	
+1229	Aale aale	
+1230	Oteekwa okubona mwami Vogel	
+1231	Nkwiza kuweerya endagiriiro yamwei	
+1232	Waloyo gwebeeta mwami Vogel?	
+1233	Lwaki oba okwewunya?	
+1234	Lugendo lumpi	
+1235	Nkukusaba mwami Donovan ozwaale e overcoat omu mbeera yabwiire eni	
+1236	Eyange baginyibireku	
+1237	Kiki kyokusubira?	
+1238	Twabaire ku Saks Fifth Avenue	
+1239	Tinikyo?	
+1240	Mwami Donovan	
+1241	Mwami Vogel	
+1242	Osobola okwingira	
+1243	Weebale	
+1244	Tusonyiwe kubya kitebe	
+1245	Naye aba Soviet basarewo baleme kunkyaza	
+1246	Kukuwulikika kubi muno	
+1247	Naye nkyagezaku kufuna buli luda	
+1248	Embeera gyelulumu	
+1249	Iyee	
+1250	Nakiki kyebakwendya omu bikwaba omumaiso	
+1251	Oh	
+1252	Eni ensi giyaaka	
+1253	Buli kimwei kyakavuyo, tinikyo?	
+1254	Kankukobere kyenkwaba okuweryayo	
+1255	Nje ndi munywani omusai	
+1256	Munywani	
+1257	Mbe, mukaire	
+1258	Akuwagirwa?	
+1259	Attorney General wa German Democratic Republic	
+1260	Ikaara ansi ssebo	
+1261	Kini kibi Frederich Pryor yabaire omu kifo ekikyamu omu kaire akakyamu	
+1262	Naye buli kabenje akabaawo n’oketegya kusai, guba mukisa, mwami Donovan?	
+1263	Nikyo	
+1264	Ensi yaamu yagaine okwikiriza ensi ya German Democratic Republic	
+1265	Ekwendya mbe buli kaseera kubaza nti GDR telowo, okugeza	
+1266	Kibi	
+1267	Omu ngeri eya kukaka ensi yanywei okwikiriza kini ekifo mwooli esaawa eni gyebeeta GDR, Attorney General musanyuki okuteseganya naawe nka akikiriire egavumenti yaamu Okwira kwa Pryor	
+1268	Mwami Vogel, nje tindi ani nga akikiriire egavumenti yange	
+1269	Aale	
+1270	Nkulowooza ebyo bya kyana kito mwami Donovan	
+1271	Aale, nje	
+1272	Tindi mukungu omu mbeera yona yona	
+1273	Kisai	
+1274	Iwe tokukikiira USA, nje tinkukikiira GDR	
+1275	Okasitoma wanje niye Lydia Abel, mukali wa Rudolf	
+1276	Era	
+1277	Lydia niye mwaala	
+1278	Hellen niye mukali	
+1279	Aale	
+1280	Netegekere okuwa Okuwanyisya kwa Frederic Pryor nga otuweerya Rudolf Abel	
+1281	Ati tube banjulukuki	
+1282	Tukwiza kuleeta Rudolf Abel	
+1283	Nywena muleete omusomi Pryor omu kaseera niko kamwei	
+1284	Omu kaseera ke kamwei?	
+1285	Nikyo	
+1286	Okuwanyisya nga kuli nti mukutuweerya omu Russia akumaliirya obwoomi bwamwei iswena tubaweerye omusomi akutandika obwoomi bwamwei	
+1287	Schischkin?	
+1288	Oyo tti muwandiiki wa kitebe kya iwanga	
+1289	Ivan Schischkin niye mukulu wa KGB omu western Europe	
+1290	Aale, kyona kyona kyeyaba, akwikya okusaba kwaiswe omu Moscow aale basalewo	
+1291	Nkusobola okweyazikaku ekooti?	
+1292	Nabuulye eyange	
+1293	Ekooti yamu wagibuurye otyai?	
+1294	Omaite ebya bukesi	
+1295	Nkwiza okuweerya eooti eyendi	
+1296	Kisai, olwansonga	
+1297	Ati nani O Vogel niye nani?	
+1298	Tetumumaite	
+1299	Ayinza okuba kyewakobere nti nikyo ali	
+1300	Munywani wa Attorney General	
+1301	Musaiza wa buliizo GDR gweyalondere okutambulya bini	
+1302	Kikuwulikika nkka aba East Germany abakulwanira ekifo oku meeza yaiswe	
+1303	GDR nemala efunire Abel kulwa ba Russia, bakwiza kufuna ekitiibwa kya ba Russia	
+1304	Era baba bakwiza kuba oku mitwe gya mawuuro	
+1305	Nga kini kikwisa East Germany oku maapu	
+1306	Naye iswe tetukufaayo oku maapu yabwei	
+1307	Tuleme kutaisya ba Russia	
+1308	Tulemere oku ba Russia	
+1309	Batuweerye Powers tubaweerye Abel	
+1310	Bini byona byona bikutegeeza kini kiyinza okubaawo?	
+1311	Iye, ekyo nikyo okugezaaku okunkobera	
+1312	Tukwaba kuta Abel kundege, akwiza kwika ani ku lwakataanu	
+1313	Schischkin niyaba nga aikirizibwe, tukwiza kuba nga tusigairye kuleeta bantu betukwaba okuwanyisya	
+1314	Engeri gyetuwanyisyamu omusaiza wabwei n’owaiswe	
+1315	Abasaiza baiswe,	
+1316	basaiza babiri	
+1317	Powers n’o Pryor	
+1318	Mbe, ati tontaaku muliro	
+1319	Powers niye wa nkizo	
+1320	Werabire omwoojo oni eyalowoize nti kyali kirowoozo kisai okusoma ebyembaliliira ya Soviet omu Berlin akati wa lutalo lwa bigambo	
+1321	Powers niye gwetukwendya	
+1322	Tumukwendya Powers	
+1323	Buli munti takwendya Powers	
+1324	Yaganire okweita era yaikiriize okuteebwa oku Tv yaba Commies	
+1325	Niye musaiza akusinga obutendebwa omu Amerika	
+1326	Nga oireku Rudolf Abel	
+1327	Nanje	
+1328	Ati ziikuka!	
+1329	Nkutaka kubasya	
+1330	Nkutaka mbe kubasya	
+1331	Nakukobere okwiza kubasya nga tumaare okubaza byetwendya okubaza	
+1332	Muteekwa okunfaaku	
+1333	Egavumenti yamu tekufaaku	
+1334	Ekyo okimaite	
+1335	oku ninywei	
+1336	Akimaite nti abavugi ba ndege aba U-2 balina ekikyamu oku mutwei?	
+1337	Bakutwalibwa nka nva ndiirwa olwansonga nti bakuvugira aiguru nga ndooyo oxygen akumala	
+1338	Naye babakoba basigale nga bakuvuga	
+1339	Iwe nebanywani bamu	
+1340	Babaweerye kini	
+1341	Ekinusu, nikyo?	
+1342	Potassium Cyanide	
+1343	Ekyo kikuboneka nkka abakukufaaku?	
+1344	E destructor Unit bagikoore muki?	
+1345	Unit eyo bagitambulya batyai?	
+1346	Unit bagikoore mu byakulwanyisya ki era esobola okukosa kikwenkana ki?	
+1347	Timaite	
+1348	Abavugi bandage tebabalangire kintu kyon kyona	
+1349	Bukooto ki e radar bwekusobola okubona obwa kifo nga endege evugire ebbanga?	
+1350	Timaite, timaite!	
+1351	Wali ovugire muno oku naku za mwezi mwendai omwezi gwa kanai omu kifo kya Industrial Area n’oku Bomber base e Baranovichi?	
+1352	Mbe	
+1353	Ogwo nigwo gwali mulundi gwange ogwekeere okuvuga endege aria	
+1354	Nkwendya kumanya oku engine out glide ratio	
+1355	Engeri endege gyeyabamu aiguru omuno	
+1356	Tumaite nti ekwika obunyamulai bwa fuuti 70,000	
+1357	Gary, ekyo tukimaite	
+1358	Era nkwendya kumanya endege gyezabire okuvugira	
+1359	Gyebazwa okuvugira, Gary	
+1360	Era tuteekwa okubaza oku nsonga eni ati	
+1361	Ati	
+1362	Aale tukuleke obasyemu kadyooli	
+1363	Ssebo, imuka	
+1364	Imuka ssebo	
+1365	Ssebo, osobola okwiza nanje?	
+1366	Iyee	
+1367	Tuteekwa okutambula	
+1368	Iye, kituufu	
+1369	Osobola okwiza nange?	
+1370	Iyee	
+1371	Aale	
+1372	Ofunire egalubindi zaamu?	
+1373	Uh huh	
+1374	Sawa imekai?	
+1375	Za bwiire naye tuteekwa okubaza aale tuniine endege, okunfuna?	
+1376	Iyee	
+1377	Iyee	
+1378	Upsy-daisy!	
+1379	Upsy-daisy!	
+1380	Ekyo kituufu	
+1381	Twabe	
+1382	Gitwale omumaiso	
+1383	Webale	
+1384	Oluda olundi, oluda olundi	
+1385	Twabe	
+1386	Okukoba ndege?	
+1387	Oluda luni	
+1388	Sigala nga okwaba	
+1389	Nafunire okusalawo okusai okuzwa e Moscow okukusaba kwamu nti tujuneku oku banywani baiswe abe German omu kuwanyisya Mwami Powers n’omwami Abel	
+1390	Ekyo kisai	
+1391	Nsobola okusaba okuwanyisya tukukoore oku Glienicke Bridge?	
+1392	Lwaki tetukukoora oku Checkpoint Charlie?	
+1393	Tetukuswagana bya ikumbe?	
+1394	Olutindo lwa Glienicke lusirifu muno okusinga omu saawa za kabbwibbwi	
+1395	Olutindo lwa Glienicke	
+1396	Ekyo nkwaba kukikobera oluda lwaiswe	
+1397	Tusobola okuba n’Abel ani oku lwakataanu	
+1398	Ekikutegeeza ku lwamukaaga omu saawa za kabbwibbwi, nikyo?	
+1399	Buli kaseera temuta na bugumikiriza?	
+1400	Nkwendya kwira ekka mbasye	
+1401	Ekikutegeeza ku lwamukaaga omu saawa za kabbwibbwi?	
+1402	Saawa ikumi n’emwei n’akitundu?	
+1403	Aale	
+1404	Bini tubimaare	
+1405	Eni niyo namba nikiba nga walowo ekikyukire	
+1406	Aale	
+1407	Omuntu abaku okwiramu saawa zona zona	
+1408	Tinkusubira kugikolesya	
+1409	Tusanyukire entekateeka zini?	
+1410	Nga lwaki tetukukisanyukira	
+1411	Armenian Brandy	
+1412	Gisai muno okuwonya senyiga waamu	
+1413	Weebale	
+1414	Okufaayo singa..	
+1415	bini tebikukwata oku bizinensi naye nkwendya okubuulya ebizuuzo ebimwei	
+1416	Toteekwa kwiramu	
+1417	Nkwiza kwiramu kyemaite	
+1418	Nkwendya omusaiza oni, omusaiza wamu	
+1419	Kiki ekikwiza okuba okumusaiza wamu nga aire ekka?	
+1420	Aale, tuteekwa okutoleerya tumanye nti omusaiza waiswe teyafuukire musaiza wanywei	
+1421	Ati, namaare irai okukobera nti omusaiza wanywei yekwaite nkka mukungu	
+1422	Akyali musaiza wanywei, nyikiririzamu	
+1423	Era wabazire otyo oba bituufu oba ti bituufu	
+1424	Nkulowooza kiikire awo nti	
+1425	Aale, nsonyiwa okubuulya naye yaba omu buzibu bwona bwona nikiba nga okusalawo kukoleibwe?	
+1426	Aale,	
+1427	Nka ebintu bwebyemere ati buni, buli omwei ali mu buzibu	
+1428	Gyaganya	
+1429	Na zdorovie	
+1430	Tewakwaba kubaawo kuwanyisya kwona kwona oku lutindo lwa Glienicke	
+1431	Nsinyiwamu ssebo	
+1432	Tewakwaba kubaawo kuwanyisya	
+1433	Okwa Frederic Pryor	
+1434	Mwami Vogel, nalowoize nti eiso twaikiriziganyire	
+1435	Twaikiriziganyire okuwanyisya Abel n’oPryor	
+1436	Ati nkitegeire nti oli musubuzi akugezyaku okutunda omuntu omwei nga okumuguza ba kasitoma babiri	
+1437	Iswe okutuguza Pryor tukuweerye Abel	
+1438	Iyee	
+1439	Ate nga aba Soviet okubaguza Abel bakuweerye Powers	
+1440	Tinkukakasa obuzibu gyebuba nikiba nga entegeka ekujuna abantu aabanjawulo oba babiri oba basatu oba banai	
+1441	Kikola njawulo ki?	
+1442	Entegeka tekwikusa luda	
+1443	Ati, mwami Vogel	
+1444	Kikuboneka tomaite nani gwokukola naye	
+1445	Kini nikyo kikwendyebwa German Democratic Republic	
+1446	Ekwendya mukole nayo era nayo ebonebwe nga ekuteesa n’ensi eyendi eyamaani gyebeeta United States	
+1447	Bwezikwenkana amaani	
+1448	Naye inywe mukutwakalya nka abakuba ansi wa Union of Soviet Socialist Republics	
+1449	Tusobola okubeeta aba Russia?	
+1450	Kikwiza kwanguya obwiire	
+1451	Ndowo n’olukiiko ssebo	
+1452	Nkulowooza nti niwe akumala obwiire	
+1453	Ati buni nkobera nekiba nga kini nkukibona nka ekibi	
+1454	Mulina omwana omusomi oku Yunivasite, omuntu gwemumaite nti si mbega, omuntu atakubatinisirya	
+1455	Naye omukuwanyisya omuntu oni gwemutakutaka, mukuzenya omulimo ogukwenkankanai omu kuwanyisya Aba Russia n’abamerika	
+1456	Era kuni kuwanyisiganya akati waiswe nanywei ababiri	
+1457	Tetukugezyaku kukola bintu bibiri ani ssebo	
+1458	Tukukola kintu kimwei	
+1459	Kimwei, kimwei	
+1460	Kikunkalubiira nga nkubona engeri ensi ya Republic of East German gyekwakalibwamu amaiso omunsnga zini	
+1461	Mwasarewo n’aba Soviet nga temumaare kunebulyaku	
+1462	Kuni kuwanyisya oba kulwana?	
+1463	Nikuba nga kubaire kulwana, singa wafunire irai obulumi ssebo	
+1464	Wani walowo byanfuna byonkai	
+1465	Twakazwa omu kubaza byetukwendya	
+1466	Mbe, nywe mukusalawo nga balina kwikiriza	
+1467	Ebbaluwa yaamu ekweeya erai ssebo?	
+1468	Omu West	
+1469	Ku'damm	
+1470	Kisai	
+1471	Loleera enzai wamu	
+1472	Ekitundu kya Eastern kyegerageranya kityai ne kya West	
+1473	Hmm?	
+1474	Abanywani baiswe aba Russia baasarewo nti tetutekwa kwomboka kibuga kyaiswe omulundi ogundi	
+1475	Naye tukuba omu mbeera eni egibi eyaletebwe banywani baiswe aba Russia	
+1476	Yaba omumaiso, muteseganye na ba Russia bani	
+1477	Tetukwiza kubyetabamu	
+1478	Ndoowo kuteseganya kutalumu Pryor	
+1479	Tetukwaba kumuleka ani	
+1480	Kini niiwe akukyendya oba egavumenti yamu?	
+1481	Ssebo, ninje ali ani	
+1482	Ninje akubaza naawe	
+1483	Naye tokukikiira gavumenti yaamu	
+1484	Tomaite kyoli	
+1485	Iswena tetumaite	
+1486	Oteekwa okwegendereza	
+1487	Eni tebakwetayo Brooklyn, mwami Donovan	
+1488	Bona ssebo	
+1489	Oteekwa okukimanya nti mu buli nsonga ekwetagisya Ninje akukikiira egavumenti yange	
+1490	Omaite ninje nani	
+1491	Nkimaite?	
+1492	Uh oh	
+1493	Olina empapulwa ezikwetagisya?	
+1494	Mbe	
+1495	Tezikwetagisya	
+1496	Omuwoleerya wa Amerika nka iwe asobola okubaza nawangula embeera yona yona	
+1497	Tosobola?	
+1498	Kwaba naye	
+1499	Lwaki	
+1500	Ensonga ya passipooti	
+1501	Kiki	
+1502	Kizibu ki?	
+1503	Kizibu ki?	
+1504	Yaba naye	
+1505	Era nkwendya oizukire nti niiswe abakusalawo oku bwoomi bwa Frederic Pryor	
+1506	Kanca wange	
+1507	Aale, nkwiza kutandika ne Kaawa	
+1508	Aale nkwiza kwiryaku Hilton Combo aale nsembyeyo ekyankya ka bamerika	
+1509	N’oCoffee	
+1510	Byona byona byankyai?	
+1511	Iyee	
+1512	Kimwei kimwei oba	
+1513	Byona byona	
+1514	Nibiba nga biyiire	
+1515	N’oCoffee	
+1516	Hmm	
+1517	Toteekwa kuba ani	
+1518	Aale, obwiire obumwei omu Germany wesanga nga okwendya kulya ekyankya ekikooto ekya bamerika	
+1519	Kiki ekyabairewo	
+1520	Wabaire ayi ekiro kyaizo?	
+1521	Vogel yantegekere okumala akaseera akamwei omu East	
+1522	Oh, kanca!	
+1523	Omumazima, ti kibi muno okusingaku nga oli nanje ani omu west	
+1524	Aba Russia baikiirize okuwanyisya naye Vogel akukoba nti aba East German tebakwiza kukikola	
+1525	Tetukwaba kufuna Pryor	
+1526	Kisai	
+1527	Aba soviet betegekere	
+1528	Tufune Powers	
+1529	Tufune Powers	
+1530	Webale	
+1531	Mbe, aba East German tebakwiza kukikola	
+1532	Tetukwiza kufuna Pryors ate nga omwoojo oyo akwetagisya	
+1533	Buli muntu akwetagisya	
+1534	Nikyo, nigyo nsonga lwaki wagezereku	
+1535	Niyo nsonga lwaki wagezereku	
+1536	Abel ali mu nzira, iswena iswena twetegekere lwa mambya	
+1537	Lindaku kadyooli	
+1538	Kikwanguya ebintu	
+1539	Kikwanguya ebintu	
+1540	Tetukwaba kufuna mwana	
+1541	Nkukitegeera	
+1542	Twetegekere	
+1543	Tusobola okwewala obubaka bwetufunire kabbwibbwi ka lwaleero	
+1544	Bubaka ki?	
+1545	Okuzwa omu ba East German	
+1546	Bakubire enamba ya ssimu gyenakuwaire	
+1547	Nga bakukoba nti bakwendya kubaza naawe olwaleero	
+1548	Vogel niye yakubire?	
+1549	Mbe	
+1550	Yoofiisi ya Harald Ott Attorney General wa East German	
+1551	Nga akwendya kiki?	
+1552	Akwendya kiki	
+1553	Aale, okubaza naawe	
+1554	Naye kisai, tinkusobola kukusaba kwirayo eyo	
+1555	Ate wuliirya, oboneka okuba omuntu	
+1556	Ekikutegeza akwendya kumbona	
+1557	Bwiire ki?	
+1558	Mbe	
+1559	Ati mpuliirya	
+1560	Tokwetagisya kwabayo	
+1561	Amazima, toteekwa kwabayo	
+1562	Amazima, tosobola kwabayo	
+1563	Twaasarewo irai na ba Russia	
+1564	Tetukwendya kubyonoona	
+1565	Tinkwaba kubyonoona	
+1566	Tokwaba kubyonoona	
+1567	Toba bulumi okwi tako	
+1568	Oh, natumire	
+1569	Woomerwa ekiibulo kyamu ekya mambya ekya bamerika	
+1570	Nalowozere nti tekikwiza kutesebwaku omungeri eya mitendera zaigulu	
+1571	Nkukwebalya ssebo	
+1572	Timaite engeri ebintu gyebyaizire okusisikala	
+1573	Nkulowooza akaseera akamwei ebintu bimala gasisikala	
+1574	Olwa nsonga ya mazima n’obwanzulukuki Nkukoba twetegekere muno okuwanyisya omusomi Pryor mutuweerye Abel	
+1575	Nkukitegeera okuzwa ewa mwami Vogel nti Pryor wamugaso gyemuli	
+1576	Nikyo, naye	
+1577	Tukwiza kukola enyinduka omunsonga eyo	
+1578	Oh, enyinduka	
+1579	Naye iswena iswena tuli ani kulwa kuwanyisya	
+1580	Nikyo	
+1581	Tinkukakasa ekyo kyekikutegeza naye	
+1582	Ensi yaiswe yona ekwendya Francis Gary Powers	
+1583	Mbe!	
+1584	Eyo nigyo engeri ebintu gyebikubuzabuza	
+1585	Powers	
+1586	Wamugaso ki, ssebo?	
+1587	Mukumwendya abairiire olwansonga za bukesi	
+1588	Ekiba kikoleibwe kiba kikoleibwe	
+1589	Akoore byakoore nka Abel yeena bweyakoore	
+1590	Naye tukukuweerya omuntu gwokukoba nti talina musango	
+1591	Era kini kituufu	
+1592	Oni niye gwemuteekwa okwiyayo	
+1593	Owa biseera bya mumaiso	
+1594	Loleera ebiseera bya mumaiso	
+1595	Ott	
+1596	Ott	
+1597	Nsonyiwa	
+1598	N’oba nga okusobola okumperyayo akaire ssebo	
+1599	Wansonyiwa ssebo	
+1600	Attorney General akwetonda nti abaire ateekwa okwaba olwansonga eza mangu eza bizinensi	
+1601	Yayabire?	
+1602	Iyee	
+1603	Akwetonda muno	
+1604	Mbaire nindire okwakalya esaawa	
+1605	Tusonyiwe ssebo	
+1606	Mwoojo muto	
+1607	Iza ani	
+1608	Buli kimwei kisai	
+1609	Iza ani	
+1610	Uh	
+1611	Ikaara omuntebe	
+1612	Oh, weena	
+1613	Ikaara ansi	
+1614	Okwendya omulimo gwamu ani?	
+1615	Mulimo gusai muno ssebo	
+1616	Guteekwa okuba ogusai	
+1617	Guteekwa okuba gukunyuma	
+1618	Iyee ssebo	
+1619	Era gwamugaso	
+1620	N’olujungu lwamu Lusai	
+1621	Iyee, tinkwewala kukoba nti lusi muno	
+1622	Lusai muno ssebo	
+1623	Kisai, kisai	
+1624	Kisai	
+1625	Bona, nabuurweku omuntu gwenbaire nkuteesa naye era nkwetaaga omuntu owakubaza naye era okuboneka nkka omusaiza omuto owamagezi	
+1626	Nsobola okubaza naawe?	
+1627	Uh	
+1628	Kisai	
+1629	Kisai	
+1630	Nkwetaaga	
+1631	Nkwetaaga oweerye mukama wamu obubaka	
+1632	Naye buteekwa okuba nga bulambulukuki kusai	
+1633	Okukitegeera?	
+1634	Iyee ssebo	
+1635	Naye okwaba kulinda paka nga	
+1636	Mbe	
+1637	Ekintu kiri nti, nafunire senyiga oni era nkwetaaga kkwira ekka mbasye mukitabo	
+1638	Osobola okumuweerya obubaka?	
+1639	Iyee	
+1640	Aale, obubaka nibwo buni	
+1641	Ndoowo kuwanyisya Abel okwiyaku nga batuweerya Powers n’oPryor	
+1642	Okukitegeera?	
+1643	Iye ssebo	
+1644	Tutegekere omu kabbwibbwi ka mambya	
+1645	Tekikwiza kubaawo okwiyaku nga tufunire abasaiza babiri	
+1646	Abasaiza abo ababiri	
+1647	Babiri, babiri	
+1648	Iye ssebo	
+1649	Niwaba nga ndoowo ntekateeka, mukama wamu ateekwa okukobera aba Soviet	
+1650	Ateekwa okukobera aba  Soviet nti tebakwiza kufuna Rudolf Abel	
+1651	Ale ssebo	
+1652	Oh, era mukobere kini	
+1653	Nti ati, Abel abaire mujaasi musai naye akulowooza akwaba ekka	
+1654	Nituba nga twetaaga okumukoba nti takwaba ekka, nti aba Soviet tebakumwendya era nti takwaba ekka	
+1655	Nkusuubira embeera zamwei zikwiza kwinduka	
+1656	Ate nani gwakwiza okunenya?	
+1657	Obwo obubaka bunyamulai	
+1658	Obufunire bwona bwona?	
+1659	Iye ssebo	
+1660	Mbufunire	
+1661	Kisai	
+1662	Oli musaiza musai	
+1663	Oh	
+1664	Era mukobe nti ndoowo diiru okwiyaku nga tuwuliirye okuzwa gyali nga olunaku lwa lweero lukyali kuwaku	
+1665	Alina enamba	
+1666	Okuwanyisya nukiba nga tekwabeewo, ndoowo nsonga lwaki twazukuka emmambya omu kabbwibbwi	
+1667	Mbe ssebo, ekyo tekyabe kya mugaso	
+1668	Okuzenya nanje!	
+1669	Okuzenya nanje!	
+1670	Mbe	
+1671	Nkwetaaga okukyusa	
+1672	Ekyo nikyo kyewabaire toteekwa kukola	
+1673	Ebiragiro byange byabaire bya kuzwa omu mbeera eni	
+1674	Ebiragiro byamu byabaire bya kufuna Powers, tti Pryors	
+1675	Naye omunteseganya eyasookere tinimwo kyabaire	
+1676	Wabikyankalanirye!	
+1677	Okimaite otyai?	
+1678	Nje nkuwuura kusai nkka n’ebiri	
+1679	Wabyononere byona byona	
+1680	Oh, tokweralikiira	
+1681	Nkulowooza bikwaba kuba bisai	
+1682	Okimaite otyai?	
+1683	Ekyo tokimaite?	
+1684	United States	
+1685	New York	
+1686	Webale	
+1687	Bona, enteseganya zini zona zona zibaire zakyuntwaala nzai	
+1688	Nkusobola okuwanyisya omwei ate nani?	
+1689	Naye nakigaine, nakobere okutuweerya babiri tukuweerye omwei	
+1690	Ekikutegeza bamaite kyetukwendya	
+1691	Iye, watya nibakilowozaku nibakoba nti	
+1692	Ekyo kyelabire!	
+1693	Mukuume omusaiza waiswe iswena tukuume abasaiza banywei	
+1694	Aale, awo byona byona mbisisikairye	
+1695	Hallo Owamukwano	
+1696	Ninje	
+1697	Iyee	
+1698	Okukwata kwabire kusai	
+1699	Ndi London omu lukiiko olundi lumwei aale nyire ekka	
+1700	Aale, okwizukira marmalade eyo	
+1701	Niryo iduuka eririraine Regents park	
+1702	Aale, nkwiza kwabayo ninaba n’obwiire	
+1703	Nkusobola okulamuca oku Roger?	
+1704	Nkusobola okulamuca oku baala?	
+1705	Walowo omuntu yena yena atalina kyakukola?	
+1706	Bakitegeire nti tindowo?	
+1707	tuluku	
+1708	Babiri ku omwei	
+1709	Hot dog	
+1710	Tufune ekyakunywa	
+1711	Ensonga egaine eri emwei	
+1712	Niyo kiki?	
+1713	tebakwiza kutaisya Pryor n’oPowers, ti ku lutindo	
+1714	Bakwiza kumutaisya omu kaseera niko kamwei	
+1715	Aba Russia nibamala batuwaire Powers oku lutindo, bakwiza kutuweerya Pryor oku Checkpoint Charlie	
+1716	Ekyo kikutegeeza ki?	
+1717	Nkulowooza kikutegeeza, tukutaka kufuna kigambo ekikusembayo.	
+1718	Nay bakwiza kukikola	
+1719	Nkobera	
+1720	Wabawuliire	
+1721	Balayi?	
+1722	Omusaiza waiswe alayi?	
+1723	Omusaiza waiswe alayi?	
+1724	Balwiirewo	
+1725	Ndoowo alwiirewo	
+1726	Twiikire mangu	
+1727	Nkusobola?	
+1728	Iyee	
+1729	Hoffman	
+1730	Iyee	
+1731	Nkulowooza balina	
+1732	Kiki?...	
+1733	ba sniper	
+1734	Nkukikakasa balina aba sniper	
+1735	Okukikakasa otyai nti bali nabo?	
+1736	Olwansonga tulina aba Sniper	
+1737	Wuluka enzai	
+1738	Jim	
+1739	Jim	
+1740	Okoba otyai?	
+1741	Nsanyukire okubona	
+1742	Bini byona byona obitegekere ninje?	
+1743	Aale katubone bini biki nga nkyali Kubyebalya	
+1744	Walowo obubaka bwona bwona obukwata oku Pryor okuzwa oku Checkpoint Charlie?	
+1745	Ndoowo kikwaba omumaiso ati	
+1746	Nsonyiwamu ssebo	
+1747	Oni niye Lieutenant Joe Murphy okuzwa omu United States Air Force nga aizire ani kubona Powers oba niye	
+1748	Lieutenant Murphy	
+1749	Ssebo	
+1750	Wayinza okubaawo okubulyabulya okudyooli	
+1751	Nali mwana muto wenayabire	
+1752	Nani akwiza okukakasa oba ninje omutuufu?	
+1753	Nkulowooza tebakwiza kuba aba maka gaamu aba East German	
+1754	Nkubusabusa nti basobola okumanyangana	
+1755	Gukuboneka nka mukolo gwaiswe	
+1756	Aale twabe	
+1757	Osobola okusigala ani Donovan	
+1758	Kiyinza obutasoboka	
+1759	Igulawo omulyango	
+1760	Kiki kyokulowooza ekyabaawo nga oikire ekka?	
+1761	Uh, nkulowooza	
+1762	Nkwiza kunywa Vodka	
+1763	Iyee	
+1764	Iyee	
+1765	Naye Rudolf ndoowo kirowozo nti kikusoboka	
+1766	Abantu baamu okukwita?	
+1767	Iyee	
+1768	Totiinire?	
+1769	Kyayamba nga ntiinire?	
+1770	Okwiramu ekibuuzo kyamu munywani wange Neyakairye kusai	
+1771	Nkulowooza ekyo bakimaite	
+1772	Naye obundi abantu balowooza kubi	
+1773	Abantu bantu	
+1774	Katubone engeri gyebakwaba okunamukya	
+1775	Kiki kyemba nkutoolya?	
+1776	Nikiba nga bansanyukire oba nga bandangire entebe ya mabega	
+1777	[NO TRANSLATION]	missing translation
+1778	Iyaku enkofiira eyo	
+1779	Powers oliyo	
+1780	Ndiyo Murph	
+1781	Iye, oyo niye Powers	
+1782	Aale ssebo Donovan	
+1783	Ati buni twaabe	
+1784	Lindaku	
+1785	nyikiririzamu, nkwiza kukobera	
+1786	Ani ndoowo muntu yena yena	
+1787	Bakutaisya muntu owondi oku Checkpoint Charlie	
+1788	Tukukakasa nti aliyo	
+1789	Ati!	
+1790	Nka bwetwategekere, nimwaba	
+1791	Twaabe	
+1792	Pryor akwiza kuboneka oba tiyaboneke	
+1793	Twaabe	
+1794	Bakulindaku kutubona oba tusobola okwaaba nga taluku	
+1795	Tuteekwa kwemeera ani okubalanga nti ndoowo gyetukwaba	
+1796	Nje tinkufaayo kukyebakwendya	
+1797	Tulina kyetukwendya	
+1798	Yaba omumaiso Abel	
+1799	Yaba omumaiso ssebo	
+1800	Osobola okwaaba	
+1801	Neba nga tiniyo pulaani, twaabe ekka	
+1802	Tuwanyisye ati oba twaabe ekka!	
+1803	Okulinda musaiza wondi?	
+1804	Iyee	
+1805	Yeena okumwendya?	
+1806	Nkumwendya	
+1807	Tutukufaayo kukyakwendya ssebo	
+1808	Ninje akujunaanwaku era okusobola okwaaba	
+1809	Yaba ssebo	
+1810	Yaba osale	
+1811	Nkusobola okulinda	
+1812	Kintu	
+1813	Nkyali kukikakasa	
+1814	Lindaku!	
+1815	Twaabe	
+1816	Tumufunire!	
+1817	Uh	
+1818	Nakusindikire ekirabo Jim	
+1819	[NO TRANSLATION]	missing translation
+1820	Kisiige	
+1821	Nkusiibira kiiza kuba kyamugaso gyoli	
+1822	Nsonyiwa	
+1823	Tyalowoize kuweerya kirabo	
+1824	Kini kirabo kyamu	
+1825	Kini kirabo kyamu	
+1826	Oli kusai?	
+1827	Twaabe, twaabe	
+1828	Mwami Donovan	
+1829	Colonel Abel yankobere nkuweerye kini	
+1830	Sooka onkobere ssebo	
+1831	Niiwe ewabaire omukulu omu kintu kini?	
+1832	Iyee	
+1833	Ati nteekwa okwebalya	
+1834	Nteekwa okwebalya omuntu omwei	
+1835	Ndoowo kyenamuwaire	
+1836	Ndoowo kyenamuwaire	
+1837	Tekikwetagisya	
+1838	Ebirowoozo bya bantu tobifaaku	
+1839	Omaite kyewakoore	
+1840	Webale kwira ekka	
+1841	Olubaire lugendo	
+1842	Mmm	
+1843	Mmm	
+1844	Oli musai?	
+1845	Iyee, ndi musai	
+1846	Wafunire marmalade?	
+1847	Iyee	
+1848	Iye	
+1849	Iye	
+1850	Nagifunire	
+1851	Nka bwewantumire	
+1852	Jim	
+1853	eni wagiguure ku Arno	
+1854	Ekikutegeeza?	
+1855	Ani okunsonda	
+1856	Aale, owamukwano nabaire nemirumo zingi	
+1857	Wansonyiwa	
+1858	Twabaire nemirumo zingi	
+1859	Kulwa Pete	
+1860	Roger akukoba atyai?	
+1861	Yaire ekka?	
+1862	Ali ekka	
+1863	Ekka wa Carol oba ewa Peggy	
+1864	Ekka wabuli omwei	
+1865	Mama!	
+1866	Iza mangu!	
+1867	Bona!	
+1868	Mama, iza ani!	
+1869	Mama, iza ani!	
+1870	Iza obone bini!	
+1871	Nona!	
+1872	Bona!	
+1873	Weena!	
+1874	Francis Powers bamutaisirye okuzwa omu kabuusu ka Soviet Union nebamwiriilya abakungu ba Amerika omu kabbwibbwi ka lwaleero omu Berlin	
+1875	oPulezidenti yasaziremu okubweebwa kwa Rudolf Abel	
+1876	Mwami Abel bazwa kumwiiryayo nebamuteera Berlin	
+1877	Entekateeka eza kutaisya mwami Powers nga zibaire zikwaba mumaiso okumala akaseera kaingi	
+1878	Omu kugezyaku. Egavumenti ya United States yafunire okukwatagana amwei n’okujunibwa kwa mwami James B. Donovan, omunamateeka omu Ney York	
+1879	Frederic L. Pryor, omusomi nga mumerika eyabaire nga akwatiibwe abakungu ba East German okuzwa omwezi gwa munanai 1961	
+1880	Buliizo nkulowooza Taata yaabire kutega ncwi	
+1881	Zebeeta Salmon	
+1882	Abel ati buni abuure omu nsi yaba Communist	
+1883	Powers ali ani akwiramu bibuuzo	
+1884	Donovan yeena aireyo kukola mateeka gamwei	
+1885	Nga ati oni niye George Fenneman akubaziira Douglas Fir Plywood Association	

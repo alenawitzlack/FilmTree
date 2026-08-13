@@ -1,0 +1,1769 @@
+1	Jeg tror på Amerika.	
+2	Jeg gjorde min lykke i Amerika.	
+3	Og jeg opdrog min datter som amerikaner.	
+4	Jeg gav hende frihed, men jeg sagde, at hun aldrig måtte vanære familien.	
+5	Hun fandt sig en kæreste. Ikke en italiener.	
+6	Hun gik med ham i biografen.	
+7	Hun kom sent hjem.	
+8	Jeg kom ikke med indvendinger.	
+9	For to måneder siden tog han og en ven hende med på en køretur.	
+10	De fyldte hende med whisky, og så forsøgte de at udnytte hende.	
+11	Hun gjorde modstand. Hun bevarede sin ære.	
+12	Så de bankede hende som et dyr.	
+13	Da jeg besøgte hende på hospitalet, var hendes næse brækket. Hendes kæbe var knust, holdt sammen med ståltråd.	
+14	Hun kunne ikke engang græde på grund af smerterne.	
+15	Men jeg græd.	
+16	Hvorfor græd jeg?	
+17	Hun var mit livs lys.	
+18	En smuk pige.	
+19	Nu bliver hun aldrig smuk igen.	
+20	Undskyld.	
+21	Jeg gik til politiet som en god amerikaner.	
+22	De to unge mænd kom for retten.	
+23	Dommeren idømte dem tre års fængsel og gjorde dommen betinget.	
+24	Han gjorde dommen betinget!	
+25	De blev løsladt samme dag!	
+26	Jeg stod i retssalen, latterliggjort...	
+27	Og de to svin... de smilede til mig!	
+28	Så sagde jeg til min hustru: Skal retfærdigheden ske fyldest, må vi gå til Don Corleone.	
+29	Hvorfor gik du til politiet?	
+30	Hvorfor kom du ikke til mig først?	
+31	[NO TRANSLATION]	missing translation
+32	Du kan forlange hvad som helst af mig, men gør, hvad jeg beder dig om.	
+33	Hvad er det?	
+34	[NO TRANSLATION]	missing translation
+35	Det kan jeg ikke gøre.	
+36	Jeg vil give hvad som helst.	
+37	Vi har kendt hinanden længe, men du har aldrig bedt mig om hjælp før.	
+38	Jeg kan ikke erindre, hvornår du sidst inviterede mig på kaffe,	
+39	selv om min hustru er dit eneste barns gudmor.	
+40	Men lad os være ærlige.	
+41	Du har aldrig ønsket mit venskab.	
+42	Du var bange for at stå i gæld til mig.	
+43	Jeg ville ikke blandes ind i noget.	
+44	Jeg forstår...	
+45	Du fandt dit paradis i Amerika.	
+46	Du tjente godt, politiet og domstolene beskyttede dig,	
+47	og du havde ikke brug for en ven som mig.	
+48	Men nu kommer du til mig og siger:	
+49	Don Corleone, lad retfærdigheden ske fyldest.	
+50	Men du beder om det uden respekt.	
+51	Du tilbyder mig ikke dit venskab.	
+52	Du tænker ikke engang på at sige gudfar til mig.	
+53	Du kommer på min datters bryllupsdag og beder mig begå mord mod betaling.	
+54	Jeg ønsker bare retfærdighed.	
+55	[NO TRANSLATION]	missing translation
+56	Din datter er da stadig i live.	
+57	Så lad dem lide... som hun lider.	
+58	Hvor meget skal jeg betale dig?	
+59	Bonasera...	
+60	Hvordan kan du behandle mig så respektløst?	
+61	Var du kommet som min ven, ville slynglerne lide allerede nu.	
+62	Og hvis du skulle få fjender, ville de blive mine fjender.	
+63	Og så vil de frygte dig.	
+64	Vil du være min ven...	
+65	gudfar?	
+66	Udmærket.	
+67	En skønne dag, eller måske aldrig, vil jeg bede dig om en tjeneste.	
+68	Men indtil den dag vil den retfærdige gengældelse være min gave til dig på min datters bryllupsdag.	
+69	[NO TRANSLATION]	missing translation
+70	[NO TRANSLATION]	missing translation
+71	Giv opgaven til... Clemenza.	
+72	Det skal gøres af folk, der kan holde hovedet koldt.	
+73	Vi er ikke mordere, selv om denne bedemand påstår det.	
+74	Hvor er Michael?	
+75	Klokken er ikke så mange.	
+76	Vi tager ikke billedet uden Michael.	
+77	Hvad er der?	
+78	Det er Michael.	
+79	Don Barzini! <Velkommen til vores hjem./>	missing English
+80	Paulie!	
+81	Lad mig få noget vin!	
+82	Paulie!	
+83	Mere vin.	
+84	Som du dog kan danse!	
+85	Det har du måske forstand på?	
+86	Gå en tur. Pas dit arbejde.	
+87	Prøv at holde børnene i ave.	
+88	[NO TRANSLATION]	missing translation
+89	Prøv at holde dig selv i ave.	
+90	Der er måske 20-30.000	
+91	i små sedler... kontant,	
+92	i den lille silketaske.	
+93	Hvis dette var en andens bryllup...!	
+94	[NO TRANSLATION]	missing translation
+95	Hallo, Paulie!	
+96	Her er noget mad til dig!	
+97	Din klovn!	
+98	Hvad er der?	
+99	Nå, pligten kalder.	
+100	[NO TRANSLATION]	missing translation
+101	Det hører med!	
+102	En sicilianer kan ikke afslå noget på sin datters bryllupsdag.	
+103	Don Corleone, jeg er beæret over at være indbudt.	
+104	Forsvind!	
+105	Det er en privat fest.	
+106	Forsvind!	
+107	[NO TRANSLATION]	missing translation
+108	Det er min søsters bryllup!	
+109	De forbandede FBI-folk har ikke respekt for noget!	
+110	Kom her...!	
+111	men han blev prøveløsladt og hjalp så til på hjemmefronten. Han arbejder i min bagerbutik.	
+112	Hvad kan jeg hjælpe dig med?	
+113	Nu, hvor krigen er forbi, vil de sende Enzo tilbage til Italien.	
+114	Jeg har en datter, gudfar.	
+115	Og hun og Enzo...	
+116	Du ønsker, Enzo bliver i landet, og at din datter bliver gift.	
+117	Du forstår alt.	
+118	Mr. Hagen...	
+119	tak.	
+120	Vent, til du ser den flotte bryllupskage, jeg har lavet til din datter.	
+121	[NO TRANSLATION]	missing translation
+122	Hvem skal have opgaven?	
+123	Ikke en af vore.	
+124	Et jødisk kongresmedlem i et andet distrikt.	
+125	Hvem står ellers på listen?	
+126	Michael!	
+127	Luca Brasi står ikke på listen, men han ønsker at tale med dig.	
+128	Er det nødvendigt?	
+129	Han forventede ikke at blive indbudt, så han vil takke dig.	
+130	Don Corleone, jeg er beæret over at være blevet indbudt på Deres datters bryllupsdag.	
+131	Må deres førstefødte blive et drengebarn.	
+132	Michael...	
+133	Den mand derovre sidder og snakker med sig selv.	
+134	Den uhyggelige mand derovre...	
+135	Ja, han er uhyggelig.	
+136	Hvad hedder han?	
+137	Luca Brasi.	
+138	Han hjælper min far nu og da.	
+139	Han er på vej herover.	
+140	Tom! Du holder dig godt!	
+141	Min bror Tom Hagen... Miss Kay Adams.	
+142	Din far har spurgt efter dig.	
+143	Hyggeligt at møde dig.	
+144	Tak i lige måde.	
+145	Hvis han er din bror, hvorfor hedder han så noget andet?	
+146	Min bror Sonny fandt Tom Hagen i rendestenen.	
+147	Knægten havde ikke noget hjem, så min far tog ham til sig.	
+148	Han har boet hos os siden.	
+149	Han er en god sagfører.	
+150	Han er ikke sicilianer,	
+151	men jeg tror, han bliver consigliere.	
+152	Hvad er det?	
+153	Det er... en rådgiver.	
+154	Meget vigtig for familien.	
+155	Kan du lide lasagnen?	
+156	Don Corleone...	
+157	Jeg er beæret over at være indbudt til Deres datters bryllup...	
+158	på Deres datters bryllupsdag.	
+159	Og jeg håber, at deres førstefødte bliver et drengebarn.	
+160	Jeg sværger Dem evig troskab.	
+161	Til Deres datter.	
+162	Tak, Luca,	
+163	min kære ven.	
+164	Don Corleone, jeg vil gå nu, for jeg ved, De har travlt.	
+165	[NO TRANSLATION]	missing translation
+166	Signora Corleone!	
+167	[NO TRANSLATION]	missing translation
+168	Senator Cauley beklagede, at han ikke kunne komme.	
+169	Det samme gjorde nogle af dommerne.	
+170	De har alle sendt gaver.	
+171	Hvad sker der udenfor?	
+172	Johnny!	
+173	Johnny!	
+174	Jeg elsker dig!	
+175	Hele vejen fra Californien.	
+176	Hvad sagde jeg?	
+177	Han er nok i knibe igen.	
+178	Han er en god gudsøn.	
+179	Johnny! Johnny!	
+180	Syng en sang!	
+181	Kender du Johnny Fontane?!	
+182	Ja.	
+183	Vil du møde ham?	
+184	Meget gerne!	
+185	[NO TRANSLATION]	missing translation
+186	Min far hjalp ham med hans karriere.	
+187	[NO TRANSLATION]	missing translation
+188	Hvordan?	
+189	Lad os høre sangen.	
+190	[NO TRANSLATION]	missing translation
+191	[NO TRANSLATION]	missing translation
+192	Fortæl mig det nu.	
+193	Da Johnny begyndte, sluttede han en kontrakt med en kendt orkesterleder.	
+194	Og da det begyndte at gå godt, ville han gerne løses fra kontrakten.	
+195	Johnny er min fars gudsøn.	
+196	Min far opsøgte orkesterlederen.	
+197	Han tilbød ham 10.000 dollars for at løse Johnny fra kontrakten. Manden sagde nej.	
+198	Næste dag opsøgte min far ham igen, denne gang sammen med Luca Brasi.	
+199	Inden der var gået en time, havde han annulleret kontrakten mod en check på 1000 dollars.	
+200	Hvordan bar han sig ad?	
+201	Min far gav ham et tilbud, han ikke kunne afslå.	
+202	Hvad var det?	
+203	Luca Brasi stak en pistol i hovedet på ham, og min far sagde, han ville se enten hjernemasse eller en underskrift.	
+204	Det er sandt.	
+205	Sådan er min familie, Kay.	
+206	Det er jeg ikke.	
+207	[NO TRANSLATION]	missing translation
+208	[NO TRANSLATION]	missing translation
+209	Tom,	
+210	find Santino	
+211	og bed ham komme ind på kontoret.	
+212	Hvordan går det, Fredo?	
+213	Min bror Fredo... Dette er Kay Adams.	
+214	[NO TRANSLATION]	missing translation
+215	[NO TRANSLATION]	missing translation
+216	Dette er min bror Mike.	
+217	Hygger du dig?	
+218	[NO TRANSLATION]	missing translation
+219	Nå, så det er din veninde?	
+220	Jeg ved ikke, hvad jeg skal gøre.	
+221	Min stemme er svag...	
+222	svag.	
+223	Men hvis jeg fik den filmrolle, ville jeg ryge til tops igen.	
+224	Men fyren vil ikke give mig den. Chefen for filmselskabet...	
+225	Hvad hedder han?	
+226	Woltz.	
+227	Han vil ikke give mig den. Han siger, jeg ikke har en chance.	
+228	Sonny?	
+229	Sonny!	
+230	Sonny!	
+231	Sonny, er du derinde?	
+232	Hvad er der?	
+233	Din far vil tale med dig.	
+234	Et øjeblik.	
+235	For en måned siden købte han filmrettighederne til en bestseller.	
+236	Hovedpersonen er en fyr som mig.	
+237	Jeg behøver end ikke spille skuespil.	
+238	Jeg ved ikke, hvad jeg skal gøre, gudfar.	
+239	Vis dig som et mandfolk!	
+240	Hvad er der galt med dig?!	
+241	Er du endt med at flæbe som en kvinde?	forced duplication
+242	Er du endt med at flæbe som en kvinde?	forced duplication
+243	Hvad skal jeg gøre?	
+244	Hvad skal jeg gøre?	
+245	[NO TRANSLATION]	missing translation
+246	[NO TRANSLATION]	missing translation
+247	Afser du tid til din familie?	
+248	Javist.	
+249	[NO TRANSLATION]	missing translation
+250	En mand, der ikke er sammen med sin familie, er ikke en rigtig mand.	
+251	Du ser herrens ud.	
+252	Nu skal du spise	
+253	og hvile dig. Om en måned giver fyren i Hollywood dig, hvad du vil have.	
+254	De begynder at filme om en uge.	
+255	Jeg vil give ham et tilbud, han ikke kan afslå.	
+256	Gå nu ud og mor dig.	
+257	Overlad det hele til mig.	
+258	[NO TRANSLATION]	missing translation
+259	Hvornår kører brudeparret?	
+260	Om lidt, når kagen er skåret ud.	
+261	Din svigersøn... får han noget af betydning?	
+262	Nej.	
+263	Giv ham arbejde, men inddrag ham aldrig i familiens affærer.	
+264	Ellers noget?	
+265	Sollozzo ringede.	
+266	Vi må snakke med ham.	
+267	Når du kommer hjem fra Californien.	
+268	Hvornår skal jeg til Californien?	
+269	Rejs allerede i aften.	
+270	Snak med denne film-magnat og få løst Johnnys problem.	
+271	Hvis der ikke er andet, vil jeg gå ud til min datters bryllup.	
+272	Carlo, vi skal fotograferes.	
+273	Vent lige lidt.	
+274	Nej, Michael.	
+275	Ikke mig.	
+276	[NO TRANSLATION]	missing translation
+277	[NO TRANSLATION]	missing translation
+278	[NO TRANSLATION]	missing translation
+279	[NO TRANSLATION]	missing translation
+280	Nå, må jeg høre?	
+281	Jeg er sendt af en ven af Johnny Fontane.	
+282	Denne ven, min klient, tilbyder Mr. Woltz sit venskab, hvis Mr. Woltz gør os en tjeneste.	
+283	Woltz er lutter øre.	
+284	Giv Johnny rollen i den krigsfilm, De begynder at optage i næste uge.	
+285	Og hvad kan Deres ven så tilbyde Mr. Woltz til gengæld?	
+286	Min klient kan forhindre en arbejdskonflikt her.	
+287	I øvrigt er en af Deres stjerner begyndt at bruge heroin.	
+288	Truer du mig? <Bestemt ikke./>	missing English
+289	[NO TRANSLATION]	missing translation
+290	Lad mig skære det ud i pap for dig og din boss!	
+291	Fontane får ikke den rolle,	
+292	uanset hvor mange spaghettifyre, I sender!	
+293	Jeg er af tysk-irsk afstamning,	
+294	Så hør her, din pølsegnasker!	
+295	Jeg skal give dig...	
+296	Jeg er advokat.	
+297	[NO TRANSLATION]	missing translation
+298	Jeg kender de fleste advokater i New York.	
+299	Hvem er du?	
+300	Jeg er speciel.	
+301	Jeg har kun én klient.	
+302	Ring til mig.	
+303	I øvrigt er jeg en varm beundrer af Deres film.	
+304	Undersøg hans baggrund.	
+305	Her er smukt.	
+306	[NO TRANSLATION]	missing translation
+307	Det her er hentet fra et kongepalads.	
+308	[NO TRANSLATION]	missing translation
+309	Hvorfor sagde du ikke, du arbejder for Corleone?	
+310	Jeg troede, Johnny havde sendt dig for at bluffe sig til rollen.	
+311	Jeg bruger kun navnet, når det er nødvendigt.	
+312	[NO TRANSLATION]	missing translation
+313	[NO TRANSLATION]	missing translation
+314	Jeg vil vise dig noget virkelig smukt.	
+315	Du sætter pris på smukke ting, ikke?	
+316	[NO TRANSLATION]	missing translation
+317	600.000 dollars på fire ben.	
+318	Så meget betalte end ikke zaren for en hest.	
+319	Khartoum...	
+320	Khartoum...	
+321	Han skal ikke løbe væddeløb.	
+322	Jeg vil kun bruge ham til avl.	
+323	Tak, Tony.	
+324	Lad os få noget at spise.	
+325	Corleone er Johnnys gudfar.	
+326	For italienerne er det noget meget helligt.	
+327	Jeg respekterer det.	
+328	Jeg vil gøre alt andet for ham.	
+329	Men dét ønske kan jeg ikke opfylde.	
+330	Han beder aldrig mere end én gang. <Er du med?/>	missing English
+331	Du forstår ikke.	
+332	Johnny Fontane får aldrig den rolle!	
+333	Rollen er perfekt til ham.	
+334	Den ville gøre ham til stjerne.	
+335	Jeg vil smide ham ud af branchen, og jeg skal fortælle dig hvorfor.	
+336	Johnny Fontane ødelagde en af mit selskabs mest dyrebare protégéer.	
+337	I fem år havde vi oplært hende	
+338	til at synge, agere, danse...	
+339	Jeg ville gøre hende til en stor stjerne.	
+340	Og lad mig være endnu mere åbenhjertig,	
+341	så du kan se,	
+342	det ikke kun handler om dollars og cents!	
+343	Hun var smuk.	
+344	Hun var ung og uskyldig.	
+345	Hun var det bedste skår, jeg nogensinde har haft!	
+346	Og så kommer Fontane med sin olivenstemme og spaghetticharme	
+347	og hun stikker af.	
+348	Hun droppede alt bare for at latterliggøre mig,	
+349	og en mand i min position har ikke råd til at blive latterliggjort!	
+350	Skrid ad helvede til!	
+351	Fortæl din mafiaboss, at jeg ikke er en sølle orkesterleder!	
+352	Jeg kender den historie.	
+353	Tak for middagen og en meget hyggelig aften.	
+354	Kan jeg blive kørt ud til lufthavnen?	
+355	Mr. Corleone insisterer på at høre dårlige nyheder med det samme.	
+356	Er du træt?	
+357	Nej, jeg sov i flyet.	
+358	Jeg har oplysningerne om Sollozzo her...	
+359	[NO TRANSLATION]	missing translation
+360	Sollozzo bliver kaldt Tyrken.	
+361	Han er god til at bruge en kniv, men kun i forretnings-affærer, der virkelig mishager ham.	
+362	Han er i narkotika-branchen.	
+363	Han ejer valmuemarker i Tyrkiet,	
+364	og på Sicilien har han heroin-raffinaderier.	
+365	Han har brug for kontanter og beskyttelse mod politiet.	
+366	Han vil betale med en andel i sin forretning.	
+367	[NO TRANSLATION]	missing translation
+368	Familien Tattaglia står bag ham her i New York.	
+369	Det gør de ikke gratis.	
+370	Har han været i fængsel?	
+371	To gange... i Italien og her.	
+372	Han er en stor narkotika-kanon.	
+373	Hvad siger du, Santino?	
+374	Der er mange penge i heroin.	
+375	Tom?	
+376	Jeg siger ja.	
+377	Vi kan tjene mange penge på narkotika.	
+378	Hvis ikke vi går med, vil De fem Familier gøre det.	
+379	Med fortjenesten kan de købe politifolk og politikere.	
+380	Så kaster de sig over os.	
+381	Vi har to gode trumfkort i fagforeninger og hasardspil, men narkotika er fremtiden.	
+382	Går vi ikke med, sætter vi alt på spil. Ikke nu, men om ti år.	
+383	Nå?	
+384	Hvad er dit svar, far?	
+385	Don Corleone...	
+386	Jeg har brug for en mand med indflydelsesrige venner.	
+387	Jeg har brug for en million dollars.	
+388	Jeg har brug for de politikere, som er i lommen på Dem.	
+389	Hvor stor en andel får min Familie?	
+390	30 procent.	
+391	Det første år vil De tjene 3-4 millioner dollars.	
+392	Derefter vil det stige.	
+393	Hvad får Familien Tattaglia?	
+394	Jeg må komplimentere Dem.	
+395	Jeg betaler Tattaglia'erne. Af min egen andel.	
+396	Jeg får 30% for finansiering, politisk og juridisk beskyttelse... Ikke sandt?	
+397	Det stemmer.	
+398	Hvorfor kommer De til mig med Deres gavmilde tilbud?	forced duplication
+399	Hvorfor kommer De til mig med Deres gavmilde tilbud?	forced duplication
+400	Hvis De betragter en million dollars kontant som ren finansiering, så skåler jeg for Dem.	
+401	Jeg ønskede at tale med Dem, for jeg hørte, De burde tages alvorligt og behandles med respekt.	
+402	Men jeg er nødt til at afslå Deres tilbud,	
+403	og jeg skal forklare Dem hvorfor.	
+404	Det er sandt, jeg har mange venner, der er politikere,	
+405	men det er fordi jeg beskæftiger mig med hasardspil, som de anser for en harmløs last. Men narkotika er en beskidt levevej.	
+406	Personligt er jeg ligeglad med, hvad folk tjener penge på.	
+407	Men Deres branche er... småfarlig.	
+408	Tattaglia'erne stiller gerne garanti for Deres million.	
+409	Siger De, at Tattaglia'erne vil garantere for vores investering?	
+410	[NO TRANSLATION]	missing translation
+411	Jeg har en svaghed for mine børn. Jeg forkæler dem, som De kan se.	
+412	De taler, når de burde lytte.	
+413	Men hvorom alting er,	
+414	så er svaret nej.	
+415	Jeg gratulerer Dem med Deres nye forretning.	
+416	Jeg ønsker Dem held og lykke,	
+417	navnligt fordi Deres interesser ikke er i modstrid med mine.	
+418	Tak.	
+419	Santino!	
+420	Kom her.	
+421	Hvad er der i vejen med dig?	
+422	Jeg tror, du helt glemmer at tænke på grund af det dér pigebarn.	
+423	Lad aldrig igen nogen uden for familien vide, hvad du tænker.	
+424	Gå så.	
+425	Hvad er nu det for noget pjat?	
+426	Det er fra Johnny.	
+427	Han fik sin filmrolle.	
+428	Få dem væk.	
+429	Sæt dem derhenne.	
+430	Og... Bed Luca Brasi kigge ind.	
+431	Jeg er lidt bekymret over denne Sollozzo.	
+432	Find ud af, hvad han er ude på.	
+433	Opsøg Tattaglia'erne.	
+434	Bild dem ind, at du ikke er tilfreds med vores Familie. Find ud af, hvad du kan.	
+435	Jeg har gaver til din mor og Sonny, et slips til Freddy og en pen til Tom.	
+436	Og hvad ønsker du dig? <Mig?/>	missing English
+437	Åh, kun dig.	
+438	[NO TRANSLATION]	missing translation
+439	Bed Paulie køre vognen frem. <Vi skal af sted./>	missing English
+440	[NO TRANSLATION]	missing translation
+441	Jeg bliver nødt til at køre selv.	
+442	Paulie ringede og sagde, han var syg.	
+443	Paulie er god nok.	
+444	Jeg har ikke noget imod at køre.	
+445	Glædelig jul.	
+446	Tak.	
+447	Luca!	
+448	Jeg er Bruno Tattaglia.	
+449	Det ved jeg godt. <Skotsk whisky? Fra før krigen? Jeg drikker ikke./>	missing English
+450	Ved du, hvem jeg er?	
+451	Jeg kender dig.	
+452	Du har snakket med Familien Tattaglia, ikke?	
+453	Jeg tror, at du og jeg kan gøre forretninger.	
+454	Jeg kan bruge en stærk mand som dig.	
+455	Jeg har hørt, at du ikke er tilfreds med Familien Corleone.	
+456	Vil du arbejde for mig i stedet?	
+457	Hvis betalingen er god.	
+458	50.000 dollars... til at begynde med.	
+459	Udmærket.	
+460	Har vi en aftale?	
+461	<Tak./> Tom!	missing English
+462	Tom Hagen!	
+463	Glædelig jul.	
+464	[NO TRANSLATION]	missing translation
+465	Jeg vil gerne tale med dig.	
+466	Jeg har ikke tid.	
+467	Tag dig tid, consigliere.	
+468	Sæt dig ind i bilen.	
+469	Hvad er du bange for?	
+470	Hvis jeg ville dræbe dig, var du allerede død.	
+471	Sæt dig ind.	
+472	Øjeblik, Fredo. Jeg køber lige noget frugt.	
+473	[NO TRANSLATION]	missing translation
+474	Glædelig jul.	
+475	Jeg skal have lidt frugt. <Papa!/>	missing English
+476	Ville du synes bedre om mig, hvis jeg var nonne?	
+477	Ligesom i filmen?	
+478	Nej.	
+479	Hvad, hvis jeg var Ingrid Bergman?	
+480	Se, det er værd at tænke over...	
+481	Michael...	
+482	Nej, heller ikke, hvis du var Ingrid Bergman...	
+483	Hvad er der?	
+484	Der står ikke, om han er død eller levende.	
+485	Sonny, det er Michael.	
+486	Hvor har du været?	
+487	Kommer han over det?	
+488	Vi ved det ikke endnu.	
+489	Der går en masse historier.	
+490	Han er meget slemt tilredt.	
+491	Er du der?	
+492	Ja, jeg er her.	
+493	[NO TRANSLATION]	missing translation
+494	Jeg har været bekymret for dig.	
+495	Sagde Tom ikke, jeg ringede?	
+496	Nej.	
+497	Kom nu hjem.	
+498	Du bør være her hos mor.	
+499	Åh gud...	
+500	Sonny!	
+501	[NO TRANSLATION]	missing translation
+502	Hvem er det?	
+503	Luk op. Det er Clemenza.	
+504	Der er nyt om din far.	
+505	Der går rygter om, at han allerede er død.	
+506	[NO TRANSLATION]	missing translation
+507	Tag det roligt!	
+508	Hvor var Paulie?	
+509	Sygemeldt igen.	
+510	[NO TRANSLATION]	missing translation
+511	Hvor tit har han været det?	
+512	Kun 3-4 gange.	
+513	Fredo ville ikke have en afløser.	
+514	Hent ham med det samme!	
+515	[NO TRANSLATION]	missing translation
+516	Jeg vil have ham over til min fars hus. Nu!	
+517	Skal jeg sende nogen herover?	
+518	Nej. Kun dig og ham.	
+519	[NO TRANSLATION]	missing translation
+520	Jeg får et par folk til at komme. Et par af vores.	
+521	[NO TRANSLATION]	missing translation
+522	Santino Corleone?	
+523	[NO TRANSLATION]	missing translation
+524	Vi har Tom Hagen.	
+525	Om tre timer slipper vi ham fri med vores forslag.	
+526	Hør, hvad han har at sige, før du gør noget.	
+527	Sket er sket.	
+528	Pas på ikke at få et af dine berømte raserianfald.	
+529	Nej, jeg venter.	
+530	Din boss er død.	
+531	Du hører ikke til familiens muskelmænd, så vær ikke bange.	
+532	Du skal hjælpe Familien Corleone, og du skal hjælpe mig.	
+533	Vi skød ham en times tid efter, at vi samlede dig op.	
+534	Drik.	
+535	Nu må du slutte fred mellem mig og Sonny.	
+536	Sonny syntes om mit forslag, ikke?	
+537	Du vidste, det var det eneste rigtige.	
+538	Sonny vil gå løs på dig med alt, hvad han har.	
+539	Det vil være hans første reaktion,	
+540	så du må tale ham til fornuft.	
+541	Familien Tattaglia står bag mig.	
+542	De andre Familier vil bakke os op for at forhindre en storkrig.	
+543	Lad os se det i øjnene, Tom. Don Corleone var ved at miste håndelaget.	
+544	Kunne jeg have fået ram på ham for ti år siden?	
+545	Nu er han død, Tom... og intet kan bringe ham tilbage.	
+546	Så du må snakke med Sonny og caporegime'rne, Tessio og ham den fede Clemenza.	
+547	Det er det eneste fornuftige.	
+548	Jeg skal forsøge.	
+549	Men selv ikke Sonny vil kunne stoppe Luca Brasi.	
+550	[NO TRANSLATION]	missing translation
+551	Lad Luca være min hovedpine.	
+552	Snak med Sonny.	
+553	Og de to andre sønner.	
+554	Jeg skal gøre mit bedste.	
+555	Udmærket.	
+556	Nu må du gerne gå.	
+557	Jeg bryder mig ikke om vold.	
+558	Jeg er forretningsmand.	
+559	Blodsudgydelse er en stor udgift.	
+560	Han er stadig i live!	
+561	De ramte ham med fem skud, og han lever stadig!	
+562	Det er uheldigt for mig... og for jer, hvis I ikke går med på aftalen.	
+563	Din mor er på hospitalet.	
+564	Det ser ud til, at din far overlever.	
+565	Det er mange.	
+566	Sollozzo, Phillip Tattaglia, Bruno Tattaglia...	
+567	Vil I slå alle dem ihjel?	
+568	Bland dig udenom.	
+569	Dræb Sollozzo, så falder de til patten.	
+570	Hvad med Luca?	
+571	Sollozzo mener, han kan ordne ham.	
+572	Hvis Luca gik over til fjenden, ville vi være ilde stedt.	
+573	Har nogen fået fat i Luca?	
+574	Jeg har prøvet.	
+575	Mikey, prøv lige at ringe til Luca.	
+576	[NO TRANSLATION]	missing translation
+577	Nå, Tom... du er consigliere.	
+578	Hvad gør vi, hvis den gamle dør?	
+579	Hvis han dør, mister vi vores politiske kontakter og halvdelen af vor styrke.	
+580	De andre familier vil måske støtte Sollozzo for at undgå en lang krig.	
+581	Vi skriver snart 1946.	
+582	Ingen ønsker mere blod udgydt.	
+583	Hvis din far dør... så lav den aftale, de ønsker.	
+584	Det kan du sagtens sige.	
+585	[NO TRANSLATION]	missing translation
+586	Jeg er lige så meget hans søn som du eller Mike.	
+587	Hvad er der?	
+588	Bad jeg dig ikke blive derude?	
+589	Fyren ved porten modtog en pakke.	
+590	Se, hvad det er, Tessio.	
+591	Skal jeg blive?	
+592	Ja.	
+593	Har du det godt?	
+594	[NO TRANSLATION]	missing translation
+595	[NO TRANSLATION]	missing translation
+596	Vil du have noget at spise?	
+597	Nej tak.	
+598	En drink?	
+599	Tag dig en cognac.	
+600	[NO TRANSLATION]	missing translation
+601	Det var måske en god idé.	
+602	Jeg vil have den skid knaldet.	
+603	Paulie forrådte min far. <Jeg vil ikke se ham igen./>	missing English
+604	Er det forstået?	
+605	[NO TRANSLATION]	missing translation
+606	Mikey, tag over til Luca i morgen og vent på ham.	
+607	Vi bør ikke blande Mike for åbenlyst ind i det her.	
+608	Så bliv her og tag telefonen. Det vil være en stor hjælp.	
+609	Ring til Luca igen.	
+610	Hvad fanden er det?	
+611	[NO TRANSLATION]	missing translation
+612	Det betyder, at Luca Brasi sover hos fiskene.	
+613	Jeg går nu.	
+614	Hvornår kommer du hjem?	
+615	Det bliver nok sent.	
+616	Glem nu ikke kagerne.	
+617	[NO TRANSLATION]	missing translation
+618	Rocco, sæt dig i den anden side.	
+619	Jeg kan ikke se bagud for dig.	
+620	[NO TRANSLATION]	missing translation
+621	Sonny tænker allerede på at gå under jorden.	
+622	Vi skal finde et sted på West Side.	
+623	309, West 43rd Street.	
+624	Kender du nogen steder på West Side?	
+625	Jeg skal tænke over det.	
+626	Tænk, mens du kører.	
+627	Vi har travlt.	
+628	Pas på ungerne, når du bakker.	
+629	Kør ned til Carlos Santos og hent 18 madrasser, gutterne kan sove på.	
+630	All right.	
+631	Sørg for, at de er rene. De skal bruges i lang tid.	
+632	Utøjet bliver altid udryddet.	
+633	Det er et skidt ord at bruge.	
+634	[NO TRANSLATION]	missing translation
+635	Pas på, vi ikke udrydder dig!	
+636	Stop lige.	
+637	Jeg skal slå en streg.	
+638	Lad pistolen ligge.	
+639	Tag kagerne.	
+640	Mike!	
+641	[NO TRANSLATION]	missing translation
+642	[NO TRANSLATION]	missing translation
+643	Der er telefon.	
+644	Hvem er det?	
+645	Et kvindemenneske.	
+646	[NO TRANSLATION]	missing translation
+647	Kay?	
+648	Hvordan har din far det?	
+649	Han klarer det.	
+650	Jeg elsker dig.	
+651	Jeg elsker dig!	
+652	Michael?	
+653	Jeg ved det godt.	
+654	Sig, du elsker mig.	
+655	Jeg kan ikke snakke nu.	
+656	Kan du ikke sige det?	
+657	Vi ses i aften.	
+658	Hvorfor siger du ikke til hende, du elsker hende?	
+659	Jeg elsker dig af hele mit hjerte.	
+660	Ser jeg dig ikke snart, så dør jeg.	
+661	Kom her og lær,	
+662	hvordan man laver mad til 20 mennesker.	
+663	Man steger lidt hvidløg i noget olie.	
+664	Så kommer man tomatpuré i. Pas på, det ikke brænder fast.	
+665	Så kommer man pølserne og kødbollerne i...	
+666	En lille smule vin...	
+667	Og en lille smule sukker.	
+668	Det er hemmeligheden.	
+669	[NO TRANSLATION]	missing translation
+670	Du har vigtigere ting at lave.	
+671	Hvordan går det med Paulie?	
+672	Ham ser du ikke igen.	
+673	Hvor skal du hen?	
+674	Ind til byen.	
+675	Send nogle bodyguards med ham. Gør det!	
+676	[NO TRANSLATION]	missing translation
+677	[NO TRANSLATION]	missing translation
+678	Sollozzo ved godt, han er civilist.	
+679	Pas nu godt på dig selv.	
+680	[NO TRANSLATION]	missing translation
+681	Send nogen med alligevel.	
+682	Jeg er nødt til at gå.	
+683	Må jeg komme med?	
+684	Nej, Kay.	
+685	Der er politifolk derhenne... og journalister.	
+686	Jeg tager med i taxien.	
+687	Jeg ønsker ikke, at du bliver blandet ind i noget.	
+688	Hvornår ses vi igen?	
+689	Tag hjem til New Hampshire. Jeg ringer til dig.	
+690	Hvornår ses vi igen?	
+691	Det ved jeg ikke.	
+692	Hvad laver De her?	
+693	De må ikke være her.	
+694	Jeg er Michael Corleone.	
+695	Det her er min far.	
+696	Hvor er vagterne?	
+697	Der var for mange besøgende.	
+698	De gik i vejen for personalet.	
+699	Politiet sendte dem væk for ti minutter siden.	
+700	Giv mig Long Beach 45620.	
+701	[NO TRANSLATION]	missing translation
+702	Vent et øjeblik.	
+703	Bliv her.	
+704	Sonny, jeg er på hospitalet.	
+705	Der er ingen her.	
+706	Hverken Tessios folk eller politiet.	
+707	Far er helt alene.	
+708	Nu ingen panik. <Vi kommer./>	missing English
+709	Jeg er helt rolig.	
+710	Beklager, men De bliver nødt til at gå.	
+711	Vi flytter min far ind på en anden stue.	
+712	Kan De løsne de slanger?	
+713	Ikke tale om!	
+714	Kender De min far?	
+715	Der er mænd på vej for at myrde ham.	
+716	Er De med?	
+717	Vær nu sød at hjælpe mig.	
+718	Hvem er du?	
+719	Enzo... bageren!	
+720	Husker De mig ikke?	
+721	[NO TRANSLATION]	missing translation
+722	Gå hellere. Der bliver ballade.	
+723	I så fald bliver jeg og hjælper Dem.	
+724	For Deres fars skyld.	
+725	[NO TRANSLATION]	missing translation
+726	Vent på mig uden for hospitalet.	
+727	Jeg kommer om et øjeblik.	
+728	Bare rolig, far.	
+729	Jeg passer på dig nu.	
+730	Jeg er hos dig nu.	
+731	Jeg er hos dig.	
+732	Væk med dem.	
+733	[NO TRANSLATION]	missing translation
+734	Stik hånden i lommen, som om du har en pistol.	
+735	Der sker dig ingenting.	
+736	Det klarede du fint.	
+737	Jeg troede, jeg havde fået jer spaghettidrenge spærret inde.	
+738	Hvor er min fars vagter?	
+739	Din lille rod!	
+740	Skal du blande dig i mine affærer?	
+741	Jeg fjernede dem.	
+742	Hold dig væk fra hospitalet.	
+743	Jeg går ikke, før der kommer vagter.	
+744	Phil! Anhold ham!	
+745	Han har intet gjort.	
+746	Han er krigshelt...	
+747	[NO TRANSLATION]	missing translation
+748	Anhold ham, sagde jeg!	
+749	Hvor meget betaler Tyrken Dem?	
+750	Tag fat i ham!	
+751	[NO TRANSLATION]	missing translation
+752	Ret ham op!	
+753	Jeg er Corleones advokat.	
+754	Disse mænd er privatdetektiver.	
+755	De har våbentilladelse.	
+756	Hvis De blander Dem, vil De blive indstævnet.	
+757	Lad ham gå.	
+758	Hvorfor de nye ansigter?	
+759	Vi får brug for dem.	
+760	Efter affæren på hospitalet blev Sonny gal.	
+761	Vi skød Bruno Tattaglia klokken fire i nat.	
+762	Du Almægtige!	
+763	Det ligner en fæstning.	
+764	[NO TRANSLATION]	missing translation
+765	Vi har 100 mand på gaden døgnet rundt.	
+766	Hvis Tyrken viser bare ét af hårene på sin røv, er han død.	
+767	Lad mig se dig.	
+768	Du er flot!	
+769	[NO TRANSLATION]	missing translation
+770	<Hør her.../> Tyrken ønsker at forhandle.	missing English
+771	Hvor fræk kan man være?	
+772	[NO TRANSLATION]	missing translation
+773	Hvad sagde han?	
+774	[NO TRANSLATION]	missing translation
+775	Han ønsker, vi sender Michael for at høre hans forslag.	
+776	Han lover os alle tiders handel.	
+777	Hvad med Bruno Tattaglia?	
+778	[NO TRANSLATION]	missing translation
+779	Det går lige op med det, de gjorde mod min far.	
+780	Vi bør høre, hvad de har at sige.	
+781	[NO TRANSLATION]	missing translation
+782	Nej, ikke denne gang, consigliere!	
+783	Ikke flere møder, ikke flere numre!	
+784	Sig, at jeg vil have Sollozzo!	
+785	De andre familier vil ikke have krig!	
+786	[NO TRANSLATION]	missing translation
+787	Det her er ren forretning!	
+788	De skød min far!	
+789	Selv det var forretning, Sonny!	
+790	Så må det gå ud over forretningerne.	
+791	[NO TRANSLATION]	missing translation
+792	Ikke flere lappeløsninger!	
+793	Hjælp mig nu bare med at vinde.	
+794	Denne inspektør McCluskey, som brækkede kæben på Mike...	
+795	Han er helt sikkert på Sollozzos lønningsliste.	
+796	McCluskey har indvilliget i at være livvagt for Tyrken.	
+797	Så længe Sollozzo har den bevogtning, er han usårlig.	
+798	At skyde en politiinspektør ville udløse en katastrofe.	
+799	De fem Familier vil komme efter dig.	
+800	Vi ville blive fredløse!	
+801	Selv din fars politikervenner ville søge dækning.	
+802	Så gør mig en tjeneste...	
+803	Tag det med i dine overvejelser.	
+804	Godt. Vi venter.	
+805	Vi kan ikke vente.	
+806	Vi kan ikke vente.	
+807	Uanset hvad Sollozzo tilbyder, vil han dræbe far.	
+808	Det er nøglen for ham.	
+809	Vi må have ram på Sollozzo.	
+810	Mike har ret.	
+811	[NO TRANSLATION]	missing translation
+812	Hvad skal vi stille op med McCluskey?	
+813	Hvad gør vi med den panser?	
+814	De vil have et møde med mig, ikke?	
+815	Det bliver mig, McCluskey og Sollozzo.	
+816	Lad os aftale mødet.	
+817	Vi får vores stikkere til at finde ud af, hvor det skal holdes.	
+818	Vi insisterer på et offentligt sted,	
+819	en bar, en restaurant...	
+820	Et sted, hvor der er mennesker, så jeg kan føle mig tryg.	
+821	De vil kropsvisitere mig,	
+822	så jeg kan ikke have et våben med.	
+823	Men hvis Clemenza kan finde ud af at gemme et våben på stedet... så dræber jeg dem begge to.	
+824	[NO TRANSLATION]	missing translation
+825	Det var dig, der ikke ville rodes ind i familiens affærer,	
+826	og nu vil du skyde en politiinspektør, fordi han slog dig.	
+827	Tror du, det er hæren, hvor man skyder folk på afstand?	
+828	Du vil få hjernemasse ud over din flotte habit!	
+829	Du tager det personligt.	
+830	Han tager det personligt, Tom.	
+831	Hvem siger, man ikke kan dræbe en strømer?	
+832	[NO TRANSLATION]	missing translation
+833	Jeg taler om en strømer, der er rodet ind i narkohandel, en uhæderlig strømer,	
+834	der var købt af gangstere og fik sin bekomst.	
+835	Det er en god historie,	
+836	og vi har journalister på lønningslisten, ikke?	
+837	Og de ville elske sådan en historie.	
+838	Ja, måske.	
+839	Det er ikke personligt, Sonny.	
+840	Det er ren forretning.	
+841	[NO TRANSLATION]	missing translation
+842	Den er umulig at spore, så du skal ikke tænke på fingeraftryk.	
+843	Jeg har kommet noget special-tape på aftrækkeren og skæftet.	
+844	Her, prøv.	
+845	Er aftrækkeren for stram?	
+846	Mine ører!	
+847	Den skal larme, så den skræmmer alle ubelejlige vidner langt væk.	
+848	<Godt./> Du har skudt dem begge to.	missing English
+849	Hvad gør du nu?	
+850	Sætter mig ned og spiser færdig.	
+851	Hold nu op med at pjatte.	
+852	Tag hånden ned langs siden og giv slip på revolveren.	
+853	Alle vil tro, du stadig har den.	
+854	De vil kigge på dit ansigt, så skynd dig ud uden at løbe.	
+855	Kig ikke direkte på nogen, men kig heller ikke væk.	
+856	De vil være rædselsslagne, så vær ikke bekymret for noget.	
+857	[NO TRANSLATION]	missing translation
+858	Bagefter holder du en lang ferie og lader os tage skrubbene.	
+859	Hvor slemt tror du, det bliver?	
+860	Ret slemt.	
+861	De andre Familier vil gå sammen imod os.	
+862	<Men det er i orden./> Det sker hvert femte-tiende år.	missing English
+863	Så bliver luften renset.	
+864	Det er ti år siden sidst.	
+865	Man skal stoppe dem i starten.	
+866	De burde have stoppet Hitler i München.	
+867	De bad selv om det.	
+868	Vi var alle sammen stolte af dig...	
+869	krigshelten.	
+870	Også din far.	
+871	Intet...	
+872	ikke en antydning.	
+873	Ikke det, der ligner.	
+874	Selv ikke Sollozzos folk ved, hvor mødet skal holdes.	
+875	Hvor lang tid har vi?	
+876	De samler dig op ved Jack Dempseys restaurant om halvanden time.	
+877	Vi kunne skygge dem...	
+878	Sollozzo ville ryste os af sig.	
+879	Hvad med mægleren?	
+880	Han spiller kort med mine mænd.	
+881	[NO TRANSLATION]	missing translation
+882	De lader ham vinde.	
+883	Det her er for risikabelt for Mike.	
+884	[NO TRANSLATION]	missing translation
+885	Vi har mægleren, til Mike kommer tilbage.	
+886	Hvorfor ikke skyde alle i bilen?	
+887	Det er for farligt.	
+888	Sollozzo er måske slet ikke med i bilen!	
+889	Jeg tager den.	
+890	Louis' Restaurant i Bronx.	
+891	Er kilden pålidelig?	
+892	Han er i politiet.	
+893	[NO TRANSLATION]	missing translation
+894	McCluskey har opgivet, at han er på det sted mellem 20 og 22.	
+895	Kender nogen den restaurant?	
+896	Ja.	
+897	Den er perfekt.	
+898	God mad.	
+899	Alle passer sig selv.	
+900	Perfekt.	
+901	De har et gammeldags toilet	
+902	med cisterne og træk og slip.	
+903	Måske kan vi gemme revolveren bag den.	
+904	Godt.	
+905	Mike... I kører hen til restauranten, I spiser og snakker.	
+906	Få dem til at slappe af.	
+907	Så spørger du dem om lov til at gå på toilettet.	forced duplication
+908	Så spørger du dem om lov til at gå på toilettet.	forced duplication
+909	Når du kommer tilbage, så skyd dem.	
+910	To skud i hovedet hver.	
+911	Den revolver skal skjules af en professionel.	
+912	Min bror skal kunne regne med den.	
+913	Den skal nok være der.	
+914	Du kører ham derhen og samler ham op bagefter.	
+915	Lad os komme i gang.	
+916	Har han sagt, du skal smide revolveren med det samme?	
+917	Ja, en million gange.	
+918	Husk nu...	
+919	to skud i hovedet hver, lige så snart du kommer tilbage.	
+920	Hvor lang tid går der, før jeg kan komme tilbage?	
+921	Mindst et år, Mike.	
+922	Jeg forklarer mor det. Du får ikke snakket med hende, før du rejser.	
+923	Jeg skal også nok give din kæreste besked.	
+924	Pas nu godt på.	
+925	[NO TRANSLATION]	missing translation
+926	Jeg er glad for, du kom.	
+927	Jeg håber, vi kan løse alle problemerne.	
+928	Det er ikke gået, som jeg ønskede.	
+929	Det skulle aldrig være sket.	
+930	[NO TRANSLATION]	missing translation
+931	Min far skal ikke udsættes for mere.	
+932	Det bliver han heller ikke. Det sværger jeg ved mine børn.	
+933	Men du må være samarbejdsvillig.	
+934	Ikke være så hidsig som Sonny.	
+935	Han er ikke til at snakke med.	
+936	Han er god nok.	
+937	Jeg er ked af det, der skete forleden, Mike.	
+938	Jeg bliver nødt til at visitere dig, så vend dig om	
+939	og læg dig på knæ.	
+940	Jeg er ved at blive for gammel til mit job.	
+941	Alt for pirrelig.	
+942	Farer op over ingenting.	
+943	Du ved, hvordan det er.	
+944	Han er ubevæbnet.	
+945	Skal vi til New Jersey?	
+946	Måske.	
+947	Fint klaret, Lou.	
+948	Hvordan er den italienske mad her?	
+949	Prøv kalvekødet.	
+950	Byens bedste.	
+951	Forstået?	
+952	Jeg vil tale italiensk med Mike.	
+953	Værsgo.	
+954	<Jeg er ked af det... Det ved jeg godt. Du skal vide, at det, der er sket mellem mig og din far, var ren forretning. Jeg har stor respekt for din far, men han tænker gammeldags, og han nægter at acceptere, at jeg er en hædersmand. Hvorfor fortæller du mig noget, jeg allerede ved? Ved du det? Du skal vide, at jeg har hjulpet Familien Tattaglia. Jeg mener, vi skal finde en ordning. Jeg ønsker fred. Nu må det satans roderi høre op. Men I er... Hvilket? Hvad siger man?/> Det, jeg ønsker...	missing English
+955	Det, der er det vigtigste for mig, er en garanti,	
+956	for at I ikke forsøger at myrde min far igen.	
+957	Hvilken garanti?	
+958	Det er mig, der er jagtet nu.	
+959	Jeg forspildte chancen.	
+960	Du overvurderer mig.	
+961	Så skrap er jeg ikke.	
+962	Det eneste, jeg ønsker, er våbenstilstand.	
+963	Jeg skal på toilettet.	
+964	Er det i orden?	
+965	Når man skal, så skal man.	
+966	Jeg har visiteret ham.	
+967	[NO TRANSLATION]	missing translation
+968	Lad det ikke vare for længe.	
+969	Jeg har visiteret tusindvis af rødder.	
+970	<Har du det bedre nu? Du forstår mig, ikke? Du er italiener ligesom din far. Det står skidt til med din far, men der er ikke sket dig noget. Lad os to ordne det i fællesskab. Det må ikke løbe løbsk. Det må have en ende nu./>	missing English
+971	Jeg elsker dig, bedstefar.	
+972	Undskyld...	
+973	Han kender dig ikke endnu.	
+974	[NO TRANSLATION]	missing translation
+975	Læs det højt for bedstefar.	
+976	[NO TRANSLATION]	missing translation
+977	Jeg håber, du bliver rask, bedstefar.	
+978	Kærligst, din sønnesøn Frank.	
+979	Gå nu med din mor.	
+980	Tag dem med nedenunder.	
+981	Også dig, Carlo.	
+982	[NO TRANSLATION]	missing translation
+983	Hvad er der, Carlo?	
+984	Klap i og dæk bord.	
+985	Lige siden drabet på McCluskey har politiet været efter os.	
+986	Det har de andre Familier også.	
+987	Der har været megen bitterhed.	
+988	De angreb os... så vi slog igen.	
+989	Gennem vores presseforbindelser har vi fået udgivet artikler om McCluskeys forbindelse med Sollozzo.	
+990	Det er begyndt at lysne.	
+991	Jeg sender Fredo til Las Vegas under Don Francescos beskyttelse.	
+992	Der kan han være i fred.	
+993	Jeg går ind i kasino-branchen.	
+994	Hvor er Michael?	
+995	Det var Michael, der dræbte Sollozzo.	
+996	Men han er i sikkerhed.	
+997	Vi arbejder på at få ham hjem igen.	
+998	Find ud af, hvor Tattaglia gemmer sig.	
+999	Jeg vil have ham knaldet!	
+1000	Folk er begyndt at slappe lidt af.	
+1001	Hvis du dræber Tattaglia, er fanden løs igen.	
+1002	Far kan forhandle...	
+1003	Først når han får det bedre.	
+1004	[NO TRANSLATION]	missing translation
+1005	Krigen er dyr.	
+1006	Vi kan ikke lave forretninger.	
+1007	Det kan de andre heller ikke.	
+1008	[NO TRANSLATION]	missing translation
+1009	Vi har ikke råd.	
+1010	[NO TRANSLATION]	missing translation
+1011	Jeg vil dræbe den gamle skid!	
+1012	Jeg håber, du nyder dit nye ry!	
+1013	[NO TRANSLATION]	missing translation
+1014	Hvis jeg havde en siciliansk consigliere, gik alt meget lettere!	
+1015	Far havde Genco.	
+1016	Se, hvad jeg har fået!	
+1017	Undskyld.	
+1018	Det mente jeg ikke.	
+1019	Mor har lavet mad.	
+1020	Det er søndag.	
+1021	Niggerne hygger sig rigtig oppe i Harlem.	
+1022	De kører i Cadillacs og betaler 50 procent på væddemål.	
+1023	Jeg vidste, det ville ske.	
+1024	Far snakkede aldrig forretninger ved middagsbordet.	
+1025	Klap i, Connie...	
+1026	Bed aldrig hende klappe i!	
+1027	Santino, bland dig udenom.	
+1028	Jeg vil gerne tale med jer efter middagen.	
+1029	Jeg kunne...	
+1030	Vi snakker ikke forretninger ved bordet.	
+1031	Velkommen, Don Tommasino.	
+1032	<Michael.../> Hvad laver du så langt fra huset?	missing English
+1033	Jeg har ansvaret for dit liv.	
+1034	Jeg har livvagter med.	
+1035	Det er stadig farligt.	
+1036	Jeg har nyt fra din bror Santino.	
+1037	Dine fjender ved, du er her.	
+1038	Sagde Santino, hvornår jeg kunne tage hjem?	
+1039	[NO TRANSLATION]	missing translation
+1040	Det har slet ikke været på tale. Det må vi tage op senere.	
+1041	Hvor skal du hen?	
+1042	Til Corleone.	
+1043	Tag min bil.	
+1044	Jeg har lyst til at gå.	
+1045	Vær forsigtig!	
+1046	<Der er Corleone./> Hvor er alle mændene?	missing English
+1047	Dræbt i vendettaerne.	
+1048	Der er navnene på de døde.	
+1049	Tag mig med til Amerika!	
+1050	Tag mig med til Amerika!	
+1051	[NO TRANSLATION]	missing translation
+1052	[NO TRANSLATION]	missing translation
+1053	[NO TRANSLATION]	missing translation
+1054	[NO TRANSLATION]	missing translation
+1055	Jeg tror, jeg er forelsket! <Jeg går op på bjerget./>	missing English
+1056	Der blev du vist ramt af en tordenkile.	
+1057	<Pas på!/> På Sicilien er kvinderne farligere end haglgeværerne.	missing English
+1058	<Kom med noget vin. Kom med noget vin og nogle glas./> Nå, hvad har I så bedrevet?	missing English
+1059	[NO TRANSLATION]	missing translation
+1060	Vi troede, vi kendte landsbyen ud og ind, men i dag så vi en skønhed.	
+1061	Hun ramte vores ven som en tordenkile.	
+1062	Hun kunne lede Fanden selv i fristelse.	
+1063	<Fanden selv. Jeg forstår, hvad I mener./> Hun var gudesmuk.	missing English
+1064	Ikke, Calò?	
+1065	Gudesmuk! <En smuk krop? Ja, og hendes øjne...! Hendes øjne.../>	missing English
+1066	Pigerne her er smukke, men dydige.	
+1067	Hun var i en lilla kjole	
+1068	og havde et lilla hårbånd.	
+1069	Af type var hun mere græsk end italiensk.	
+1070	Kender De hende?	
+1071	Nej! Der er ikke sådan en pige her i byen.	
+1072	Åh gud! Nu forstår jeg.	
+1073	Hvad sker der?	
+1074	Lad os komme af sted.	
+1075	Det er hans datter.	
+1076	Kald på ham.	
+1077	<Men det er hans datter.../> Kald på ham.	missing English
+1078	Fabrizio, oversæt for mig.	
+1079	Jeg beklager, hvis jeg har fornærmet Dem.	
+1080	Jeg er fremmed i dette land.	
+1081	Det var ikke min mening at fornærme Dem eller Deres datter.	
+1082	<Hvem er han? Hvad vil han hende?/> Jeg er amerikaner. Jeg har søgt skjul her.	missing English
+1083	Mit navn er Michael Corleone.	
+1084	Der er mennesker, der ville betale meget for den oplysning.	
+1085	Men så ville Deres datter miste en far i stedet for at få en ægtemand.	
+1086	<Han er altså forelsket?/> Jeg ønsker at møde Deres datter	missing English
+1087	med Deres tilladelse og i Deres families nærvær.	
+1088	Med al respekt.	
+1089	Kom søndag formiddag.	
+1090	Jeg hedder Vitelli. <Jeg bor uden for byen./>	missing English
+1091	<Tak./> Hvad hedder Deres datter? <Apollonia. Min datter Apollonia. Michael Corleone./>	missing English
+1092	[NO TRANSLATION]	missing translation
+1093	Du kan læse på biblioteket.	
+1094	<Kom./> Vi skal hente min søster.	missing English
+1095	Hvad er der i vejen?	
+1096	Hvad er der?	
+1097	Det var min skyld!	
+1098	Hvor er han?	
+1099	Det var min skyld!	
+1100	Jeg slog ham!	
+1101	Jeg begyndte.	
+1102	Jeg slog ham, og så slog han mig.	
+1103	<Okay./> Jeg får fat i en læge, der kan se på dig.	missing English
+1104	Du må ikke gøre noget!	
+1105	[NO TRANSLATION]	missing translation
+1106	[NO TRANSLATION]	missing translation
+1107	Skulle jeg gøre barnet faderløst, før det er blevet født?	
+1108	Spiller det fede svin stadig hos os?	
+1109	Indgå ikke flere væddemål med ham.	
+1110	Vi tabte nok til ham i sidste uge.	
+1111	Carlo! Kom her!	
+1112	Hvis du rører min søster igen, slår jeg dig ihjel.	
+1113	[NO TRANSLATION]	missing translation
+1114	Du kommer uventet, Kay.	
+1115	Du burde ringe.	
+1116	[NO TRANSLATION]	missing translation
+1117	Jeg har både skrevet og ringet.	
+1118	Jeg vil i kontakt med Michael.	
+1119	Ingen ved, hvor han er.	
+1120	Kun, at han har det godt.	
+1121	Hvad er der sket?	
+1122	Et uheld, men ingen kom noget til.	
+1123	Tom... vil du ikke nok give Michael det her brev?	
+1124	[NO TRANSLATION]	missing translation
+1125	Hvis jeg tager imod det, vil man kunne sige, at jeg ved, hvor han er.	
+1126	<Du må være tålmodig./>	missing English
+1127	Jeg lod taxien køre. Må jeg ringe efter en anden?	
+1128	[NO TRANSLATION]	missing translation
+1129	[NO TRANSLATION]	missing translation
+1130	[NO TRANSLATION]	missing translation
+1131	Er Carlo der?	
+1132	Hvem er det?	
+1133	En ven af Carlo.	
+1134	Sig, jeg først kan komme senere i aften.	
+1135	[NO TRANSLATION]	missing translation
+1136	Værsgo.	
+1137	Jeg er ikke sulten.	
+1138	Maden bliver kold.	
+1139	Jeg spiser ude senere.	
+1140	Du bad mig lige lave mad!	
+1141	Skrub ad helvede til!	
+1142	Det kan du selv gøre!	
+1143	Den lille spaghetti-tøs!	
+1144	Ja, slå endelig det hele i stykker, din forkælede møgunge!	
+1145	[NO TRANSLATION]	missing translation
+1146	Hvorfor inviterer du ikke din hore med hjem til middag?	
+1147	Det gør jeg måske også.	
+1148	Ryd det væk!	
+1149	Gu' vil jeg ej!	
+1150	[NO TRANSLATION]	missing translation
+1151	Ryd op!	
+1152	Få det væk!	
+1153	Ryd op!	
+1154	[NO TRANSLATION]	missing translation
+1155	[NO TRANSLATION]	missing translation
+1156	[NO TRANSLATION]	missing translation
+1157	[NO TRANSLATION]	missing translation
+1158	[NO TRANSLATION]	missing translation
+1159	[NO TRANSLATION]	missing translation
+1160	Ja, dræb mig!	
+1161	Bliv morder ligesom din far!	
+1162	Alle i din familie er mordere.	
+1163	Jeg hader dig!	
+1164	Slå mig ihjel!	
+1165	Ud med dig!	
+1166	Jeg hader dig!	
+1167	Nu slår jeg dig ihjel,	
+1168	din spaghetti-tøs!	
+1169	[NO TRANSLATION]	missing translation
+1170	Connie, hvad er der?	
+1171	Jeg kan ikke forstå dig.	
+1172	Connie, tal højere.	
+1173	Barnet græder.	
+1174	Santino, jeg kan ikke forstå hende.	
+1175	[NO TRANSLATION]	missing translation
+1176	[NO TRANSLATION]	missing translation
+1177	Bliv der.	
+1178	Nej, bliv der!	
+1179	Det dumme svin!	
+1180	Det dumme svin!	
+1181	Hvad er der?	
+1182	Luk den skide port op!	
+1183	Let røven!	
+1184	Sonny!	
+1185	Sonny!	
+1186	Af vejen!	
+1187	Efter ham!	
+1188	Din skiderik!	
+1189	Flyt dig så!	
+1190	Giv mig en tår.	
+1191	Min kone græder oppe ovenpå.	
+1192	Jeg kan høre biler komme.	
+1193	Consigliere... Fortæl mig, hvad alle andre tilsyneladende ved.	
+1194	Jeg har ikke fortalt mor noget.	
+1195	Jeg skulle netop til at gå op og fortælle dig det.	
+1196	Men du skulle have en drink at styrke dig på først.	
+1197	[NO TRANSLATION]	missing translation
+1198	Nu har du fået din drink.	
+1199	De skød Sonny ude på dæmningen.	
+1200	Han er død.	
+1201	Jeg ønsker ikke sagen efterforsket.	
+1202	Jeg ønsker ingen hævnakter.	
+1203	Jeg ønsker, at du aftaler et møde med De fem Familiers overhoveder.	
+1204	Krigen stopper nu.	
+1205	Ring til Bonasera.	
+1206	Jeg har brug for ham nu.	
+1207	Det er Tom Hagen.	
+1208	Jeg ringer på Vito Corleones vegne.	
+1209	De skylder ham en tjeneste.	
+1210	Han nærer ingen tvivl om, at De vil indfri den.	
+1211	Han kommer til Deres bedemands- forretning om en time.	
+1212	Vær der.	
+1213	Min ven, er du rede til at gøre mig den tjeneste?	
+1214	Ja.	
+1215	Hvad skal jeg gøre?	
+1216	Jeg vil have, at du bruger al din kunnen, hele dit talent...	
+1217	Jeg vil ikke have, hans mor skal se ham sådan.	
+1218	Se, hvordan de har massakreret min dreng.	
+1219	<Der kan du bare se! Jeg kører jo godt./> Jeg kan bedre lide at lære dig engelsk.	missing English
+1220	Jeg kan engelsk:	
+1221	Monday, tuesday, thursday, wednesday, friday, sunday, saturday.	
+1222	Velkommen, Don Tommasino.	
+1223	Hvordan står det til i Palermo?	
+1224	Jeg er dygtig til at køre bil. Han har lært mig det.	
+1225	Nu skal De bare se.	
+1226	Hvordan står det til i Palermo?	
+1227	De unge respekterer ikke noget længere.	
+1228	Det er nye tider. Hvad skal det dog ende med?	
+1229	<Hør her... efter at du er blevet gift, ved folk, hvem du er./> Du er ikke i sikkerhed her.	missing English
+1230	Jeg vil have, at du flytter til en villa nær Siracusa... med det samme.	
+1231	Hvad er der galt?	
+1232	Jeg har dårligt nyt fra Amerika.	
+1233	Din bror Santino... Han er blevet myrdet.	
+1234	Lad os nu køre!	
+1235	Du lovede det!	
+1236	Fabrizio!	
+1237	Kør bilen frem!	
+1238	Kører du selv, boss?	
+1239	Skal din kone med?	
+1240	Hun bliver hos sin far foreløbig.	
+1241	Som du vil, boss.	
+1242	Calò... Hvor er Apollonia?	
+1243	<I bilen./> Hun vil overraske dig med at køre bilen alene.	forced duplication, missing English
+1244	<I bilen./> Hun vil overraske dig med at køre bilen alene.	forced duplication, missing English
+1245	Hun bliver en god amerikansk hustru.	
+1246	Jeg henter bagagen.	
+1247	Fabrizio!	
+1248	Hvor skal du hen?	
+1249	Vent derhenne!	
+1250	Jeg kører hen til dig!	
+1251	Nej!	
+1252	Don Barzini. Tak, fordi De har hjulpet med at arrangere dette møde. Jeg takker også de andre overhoveder fra De fem Familier.	
+1253	Carmine Cuneo fra Bronx og fra Brooklyn... Phillip Tattaglia.	
+1254	Og fra Staten Island... Victor Strachi.	
+1255	Og alle I andre, der er kommet helt fra Californien og Kansas City og alle de øvrige territorier i landet.	
+1256	Mange tak.	
+1257	Hvordan kunne det nogen sinde komme så vidt?	
+1258	Jeg ved det ikke.	
+1259	Det var så ulykkeligt, så unødvendigt.	
+1260	Tattaglia mistede en søn. Jeg mistede en søn.	
+1261	Vi er kvit.	
+1262	Og hvis Tattaglia er enig, er jeg villig til at begynde på en frisk.	
+1263	Vi er alle taknemlige over, at Don Corleone har sat os i stævne.	
+1264	Vi ved, han er ordholdende,	
+1265	beskeden og altid lytter til fornuft.	
+1266	Ja, Don Barzini.	
+1267	Han er for beskeden.	
+1268	Alle dommerne og politikerne var i lommen på ham.	
+1269	Han nægtede at dele dem med os.	
+1270	Hvornår har jeg nogen sinde nægtet nogen noget?	
+1271	I kender mig da.	
+1272	Jeg har kun nægtet nogen noget én gang.	
+1273	Og hvorfor?	
+1274	Fordi jeg mener, at narkotika vil blive vores undergang.	
+1275	Det er ikke som spil eller spiritus eller kvinder, noget, de fleste ønsker, men ikke må få for Kirken.	
+1276	Selv politifolk, der tidligere har hjulpet os, vil stå af, når det drejer sig om narkotika.	
+1277	Det var jeg overbevist om dengang og er det stadig.	
+1278	Det er nye tider.	
+1279	Det er ikke som i gamle dage, hvor vi kunne gøre, hvad vi ville.	
+1280	Et afslag er ikke en vennetjeneste.	
+1281	Hvis Don Corleone ejer dommerne og politikerne, må han dele dem med os.	
+1282	Han må lade os hente vand i brønden.	
+1283	Naturligvis kan han kræve at få noget til gengæld.	
+1284	Vi er trods alt ikke kommunister.	
+1285	Jeg tror heller ikke på narkotika.	
+1286	Jeg har betalt mine folk ekstra for at holde sig fra det.	
+1287	Men hvis nogen siger: Jeg har narko.	
+1288	Indskyd 3000-4000 dollars og vi vil tjene 50.000 dollars.	
+1289	Så kan de ikke lade være.	
+1290	Jeg vil kontrollere det som en respektabel forretning.	
+1291	Det skal holdes fra skolerne. Det skal ikke sælges til børn.	
+1292	Det er en skændsel.	
+1293	I min by vil vi kun sælge det til de farvede.	
+1294	Lad bare de dyr miste deres sjæle.	
+1295	Jeg håbede, vi kunne mødes og lade fornuften råde.	
+1296	Og jeg vil gøre, hvad der skal til for at finde en fredelig løsning.	
+1297	Så er vi enige.	
+1298	Narkotikahandel er tilladt under kontrol.	
+1299	Don Corleone vil yde os beskyttelse på østkysten. Vi vil holde fred.	
+1300	Jeg må have en klar garanti fra Corleone.	
+1301	Når han vinder en stærkere position, vil han så hævne sig?	
+1302	[NO TRANSLATION]	missing translation
+1303	Vi behøver ikke give garantier, som om vi var advokater.	
+1304	Du taler om hævn.	
+1305	Vil hævn kunne bringe din dreng tilbage...	
+1306	eller min?	
+1307	Jeg afstår fra at hævne min søn.	
+1308	Men jeg har egoistiske motiver.	
+1309	Min yngste søn blev tvunget til at forlade dette land på grund af Sollozzo-affæren.	
+1310	Jeg er nødt til at sørge for, at han kan vende sikkert tilbage,	
+1311	renset for disse falske beskyldninger.	
+1312	Men jeg er overtroisk,	
+1313	og hvis han skulle være så uheldig at blive skudt af en politimand eller hænge sig i sin fængselscelle eller blive ramt af lynet... Så vil jeg bebrejde nogle af de tilstedeværende.	
+1314	Og det vil ikke blive tilgivet.	
+1315	Men bortset fra det... Lad mig sige, at jeg sværger ved mine børnebørns sjæle, at jeg ikke agter at bryde den fred, vi har sluttet her i dag.	
+1316	Skal jeg insistere på, at Tattaglias narko-mellemmænd er ustraffede?	
+1317	Nævn det,	
+1318	men insistér ikke på det.	
+1319	Den slags behøver man ikke sige til Barzini.	
+1320	Du mener vel Tattaglia?	
+1321	Tattaglia er en sølle alfons.	
+1322	Han kunne aldrig have besejret Santino.	
+1323	Men først i dag fandt jeg ud af, at det var Barzinis værk.	
+1324	[NO TRANSLATION]	missing translation
+1325	[NO TRANSLATION]	missing translation
+1326	[NO TRANSLATION]	missing translation
+1327	[NO TRANSLATION]	missing translation
+1328	Hvor længe har du været tilbage?	
+1329	Et år...	
+1330	Længere end et år, tror jeg.	
+1331	Det er dejligt at se dig, Kay.	
+1332	Jeg arbejder for min far nu, Kay.	
+1333	Han har været syg.	
+1334	Meget syg.	
+1335	Jeg troede ikke, du ville blive som din far.	
+1336	Det har du selv sagt.	
+1337	Min far er ikke anderledes end enhver anden mand med magt.	
+1338	Enhver, der har ansvar for andre.	
+1339	En senator eller præsident.	
+1340	Hvor er du naiv.	
+1341	[NO TRANSLATION]	missing translation
+1342	Senatorer og præsidenter lader ikke folk dræbe.	
+1343	Hvem er nu naiv?	
+1344	Min fars måde at gøre tingene på er passé.	
+1345	Det ved selv han.	
+1346	I løbet af fem år vil familiens aktiviteter være 100% lovlige.	
+1347	Det må du tage mit ord for.	
+1348	[NO TRANSLATION]	missing translation
+1349	[NO TRANSLATION]	missing translation
+1350	Hvorfor kom du?	
+1351	Hvorfor?	
+1352	Hvad vil du mig efter al den tid?	
+1353	Jeg har ringet og skrevet.	
+1354	Jeg er her, fordi jeg har brug for dig	
+1355	og holder af dig.	
+1356	[NO TRANSLATION]	missing translation
+1357	Fordi...	
+1358	jeg ønsker, du gifter dig med mig.	
+1359	Det er for sent.	
+1360	[NO TRANSLATION]	missing translation
+1361	Jeg vil gøre alt, hvad du beder om, for at gøre det godt igen.	
+1362	[NO TRANSLATION]	missing translation
+1363	For det eneste, der betyder noget, er at vi har hinanden.	
+1364	At vi lever vores liv sammen.	
+1365	At vi får børn.	
+1366	Vores børn.	
+1367	Kay, jeg har brug for dig.	
+1368	Og jeg elsker dig.	
+1369	Barzinis folk trænger ustraffede ind på mit territorium.	
+1370	Snart har de erobret hele Brooklyn!	
+1371	Vær tålmodig.	
+1372	[NO TRANSLATION]	missing translation
+1373	Jeg må have lidt mere handlefrihed.	
+1374	Vær tålmodig.	
+1375	[NO TRANSLATION]	missing translation
+1376	Giv mig lov til at rekruttere nye folk.	
+1377	Nej.	
+1378	Barzini skal ikke have en undskyldning for at gå i krig.	
+1379	Mike, du tager fejl!	
+1380	Don Corleone...	
+1381	De har lovet Tessio og mig, at vi en dag kunne grundlægge en Familie.	
+1382	[NO TRANSLATION]	missing translation
+1383	Nu beder jeg Dem om Deres tilladelse til det.	
+1384	Michael er familiens overhoved nu.	
+1385	Hvis han giver tilladelsen, vil I få min velsignelse.	
+1386	Når vi er flyttet til Nevada, kan I frit stifte jeres egen Familie.	
+1387	Hvornår er det?	
+1388	Om et halvt år.	
+1389	Gudfar... når du er væk, vil Barzini få krammet på mig og Pete.	
+1390	Og jeg hader Barzini!	
+1391	Om et halvt år vil vi ikke have noget at bygge på.	
+1392	Stoler I på min dømmekraft?	
+1393	Ja.	
+1394	Er I mig tro?	
+1395	Til evig tid, gudfar.	
+1396	Så vær Michaels venner	
+1397	og gør, som han siger.	
+1398	Vi er i færd med at lægge planer, som vil løse alle jeres problemer.	
+1399	Mere kan jeg ikke sige nu.	
+1400	Carlo, du voksede op i Nevada.	
+1401	Du skal være min højre hånd derude.	
+1402	Tom er ikke længere consigliere.	
+1403	Han skal være vores advokat i Vegas.	
+1404	Der er intet personligt i det.	
+1405	Og hvem kan råde mig bedre end min far?	
+1406	Det var alt.	
+1407	Tak, svigerfar.	
+1408	Jeg er glad på dine vegne.	
+1409	[NO TRANSLATION]	missing translation
+1410	Hvorfor skal jeg ud, Mike?	
+1411	Du er ikke den rette til at være consigliere i en krig.	
+1412	Vi overvejer et farligt træk.	
+1413	Tom...	
+1414	Det var mit råd.	
+1415	Jeg har aldrig ment, du var en dårlig consigliere.	
+1416	Jeg syntes derimod, Santino var en dårlig leder.	
+1417	Michael har min fulde tillid, præcis som du har.	
+1418	Men vi har grunde til at holde dig uden for det, der skal ske.	
+1419	Måske kunne jeg hjælpe.	
+1420	Du kommer ikke med.	
+1421	Det er utroligt, så pænt dit ansigt er blevet.	
+1422	[NO TRANSLATION]	missing translation
+1423	Den læge er dygtig.	
+1424	Hvem fik dig overtalt? Kay?	
+1425	[NO TRANSLATION]	missing translation
+1426	Vi tager dem selv senere.	
+1427	[NO TRANSLATION]	missing translation
+1428	Lad mig åbne døren.	
+1429	[NO TRANSLATION]	missing translation
+1430	Velkommen til Las Vegas.	
+1431	[NO TRANSLATION]	missing translation
+1432	Det var hans idé.	
+1433	[NO TRANSLATION]	missing translation
+1434	[NO TRANSLATION]	missing translation
+1435	Jeg kommer om lidt.	
+1436	Hold dem muntre.	
+1437	Bare sig, hvad du vil have.	
+1438	Hvem er de piger?	
+1439	Det kan du jo prøve at finde ud af.	
+1440	Få dem ud, Fredo.	
+1441	Hør nu, Mike...	
+1442	Jeg er her for at gøre forretninger.	
+1443	Få dem ud.	
+1444	Jeg er træt.	
+1445	Også orkestret.	
+1446	Gå med jer.	
+1447	[NO TRANSLATION]	missing translation
+1448	Af sted.	
+1449	[NO TRANSLATION]	missing translation
+1450	[NO TRANSLATION]	missing translation
+1451	[NO TRANSLATION]	missing translation
+1452	Skrid så!	
+1453	Kom så, skat.	
+1454	Jeg ved ikke, hvad der plager ham.	
+1455	[NO TRANSLATION]	missing translation
+1456	[NO TRANSLATION]	missing translation
+1457	Han er vel træt.	
+1458	Hvor er Moe Greene?	
+1459	Han skulle noget andet.	
+1460	Han bad os ringe, når festen begyndte.	
+1461	Så ring.	
+1462	Davs, Johnny.	
+1463	Davs, Mike. Rart at se dig.	
+1464	Vi er stolte af dig.	
+1465	[NO TRANSLATION]	missing translation
+1466	Sid ned. Vi skal snakke.	
+1467	Min far er også stolt af dig.	
+1468	Det hele er hans fortjeneste.	
+1469	Han ved, hvor taknemlig du er.	
+1470	Han beder dig gøre ham en tjeneste.	
+1471	Hvad kan jeg gøre?	
+1472	Familien Corleone agter at opgive olivenolie-branchen og flytte herud.	
+1473	Moe Greene vil sælge sin andel af kasinoet og hotellet til Familien.	
+1474	[NO TRANSLATION]	missing translation
+1475	Er du sikker på det?	
+1476	[NO TRANSLATION]	missing translation
+1477	Moe har ikke sagt, han er villig til at sælge.	
+1478	Jeg giver ham et tilbud, han ikke kan afslå.	
+1479	[NO TRANSLATION]	missing translation
+1480	Vi mener, at god underholdning vil kunne trække spillere til kasinoet.	
+1481	Vi håber, du vil skrive under på at optræde fem gange om året...	
+1482	og måske overtale nogle af dine venner fra filmbranchen til det.	
+1483	Vi regner med dig.	
+1484	Selvfølgelig, Mike.	
+1485	Der er ikke det, jeg ikke vil gøre for min gudfar.	
+1486	[NO TRANSLATION]	missing translation
+1487	[NO TRANSLATION]	missing translation
+1488	Davs, venner.	
+1489	Jeg ser, alle er her.	
+1490	[NO TRANSLATION]	missing translation
+1491	Rart at se dig, Mike.	
+1492	Davs, Moe.	
+1493	[NO TRANSLATION]	missing translation
+1494	Vi har lækker mad og lækre danserinder til dig.	
+1495	Giv alle her jetoner, så de kan spille på husets regning.	
+1496	Kan jeg også få lov til at købe din andel?	
+1497	Købe min andel?	
+1498	Kasinoet, hotellet.	
+1499	Familien Corleone ønsker at købe din andel.	
+1500	Vil Familien Corleone købe min andel?	
+1501	Jeg køber jeres, ikke omvendt.	
+1502	Dit kasino kører med underskud.	
+1503	[NO TRANSLATION]	missing translation
+1504	Tror du, jeg hugger af kassen?	
+1505	Du er uheldig.	
+1506	I er sgu morsomme!	
+1507	Jeg gør jer en tjeneste og tager Freddy med, og så prøver I at smide mig ud!	
+1508	Familien Corleone finansierede dit kasino, og Familien Molinari garanterede for Fredos sikkerhed.	
+1509	Lad os snakke forretninger.	
+1510	Ja, lad os det!	
+1511	For det første kører I på pumperne!	
+1512	[NO TRANSLATION]	missing translation
+1513	Don Corleone er syg!	
+1514	Barzini og de andre jager jer ud af New York.	
+1515	Tror du, I bare kan komme og overtage mit hotel?	
+1516	[NO TRANSLATION]	missing translation
+1517	Jeg kan lave en aftale med Barzini og beholde mit hotel!	
+1518	Var det derfor, du ydmygede min bror offentligt?	
+1519	Det var ingenting.	
+1520	Moe mente ikke noget med det.	
+1521	Han ryger i flint nu og da, men Moe og mig er gode venner.	
+1522	Som chef er jeg nødt til at råbe højt en gang imellem.	forced duplication
+1523	Som chef er jeg nødt til at råbe højt en gang imellem.	forced duplication
+1524	Vi var uenige, så jeg blev nødt til at sætte ham på plads.	
+1525	Satte du min bror på plads?	
+1526	Han knaldede med servitricerne!	
+1527	Spillerne kunne ikke få deres drinks!	
+1528	Hvad er der i vejen med dig?	
+1529	Jeg flyver til New York i morgen.	
+1530	Tænk over en pris.	
+1531	Dit dumme svin!	
+1532	<Er du klar over, hvem jeg er?/> Moe Greene!	missing English
+1533	Jeg var med, da du var en snothvalp!	
+1534	[NO TRANSLATION]	missing translation
+1535	Jeg har en idé.	
+1536	Tom, du er consigliere,	
+1537	og du kan tale med far...	
+1538	Et øjeblik!	
+1539	Det er Mike, der er Familiens overhoved nu.	
+1540	Hvis du har noget at sige, så sig det til Michael.	
+1541	Mike! Sådan taler man ikke til en mand som Moe Greene!	
+1542	Fredo...	
+1543	Du er min storebror, og jeg elsker dig.	
+1544	Men tag aldrig en andens parti imod Familien igen...	
+1545	Aldrig.	
+1546	Jeg skal mødes med far og de andre, så spis middag uden mig.	
+1547	I weekenden går vi i teatret og spiser middag. <Det lover jeg./>	missing English, forced duplication
+1548	I weekenden går vi i teatret og spiser middag. <Det lover jeg./>	missing English, forced duplication
+1549	Din søster vil spørge dig om noget.	
+1550	Så lad hende spørge.	
+1551	Hun tør ikke.	
+1552	De ønsker, du bliver deres lille drengs gudfar.	
+1553	Jeg vil tænke over det.	
+1554	[NO TRANSLATION]	missing translation
+1555	Vi får se.	
+1556	[NO TRANSLATION]	missing translation
+1557	Barzini vil foretage det første træk imod dig.	
+1558	Han vil arrangere et møde gennem en, som har din fulde tillid,	
+1559	så du føler dig sikker.	
+1560	Og ved det møde vil du blive myrdet.	
+1561	Jeg holder mere af vin end før i tiden.	
+1562	Jeg drikker i hvert fald mere.	
+1563	Du har godt af det, far.	
+1564	Det ved jeg nu ikke...	
+1565	Din kone og dine børn... er I lykkelige sammen?	
+1566	Meget lykkelige.	
+1567	Det er godt.	
+1568	Jeg håber ikke, du har noget imod, at jeg tager det med Barzini op?	
+1569	Nej. Slet ikke.	
+1570	Det er en gammel vane.	
+1571	Jeg prøver på ikke at være efterladende.	
+1572	Kvinder og børn kan godt være efterladende, men ikke mænd.	
+1573	Hvordan har din dreng det?	
+1574	Godt.	
+1575	Han kommer til at ligne dig mere og mere.	
+1576	Han er kvikkere end mig.	
+1577	Han er tre år, og han læser tegneserier.	
+1578	Tegneserier...	
+1579	Få en telefonmand til at checke alle opringninger til og fra huset.	
+1580	Det har jeg allerede gjort.	
+1581	[NO TRANSLATION]	missing translation
+1582	Det er rigtigt.	
+1583	Det havde jeg glemt.	
+1584	Hvad er der?	
+1585	Hvad er det, der trykker dig?	
+1586	Jeg skal nok klare det.	
+1587	Det har jeg jo fortalt dig.	
+1588	Jeg vidste, Santino skulle igennem alt det her...	
+1589	Og Fredo.	
+1590	Fredo var...	
+1591	Men jeg har aldrig ønsket, at du skulle ind i det.	
+1592	Jeg har arbejdet hele mit liv for at kunne forsørge min familie.	
+1593	[NO TRANSLATION]	missing translation
+1594	Og jeg har altid nægtet at lade mig dirigere af alle de... store kanoner.	
+1595	Jeg skal ikke undskylde noget,	
+1596	men jeg tænkte... at når din tid kom, så ville du blive en af dem, der trak i trådene.	
+1597	Senator Corleone...	
+1598	Guvernør Corleone...	
+1599	[NO TRANSLATION]	missing translation
+1600	Endnu en pezzo da novanta.	
+1601	[NO TRANSLATION]	missing translation
+1602	Der var bare ikke tid nok, Michael.	
+1603	[NO TRANSLATION]	missing translation
+1604	Vi skal nok nå derop, far.	
+1605	[NO TRANSLATION]	missing translation
+1606	Den, der kommer og foreslår dig et møde med Barzini, det er forræderen.	
+1607	Glem ikke det.	
+1608	Må jeg prøve?	
+1609	Må jeg vande dem her?	
+1610	Ja, værsgo.	
+1611	Herhenne.	
+1612	Pas på.	
+1613	Du spilder det.	
+1614	Anthony,	
+1615	kom her.	
+1616	Sådan.	
+1617	Vi lægger den her.	
+1618	Jeg vil vise dig noget.	
+1619	Kom.	
+1620	Stå dér.	
+1621	Giv mig en appelsin.	
+1622	Løb derind.	
+1623	[NO TRANSLATION]	missing translation
+1624	Hvor er du?	
+1625	[NO TRANSLATION]	missing translation
+1626	Mike, har du tid et øjeblik?	
+1627	Barzini ønsker at arrangere et møde	
+1628	for at få løst vores problemer.	
+1629	Har du talt med ham?	
+1630	Ja.	
+1631	Jeg kan garantere for din sikkerhed...	
+1632	på mit territorium.	
+1633	All right?	
+1634	[NO TRANSLATION]	missing translation
+1635	Ved du, hvordan de vil gå til angreb på dig?	
+1636	De arrangerer et møde i Brooklyn	
+1637	på Tessios territorium...	
+1638	hvor jeg kan føle mig sikker.	
+1639	Jeg troede, det ville blive Clemenza, ikke Tessio.	
+1640	Det er et klogt træk.	
+1641	Tessio har altid været den klogeste af de to.	
+1642	Men jeg vil vente.	
+1643	Til efter barnedåben.	
+1644	Jeg har sagt ja til at blive gudfar til Connies baby.	
+1645	Så vil jeg mødes med Don Barzini. Og Tattaglia.	
+1646	Alle overhovederne for De fem Familier.	
+1647	Tror du på Gud Fader, Himmelens og jordens skaber?	
+1648	Ja.	
+1649	Tror du på Jesus Kristus, hans enbårne Søn?	
+1650	Ja.	
+1651	Tror du på Helligånden, den hellige, katolske kirke?	
+1652	Ja.	
+1653	Michael Francis Rizzi, forsager du Djævelen?	
+1654	Jeg forsager ham.	
+1655	Og alle hans gerninger?	
+1656	Jeg forsager dem.	
+1657	[NO TRANSLATION]	missing translation
+1658	Og alt hans væsen?	
+1659	Jeg forsager det.	
+1660	Michael Rizzi... vil du døbes?	
+1661	Ja.	
+1662	I Faderens og Sønnens og Helligåndens navn. Michael Rizzi, fred være med dig.	
+1663	Amen.	
+1664	[NO TRANSLATION]	missing translation
+1665	Kys din gudfar.	
+1666	Carlo, vi kan ikke tage til Vegas.	
+1667	[NO TRANSLATION]	missing translation
+1668	De andre må tage af sted uden os.	
+1669	Åh, Michael, det er vores første ferie sammen.	
+1670	[NO TRANSLATION]	missing translation
+1671	Tag hjem og vent på, at jeg ringer.	
+1672	Det er vigtigt.	
+1673	Det drejer sig kun om et par dage.	
+1674	Vi kører til Brooklyn nu.	
+1675	Jeg håber, Mike skaffer os en god aftale.	
+1676	Det er jeg sikker på.	
+1677	Bossen kommer i sin egen bil. Han sagde, I to bare skulle køre.	
+1678	Umuligt! Jeg har alt arrangeret.	
+1679	Det var hans ordre.	
+1680	Jeg kører heller ikke med, Sal.	
+1681	Fortæl Mike, det var ren forretning.	
+1682	Jeg har altid syntes om ham.	
+1683	Det er han klar over.	
+1684	Undskyld mig, Sal.	
+1685	Tom, kan du redde mig...	
+1686	for gammelt venskabs skyld?	
+1687	Det kan jeg ikke, Sally.	
+1688	Du kommer til at stå til ansvar for Santino, Carlo.	
+1689	Det er en misforståelse.	
+1690	Du lokkede Sonny i fælden.	
+1691	Den lille farce, du spillede med min søster.	
+1692	Tror du, du kan narre en Corleone?	
+1693	Jeg er uskyldig.	
+1694	[NO TRANSLATION]	missing translation
+1695	Du må ikke gøre det.	
+1696	Sid ned.	
+1697	Det må du ikke, Mike.	
+1698	Barzini er død.	
+1699	Det er Phillip Tattaglia også.	
+1700	Og Moe Greene.	
+1701	Strachi.	
+1702	Cuneo.	
+1703	I dag gør jeg Familiens regnskab op, så sig ikke, du er uskyldig.	
+1704	Indrøm, hvad du gjorde.	
+1705	Giv ham en drink.	
+1706	[NO TRANSLATION]	missing translation
+1707	Vær ikke bange.	
+1708	Tror du, jeg ville gøre min søster til enke?	
+1709	Jeg er din søns gudfar, Carlo.	
+1710	Drik.	
+1711	Nej, Carlo. Du bliver forvist fra familiens affærer.	
+1712	Det er din straf.	
+1713	[NO TRANSLATION]	missing translation
+1714	Jeg sætter dig på et fly til Las Vegas...	
+1715	Tom?	
+1716	Jeg ønsker, du bliver der.	
+1717	Forstået?	
+1718	Men sig ikke, at du er uskyldig.	
+1719	Det er en fornærmelse mod min intelligens,	
+1720	og det gør mig meget vred.	
+1721	Hvem kontaktede dig?	
+1722	Tattaglia eller Barzini?	
+1723	Det var Barzini.	
+1724	Godt.	
+1725	Der holder en bil udenfor. Den vil køre dig til lufthavnen.	
+1726	Jeg ringer til din kone og fortæller hende, hvilket fly du kommer med.	
+1727	[NO TRANSLATION]	missing translation
+1728	Forsvind!	
+1729	Dav, Carlo.	
+1730	[NO TRANSLATION]	missing translation
+1731	[NO TRANSLATION]	missing translation
+1732	Michael!	
+1733	Hvad er der?	
+1734	Hvor er han?	
+1735	Michael, dit beskidte udyr!	
+1736	Du dræbte min mand!	
+1737	Du ventede, til far var død, så ingen kunne stoppe dig.	
+1738	Du gav ham skylden for Sonnys død,	
+1739	[NO TRANSLATION]	missing translation
+1740	men mig var du ligeglad med!	
+1741	Hvad skal jeg gøre nu?	
+1742	Connie...	
+1743	Hvorfor tror du, han ansatte Carlo?	
+1744	Han ventede bare på at dræbe ham.	
+1745	Og du er gudfar til vores barn!	
+1746	Din koldhjertede skid!	
+1747	Vil du vide, hvor mange han har dræbt?	
+1748	Læs aviserne!	
+1749	Det er din mand!	
+1750	[NO TRANSLATION]	missing translation
+1751	[NO TRANSLATION]	missing translation
+1752	Tag hende med op ovenpå.	
+1753	Få fat i en læge til hende.	
+1754	Hun er hysterisk.	
+1755	Hysterisk.	
+1756	Er det sandt?	
+1757	Spørg ikke om mine forretninger.	
+1758	Er det sandt?!	
+1759	Spørg mig ikke om mine forretninger!	
+1760	[NO TRANSLATION]	missing translation
+1761	Godt.	
+1762	Denne ene gang...	
+1763	Denne ene gang får du lov til at spørge.	
+1764	Er det sandt?	
+1765	Er det?	
+1766	Nej.	
+1767	Vi trænger vist begge to til en drink.	
+1768	[NO TRANSLATION]	missing translation
+1769	Don Corleone.	

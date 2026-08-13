@@ -1,0 +1,1769 @@
+1	Cred în America.	
+2	America mi-a adus averea.	
+3	Şi mi-am crescut fiica după stilul de viaţă american.	
+4	A avut libertate, dar am învăţat-o să nu-şi dezonoreze familia.	
+5	Şi-a găsit un băiat, nu e italian.	
+6	A fost la film cu el.	
+7	Au stat până târziu.	
+8	Nu am protestat.	
+9	Acum două luni a luat-o cu maşina, cu un alt prieten de-al lui.	
+10	Au pus-o să bea whisky... şi apoi au încercat să profite de ea.	
+11	S-a opus, a încercat să-şi păstreze onoarea.	
+12	Aşa că au bătut-o ca pe un animal.	
+13	Când am văzut-o la spital, avea nasul rupt, maxilarul fracturat şi legat cu sârme.	
+14	Nici măcar nu putea să plângă din cauza durerii.	
+15	Dar eu am plâns.	
+16	De ce am plâns?	
+17	Ea era lumina vieţii mele.	
+18	Era o fată frumoasă.	
+19	Acum nu va mai putea fi la fel de frumoasă.	
+20	Îmi pare rău.	
+21	M-am dus la poliţie, ca un bun american.	
+22	Băieţii aceştia au fost aduşi în faţa justiţiei.	
+23	Judecătorul le-a dat trei ani de închisoare, dar cu suspendare.	
+24	A anulat pedeapsa!	
+25	Au fost eliberaţi chiar în ziua aceea!	
+26	Stăteam la tribunal, prostit.	
+27	Ticăloşii ăia doi mi-au zâmbit.	
+28	I-am spus soţiei, Pentru dreptate, trebuie să apelăm la Don Corleone.	
+29	De ce te-ai dus la poliţie?	
+30	De ce nu ai venit întâi la mine?	
+31	Ce vrei de la mine?	
+32	Fac orice, dar ajută-mă să obţin ceea ce vreau.	
+33	Ce anume?	
+34	Vreau să moară.	
+35	Nu pot să fac asta.	
+36	Îţi dau orice îmi ceri.	
+37	Te ştiu de mulţi ani, dar abia acum e prima dată când îmi ceri ajutorul.	
+38	Nici nu mai ştiu de când nu m-ai mai invitat la o cafea.	
+39	Deşi soţia mea e naşa unicului tău copil.	
+40	Să nu ne ascundem după deget.	
+41	Nu ai avut nevoie de prietenia mea.	
+42	Şi nu voiai să ai vreo datorie faţă de mine.	
+43	Nu voiam să am probleme.	
+44	Înţeleg.	
+45	Ai găsit Paradisul în America.	
+46	Câştigai bine, poliţia te proteja şi existau tribunale.	
+47	Nu aveai nevoie de un prieten de teapa mea.	
+48	Dar acum, vii la mine şi-mi spui,	
+49	Don Corleone, vreau dreptate.	
+50	Dar nu mi-o spui pe un ton respectuos.	
+51	Nu îmi oferi prietenia ta.	
+52	Nici măcar nu-mi spui Naşule.	
+53	Vii în ziua nunţii fiicei mele şi-mi ceri să ucid pentru bani.	
+54	Vreau să mi se facă dreptate.	
+55	Asta nu e dreptate.	
+56	Fiica ta trăieşte încă.	
+57	Atunci să sufere şi ei cum suferă ea.	
+58	Cât vrei să-ţi ofer?	
+59	Bonasera.	
+60	Ce ţi-am făcut eu de mă tratezi cu atâta lipsă de respect?	
+61	Dacă ai fi fost mai prietenos, nenorocitul ăla ar suferi chiar astăzi.	
+62	Şi dacă un om cinstit, ca tine, ar fi avut duşmani, ar fi fost duşmanii mei.	
+63	Şi atunci s-ar fi temut de tine.	
+64	Vrei să fii prietenul meu?	
+65	Naşule?	
+66	Bine.	
+67	Într-o zi, care s-ar putea să nu vină vreodată, o să-ţi cer o favoare.	
+68	Dar până atunci, dreptatea mea va fi un fel de cadou pe care ţi-l ofer la nunta fiicei mele.	
+69	Grazie, Naşule.	
+70	Prego.	
+71	Dă-i asta Clemenzei!	
+72	Vreau oameni care să nu se lase duşi de val.	
+73	Nu suntem criminali, în ciuda spuselor acestui antreprenor.	
+74	Unde e Michael?	
+75	Nu-ţi face griji, o să vină.	
+76	Nu facem poza asta fără Michael.	
+77	Ce e?	
+78	E Michael.	
+79	Don Barzini.	
+80	Paulie!	
+81	Vreau şi eu nişte vin.	
+82	Paulie!	
+83	Mai adu vin!	
+84	Arăţi minunat pe ringul de dans.	
+85	Eşti în juriu la un concurs de dans?	
+86	Du-te şi fă-ţi treaba!	
+87	Sandra, ai grijă de copii!	
+88	Nu-i lăsa să alerge pe aici!	
+89	Ai grijă de tine, da?	
+90	20, 30 de mii.	
+91	În bancnote mici.	
+92	În gentuţa aceea.	
+93	Dacă ar fi fost nunta altcuiva...	
+94	Sfortunato!	
+95	Paulie!	
+96	[NO TRANSLATION]	missing translation
+97	Ce idiot!	
+98	Ce s-a întâmplat?	
+99	Trebuie să lucrez.	
+100	Tom.	
+101	[NO TRANSLATION]	missing translation
+102	Niciun sicilian nu refuză o dorinţă în ziua nunţii fiicei lui.	
+103	Don Corleone, mă simt onorat că m-ai invitat.	
+104	Plecaţi de aici!	
+105	E o petrecere privată.	
+106	Căraţi-vă!	
+107	Ce e?	
+108	E nunta surorii mele.	
+109	Nenorociţii de la FBI nu au niciun pic de respect!	
+110	Vino încoace!	
+111	Recent a fost eliberat pentru a participa la efortul Americii în război, aşa că în ultimele şase luni a lucrat la patiseria mea.	
+112	Nazorine, cu ce te pot ajuta?	
+113	Acum, că războiul s-a terminat, vor să-l repatrieze în Italia pe băiatul acesta, Enzo.	
+114	Naşule, eu am o fiică.	
+115	Ea şi acest Enzo...	
+116	Vrei ca Enzo să rămână aici şi să se căsătorească cu fiica ta.	
+117	Înţelegi totul.	
+118	Domnule Hagen.	
+119	Mulţumesc.	
+120	Stai să vezi tortul de nuntă pe care l-am făcut pentru fiica ta!	
+121	Mireasa, mirele şi îngerul...	
+122	Cui să-i dau această sarcină?	
+123	Nu unui compatriot.	
+124	Dă-i-o unui congresmen evreu din alt district.	
+125	Cine mai e pe listă?	
+126	Michael!	
+127	Deşi nu e pe listă, Luca Brasi vrea să vorbească cu tine.	
+128	Chiar e necesar?	
+129	Nu se aştepta să fie invitat la nuntă şi vrea să-ţi mulţumească.	
+130	Don Corleone, sunt extrem de onorat că m-ai invitat... la nunta fiicei dumitale.	
+131	Fie ca primul copil să fie un băiat.	
+132	Michael...	
+133	Bărbatul acela vorbeşte singur.	
+134	Îl vezi pe bărbatul acela înspăimântător?	
+135	E de-a dreptul înspăimântător.	
+136	Cum îl cheamă?	
+137	Îl cheamă Luca Brasi.	
+138	Îl ajută pe tata uneori.	
+139	Michael, vine încoace!	
+140	Arăţi minunat!	
+141	Fratele meu, Tom Hagen, ea e dra Kay Adams.	
+142	Tatăl tău te căuta.	
+143	Încântat de cunoştinţă.	
+144	Şi eu.	
+145	Cum se face că fratele tău are un alt nume?	
+146	Fratele meu, Sonny, l-a găsit pe Tom Hagen pe stradă.	
+147	Nu avea unde să stea, aşa că tata l-a luat la noi.	
+148	De atunci e cu noi.	
+149	E un bun avocat.	
+150	Nu e sicilian.	
+151	Cred că va fi consigliere.	
+152	Ce-i aia?	
+153	E... un fel de consilier.	
+154	Un membru important al familiei.	
+155	Îţi plac lasagna?	
+156	Don Corleone.	
+157	E o mare cinste pentru mine... că m-ai invitat la nunta fiicei dumitale.	
+158	În ziua nunţii fiicei dumitale.	
+159	Sper ca primul ei copil să fie băiat.	
+160	Îmi declar loialitatea absolută.	
+161	Pentru geanta fiicei dumitale.	
+162	Îţi mulţumesc, Luca,	
+163	prieten drag.	
+164	Don Corleone, o să plec acum, fiindcă ştiu că eşti ocupat.	
+165	Mulţumesc.	
+166	Signora Corleone!	
+167	Nu!	
+168	Senatorul Cauley îşi cere scuze că lipseşte, dar a spus că o să înţelegi.	
+169	La fel şi unii dintre judecători.	
+170	Toţi au trimis cadouri.	
+171	Ce se aude afară?	
+172	Johnny!	
+173	Johnny!	
+174	Te iubesc!	
+175	A venit tocmai din California.	
+176	Ţi-am spus că o să vină!	
+177	Probabil că iar are probleme.	
+178	E un fin bun.	
+179	Johnny, Johnny!	
+180	Cântă-ne ceva!	
+181	Nu mi-ai spus că îl cunoşti pe Johnny Fontane!	
+182	Sigur că da.	
+183	Vrei să ţi-l prezint?	
+184	Minunat!	
+185	Desigur.	
+186	Tata l-a ajutat în carieră.	
+187	Da?	
+188	Cum?	
+189	Să ascultăm cântecul!	
+190	Michael...	
+191	Te rog, Michael.	
+192	Spune-mi!	
+193	La începutul carierei, Johnny semnase un contract de colaborare... cu liderul unei trupe.	
+194	Apoi, după o vreme, a vrut să renunţe la ei.	
+195	Johnny e finul tatălui meu.	
+196	Tata s-a dus să discute cu liderul acestui grup.	
+197	I-a oferit 10.000 de dolari ca să-l lase pe Johnny să plece, dar acesta a refuzat.	
+198	Aşa că tata s-a dus iar la el a doua zi, de data asta cu Luca Brasi.	
+199	Peste o oră, a semnat contractul, primind în schimb un cec de o mie de dolari.	
+200	Cum a reuşit?	
+201	I-a făcut o ofertă de nerefuzat.	
+202	Cum adică?	
+203	Luca Brasi i-a ţinut arma la cap, iar tata l-a pus să aleagă între creierii lui şi semnarea contractului.	
+204	E o poveste adevărată.	
+205	Asta e familia mea, Kay.	
+206	Eu nu sunt aşa.	
+207	Minunat!	
+208	Mă ocup eu.	
+209	Tom!	
+210	Vreau să-l găseşti pe Santino.	
+211	Spune-i să vină în biroul meu!	
+212	Ce faci, Fredo?	
+213	Fratele meu Fredo, ea e Kay Adams.	
+214	Bună!	
+215	Salut!	
+216	El e fratele meu, Mike.	
+217	Te distrezi bine?	
+218	Da.	
+219	Ea e prietena ta?	
+220	Nu ştiu ce să mai fac.	
+221	Am probleme cu vocea.	
+222	[NO TRANSLATION]	missing translation
+223	Dacă aş obţine rolul ăsta în film, aş ajunge din nou pe culmi.	
+224	Dar un individ nu vrea să mi-l dea, şeful studioului.	
+225	Cum îl cheamă?	
+226	Woltz.	
+227	Nu vrea să mi-l dea şi spune că nu am nicio şansă.	
+228	Sonny?	
+229	Sonny?	
+230	Sonny?	
+231	Sonny, eşti acolo?	
+232	Ce e?	
+233	Bătrânul vrea să discute cu tine.	
+234	Vin imediat.	
+235	Acum o lună a cumpărat un scenariu după o carte de pe piaţă, un best-seller.	
+236	Personajul principal e un individ exact ca mine.	
+237	Nici măcar nu ar trebui să interpretez rolul.	
+238	Naşule, nu ştiu ce să mă fac.	
+239	Poţi să te porţi ca un bărbat!	
+240	Ce-i cu tine?	
+241	Te-ai transformat într-un papă-lapte care plânge ca o femeie?	forced duplication
+242	Te-ai transformat într-un papă-lapte care plânge ca o femeie?	forced duplication
+243	Ce să mă fac,	
+244	ce să mă fac?	
+245	Ce sunt prostiile astea?	
+246	E ridicol.	
+247	Îţi petreci ceva timp cu familia?	
+248	Desigur.	
+249	Bine.	
+250	Un om care nu-şi petrece timpul cu familia, nu e un om adevărat.	
+251	Arăţi groaznic.	
+252	Vreau să mănânci.	
+253	Odihneşte-te! Peste o lună, acest şmecher de la Hollywood îţi va da ce vrei.	
+254	E prea târziu, filmările încep peste o săptămână.	
+255	O să-i fac o ofertă pe care nu o poate refuza.	
+256	Du-te şi distrează-te şi uită de prostiile astea!	
+257	Lasă totul în seama mea!	
+258	Bine.	
+259	Când pleacă fiica mea?	
+260	În curând, după ce taie tortul.	
+261	Îi dăm ceva măreţ ginerelui tău?	
+262	Nu.	
+263	Să trăiască decent, dar să nu discutaţi cu el afacerile familiei.	
+264	Altceva?	
+265	Virgil Sollozzo a sunat.	
+266	Să-l chemăm săptămâna viitoare.	
+267	După ce te întorci din California.	
+268	Când plec în California?	
+269	În seara asta.	
+270	Vreau să discuţi cu regizorul ăsta şi să rezolvi problema lui Johnny.	
+271	Dacă nu mai e nimic, aş vrea să merg la nunta fiicei mele.	
+272	Carlo, vom face o poză.	
+273	O clipă.	
+274	Nu, Michael.	
+275	Eu nu am ce căuta.	
+276	Aşa e foarte bine.	
+277	[NO TRANSLATION]	missing translation
+278	Nu mişcaţi!	
+279	Trebuie mai multă dăruire.	
+280	Te ascult.	
+281	Am fost trimis de un prieten al lui Johnny Fontane.	
+282	Omul acesta e dispus să fie prietenul domnului Woltz, în schimbul unui serviciu.	
+283	Woltz te ascultă.	
+284	Dă-i lui Johnny rolul din filmul pe care îl faceţi săptămâna viitoare.	
+285	Şi cum l-ar răsplăti prietenul tău pe domnul Woltz?	
+286	Ar putea face să dispară viitoarele probleme cu sindicatele.	
+287	Şi un star tocmai a trecut de la marijuana la heroină.	
+288	Încerci să mă mituieşti?	
+289	Ascultă, ticălosule!	
+290	Să mă exprim clar.	
+291	Johnny Fontane nu va fi niciodată în filmul ăla,	
+292	indiferent câţi şmecheri de genul ăsta vor mai veni la mine!	
+293	Sunt germano-irlandez.	
+294	Ascultă, neamţo-irlandezule.	
+295	O să ai probleme cu mine!	
+296	Sunt avocat.	
+297	Nu am ameninţat.	
+298	Îi ştiu pe marii avocaţi din New York.	
+299	Tu cine eşti?	
+300	Eu am o sarcină specială.	
+301	Am grijă de un singur client.	
+302	Aştept să mă suni.	
+303	Apropo, sunt un mare admirator al filmelor dumitale.	
+304	Vezi ce-i cu el.	
+305	E minunat.	
+306	Fii atent aici.	
+307	A fost în palatul unui rege.	
+308	Foarte frumos.	
+309	De ce nu mi-ai spus că lucrezi pentru Corleone?	
+310	Credeam că eşti un agitator mărunt pe care l-a trimis Johnny.	
+311	Îi pomenesc numele doar la nevoie.	
+312	Cum e băutura?	
+313	E foarte bună.	
+314	Să-ţi arăt ceva splendid.	
+315	Ştii să apreciezi frumuseţea, nu?	
+316	Fii atent.	
+317	600.000 de dolari pe patru copite.	
+318	Pariez că ţarii ruşi n-au dat niciodată atâţia bani pe un cal.	
+319	Khartoum.	
+320	Khartoum.	
+321	Totuşi, n-o să-l călăresc.	
+322	O să-l dau la împerecheat.	
+323	Mulţumesc, Tony.	
+324	Hai să mâncăm ceva!	
+325	Corleone e naşul lui Johnny.	
+326	Pentru italieni aceasta e o legătură strânsă şi sacră.	
+327	O respect.	
+328	Spune-i să-mi ceară orice altceva,	
+329	dar asta nu pot.	
+330	Nu cere niciodată un serviciu dacă i-a fost refuzat primul.	
+331	Nu înţelegi.	
+332	Johnny Fontane n-o să joace niciodată în filmul ăla.	
+333	Rolul e perfect pentru el.	
+334	Ar deveni o mare celebritate.	
+335	O să-l scot din afaceri, şi dă-mi voie să-ţi spun de ce.	
+336	Johnny Fontane a distrus un protejat important al casei de filme Woltz.	
+337	Am antrenat-o vreme de cinci ani.	
+338	Lecţii de canto, de actorie şi de dans.	
+339	Am cheltuit sute de mii de dolari ca să fac din ea o mare stea.	
+340	Să mă exprim şi mai clar.	
+341	Vreau să-ţi arăt că nu sunt încăpăţânat	
+342	şi că nu mă gândesc numai la bani.	
+343	Era superbă.	
+344	Era tânără şi inocentă!	
+345	Era cea mai frumoasă femeie pe care am văzut-o vreodată.	
+346	Apoi apare Johnny Fontane, cu vocea lui melodioasă şi cu şarmul lui personal.	
+347	Iar ea fuge.	
+348	A renunţat la totul doar ca să mă defăimeze!	
+349	Şi un om ca mine nu-şi permite să fie luat în râs!	
+350	Pleacă, dracului, de aici!	
+351	Dacă gangsterul încearcă ceva, spune-i că nu sunt şef de trupă.	
+352	Da, am auzit povestea.	
+353	Îţi mulţumesc pentru cină şi pentru o seară plăcută.	
+354	Poate şoferul tău m-ar putea duce cu maşina la aeroport.	
+355	Domnul Corleone insistă să afle repede veştile proaste.	
+356	Nu eşti prea obosit, Tom?	
+357	Nu, am dormit în avion.	
+358	Am mesajele de la Sollozzo.	
+359	Ei bine...	
+360	Sollozzo e cunoscut drept Turcul.	
+361	Cică se pricepe la mânuit cuţitul, dar numai în afacerile care nu ies cum trebuie.	
+362	Se ocupă de narcotice.	
+363	Are culturi de opiu în Turcia.	
+364	În Sicilia are fabrici unde îl transformă în heroină.	
+365	Are nevoie de bani şi de protecţie în faţa poliţiei.	
+366	Oferă o parte din acţiuni,	
+367	dar nu ştiu cât.	
+368	Familia Tattaglia îl susţine.	
+369	Probabil că au şi ei partea lor.	
+370	A stat la închisoare?	
+371	O dată în Italia, o dată aici.	
+372	E cunoscut ca un mare traficant de droguri.	
+373	Santino, ce părere ai?	
+374	Sunt mulţi bani în pulberea albă.	
+375	Tom?	
+376	Da.	
+377	Narcoticele aduc mai mulţi bani decât orice altceva.	
+378	Dacă nu ne implicăm, o va face altcineva, poate cele cinci familii.	
+379	Cu banii aceia poţi cumpăra mai multă poliţie şi putere politică.	
+380	Şi apoi vom fi hăituiţi.	
+381	Avem sindicatele şi jocurile de noroc, dar narcoticele sunt viitorul.	
+382	Dacă nu ne băgăm şi noi, riscăm să pierdem totul peste 10 ani.	
+383	Deci,	
+384	ce ai de gând să faci, tati?	
+385	Don Corleone.	
+386	Am nevoie de un om cu prieteni puternici.	
+387	Şi de un milion de dolari, bani-gheaţă.	
+388	Am nevoie de politicienii pe care îi ai la degetul mic.	
+389	Şi ce câştigă familia mea?	
+390	30 la sută.	
+391	În primul an ar fi vorba de trei, patru milioane de dolari.	
+392	Dar apoi veniturile vor creşte.	
+393	Şi ce obţine din asta familia Tattaglia?	
+394	Complimentele mele.	
+395	O să am eu grijă de ei, din partea mea.	
+396	Deci primesc 30 la sută pentru finanţare, influenţă politică şi protecţie în faţa legii?	
+397	Exact.	
+398	De ce vii la mine?	
+399	Cum de eşti atât de generos?	
+400	Dacă eşti dispus să mă finanţezi cu un milion de dolari, te salud, Don Corleone.	
+401	Am fost de acord să te primesc fiindcă am auzit că eşti un om serios, demn de respect.	
+402	Dar trebuie să refuz oferta.	
+403	Şi o să-ţi spun şi motivul.	
+404	E adevărat că am mulţi prieteni în politică.	
+405	Dar i-aş pierde repede dacă aş trece la droguri de la jocurile de noroc, care sunt considerate inofensive. Dar drogurile sunt o afacere murdară.	
+406	Nu are importanţă pentru mine cum îşi câştigă oamenii pâinea.	
+407	Dar afacerea ta e... un pic cam periculoasă.	
+408	Dacă te îngrijorează siguranţa, familia Tattaglia ţi-o va asigura.	
+409	Tattaglia ar garanta şi...	
+410	Stai puţin!	
+411	Ţin prea mult la copiii mei şi îi răsfăţ.	
+412	Vorbesc când ar trebui să asculte.	
+413	Oricum...	
+414	Signor Sollozzo, răspunsul e final.	
+415	Te felicit cu ocazia noii afaceri.	
+416	Ştiu că-ţi va merge bine şi îţi urez succes.	
+417	Mai ales că interesele tale nu intră în conflict cu ale mele.	
+418	Mulţumesc.	
+419	Santino.	
+420	Vino încoace!	
+421	Ce-i cu tine?	
+422	Te-ai prostit de când te joci cu fata aia.	
+423	Nu le mai spune celor din afara familiei ce gândeşti.	
+424	Du-te!	
+425	Tom, ce e prostia asta?	
+426	Sunt de la Johnny.	
+427	A obţinut rolul principal.	
+428	Ia-le de aici!	
+429	Pune-le acolo!	
+430	Şi... Spune-i lui Luca Brasi să intre.	
+431	Mă îngrijorează puţin acest individ, Sollozzo.	
+432	Să afli ce pune la cale, de fapt.	
+433	Du-te la Tattaglia!	
+434	Fă-i să creadă că nu eşti prea fericit cu familia noastră... şi află ce poţi.	
+435	Am luat ceva pentru mama ta şi pentru Sonny, o cravată pentru Freddy, şi un stilou Reynolds pentru Tom Hagen.	
+436	Tu ce vrei de Crăciun?	
+437	Doar pe tine.	
+438	Andiamo, Fredo!	
+439	Spune-i lui Paulie să aducă maşina.	
+440	Bine, tati.	
+441	Mă duc să o aduc chiar eu.	
+442	Paulie nu vine azi, e bolnav.	
+443	Paulie e băiat bun.	
+444	Nu mă deranjează.	
+445	Buon natale, Caro.	
+446	Mulţumesc.	
+447	Luca!	
+448	Sunt Bruno Tattaglia.	
+449	Ştiu.	
+450	Ştii cine sunt?	
+451	Te cunosc.	
+452	Ai vorbit cu familia Tattaglia, nu?	
+453	Noi doi putem face afaceri împreună.	
+454	Am nevoie de un om puternic, ca tine.	
+455	Am auzit că nu eşti fericit cu familia Corleone.	
+456	Vrei să lucrezi pentru mine?	
+457	Ce am de câştigat?	
+458	50.000 de dolari, pentru început.	
+459	Nu e rău!	
+460	De acord?	
+461	Tom!	
+462	Tom Hagen.	
+463	Crăciun fericit.	
+464	Mă bucur să te văd.	
+465	Să discutăm!	
+466	Nu am timp.	
+467	Fă-ţi timp, "Consigliere".	
+468	Urcă!	
+469	Nu-ţi face griji.	
+470	Dacă voiam să te ucid, erai mort de mult.	
+471	Urcă!	
+472	Fredo, mă duc să cumpăr fructe.	
+473	Bine, tati.	
+474	Crăciun fericit!	
+475	Vreau nişte fructe.	
+476	Ţi-ar plăcea mai mult să fiu călugăriţă?	
+477	Ca în poveste.	
+478	Nu.	
+479	Dar dacă aş fi Ingrid Bergman?	
+480	Ar fi o idee.	
+481	Michael.	
+482	Nu, nu mi-ai plăcea mai mult dacă ai fi Ingrid Bergman.	
+483	Ce s-a întâmplat?	
+484	Nu scrie dacă mai trăieşte.	
+485	Sonny, sunt eu, Michael.	
+486	Unde ai fost?	
+487	Trăieşte?	
+488	Nu ştim încă.	
+489	Umblă tot felul de zvonuri.	
+490	E rănit grav, Mikey.	
+491	Mă auzi?	
+492	Da, te aud.	
+493	Unde ai fost?	
+494	Eram îngrijorat.	
+495	Nu ţi-a spus Tom că am sunat?	
+496	Nu.	
+497	Vino acasă, băiete.	
+498	Ar trebui să stai cu mama, da?	
+499	Dumnezeule!	
+500	Sonny!	
+501	Stai acolo!	
+502	Cine e?	
+503	Deschide, sunt eu, Clemenza.	
+504	Mai circulă şi alte poveşti despre bătrânul.	
+505	Se aude că ar fi murit deja.	
+506	Ce-i cu tine?	
+507	Uşurel!	
+508	Unde a fost Paulie?	
+509	[NO TRANSLATION]	missing translation
+510	A fost bolnav toată iarna.	
+511	Cât de des?	
+512	De vreo trei sau patru ori.	
+513	Freddy nu voia un alt bodyguard.	
+514	Ia-l chiar acum!	
+515	Nu-mi pasă cât de bolnav e.	
+516	Du-l acum la casa tatălui meu.	
+517	Vrei să trimit pe cineva acolo?	
+518	Nu.	
+519	Du-te!	
+520	O să chem câţiva oameni de-ai noştri.	
+521	Alo?	
+522	Santino Corleone?	
+523	Da.	
+524	Îl avem pe Tom Hagen.	
+525	Peste trei ore va fi eliberat cu propunerea noastră.	
+526	Ascultă ce are de spus înainte de a face ceva!	
+527	Ce-a fost, a fost.	
+528	Să rămâi la fel de temperamental, Sonny.	
+529	O să aştept.	
+530	Şeful tău e mort.	
+531	Ştiu că nu eşti un asasin al familiei, aşa că nu-ţi face griji.	
+532	Vreau să ajuţi familia Corleone şi să mă ajuţi şi pe mine.	
+533	L-am găsit în faţa biroului său, cam la o oră după ce te-am luat pe tine.	
+534	Bea!	
+535	Acum e datoria ta să faci pace între mine şi Sonny.	
+536	Sonny ar fi acceptat afacerea mea, nu?	
+537	Şi tu ştiai că aşa ar fi fost cel mai bine.	
+538	Sonny o să te vâneze.	
+539	Sigur, asta va fi prima lui reacţie.	
+540	Trebuie să vorbeşti cu el.	
+541	Familia Tattaglia mă susţine.	
+542	Celelalte familii din New York vor accepta orice, ca să evite războiul.	
+543	Să recunoaştem că Don, odihnească-se în pace, o cam luase razna.	
+544	Acum zece ani aş fi putut vorbi cu el?	
+545	Acum e mort, Tom, şi nimic nu-l poate aduce înapoi.	
+546	Să discuţi cu Sonny, cu Caporegimes, cu Tessio şi cu grasul de Clemenza.	
+547	E o afacere bună, Tom.	
+548	O să încerc,	
+549	dar nici Sonny nu-l va putea opri pe Luca Brasi.	
+550	Ei bine...	
+551	Mă descurc eu cu Luca.	
+552	Tu vorbeşte cu Sonny!	
+553	Şi cu ceilalţi doi copii.	
+554	O să fac tot posibilul.	
+555	Bine.	
+556	Acum poţi să pleci.	
+557	Nu-mi place violenţa, Tom.	
+558	Sunt un om de afaceri.	
+559	Sângele e un cost prea mare.	
+560	Trăieşte încă.	
+561	Au băgat cinci gloanţe în el şi încă mai trăieşte!	
+562	E ghinion pentru mine şi pentru tine, dacă nu faci afacerea.	
+563	Mama ta e la spital cu tatăl tău.	
+564	Se pare că va scăpa.	
+565	Prea multă ostilitate.	
+566	Sollozzo, Philip Tattaglia, Bruno Tattaglia, Ramon...	
+567	O să-i omori pe toţi?	
+568	Nu te amesteca.	
+569	Dacă scapi de Sollozzo, totul va reveni la normal.	
+570	Cum rămâne cu Luca?	
+571	Sollozzo crede că-l poate controla.	
+572	Dacă Luca a trecut de partea lor, o să avem mari probleme.	
+573	A vorbit cineva cu Luca?	
+574	L-am căutat toată noaptea.	
+575	Fă-mi un serviciu!	
+576	Luca nu doarme acasă la femei.	
+577	Tom, tu eşti consigliere.	
+578	Ce facem dacă moare bătrânul?	
+579	Dacă îl pierdem, pierdem contactele politice şi jumătate din putere.	
+580	Familiile din New York l-ar sprijini pe Sollozzo ca să evite un război lung.	
+581	Suntem aproape în 1946.	
+582	Nimeni nu mai vrea vărsare de sânge.	
+583	Dacă moare tatăl tău... fă afacerea!	
+584	Uşor de spus.	
+585	Nu e tatăl tău.	
+586	Mă consideram fiul lui.	
+587	Ce e?	
+588	Paulie, ţi-am spus să nu te mişti.	
+589	Tipul de la poartă are un pachet.	
+590	Tessio, du-te şi vezi ce e!	
+591	Să mai stau?	
+592	Da.	
+593	Te simţi bine?	
+594	Da.	
+595	Avem mâncare.	
+596	Ţi-e foame?	
+597	Nu.	
+598	Vrei să bei ceva?	
+599	Un whisky e bun.	
+600	Du-te!	
+601	S-ar putea să fie o idee bună.	
+602	Ai grijă de ticălosul ăla.	
+603	Paulie l-a trădat pe bătrânul.	
+604	E o chestie prioritară.	
+605	Am înţeles.	
+606	Mickey, ia nişte băieţi mâine şi du-te la locuinţa lui Luca.	
+607	Poate n-ar trebui să-l implicăm prea mult pe Mike.	
+608	Ar fi bine să stai acasă şi să răspunzi la telefon.	
+609	Mai sună-l o dată pe Luca!	
+610	Ce-i asta?	
+611	Un mesaj sicilian.	
+612	Înseamnă că Luca Brasi e hrană pentru peşti.	
+613	Plec!	
+614	Când te întorci acasă?	
+615	Târziu, probabil.	
+616	Să nu uiţi de cannolli!	
+617	Da.	
+618	Rocco, stai în partea cealaltă.	
+619	Nu mai văd nimic în oglindă.	
+620	Sonny a înnebunit.	
+621	Vrea să ia deja saltele.	
+622	Trebuie să găsim un loc în cartierul de vest.	
+623	Încearcă la 309 West 43rd Street.	
+624	Ştii vreun loc bun în Vest?	
+625	O să mă gândesc.	
+626	Gândeşte-te în timp ce conduci.	
+627	Vreau să ajung la New York luna asta.	
+628	Ai grijă de copii.	
+629	Paulie, du-te la 39th Street, ia 18 saltele şi adu-mi nota de plată.	
+630	Bine.	
+631	Vezi să fie curate, fiindcă indivizii ăia vor sta mult timp acolo.	
+632	Sunt spălate şi curăţate.	
+633	Nu e un cuvânt prea frumos.	
+634	Curăţate!	
+635	Ai grijă, să nu te curăţăm noi!	
+636	Opreşte!	
+637	Vreau să urinez.	
+638	Lasă pistolul!	
+639	Ia cannolli!	
+640	Mike!	
+641	Mikey!	
+642	Da.	
+643	La telefon!	
+644	Cine e?	
+645	O fată.	
+646	Alo.	
+647	Kay?	
+648	Cum se simte tatăl tău?	
+649	O să-şi revină.	
+650	Te iubesc.	
+651	Te iubesc!	
+652	Michael?	
+653	Da, ştiu.	
+654	Spune-mi că mă iubeşti.	
+655	Nu pot vorbi acum.	
+656	Nu poţi să-mi spui?	
+657	Vorbim diseară.	
+658	De ce nu-i spui acelei fete drăguţe că o iubeşti?	
+659	Te iubesc din tot sufletul.	
+660	Dacă nu ne întâlnim curând, o să mor!	
+661	Vino să înveţi ceva!	
+662	Poate vei avea de gătit pentru 20 de oameni.	
+663	Începi cu puţin ulei, apoi pui nişte usturoi.	
+664	Apoi nişte roşii, bulion, le pui pe foc şi ai grijă să nu se lipească.	
+665	Când încep să fiarbă, pui sosul şi chifteluţele.	
+666	Pui şi puţin vin.	
+667	Şi puţin zahăr.	
+668	Ăsta e secretul meu.	
+669	Lasă prostiile!	
+670	Am treburi mai importante pentru tine.	
+671	Ce face Paulie?	
+672	N-o să-l mai vedem.	
+673	Unde pleci?	
+674	În oraş.	
+675	Trimiteţi nişte băieţi cu el.	
+676	Mă duc la spital.	
+677	Nu va păţi nimic.	
+678	Sollozzo ştie că e civil.	
+679	Ai grijă!	
+680	Da.	
+681	Trimite pe cineva cu el, oricum.	
+682	Trebuie să plec.	
+683	Pot să vin cu tine?	
+684	Nu, Kay!	
+685	Vor veni detectivi şi reporteri.	
+686	O să vin cu taxiul.	
+687	Nu vreau să te implici în asta.	
+688	Când o să te mai văd?	
+689	Du-te în New Hampshire şi o să te sun eu la părinţii tăi.	
+690	Când ne vom revedea, Michael?	
+691	Nu ştiu.	
+692	Ce cauţi aici?	
+693	Nu ar trebui să fii aici.	
+694	Sunt Michael Corleone.	
+695	E tatăl meu.	
+696	Unde sunt paznicii?	
+697	Tatăl tău a avut prea mulţi vizitatori.	
+698	Nu ne puteam face treaba.	
+699	Poliţiştii i-au alungat pe toţi acum zece minute.	
+700	Long Beach 45620, vă rog.	
+701	Soră,	
+702	mai stai puţin aici!	forced duplication
+703	mai stai puţin aici!	forced duplication
+704	Sonny, sunt la spital.	
+705	Am întârziat un pic şi nu mai e nimeni aici.	
+706	Nici oamenii lui Tessio, nici detectivi, nimeni.	
+707	Tata e singur.	
+708	Nu intra în panică!	
+709	Nu intru în panică.	
+710	Îmi pare rău, dar trebuie să pleci.	
+711	Îl vom muta în alt salon.	
+712	Poţi deconecta aparatele?	
+713	Nu putem face asta!	
+714	Îl cunoşti pe tatăl meu?	
+715	Nişte oameni vor încerca să-l ucidă.	
+716	Înţelegi?	
+717	Ajută-mă, te rog!	
+718	Cine eşti?	
+719	Sunt Enzo, brutarul.	
+720	Mă mai ţii minte?	
+721	Enzo.	
+722	Ai face bine să pleci, o să fie scandal aici.	
+723	Dacă ai probleme, stau să te ajut.	
+724	Pentru tatăl tău.	
+725	Ascultă!	
+726	Aşteaptă-mă afară, în faţa spitalului, da?	
+727	Vin şi eu imediat.	
+728	Stai aici, tati!	
+729	Am eu grijă de tine acum.	
+730	Sunt lângă tine acum.	
+731	Sunt lângă tine.	
+732	Aruncă astea!	
+733	Vino încoace!	
+734	Ţine mâna în buzunar, ca şi cum ai avea o armă.	
+735	N-o să păţeşti nimic.	
+736	Te-ai descurcat bine.	
+737	Credeam că toţi bandiţii sunt după gratii!	
+738	De ce nu-l păzeşte nimeni pe tata?	
+739	Ce obraznic eşti!	
+740	Nu-mi spune tu cum să-mi fac treaba!	
+741	Eu i-am luat de aici.	
+742	Nu te apropia de spital!	
+743	Nu plec până nu văd paznici.	
+744	Phil, arestează-l!	
+745	Dar n-a făcut nimic, căpitane.	
+746	E erou de război.	
+747	N-a fost...	
+748	Am spus să-l arestezi!	
+749	Cu cât te plăteşte Turcul?	
+750	Ţineţi-l bine!	
+751	Ţineţi-l aşa!	
+752	[NO TRANSLATION]	missing translation
+753	Sunt avocatul lui Corleone.	
+754	Oamenii aceştia îl protejează pe Vito Corleone.	
+755	Au legitimaţii pentru armele pe care le deţin.	
+756	Dacă intervii, vei fi convocat la proces mâine.	
+757	Daţi-i drumul!	
+758	Ce-i cu atâţia oameni noi?	
+759	Vom avea nevoie de ei.	
+760	După chestia cu spitalul, Sonny s-a înfuriat.	
+761	L-am rezolvat pe Bruno Tattaglia azi-dimineaţă.	
+762	Iisuse!	
+763	Parcă e o fortăreaţă.	
+764	Tamaduch!	
+765	Hei... 100 de paznici pe stradă, 24 de ore pe zi.	
+766	Dacă Turcul apare vreo clipă, e un om mort.	
+767	Mike, vreau să te privesc.	
+768	Arăţi foarte bine.	
+769	[NO TRANSLATION]	missing translation
+770	Turcul vrea să discute!	
+771	Ce tupeu are nenorocitul ăla!	
+772	Vrea să stabilim o întâlnire azi.	
+773	Ce a spus?	
+774	[NO TRANSLATION]	missing translation
+775	Vrea să-l trimitem pe Michael să asculte propunerea lui.	
+776	A promis că afacerea e prea bună pentru a putea fi refuzată.	
+777	Şi Bruno Tattaglia?	
+778	E o parte din înţelegere.	
+779	Compensează atentatul asupra tatei.	
+780	Ar trebui să-i ascultăm.	
+781	Nu!	
+782	Nu şi de data asta, Consigliere.	
+783	Nu mai vreau întâlniri, discuţii şi alte trucuri de-ale lui Sollozzo.	
+784	Îl vreau pe Sollozzo, sau declanşăm războiul.	
+785	Celelalte familii...	
+786	Mi l-au dat pe Sollozzo!	
+787	E vorba de afaceri, nu e ceva personal!	
+788	L-au împuşcat pe tata.	
+789	A fost o afacere, nu ceva personal.	
+790	Atunci afacerile vor avea de suferit.	
+791	Fă-mi un serviciu!	
+792	Nu mă mai sfătui cum să repar totul,	
+793	ci ajută-mă să câştig.	
+794	L-am cercetat pe căpitanul McCluskey, cel care i-a rupt falca lui Mike.	
+795	E plătit de Sollozzo şi se pare că are venituri grase.	
+796	McCluskey a fost de acord să fie bodyguard-ul Turcului.	
+797	Deci când Sollozzo e păzit, e invulnerabil.	
+798	Nimeni nu a ucis vreodată un căpitan de poliţie din New York.	
+799	Toate familiile s-ar răscula.	
+800	Am fi priviţi ca nişte tâlhari!	
+801	Chiar şi protecţia politică a bătrânului ar dispărea.	
+802	Fă-mi un serviciu!	
+803	Gândeşte-te la asta!	
+804	Bine, vom aştepta.	
+805	Nu putem aştepta.	
+806	Nu putem aştepta.	
+807	Indiferent ce spune Sollozzo, îl va ucide pe tata.	
+808	Asta e cheia succesului său.	
+809	Trebuie să ne ocupăm de Sollozzo.	
+810	Mike are dreptate.	
+811	Spune-mi ceva!	
+812	Cum rămâne cu McCluskey?	
+813	Ce facem cu poliţistul ăsta?	
+814	Vor să stabilească o întâlnire cu mine, nu?	
+815	Voi fi doar eu, McCluskey şi Sollozzo.	
+816	Să aranjăm întâlnirea.	
+817	Informatorii noştri să afle unde va avea loc.	
+818	Vom insista să fie într-un loc public,	
+819	un bar sau un restaurant,	
+820	într-un loc unde e multă lume, ca să mă simt în siguranţă.	
+821	Mă vor percheziţiona când mă voi întâlni cu ei, nu?	
+822	Deci nu pot să am arme la mine.	
+823	Dar dacă Clemenza găseşte o cale să pună o armă la locul întâlnirii... îi voi ucide pe amândoi.	
+824	Studentul nu voia să se amestece în afacerile familiei.	forced duplication
+825	Studentul nu voia să se amestece în afacerile familiei.	forced duplication
+826	Acum vrei să ucizi un căpitan de poliţie fiindcă te-a pălmuit?	
+827	Nu e ca în armată!	
+828	Vei fi aproape şi creierii lor îţi vor păta costumul.	
+829	O consideri o chestiune personală.	
+830	Tom, noi discutăm afaceri şi el se implică personal.	
+831	Unde scrie că nu poţi rade un poliţist?	
+832	Mikey...	
+833	E vorba de un poliţist necinstit, implicat în afaceri cu droguri.	
+834	Un poliţist corupt, care a primit ceea ce merita.	
+835	E o poveste bună.	
+836	Avem mulţi prieteni în mass-media, nu?	
+837	Le-ar plăcea o asemenea poveste.	
+838	Se poate.	
+839	Nu e ceva personal, Sonny.	
+840	E vorba numai de afaceri.	
+841	[NO TRANSLATION]	missing translation
+842	E imposibil să detectezi vreo urmă, aşa că nu te îngrijora de amprente.	
+843	Am pus o bandă specială pe trăgaci şi pe mâner.	
+844	Încearcă-l!	
+845	Trăgaciul e prea mic?	
+846	Urechile mele!	
+847	E bine să facă zgomot, ca să sperie eventualii trecători curioşi.	
+848	I-ai împuşcat pe amândoi.	
+849	Ce faci acum?	
+850	Mă aşez şi termin de mâncat.	
+851	Nu te prosti!	
+852	Laşi mâna să alunece în lateral şi dai drumul armei.	
+853	Toţi vor crede că eşti înarmat.	
+854	Se vor uita la tine, aşa că e bine să ieşi repede, dar să nu alergi.	
+855	Nu privi pe nimeni în ochi, dar nu-ţi ascunde chipul.	
+856	Vor fi speriaţi de moarte, aşa că n-ai de ce să-ţi faci griji.	
+857	O să te descurci.	
+858	O să pleci în vacanţă într-un loc neştiut de nimeni... şi noi vom suporta consecinţele.	
+859	Cât de rău crezi că va fi?	
+860	Destul de rău.	
+861	Probabil că toate familiile se vor alia împotriva noastră.	
+862	Chestiile astea se întâmplă la cinci sau zece ani	
+863	şi domolesc duşmăniile.	
+864	Au trecut zece ani de la ultima.	
+865	Răul trebuie curmat de la rădăcină.	
+866	Cum ar fi trebuit oprit Hitler în München, înainte să înceapă.	
+867	[NO TRANSLATION]	missing translation
+868	Mike, suntem mândri de tine	
+869	şi de faptul că eşti erou de război.	
+870	Şi tatăl tău e mândru de tine.	
+871	[NO TRANSLATION]	missing translation
+872	Niciun indiciu.	
+873	Absolut nimic.	
+874	Nici oamenii lui Sollozzo nu ştiu unde va avea loc întâlnirea.	
+875	Cât timp mai avem?	
+876	Te aşteaptă peste o oră şi jumătate, în faţă la Jack Dempsey.	
+877	I-am putea urmări.	
+878	Sollozzo o să facă manevre.	
+879	Şi negociatorul?	
+880	Joacă pinacle cu oamenii mei.	
+881	E fericit.	
+882	Îl lasă să câştige.	
+883	E prea riscant.	
+884	Să anulăm totul!	
+885	Negociatorul o să joace cărţi până când se întoarce Mike.	
+886	I-ar putea lichida pe cei din maşină.	
+887	Se vor aştepta la asta.	
+888	S-ar putea ca Sollozzo să nu fie în maşină, Sonny!	
+889	Răspund eu.	
+890	La restaurantul lui Louis, în Bronx.	
+891	E o sursă de încredere?	
+892	Omul meu de la secţia lui McCluskey.	
+893	Un căpitan de poliţie e în alertă 24 de ore pe zi.	
+894	Va fi acolo între 8 şi 10.	
+895	Ştie cineva restaurantul?	
+896	Da, eu.	
+897	E perfect pentru noi.	
+898	Un local mic, de familie, cu mâncare bună.	
+899	Toată lumea îşi vede de treabă.	
+900	Perfect.	
+901	Au o toaletă de modă veche.	
+902	Din aia cu cutie şi lanţ.	
+903	Am putea lipi pistolul în spatele ei.	
+904	Bine.	
+905	Mike, du-te la restaurant! Mănânci, stai de vorbă, te linişteşti.	
+906	Îi linişteşti şi pe ei.	
+907	Apoi te duci la toaletă.	
+908	Nu, mai bine le ceri voie să te duci.	
+909	Când te întorci, tragi!	
+910	Câte două focuri în cap.	
+911	Vreau un tip foarte bun să pună pistolul.	
+912	Nu vreau să iasă doar cu scula în mână.	
+913	Pistolul va fi acolo.	
+914	Tu îl duci şi îl aduci.	
+915	Să mergem!	
+916	Ţi-a spus să arunci arma imediat?	
+917	Da, de un milion de ori.	
+918	Nu uita!	
+919	Câte două focuri în cap, de cum ieşi pe uşă.	
+920	Cât crezi că va dura până mă voi putea întoarce?	
+921	Cel puţin un an.	
+922	Aranjez eu cu mama, că nu ţi-ai luat rămas-bun la plecare...	
+923	Şi îi voi trimite un mesaj prietenei, la timpul potrivit.	
+924	Ai grijă!	
+925	Ai grijă, Mike!	
+926	Mă bucur că ai venit.	
+927	Sper că vom putea îndrepta lucrurile.	
+928	N-am vrut să se întâmple asta.	
+929	Nu trebuia să se întâmple niciodată.	
+930	Vreau să stabilim ceva.	
+931	Tata să nu mai fie deranjat niciodată.	
+932	Jur pe copiii mei, Mike!	
+933	Dar trebuie să ai mintea deschisă când vorbim.	
+934	Sper că nu te aprinzi, ca Sonny.	
+935	Cu el nu poţi discuta afaceri.	
+936	E un băiat bun.	
+937	Îmi pare rău pentru seara trecută, Mike.	
+938	Trebuie să te percheziţionez, întoarce-te!	
+939	În genunchi, cu faţa la mine.	
+940	Sunt prea bătrân pentru munca asta.	
+941	Mă plâng prea mult.	
+942	Nu suport schimbările.	
+943	Ştii cum e.	
+944	E curat.	
+945	Mergem în Jersey?	
+946	Poate.	
+947	Bravo, Lou!	
+948	Cum e mâncarea aici?	
+949	Încearcă vita!	
+950	E cea mai bună din oraş.	
+951	Bine.	
+952	O să vorbesc în italiană cu Mikey.	
+953	N-ai decât!	
+954	Vreau...	
+955	Cel mai important pentru mine... e să îmi garantaţi	
+956	că nu veţi mai atenta la viaţa tatălui meu.	
+957	Ce garanţii pot să-ţi dau?	
+958	Eu sunt cel vânat!	
+959	Mi-am ratat şansa.	
+960	Mă supraestimezi, puştiule.	
+961	Nu sunt atât de deştept.	
+962	Vreau doar un armistiţiu.	
+963	Trebuie să mă duc la baie.	
+964	Am voie?	
+965	Dacă trebuie, trebuie.	
+966	[NO TRANSLATION]	missing translation
+967	E curat.	
+968	Nu sta prea mult!	
+969	Am percheziţionat o mie de oameni.	
+970	Bine, treci tu!	
+971	Te iubesc, bunicule.	
+972	Îmi pare rău, tată.	
+973	Nu ştie încă.	
+974	Salut!	
+975	Dă-i-l bunicului!	
+976	Bine.	
+977	Sper să te faci bine, bunicule, şi sper să te văd curând.	
+978	Nepotul tău, Frank.	
+979	Du-te la mama ta!	
+980	Du-i jos!	
+981	Hai, Carlo, şi tu!	
+982	Haide!	
+983	Ce e cu tine, Carlo?	
+984	Taci şi pune masa.	
+985	De când a fost ucis McCluskey, poliţia ne-a distrus afacerile.	
+986	Şi ale celorlalte familii.	
+987	A fost multă ranchiună.	
+988	Ne-au atacat, aşa că i-am atacat şi noi.	
+989	Prin relaţiile noastre de la ziare am reuşit să publicăm nişte materiale... despre legătura lui McCluskey cu Sollozzo în afacerile cu droguri.	
+990	Lucrurile se liniştesc.	
+991	L-am trimis pe Fredo la Las Vegas, sub protecţia lui Don Francesco din Los Angeles.	
+992	Vreau să se liniştească.	
+993	Voi învăţa afacerile cu cazinouri.	
+994	Unde e Michael?	
+995	Michael l-a ucis pe Sollozzo.	
+996	Dar e în siguranţă.	
+997	Vrem să-l aducem înapoi.	
+998	Ai aflat unde se ascunde Tattaglia?	
+999	Îl vreau acum.	
+1000	Sonny, lucrurile încep să se liniştească.	
+1001	Dacă îl ucizi pe Tattaglia, o luăm de la capăt.	
+1002	Tata poate negocia.	
+1003	Mai întâi trebuie să se facă bine...	
+1004	[NO TRANSLATION]	missing translation
+1005	Războiul ne costă.	
+1006	Nu putem face afaceri.	
+1007	Nici ei.	
+1008	Nu te teme!	
+1009	Nu ne putem permite o remiză.	
+1010	Fără remize.	
+1011	Îl omor pe nenorocit!	
+1012	Ai o reputaţie minunată!	
+1013	Fă cum spun!	
+1014	Dacă aveam un consigliere sicilian, nu eram în halul ăsta!	
+1015	Tata îl avea pe Genco.	
+1016	Uite ce am eu.	
+1017	Îmi pare rău.	
+1018	N-am vrut să spun asta.	
+1019	Mama a pregătit cina.	
+1020	E duminică.	
+1021	Negrilor le convine politica noastră din Harlem.	
+1022	Au Cadillacuri noi, plătesc 50 de cenţi la pariu.	
+1023	Pentru că au început să facă bani.	
+1024	Tata nu vorbea niciodată de afaceri la masă.	
+1025	Taci, Connie!	
+1026	Nu-i spune să tacă.	
+1027	Nu te băga!	
+1028	Aş vrea să discutăm după cină.	
+1029	Aş putea face mai multe pentru familie.	
+1030	Nu discutăm afaceri la masă.	
+1031	Îţi sărut mâna, Don Tommasino.	
+1032	De ce eşti aşa departe de casă?	
+1033	Ştii că răspund de viaţa ta.	
+1034	Îi am pe Calo şi pe Fabrizio.	
+1035	Tot e periculos.	
+1036	Avem veşti de la Santino, din New York.	
+1037	Duşmanii tăi ştiu că eşti aici.	
+1038	Santino a spus când mă pot întoarce?	
+1039	Nu încă.	
+1040	Nici nu se pune problema.	
+1041	Unde mergi?	
+1042	La Corleone.	
+1043	Ia maşina mea!	
+1044	Nu, vreau să merg.	
+1045	Ai grijă!	
+1046	Unde sunt bărbaţii?	
+1047	Morţi, în urma răzbunărilor.	
+1048	Aici sunt numele morţilor.	
+1049	Ia-mă în America, G.I.!	
+1050	Ia-mă în America, G.I.!	
+1051	Clark Gable!	
+1052	America!	
+1053	Ia-mă în America, G.l.!	
+1054	Clark Gable, Rita Hayworth!	
+1055	Mamma mia, ce frumuseţe!	
+1056	Cred că te-a lovit trăsnetul.	
+1057	În Sicilia, femeile sunt mai periculoase ca puştile.	
+1058	A fost o vânătoare bună?	
+1059	Trebuie să cunoşti toate fetele de aici.	
+1060	Am văzut nişte fete frumoase.	
+1061	Una din ele l-a lovit ca trăsnetul pe băiatul ăsta.	
+1062	L-ar tenta şi pe diavol.	
+1063	E bine făcută.	
+1064	Nu, Calo?	
+1065	Ce păr, ce gură!	
+1066	Fetele de aici sunt frumoase, dar virtuoase.	
+1067	Asta avea o rochie roşie.	
+1068	Şi o bentiţă roşie în cap.	
+1069	Părea mai degrabă grecoaică.	
+1070	O cunoşti?	
+1071	Nu e nicio asemenea fată aici.	
+1072	Doamne, am înţeles!	
+1073	Ce e?	
+1074	Să mergem!	
+1075	E fata lui.	
+1076	Spune-i să vină încoace!	
+1077	Cheamă-l!	
+1078	Fabrizio, tradu tu!	
+1079	Îmi cer scuze dacă v-am ofensat.	
+1080	Sunt străin de ţara asta.	
+1081	N-am vrut să vă jignesc pe dv sau pe fata dv.	
+1082	Sunt american şi mă ascund aici.	
+1083	Numele meu e Michael Corleone.	
+1084	Mulţi ar da o grămadă de bani pentru informaţia asta.	
+1085	Dar atunci, fiica dv ar pierde un tată... în loc să câştige un soţ.	
+1086	Vreau să mă întâlnesc cu fiica dv.	
+1087	Cu permisiunea dv şi sub supravegherea familiei.	
+1088	Cu tot respectul cuvenit.	
+1089	Vino acasă la mine duminică dimineaţă.	
+1090	Numele meu e Vitelli.	
+1091	Cum se numeşte?	
+1092	Îţi dau una!	
+1093	Păstrează-i pentru bibliotecă.	
+1094	Trebuie s-o iau pe sora mea.	
+1095	Ce s-a întâmplat?	
+1096	Ce este?	
+1097	A fost vina mea!	
+1098	Unde e?	
+1099	A fost vina mea.	
+1100	Eu am dat în el.	
+1101	Eu am început cearta.	
+1102	L-am lovit, aşa că m-a lovit şi el...	
+1103	Voi aduce un doctor să te vadă.	
+1104	Sonny, te rog, nu face nimic.	
+1105	Ce e cu tine?	
+1106	Ce crezi că fac?	
+1107	Să las copilul orfan înainte să se nască?	
+1108	Tot pe Yankees pariaţi?	
+1109	Spune-le să se oprească!	
+1110	Am pierdut destul săptămâna trecută.	
+1111	Vino încoace!	
+1112	Dacă te mai atingi de sora mea, te omor.	
+1113	[NO TRANSLATION]	missing translation
+1114	Nu te aşteptam, Kay.	
+1115	Trebuia să suni.	
+1116	[NO TRANSLATION]	missing translation
+1117	Am încercat şi să sun şi să scriu.	
+1118	Vreau să îl găsesc pe Michael.	
+1119	Nimeni nu ştie unde e.	
+1120	Nu ştim decât că e bine.	
+1121	Ce s-a întâmplat?	
+1122	Un accident, dar n-a fost nimeni rănit.	
+1123	Tom, dă-i scrisoarea asta lui Michael.	
+1124	Te rog.	
+1125	Dacă aş lua-o, s-ar putea dovedi la tribunal că ştiu unde este.	
+1126	Te va căuta el.	
+1127	Am lăsat taxiul să plece. Pot chema altul?	
+1128	Intră!	
+1129	Scuze.	
+1130	Alo?	
+1131	Carlo e acolo?	
+1132	Cine e?	
+1133	O prietenă.	
+1134	Spune-i că diseară o să ajung mai târziu.	
+1135	Târfă!	
+1136	Cina e pe masă.	
+1137	Nu mi-e foame.	
+1138	Se răceşte.	
+1139	Mănânc mai târziu în oraş.	
+1140	Mi-ai spus să îţi pregătesc cina!	
+1141	[NO TRANSLATION]	missing translation
+1142	[NO TRANSLATION]	missing translation
+1143	Ce gură spurcată are!	
+1144	Aşa, sparge tot, răsfăţato!	
+1145	Sparge tot!	
+1146	De ce nu-ţi aduci târfa acasă, la cină?	
+1147	Poate o s-o aduc.	
+1148	Acum strânge tot!	
+1149	Nu strâng nimic!	
+1150	Răsfăţato!	
+1151	Strânge!	
+1152	Strânge!	
+1153	Strânge!	
+1154	Am spus să strângi!	
+1155	Strânge.	
+1156	Strânge.	
+1157	Strânge, nenorocito...	
+1158	Strânge!	
+1159	Strânge!	
+1160	Da, omoară-mă.	
+1161	Fii o criminală, ca tatăl tău!	
+1162	Toţi Corleone sunt ucigaşi!	
+1163	Te urăsc!	
+1164	Omoară-mă!	
+1165	Pleacă de aici!	
+1166	Te urăsc!	
+1167	Acum te omor eu.	
+1168	Răsfăţato!	
+1169	Pleacă de aici!	
+1170	Connie, ce s-a întâmplat?	
+1171	Nu te aud.	
+1172	Connie, vorbeşte mai tare.	
+1173	Plânge copilul.	
+1174	Santino, nu înţeleg.	
+1175	Nu ştiu.	
+1176	Da, Connie.	
+1177	Stai acolo!	
+1178	Nu, stai acolo!	
+1179	Nenorocitul.	
+1180	Nenorocitul!	
+1181	Ce s-a întâmplat?	
+1182	Deschide poarta!	
+1183	Mai repede.	
+1184	Sonny!	
+1185	Sonny.	
+1186	Pleacă de aici!	
+1187	Plecaţi după el!	
+1188	Ticălosule.	
+1189	Vino încoace!	
+1190	Dă-mi o gură!	
+1191	Soţia mea plânge sus.	
+1192	Aud maşini care vin aici.	
+1193	Consigliere, spune-i Donului tău ceea ce ştie deja toată lumea.	
+1194	Nu i-am spus nimic mamei.	
+1195	Tocmai veneam să te trezesc, ca să-ţi spun.	
+1196	Dar aveai nevoie de ceva de băut.	
+1197	Da.	
+1198	Acum ai băut.	
+1199	L-au împuşcat pe Sonny pe autostradă.	
+1200	E mort.	
+1201	Nu vreau să faceţi cercetări.	
+1202	Nu vreau acte de răzbunare.	
+1203	Vreau să aranjezi o întâlnire... cu capetele celor cinci familii.	
+1204	Războiul se va opri acum.	
+1205	Sună-l pe Bonasera!	
+1206	Am nevoie de el.	
+1207	Sunt Tom Hagen.	
+1208	Sun din partea lui Vito Corleone.	
+1209	Îi datorezi Donului un serviciu.	
+1210	Nu se îndoieşte că îl vei întoarce.	
+1211	Va veni la pompele funebre într-o oră.	
+1212	Să fii acolo!	
+1213	Prietene, eşti gata să îmi faci un serviciu?	
+1214	Da.	
+1215	Ce vrei să fac?	
+1216	Vreau să-ţi foloseşti toată puterea şi talentul.	
+1217	Nu vreau ca mama lui să-l vadă aşa.	
+1218	Uite cum l-au masacrat.	
+1219	E mai bine să te învăţ engleză.	
+1220	Dar ştiu engleza.	
+1221	Luni, marţi, miercuri, joi, vineri, sâmbătă, duminică.	
+1222	Salutare, Don Tommasino.	
+1223	Ce mai e prin Palermo?	
+1224	Michael mă învaţă să conduc.	
+1225	Uite, o să-ţi arăt.	
+1226	Ce mai e prin Palermo?	
+1227	Tinerii nu mai respectă nimic.	
+1228	Lucrurile se înrăutăţesc.	
+1229	Locul ăsta e prea periculos pentru tine.	
+1230	Vreau să te muţi într-o vilă lângă Siracusa. Acum!	
+1231	Ce s-a întâmplat?	
+1232	Ştiri rele din America.	
+1233	Fratele tău, Santino... L-au ucis.	
+1234	Haide.	
+1235	Mi-ai promis.	
+1236	Fabrizio!	
+1237	Urcă în maşină!	
+1238	Conduci tu, şefule?	
+1239	Vine şi soţia ta cu tine?	
+1240	Nu, du-o la tatăl ei până se calmează situaţia.	
+1241	Bine, cum spui tu.	
+1242	Calo, unde e Apollonia?	
+1243	Vrea să-ţi facă o surpriză.	
+1244	Vrea să conducă.	
+1245	O să fie o bună soţie americană.	
+1246	Aduc bagajele.	
+1247	Fabrizio!	
+1248	Unde pleci?	
+1249	Stai acolo!	
+1250	Vin eu la tine.	
+1251	Nu, Apollonia!	
+1252	Don Barzini, îţi mulţumesc că m-ai ajutat să organizez întâlnirea cu capii celor cinci familii din New York şi New Jersey.	
+1253	Carmine Cuneo din Bronx şi din Brooklyn... Philip Tattaglia.	
+1254	Din Staten Island... este alături de noi Victor Strachi.	
+1255	Şi ceilalţi asociaţi care vin din California şi Kansas City... şi din alte teritorii din ţară.	
+1256	Vă mulţumesc.	
+1257	Cum au ajuns lucrurile aşa departe?	
+1258	Nu ştiu.	
+1259	A fost ceva nefericit şi deloc necesar.	
+1260	Tattaglia a pierdut un fiu. Şi eu la fel.	
+1261	Suntem chit.	
+1262	Dacă Tattaglia e de acord, sunt dispus să las lucrurile să revină la normal.	
+1263	Suntem recunoscători, Don Corleone, pentru că ai organizat întâlnirea.	
+1264	Ştim cu toţii că e un om de cuvânt.	
+1265	Un om modest, care ascultă motivele.	
+1266	Da, Don Barzini.	
+1267	Prea modest.	
+1268	Avea toţi judecătorii şi politicienii la degetul mic.	
+1269	A refuzat.	
+1270	Când v-am refuzat eu o cerere?	
+1271	Mă cunoaşteţi cu toţii.	
+1272	Când v-am refuzat, cu o singură excepţie?	
+1273	Şi de ce?	
+1274	Eu cred că drogurile ne vor distruge în anii ce vor urma.	
+1275	Nu e ca la jocurile de noroc, ca la băutură sau ca la femei, adică un lucru pe care îl doresc oamenii, dar pe care biserica-l interzice.	
+1276	Chiar şi poliţia, care ne-a ajutat cu jocurile de noroc şi cu celelalte, va refuza să ne ajute cu narcoticele.	
+1277	Credeam asta atunci şi o cred şi acum.	
+1278	Timpurile s-au schimbat.	
+1279	Nu mai e ca pe vremuri, când puteam face tot ce voiam.	
+1280	Refuzul nu e un gest prietenesc.	
+1281	Dacă Don Corleone are toţi judecătorii şi politicienii, trebuie să-i împartă, sau să-i lase pe alţii să-i folosească.	
+1282	Trebuie să ne lase să luăm apă din puţ.	
+1283	Desigur, poate cere un preţ pentru aceste servicii.	
+1284	Doar nu suntem comunişti.	
+1285	Nici eu nu cred în droguri.	
+1286	Mulţi ani la rând, mi-am plătit oamenii mai mult ca să nu facă afaceri cu droguri.	
+1287	Cineva le spune Am prafuri.	
+1288	Dacă investeşti 3-4.000 de dolari, putem scoate 50.000 din distribuţie.	
+1289	Nu pot rezista.	
+1290	Vreau să controlez afacerea şi s-o păstrez respectabilă.	
+1291	Nu vreau să ajungă în şcoli, şi să nu fie vândută copiilor.	
+1292	E o infamia.	
+1293	În oraşul meu, traficul îl fac negrii.	
+1294	Sunt animale. Să-şi piardă ei sufletul.	
+1295	Speram că vom găsi o soluţie de compromis.	
+1296	Sunt dispus să fac orice e necesar pentru o soluţie pacifistă.	
+1297	Ne-am înţeles.	
+1298	Traficul cu droguri va fi permis, dar controlat.	
+1299	Don Corleone ne va acorda protecţie în est şi va fi pace.	
+1300	Trebuie să am asigurarea lui Corleone.	
+1301	Dacă va trece timpul şi poziţia lui se va consolida, va încerca să se răzbune?	
+1302	Suntem oameni rezonabili.	
+1303	Nu trebuie să dăm asigurări.	
+1304	Vorbeşti de răzbunare.	
+1305	Răzbunarea îţi va aduce fiul înapoi?	
+1306	Sau mi-l va aduce mie?	
+1307	Eu renunţ la răzbunarea fiului meu.	
+1308	Dar am motivele mele.	
+1309	Fiul meu cel mic a fost nevoit să plece din ţară... din cauza afacerii cu Sollozzo.	
+1310	Trebuie să fac aranjamente ca să îl aduc înapoi.	
+1311	Şi să scape de acuzaţiile false.	
+1312	Dar sunt un om superstiţios.	
+1313	Dacă va avea un accident nefericit, dacă va fi împuşcat de un poliţist, dacă se va spânzura în celula sa, sau dacă va fi lovit de fulger, voi da vina pe unii oameni din această cameră.	
+1314	Asta nu voi ierta.	
+1315	Dar, trecând peste asta, vă jur... pe sufletele nepoţilor mei, că nu eu voi rupe pacea încheiată azi.	
+1316	Să insist ca oamenii lui Tattaglia să nu aibă cazier?	
+1317	Menţionează,	
+1318	nu insista.	
+1319	Barzini va şti fără să îi spunem.	
+1320	Vrei să spui Tattaglia.	
+1321	Tattaglia e un prost.	
+1322	Nu l-ar fi putut învinge pe Santino.	
+1323	Dar de-abia azi am aflat că a fost tot timpul Barzini.	
+1324	Haide, Nancy!	
+1325	Staţi împreună.	
+1326	Brian.	
+1327	Bine.	
+1328	De când te-ai întors?	
+1329	De un an.	
+1330	Poate mai mult.	
+1331	Mă bucur să te văd, Kay.	
+1332	Acum lucrez pentru tata, Kay.	
+1333	A fost foarte bolnav.	forced duplication
+1334	A fost foarte bolnav.	forced duplication
+1335	Dar tu nu eşti ca el.	
+1336	Mi-ai spus că nu vei ajunge ca tatăl tău.	
+1337	Tata nu e cu nimic deosebit de alţi oameni puternici.	
+1338	Ca orice om care răspunde de alţi oameni.	
+1339	Ca un senator sau un preşedinte.	
+1340	Ce naiv eşti.	
+1341	De ce?	
+1342	Ei nu ucid oameni.	
+1343	Cine e naiv, Kay?	
+1344	Metoda tatălui meu e depăşită.	
+1345	Toată lumea ştie asta.	
+1346	În cinci ani, familia Corleone va fi complet legitimă.	
+1347	Ai încredere în mine.	
+1348	E tot ce-ţi pot spune despre afaceri.	
+1349	Kay...	
+1350	Michael, de ce ai venit aici?	
+1351	[NO TRANSLATION]	missing translation
+1352	Ce mai vrei de la mine, după atâta vreme?	
+1353	Te-am sunat şi ţi-am scris.	
+1354	Am venit pentru că am nevoie de tine.	
+1355	Ţin la tine.	
+1356	Te rog, încetează, Michael.	
+1357	Pentru că...	
+1358	Vreau să te măriţi cu mine.	
+1359	E prea târziu.	
+1360	Te rog, Kay.	
+1361	Aş face orice ca să schimb ce s-a întâmplat între noi.	
+1362	Asta e important, Kay.	
+1363	Important este că... ne avem unul pe celălalt.	
+1364	Să avem o viaţă împreună.	
+1365	Să avem copii.	
+1366	Copiii noştri.	
+1367	Kay, am nevoie de tine.	
+1368	Şi te iubesc.	
+1369	Oamenii lui Barzini îmi fură teritoriul, iar noi nu facem nimic!	
+1370	În curând, nu voi mai avea casă!	
+1371	Ai răbdare.	
+1372	Nu-ţi cer ajutorul.	
+1373	Scoate-mi cătuşele!	
+1374	Ai răbdare!	
+1375	Trebuie să ne apărăm.	
+1376	Lasă-mă să recrutez oameni.	
+1377	Nu.	
+1378	Barzini ar avea o scuză.	
+1379	Mike, te înşeli.	
+1380	Don Corleone.	
+1381	Ai spus că Tessio şi eu ne putem forma o familie.	
+1382	Până azi, nu m-am gândit la asta.	
+1383	Îţi cer permisiunea.	
+1384	Michael e capul familiei acum.	
+1385	Dacă vă dă permisiunea, aveţi binecuvântarea mea.	
+1386	După mişcarea din Nevada puteţi părăsi familia Corleone şi să vă formaţi propria familie.	
+1387	Cât va dura asta?	
+1388	Şase luni.	
+1389	Iartă-mă, dar dacă pleci tu, eu şi Pete vom fi la mâna lui Barzini.	
+1390	Îl urăsc pe Barzini.	
+1391	În şase luni nu vom mai avea unde să construim.	
+1392	Ai încredere în judecata mea?	
+1393	Da.	
+1394	Îmi eşti loial?	
+1395	Întotdeauna, Naşule.	
+1396	Atunci fii prieten cu Michael.	
+1397	Fă ce spune!	
+1398	Negociem unele lucruri care vă vor rezolva problemele şi vă vor răspunde la întrebări.	
+1399	E tot ce vă pot spune acum.	
+1400	Carlo, ai crescut în Nevada.	
+1401	Când vom merge acolo, vei fi mâna mea dreaptă.	
+1402	Tom Hagen nu mai e consigliere.	
+1403	Va fi avocatul nostru în Vegas.	
+1404	Nu are legătură cu Tom, aşa vreau eu.	
+1405	Dacă am nevoie de ajutor, cine e un consigliere ca tata?	
+1406	Asta e.	
+1407	Mulţumesc, tată.	
+1408	Mă bucur pentru tine, Carlo.	
+1409	Mike.	
+1410	De ce mă lăsaţi pe dinafară?	
+1411	Nu eşti un consigliere de război, Tom.	
+1412	Lucrurile ar putea să se strice.	
+1413	Tom.	
+1414	Eu l-am sfătuit pe Michael.	
+1415	N-am crezut niciodată că eşti un consigliere prost.	
+1416	Santino a fost un Don prost, odihnească-se în pace.	
+1417	În Michael am încredere, ca şi în tine.	
+1418	Dar sunt motive pentru care tu nu poţi fi implicat în ceea ce se va întâmpla.	
+1419	Poate vă pot ajuta.	
+1420	Eşti scos, Tom.	
+1421	Nu-mi iese din cap ce bine arăţi.	
+1422	Foarte bine!	
+1423	Doctorul a făcut treabă bună.	
+1424	Kay te-a convins?	
+1425	Hei!	
+1426	Lasă-le acolo!	
+1427	E obosit şi vrea să facă curat.	
+1428	Lasă-mă să deschid eu uşa, bine?	
+1429	Salut, Mike!	
+1430	Bun venit în Las Vegas!	
+1431	Pentru tine, puştiule!	
+1432	A fost ideea lui.	
+1433	Fratele tău, Freddy.	
+1434	Fete?	
+1435	Vin imediat.	
+1436	Ţine-le ocupate!	
+1437	Orice vrei.	
+1438	Cine sunt fetele?	
+1439	Asta trebuie să afli tu.	
+1440	Scapă de ele, Fredo.	
+1441	Hei, Mike!	
+1442	Am venit cu afaceri.	
+1443	Scapă de ele!	
+1444	Sunt obosit.	
+1445	Scapă şi de orchestră!	
+1446	Plecaţi!	
+1447	Haide!	
+1448	Asta e.	
+1449	[NO TRANSLATION]	missing translation
+1450	Angelo.	
+1451	Hai, valea!	
+1452	Hai!	
+1453	[NO TRANSLATION]	missing translation
+1454	Nu ştiu ce e cu el, Johnny.	
+1455	Scuze!	
+1456	Nu ştiu,	
+1457	e obosit.	
+1458	Ce e cu Moe Greene?	
+1459	Avea nişte treabă.	
+1460	A spus să-l sunăm când începe petrecerea.	
+1461	Sună-l!	
+1462	Johnny, ce mai faci?	
+1463	Mă bucur să te văd, Mike.	
+1464	Suntem mândri de tine.	
+1465	Mulţumesc.	
+1466	Stai jos, vreau să vorbim.	
+1467	Donul e mândru de tine.	
+1468	Lui îi datorez totul.	
+1469	Ştie că îi eşti recunoscător.	
+1470	De aceea vrea să-ţi ceară o favoare.	
+1471	Mike, cu ce vă pot ajuta?	
+1472	Ne gândeam să renunţăm la afacerile cu ulei de măsline şi să ne mutăm aici.	
+1473	Moe ne va vinde partea lui din cazinou şi hotel, ca să fie tot al nostru.	
+1474	Tom!	
+1475	Eşti sigur?	
+1476	Moe e mândru de ce face.	
+1477	N-a spus că vrea să vândă.	
+1478	Îi voi face o ofertă pe care n-o va putea refuza.	
+1479	Johnny...	
+1480	Ne-am gândit că distracţia va aduce oameni la cazinou.	
+1481	Sperăm că vei semna un contract să apari la noi de cinci ori pe an.	
+1482	Poate să-i convingi şi pe alţi prieteni de-ai tăi, din filme.	
+1483	Ne bazăm pe tine.	
+1484	Sigur, Mike.	
+1485	Fac orice pentru naşul meu.	
+1486	Bine.	
+1487	Salut, Mike!	
+1488	Salut, băieţi.	
+1489	E toată lumea aici.	
+1490	Freddy, Tom.	
+1491	Mă bucur să te văd.	
+1492	Ce mai faci, Moe?	
+1493	Ai tot ce-ţi trebuie?	
+1494	Mâncare specială, cele mai bune dansatoare şi credit bun.	
+1495	Adu cipuri pentru toată lumea, să joace din partea casei.	
+1496	Creditul meu e bun ca să îţi cumpăr partea?	
+1497	Să-mi cumperi partea?	
+1498	Cazinoul şi hotelul.	
+1499	Familia Corleone vrea să îţi cumpere partea.	
+1500	Familia Corleone vrea să-mi cumpere partea?	
+1501	Vă cumpăr eu partea.	
+1502	Cazinoul tău pierde bani.	
+1503	Noi putem face mai bine.	
+1504	Crezi că fur?	
+1505	Eşti ghinionist.	
+1506	Mă faceţi să râd.	
+1507	L-am luat pe Freddy când a dus-o prost. Acum vreţi să mă daţi afară!	
+1508	L-ai primit pentru că ţi-am finanţat cazinoul, iar Molinari i-a garantat siguranţa.	
+1509	Hai să discutăm despre afaceri.	
+1510	Da.	
+1511	Mai întâi, sunteţi terminaţi.	
+1512	Nu mai aveţi puterea.	
+1513	Naşul e bolnav.	
+1514	Ceilalţi te dau afară din New York.	
+1515	Crezi că poţi veni în hotelul meu, să-l preiei?	
+1516	Am vorbit cu Barzini.	
+1517	Pot face afaceri cu el şi îmi păstrez hotelul!	
+1518	De asta l-ai plesnit pe fratele meu în public?	
+1519	N-a fost nimic, Mike.	
+1520	N-a fost serios.	
+1521	Uneori mai sare calul, dar suntem prieteni buni.	
+1522	Am o afacere de condus.	
+1523	Uneori, trebuie să fiu rău.	
+1524	Ne-am certat şi a trebuit să-i îndrept comportamentul.	
+1525	I-ai îndreptat comportamentul fratelui meu?	
+1526	O punea cu chelneriţele!	
+1527	Jucătorii nu mai primeau de băut.	
+1528	Ce e cu tine?	
+1529	Mâine plec la New York.	
+1530	Gândeşte-te la un preţ.	
+1531	Ticălosule!	
+1532	Sunt Moe Greene!	
+1533	Sunt aici de pe vremea când tu te jucai cu majoretele.	
+1534	Stai puţin, Moe!	
+1535	Am o idee.	
+1536	Tom, tu eşti consigliere.	
+1537	Vorbeşte cu Donul.	
+1538	Stai puţin!	
+1539	Donul s-a retras, iar Mike se ocupă acum de afacerile familiei.	
+1540	Dacă ai ceva de spus, spune-i lui Michael!	
+1541	Mike, nu vii în Las Vegas şi vorbeşti aşa cu un om ca Moe Greene!	
+1542	Fredo.	
+1543	Eşti fratele meu şi te iubesc.	
+1544	Dar să nu mai fii niciodată împotriva familiei.	
+1545	[NO TRANSLATION]	missing translation
+1546	Trebuie să mă întâlnesc cu tata şi cu oamenii lui. la cina fără mine!	
+1547	Weekendul ăsta plecăm.	
+1548	Mergem în oraş, vedem un spectacol şi mâncăm.	
+1549	Sora ta vrea să te roage ceva.	
+1550	Să mă roage!	
+1551	Se teme.	
+1552	Vor să fii naşul fiului lor.	
+1553	Vom vedea.	
+1554	Vrei?	
+1555	Mă mai gândesc.	
+1556	Haide!	
+1557	Barzini te va ataca primul.	
+1558	Va stabili o întâlnire prin cineva în care ai încredere.	
+1559	Îţi va garanta siguranţa.	
+1560	La întâlnirea aceea vei fi asasinat.	
+1561	Îmi place să beau mai mult vin ca înainte.	
+1562	Oricum, beau mult.	
+1563	E bun, tată.	
+1564	Nu ştiu!	
+1565	Eşti fericit cu soţia şi copiii tăi?	
+1566	Foarte fericit.	
+1567	E bine.	
+1568	Sper să nu te superi că te bat la cap cu chestia cu Barzini.	
+1569	Deloc.	
+1570	E un obicei vechi.	
+1571	Toată viaţa am încercat să nu fiu nesăbuit.	
+1572	Femeile şi copiii pot fi nesăbuiţi, dar bărbaţii nu.	
+1573	Ce-ţi face băiatul?	
+1574	Bine.	
+1575	Seamănă din ce în ce mai mult cu tine.	
+1576	E mai deştept ca mine.	
+1577	Are trei ani şi citeşte deja reviste comice.	
+1578	Citeşte reviste comice.	
+1579	Pune un om să verifice toate telefoanele care se dau şi se primesc.	
+1580	Am făcut deja asta.	
+1581	M-am ocupat.	
+1582	Aşa e.	
+1583	Uitasem.	
+1584	Ce e?	
+1585	Ce te deranjează?	
+1586	Mă ocup eu.	
+1587	Ţi-am spus că mă ocup eu. Aşa voi face.	
+1588	Ştiam că Santino va trece prin asta.	
+1589	Şi Fredo.	
+1590	Fredo era...	
+1591	Dar n-am vrut niciodată să treci tu.	
+1592	Am muncit toată viaţa.	
+1593	Nu-mi cer scuze că am avut grijă de familia mea.	
+1594	Am refuzat să fiu un prost... legat cu sfori, trase de alţi şefi.	
+1595	Nu-mi cer iertare.	
+1596	E viaţa mea, dar credeam... că, la vremea ta, tu vei trage sforile.	
+1597	Senator Corleone.	
+1598	Guvernator Corleone.	
+1599	Ceva.	
+1600	Alt pezzonovante.	
+1601	Ei bine...	
+1602	N-a fost destul timp, Michael.	
+1603	N-am avut timp.	
+1604	Ajungem şi la asta, tată.	
+1605	Ajungem şi la asta.	
+1606	Nu uita, cel care îţi va propune întâlnirea cu Barzini, e un trădător.	
+1607	Să nu uiţi!	
+1608	Pot s-o ţin?	
+1609	Pot să le ud?	
+1610	Da.	
+1611	Aici.	
+1612	Ai grijă,	
+1613	o verşi.	
+1614	Anthony!	
+1615	Vino încoace!	
+1616	Aşa,	
+1617	o punem aici.	
+1618	Hai să-ţi arăt ceva!	
+1619	[NO TRANSLATION]	missing translation
+1620	Stai acolo!	
+1621	Dă-mi o portocală!	
+1622	E ceva nou.	
+1623	Fugi!	
+1624	Fugi!	
+1625	Unde eşti?	
+1626	Mike, putem vorbi?	
+1627	Barzini vrea să aranjeze o întâlnire.	
+1628	Spune că putem aranja toate problemele.	
+1629	Ai vorbit tu cu el?	
+1630	Da.	
+1631	Îţi garantez siguranţa.	
+1632	Pe teritoriul meu.	
+1633	Bine?	
+1634	Da.	
+1635	Ştii cum vor încerca să te omoare?	
+1636	Vor aranja o întâlnire în Brooklyn.	
+1637	Teritoriul lui Tessio.	
+1638	Unde voi fi în siguranţă.	
+1639	Am crezut mereu că va fi Clemenza, nu Tessio.	
+1640	E o mişcare inteligentă.	
+1641	Tessio a fost întotdeauna inteligent.	
+1642	Dar voi aştepta.	
+1643	După botez.	
+1644	Am decis să fiu naşul fiului lui Connie.	
+1645	Apoi mă voi întâlni cu Don Barzini şi cu Tattaglia.	
+1646	Cu capetele celor cinci familii.	
+1647	Michael, crezi în Dumnezeu, Tatăl şi Creatorul Raiului şi al Pământului?	
+1648	Da.	
+1649	Crezi în Iisus Cristos, fiul Lui, stăpânul nostru?	
+1650	Da.	
+1651	Crezi în Duhul Sfânt, în Biserica Catolică?	
+1652	Da.	
+1653	Michael Francis Rizzi, te lepezi de Satana?	
+1654	Mă lepăd.	
+1655	Şi la căile lui?	
+1656	Da.	
+1657	Doamne!	
+1658	Şi la măreţia lui deşartă?	
+1659	Da.	
+1660	Michael Rizzi, vrei să fii botezat?	
+1661	Da.	
+1662	Michael Rizzi, mergi în pace şi Domnul fie cu tine.	
+1663	Amin.	
+1664	Kay!	
+1665	Sărută-l pe naşul tău!	
+1666	Nu putem pleca în Vegas.	
+1667	A apărut ceva.	
+1668	Vor trebui să plece fără noi.	
+1669	Mike, e prima noastră vacanţă!	
+1670	Connie, te rog.	
+1671	Du-te acasă şi aşteaptă să te sun.	
+1672	E important.	
+1673	Durează două zile.	
+1674	Mergem în Brooklyn.	
+1675	Sper că Mike va face un târg bun.	
+1676	Sunt sigur că da.	
+1677	Sal, Tom, şeful spune că va veni cu altă maşină. Luaţi-o înainte!	
+1678	Mi-a stricat aranjamentele.	
+1679	Aşa a spus.	
+1680	Nici eu nu pot veni, Sal.	
+1681	Spune-i lui Mike că au fost afaceri.	
+1682	Întotdeauna l-am plăcut.	
+1683	Înţelege.	
+1684	Iartă-mă, Sal.	
+1685	Tom, mă poţi scăpa?	
+1686	Pentru timpurile trecute?	
+1687	Nu pot, Sally.	
+1688	Trebuie să dai socoteală pentru Santino, Carlo.	
+1689	Mike, ai înţeles greşit.	
+1690	I l-ai dat pe Sonny lui Barzini.	
+1691	Farsa aceea pe care ai jucat-o cu sora mea.	
+1692	Credeai că vei păcăli un Corleone?	
+1693	Sunt nevinovat.	
+1694	Jur pe copiii mei.	
+1695	Nu face asta.	
+1696	Stai jos!	
+1697	Nu-mi face asta.	
+1698	Barzini e mort.	
+1699	La fel şi Philip Tattaglia.	
+1700	Moe Greene.	
+1701	Strachi.	
+1702	Cuneo.	
+1703	Azi reglez toate afacerile familiei, aşa că nu-mi spune că eşti nevinovat.	
+1704	Recunoaşte ceea ce ai făcut.	
+1705	Daţi-i ceva de băut!	
+1706	Haide!	
+1707	Nu te teme, Carlo!	
+1708	Crezi că mi-aş lăsa sora văduvă?	
+1709	Sunt naşul fiului tău, Carlo.	
+1710	Haide, bea!	
+1711	Eşti scos din afacerea familiei.	
+1712	Asta e pedeapsa ta.	
+1713	Eşti terminat.	
+1714	Te sui într-un avion spre Vegas.	
+1715	Tom.	
+1716	Stai aici!	
+1717	Ai înţeles?	
+1718	Nu-mi spune că eşti nevinovat.	
+1719	Îmi insulţi inteligenţa.	
+1720	Mă enervezi.	
+1721	Cine a venit la tine?	
+1722	Tattaglia sau Barzini?	
+1723	Barzini.	
+1724	Bine.	
+1725	Afară te aşteaptă o maşină, să te ducă la aeroport.	
+1726	O sun eu pe soţia ta să o anunţ cu ce avion ai plecat.	
+1727	Mike...	
+1728	Pleacă din faţa mea!	
+1729	Salut, Carlo!	
+1730	Vreau să-ţi spun...	
+1731	Mamă, te rog!	
+1732	Michael!	
+1733	Ce e?	
+1734	Unde e?	
+1735	Michael, ticălosule!	
+1736	Mi-ai ucis soţul.	
+1737	Ai aşteptat să moară tata, ca să nu te oprească nimeni.	
+1738	Îl învinuieşti pentru Sonny.	
+1739	Toată lumea l-a învinuit.	
+1740	Dar nu te-ai gândit niciodată la mine!	
+1741	Ce ne facem?	
+1742	Connie.	
+1743	De ce crezi că l-a trimis pe Carlo la Mall?	
+1744	Ştia că îl va ucide.	
+1745	Ai fost naşul fiului meu.	
+1746	Nenorocitule!	
+1747	Vrei să ştii câţi oameni a ucis cu Carlo?	
+1748	Citeşte ziarele!	
+1749	Ăsta e soţul tău!	
+1750	Nu!	
+1751	Nu, nu...	
+1752	Du-o sus!	
+1753	Cheamă un doctor!	
+1754	E isterică.	
+1755	Isterică.	
+1756	Michael, e adevărat?	
+1757	Nu mă întreba de afaceri, Kay.	
+1758	E adevărat?	
+1759	Nu mă întreba de afaceri.	
+1760	De ajuns!	
+1761	Bine.	
+1762	Doar de data asta.	
+1763	Te las să mă întrebi o dată despre afacerile mele.	
+1764	E adevărat?	
+1765	Este?	
+1766	Nu.	
+1767	Ne trebuie ceva de băut.	
+1768	Haide!	
+1769	Don Corleone.	

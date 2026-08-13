@@ -1,0 +1,1769 @@
+1	Tôi tin tưởng ở Mỹ quốc.	
+2	Nước Mỹ đã cho tôi cơ hội nở mày nở mặt.	
+3	Tôi nuôi dạy con gái như bất cứ người Mỹ nào.	
+4	Tôi không giữ rịt nó ở trong nhà vì tin là đã giáo huấn nó về danh dự gia đình.	
+5	Con bé có thằng bạn thân, không phải người Ý.	
+6	Tụi nó đi xi-nê với nhau	
+7	đến khuya mới về.	
+8	Tôi không nói một lời.	
+9	Cách đây hai tháng, nó lái xe rủ con nhỏ đi chơi cùng một thằng bạn nữa.	
+10	Chúng cho con nhỏ uống whiskey... rồi toan làm hỗn.	
+11	Con bé không chịu, không để mình bị nhục.	
+12	Tụi nó đập, như đập một con vật vậy.	
+13	Lúc tôi vô nhà thương, con nhỏ mũi dập, hàm bể phải kẹp không biết bao nhiêu chỗ!	
+14	Nó đau đến độ khóc cũng chẳng được.	
+15	Tôi đã khóc.	
+16	Làm sao tôi khóc?	
+17	Vì con nhỏ là cuộc đời tôi.	
+18	Con bé đẹp lắm.	
+19	Bây giờ thì nó chẳng còn đẹp với ai được nữa.	
+20	Xin lỗi.	
+21	Là một người Mĩ lương thiện, tôi đi thưa cảnh sát.	
+22	Cả hai thằng bị truy tố ra toà.	
+23	Quan tòa quyết mỗi đứa ba năm. Nhưng lại là tù treo.	
+24	Tù treo!	
+25	Chúng ung dung ra về!	
+26	Tôi đứng ngơ ngẩn trước toà.	
+27	Còn bị hai thằng súc sinh cười vào mặt nữa.	
+28	Tôi bèn nói với nhà tôi, Việc này phải nhờ đến Ông Trùm mới xong…	
+29	Vậy ông đi thưa cảnh sát làm gì?	
+30	Tại sao ngay từ đầu ông không đến tôi luôn?	
+31	Tôi phải mất gì cho ông?	
+32	Ông muốn gì cứ nói. Xong thì bao nhiêu tôi cũng chi.	
+33	Ông nhờ cái gì mới được?	
+34	Tôi muốn chúng chết.	
+35	Cái vụ đó làm thế nào được.	
+36	Ông muốn bao nhiêu tôi cũng chịu hết.	
+37	Tôi với ông biết nhau lâu rồi, nhưng chưa bao giờ ông đến nhờ tôi giúp đỡ.	
+38	Mà ông cũng chẳng thèm mời lại nhà uống tách cà phê.	
+39	Mà vợ tôi lại là mẹ đỡ đầu của con bé nhà ông bạn đấy.	
+40	Ta nói thẳng với nhau thế này.	
+41	Ông đã coi khinh tình bạn của tôi.	
+42	Ông ngại phải mang ơn tôi.	
+43	Tại tính tôi không muốn rắc rối…	
+44	Tôi hiểu quá mà.	
+45	Với ông nước Mĩ là thiên đường.	
+46	Ông có cuộc sống an lạc, có cảnh sát trông nom, có pháp luật bảo vệ.	
+47	Đâu phải nhờ vả đến thằng này.	
+48	Thế rồi bây giờ ông đến tìm tôi và bảo,	
+49	Don Corleone, xin ông thế thiên hành đạo giúp cho.	
+50	Ông còn nói với tôi bằng giọng thiếu lễ độ nữa.	
+51	Ông không nhân danh tình bạn.	
+52	Ông không thèm gọi tôi là Bố già.	
+53	Ông nhè đúng ngày tôi gả con để tới chơi và đề nghị tôi giết người vì tiền.	
+54	Tôi xin ông công lí.	
+55	Công lý đâu có như vậy.	
+56	Con gái ông còn sống sờ sờ ra.	
+57	Phải bắt chúng chịu những đau đớn mà con tôi đã chịu.	
+58	Ông bạn tính bao nhiêu xin cho biết?	
+59	Bonasera, Bonasera.	
+60	Tôi đã làm những gì mà ông bạn nỡ nào đánh giá tôi quá rẻ nhường ấy?	
+61	Nếu ông nhớ đến thằng này thì dễ quá, ngay giờ này hai thằng súc sinh kia chắc chắn sẽ khốn nạn hơn con nhỏ nhiều.	
+62	Và người đứng đắn như ông có kẻ thù, chúng sẽ là kẻ thù của chính tôi.	
+63	Chúng phải sợ ông một nước.	
+64	Xin ông hãy coi tôi như bạn.	
+65	Bố già.	
+66	Được.	
+67	Rất có thể một ngày kia tôi sẽ có việc nhờ lại.	
+68	Còn bây giờ... Còn bây giờ xin ông hãy coi việc này như món quà trong ngày cưới con tôi.	
+69	Cảm ơn, Bố già.	
+70	Không sao.	
+71	Giao vụ này cho thằng Clemenza.	
+72	Bảo nó lựa mấy thằng đàng hoàng.	
+73	Thây kệ thằng cha nhà đòn nói gì nói, mình đâu phải quân giết mướn.	
+74	Thằng Michael đâu?	
+75	Cha khỏi lo, nhóc nó đến ngay.	
+76	Không có thằng Michael thì không chụp chiếc gì hết.	
+77	Chuyện gì vậy?	
+78	Thì tại chú em Michael đó.	
+79	Don Barzini.	
+80	Hú, Paulie!	
+81	Cho tao thêm rượu coi.	
+82	Paulie!	
+83	Thêm rượu.	
+84	Ông nhảy chẳng kém vũ công thứ thiệt.	
+85	Mày là giám khảo hả?	
+86	Đi làm phận sự của mày đi kìa.	
+87	Sandra, trông chừng lũ trẻ.	
+88	Đế chúng chạy lung tung là không được nghe.	
+89	Lo cái thân anh đi kìa.	
+90	Hai ba chục ngàn chứ đâu phải ít.	
+91	Toàn là tiền mặt với ngân phiếu.	
+92	Trong cái túi lụa nhỏ xinh đó hết cả.	
+93	Đây mà là đám cưới ai khác thì...	
+94	hẳn là cả một gia tài!	
+95	Này, Paulie!	
+96	Tao có hai cái bánh gabagool, capocol, và một cái bánh prosciut nè.	
+97	Thằng khốn nạn!	
+98	Chuyện gì đây?	
+99	Anh lại có việc nữa rồi.	
+100	Tom à.	
+101	[NO TRANSLATION]	missing translation
+102	Chẳng người Sicily nào nỡ từ chối ai điều gì trong ngày gả con.	
+103	Tôi rất vinh dự và cảm động được ông trùm chiếu cố mời đến.	
+104	Biến con mẹ tụi bây hết!	
+105	Đám tiệc riêng tư của người ta mà cũng phá.	
+106	Biến!	
+107	Cái gì đây?	
+108	Đám cưới của em tao nhá.	
+109	Mấy thằng FBI không nể nang gì hết!	
+110	Đến đây, đến đây, đến đây!	
+111	Nó bị quân Mỹ bắt làm thợ chuyên môn. Nó tới giúp việc lò bánh sáu tháng ròng.	
+112	Nazorine, tôi làm gì được cho bạn đây?	
+113	Chiến tranh thì đã đi qua rồi, Người ta lại muốn tống thằng nhóc về Ý.	
+114	Bố già ơi, tôi có một mụn con gái.	
+115	Mà ông bạn thấy đó, nó và thằng Enzo...	
+116	Bạn muốn cho Enzo ở lại, để con gái bạn có được tấm chồng chứ gì.	
+117	Quả là chuyện gì ông bạn cũng thấu suốt.	
+118	Rất cảm tạ ông Hagen.	forced duplication
+119	Rất cảm tạ ông Hagen.	forced duplication
+120	Ông bạn phải ráng xem cho kỳ được ổ bánh cưới tôi làm tặng đấy!	
+121	Có cô dâu, chú rể và thiên thần...	
+122	Việc này mình giao cho ai ạ?	
+123	Để dân nhà quê Sicily làm là không ổn.	
+124	Phải bảo thằng dân biểu Do Thái ở quận bên vậy.	
+125	Còn ai trong danh sách nữa?	
+126	Chào, Michael!	
+127	Con không ghi sẵn, nhưng thằng Luca Brasi muốn vô gặp bác.	
+128	Có cần thiết không?	
+129	Con đoán nó không ngờ nhận được thiếp mời nên muốn gặp bác để cám ơn.	
+130	Tôi rất vinh dự và cảm động được ông trùm chiếu cố mời đến. Vào ngày cưới con gái ngài.	
+131	Xin chúc cho con đầu lòng của đôi trẻ là con trai.	
+132	Michael...	
+133	Cái ông đằng kia đang lảm nhảm một mình kìa.	
+134	Anh có thấy ông đó đáng sợ không?	
+135	Hung thần trong giang hồ đó em.	
+136	Ông đó tên gì?	
+137	Tên là Luca Brasi.	
+138	Thỉnh thoảng ổng cũng đỡ đần một tay cho cha của anh.	
+139	Michael, ổng tới đây kìa!	
+140	Nhìn bảnh quá vậy chú em!	
+141	Anh của anh, Tom Hagen này, còn đây là Kay Adams.	
+142	Cha đang muốn gặp em đó.	
+143	Rất vui được gặp cô.	
+144	Rất vui được gặp anh.	
+145	Anh của anh mà sao tên khác vậy?	
+146	Ảnh đang sống lang thang thì Sonny bắt gặp.	
+147	Ông già thấy tứ cố vô thân thì cho vào luôn.	
+148	Kể từ đó.	
+149	Ảnh là thầy cãi ngon lành lắm nghe.	
+150	Tuy không phải người Sicily,	
+151	nhưng anh nghĩ có khi ảnh trèo lên ghế consigliere không chừng.	
+152	Nghĩa là sao?	
+153	Đó là... Cố vấn kiêm phụ tá,	
+154	một nhân vật tối quan trọng trong gia đình.	
+155	Em thích món lasagna không?	
+156	Thưa ngài.	
+157	Tôi rất vinh dự và cảm động được ông trùm chiếu cố mời đến. Được ông trùm chiếu cố mời đến đám cưới của con gái.	
+158	Ngay cái ngày đám cưới con gái của ngài.	
+159	Chúc cho đôi trẻ sớm sanh quý tử.	
+160	Tôi thề lòng trung thành vô hạn.	
+161	Đây là bao thư mừng cô dâu chú rể.	
+162	Cảm ơn Luca.	
+163	Ông bạn quý hóa nhất của tôi.	
+164	Tôi xin phép ngài đi ra, tôi biết ngài rất bận bịu.	
+165	Cảm ơn.	
+166	Phu nhân Corleone!	
+167	Thôi nào!	
+168	Ông nghị sĩ Cauley xin lỗi không thể thân đến được, bảo là bác sẽ hiểu.	
+169	Có mấy ông phán không tới được cũng gởi quà đến.	forced duplication
+170	Có mấy ông phán không tới được cũng gởi quà đến.	forced duplication
+171	Chuyện gì ồn ào bên ngoài thế kia?	
+172	Johnny!	
+173	Johnny!	
+174	Em yêu anh!	
+175	Nó đi một mạch từ California tới.	
+176	Tao đã bảo nó tới là nó tới mà!	
+177	Chắc lại sanh chuyện gì đây nữa rồi.	
+178	Thằng con đỡ đầu này ngoan đấy chứ.	
+179	Johnny, Johnny!	
+180	Góp vui một bài coi con!	
+181	Gia đình anh có quen với Johnny hả?	
+182	Ừ!	
+183	Có muốn giới thiệu không?	
+184	Tuyệt cú mèo.	
+185	[NO TRANSLATION]	missing translation
+186	Ông già anh nâng đỡ cho ảnh đó.	
+187	Có hả?	
+188	Bằng cách nào?	
+189	Thưởng thức bài hát cái đi đã.	
+190	Michael ơi...	
+191	Michael à.	
+192	Kể đi.	
+193	Hồi trước Johnny mới đi cầm ca, ảnh bị trói chân trói tay bằng một hợp đồng với một ông bầu lớn.	
+194	Sự nghiệp thì lên như diều gặp gió nên Johnny muốn ra riêng.	
+195	Vì thằng con đỡ đầu.	
+196	Ông già anh phải đứng ra đích thân thu xếp.	
+197	Cha anh ra giá $10.000 xé giao kèo. Nhưng mà ông bầu đâu có chịu.	
+198	Hôm sau, ổng trở lại để bàn tiếp, nhưng cùng đi có Luca Brasi.	
+199	Trong có một tiếng, Chữ ký của ông bầu thòi ra ngay.	
+200	Sao cha của anh làm được hay vậy?	
+201	Đưa ra một đề nghị hắn không thể bỏ qua.	
+202	Đề nghị gì đó?	
+203	Luca Brasi kê súng vào thái dương ông bầu còn ổng nói trên tờ giấy sẽ có hoặc chữ kí hoặc một ít huyết của ông ta.	
+204	Chuyện thật đấy cưng.	
+205	Đó là gia đình anh chứ	
+206	anh thì đời nào thế.	
+207	Hay lắm con!	
+208	Tao lo hết.	
+209	Tom...	
+210	Mày đi tìm Santino.	
+211	Nhắn nó đến văn phòng.	
+212	Anh ba Fredo sao rồi?	
+213	Anh ba của anh, Fredo, đây là Kay Adams.	
+214	Chào.	
+215	Cưng có khỏe không?	
+216	Đây là em trai Mike của anh.	
+217	Anh có thấy vui không?	
+218	[NO TRANSLATION]	missing translation
+219	Bạn của chú mày đây à?	
+220	Con chẳng biết sao nữa cha ơi.	
+221	Con không còn tiếng nói gì nữa.	
+222	[NO TRANSLATION]	missing translation
+223	Mà có một bộ phim này, con mà được đóng thì trở lại chiếu trên ngay.	
+224	Nhưng thằng chủ hãng gạch tên con cái một.	
+225	Hắn tên gì?	
+226	Woltz.	
+227	Ai khác được đóng chứ con có chết cũng chẳng có vé.	
+228	Sonny?	
+229	Sonny?	
+230	Sonny?	
+231	Sonny, anh có trong đó không?	
+232	Sao hả?	
+233	Ông già muốn gặp anh đó.	
+234	Đợi một lát.	
+235	Tháng trước nó vớ được độc quyền quay phim bộ tiểu thuyết lớn, ăn khách nhất.	
+236	Nhân vật chính cứ như nhìn con mà chế vậy.	
+237	Thậm chí con chẳng cần nhập vai nhập viếc gì.	
+238	Bố già ơi, con hết biết làm gì rồi.	
+239	Làm cho ra người lớn!	
+240	Mày bị cái gì vậy?	
+241	Mày đổ đốn đến thế hả?	
+242	Mày là thằng bù nhìn khóc lóc ỉ ôi sao?	
+243	Phải làm gì?	
+244	Con phải làm gì bây giờ?	
+245	Thế nghĩa là sao hả?	
+246	Lố bịch.	
+247	Mày có hay đến nhà con vợ cũ không?	
+248	Có ạ.	
+249	Được.	
+250	Có gia đình mà không gần gũi chăm nom thì còn làm thằng đàn ông cái gì.	
+251	Nhìn mày xuống sắc quá chừng.	
+252	Đi xuống ăn uống đi con.	
+253	Nghỉ ngơi đi, đúng một tháng thì thằng chủ Hollywood của mày sẽ giao vai đó cho mày.	
+254	Trễ rồi cha à. Chỉ còn một tuần nữa là khởi sự quay.	
+255	Tao sẽ cho nó một đề nghị không thể bỏ qua.	
+256	Mày đi xuống vui chơi với bà con, chúng bạn đi cho quên hết sự phiền.	
+257	Mọi việc đã có tao lo hết.	
+258	Vâng, thưa cha.	
+259	Này, chừng nào rước dâu?	
+260	Dạ, cắt bánh cưới xong là rước đấy ạ.	
+261	Thằng chồng con Connie có nên giao cho nó một công việc gì kha khá trong nhà không?	
+262	Dẹp.	
+263	Cho nó việc gì kiếm sống thôi. Còn việc nhà cấm hở cho nó biết.	
+264	Còn gì nữa không?	
+265	Thằng Sollozzo gọi.	
+266	Tuần tới là nhà mình phải đi gặp nó rồi.	
+267	Lúc đó mày cũng từ California về.	
+268	Khi nào con đi được ạ?	
+269	Tối nay là ổn.	
+270	Tao muốn mai mày đi gặp thằng cha chủ hãng phim làm xong vụ Hollywood cho thằng Johnny đã.	
+271	Nếu không còn gì nữa thì tao xuống đám cưới chung vui đây.	
+272	Carlo, chúng ta chuẩn bị chụp hình nè.	
+273	Đợi một tí.	
+274	Không, Michael.	
+275	Đừng có lôi em vào.	
+276	Đẹp rồi đó nghe.	
+277	[NO TRANSLATION]	missing translation
+278	Cứ giữ yên như vậy đi.	
+279	Diễn cảnh đó thêm tình tứ nữa nào.	
+280	Xin ông bắt đầu đi.	
+281	Tôi là người mà bạn ông Johnny Fontane cử tới.	
+282	Nếu ông chủ gia ơn cho lần này thì người bạn này sẽ muôn đời không quên.	
+283	Woltz nghe đây.	
+284	Xin ông cho Johnny sắm vai chính trong cuốn phim chiến tranh bấm máy tuần sau.	
+285	Vậy ông bạn đó định đền đáp Woltz thế nào?	
+286	Thân chủ tôi bảo đảm rằng nghiệp đoàn không dám lôi thôi với ông nữa.	
+287	Và quý hãng có một nghệ sĩ mới từ cần sa nhảy qua bạch phiến.	
+288	Ông bạn chơi ép thằng già này đấy hả?	
+289	Này cái thằng bợ đít thối thây!	
+290	Nói vắn tắt thế này này, dù chủ mày có là ai...	
+291	Thằng Johnny Fontane khỏi đóng gì hết!	
+292	Mấy thằng cướp mafia có bâu đến như ruồi ông cũng chấp hết.	
+293	Thưa, tôi là người Đức-Ireland.	
+294	Nghe đây, ông bạn Phổ-Ái.	
+295	Tôi cho mấy ông bạn tới số hết!	
+296	Tôi là luật sư.	
+297	Tôi chẳng hề dọa dẫm...	
+298	Mấy luật sư có danh ở New York tôi rành rẽ cả.	
+299	Xin hỏi ông bạn là ai?	
+300	Tôi làm ăn khá là đặc biệt.	
+301	Tôi chỉ đại diện cho một thân chủ thôi.	
+302	Có gì hay xin gọi tôi.	
+303	Còn một điều, tôi thành thực hâm mộ mấy cuốn phim mà quý hãng thực hiện.	
+304	Kiểm tra nó coi.	
+305	Nhà đâu mà đẹp lộng lẫy vậy.	
+306	Cậu nhìn kìa.	
+307	Người ta từng dùng nó trong cung vua đó.	
+308	Hết sảy.	
+309	Lẽ ra phải cho biết ngay thân chủ của bạn là Corleone chớ?	
+310	Làm tôi cứ tưởng đâu Johnny mướn một thầy cãi hạng bét nào.	
+311	Tôi không tùy tiện lôi tên thân chủ ra.	
+312	Nước uống ngon không?	
+313	Được đấy.	
+314	Giờ tôi cho cậu cái này đẹp lắm.	
+315	Cậu cũng trân quý cái đẹp mà.	
+316	[NO TRANSLATION]	missing translation
+317	Tốn sáu trăm ngàn rước nó về đó.	
+318	Tôi cam đoan là Sa hoàng cũng không dám chi bạo tay như vậy.	
+319	Khartoum.	
+320	Khartoum.	
+321	Tôi không cho đua nữa.	
+322	Chỉ để đúc giống đặc biệt cho chuồng ngựa nhà.	
+323	Cảm ơn, Tony.	
+324	Mình đi ăn đi.	
+325	Corleone là cha đỡ đầu của Johnny.	
+326	Với người Ý đó là mối quan hệ gắn bó thiêng liêng.	
+327	Tôi tôn trọng điều đó.	
+328	Miễn cho cái vụ này thì gì tôi cũng chịu hết.	
+329	Có điều không được là không được.	
+330	Ông ấy không bao giờ nhờ đến một người đã một lần từ chối.	
+331	Ông bạn không hiểu rồi.	
+332	Johnny Fontane đừng hòng có vai gì trong đó.	
+333	Vai đó là đo ni đóng giày cho nó.	
+334	Nó sẽ lên ghê lắm.	
+335	Nhưng tôi sẽ chơi cho nó mạt luôn. Tại sao thì để tôi nói bạn nghe.	
+336	Hắn thui mất của tôi một mầm non nhiều triển vọng nhất.	
+337	Con đào non tôi bỏ 5 năm nuôi nấng, đào tạo từ ca, diễn cho đến nhảy.	forced duplication
+338	Con đào non tôi bỏ 5 năm nuôi nấng, đào tạo từ ca, diễn cho đến nhảy.	forced duplication
+339	Cả trăm ngàn đầu tư vô nó để cho nó thành sao.	
+340	Nói trắng ra	
+341	để bạn thấy rằng tôi không phải gỗ đá.	
+342	Tiền nong chẳng là thá gì cả.	
+343	Con bé này ngon mắt lắm.	
+344	Trẻ đẹp, trinh trắng!	
+345	Đứa ngon nhất trong số những đứa ngon nhất tôi từng có.	
+346	Vậy mà thằng chó đẻ òn ỉ, tán tỉnh thế nảo	
+347	mà con nhỏ chạy theo nó.	
+348	Nó còn liệng bỏ tất cả chỉ cốt để thằng già này xấu mặt!	
+349	Một thằng địa vị tôi mà xấu mặt thì có chịu đời nổi không?	
+350	Xin ông bạn biến khuất mắt cho!	
+351	Tôi chẳng phải thằng bầu ban nhạc hồi đó mà hòng Corleone chơi dữ đâu.	
+352	Phải, tôi rành chuyện ấy quá đi chứ.	
+353	Cảm ơn ông chủ có lòng tiếp.	
+354	Ông chủ xin phiền cho mượn xe đi phi trường ngay.	
+355	Ngài Corleone cứ đòi có chuyện gì không xong là phải cho hay liền.	
+356	Mày có mệt lắm không Tom?	
+357	Con ngủ trên máy bay rồi ạ.	
+358	Hồ sơ Sollozzo cũng trong đây.	
+359	Bây giờ...	
+360	Sollozzo có ngoại hiệu “dân Thổ”.	
+361	Hắn chơi dao rất chì. Nhưng chỉ giới hạn trong phạm vi nghề nghiệp.	
+362	Mà nghề của hắn là ma túy.	
+363	Nó có mấy nhà vườn trồng thẩu bên Thổ.	
+364	Ở Sicily, Sollozzo có lò chế nhựa thẩu thành heroin.	
+365	Nó cần vốn và mấy anh cảnh sát bảo kê cho.	
+366	Mình sẽ được ăn chia,	
+367	nhưng bao nhiêu chưa biết.	
+368	Sau lưng hắn là bọn nhà Tattaglia.	
+369	Bọn này cũng có phần.	
+370	Hắn có tiền án gì không?	
+371	Một ở Ý, một ở đây.	
+372	Ai cũng biết về ma túy nó là gốc bự.	
+373	Santino, mày thấy sao?	
+374	Cái chất bột trắng này ra tiền.	
+375	Tom?	
+376	Nên chứ ạ.	
+377	Chẳng có ngành nào ngon ăn bằng ma túy.	
+378	Mà mình không làm thì thằng khác làm, có khi cả Ngũ Đại Gia nhào vô không chừng.	
+379	Chúng sẽ tung tiền ma túy ra mua cớm, mua chính khứa.	
+380	Rồi chúng nuốt sống mình luôn.	
+381	Mình còn nắm sòng bạc và nghiệp đoàn. Nhưng sắp tới chủ lực sẽ là ma túy.	
+382	Mình phải nhào vô ăn có với chúng, nếu không mình sẽ mất tất trong 10 năm nữa.	
+383	[NO TRANSLATION]	missing translation
+384	Cha quyết định sao về vụ này?	
+385	Don Corleone.	
+386	Trước hết tôi cần có một nhân vật thần thế.	
+387	Sau là một triệu đô la tiền mặt.	
+388	Ông trùm Corleone trong túi có nhiều ông toà. Tôi cũng cần lắm.	
+389	Phần chia của bọn tôi là bao nhiêu?	
+390	30%.	
+391	Nội năm đầu cũng 3 triệu, 4 triệu rồi.	
+392	Còn vô nhiều, nhiều nữa.	
+393	Còn phần chia của cánh nhà Tattaglia?	
+394	Cái đó tính phần của tôi.	
+395	Tôi sẽ lo bên họ.	
+396	Nghĩa là bên tôi được chia 30% nhờ chút vốn bỏ ra và lo bảo đảm pháp lý?	
+397	Đúng.	
+398	Nếu vậy thì ông cần đến bọn tôi làm gì?	
+399	Bọn tôi có làm gì đáng để chia phần?	
+400	Nếu 1 triệu đô la đối với ông trùm chỉ là “chút vốn bỏ ra” thì tôi xin thật ngưỡng mộ!	
+401	Ông Sollozzo có mặt ở đây vì tôi cũng nghe nói ông là người làm ăn đứng đắn, đàng hoàng.	
+402	Nhưng đề nghị của ông tôi phải từ chối.	
+403	Tôi cũng xin giải thích cho ông hiểu.	
+404	Tôi có nhiều anh em quen biết trong giới thẩm quyền thật.	
+405	Nhưng nếu tôi đụng đến ma túy thì hết anh em. Mở sòng bạc được, cái đó vô hại. Ma túy thì không.	
+406	Người ta làm ăn thế nào thì cũng chẳng ảnh hưởng gì đến tôi.	
+407	Nhưng ngành của ông thì hơi nguy hiểm.	
+408	Bề nào cũng còn gia đình Tattaglia bảo đảm nữa!	
+409	Bộ bọn Tattaglia bảo đảm...	
+410	Khoan đã.	
+411	Cũng tại cưng chiều mấy thằng nhỏ quá mà đâm hư hết!	
+412	Nói bừa nói leo.	
+413	[NO TRANSLATION]	missing translation
+414	Xin ông Sollozzo hiểu cho... Tôi buộc phải từ chối.	
+415	Nhưng cũng xin chúc ông làm ăn phát đạt.	
+416	Tôi biết ông sẽ làm tốt, chúc ông may mắn.	
+417	Mình vẫn cứ thân thiện vì mỗi người mỗi ngành đâu có dẫm chân nhau.	
+418	Cảm ơn.	
+419	Santino.	
+420	Tới đây.	
+421	Mày bị cái gì vậy?	
+422	Tao nghĩ vì mày quần con bé kia quá nên đầu óc láng quáng mất rồi.	
+423	Đừng có để cho người ngoài thấy được đầu óc mày.	
+424	Biến đi.	
+425	Tom, cái gì vậy con?	
+426	Quà của thằng Johnny đó ạ.	
+427	Nó được nhận vai rồi.	
+428	Thôi, đem đi giùm cải.	
+429	Đem lại đàng kia.	
+430	Và... lệnh cho thằng Luca Brasi vào đây.	
+431	Tôi hơi ngán cái thằng Sollozzo này.	
+432	Ông bạn đi điều tra xem nó tính giở trò gì giùm tôi.	
+433	La cà với nhà Tattaglia đi.	
+434	Cứ cho chúng thấy ông bạn bất mãn với bên cánh tôi tìm hiểu được gì thì cứ tìm.	
+435	Em có quà tặng mẹ anh và anh Sonny nè... rồi còn một cái cà vạt tặng anh Freddy, bút máy Reynolds tặng anh Tom Hagen.	
+436	Em khoái cái gì để anh mua tặng?	
+437	Mình anh đủ rồi!	
+438	Đi, Fredo.	
+439	Con bảo thằng Paulie lấy xe sẵn đi.	
+440	Dạ, cha.	
+441	Để con.	
+442	Nó phôn tới kêu đau, xin nghỉ hồi sáng.	
+443	Thằng Paulie nó đàng hoàng.	
+444	Để con lấy xe cũng được mà.	
+445	Giáng sinh vui vẻ nghe Caro.	
+446	Cảm ơn.	
+447	Luca!	
+448	Tôi là Bruno Tattaglia.	
+449	Tôi biết.	
+450	Chắc ông biết tôi là ai rồi?	
+451	Tôi biết chứ.	
+452	Ông đang bàn bạc với nhà Tattaglia phải không?	
+453	Tôi đề nghị một chuyện làm ăn.	
+454	Tôi cần một người cứng như ông.	
+455	Theo chỗ tôi nghe, nhà Corleone... cũng không đối tốt với ông cho lắm.	
+456	Thế ông có muốn theo tụi này không?	
+457	Phần ăn chia của tôi thế nào?	
+458	Chuyến đầu phần ông đảm bảo là 50 ngàn.	
+459	Thơm đấy!	
+460	Thế là ông chịu nhé?	
+461	Tom!	
+462	Tom Hagen.	
+463	Giáng sinh vui vẻ.	
+464	Gặp được ông hay quá.	
+465	Tôi có chút chuyện với ông bạn.	
+466	Tôi mắc bận.	
+467	Nhín chút thời gian đi quân sư.	
+468	Vào xe nào.	
+469	Ông bạn sợ cái gì?	
+470	Nếu tôi muốn chơi thì ông bạn đâu còn sống được nữa.	
+471	Vào xe đi.	
+472	Fredo, cha mua trái cây cái đã.	
+473	Dạ.	
+474	Chúc bác Giáng sinh vui vẻ.	
+475	Cho tôi mua ít trái cây.	
+476	Em là sơ thì chàng có mê em hơn không?	
+477	Truyện cổ tích có đó.	
+478	Không.	
+479	Vậy nếu em là danh ca Ingrid Bergman?	
+480	Cái đó thì anh phải suy nghĩ lại à.	
+481	Michael.	
+482	Em có là Ingrid Bergman thì anh cũng chỉ yêu em như vậy thôi.	
+483	Có chuyện gì vậy?	
+484	Báo không nói ổng còn sống hay đã đi nữa.	
+485	Anh Sonny, em Michael đây.	
+486	Mày ở đâu đấy?	
+487	Cha làm sao rồi?	
+488	Không biết.	
+489	Chuyện tam sao thất bản.	
+490	Nhưng ông già bị nặng lắm.	
+491	Mày còn đó không?	
+492	Em đây.	
+493	Mày ở cái xó nào đấy?	
+494	Tao lo cho mày đó.	
+495	Bộ thằng Tom không nói sao?	
+496	[NO TRANSLATION]	missing translation
+497	Mày mau bò về nhà	
+498	gấp lo cho mẹ nè, nghe rõ chưa?	
+499	Chúa ơi!	
+500	Sonny!	
+501	Quay trở vào mau.	
+502	Ai đó?	
+503	Mở cửa. Clemenza đây.	
+504	Có tin của ông già mày nè.	
+505	Ngoài đường người ta đồn ổng đi rồi!	
+506	Chú mắc chứng gì vậy hả?	
+507	Mày bình tĩnh lại coi!	
+508	Thằng Paulie đâu?	
+509	Nó cúm.	
+510	Chớm lạnh là cúm lên cúm xuống!	
+511	Nó cúm mấy lần cả thảy?	
+512	Đâu ba bốn lần gì đó.	
+513	Freddy nó cũng nói khỏi cần thay.	
+514	Chú đi đón thằng Paulie đi.	
+515	Cúm kiếc gì kệ mẹ nó.	
+516	Đón nó rồi chú lại nhà ông già cho tôi.	
+517	Mày muốn thằng nào bảo vệ nhà này không?	
+518	Khỏi.	
+519	Cứ theo lời tôi đi.	
+520	Anh sẽ cho hai đứa lại nhà này canh liền.	
+521	Alô?	
+522	Phải ông Santino Corleone không ạ?	
+523	Ừ.	
+524	Tom Hagen hiện ở trong tay bọn này.	
+525	Ba giờ nữa sẽ ra về, kèm một đề nghị.	
+526	Trước khi biết cái đề nghị đó xin ông chớ vọng động.	
+527	Sự việc thì đã rồi.	
+528	Xin ông Sonny tự kiềm chế cho một chút.	
+529	Được, tôi sẽ chờ.	
+530	Ông trùm của ông bạn chết rồi.	
+531	Tôi biết ông bạn không thuộc ngành võ nhà Corleone, đừng hoảng.	
+532	Tôi muốn ông bạn giúp ông trùm, cũng là giúp cả tôi.	
+533	Sau khi tôi mời ông đến, lính của tôi hạ ổng khi ổng ở văn phòng ra.	
+534	Uống đi.	
+535	Ông bạn làm cây cầu hoà bình giữa Sonny và tôi.	
+536	Sonny mặn đề nghị của tôi lắm, phải không?	
+537	Ông bạn cũng thấy rõ sự lợi hại của vấn đề.	
+538	Sonny nó sẽ tới xử ông trước hết.	
+539	Đấy chỉ là máu nóng lúc đầu thôi.	
+540	Ông bạn sẽ cho nó biết chuyện phải quấy.	
+541	Nên nhớ sau tôi còn có cánh Tattaglia.	
+542	Dân giang hồ New York cũng chỉ cần hai chữ bình yên.	
+543	Ông bạn dư biết là ông trùm, hiện đã đi rồi, đang xuống dốc.	
+544	Mười năm trước, tôi làm gì có đẳng cấp với tới ổng.	
+545	Bây giờ ổng đi rồi, Tom à. Người chết không quay về được.	
+546	Vậy tôi nhờ ông bạn đánh tiếng với Sonny, các capo, Tessio và lão Clemenza béo.	
+547	Vụ ma túy này ngon ăn mà Tom.	
+548	Tôi sẽ thử.	
+549	Nhưng còn Luca Brasi thì đến cả Sonny cũng chịu.	
+550	À...	
+551	Thằng Luca để tôi tính.	
+552	Chỉ nhờ anh kềm giùm Sonny.	
+553	Và hai thằng em nó.	
+554	Tôi sẽ làm tròn trách nhiệm.	
+555	Tốt.	
+556	Thôi ông bạn đi đi.	
+557	Ai lại muốn đổ máu bao giờ.	
+558	Tôi cũng là người làm ăn thôi.	
+559	Thấy máu là thấy tốn tiền.	
+560	Ổng còn sống!	
+561	Lãnh một lúc năm viên mà vẫn không chết!	
+562	Tôi cũng xui, mà ông bạn không làm cho xong thì lại càng xui!	
+563	Bà trùm đang ở nhà thương lo săn sóc.	
+564	Ông trùm nhiều hy vọng qua khỏi!	
+565	Phải xử cho bằng hết.	
+566	Sollozzo, Philip Tattaglia, Bruno Tattaglia, Ramon...	
+567	Bộ phải giết hết tụi nó sao?	
+568	Đâu được!	
+569	Giết được thằng Sollozzo là êm xuôi mọi đường.	
+570	Luca thì sao đây?	
+571	Thằng Sollozzo coi bộ không ngán gì Luca hết.	
+572	Nếu thực sự nó phản thì bọn mình mệt lắm.	
+573	Có ai tiếp xúc với Luca không?	
+574	Tao phôn không biết bao nhiêu lần.	
+575	Em phôn vài lần nữa coi...	
+576	Luca không ngủ bậy bao giờ cả.	
+577	Tom, mày là quân sư.	
+578	Ví dụ ông già không qua khỏi thì mày tính sao?	
+579	Thiếu ổng, thiếu sự quen biết lớn của ổng thì nhà này mất đứt nửa lực lượng.	
+580	Các cánh khác trước sau sẽ theo Sollozzo hết để khỏi đổ máu dài dài.	
+581	Hết chiến tranh rồi.	
+582	Thằng nào lại muốn chơi chết bỏ nữa.	
+583	Nếu chẳng may ông già mất... Thì ta phải hợp tác với chúng.	
+584	Nói dễ nghe quá!	
+585	Đâu phải ông già mày bị bắn?	
+586	Tao cũng là con ổng như mày hay Michael thôi.	
+587	Gì đó?	
+588	Paulie, tao đã nói mày ở ngoài mà.	
+589	Thằng gác cổng nói có bưu phẩm.	
+590	Tessio, coi coi đó là gì.	
+591	Tôi ở lại có được không?	
+592	Ừ.	
+593	Mà mày còn bệnh không?	
+594	Khỏe rồi.	
+595	Có đồ ăn đó.	
+596	Đói thì lấy đi.	
+597	Khỏi ạ.	
+598	Hay uống gì đi.	
+599	Brandy giải cảm tốt.	
+600	Đi đi.	
+601	Coi bộ được đó.	
+602	Phải cho thằng này đi!	
+603	Thằng chó bán đứng ông già.	
+604	Chú phải ưu tiên việc này đó.	
+605	Rõ rồi.	
+606	Mickey, ngày mai đưa vài thằng tới tận nhà Luca.	
+607	Hay là chúng ta đừng nên để Mike dính vào.	
+608	Thôi mày gác điện thoại trong nhà cũng là làm việc lớn rồi.	
+609	Gọi Luca lại nữa coi.	
+610	Cái gì đây?	
+611	Một lối đưa tin kiểu Sicily..	
+612	Đại ý là Luca Brasi bây giờ đã ngủ với cá.	
+613	Anh đi.	
+614	Chừng nào anh mới về?	
+615	Coi bộ cũng trễ đó.	
+616	Nhớ đem bánh cannoli theo đó!	
+617	Ừ, ừ.	
+618	Rocco, mày phải xích qua bên một chút coi.	
+619	Chắn cha nó kính chiếu hậu rồi.	
+620	Thằng Sonny điên đầu rồi.	
+621	Chưa gì hết đã muốn trải nệm.	
+622	Bây giờ phải kiếm một căn ngon lành ở mé Tây.	
+623	Lại căn 309 Tây đường 43 coi.	
+624	Mày biết chỗ nào ngon bên đó không?	
+625	Để tôi coi coi.	
+626	Vừa lái vừa nhớ đi.	
+627	Tháng này kiểu gì cũng phải đánh New York.	
+628	Lùi xe lại nhớ coi chừng mấy đứa con nít.	
+629	Paulie, lái xuống đường 39, nhận 18 tấm thảm rồi lấy cho tao hóa đơn.	
+630	Ừ.	
+631	Nhớ thảm phải sạch đó. Quân mình đóng ở đó lâu dài mà.	
+632	Đảm bảo thảm sạch láng, vi trùng diệt hết.	
+633	Từ đó là từ kỵ nghe mày.	
+634	Tiêu diệt!	
+635	Coi chừng tụi tao tiêu diệt mày đó nghe!	
+636	Ngừng xe lại	
+637	cho tao trút bầu tâm sự cái đã.	
+638	Liệng súng đi.	
+639	Chỉ lấy bánh cannoli cho tao.	
+640	Ê, Mike!	
+641	Ê, Mikey!	
+642	Dạ.	
+643	Mày có điện thoại.	
+644	Ai đó?	
+645	Con nhỏ nào đó.	
+646	Alô.	
+647	Em Kay hả?	
+648	Ông già thế nào rồi, anh?	
+649	Ông già tai qua nạn khỏi.	
+650	Em yêu anh.	
+651	Em yêu anh!	
+652	Michael ơi?	
+653	Ừ, anh biết.	
+654	Anh nói yêu em coi nào.	
+655	Nói thế nào được.	
+656	Anh không thể nói được sao?	
+657	Thôi để tối nay anh gặp em.	
+658	Yêu em thì nói yêu em chứ sợ gì mà không nói hả Mikey?	
+659	Anh yêu em bằng cả trái tim.	
+660	Không gặp được em trái tim anh tan nát.	
+661	Học tao đây nè.	
+662	Rồi cũng có ngày mày phải làm đầu bếp cho 20 thằng ăn như tao thôi.	
+663	Đổ dầu ăn vào trước để phi tỏi.	
+664	Quăng cà chua, sốt cà, rán lên, nhớ đừng để cho nó dính.	
+665	Đợi cho tới lúc sôi, rồi cứ thế đổ xúc xích, thịt băm vào.	
+666	Cho một chút rượu.	
+667	Một chút đường.	
+668	Mẹo của tao đó.	
+669	Liệng mấy thứ vớ vẩn ấy đi.	
+670	Chú còn bao nhiêu chuyện gấp nè.	
+671	Paulie sao?	
+672	Khỏi thấy nó nữa.	
+673	Mày đi đâu đó?	
+674	Vào thành phố.	
+675	Cho lính lác đi theo nó bảo vệ.	
+676	Em đi thăm cha...	
+677	Nó không sao đâu.	
+678	Sollozzo biết nó đâu dính vào chuyện nhà.	
+679	Cẩn thận đó nhe mày.	
+680	Ờ.	
+681	Thôi cũng kệ, cho người đi theo nó đi.	
+682	Anh đi đây.	
+683	Cho em đi theo với.	
+684	Thôi cưng.	
+685	Đám cảnh sát, báo chí cắm chốt sẵn ở đó rồi.	
+686	Vậy cho em đợi trong xe cũng được.	
+687	Anh không muốn em bị liên lụy đâu.	
+688	Chừng nào em được gặp anh nữa vậy?	
+689	Em về New Hampshire, ở nhà cha mẹ cho đàng hoàng đi rồi anh gọi.	
+690	Chừng nào em được gặp anh nữa, Michael?	
+691	Anh không biết.	
+692	Anh làm gì ở đây?	
+693	Anh đâu có được vào đây.	
+694	Tôi là Michael Corleone.	
+695	Tôi là con của ổng.	
+696	Mấy ông vẫn canh chừng đây đi đâu cả rồi?	
+697	Người bệnh mệt vì quá nhiều người vô thăm,	
+698	vượt ra ngoài thể lệ bệnh viện.	
+699	Cách đây chừng 10 phút, cảnh sát vô mời ra hết.	
+700	Gọi cho tôi số Long Beach 45620.	
+701	Y tá,	
+702	cô ở lại đây một chút.	forced duplication
+703	cô ở lại đây một chút.	forced duplication
+704	Sonny, em ghé bệnh viện thăm cha	
+705	mà chẳng thấy ai hết trọi.	
+706	Người của Tessio không có, cớm cũng tuyệt tích.	
+707	Cha nằm trơ một mình kìa.	
+708	Chớ có sợ hoảng.	
+709	Sợ quái gì mà sợ.	
+710	Tôi xin lỗi, ông phải ra thôi.	
+711	Ông già tôi bây giờ phải chuyển đi chỗ khác.	
+712	Nhờ cô tháo gấp mấy ống.	
+713	Chuyện này không thể được!	
+714	Chắc cô có biến tin về ổng chớ?	
+715	Có đứa sắp tới đây cho ổng đi luôn.	
+716	Cô nắm được chưa?	
+717	Giúp tôi đi.	
+718	Anh là ai?	
+719	Tôi là thợ bánh Enzo nè.	
+720	Anh không nhớ tôi à?	
+721	Enzo.	
+722	Bây giờ lo về đi. Sắp có chuyện lộn xộn.	
+723	Nếu lộn xộn tôi phải ở lại chớ.	
+724	Chỗ ông trùm với nhà tôi mà về coi sao được.	
+725	[NO TRANSLATION]	missing translation
+726	Vậy anh đợi tôi trước cổng bệnh viện đi.	
+727	Tôi xong chuyện rồi ra liền.	
+728	Cha cứ nằm yên.	
+729	Có con ở đây lo cho cha.	
+730	Có con ở đây rồi.	
+731	Có con đây.	
+732	Quăng mẹ nó đi.	
+733	Tới đây.	
+734	Anh để tay vào túi giả bộ như có súng đi.	
+735	Rồi sẽ ổn hết mà.	
+736	Anh giỏi lắm.	
+737	Tao đã cho hốt hết lũ Ý tụi bây mà!	
+738	Mấy anh đang canh mà đi đâu mất hết vậy?	
+739	Thứ chó chết!	
+740	Mày sủa bậy vô công việc của tao hả?	
+741	Tao lệnh tụi nó rút đấy.	
+742	Cút cha mày đi!	
+743	Cho bảo vệ ông già tôi đi rồi tính.	
+744	Phil, mày nắm đầu nó cho tao!	
+745	Trình đại úy, nó đâu có vũ khí.	
+746	Nó là anh hùng chiến tranh.	
+747	Nó không dính...!	
+748	Tao biểu nắm đi!	
+749	Thằng Thổ chi cho ông cái gì?	
+750	Nắm nó.	
+751	Dựng nó đứng thẳng coi.	
+752	Bắt nó đứng thẳng.	
+753	Tôi là luật sư nhà Corleone.	
+754	Những vị này được mướn để bảo vệ Vito Corleone.	
+755	Họ có giấy phép mang vũ khí đàng hoàng.	
+756	Nếu đại úy câu lưu họ thì sáng mai xin mời ra biện lý cuộc giải thích lý do.	
+757	Buông nó ra.	
+758	Toàn là ma mới không vậy?	
+759	Bây giờ phải xài tới lũ này thôi.	
+760	Thằng Sonny điên lên về vụ đêm qua ở nhà thương.	
+761	Người của mình vừa quất xong thằng Bruno Tattaglia, đúng 4 giờ sáng nay.	
+762	Má ơi.	
+763	Về đây cứ tưởng như vô pháo đài vậy.	
+764	Tamaduch!	
+765	Cả trăm đàn em tao đã gài sẵn cho nằm đầy đường rồi.	
+766	Thằng Thổ ló một sợi tóc cũng chết cha nó với tao!	
+767	Mike, để tao nhìn mặt mày coi.	
+768	Đẹp, đẹp lắm.	
+769	Thế này mới lộng lẫy chứ em trai.	
+770	Thằng Thổ đề nghị điều đình!	
+771	Thằng này gan lì lắm.	
+772	Nó đề nghị hôm nay nữa chứ.	
+773	Vậy nó muốn gì?	
+774	[NO TRANSLATION]	missing translation
+775	Nó yêu cầu tụi mình cử thằng Michael tới tiếp xúc nghe đề nghị của nó.	
+776	Nó hứa là đề nghị sẽ rất biết điều, chắc chắn bên mình chấp thuận.	
+777	Còn mạng thằng Bruno Tattaglia?	
+778	Cái đó cũng được nói rồi.	
+779	Cái đó là trả món nợ mưu sát ông già.	
+780	Mình phải tới coi nó đề nghị cái gì.	
+781	[NO TRANSLATION]	missing translation
+782	Thôi ông quân sư!	
+783	Khỏi điều đình, đề nghị gì hết. Tao không có gì để nói đi nói lại với thằng Sollozzo hết!	
+784	Nạp thằng Sollozzo, bằng không thì đổ máu lớn.	
+785	Đời nào các cánh khác chịu.	
+786	Vậy thì nạp mạng thằng Sollozzo!	
+787	Chuyện làm ăn đừng đem cá nhân vào!	
+788	Tụi nó bắn cha tao...	
+789	Đó cũng là do làm ăn thôi.	
+790	Vậy thì cả lũ cùng chịu.	
+791	Một chuyện này thôi.	
+792	Mày khỏi cần cố vấn về cái vụ điều đình!	
+793	Bổn phận của mày là giúp tao thắng.	
+794	Tao điều tra thằng đại úy McCluskey. Thằng chó dám đập bể hàm Mike.	
+795	Sollozzo mua đứt nó.	
+796	McCluskey còn chịu làm cận vệ luôn nữa chứ.	
+797	Có một thằng cán vệ như vậy thì còn làm gì nổi Sollozzo mà làm.	
+798	Xưa nay có thằng nào dám nổ đại úy cảnh sát New York.	
+799	Toàn thể giới giang hồ sẽ cứ nhè cánh Corleone mình mà đổ vạ!	
+800	[NO TRANSLATION]	missing translation
+801	Ông già có tạo được bao nhiêu thế lực chính trị cũng vứt đi.	
+802	[NO TRANSLATION]	missing translation
+803	Mày đã tính trước cái hậu quả đó chưa?	
+804	Thôi được, đợi thì đợi.	
+805	Không có đợi.	
+806	Không có đợi.	
+807	Chờ đợi là chết với nó vì thua keo này nó sẽ bày keo khác.	
+808	Đó là đường sống của nó.	
+809	Như vậy mình chơi thằng Sollozzo.	
+810	Mike nói đúng.	
+811	Nhưng tao hỏi mày câu này.	
+812	Nhưng còn thằng McCluskey.	
+813	Mày tính sao với thằng cớm này?	
+814	Tụi nó muốn gặp tôi chứ gì?	
+815	Tôi, Sollozzo và McCluskey.	
+816	Cứ hẹn gặp đi.	
+817	Phải cấp tốc tung người ra nghe ngóng, phăng ra cho bằng được.	
+818	Buộc nó phải gặp gỡ ở một chỗ công cộng.	
+819	Bar rượu, nhà hàng.	
+820	Chỗ nào đông đông cho nó an toàn.	
+821	Lúc gặp nó vẫn phải soát người em.	
+822	Vậy nên em không đem đồ theo được.	
+823	Clemenza phải lo đặt đồ nghề ở địa điểm họp, giấu sẵn đâu đó. Em sẽ cho cả hai đi luôn.	
+824	Một thằng học trò như mày!	
+825	Xưa không muốn dính vô bất cứ chuyện gì của nhà mà.	
+826	Nổ cả đại úy cảnh sát chỉ vì bị nó đấm bể mặt!	
+827	Đây đâu phải quân ngũ!	
+828	Nó ở sát nách mày, óc nó văng vô bộ vét của mày.	
+829	Mày trả hận.	
+830	Tom, đương bàn chuyện làm ăn mà nó lại đòi trả thù.	
+831	Luật nào cấm giết cớm?	
+832	Mikey...	
+833	Một thằng cớm bẩn, một thằng cớm bán đứt lương tâm dính vô áp-phe ma túy.	
+834	Ăn chia rồi thì phải ráng mà chịu.	
+835	Chuyện này lên báo là hết sẩy.	
+836	Mình có móc nối sẵn với báo chí.	
+837	Đám nhà báo nhào vô đớp liền.	
+838	Có thể thôi.	
+839	[NO TRANSLATION]	missing translation
+840	Trên đời này cái quái gì chẳng là làm ăn.	
+841	Lạnh như thép.	
+842	Mày đừng lo dấu tay, khỏi có chắc.	
+843	Báng súng, cò súng đều dán băng dính đặc biệt rồi.	
+844	Mày thử đi.	
+845	Cò có chật quá không?	
+846	My ears!	
+847	Cần phải cho nó nổ lớn để hù mấy thằng có máu anh hùng chứ.	
+848	Mày bắn xong hai thằng.	
+849	Rồi mày làm gì tiếp?	
+850	Ngồi xuống ăn tiếp.	
+851	Đừng có giỡn nữa.	
+852	Buông xuôi tay xuống, rồi thả súng cho nó rớt.	
+853	Để người ngoài cứ tưởng mình còn súng trong tay.	
+854	Tụi nó chỉ ngó cái mặt mà! Nhanh chân bước ra. Chớ có chạy.	
+855	Không nhìn tận mắt thằng nào mà cũng không ngó lảng đi đâu hết.	
+856	Chúng nó sẽ hết hồn, mày cứ vững lên.	
+857	Mày thì ngon.	
+858	Đi nghỉ mát ở xứ khỉ ho cò gáy nào đó. Tụi tao mới là lãnh đủ.	
+859	Tới cỡ nào?	
+860	Khủng khiếp.	
+861	Các cánh khác thế nào cũng xúm vào hội động tụi mình.	
+862	Có điều năm, mười năm là phải có đổ máu lớn.	
+863	Kể như một dịp để tẩy bớt thứ máu xấu đi.	
+864	10 năm trước có một lần đánh lớn rồi.	
+865	Phải đập tụi nó ngay từ đầu.	
+866	Như Hitler vậy, chặn lại ngay từ hồi Munich thì nó đâu có làm điên đảo toàn thế giới.	
+867	[NO TRANSLATION]	missing translation
+868	Tụi tao hãnh diện có một anh hùng như mày lắm đó, Mike.	
+869	Tụi tao hãnh diện có một anh hùng như mày lắm đó, Mike.	
+870	Cha mày cũng sung sướng lắm.	
+871	[NO TRANSLATION]	missing translation
+872	[NO TRANSLATION]	missing translation
+873	Tụi nó giữ kín quá!	
+874	Đến đàn em của nó còn cóc biết ở đâu.	
+875	Mà mình còn bao lâu nữa?	
+876	Một tiếng rưỡi nữa tụi nó sẽ đón Michael ở trước cửa quán Jack Dempsey.	
+877	Cho người theo đuôi vậy.	
+878	Sollozzo cắt đuôi mấy hồi.	
+879	Còn thằng trung gian đến chưa?	
+880	Nó đang chơi pinochle với đàn em của tao.	
+881	Nó vui lắm.	
+882	Tụi nó thả cho thằng nhỏ thắng.	
+883	Nguy hiểm quá.	
+884	Hay là hủy đi.	
+885	Thằng Mike bình an về thì mới cho thằng trung gian đi.	
+886	Hay quất đại vào xe, thằng nào trong xe lãnh hết?	
+887	Tụi nó cũng tính rồi.	
+888	Chắc gì Sollozzo có mặt trên xe!	
+889	Rồi.	
+890	Nhà hàng Louis trong khu Bronx.	
+891	Chắc ăn không đó?	
+892	Người của tao ở sở làm của McCluskey mà.	
+893	Đại úy cảnh sát phải trực chiến 24 giờ chứ.	
+894	Hắn sẽ ở đó từ 8 đến 10 giờ.	
+895	Có ai biết quán này?	
+896	Có tao đây!	
+897	Một chỗ cực ngon cho mình chơi.	
+898	Quán gia đình nhỏ, thức ăn chiến.	
+899	Thực khách chẳng ai buồn để ý ai.	
+900	Tuyệt!	
+901	Quán này xài loại cầu tiêu kiểu cũ.	
+902	Loại xài dây xích và bồn đó.	
+903	Lấy băng keo dán cứng nó sau bồn nước là ngon.	
+904	Rồi.	
+905	Mike, mày nhớ nè, vào nhà hàng rồi, Mày cứ ngồi ăn uống một hồi cho	
+906	bọn chúng ỷ y.	
+907	Xong mày tiểu.	
+908	Lại ấp úng xin phép chúng nó.	
+909	Đi ra là mày nổ liền, khỏi chần chừ.	
+910	Chơi vào đầu, mỗi đứa 2 phát.	
+911	Đặt súng chú phải lựa thằng nào thật đàng hoàng đó.	
+912	Đừng có để thằng em tôi vô rồi ra tay không là không xong đâu.	
+913	Khẩu này sẽ nằm đó liền tức thời!	
+914	Chú đón nó.	
+915	Đi chuẩn bị thôi.	
+916	Ổng đã chỉ cho mày cách buông súng chưa?	
+917	Cỡ một triệu lần!	
+918	Đừng quên nghe.	
+919	Mày đi ra là phải cho một thằng ăn hai phát liền.	
+920	Em sẽ vắng mặt cỡ bao lâu?	
+921	Ít ra một năm.	
+922	Tao nói với mẹ rồi, chớ có giở trò từ biệt con nhỏ trước khi đi...	
+923	Tụi tao sẽ có tin cho nó sau.	
+924	Bảo trọng.	
+925	Bảo trọng, Mike.	
+926	Rất mừng gặp anh bạn tối nay	
+927	để ta giải quyết công việc cho xong.	
+928	Tôi không muốn công việc diễn tiến kỳ cục thế này.	
+929	[NO TRANSLATION]	missing translation
+930	Tôi cũng muốn sắp đặt cho êm tối nay.	
+931	Tôi không muốn ông già bị thêm nữa!	
+932	Tôi dám thề trên đầu mấy đứa con tôi. Không có nữa đâu!	
+933	Chỉ mong anh bạn thông cảm khi chúng ta bàn bạc.	
+934	Chứ nóng nảy Sonny thì chẳng có cách nào nói chuyện được!	forced duplication
+935	Chứ nóng nảy Sonny thì chẳng có cách nào nói chuyện được!	forced duplication
+936	Cậu này người đàng hoàng.	
+937	Xin lỗi về vụ tối hôm ấy nghe Mike.	
+938	Tôi phải soát cậu thôi.	
+939	Quay mặt lại với tôi này.	
+940	Tuổi này coi bộ hết làm nổi rồi.	
+941	Ưa nổi sùng bất tử.	
+942	Tinh thần căng thẳng chịu hết nổi.	
+943	Cậu chắc hiểu cho tôi mà.	
+944	Nó sạch sẽ.	
+945	Đi Jersey hả mấy anh bạn?	
+946	Có thể.	
+947	Ngon lắm, Lou.	
+948	Quán này có gì hấp dẫn không?	
+949	Thử gọi món bê con coi.	
+950	Số một thành phố!	
+951	Để gọi thử.	
+952	Tụi tôi xài tiếng Ý.	
+953	Ừ.	
+954	Cái tôi muốn...	
+955	Quan trọng nhất... Là sự đảm bảo chắc chắn	
+956	rằng ông già tôi không bị đe doạ nữa.	
+957	Tôi mà đảm bảo gì được?	
+958	Mạng tôi đang bị săn đuổi là khác!	
+959	Tôi đã bị hụt giò.	
+960	Mà anh bạn còn đề cao quá đáng!	
+961	Tôi đâu ghê gớm đến vậy.	
+962	Tôi chỉ muốn đình chiến thôi.	
+963	Tôi vô đi tiểu chút.	
+964	Được chứ?	
+965	Mắc thì đi đi.	
+966	[NO TRANSLATION]	missing translation
+967	Nó không có gì đâu.	
+968	Đi lẹ lên nghe.	
+969	Tôi có kinh nghiệm lắm mà.	
+970	Anh đỡ đi.	
+971	Con yêu ông lắm lắm.	
+972	Xin lỗi cha.	
+973	Thằng nhóc còn nhỏ quá chưa biết ất giáp gì cả.	
+974	Nhóc con,	
+975	đọc cho ông nghe đi.	
+976	Dạ.	
+977	Con cầu cho ông khỏe lại, và được gặp ông sớm.	
+978	Cháu cưng của ông, Frank.	
+979	Theo mẹ đi con.	
+980	Xuống lầu nè.	
+981	Mày cũng đi đi Carlo.	
+982	Đi.	
+983	Anh có bệnh gì hả Carlo?	
+984	Mày im mà dọn bàn đi à.	
+985	Sau vụ xử thằng McCluskey, tụi cớm vây cánh nhà ta ráo riết quá.	
+986	Mấy cánh kia cũng lãnh đạn đủ.	
+987	[NO TRANSLATION]	missing translation
+988	Bên ta, bên nó cứ bắn quá bắn lại.	
+989	Mà nhiều tờ báo phe ta cũng đã đăng tài liệu... mối liên hệ làm ăn ma túy giữa hắn và tên Sollozzo rồi.	
+990	Tình hình cũng hết căng thẳng.	
+991	Thằng Fredo thì được cử qua Las Vegas, cho ông trùm Francesco vùng LA bảo bọc.	
+992	Cho nó nghỉ ngơi tí.	
+993	Con sẽ học nghề sòng bạc ạ.	
+994	Thằng Michael đâu?	
+995	Thằng Michael hạ sát Sollozzo.	
+996	Nhưng mà nó không sao đâu bác.	
+997	Tụi con đang vận động đưa nó về đây.	
+998	Mày tìm ra thằng tú ông già Tattaglia đang trốn ở xó nào cho tao.	
+999	Tao là muốn chơi nó bây giờ.	
+1000	Sonny, chuyện sắp yên lành rồi.	
+1001	Mày chơi thằng Tattaglia cho xáo trộn lên nữa hả?	
+1002	Để đó ông già điều đình đi.	
+1003	Để ông già nghỉ ngơi.	
+1004	Tao sẽ quyết...	
+1005	Bắn giết tốn kém lắm.	
+1006	Còn làm ăn gì được nữa.	
+1007	Vậy tao cho tụi nó cũng khỏi làm ăn.	
+1008	Mày khỏi lo!	
+1009	Rồi cánh mình sẽ bị kẹt!	
+1010	Kẹt con mẹ.	
+1011	Tao giết thằng đó là xong.	
+1012	Rồi tao cho mày nổi tiếng nhé.	
+1013	Mày cứ làm theo tao đi!	
+1014	Mày mà là quân sư Sicily thời chiến thì tao đâu lâm cảnh này!	
+1015	Ông già còn có bác Genco.	
+1016	Tao có cái đéo gì.	
+1017	Thôi, tao xin lỗi.	
+1018	Tao không cố ý.	
+1019	Bà già có làm bữa tối nho nhỏ đó,	
+1020	hôm nay Chủ nhật.	
+1021	Mấy thằng đen đang tọa hưởng mấy cái “tổng hành dinh” khu Harlem.	
+1022	Đi thì đi Cadillac mà người ta trúng thì đòi chia phân nửa.	
+1023	Đớp lớn rồi thì phải vậy.	
+1024	Cha không có bao giờ bàn chuyện làm ăn khi đang ăn uống hết.	
+1025	Im đi, Connie...	
+1026	Mày có quyền đéo gì mà kêu em tao im.	
+1027	Đừng có can vào.	
+1028	Sau bữa tối để em bàn bạc với anh.	
+1029	Em có thể góp nhiều hơn cho nhà mình mà...	
+1030	Không bàn chuyện làm ăn trong giờ ăn.	
+1031	Kính chào ông trùm Tommasino.	
+1032	Sao mày đi chơi xa nhà thế?	
+1033	Tao phải đảm bảo mày ngon lành với cha mày mà.	
+1034	Có vệ sĩ ở đây mà bác.	
+1035	Vệ sĩ chứ vẫn nguy hiểm lắm.	
+1036	Tao nghe tin từ thằng Santino...	
+1037	Kẻ thù của mày biết mày nương náu ở đây rồi.	
+1038	Anh Santino có nói khi nào con về không?	
+1039	Vậy thì chưa.	
+1040	Cái đó khỏi bàn tới.	
+1041	Mày đi đâu đó?	
+1042	Về làng Corleone ạ.	
+1043	Lên xe tao mà đi nè.	
+1044	Thôi để con đi bộ được rồi.	
+1045	Cẩn thận đó.	
+1046	Không biết đàn ông trong làng này đâu cả.	
+1047	Toàn là báo thù rồi chết hết.	
+1048	Có tên người chết in lên nè.	
+1049	Ê, mấy anh lính, cho tôi đến Mỹ quốc đi!	
+1050	Ê, cho tôi đến Mỹ quốc đi, mấy anh!	
+1051	Có Clark Gable đó!	
+1052	Mỹ quốc!	
+1053	Cho tôi đến đó đi các anh!	
+1054	Clark Gable, Rita Hayworth!	
+1055	Má ơi, đẹp mê hồn luôn.	
+1056	Cậu lãnh nguyên một cú sét rồi!	
+1057	Ở Sicily, phụ nữ còn hiểm nguy hơn cả lupara nữa đấy.	
+1058	Các anh đi săn có trúng không đó?	
+1059	Ông mở quán chắc biết hết mấy cô trong làng hả?	
+1060	Lúc nãy chúng tôi vừa ngó thấy một cô.	
+1061	Ông bạn này lãnh phải cú sét tình yêu rồi.	
+1062	Cô đó làm ông bạn này nổi hứng lên rồi.	
+1063	Xứng đôi vừa lứa.	
+1064	Phải không Calo?	
+1065	Mái tóc nè, cái miệng nè!	
+1066	Phụ nữ ở đây đẹp thật, nhưng mà đoan trang lắm.	
+1067	Cô này mặc váy tím...	
+1068	Có dải băng tím trên tóc.	
+1069	Giống týp người Hy Lạp hơn là Ý.	
+1070	Ông biết không?	
+1071	Chẳng biết ai như vậy hết.	
+1072	Chết mẹ, hiểu rồi!	
+1073	Chuyện gì vậy?	
+1074	Dông thôi.	
+1075	Con gái ổng đó.	
+1076	Kêu cha già đó ra đây.	
+1077	Cứ kêu ra.	
+1078	Fabrizio, mày dịch đi.	
+1079	Xin bỏ qua cho sự đường đột.	
+1080	Tôi chẳng phải người địa phương.	
+1081	Tôi không hề có ý bất nhã với ông hay con gái ông.	
+1082	Tôi người Mỹ, sang Sicily nương náu.	
+1083	Tên tôi là Michael Corleone.	
+1084	Có người thưởng hậu cho ông nếu ông phi báo cái tin này.	
+1085	Nhưng e rằng vậy thì con gái ông vừa không có một thằng chồng khá... mà còn mất luôn một người cha nữa.	
+1086	Tôi muốn quen biết cô con ông.	
+1087	Dĩ nhiên là phải có sự đồng ý của ông và trong khuôn khổ gia đình.	
+1088	Với đủ mọi nghi thức và trịnh trọng cần thiết.	
+1089	Xin mời chiều Chủ nhật tới.	
+1090	Tôi là Vitelli. <Nhà riêng ở trên đồi đằng kia nhưng anh cứ tới đây tôi sẽ đưa lên./>	missing English
+1091	Tên cô con gái ông là gì? <Apollonia./>	missing English
+1092	Đánh cho em ngây ngất bây giờ.	
+1093	Để dành nó cho thư viện đi.	
+1094	Đi đón con em của tao.	
+1095	Gì vậy em?	
+1096	Gì vậy em?	
+1097	Tại em anh ơi!	
+1098	Nó đâu?	
+1099	Anh ơi, tại em gây chuyện.	
+1100	Em đòi đập trước.	
+1101	Em gây sự trước với ảnh.	
+1102	Em đánh ảnh nên ảnh mới ra tay lại...	
+1103	Để anh phôn kêu bác sĩ lại đây săn sóc em.	
+1104	Sonny, anh đừng làm gì hết nghe.	
+1105	Em bị sao vậy?	
+1106	Anh có đòi làm gì đâu?	
+1107	Anh không để cho con em mới sanh ra đã mồ côi cha đâu!	
+1108	Tụi bây vẫn bắt độ đội Yankee hả?	
+1109	Bảo dừng nghe chưa.	
+1110	Tuần trước mất con mẹ nó một đống tiền rồi.	
+1111	Tới đây! Tới đây!	
+1112	Mày đụng tới con em tao một lần nữa là tao giết mày!	
+1113	Chào cô Kay!	
+1114	Cô đến đường đột quá.	
+1115	Nhẽ ra phải gọi trước một tiếng chứ.	
+1116	Tôi gọi rồi.	
+1117	Viết thư, gọi điện tôi đều làm rồi.	
+1118	Tôi muốn gặp Michael.	
+1119	Giờ chúng tôi chẳng biết nó ở đâu cả.	
+1120	Nhưng an toàn, mạnh khoẻ thì chắc chắn.	
+1121	Cái xe bị sao vậy?	
+1122	Tai nạn xoàng thôi, ai cũng mạnh khỏe hết.	
+1123	Tom, anh có thể chuyển dùm cái này cho Michael không?	
+1124	[NO TRANSLATION]	missing translation
+1125	Nếu tôi nhận, thì bằng sự này toà có thể chứng minh tôi biết chỗ nó lẩn tránh.	
+1126	Thế nào Michael cũng nhắn về mà.	
+1127	Tôi lỡ cho taxi đi rồi, anh cho tôi vào nhà gọi taxi khác được không?	
+1128	Ừ.	
+1129	[NO TRANSLATION]	missing translation
+1130	Alô?	
+1131	Có anh Carlo không?	
+1132	Ai ở đầu dây vậy?	
+1133	Tôi là bạn Carlo.	
+1134	Thông báo với ảnh tối nay tôi không đến được.	
+1135	Con đĩ!	
+1136	Cơm tối xong rồi đó.	
+1137	Tao không đói.	
+1138	Thức ăn nguội bây giờ.	
+1139	Chút tao ăn.	
+1140	Mày vừa mới kêu làm cơm tối mà!	
+1141	Đụ má!	
+1142	Mày biến cho khuất mắt đi!	
+1143	Con này miệng mồm bẩn thỉu.	
+1144	Đó, đập hết đi, đồ con Ý bẩn thỉu.	
+1145	Đập hết mẹ nó đi!	
+1146	Sao mày không đem con đĩ của mày về ăn tại đây luôn?	
+1147	Để tao đem về.	
+1148	Dọn sạch ngay!	
+1149	Dọn con mẹ mày!	
+1150	Đồ con bẩn thỉu, ốm nhách.	
+1151	Dọn!	
+1152	Dọn sạch!	
+1153	Dọn đi!	
+1154	Tao nói dọn nghe chưa!	
+1155	Dọn đi!	
+1156	Dọn đi.	
+1157	Dọn hết cái đống đó, mày...	
+1158	Dọn nó!	
+1159	Dọn đi!	
+1160	Ừ, giết tao đi.	
+1161	Như thằng cha mày đó.	
+1162	Lũ Corleone nhà mày toàn lũ giết người!	
+1163	Tao ghét mày!	
+1164	Đâm tao một nhát nè!	
+1165	Mày biến khỏi đây!	
+1166	Tao ghét mày!	
+1167	Tới tao giết mày nè!	
+1168	Đồ con Ý.	
+1169	Biến ra khỏi đây!	
+1170	Connie, mày bị gì?	
+1171	Tao nghe không được.	
+1172	Connie, nói lớn nữa coi.	
+1173	Thằng nhỏ đang khóc nè.	
+1174	Santino, tao không có hiểu.	
+1175	Tao không nghe gì hết.	
+1176	Ừ, Connie.	
+1177	Em đợi đó.	
+1178	Không, em đợi ở đó.	
+1179	Thằng chó đẻ.	
+1180	Thằng chó đẻ!	
+1181	Cái gì vậy?	
+1182	Mở cửa ra cho tao!	
+1183	[NO TRANSLATION]	missing translation
+1184	Sonny!	
+1185	Sonny.	
+1186	Biến đi!	
+1187	Đi theo ổng, đi mau lên!	
+1188	Thằng chó đẻ.	
+1189	Lẹ lên!	
+1190	Cho tao một hớp.	
+1191	Vợ con tao thì đang khóc trên lầu.	
+1192	Tao nghe có tiếng xe đi vào.	
+1193	Mày là quân sư, mày phải cho ông trùm của mày biết cái chuyện mà mọi người đã biết hết chớ.	
+1194	Con đâu có nói với bác gái chuyện gì.	
+1195	Con tính lên đánh thức bác, cho bác hay.	
+1196	Mày tính làm xong ly rượu rồi mới lên gọi tao dậy?	
+1197	Dạ.	
+1198	Rượu mày uống rồi đó.	
+1199	Tụi nó bắn thằng Sonny ở khúc đường nổi.	
+1200	Bắn chết ngay.	
+1201	Không được điều tra truy tầm thủ phạm.	
+1202	Không được trả thù.	
+1203	Tao muốn có một cuộc họp với thủ lĩnh của Ngũ Đại gia.	
+1204	Trận chiến này phải chấm dứt ngay.	
+1205	Gọi Bonasera.	
+1206	Tao cần ổng gấp.	
+1207	Tom Hagen đây.	
+1208	Tôi gọi nhân danh Vito Corleone, theo lời ổng yêu cầu.	
+1209	Ông còn nợ ông trùm một việc.	
+1210	Ông trùm tin tưởng ông sẽ giúp đỡ lại.	
+1211	Cỡ một giờ nữa, đích thân ông trùm sẽ tới đằng cửa hàng.	
+1212	Xin ông tới cửa hàng.	
+1213	Chắc ông bạn vui lòng làm trả chớ?	
+1214	Vâng,	
+1215	bạn cần tôi làm gì nào?	
+1216	Bạn ráng hết sức, bạn mang hết kinh nghiệm nhà nghề.	
+1217	Tôi không dám để mẹ nó nhìn cảnh tượng này.	
+1218	Bạn thấy thằng con tôi bị chúng chơi dã man chưa?	
+1219	Dạy em học tiếng Anh coi còn an toàn hơn!	
+1220	Em biết tiếng Anh mà...	
+1221	Thứ hai, thứ ba, thứ tư, thứ năm thứ sáu, thứ bảy, chủ nhật.	
+1222	Chào bác Tommasino.	
+1223	Tình hình Palermo sao?	
+1224	Michael đang dạy con lái xe.	
+1225	Để con cho bác coi.s.	
+1226	Tình hình Palermo sao rồi bác?	
+1227	Cánh trẻ không biết thế nào là lễ độ nữa...	
+1228	Thời cuộc không tốt rồi.	
+1229	Chỗ này quá nguy hiểm cho mày.	
+1230	Bác sẽ cho chuyển mày đến một villa gần Siracusa ngay.	
+1231	Có chuyện gì vậy bác?	
+1232	Tin dữ từ bên Mỹ.	
+1233	Anh mày, Santino, bị bắn chết.	
+1234	Đi đi,	
+1235	anh hứa rồi mà.	
+1236	Fabrizio!	
+1237	Lấy xe đi.	
+1238	Cậu tự lái hả cậu chủ?	
+1239	Mà bữa nay cô ấy có đi không?	
+1240	Cho cô ấy đi lánh nạn ở nhà cha, tình hình yên thì về.	
+1241	Dạ.	
+1242	Calo, Apollonia đâu?	
+1243	Cô ấy nói muốn lái xe làm cậu ngạc nhiên.	forced duplication
+1244	Cô ấy nói muốn lái xe làm cậu ngạc nhiên.	forced duplication
+1245	In như mấy bà mấy cô Mỹ thiệt rồi.	
+1246	Tôi mang hành lý xuống nghe.	
+1247	Fabrizio!	
+1248	Mày đi đâu vậy?	
+1249	Anh đứng đó đi!	
+1250	Em sẽ lái xe tới chỗ anh.	
+1251	Không, Apollonia!	
+1252	Ông trùm Barzini, xin cảm ơn ông đã giúp tôi tổ chức buổi họp này, và các thủ lĩnh khác của Ngũ Đại gia từ New York và New Jersey.	
+1253	Ông trùm Carmine Cuneo từ khu Bronx, và từ khu Brooklyn... Ông trùm Philip Tattaglia.	
+1254	Và từ khu Staten Island... chúng ta xin nhắc đến ông trùm Victor Strachi.	
+1255	Và những người bạn bè đến từ phương xa cỡ California và thành phố Kansas và những vùng lãnh thổ khác của đất nước.	
+1256	Cảm ơn.	
+1257	Tại sao sự tình biến chuyển đến nỗi này?	
+1258	Tôi không rõ.	
+1259	Thật không may, mà cũng không đến nỗi phải làm như vậy.	
+1260	Bên Tattaglia mất một đứa con, phía tôi mất một.	
+1261	Thôi thì chịu.	
+1262	Nếu nhà Tattaglia đồng ý, thì tôi đề nghị trước sao bây giờ cứ thế.	
+1263	Tôi xin ngỏ lời cảm ơn ông bạn Corleone vì đã triệu tập cuộc họp này.	
+1264	Người mà ai cũng đều công nhận là thủ tín.	
+1265	Một con người khiêm tốn biết nghe lý lẽ.	
+1266	Phải đấy ông trùm Barzini ạ.	
+1267	Quá là khiêm tốn đi.	
+1268	Mấy ông lớn thực sự ông bạn Corleone nắm hết.	
+1269	Mà ông bạn nhất định không chịu làm ăn.	
+1270	Xưa nay tôi có từ chối anh em cái gì chưa?	
+1271	Anh em quen tôi lâu rồi.	
+1272	Họa chăng là chỉ có một lần này thôi.	
+1273	Tại sao?	
+1274	Tôi biết đụng vô ma túy là sớm muộn gì cũng hư hết cơ nghiệp.	
+1275	Không như cờ bạc, không như rượu, hoặc đĩ điếm. Những thứ nhiều người thích nhưng bị nhà nước hay mấy ông nhà tu cấm.	
+1276	Mấy thầy chú xưa nay giúp được mình chuyện cờ bạc, chuyện nọ chuyện kia.. Nhưng với ma túy họ không dám.	
+1277	Trước kia cũng vậy, bây giờ cũng vậy.	
+1278	Thời thế thay đổi rồi ông bạn.	
+1279	Thời buổi này đâu còn vụ đường ai nấy đi như ngày xưa.	
+1280	Từ chối đâu phải là nghĩa cử của anh em bạn bè.	
+1281	Ông bạn Corleone có mấy ông tòa thì phải chia cho anh em... phải cho anh em xài chung.	
+1282	Giếng là giếng chung, phải cho anh em múc nước với.	
+1283	Anh em đâu dám để thiệt cho ông bạn.	
+1284	Tụi mình đâu phải cộng sản.	
+1285	Như tôi nhất định không dính vô.	
+1286	Tôi đã phải trả thêm phụ cấp để mấy thằng thủ hạ khỏi dính dấp đến ma tuý.	
+1287	Thử hỏi có thằng đến rỉ tai tụi nó: "Tao có hàng trắng."	
+1288	Mày có ba bốn ngàn vốn không? Bỏ ra, mày sẽ thu vô năm mươi ngàn cấp kỳ.	
+1289	Thế là tụi nó nhào vô.	
+1290	Vậy thì tại sao không vô để nắm lấy quyền kiểm soát?	
+1291	Mình không cho tụi nó bày ra gần trường học, không cho bán cho đám con nít.	
+1292	Đồi bại quá!	
+1293	Ở chỗ tôi, tôi chỉ cho phép tụi nó làm ăn trong các khu đen.	
+1294	Bản thân chúng kể bỏ, vậy cho chúng tiêu thụ ma tuý để kể bỏ luôn.	
+1295	Chúng tôi mời quý bạn tới cốt nói phải quấy với nhau, giải quyết công việc cho êm đẹp.	
+1296	Giá nào cũng phải tìm ra một biện pháp hòa giải.	
+1297	Chúng tôi tán thành.	
+1298	Mọi người có thể buôn bán ma túy, nhưng phải kiểm soát.	
+1299	Ông Corleone phải đảm bảo việc lo lót với chức quyền miền Đông.	
+1300	Tôi muốn được nghe một lời cam kết của ông bạn Corleone.	
+1301	Một khi phục hồi lực lượng, Tôi muốn biết ông bạn có tìm cách trả thù nữa không?	
+1302	Chúng ta đều là người biết lý lẽ.	
+1303	Cam kết để mà làm gì.	
+1304	Ông bạn nói chuyện trả thù.	
+1305	Trả thù thì con ông bạn có sống lại không?	
+1306	Con tôi có sống lại không?	
+1307	Tôi bằng lòng bỏ qua, không trả thù.	
+1308	Dĩ nhiên tôi phải có chút tư tâm.	
+1309	Thằng con út tôi hiện phải bỏ xứ vì chuyện thằng Sollozzo này.	
+1310	Bây giờ tôi phải lo thu xếp để nó yên ổn trở về.	
+1311	Không sợ bị dính oan vào vụ đó.	
+1312	Có điều tôi là người mê tín dị đoan.	
+1313	Nếu nó chẳng may có mệnh hệ nào, chẳng hạn một thầy chú nào lỡ tay bắn hay nó bị bắt và treo cổ trong xà lim, hay bị sét đánh, tôi không thể không kết tội một vài anh em có mặt ở đây.	
+1314	Tôi không thể tha thứ.	
+1315	Ngoài vụ đó ra, tôi thề... trên đầu đám con cháu tôi, Là sẽ không bao giờ xé rào nổ bậy.	
+1316	Có nên yêu cầu bên nhà Tattaglia tụi cò ma túy của chúng có lý lịch sạch không?	
+1317	Chỉ cần nhắc hờ thôi.	
+1318	[NO TRANSLATION]	missing translation
+1319	Barzini sẽ tự biết.	
+1320	Tattaglia chứ bác.	
+1321	Tattaglia chỉ là thằng tú ông.	
+1322	Sức mấy mà quất được thằng Santino.	
+1323	Phải có cánh Barzini đứng sau nó mới dám liều vậy chớ.	
+1324	Đi nè, Nancy.	
+1325	Các em đi cạnh nhau nè.	
+1326	Brian.	
+1327	Ừ, đúng rồi.	
+1328	Anh về nước bao lâu rồi?	
+1329	Một năm rồi em à.	
+1330	Mà cũng không chừng lâu hơn.	
+1331	Gặp được em anh vui lắm, Kay.	
+1332	Anh hiện tại thì làm cho ông già., Kay.	
+1333	Ổng yếu xuống lắm rồi.	
+1334	[NO TRANSLATION]	missing translation
+1335	Anh đâu có giống ông già anh đâu.	
+1336	Anh đã nói là sẽ không giống như ông già mà.	
+1337	Ông già thì cũng như bao nhiêu ông lớn tay to khác thôi.	
+1338	Ổng phải chịu trách nhiệm những người khác.	
+1339	Như nghị sĩ hay tổng thống vậy đó.	
+1340	Anh nói nghe ngây thơ dễ sợ.	
+1341	Tại sao?	
+1342	Mấy ông to bà lớn đâu có giết người.	
+1343	Tới lượt em ngây thơ rồi đó Kay.	
+1344	Giai đoạn làm ăn như ông già anh đã qua, qua hẳn rồi.	
+1345	Ổng cũng hiểu.	
+1346	Chỉ năm năm nữa, gia đình Corleone sẽ kiếm sống hoàn toàn hợp pháp.	
+1347	Tin anh đi.	
+1348	Việc làm ăn anh chỉ có thể kể em nghe nhiêu đó thôi.	
+1349	Kay...	
+1350	Michael, tại sao anh lại tới?	
+1351	[NO TRANSLATION]	missing translation
+1352	Anh còn muốn gì ở em nữa?	
+1353	Em đã gọi điện, đã viết thư đủ kiểu.	
+1354	Vì anh cần em.	
+1355	Anh lo lắng cho em.	
+1356	Bỏ đi, Michael.	
+1357	Vì...	
+1358	Anh muốn cưới em.	
+1359	Trễ rồi anh à.	
+1360	Anh xin em, Kay...	
+1361	Anh sẽ làm bất cứ điều gì để bù đắp cho em.	
+1362	Kay, điều quan trọng là...	
+1363	Chúng ta có nhau.	
+1364	Chúng ta cùng sống với nhau.	
+1365	Chúng ta lại có con nữa.	
+1366	[NO TRANSLATION]	missing translation
+1367	Kay, anh cần em.	
+1368	Anh yêu em.	
+1369	Bọn đàn em Barzini hồi này lấn đất tao lu bù!	
+1370	Rồi tới lúc một chỗ đất cắm dùi cũng không có!	
+1371	Chú bác cứ kiên nhẫn.	
+1372	Tao không yêu cầu giúp.	
+1373	Chỉ cần mày cởi trói cho tao thôi.	
+1374	Chú cứ kiên nhẫn.	
+1375	Tụi tao cũng phải tự vệ chứ.	
+1376	Phải cho tụi tao tăng thêm lính chứ.	
+1377	Không.	
+1378	Thế nào cánh Barzini cũng lấy đó làm cớ đánh.	
+1379	Mike, mày bậy rồi.	
+1380	Ông trùm...	
+1381	Ông bạn từng nói sẽ có ngày tôi và Tessio được làm ăn riêng.	
+1382	[NO TRANSLATION]	missing translation
+1383	Hôm nay tôi muốn xin phép của ông bạn để ra riêng.	
+1384	Giờ thủ lĩnh là thằng Michael.	
+1385	Nó đồng ý thì tôi chịu thôi.	
+1386	Lúc gia đình chuyển hết xuống Nevada... hai chú có thể toàn quyền tách ra làm ăn riêng, lập cánh riêng.	
+1387	Vậy sẽ là bao lâu?	
+1388	Sáu tháng.	
+1389	Xin ông trùm thứ lỗi, nhưng ông mà xuống, tôi và Pete rồi cũng bị Barzini nuốt sống.	
+1390	Tôi cũng không ưa Barzini.	
+1391	Sáu tháng tới có khi đến cháo cũng chẳng còn húp nữa.	
+1392	Các bạn có tin tưởng quyết định của tôi không?	
+1393	Có.	
+1394	Các bạn có trung thành với tôi không?	
+1395	Luôn luôn, thưa ông trùm.	
+1396	Vậy thì hãy trợ giúp cho thằng Michael.	
+1397	Nó nói gì cứ làm y vậy.	
+1398	Sẽ có nhiều vụ thương thuyết để giải quyết tất cả những vấn đề của hai ông.	
+1399	Bây giờ tôi chỉ được phép tiết lộ vậy thôi.	
+1400	Carlo, mày là người dưới Nevada.	
+1401	Do đó lúc dọn xuống, tôi hy vọng chú sẽ là cánh tay mặt trợ giúp tôi.	
+1402	Tom Hagen không là quân sư nhà này nữa.	
+1403	Hắn là luật sư của tôi ở Vegas.	
+1404	Tôi chỉ muốn Tom giúp đỡ tôi trên cương vị và trong giới hạn đó.	
+1405	Vả lại nếu cần phải có một quân sư thì còn ai hay cho bằng ông già tôi, phải không?	
+1406	[NO TRANSLATION]	missing translation
+1407	Cảm ơn cha.	
+1408	Tao thấy mừng cho mày đó Carlo.	
+1409	[NO TRANSLATION]	missing translation
+1410	Tại sao mày lại đẩy tao de kỳ cục vậy?	
+1411	Anh không phải quân sư, cố vấn thời chiến.	
+1412	Công việc đang tiến hành có thể đem lại nhiều chuyện dữ.	
+1413	Tom.	
+1414	Là tao khuyên Michael vậy.	
+1415	Tao có bao giờ nghĩ mày là một thằng quân sư tồi đâu.	
+1416	Thằng Santino không đủ tư cách làm trùm thật.	
+1417	Nhưng thằng Michael tao tin nó làm được, cũng như tao tin mày vậy.	
+1418	Nhưng có những lý do mày không thể dính dấp vô mấy chuyện sắp xảy ra.	
+1419	Thiếu gì việc tao có thể giúp mày được.	
+1420	Anh phải de.	
+1421	Mặt mày dạo này đẹp trai lắm nghe.	
+1422	[NO TRANSLATION]	missing translation
+1423	Bác sĩ cũng mát tay đó chứ.	
+1424	Có phải là do Kay đốc thúc mày mổ không?	
+1425	[NO TRANSLATION]	missing translation
+1426	Để đó đi.	
+1427	Chú em tao mệt rồi, muốn giải trí một lát.	
+1428	Để tao mở cửa cho.	
+1429	Chào Mike!	
+1430	Las Vegas xin chào đón cậu!	
+1431	Dành cho cậu đó!	
+1432	Nhờ ý của thằng này nè.	
+1433	Anh cậu Freddy đó.	
+1434	Gái?	
+1435	Tôi trở lại liền.	
+1436	Cứ vui chơi với tụi nó đi.	
+1437	Thế nào, chú em muốn gì anh chiều.	
+1438	Mấy con nhỏ đó là ai?	
+1439	Cái đó dành cho em tìm hiểu.	
+1440	Kêu ra hết đi, anh Fredo.	
+1441	Mike à...	
+1442	Em tới vì công việc làm ăn.	
+1443	Kêu ra đi.	
+1444	Em đang mệt nữa.	
+1445	Kêu ban nhạc ra luôn.	
+1446	Này,	
+1447	đi,	
+1448	đi.	
+1449	Ừ.	
+1450	Kìa, Angelo.	
+1451	Đi đi!	
+1452	Cút!	
+1453	Đi đi các cưng.	
+1454	Tôi cũng không hiểu thằng em nữa. Anh Johnny à.	
+1455	Xin lỗi.	
+1456	Tôi không biết tại sao nữa.	
+1457	Chắc nó mệt thôi.	
+1458	Moe Greene đâu?	
+1459	Nó có công chuyện.	
+1460	Nó bảo khi nào bắt đầu thì gọi nó một tiếng.	
+1461	Vậy thì gọi đi.	
+1462	Johnny, anh thế nào?	
+1463	Gặp được em vui lắm.	
+1464	Chúng tôi rất tự hào về anh.	
+1465	Cảm ơn.	
+1466	Ngồi xuống đi, em muốn trò chuyện với anh.	
+1467	Ông già cũng rất là tự hào cho anh.	
+1468	Nhờ ổng anh mới có ngày hôm nay đó.	
+1469	Ổng biết.	
+1470	Bởi vậy hôm nay ổng mới thỉnh cầu anh một chuyện.	
+1471	Mike, anh làm được gì?	
+1472	Gia đình tôi quyết định dừng cơ sở nhập cảng dầu olive và dời hết xuống đây làm.	
+1473	Moe sẽ bán hết cổ phần trong sòng bạc và khách sạn này. Chúng tôi sẽ sở hữu hết.	
+1474	Tom!	
+1475	Mày chắc không?	
+1476	Nó khoái cái ngành này lắm mà.	
+1477	Chẳng thấy nó nhắc tới bán đi bao giờ.	
+1478	Thì mình sẽ đưa một đề nghị không thể từ chối.	
+1479	Nè, Johnny...	
+1480	Sòng bạc muốn đông khách phải có trình diễn ca nhạc để lôi cuốn.	
+1481	Bâ giờ một năm anh ký giao kèo chơi cỡ năm lần.	
+1482	Bè bạn anh trong nghề thiếu gì, anh cứ kéo về.	
+1483	Trông cậy nhiều vào anh đấy.	
+1484	Tất nhiên rồi, Mike.	
+1485	Công việc của Bố già thì tôi phải yểm trợ rồi.	
+1486	Tốt.	
+1487	Chào Mike!	
+1488	Chào các bạn.	
+1489	Ai cũng ở đây hết.	
+1490	Freddy. Tom.	
+1491	Rất vui được gặp mày, Mike.	
+1492	Anh khỏe không, Moe?	
+1493	Mọi thứ ô-kê hết chứ?	
+1494	Thức ăn chuẩn bị sẵn, vũ công cừ nhất, tiền vào như nước.	
+1495	Đưa biếu họ một số phỉnh cho họ xuống dưới sòng chơi đi.	
+1496	Tiền của tôi đủ để mua đứt không?	
+1497	Mua đứt à?	
+1498	Mua cái sòng bạc và khách sạn này.	
+1499	Gia đình Corleone tính mua đứt số cổ phần.	
+1500	Nhà Corleone muốn cho tao de hả?	
+1501	Là tao mua đứt chỗ này mới phải.	
+1502	Sòng bạc đang thua đậm.	
+1503	Chúng tôi có thể làm tốt hơn.	
+1504	Mày nghĩ tao bòn rút hả?	
+1505	Anh chỉ gặp vận xui thôi.	
+1506	Bọn Ý tụi bây làm tao buồn cười quá.	
+1507	Lúc thằng Fred xuống tỵ nạn tao lo lắng. Bây giờ qua rồi mày tính đá đít cả tao nữa!	
+1508	Anh đâu có làm không công. Nhà Corleone cho sòng bạc của anh một mớ mà. Cánh Molinari cũng bảo vệ Fred.	
+1509	Giờ bàn chuyện làm ăn đi.	
+1510	Phải, bàn chuyện làm ăn đi.	
+1511	Trước hết, mày ngon đấy.	
+1512	Gia đình Corleone bây giờ đâu phải giang hồ Corleone ngày xưa!	
+1513	Ông trùm nằm một chỗ.	
+1514	Bị bọn chúng đẩy bật ra khỏi Nữu-Ước.	
+1515	Mày nghĩ nhảy xuống đây tha hồ làm trời chắc?	
+1516	Tao đã nói chuyện với Barzini.	
+1517	Tao vừa có thể ra giá mà vừa giữ được chỗ này.	
+1518	Có phải vì anh bạn nghĩ vậy nên mới tát thằng Fred trước công chúng phải không?	
+1519	Đâu có gì, Mike.	
+1520	Moe có làm gì đâu.	
+1521	Thỉnh thoảng nó cũng nóng giận. Giữa tao và nó bao giờ cũng là tình bạn.	
+1522	Tao chịu trách nhiệm điều khiển cả cái khách sạn.	
+1523	Không cứng vậy hóa loạn sao?	
+1524	Tao bực bội nên đập cảnh cáo cho nó tởn.	
+1525	Vậy có nghĩa là anh tôi bị đập cảnh cáo đấy?	
+1526	Con chiêu đãi nào nó cũng quất hết.	
+1527	Khách khứa không có nước nôi mà uống.	
+1528	Mày bị sao vậy hả?	
+1529	Mai tôi về New York.	
+1530	Anh bạn nên suy nghĩ kỹ giá cả đi.	
+1531	[NO TRANSLATION]	missing translation
+1532	Tao là Moe Greene!	
+1533	Thằng này đổ máu làm nên lúc mày còn bú ti mẹ đó.	
+1534	Khoan đã, Moe.	
+1535	Tao có ý kiến này.	
+1536	Tom, mày là quân sư.	
+1537	Mày nói chuyện với ông già thử coi.	
+1538	[NO TRANSLATION]	missing translation
+1539	Ông trùm giờ này kể như về hưu. Mọi công việc làm ăn của nhà do Mike điều khiển hết.	
+1540	Mày cần nói gì cứ việc nói thẳng với Michael.	
+1541	Mike, mày xuống cái xứ Las Vegas này mà ăn nói với Moe Greene vậy hả!	
+1542	Fredo...	
+1543	Anh là anh. Dĩ nhiên em quý mến.	
+1544	Nhưng anh chớ dại dột theo người ngoài, đi ngược với quyền lợi gia đình lần nữa.	
+1545	Không bao giờ.	
+1546	Anh phải gặp cha và mọi người rồi, em cứ ăn đừng đợi ăn.	
+1547	Cuối tuần, hai đứa mình rảnh rang lên New York coi hát, ăn nhà hàng nhé.	forced duplication
+1548	Cuối tuần, hai đứa mình rảnh rang lên New York coi hát, ăn nhà hàng nhé.	forced duplication
+1549	Em của anh muốn nhờ anh cái gì kìa.	
+1550	Thì nó cứ nói đi.	
+1551	Nó không dám nói.	
+1552	Nó muốn anh làm cha đỡ đầu con đầu lòng của nó.	
+1553	Để anh tính.	
+1554	Được không anh?	
+1555	Để anh suy nghĩ đã.	
+1556	Ra xe đi.	
+1557	Barzini sẽ ra tay trước.	
+1558	Chúng sẽ mượn tay một thằng thân cận nhất để sắp đặt cho mày đi họp.	
+1559	Tiếng là bảo đảm an toàn cho mày.	
+1560	Nhưng tại cuộc họp thì nó sẽ xử lý mày.	
+1561	Dạo này tao uống rượu nhiều hơn.	
+1562	Tao uống nhiều hơn.	
+1563	Tốt mà cha.	
+1564	Tao không biết.	
+1565	Mày thấy hạnh phúc với vợ con không?	
+1566	Dạ, rất hạnh phúc.	
+1567	Thế thì được.	
+1568	Mày đừng phiền tao hay chen vào chuyện thằng Barzini này.	
+1569	Con đâu có phiền đâu.	
+1570	Thói quen cũ của tao.	
+1571	Đời tao phải sống rất là thận trọng.	
+1572	Đàn bà con nít vô tâm thì được, nhưng đàn ông thì không.	
+1573	Thằng nhóc nhà mày sao?	
+1574	Ngoan lắm ạ.	
+1575	Càng ngày nhìn nó càng giống mày.	
+1576	Nó còn thông minh hơn con nữa.	
+1577	Ba tuổi mà đọc báo vanh vách rồi.	
+1578	Đọc mục truyện cười chứ gì.	
+1579	Mày sắp xếp cho thằng nào kiểm tra những cuộc gọi đến gọi đi trong nhà.	
+1580	[NO TRANSLATION]	missing translation
+1581	Con đã lo chuyện đó rồi cha.	
+1582	Ừ.	
+1583	Tao quên.	
+1584	Chuyện gì vậy cha?	
+1585	Cha có chuyện phiền lòng gì phải không?	
+1586	Con làm được mà cha.	
+1587	Con nói được là làm được.	
+1588	Tao biết thằng Santino cũng phải có phần số của nó.	
+1589	Còn thằng Fredo...	
+1590	Fredo thật là, mà thôi...	
+1591	Nhưng còn mày tao không muốn chút nào.	
+1592	Tao bỏ xương máu ra làm ăn.	
+1593	Vì gia đình tao không thấy hối tiếc chút nào.	
+1594	Nhưng mà tao thích sống theo lối của tao, chứ không phải bị bọn tai to mặt lớn nó nắm đầu.	
+1595	Tao không hối hận.	
+1596	Đời tao là vậy, nhưng... tới đời mày, mày phải là người nắm đầu lại tụi nó.	
+1597	Nghị sĩ Corleone.	
+1598	Thống đốc Corleone.	
+1599	[NO TRANSLATION]	missing translation
+1600	Hay một tay tổ ngành nghề cũng được.	
+1601	Mà...	
+1602	Không đủ thời gian rồi, Michael.	
+1603	Không đủ.	
+1604	Chúng ta sẽ làm được mà cha.	
+1605	Sẽ làm được.	
+1606	Nhớ, thằng nào sắp xếp phiên họp này cho mày với Barzini, đó là thằng phản.	
+1607	Mày đừng quên.	
+1608	Cho con cầm đi ông.	
+1609	Cho con tưới nghe.	
+1610	Ừ.	
+1611	Ở đây, ở đây nè.	
+1612	Cẩn thận đó.	
+1613	Coi chừng đổ nước đó con.	
+1614	Anthony!	
+1615	Đến đây, đến đây.	
+1616	Ừ.	
+1617	Để nó ở đây.	
+1618	Để ông cho con coi cái này.	
+1619	Tới đây.	
+1620	Đứng đây.	
+1621	Cho con trái cam đi!	
+1622	Trò mới đó con.	
+1623	Chạy vào trong đó đi.	
+1624	[NO TRANSLATION]	missing translation
+1625	Ông đâu rồi?	
+1626	Mike, rảnh không?	
+1627	Barzini muốn có một cuộc gặp.	
+1628	Hắn nói xích mích gì thì giải quyết hết ở đó.	
+1629	Chú nói chuyện với hắn hả?	
+1630	Ừ.	
+1631	Tao sẽ bảo đảm vấn đề an toàn.	
+1632	Trên đất làm ăn của tao.	
+1633	Được không?	
+1634	Ừ.	
+1635	Mà tụi nó làm sao chơi mày, mày biết chưa?	
+1636	Tao và tụi nó sẽ họp trong vùng Brooklyn,	
+1637	lãnh địa của Tessio.	
+1638	Tha hồ an toàn.	
+1639	Bảo là Clemenza đi, tao còn tin. Ai dè lại là Tessio!	
+1640	Một nước đi khôn ngoan.	
+1641	Tessio khôn hơn cả đám mà.	
+1642	Nhưng tao sẽ đợi.	
+1643	Sau lễ rửa tội.	
+1644	Tao nhận làm cha đỡ đầu cho thằng con của Connie.	
+1645	Xong rồi gặp hai tên Barzini và Tattaglia.	
+1646	Toàn bộ thủ lĩnh của Ngũ Đại gia.	
+1647	Michael, con có tin Đức Chúa Trời là Cha phép tắc vô cùng dựng nên trời đất?	
+1648	Con tin.	
+1649	Con có tin Đức Giêsu là Con Một Đức Chúa Cha cùng là Chúa chúng ta?	
+1650	Con tin.	
+1651	Con có tin Đức Chúa Thánh Thần và hội Thánh?	
+1652	Con tin.	
+1653	Michael Francis Rizzi, con có từ bỏ Satan không?	
+1654	Con từ bỏ.	
+1655	Con có từ bỏ những việc làm của hắn không?	
+1656	Con từ bỏ.	
+1657	Chúa ơi!	
+1658	Con có từ bỏ những phù hoa của hắn?	
+1659	Con từ bỏ.	
+1660	Michael Rizzi, con có rửa tội không?	
+1661	Con rửa tội.	
+1662	Michael Rizzi, hãy đi về bình an, Chúa sẽ phù hộ con.	
+1663	Amen.	
+1664	Kay!	
+1665	Hôn cha đỡ đầu của con nè.	
+1666	Carlo, mày không đi Vegas được.	
+1667	Có công chuyện ở đây rồi.	
+1668	Mọi người cứ đi đi.	
+1669	Mike, đây là kỳ nghỉ đầu tiên mà!	
+1670	Connie, đi.	
+1671	Về nhà đợi tao gọi điện thoại.	
+1672	Chuyện quan trọng đó.	
+1673	Chỉ vài ngày thôi mà em.	
+1674	Chúng tôi chuẩn bị đến Brooklyn.	
+1675	Mong thằng Michael dàn xếp cho xong.	
+1676	Dĩ nhiên là nó làm xong.	
+1677	Sal, Tom, ông chủ vừa cho hay sẽ đi bằng xe riêng. Hai ông cứ việc đi trước.	
+1678	Hư hết trơn mọi dự tính của tao rồi.	
+1679	Ổng nói vậy đó.	
+1680	Tôi cũng không thể đi cùng.	
+1681	Nói dùm với Michael, vụ này thuần tuý công việc,	
+1682	chớ tôi vẫn có cảm tình với nó.	
+1683	Nó biết.	
+1684	Xin lỗi, Sal.	
+1685	Tom, mày có thể gỡ dùm tao cái vụ này được không?	
+1686	Bao nhiêu năm nay...	
+1687	Tôi không thể làm được, Sally.	
+1688	Hôm nay mày phải trả lời vụ Santino, Carlo.	
+1689	Mike, anh lầm rồi.	
+1690	Mày đã bán đứng Sonny cho cánh Barzini.	
+1691	Mày đóng kịch hành hạ con em tao.	
+1692	Mày nghĩ là qua mặt được nhà Corleone à?	
+1693	Em vô tội.	
+1694	Em thề trên đầu các con em.	
+1695	Đừng đối với em như vậy.	
+1696	Ngồi xuống.	
+1697	Anh đừng đối với em như vậy.	
+1698	Thằng Barzini chết rồi.	
+1699	Lão Phillip Tattaglia cũng hết sống.	
+1700	Moe Greene.	
+1701	Strachi.	
+1702	Cuneo.	
+1703	Hôm nay tao thanh toán bằng hết ân oán. Mày đừng nói ngây thơ, không biết gì.	
+1704	Dám làm thì dám nhận đi.	
+1705	Lấy ly rượu cho nó đi.	
+1706	Nói đi.	
+1707	Mày đừng sợ, Carlo.	
+1708	Mày sợ tao giết mày để con em tao goá chồng hả?	
+1709	Mày đừng quên tao vừa nhận đỡ đầu cho một đứa con mày, Carlo.	
+1710	Uống đi.	
+1711	Hình phạt của mày là từ nay bị đạp ra khỏi chuyện làm ăn trong gia đình.	forced duplication
+1712	Hình phạt của mày là từ nay bị đạp ra khỏi chuyện làm ăn trong gia đình.	forced duplication
+1713	Xong rồi.	
+1714	Tao sẽ cho tụi nó đưa mày lên máy bay đi Las Vegas.	
+1715	Tom.	
+1716	Mày sẽ ở luôn dưới đó.	
+1717	Rõ chưa?	
+1718	Nhưng mày đừng nói không biết gì.	
+1719	Vậy là mày chửi lên đầu tao,	
+1720	chỉ làm tao nổi sùng thêm.	
+1721	Thế nào, đứa nào biểu mày?	
+1722	Tattaglia hay Barzini?	
+1723	Là Barzini.	
+1724	Tốt.	
+1725	Có xe đợi ở ngoài đưa mày ra phi trường.	
+1726	Tao sẽ phôn cho vợ mày và báo chuyến bay mày đến.	
+1727	Mike...	
+1728	Biến cho khuất mắt tao.	
+1729	Chào, Carlo.	
+1730	Để mẹ nói con nghe...	
+1731	Mẹ à!	
+1732	Michael!	
+1733	Gì vậy em?	
+1734	Hắn đâu?	
+1735	Michael, thằng khốn nạn!	
+1736	Mày giết chồng tao.	
+1737	Mày đợi cha chết, không ai ngăn cản được mày.	
+1738	Mày đổ tội cho nó về vụ anh Sonny chớ gì?	
+1739	Cả nhà này đổ tội cho chồng tao.	
+1740	Nhưng còn tao có ai thèm nghĩ đến!	
+1741	Tao biết làm gì bây giờ?	
+1742	Connie.	
+1743	Chị biết tại sao nó giữ Carlo ở nhà không?	
+1744	Nó nhất định tìm cách giết bằng được Carlo.	
+1745	Lại còn giả vờ làm cha đỡ đầu cho con tôi.	
+1746	Đồ khốn nạn máu lạnh!	
+1747	Nó còn ra lệnh giết bao nhiêu người,	
+1748	chị cứ đọc báo là biết liền.	
+1749	Chồng của chị đó, chồng của chị đó!	
+1750	Không!	
+1751	Không, không...	
+1752	Đưa nó lên lầu	
+1753	rồi kêu bác sĩ về cho nó.	
+1754	Nó phát cuồng lên.	
+1755	Phát cuồng lên.	
+1756	Michael, nó nói đúng không?	
+1757	Kay, đừng hỏi anh chuyện làm ăn.	
+1758	Có đúng không?	
+1759	Đừng hỏi anh chuyện làm ăn.	
+1760	Đủ rồi!	
+1761	Thôi được.	
+1762	Lần này.	
+1763	Chỉ một lần này thôi. Anh sẽ cho em hỏi.	
+1764	Có đúng không?	
+1765	Hả anh?	
+1766	Không.	
+1767	Tụi mình mỗi đứa cần một ly.	
+1768	[NO TRANSLATION]	missing translation
+1769	Ông trùm Corleone.	

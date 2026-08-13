@@ -1,0 +1,1885 @@
+1	Kita stotelė - Brod gatvė.	
+2	Kita - Brod gatvė.	
+3	Laiptais aukštyn.	
+4	Čionai.	
+5	Jis čia nebuvo užlipęs?	
+6	[NO TRANSLATION]	missing translation
+7	Jo čia nėra.	
+8	Lipkite žemyn.	
+9	Atsiprašau.	
+10	Atsiprašau.	
+11	Važiuok tiesiai ir sustok už kampo.	
+12	Lankytojai.	
+13	Norėčiau pasiimti dantis.	
+14	Pulkininke, prašome apsisukti.	
+15	Atsisėskite ant lovos.	
+16	Eime.	
+17	[NO TRANSLATION]	missing translation
+18	Jie... Dantys ant kriauklės.	
+19	Žiūrėkite į mane.	
+20	Mes Federalinio tyrimo biuro agentai.	
+21	Žiūrėkite į mane!	
+22	Su jumis kalbu.	
+23	Gavome duomenų esate įsipainiojęs į šnipinėjimą.	
+24	Galite arba sutikti su mumis bendradarbiauti, arba būsite areštuotas.	
+25	Ar supratote, pulkininke?	
+26	Ne visai.	
+27	Kodėl vadinate mane pulkininku?	
+28	Apsirenkite.	
+29	Turime atlikti kratą jūsų kambaryje.	
+30	Ar galėčiau nuvalyti paletę?	
+31	Antraip ji suges.	
+32	Ji už jūsų.	
+33	Turiu skepetą.	
+34	Ačiū.	
+35	Pradėkite kratą.	
+36	Ačiū.	
+37	Apieškokite čiužinį, lovą, grindlentes, jo kėdę.	
+38	Galėtumėte įdėti į peleninę, ji ant palangės.	
+39	Gerai apieškokite stalą.	
+40	Apžiūrėkime stalą.	
+41	Juk nereikia gadinti paletės.	
+42	Nesakykite mano žmogus.	
+43	Jis nėra mano žmogus.	
+44	Jis yra jūsų žmogus.	
+45	Apie ką kalbame?	
+46	Kalbame apie žmogų, kurį apdraudė mano klientas.	
+47	Taigi nesakykite, kad jis mano žmogus.	
+48	Tiek to.	
+49	Noriu pasakyti, kad žmogus, kurį apdraudė jūsų klientas... Jis neneigia, kad nutiko visi šie nutikimai.	
+50	[NO TRANSLATION]	missing translation
+51	Šie nutikimai?	
+52	Taip, šie penki nutikimai.	
+53	Luktelėkite.	
+54	Ne penki nutikimai.	
+55	O vienas.	
+56	Penki, aiškiai.	
+57	Atleiskite, bet man neaišku.	
+58	Penki nutikimai?	
+59	Paaiškinkite.	
+60	Tai akivaizdu.	
+61	Gerai, paaiškinkite, kas nutiko.	
+62	Papasakokite istoriją taip, kad būtų aišku, kodėl penki.	
+63	Gerai, žinoma.	
+64	Jūsų žmogus...	
+65	Ne mano.	
+66	Apdraustas mano kliento.	
+67	Žmogus, kurį apdraudė jūsų klientas, važiuoja 19-uoju greitkeliu, staiga nesuvaldo automobilio ir partrenkia mano penkis žmones, kurie nusamdė mane ginti jų interesus dėl jūsų nenoro patenkinti ieškinio sąlygas.	
+68	Mano klientas nenori patenkinti ieškinio? Draudimo bendrovė?	
+69	Pone Donovanai, mes juk suprantame, kas čia yra kas.	
+70	Išskyrus tai, kad mano klientas patenkina visus ieškinius.	
+71	Tikrai, pone Beitsai.	
+72	Visus teisėtus ieškinius, priklausomai nuo įsipareigojimų dydžio - iki šimto tūkstančių dolerių už įvykį - pagal šio asmens draudimo polisą.	
+73	Ir tai yra vienas ieškinys.	
+74	Tiksliai pagal jūsų pasakojimą jis partrenkė mano penkis žmones.	
+75	Žmogus, apdraustas mano kliento, sukėlė vieną įvykį.	
+76	Vieną, vieną, vieną.	
+77	Nesuvaldęs automobilio partrenkė penkis motociklininkus.	
+78	Jų požiūriu, nutiko penki įvykiai.	
+79	Klausyk, Bobai.	
+80	Galiu?	
+81	Bobai!	
+82	Džimas.	
+83	Jei sviesdamas rutulį numušu visus kėglius - tai vienas įvykis.	
+84	Ne 10.	
+85	Džimai, mano žmonės ne kėgliai, nors tavo žmogus būtent taip su jais elgiasi.	
+86	[NO TRANSLATION]	missing translation
+87	Leisk pabaigti.	
+88	Leisk pabaigti.	
+89	Jei tavo namas apdraustas 100 000 dolerių, ir jį nuneša viesulas, nunešamas vienas namas.	
+90	Viesulas nepaėmė atskirai baldų gabalų ir nesunaikino atskiruose įvykiuose.	
+91	Jei taip manai, tuomet mūsų įsipareigojimams nebus ribų, o draudimo verslui ateis pabaiga.	
+92	O tuomet, Bobai, niekas nesijaus saugus.	
+93	Votersas, Kouvanas ir Donovanas.	
+94	Kuo galiu padėti?	
+95	Labas rytas, pone Donovanai.	
+96	Labas rytas, Alison.	
+97	Perkėliau jūsų devintos valandos susitikimą su Prudential.	
+98	Ir kodėl gi?	
+99	Aš jos paprašiau.	
+100	Ar viskas gerai, Tomai?	
+101	Palik savo daiktus Alison.	
+102	Užeik į kabinetą.	
+103	Reikia rimtai pakalbėti.	
+104	Pas mus - svarbus lankytojas.	
+105	Natali atneš tau kavos.	
+106	Nescafé, grietinėlė, du cukraus?	
+107	Taip.	
+108	Ačiū.	
+109	Linai!	
+110	Džimai!	
+111	Smagu tave ir vėl matyti.	
+112	Kaip šeima?	
+113	Ir man smagu.	
+114	[NO TRANSLATION]	missing translation
+115	Kaip Ani?	
+116	Ties savižudybės riba.	
+117	Per šventes buvo atvykę uošviai.	
+118	Jeigu kas, ji turės gerą advokatą.	
+119	Na, tai kas nutiko?	
+120	Ogi štai kas.	
+121	Mes norim, kad tu gintum tą sovietų šnipą.	
+122	Štai kaltinamasis aktas.	
+123	[NO TRANSLATION]	missing translation
+124	Nesu tikras, ar man verta tai paimti.	
+125	Kaltinamasis nepažįsta nė vieno advokato.	
+126	Federalinis teismas numetė šią bylą mums.	
+127	Teisininkų komitetas balsavo.	
+128	Vienbalsiai - už tave.	
+129	Mums labai svarbu...	
+130	Mūsų šaliai svarbu, Džimai, kad šis vyras būtų tinkamai teisiamas.	
+131	Bus vertinama Amerikos teisingumo sistema.	
+132	Kai taip sakai, jaučiuosi pagerbtas.	
+133	Bet Linai, aš draudimo advokatas.	
+134	Seniai nesiimu baudžiamųjų bylų.	
+135	Tai lyg važiuot dviračiu, nebepamirši.	
+136	Pasižymėjai Niurnberge.	
+137	Tada dirbau kaltintojų grupėje.	
+138	Nesvarbu.	
+139	Baudžiamoji teisė tau ne naujiena.	
+140	Džimai, atsižvelk į situaciją.	
+141	Tas žmogus viešai plūstamas.	
+142	Kaip ir aš tuoj būsiu.	
+143	Taip, neišmanėlių.	
+144	Būtent dėl to privalai sutikti.	
+145	Negalima leisti manyti, jog mūsų teisingumas mėto žmones į laužus.	
+146	Jei sutikčiau, kokie įkalčiai?	
+147	Gana triuškinantys.	
+148	Puiku.	
+149	Puiku.	
+150	Visi ims manęs nekęsti, užtat pralaimėsiu.	
+151	Ką manai, Tomai?	
+152	Firma nukentės.	
+153	Aš čia dirbu.	
+154	Manau, tai pilietinė pareiga.	
+155	Svarbi užduotis.	
+156	Linui pasakiau, kad firma negali atsisakyti, ir tau bus sunku pasakyti ne.	
+157	Manau, privalai ginti tą kalės vaiką.	
+158	Tai ar sutikote?	
+159	Ką sutikau?	
+160	Ginti Abelį, tą Sovietų šnipą.	
+161	Galbūt.	
+162	Turiu pakalbėti su...	
+163	Palauk, iš kur žinai?	
+164	Ar jau visiems apskelbta?	
+165	Ne,	
+166	kalbėjau su Ričardu Erlu...	
+167	Jei sutiksiu, man reikės tavo pagalbos.	
+168	Gali padirbėti šįvakar?	
+169	Esu susitaręs eiti vakarienės, pone.	
+170	Šiandien antradienis?	
+171	Taip, aš visiškai laisvas.	
+172	Ačiū jums, pone.	
+173	Tačiau tai didelė garbė.	
+174	Teisininkų asociacija kreipėsi į mane, nes jie nori parodyti, kad net šnipas nusipelno padoraus advokato.	
+175	Be šios garbės galime ir apsieiti.	
+176	Ei, dukrele, kodėl tu namie?	
+177	Vaikinas neatėjo į pasimatymą.	
+178	Tai nepakenčiama.	
+179	Kas tas niekšas?	
+180	Verčiau nesakysiu.	
+181	Sėskis.	
+182	Mes ką tik pradėjome.	
+183	Žmonės išsigandę.	
+184	Jie stato slėptuves, kad apsigintų nuo tokių žmonių kaip šis vyras.	
+185	Buvau krautuvėje, žmonės perka konservus ir kalio tabletes.	
+186	Viskas dėl to žmogaus ir kas jis toks.	
+187	Jis - grėsmė visiems,	
+188	išdavikas.	
+189	Kas išdavikas?	
+190	Rozenbergai buvo išdavikai.	
+191	Kas jie tokie?	
+192	Jie išdavė atominės bombos paslaptis rusams.	
+193	Jie buvo amerikiečiai.	
+194	Išdavė savo šalį.	
+195	O Abelio vadinti išdaviku tu negali.	
+196	Jis ne amerikietis.	
+197	Tu savęs paklausyk.	
+198	Tu jau jį gini.	
+199	Repetuoji su manim.	
+200	Sakei, tik galvoji, ar imtis šios bylos.	
+201	Aš ir galvoju, ir labai smarkiai.	
+202	Kiekvienas nusipelno gynybos.	
+203	Svarbus kiekvienas žmogus.	
+204	Džimai, o mes ko nusipelnėme?	
+205	Kaip žmonės į mus žiūrės?	
+206	Kaip į šeimą žmogaus, siekiančio laisvės išdavikui?	
+207	Jis ne išdavikas, Meri.	
+208	Taip, taip.	
+209	Rodžeri, atidaryk!	
+210	[NO TRANSLATION]	missing translation
+211	Kodėl visada man?	
+212	[NO TRANSLATION]	missing translation
+213	Palauk, kol sukalbėsim maldą.	
+214	Aš noriu valgyt!	
+215	Jis greit taps nepopuliariausiu žmogum šalyje, o tu užimsi antrą vietą!	
+216	O aš - trečią.	
+217	Kerol, ketinai eiti į pasimatymą ne su tuo vyru.	
+218	[NO TRANSLATION]	missing translation
+219	Meri, nesiginčyk ten, kur jokio ginčo nėra.	
+220	Tu prieš jį, o aš - už?	
+221	Aš ne už jį.	
+222	Aš ne už tai, kad rusai mus šnipinėtų.	
+223	Aš už jo teisę į gynybą teisme, juk teismas yra teismas.	
+224	Nenorėjau sutrukdyti vakarienės.	
+225	[NO TRANSLATION]	missing translation
+226	Labas, Dagai.	
+227	Netrukdai.	
+228	Labas, Dagai.	
+229	Džimas tauškia ir tiek.	
+230	Aš netauškiu.	
+231	Sėsk, Dagai, pavakarieniauk kartu.	
+232	Šįvakar vaišinamės maltiniais.	
+233	Negi atėjai padėti Džimui galvoti, imtis šios bylos ar ne?	
+234	Bet mes jau jos imamės!	
+235	Ir tai nuostabu, tiesa?	
+236	Palaimink, Viešpatie, mus ir šias dovanas, kuriomis iš Tavo dosnumo stiprinsimės.	
+237	Prašome per Kristų, mūsų Viešpatį.	
+238	Amen.	
+239	Labas rytas, pone.	
+240	Aš Džimas Donovanas.	
+241	Štai mano dokumentai.	
+242	Esu firmos Watters, Cowan and Donovan partneris.	
+243	Niujorko teisininkų asociacijos narys nuo 1941-ųjų.	
+244	Jūs kaltinamas pagal tris netyčinės ir devyniolika tyčinės veikos punktų.	
+245	Sąmokslu perduoti JAV gynybos ir atominės ginkluotės paslaptis Sovietų Sąjungai, sąmokslu išgauti paslaptis ir neužsiregistravus kaip užsienio agentas.	
+246	Ar daug užsienio agentų registruojasi?	
+247	Jei jūs nieko prieš, noriu jūsų paklausti, kur buvote po to, kai jus suėmė?	
+248	Negaliu konkrečiai pasakyti.	
+249	Jūs nežinote?	
+250	Mane vežė į oro uostą, laipino į lėktuvą, paskui - iš lėktuvo.	
+251	Ten buvo karšta.	
+252	Čia irgi karšta.	
+253	Karšta ir labai drėgna.	
+254	Mane laikė kambaryje.	
+255	Jus mušė?	
+256	Ne.	
+257	Su manimi kalbėjo.	
+258	Teikė man pasiūlymus.	
+259	Ką norite pasakyti?	
+260	Man siūlė dirbti jūsų vyriausybei.	
+261	Man sakė, kad jei sutiksiu bendradarbiauti, visi kaltinimai bus panaikinti.	
+262	Ir dar duos pinigų.	
+263	[NO TRANSLATION]	missing translation
+264	Jūs atsisakėte?	
+265	Kaip matote.	
+266	Negaliu jums pritarti.	
+267	Jaučiu pareigą paskatinti jus bendradarbiauti su JAV vyriausybe.	
+268	Aš atsisakiau.	
+269	Perduokite savo draugams iš CŽV, kad nejuokavau.	
+270	Ne, ne.	
+271	[NO TRANSLATION]	missing translation
+272	Aš nedirbu valdybai.	
+273	Aš nedirbu vyriausybei.	
+274	Aš tik siūlau jums savo teisininko paslaugas.	
+275	Jei priimsite mano pasiūlymą, aš dirbsiu jums.	
+276	Jei priimsiu?	
+277	Ar jūs geras specialistas?	
+278	Taip.	
+279	Pakankamai geras.	
+280	Ar esate gynęs daug kaltinamų šnipų?	
+281	Ne, kol kas.	
+282	Šis kartas - pirmas mums abiem.	
+283	Taip.	
+284	Gerai.	
+285	Gerai?	
+286	Jūs sutinkate?	
+287	Taip, gerai.	
+288	Puiku.	
+289	Pradėkime.	
+290	Jei jūsų sprendimas nebendradarbiauti su JAV vyriausybe galutinis...	
+291	Taip.	
+292	[NO TRANSLATION]	missing translation
+293	Tuomet apie savo bylą nekalbėkite su niekuo, nei su vyriausybės atstovais, nei su kitais.	
+294	Išskyrus mane, kiek pasitikėsit.	
+295	Aš esu įgaliotas jus ginti,	
+296	niekas kitas.	
+297	Jei atvirai, visi kiti trokšta pasodinti jus į elektros kėdę.	
+298	Aišku.	
+299	Jūs nebijote?	
+300	Ar padėtų?	
+301	[NO TRANSLATION]	missing translation
+302	Norėčiau gauti dailės priemonių.	
+303	Tai neįmanoma.	
+304	Pieštuką ir popieriaus.	
+305	Cigarečių.	
+306	Prašau.	
+307	Pone Donovanai, yra ir jūsų tautiečių, kaip ir aš, dirbančių savo šaliai.	
+308	Jei juos sugautų, neabejoju, norėtumėte, kad su jais elgtųsi gerai.	
+309	Vardas, pavardė?	
+310	Fransis Garis Pauersas.	
+311	Laipsnis, pajėgos?	
+312	Vyresnysis leitenantas, JAV oro pajėgos.	
+313	Turite ryšių su Sovietų Sąjunga, leitenante Pauersai?	
+314	Juokaujate?	
+315	Atsakykite, leitenante.	
+316	Taip arba ne, paprastai.	
+317	Ar turite ryšių su Sovietų Sąjunga?	
+318	Tai jau ne.	
+319	Ar žinote, kam esate čia pakviestas?	
+320	[NO TRANSLATION]	missing translation
+321	Ar tai reiškia ne?	
+322	Taip.	
+323	Noriu pasakyti...	
+324	Ne, tai reiškia ne.	
+325	Aš nežinau, kam esu pakviestas.	
+326	Žiūrėkite tiesiai, leitenante.	
+327	Klausau.	
+328	Kaip sekėsi, Gari?	
+329	Neblogai.	
+330	Spėju, teisingai ištariau savo pavardę.	
+331	Turbūt aplenkei Šiną.	
+332	Kas laimi?	
+333	Tikriausiai aš.	
+334	[NO TRANSLATION]	missing translation
+335	Padalink ir man.	
+336	Visa tai - mano?	
+337	Sakiau jums su juo nelošti.	
+338	Na, lakūnai, reikalas toks.	
+339	Jūs atrinkti užduočiai, apie kurią už šių sienų negalite kalbėti su niekuo.	
+340	Su niekuo.	
+341	Man nusispjaut, kuo jūs ten pasitikite.	
+342	Žmona, motina, mylimąja.	
+343	Viešpačiu Dievu, kuriam meldžiatės vakarais.	
+344	Niekam nesakykite to, ką jums dabar pasakysiu.	
+345	Jūs visi atitinkate būtinus reikalavimus:	
+346	turite leidimus dirbti su itin slapta informacija.	
+347	Geri profesionalų įgūdžiai, daugiau nei reikia skraidymo vienviečiu lėktuvu valandų.	
+348	Dabar vyksta karas.	
+349	Šiame kare kariaujama ne ginklais.	
+350	O informacija.	
+351	Jūs rinksite informaciją.	
+352	Jūs rinksite žvalgybos duomenis apie priešą.	
+353	Jūsų darbas gali suteikti mums persvarą termobranduoliniame kare su Sovietų Sąjunga.	
+354	Arba padėti jo išvengti.	
+355	Visuomenės atžvilgiu, jūsų žmonos, motinos, mylimosios ar paties Viešpaties Dievo, šios jūsų užduoties nėra.	
+356	O jei nėra jos, nėra ir jūsų.	
+357	Jūsų negalima nušauti,	
+358	negalima sugauti.	
+359	Nuo šiol dirbate CŽV.	
+360	Džimai, girdėjau, tavo žmogus kalba su apsimestiniu akcentu.	
+361	Ar jis nesusimauna kartais?	
+362	Aš beveik įsitikinęs, kad jis tiesiog taip kalba.	
+363	Jo pavardė rusiška, bet pasas - Anglijos.	
+364	Abejoju, ar jis tikras.	
+365	Tai kaip einasi, Džimai?	
+366	Aš čia matau...	
+367	Taip, teisėjau, suprantate... Spėju, kad trijų savaičių mums nepakaks.	
+368	[NO TRANSLATION]	missing translation
+369	Įkalčių labai daug, kaip žinote.	
+370	Nori atidėti terminą?	
+371	Prašau šešių savaičių.	
+372	Dirbu tik su padėjėju.	
+373	Džimai, ar tai rimta?	
+374	Pone?	
+375	Ar tai rimta?	
+376	[NO TRANSLATION]	missing translation
+377	Taip, žinoma.	
+378	Pats matote byloje...	
+379	Džimai, tas žmogus - sovietų šnipas.	
+380	Tariamai.	
+381	Advokate, liaukitės!	
+382	Gerbiamasis teisėjau.	
+383	Aš, žinoma, tave gerbiu.	
+384	Gerbiu, kad ėmeisi šios nedėkingos užduoties.	
+385	Šio žmogaus teismo procesas turi būti tinkamas.	
+386	[NO TRANSLATION]	missing translation
+387	Jam bus suteikta teisinė gynyba.	
+388	Ir, duok Dieve, jis bus nuteistas.	
+389	Liaukitės, advokate.	
+390	Nereikia tų žaidimų.	
+391	Tik ne mano teismo metu.	
+392	Data paskirta ir teismas įvyks.	
+393	Taksi!	
+394	Taksi!	
+395	Mačiau įjungtą šviesą!	
+396	Kalės vaikas.	
+397	Nekantrauja grįžti į Manhataną.	
+398	Juk šviesa buvo įjungta, tiesa?	
+399	Kalės vaikas.	
+400	Neatitinka jų patogumo lygio.	
+401	Taisyklės nepasikeitė.	
+402	Atleiskite, pone.	
+403	Atleiskite.	
+404	Atsiprašau.	
+405	[NO TRANSLATION]	missing translation
+406	Pone Donovanai!	
+407	Ko?	
+408	Ko?	
+409	CŽV.	
+410	Taip.	
+411	Tik porai žodžių.	
+412	Kaip byla?	
+413	Puikiai.	
+414	Geriau nebūna.	
+415	[NO TRANSLATION]	missing translation
+416	Ar jūsų žmogus prakalbo?	
+417	Nesupratau.	
+418	Jūs su juo kalbėjote.	
+419	[NO TRANSLATION]	missing translation
+420	Ką jis jau pasakė?	
+421	Toks pokalbis neįmanomas.	
+422	Suprantama.	
+423	Ne, rimtai sakau, jis neįmanomas.	
+424	Jūs prašote manęs pažeisti advokato ir kliento susitarimą.	
+425	Liaukitės, advokate.	
+426	Norėčiau, kad visi liautųsi kartoję: Liaukitės, advokate.	
+427	Nepatiko, kai šiandien išgirdau tai pirmą sykį.	
+428	Teisėjas sakė net du kartus.	
+429	Kuo daugiau tai girdžiu, tuo labiau nepatinka.	
+430	Suprantu, ką reiškia advokato ir kliento susitarimas.	
+431	Suprantu visus tuos teisinius reikalus.	
+432	Ir suprantu, kad jūs iš to gyvenate.	
+433	Bet aš kalbu apie kai ką kita -	
+434	jūsų šalies saugumą.	
+435	Atleiskite, jei mano žodžiai jus kaip nors įžeidė.	
+436	Bet mums reikia žinoti, ką Abelis jums sako.	
+437	Suprantate mane, Donovanai?	
+438	Mums reikia.	
+439	Nevaidinkite čia skautų aktyvisto.	
+440	Juk neturim čia jokio taisyklių rinkinio.	
+441	Agentas Hofmanas, tiesa?	
+442	Taip.	
+443	Vokiečių kilmės.	
+444	Taip, ir kas?	
+445	Mano pavardė Donovanas.	
+446	Aš airis.	
+447	Iš motinos ir tėvo pusių.	
+448	Aš airis, jūs vokietis.	
+449	Tačiau kas mus daro amerikiečiais?	
+450	Tik vienas dalykas.	
+451	Vienas vienintelis.	
+452	Taisyklių rinkinys.	
+453	Jis vadinamas Konstitucija, mes laikomės tų taisyklių, todėl ir esame amerikiečiai.	
+454	Būtent todėl mes amerikiečiai, tad nesakyk, kad nėra taisyklių rinkinio ir nekinkuok man savo galva, kalės tu vaike.	
+455	Ar mums dėl jūsų imti nerimauti?	
+456	Ne, jei atstosite ir leisite man dirbti savo darbą.	
+457	Nuo šiol U-2 lėktuvo nevadinsite šnipų lėktuvu ar žvalgybos lėktuvu.	
+458	Jį vadinsite priemone.	
+459	Šios priemonės sparnų ilgis 24 metrai.	
+460	Varomas Pratt and Whitney J57 P-37 varikliu.	
+461	4500 kg stūmimo jėgos, išvystantis maksimalų 690 km/val. greitį,	
+462	kas nėra įspūdinga, tačiau jūsų aukščio riba - 21 kilometras. Niekas negali priartėti prie jūsų.	
+463	21 kilometras?	
+464	Svarbiausia - priešas nė nenutuoks, kad esat šalia.	
+465	Atrodo ne itin tvirtai.	
+466	Papildomas puskilogramis kainuoja trečdalį metro aukščio, o mums reikia įrengti kameras.	
+467	4500 milimetrų objektyvas, padauginus iš trijų.	
+468	Itin gero ryškumo panoraminė fotokamera, keturiskart galingesnė už pačias geriausias mūsų iki šiol naudotas žvalgyboje.	
+469	Jūs fotografuosite. Daug.	
+470	21 000 metrų aukštyje priemonė vienu metu gali nufotografuoti 5180 kv. km plotą.	
+471	O dabar, lakūnai, klausykite agento Samnerio ausis įtempę.	
+472	Čia yra jūsų užduočiai reikalingi daiktai.	
+473	B kamera, Revere 8, modelis 40, kasetė, Keystone Capri K 25, sidabro spalvos.	
+474	Tuščiavidurė skutimosi peiliuko rankena.	
+475	Visa šifro lentelė ant valgomosios folijos.	
+476	Profesionalų fotografavimo įranga.	
+477	Taip,	
+478	supratome.	
+479	Dėkoju.	
+480	Atleiskite, agente Boskai.	
+481	Blaskai.	
+482	Pone.	
+483	Prie sąrašo turi būti pridėtas kitas sąrašas.	
+484	Daugiausia jo daiktų buvo studijoje, bet likusieji paimti iš viešbučio kambario, kur jį sulaikė.	
+485	Kur jį radome.	
+486	Apieškojote jo viešbučio kambarį?	
+487	Taip.	
+488	Galiu pamatyti orderį?	
+489	Ką?	
+490	Taip, paaiškinkite man.	
+491	Mes turėjome orderį.	
+492	Orderis buvo.	
+493	Vykdomasis raštas dėl užsienio piliečio sulaikymo, bet kratos orderio dėl galimos baudžiamosios veikos nėra.	
+494	Taigi krata atlikta neteisėtai, todėl jos metu rasti įkalčiai negali būti priimti.	
+495	Kokia apsauga jam priklauso, gerbiamasis teisėjau?	
+496	Žmogus nėra...	
+497	Koks dar žmogus?	
+498	Jis - Rudolfas Ivanovičius Abelis.	
+499	Jis - Sovietų pilietis.	
+500	Ne amerikietis.	
+501	1886 metai, Jikas Vo prieš Hopkinsą.	
+502	Teismas nusprendė, kad tuo atveju kinų imigrantai negali būti baudžiami už nusikaltimą be tinkamo teismo proceso, įskaitant ir neteisėtai atvykusius į šalį užsienio piliečius.	
+503	Teisingumo departamentas visų pirma atsakingas Jungtinėms Valstijoms.	
+504	Nematau, kaip užsienietis, atvykęs į šalį nelegaliai... Kaip buvo pažeistos jo teisės?	
+505	Kaip kieno teisės?	
+506	Kaip amerikiečio?	
+507	Kieno teisės, advokate?	
+508	Vyksta kova dėl civilizacijos.	
+509	Šis rusų šnipas kelia grėsmę mūsų gyvenimo būdui.	
+510	Manęs laukia teismo salė.	
+511	Eikite ir atsisėskite šalia to ruso.	
+512	Užbaikime šį reikalą.	
+513	Jūsų kreipimasis nepatenkinamas.	
+514	Jam pačiam reikia gero draudimo poliso.	
+515	Kaip mums sekėsi?	
+516	Ten?	
+517	[NO TRANSLATION]	missing translation
+518	Ne itin gerai.	
+519	Panašu, kad jūs nesate Amerikos pilietis.	
+520	Tai tiesa.	
+521	Ir, anot jūsų boso, nesate ir Sovietų pilietis.	
+522	Bosas ne visada teisus, bet jis visada - bosas.	
+523	Negi niekada nesijaudinate?	
+524	Ar tai padėtų?	
+525	Teismas eina, prašom stoti.	
+526	Prisiekiu ištikimybę Jungtinių Amerikos Valstijų vėliavai, respublikai, kurią ji simbolizuoja, vienai tautai prieš Dievą, nedalomai, kurioje laisvė ir teisingumas egzistuoja visiems.	
+527	Visų pirma, turite žinoti, kas nutinka sprogus atominei bombai.	
+528	Iš pradžių plyksteli ryški šviesa, šviesesnė už saulę.	
+529	Ji gali sugriauti pastatus, išdaužyti viso miesto langus.	
+530	Bet jei pulsite ant žemės ir užsidengsite, kaip Bertas, būsite saugesni.	
+531	Užpuolimas gali būti dviejų rūšių - su įspėjimu ir be įspėjimo.	
+532	[NO TRANSLATION]	missing translation
+533	Kas čia vyksta?	
+534	Tėti, tai labai svarbu.	
+535	Karui prasidėjus, visų pirma nebetiekiamas vanduo ir išjungiama elektra.	
+536	Todėl nuolat turim laikyti vonią, pilną vandens, kad galėtume nusiprausti, naudotis kriaukle ir laistyti sodą...	
+537	Išties puikios idėjos.	
+538	Bet, Rodžeri, nesuprantu, kodėl tu turi dėl to rūpintis.	
+539	Taip, bet nuaidėjus sirenoms laiko gali neužtekti pripildyti vonią ir kriaukles.	
+540	Jokių sirenų nebus...	
+541	Kas tai?	
+542	Raudonieji bombą sprogdins taip, kad pataikytų į Empire State Building.	
+543	Bet bomba sprogs 3048 m aukštyje.	
+544	Life žurnalas tai vadina sprogimu ore. Jei bomba bus 50 megatonų, sprogimo banga sklis tolyn ir sunaikins viską nuo čia iki čia.	
+545	Įskaitant ir kur mes gyvename.	
+546	Čia.	
+547	Taip, ten.	
+548	Bet, Rodžeri, niekas čia nesprogdins atominių bombų.	
+549	Rusai juk nori.	
+550	Ir tas rusas, kurį tu gini,	
+551	jis padeda tiems, kurie tą bombą sprogdins.	
+552	Ne,	
+553	jis čia ne tam.	
+554	Jis net ne rusas.	
+555	Manome, kad jis iš Šiaurės Anglijos.	
+556	Taip, bet jis šnipinėja rusams.	
+557	Aš nesuprantu, kodėl tu jį gini.	
+558	Tu ne komunistas, tai kodėl gini komunistą?	
+559	Nes toks mano darbas.	
+560	Anksčiau toks nebuvo.	
+561	Byloje JAV prieš Rudolfą Abelį ar pripažįstate atsakovą kaltu pagal pirmą kaltinimo punktą?	forced duplication
+562	Byloje JAV prieš Rudolfą Abelį ar pripažįstate atsakovą kaltu pagal pirmą kaltinimo punktą?	forced duplication
+563	Taip.	
+564	Pagal antrą?	
+565	Taip.	
+566	O pagal trečią?	
+567	Taip.	
+568	Gerbiamasis teisėjau, prašau atmesti šiuos kaltinimus dėl įrodymų trūkumo.	
+569	Prašymas atmestas.	
+570	Posėdis baigtas.	
+571	Dėkoju visiems.	
+572	Pridursiu, kad jumis dėtas būčiau priėmęs tokį pat sprendimą.	
+573	Nuosprendžio skaitymas... lapkričio 15-ą.	
+574	Dėl mirties nuosprendžio dar nenuspręsta.	
+575	Nebijokite.	
+576	Aš nebijau mirti, pone Donovanai.	
+577	Tačiau pats to nesirinkčiau, žinoma.	
+578	Jūs palikote.	
+579	Ačiū.	
+580	Labai dėkoju!	
+581	Jūs nė sykio nepaklausėte manęs, ar kaltinimai teisingi.	
+582	Ar aš iš tiesų šnipas.	
+583	Mes taip dirbame.	
+584	Byla prieš jus - svarbu.	
+585	Pasistengti, kad jie įrodytų - svarbu.	
+586	Fikcija...	
+587	Darėte jūs tai ar ne - nesvarbu.	
+588	Valstybė turi įrodyti, šnipas jūs ar ne.	
+589	Jums net nesmalsu?	
+590	Ne.	
+591	Aš maniau, kad jūs - dailininkas.	
+592	Mano žmona, ji menininkė.	
+593	Muzikantė... Maskvos vaikų orkestre.	
+594	Koks instrumentas?	
+595	Arfa.	
+596	[NO TRANSLATION]	missing translation
+597	Tai ji it angelas.	
+598	Kai jūs taip stovite... primenate man vieną vyrą, kuris dažnai lankydavosi mūsų namuose.	
+599	Tėvas man sakydavo: Stebėk tą žmogų.	
+600	Aš ir stebėjau, kaskart, kai jis ateidavo.	
+601	Ir nė sykio jis nepadarė nieko ypatinga.	
+602	Ir aš jums jį primenu?	
+603	Sykį, kai buvau jūsų sūnaus amžiaus,	
+604	mūsų namus užpuolė pasienio partizanai.	
+605	Keli tuzinai.	
+606	Sumušė mano tėvą, sumušė motiną, ir šį žmogų - mano tėvo draugą - mušė.	
+607	Aš stebėjau jį.	
+608	Kaskart, kai jam suduodavo, jis vėl atsistodavo.	
+609	Todėl jį mušė stipriau.	
+610	Ir jis vis tiek atsistodavo.	
+611	Turbūt dėl to jie liovėsi.	
+612	Paliko jį gyvą.	
+613	<Stoikij mužik./> Jie pasakė, pamenu.	missing English
+614	Tai reiškia kažką panašaus į neįveikiamas.	
+615	Neįveikiamas.	
+616	Labas, Džimai!	
+617	Mile, tu - šventė akims.	
+618	Mortis puošiasi.	
+619	Užeik.	
+620	Škotiško viskio?	
+621	Taip, prašyčiau.	
+622	Ačiū.	
+623	Su lašeliu vandens.	
+624	Gerbiamasis teisėjau.	
+625	Labas, Džimai!	
+626	Mes tuoj išeisime.	
+627	Turiu kelias minutes.	
+628	Labdaros valgykla.	
+629	Milės reikalai.	
+630	Ačiū, kad sutikote priimti mane.	
+631	Norėjau įterpti savo trigrašį nuosprendžio tema.	
+632	Pamaniau, kad verčiau sutrukdysiu jus namie, nes ne visi mano argumentai visiškai teisiškai tikslūs.	
+633	Taip, būtent tokia ir yra ši byla.	
+634	Tikiuosi, bylos nagrinėjimo metu nebuvau per šiurkštus, bet tu sakai tiesą.	
+635	Šioje byloje nėra nieko teisiškai tikslaus.	
+636	Yra svarbesnių klausimų.	
+637	Svarbesnių!	
+638	Ačiū.	
+639	[NO TRANSLATION]	missing translation
+640	Pone...	
+641	Drįsčiau teigti, kad Jungtinėms Valstijoms naudingiausia būtų palikti Abelį gyvą.	
+642	Kodėl?	
+643	Nesakau, kad jau apsisprendžiau. Bet jei jį domintų bendradarbiavimas su mūsų vyriausybe, jis jau būtų tai padaręs.	
+644	Tiesa, bet čia svarbiausia...	
+645	[NO TRANSLATION]	missing translation
+646	Atsiprašau.	
+647	Negali sakyti, kad Jungtinėms Valstijoms naudingiausia bus, jei likusias dienas jis praleis kalėjime.	
+648	Kokia čia nauda?	
+649	Pats jo įkalinimas - ne, pone.	
+650	Galimas daiktas, kad netolimoje ateity, to paties karinio laipsnio amerikietį gali sučiupti Sovietų Rusija.	
+651	Tuomet galėtume jį išmainyti.	
+652	Oho.	
+653	Kas būtų, jei būtų.	
+654	Greičiau varna lakštingala taps.	
+655	Atsakymai į kas būtų? - mano darbas.	
+656	Draudimo verslas.	
+657	Ir ši galimybė nėra neįtikėtina.	
+658	Labai tikėtina, jog būtent tai ir nutiks, esant tokiai padėčiai.	
+659	Nuo panašių nutikimų žmonės nori apsidrausti.	
+660	Jei šį vyruką nusiųsime mirti, paliksime nuogi.	
+661	Jokių atsarginių variantų tai dienai, kai atūš audra.	
+662	Graži kalba.	
+663	Pone, yra dar ir žmogiškumo klausimas.	
+664	Ar jis privalo mirti dėl to, kad darė tai, kam buvo siųstas?	
+665	Pakaks, advokate.	
+666	Man metas.	
+667	Smagu buvo pasimatyti, Džimai.	
+668	Aš tave išlydėsiu.	
+669	Teismas eina, prašom stoti.	
+670	JAV Niujorko Rytų apygardos teismo posėdis pradedamas.	
+671	Pirmininkauja teisėjas Mortimeras Bajersas.	
+672	Prašom sėst.	
+673	Atsakovą prašome atsistot.	
+674	Pamatuotu teismo sprendimu, nuosprendis, priimtas remiantis faktu, jog ginamasis prisiekusiųjų buvo pripažintas kaltu pagal visus kaltinimo straipsnius, atitinka visus reikalingus kriterijus.	
+675	Sutinkant su šiuo nuosprendžiu atsakovas pavedamasJAV generalinio prokuroro žinion ir bus kalinamas pastarojo paskirtame federaliniame kalėjime 30 metų.	
+676	Pareigūnai, prašau išvesti atsakovą iš teismo salės.	
+677	[NO TRANSLATION]	missing translation
+678	Ne elektros kėdė?	
+679	Ne.	
+680	[NO TRANSLATION]	missing translation
+681	Kodėl mes jo nepakariame?	
+682	Vardan Dievo, kodėl jo nepakariame?	
+683	Sėskite, pone!	
+684	Jis šnipas!	
+685	Jis žudo mus savo melu!	
+686	Vardan Dievo, kodėl jo nepakariame?	
+687	Taip!	
+688	Jis šnipas!	
+689	Pone Donovanai!	
+690	Pone Donovanai!	
+691	[NO TRANSLATION]	missing translation
+692	Tik vieną klausimą, pone.	
+693	Mano skrybėlė!	
+694	Mano skrybėlė!	
+695	Mano skrybėlė!	
+696	Komentarų nebus.	
+697	Ponia ir ponas Donovanas į klausimus neatsakinės.	
+698	Kaip jaučiatės pasibaigus šiam nacionaliniam košmarui?	
+699	Pone Donovanai, ar jūs patenkintas nuosprendžiu?	
+700	[NO TRANSLATION]	missing translation
+701	Mes turime tvirtą pagrindą apeliacijai.	
+702	Apeliacijai?	
+703	Apeliacijai, taip.	
+704	Džimai, tu puikiai pasidarbavai.	
+705	Su kaupu išpildei tau patikėtą užduotį.	
+706	Bet tas žmogus - šnipas.	
+707	Nuosprendis teisėtas ir apeliacijos nereikia.	
+708	Yra aibė procedūrinių priežasčių.	
+709	Krata atlikta su pažeidimais.	
+710	Apeliacinis teismas visada skiria daug dėmesio Ketvirtajai pataisai.	
+711	Turime rimtų šansų.	
+712	Ką tu čia šneki, po galais?	
+713	Mums reikėjo parodyti, kad jis ginamas, tai ir padarėme.	
+714	Kurių galų man cituoji Konstituciją?	
+715	Tomai, jei žiūrėdamas man į akis pasakysi, kad priežasčių apeliacijai nėra, aš jos neteiksiu.	
+716	Aš ne tai sakau.	
+717	Pats supranti, apie ką aš.	
+718	Tomas sako, kad kaina gali būti pernelyg didelė.	
+719	Teisingai.	
+720	Tavo šeimai ir tavo firmai.	
+721	Ilgėjausi muzikos.	
+722	Radiją patikrino, kad ten nebūtų siųstuvo.	
+723	Neabejoju.	
+724	Šostakovičius.	
+725	[NO TRANSLATION]	missing translation
+726	Puikus menininkas tas Šostakovičius.	
+727	Aš manau... mūsų rimčiausias pagrindas panaikinti nuosprendį - konstitucinis.	
+728	Aukščiausiasis teismas sutiks persvarstyti bylą, tai daugiausia, ko galime tikėtis.	
+729	Džimai...	
+730	Būkite atsargus.	
+731	Atsargus.	
+732	[NO TRANSLATION]	missing translation
+733	[NO TRANSLATION]	missing translation
+734	[NO TRANSLATION]	missing translation
+735	[NO TRANSLATION]	missing translation
+736	[NO TRANSLATION]	missing translation
+737	[NO TRANSLATION]	missing translation
+738	[NO TRANSLATION]	missing translation
+739	[NO TRANSLATION]	missing translation
+740	Mama!	
+741	Kas nutiko, dėl Dievo meilės?	
+742	Dukrele, tu sveika?	
+743	Mama!	
+744	Tu sužeista?	
+745	Aš su ja.	
+746	Lipk aukštyn!	
+747	Kaip tu?	
+748	[NO TRANSLATION]	missing translation
+749	Kaip tu?	
+750	Viskas gerai?	
+751	Tėti, atsitūpiau nugara į sieną!	
+752	Puiku, puiku.	
+753	Toliau nuo langų!	
+754	Puiku, puiku.	
+755	Šaunuolis.	
+756	[NO TRANSLATION]	missing translation
+757	Viskas gerai.	
+758	Viskas gerai, jų nebėra.	
+759	Tai bailiai.	
+760	Nubėgo.	
+761	Mūsų detektyvai tiria rajoną.	
+762	Gal surasim automobilį pagal apibūdinimą, bet nesu tuo tikras.	
+763	Mums reikia apsaugos.	
+764	Man liepta čia palikti du automobilius.	
+765	Akivaizdu, kad čia saugus...	
+766	Kuriam laikui?	
+767	Savaitės gale išvykstu į Vašingtoną.	
+768	Ką jūs darote?	
+769	Ką darote šeimai?	
+770	Galėčiau paklausti, pareigūne?	
+771	Kodėl ginate tą tipą?	
+772	Dėl ko kaunatės už jį?	
+773	Liaukitės, pareigūne.	
+774	Nieko aš nesiliausiu.	
+775	Išsilaipinau Omahos paplūdimy su trečiąja grandimi.	
+776	Aš irgi tarnavau.	
+777	Aš kariavau su jais, o jūs juos ginate?	
+778	Dirbkite savo teisėsaugos pareigūno darbą.	
+779	Atleiskite.	
+780	Eime į lauką.	
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	Pamirškite jį.	
+784	Ko aš čia nesuprantu?	
+785	Lauk, pareigūne.	
+786	Atsiprašau.	
+787	Gina komunistų šnipą.	
+788	[NO TRANSLATION]	missing translation
+789	Nejaučiate, kad to nusipelnėte?	
+790	Tam atvejui, jei prireiks šokti iš lėktuvo virš Sovietų teritorijos, fiuzeliaže bus kilogramo sprogmuo.	
+791	Visų pirma turite aktyvinti grandines.	
+792	Bet 70 sekundžių laikmačio nustatymui teks įjungti jungiklį Sunaikinti.	
+793	Jūsų skrydžiai jokiu būdu negali būti atskleisti, o įranga neturi pakliūti į priešo rankas.	
+794	O kaip mes?	
+795	Gal jūs juokaujate, leitenante Pauersai.	
+796	Aš - ne.	
+797	Jūsų žinios apie lėktuvą tokios pat slaptos kaip ir pats lėktuvas.	
+798	Jei nuspėjote, kad jus paims į nelaisvę, susinaikinkite kartu su lėktuvu.	
+799	Jei manote, kad galite nusileisti ir pabėgti, atsidūrę prie pat sienos, tuomet gerai.	
+800	Katapultavimosi taisyklės jums žinomos.	
+801	Jei krisite, pasiimkite dolerį.	
+802	Jame yra adata.	
+803	Įdūrus į odą, ji suveikia staigiai.	
+804	Jei matysite, kad jus gali paimti į nelaisvę, panaudokite ją.	
+805	Lakūnai, suprantate mane?	
+806	Išleiskite šį dolerį.	
+807	Gerbiamas vyriausiasis teisėjau, teisingumo teisme.	
+808	Šaltasis karas nėra vien frazė.	
+809	Tai ne posakis.	
+810	Iš esmės tai dviejų priešingų pasaulėžiūrų kova.	
+811	Aš tvirtinu, kad Rudolfas Ivanovičius Abelis arba Pulkininkas Abelis, kaip pavadino net suėmę jį pareigūnai - yra mūsų priešas šioje kovoje.	
+812	Pagalbinis šaltinis?	
+813	Prijungtas ir veikia.	
+814	Deguonies tiekimas?	
+815	126 kg/kv. cm.	
+816	Inverteris?	
+817	Išjungtas.	
+818	Šiame kare su juo buvo elgiamasi kaip su priešo kariškiu, kol mūsų vyriausybei tai buvo paranku.	
+819	Atitinkamai,jam nebuvo suteikta apsauga, kurią teikiame savo piliečiams.	
+820	Vienaip ar kitaip, su juo buvo elgiamasi kaip su įtariamu valstybės priešu, bet ne kaip įtariamu nusikaltėliu.	
+821	Degalų skirstytuvas?	
+822	Išjungtas.	
+823	Sunaikinimo įtaisas?	
+824	Patikimas.	
+825	Pakilimo duomenų kortelė.	
+826	Įmontuota.	
+827	Pažįstu šį žmogų.	
+828	Jei kaltinimai yra teisingi, jis tarnauja užsienio valstybei, tarnauja ištikimai.	
+829	Jei jis priešo kariuomenės karys, jis - geras karys.	
+830	Jis nepabėgo iš mūšio lauko.	
+831	Jis atsisakė bendradarbiauti su pagrobėjais.	
+832	Jis neišdavė savo tikslo.	
+833	Jis nepasielgė kaip bailys.	
+834	Bailys palieka orumą prieš palikdamas mūšio lauką.	
+835	Šitaip Rudolfas Abelis niekad nesielgs.	
+836	Ar nederėtų parodyti jam, suteikiant visas teises, numatytas mūsų vyriausybės, kas mes esame?	
+837	Kas mes esame.	
+838	Argi tai ne stipriausias mūsų ginklas šaltajame kare?	
+839	Negi savo tikslo neginsime taip ryžtingai, kaip jis gina savąjį?	
+840	Prezidentas pranešė, kad prieš keturias dienas Turkijoje dingo vienas NASA meteorologų lėktuvų.	
+841	Kosminė administracija nuogąstauja, kad šios avarijos metu pilotas galėjo žūti.	
+842	Pagal radaro rodmenis - lėktuvas nuklydo nuo kurso gilyn į Sovietų teritoriją prieš nutrūkstant signalui, kas rimtai komplikuoja galimybes atgauti lėktuvo nuolaužas ar piloto palaikus.	
+843	Dabar - žinios iš Vašingtono.	
+844	Aukščiausiasis teismas balsavimu patvirtino ankstesnį rusų šnipo Rudolfo Ivanovičiaus Abelio nuosprendį penkiais balsais prieš keturis.	
+845	Pasak ruso advokato Džeimso B. Donovano, šis įvykis liečia pilietines laisves.	
+846	Paklaustas, kaip jaučiasi po šio pralaimėjimo, ponas Donovanas atsakė trumpai: Pavargęs.	
+847	Daugiau žinių - po šio pranešimo.	
+848	[NO TRANSLATION]	missing translation
+849	Baigta.	
+850	[NO TRANSLATION]	missing translation
+851	Marti...	
+852	Nerandu Prudential bylos, kad ją kur.	
+853	Ponas Votersas paprašė nunešti ją į Džeko Elveso kabinetą kartu su apeliacijos juodraščiu.	
+854	Tikrai?	
+855	Taip. Jis ją perrašė ir nunešė į teismą, kai buvote Vašingtone.	
+856	Kiek laiko mes pažįstami?	
+857	Elgiesi taip, lyg nebūčiau pasirašęs nė vienos sutarties.	
+858	Susitark dėl susitikimo.	
+859	Kokioje prašmatnioje vietoje.	
+860	Ponas Jangas norės pamatyti, ką gražaus gali pasiūlyti Niujorkas.	
+861	Ir duok man suvestinę...	
+862	Ar pažįstate ką nors iš Lipcigo?	
+863	Leipcigo.	
+864	Jau ir iš Vokietijos man ėmė rašyti piktus laiškus?	
+865	Iš Rytų Vokietijos.	
+866	Ar čia jūsų žmona?	
+867	Ne.	
+868	Ne, ne, ne.	
+869	Apsimeta, tačiau labai prastai.	
+870	Išdrįsau parašyti jums po to, kai laikraščiuose perskaičiau apie jūsų humanišką elgesį su mano mylimu vyru Rudolfu Abeliu.	
+871	Ar man atsakyti?	
+872	Taip, taip, taip.	
+873	Koks turi būt kitas žingsnis, kai neišmanote, koks čia žaidimas?	
+874	Fransis Garis Pauersas,	
+875	remiantis TSRS kriminalinio kodekso antru straipsniu dėl valstybinių nusikaltimų, nuteisiamas 10 metų nelaisvės, iš kurių pirmus trejus metus - kalėti kalėjime.	
+876	Bausmės laikas, įskaitant ikiteisminį sulaikymą, skaičiuojamas nuo 1960 metų gegužės pirmos dienos.	
+877	Pone Donovanai, dėkoju, kad atėjote.	
+878	Labai malonu su jumis susipažinti, pone Dalasai.	
+879	Man didelė garbė, pone.	
+880	Nescafé, grietinėlė, du cukraus.	
+881	Ačiū.	
+882	Tas laiškas, kurį gavote.	
+883	Gana akivaizdu, jog sovietai ėmėsi iniciatyvos.	
+884	Ir jie tai daro per Rytų Vokietiją, nes vis dar nepripažįsta Abelio Sovietų piliečiu, nekalbant jau apie tai, kad jis šnipas.	
+885	[NO TRANSLATION]	missing translation
+886	Čia vyksta žaidimas.	
+887	Taip, pone, bet kuriems galams?	
+888	Pas juos mūsiškis šnipas - lakūnas.	
+889	Pas mus - jų žmogus.	
+890	Apsikeisti kaliniais - štai ko jie siekia, manau.	
+891	Tai neturėtų jūsų stebinti, advokate.	
+892	Juk pats numatėte šią galimybę.	
+893	Taip. Aš taip retai atspėju.	
+894	Sveikinu.	
+895	Įsimintina diena.	
+896	Taigi, ten mūsų vyrukas.	
+897	Pauersas.	
+898	Geras vyrukas, bet pilna galva slaptos informacijos.	
+899	Abelio galva irgi pilna slaptos informacijos, bet jis mums nė žodžiu neprasitarė.	
+900	Pone, patikėkite, ir neprasitars.	
+901	Mes tai žinome, bet rusai ne.	
+902	Jie nori jį susigrąžinti prieš jam palūžtant.	
+903	O mes - Pauersą, dėl tos pačios priežasties.	
+904	Norite pasakyti, pone, kad visiems gali būti laiminga pabaiga.	
+905	Jei imsime žaisti jų žaidimą.	
+906	Norime, kad jūs vadovautumėte šiems mainams, nes jūs - privatus asmuo, vyriausybės čia dalyvauti neturi.	
+907	Sovietai nepripažįsta Abelio savo piliečiu, o mes - Rytų Vokietijos kaip suverenios valstybės.	
+908	Mes nepripažinome Rytų Berlyno, atskirto Sovietų 1945-aisiais.	
+909	Aš būsiu derybininkas, atstovaujantis...	
+910	Jūs neatstovausite niekam.	
+911	[NO TRANSLATION]	missing translation
+912	Neturėsite oficialių įgaliojimų.	
+913	Iš mūsų pusės - irgi bus žaidimas.	
+914	Teisingai.	
+915	Tai reiškia, kad, reikalams ėmus slysti, negalėsite tikėtis jokios mūsų pagalbos.	
+916	CŽV į tai nesivels.	
+917	Negalime savęs kompromituoti.	
+918	Kur jie siūlo derybas?	
+919	Ten.	
+920	Ten?	
+921	Rytų Berlyne.	
+922	Ar Rytų Berlyne nevyksta?..	
+923	Taip, padėtis ten sudėtinga.	
+924	Taip, sudėtinga.	
+925	Sovietinė pusė pastaraisiais mėnesiais steigia kontrolės postus, kad sustabdytų žmones, plūstančius į vakarinę dalį, bet tai neveikia.	
+926	Žvalgyba įtaria, kad jie gali imti ir uždaryti visą rytinę dalį.	
+927	Tai - bendrais bruožais.	
+928	Spręsti jums asmeniškai.	
+929	Jums reikia laiko apmąstyti.	
+930	Ne.	
+931	Nereikia.	
+932	Tuomet gerai.	
+933	[NO TRANSLATION]	missing translation
+934	Geriausia bus, jei šis reikalas liks paslaptyje.	
+935	Neaptarinėkite jo nei su Meri, nei su kuo nors kitu.	
+936	Apie susirašinėjimą praneškite tik mums.	
+937	Praneškite mums, ko jie nori ir kada.	
+938	Neturiu nei kliento, nei žmonos, nei šalies.	
+939	Nežinau, nei ką darau, nei kada, nei dėl ko.	
+940	Jūs tai darote savo šalies labui, tik šalis to dar nežino.	
+941	O kaip mano klientas, antrasis šios lygties asmuo?	
+942	Mano žmogus?	
+943	Jūsų žmogus?	
+944	Kalbate apie rusą?	
+945	Jis nebe jūsų, advokate.	
+946	Jūsų žmogus dabar Fransis Garis Pauersas.	
+947	O ką man pasakyti Rudolfui Abeliui?	
+948	Pasakykite jam, kad nepakratytų kojų.	
+949	Profesoriau!	
+950	[NO TRANSLATION]	missing translation
+951	Tėtis išvažiavo į universitetą.	
+952	Tau čia negalima, Frederikai.	
+953	Šiandien vyksta paskaitos?	
+954	Jis išvažiavo pažiūrėti.	
+955	Jis ten visada važiuoja.	
+956	Ką tu čia veiki?	
+957	Atėjau paimti tavęs ir tavo tėvo.	
+958	Važiuojam kartu.	
+959	Rytoj jau galite nebeištrūkti.	
+960	[NO TRANSLATION]	missing translation
+961	Ir viską palikti?	
+962	[NO TRANSLATION]	missing translation
+963	Taip, palikti.	
+964	Dabar pat.	
+965	Atgal.	
+966	Atgal.	
+967	Man nieko nenutiks. Aš amerikietis.	
+968	Grįžk atgal.	
+969	Grįžk pas tėvą.	
+970	Sugalvosime kitą išeitį.	
+971	Eik.	
+972	Sveiki.	
+973	[NO TRANSLATION]	missing translation
+974	Dokumentus.	
+975	Ich bin Student Frederikas Praeris.	
+976	Taip, Student.	
+977	Aš Frederikas Praeris.	
+978	Studijuoju ekonomiką.	
+979	Matote?	
+980	Mano disertacija.	
+981	[NO TRANSLATION]	missing translation
+982	[NO TRANSLATION]	missing translation
+983	[NO TRANSLATION]	missing translation
+984	Žiūrėkite. Europos komunistinių šalių prekybos su užsieniu sistema.	
+985	[NO TRANSLATION]	missing translation
+986	Čia didelis darbas.	
+987	Ne, tai vienintelis mano egzempliorius.	
+988	Ne!	
+989	Pasakyk man ką nors.	
+990	Man paskambino paskutinę minutę.	
+991	Jų atstovybės Londone.	
+992	Tie klientai.	
+993	Ne mano idėja.	
+994	Škotija, žvejybos ekspedicija.	
+995	Kokia dar žvejyba, Džimai?	
+996	Lašišų.	
+997	Tik pasakyk man, kad tau negrės joks pavojus, kad tai eilinis reikalas, tada liksiu rami.	
+998	Kur mano pasas?	
+999	Pasakyk man ką nors.	
+1000	Nebūtinai tiesą.	
+1001	Aš tai darau dėl mūsų.	
+1002	Ponas Mičeneris jus lydės Berlyne.	
+1003	Jis - JAV ambasados atašė.	
+1004	Padėtis tapo itin komplikuota.	
+1005	[NO TRANSLATION]	missing translation
+1006	Kaip žinote, paskutiniame ponios Abel, ar kas ji būtų, laiške užsiminta apie advokatą iš Rytų Berlyno poną Vogelį, ar kas jis būtų. Anot jos, jis atstovauja jos interesams.	
+1007	Taip, Vogelis sako, kad jis nuvyko į Rusijos ambasadą Rytų Berlyne, ir galbūt jie iškeis Pauersą į Abelį.	
+1008	Bet niekas nežino, kas yra kas, tačiau iš esmės jie visi rusai, taip?	
+1009	Na, sovietai.	
+1010	Mes taip manome.	
+1011	Ką norite pasakyti?	
+1012	Galima įjungti šildymą?	
+1013	Yra vienas bet.	
+1014	Jie gali sukti derybas netikėta linkme.	
+1015	Pamėginti įpiršti jums kitą kalinį, ne Pauersą.	
+1016	Kitą amerikietį?	
+1017	Rytų Vokietijos Stasi sulaikė amerikietį studentą	
+1018	Frederiką Praerį.	
+1019	Tas vaikinas pasipainiojo jiems ne toje Sienos pusėje.	
+1020	Jis - Jeilio absolventas,	
+1021	atvykęs studijuoti ekonomikos.	
+1022	[NO TRANSLATION]	missing translation
+1023	Taigi, jie kelia triukšmą neva šis vaikis šnipinėja.	
+1024	Tai sunkus nusikaltimas.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogelis susisiekė su mumis, sako, kad atstovauja Praeriui.	
+1027	Minutėlę.	
+1028	Vogelis atstovauja ir poniai Abel, ir tam jaunuoliui?	
+1029	Taip, užsiėmęs žmogus.	
+1030	Kas jis?	
+1031	Vogelis. Rytų vokietis ar rusas?	
+1032	Pamėginkite išsiaiškinti, kai su juo susitiksite.	
+1033	Rusijos ambasadoje Rytų Berlyne rytoj, vidurdienį.	
+1034	Hofmanas parodys jums, kaip ten nusigauti.	
+1035	Kaip man nusigauti?	
+1036	Mane juk lydės.	
+1037	Taip?	
+1038	Buvo toks planas, bet padėtis komplikavosi.	
+1039	Aš jūsų nebelydėsiu.	
+1040	Taip nuspręsta.	
+1041	Iki specialaus pranešimo sienos neturi kirsti joks JAV vyriausybės darbuotojas.	
+1042	Kaip?	
+1043	Pernelyg pavojinga.	
+1044	Tą jaunuolį sulaikė Rytų vokiečiai.	
+1045	Mes nesitikėjome tam tikro nebaudžiamumo.	
+1046	Iš esmės, Rytų vokiečių planas gali nesutapti su Rusijos planu.	
+1047	Pamėginkit susigaudyti vietoje ir elkitės atitinkamai.	
+1048	Pamėginkit susitarti.	
+1049	Pauersas už Abelį.	
+1050	O kaip tas studentas Praeris?	
+1051	[NO TRANSLATION]	missing translation
+1052	Nesileiskite apmaunamas.	
+1053	Jį ištrauksime kitą sykį.	
+1054	Dabar mums reikalingas Pauersas.	
+1055	Kur jūsų kambarys?	
+1056	Apsistosiu Hilton viešbutyje.	
+1057	Čia netoli.	
+1058	Štai jums numeris Vakarų Berlyne.	
+1059	Įsiminkite jį ir atiduokite.	
+1060	Ne.	
+1061	[NO TRANSLATION]	missing translation
+1062	Dabar.	
+1063	Sovietai atjungė tarptautines telefono linijas, bet vietoje skambinti galima.	
+1064	Kas nors juo atsilieps dieną ir naktį.	
+1065	Šis kvitas, prisegtas prie jūsų paso, bus jums kaip bilietas į ir iš rytinės sovietų dalies.	
+1066	Susitikimas su Vogeliu rytoj vidurdienį.	
+1067	Į rytinę dalį palikti vos keli keliai.	
+1068	Važiuokite S-Bahn linija, stotį parodėme jums pakeliui į čia.	
+1069	Išlipsite Friedrichstrasse stoty čia... ir nueisite iki Sovietų ambasados Unter den Linden čia.	
+1070	Įsiminkite žemėlapį dabar.	
+1071	Pasiimti jo negalėsite.	
+1072	Jei žiūrėsite į žemėlapį, jūs amerikietis, vadinasi, šnipas.	
+1073	Jus gali sulaikyti.	
+1074	Venkite bendrauti su žmonėmis.	
+1075	[NO TRANSLATION]	missing translation
+1076	Neišsiskirkite.	
+1077	Ten ima trūkti maisto, padėtis darosi nerami.	
+1078	Ten siautėja gaujos, įstatymo galia ten nėra tokia stipri.	
+1079	Ir nesiartinkite prie Sienos.	
+1080	Jų pusėje, palei Sieną, yra pasienio riba,	
+1081	kurią jie vadina Mirties linija.	
+1082	Tik peržengsite ją ir jus nušaus.	
+1083	Ar yra bent viena išeitis nebūti suimtam ar nušautam?	
+1084	Nesijaudinkite labai dėl to, ką sako Mičeneris.	
+1085	Ne, aš nerimauju dėl to, ką sakote jūs.	
+1086	Tas Rytų vokiečių sulaikytas vaikinukas Praeris, kiek jam metų?	
+1087	25-eri.	
+1088	O kas?	
+1089	Dago amžiaus.	
+1090	Kieno?	
+1091	Mano bendradarbio.	
+1092	Frederikas Praeris.	
+1093	Gerai, gerai.	
+1094	[NO TRANSLATION]	missing translation
+1095	Atsiprašome už šiuos pažeidimus.	
+1096	[NO TRANSLATION]	missing translation
+1097	Paltą?	
+1098	Gerai.	
+1099	Ar suprantate mane?	
+1100	Taip, pone.	
+1101	Aš Džeimsas Donovanas.	
+1102	Atėjau susitikti su ponu Vogeliu.	
+1103	Su ponu Vogeliu.	
+1104	Jis nedirba čia,	
+1105	bet mes čia turime susitikti.	
+1106	Tai viskas, ką žinau.	
+1107	Pone Donovanai!	
+1108	Pagaliau susitikome.	
+1109	Aš Helen Abel.	
+1110	Kaip laikosi mūsų vyras?	
+1111	[NO TRANSLATION]	missing translation
+1112	Gerai.	
+1113	Kaip mano Rudolfas?	
+1114	Gerai, atsižvelgus į aplinkybes.	
+1115	Ir mes jį sugrąžinti, taip?	
+1116	Čia mūsų duktė.	
+1117	Malonu susipažinti.	
+1118	Lidija.	
+1119	Jūs ponas Vogelis?	
+1120	Ne, ne, ne!	
+1121	Aš ne Vogelis.	
+1122	Aš pusbrolis Driusas.	
+1123	Jis - Driusas, mylimas Rudolfo pusbrolis.	
+1124	Taip, pusbrolis Driusas.	
+1125	Aš pusbrolis Driusas.	
+1126	Pusbrolis Driusas, taip.	
+1127	Aš Helen Abel.	
+1128	Kada jūs jį pamatysite?	
+1129	Kada jūsų vyriausybė jį paleis?	
+1130	Aš mažumėlę sutrikęs.	
+1131	Turėjau susitikti su ponu Vogeliu.	
+1132	Ponas Vogelis - mūsų advokatas.	
+1133	Mes turėjome aptarti mainus.	
+1134	Atvežti Rudolfą čia?	
+1135	Taip, atvežti jį čia.	
+1136	Bet mainai - dalykas ne vienašališkas, suprantate?	
+1137	Turi įvykti mainai.	
+1138	Ne čia?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Ponas Donovanas?	
+1143	Pone Vogeli!	
+1144	Ne, ne, ne.	
+1145	Vajė.	
+1146	Mano pavardė Šiškinas.	
+1147	Ivanas Šiškinas.	
+1148	Esu Tarybų Sąjungos ambasados antrasis sekretorius.	
+1149	Būtų netinkama, jei ponas Vogelis prisijungtų prie mūsų.	
+1150	Jis - vokietis.	
+1151	Vadinasi, jūs ne tam, kad...	
+1152	Kad palengvinčiau šį susitikimą.	
+1153	Galbūt ponia Abel malonėtų nusiraminti kur nors kitur?	
+1154	Leiskite mudviem su ponu Donovanu pakalbėti.	
+1155	Dėkoju.	
+1156	Aš sutrikęs.	
+1157	Taip.	
+1158	Man nesvarbu, su kuo teks kalbėti, svarbu, kad apie mainus.	
+1159	Ar jūs galite apie tai kalbėti?	
+1160	Taip, žinoma.	
+1161	Pakalbėkime.	
+1162	Prisėskite, pone Donovanai.	
+1163	Kaip atvykote į rytinę dalį?	
+1164	Traukiniu.	
+1165	S-Bahn linija.	
+1166	Vienas?	
+1167	Taip.	
+1168	Ir jūs esate įgaliotas?	
+1169	Turėtumėte žinoti apie mane, pone.	
+1170	Esu privatus asmuo.	
+1171	JAV, Brukline, dirbu advokatu, ir savo užimtoje dienotvarkėje radau laiko, kad padėčiau savo klientui Rudolfui Abeliui.	
+1172	Esu įgaliotas įvykdyti mainus - Abelį išmainyti į Fransį Garį Pauersą.	
+1173	Čia Abelio amnestija, kuri bus pasirašyta įvykus mainams.	
+1174	Tai vienintelė mano atvykimo čia priežastis.	
+1175	Labai tikiuosi atlikti šį reikalą kuo greičiau.	
+1176	Abelis į Fransį Garį Pauersą ir Frederiką Praerį.	
+1177	Mes neturime Praerio.	
+1178	Ne?	
+1179	Neturite?	
+1180	Girdėjau apie Praerį, bet jį sulaikė Vokietijos Demokratinė Respublika, ne Socialistinių Respublikų Sąjunga.	
+1181	Žinote, kokia pirmoji problema?	
+1182	Jūsų šalių pavadinimai pernelyg ilgi.	
+1183	Taip, taip.	
+1184	Jei išleisime Pauersą, tai tik norėdami parodyti gerą savo valią jūsų šaliai.	
+1185	Taigi, tai negali būti mainai.	
+1186	[NO TRANSLATION]	missing translation
+1187	Galbūt jūs galėtumėte išleisti Abelį kaip geros valios mūsų draugams Vokietijoje ženklą, tuomet, po kelių mėnesių, mes išleistume Pauersą.	
+1188	Štai kokia idėja.	
+1189	Ne.	
+1190	Mums netiks.	
+1191	Mums reikia tik mainų.	
+1192	Vadinkite tai kaip norite, bet mainai įvykti privalo.	
+1193	Abelį pristatyti čionai galime per 48 valandas.	
+1194	Pauerso mums reikia tą pačią akimirką, kai perduosime jums Abelį.	
+1195	[NO TRANSLATION]	missing translation
+1196	Išties...	
+1197	Galime šį planą pavadinti nekantriu?	
+1198	Vadinkite kaip norite.	
+1199	Aš pateiksiu jūsų nekantrų planą Maskvai, pažiūrėsime, ką jie pasakys,	
+1200	bet jie paklaus, iš kur toks nekantrumas.	
+1201	Nes aš peršalau.	
+1202	Ir todėl, kad Berlyne aš negyvenu, noriu namo.	
+1203	Jie pagalvos: Amerikiečiai išgavo iš Abelio visą jo turimą informaciją.	
+1204	Ir dabar nori kuo greičiau išmainyti jį į savo žmogų, Pauersą, kol šis dar nespėjo iškloti savo informacijos.	
+1205	Tai nelygiaverčiai mainai, pone.	
+1206	Tačiau jūs sakote, kad kai Pauersas išklos tai, ką žino, tuomet Maskva jį atiduos?	
+1207	Kodėl turėtų?	
+1208	O štai jei Abelis mirtų Amerikos kalėjime, kitas sučiuptas rusų operatyvinis darbuotojas ilgai netylės.	
+1209	Juk nežinia,	
+1210	ar Abelis dar ateityje neužsigeis išvysti dangų ir iškloti Rusijos paslaptis už nedidelę Amerikos malonę.	
+1211	Juk negalime būti dėl to tikri?	
+1212	Mes, maži žmogeliukai, tik dirbame savo darbą.	
+1213	Kaip ir leitenantas Pauersas.	
+1214	Jis tiesiog lakūnas.	
+1215	Jis fotografavo 21 km aukštyje, kai buvo pašautas danguje.	
+1216	Mano šalyje žmonės laiko tai karo veiksmu.	
+1217	Mes privalome iššokti iš šios karuselės, pone.	
+1218	Nes kita mūsų šalių klaida gali būti paskutinė.	
+1219	Mums reikia susitarti, ko negali padaryti mūsų vyriausybės.	
+1220	Paklausiu Maskvos.	
+1221	Kas žino, ką jie atsakys.	
+1222	Pone Donovanai, daug žmonių nenori, kad šie mainai iš viso įvyktų.	
+1223	Ar galite ateiti rytoj aptarti jų atsakymo?	
+1224	Pauersas už Abelį.	
+1225	Ir Frederikas Praeris.	
+1226	Jau sakiau, kad Praeris Vokietijos Demokratinės Respublikos saugumo organų rankose.	
+1227	Neabejoju, kad galite susitarti.	
+1228	Aš viso labo ambasados, esančios užsienio šalyje, sekretorius.	
+1229	Tiek to.	
+1230	Susitikite su ponu Vogeliu.	
+1231	Parašysiu jums adresą.	
+1232	Vis tik ponas Vogelis egzistuoja?	
+1233	Kodėl turėtų būti kitaip?	
+1234	Greit nuvažiuosit taksi.	
+1235	Ir, pone Donovanai, tokiu oru dėvėkite paltą.	
+1236	Jį iš manęs pavogė.	
+1237	O ko tikėjotės?	
+1238	Juk jis iš Saks Fifth Avenue.	
+1239	Tiesa?	
+1240	Pone Donovanai.	
+1241	Pone Vogeli.	
+1242	Prašom užeiti.	
+1243	[NO TRANSLATION]	missing translation
+1244	Atleiskite dėl tos ambasados.	
+1245	Sovietai nenorėjo manęs priimti.	
+1246	Labai nervina.	
+1247	Aš vis mėginu suprasti visų pusių...	
+1248	Statusą?	
+1249	Taip.	
+1250	Interesus.	
+1251	[NO TRANSLATION]	missing translation
+1252	Naujas pasaulis.	
+1253	Visa tai labai klaidina, tiesa?	
+1254	Leiskite išdėstyti jums savo pasiūlymą.	
+1255	Aš geras draugas...	
+1256	Draugas.	
+1257	Ne, jis vyresnis.	
+1258	Protežė?	
+1259	Vokietijos Demokratinės Respublikos generalinio prokuroro.	
+1260	Prašom sėsti.	
+1261	Nelaimėlis Frederikas Praeris atsidūrė netinkamu metu netinkamoje vietoje.	
+1262	Tačiau bet kuri nelaimė gali virsti nauja galimybe, tiesa, pone Donovanai?	
+1263	[NO TRANSLATION]	missing translation
+1264	Jūsų šalis nepripažįsta Vokietijos Demokratinės Respublikos.	
+1265	Jie išsigalvoja, kad VDR neegzistuoja, pavyzdžiui.	
+1266	Atleiskite.	
+1267	Su sąlyga, kad jūsų vyriausybė pripažins šią tikrą šalį, kurioje dabar esate, VDR, generalinis prokuroras mielai aptars su jumis kaip vyriausybės atstovu pono Praerio grąžinimą.	
+1268	Pone Vogeli, aš nesu vyriausybės atstovas.	
+1269	Tiek to.	
+1270	Manau, tai vaikiška, pone Donovanai.	
+1271	[NO TRANSLATION]	missing translation
+1272	Neturiu oficialaus statuso.	
+1273	Puiku.	
+1274	Jūs neatstovaujate JAV, aš neatstovauju VDR.	
+1275	Mano klientė yra Lidija Abel, Rudolfo žmona.	
+1276	Dar atstovauju...	
+1277	Lidija yra duktė.	
+1278	Žmonos vardas Helen.	
+1279	[NO TRANSLATION]	missing translation
+1280	Aš pasirengęs pasiūlyti Frederiką Praerį mainais į Rudolfą Abelį.	
+1281	Tuomet susitarkime aiškiai.	
+1282	Mes pristatysime Rudolfą Abelį.	
+1283	O jūs tuo pat metu pristatysite studentą Praerį.	
+1284	Tuo pačiu metu?	
+1285	Žinoma.	
+1286	Vienoje mainų pusėje bus senyvas rusas, kitoje - jaunas studentas amerikietis.	
+1287	Šiškinas?	
+1288	Joks jis ne ambasados sekretorius.	
+1289	Ivanas Šiškinas yra KGB vadas Vakarų Europai.	
+1290	Bet kokiu atveju jis perduoda mūsų pasiūlymą Maskvai, o jie jau ten spręs.	
+1291	Galiu pasiskolinti paltą?	
+1292	Savo pamečiau.	
+1293	Kaip sugebėjote pamesti paltą?	
+1294	Toks jau tas šnipo darbas.	
+1295	Gausiu jums paltą.	
+1296	Gerai, nes...	
+1297	Kas toks tas Vogelis?	
+1298	Apie jį nieko nežinome.	
+1299	Galbūt jis jums sakė tiesą.	
+1300	Generalinio prokuroro draugas.	
+1301	Tiesiog kažkoks žmogus, paprašytas VDR sutvarkyti šį reikalą.	
+1302	Regis, Rytų vokiečiai ėmė kautis dėl vietos prie mūsų stalo.	
+1303	VDR padeda rusams susigrąžinti Abelį, nusipelno jų pagarbos,	
+1304	ir garsių antraščių, šlovinančių jų kilnų tikslą.	
+1305	Dėl to Rytų Vokietija sužiba žemėlapyje.	
+1306	Bet mums nerūpi jų žemėlapis.	
+1307	Laikykitės rusų.	
+1308	Laikykitės rusų.	
+1309	Pauersas už Abelį.	
+1310	Ar tai reiškia, kad šis reikalas gali išdegti?	
+1311	Taip, būtent tai ir skamba iš jūsų pasakojimo.	
+1312	Abelį sodinam į lėktuvą, čia jis bus penktadienį.	
+1313	Jei Šiškinas gaus teigiamą atsakymą, liks tik įvykdyti mainus.	
+1314	Mūsų žmogų iškeisti į jų žmogų.	
+1315	Mūsų žmones.	
+1316	Du žmones.	
+1317	Pauersą ir Praerį.	
+1318	Tik nereikia čia man ašarų pakalnės.	
+1319	Čia svarbiausias Pauersas.	
+1320	Pamirškite šį prestižinio universiteto studentą, sumaniusį šaltojo karo vidury studijuoti sovietų ekonomiką.	
+1321	Mums reikia Pauerso.	
+1322	Jums nė nepatinka Pauersas.	
+1323	Pauerso jau visi nekenčia.	
+1324	Jis nenusižudė, leidosi, kad komunistai rodytų jį per televiziją.	
+1325	Jis nekenčiamiausias žmogus Amerikoje.	
+1326	Po Rudolfo Abelio, galbūt.	
+1327	Ir manęs.	
+1328	Pabusk!	
+1329	Man reikia pamiegoti.	
+1330	Pamiegoti.	
+1331	Sakiau, galėsi miegoti, kai pasakysi tai, ko mums reikia.	
+1332	Žiūrėk į mane.	
+1333	Tavo vyriausybei į tave nusispjauti.	
+1334	Pats tai žinai.	
+1335	Į jus visus.	
+1336	Juk žinai, kad dvylikai U-2 pilotų pažeistos smegenys?	
+1337	Jie tapo daržovėmis dėl aukščio, deguonies trūkumo.	
+1338	Bet jie liepia tau skraidyti, Gari.	
+1339	Tau ir tavo draugams.	
+1340	Jie davė jums šitą.	
+1341	Adatą, taip?	
+1342	Su kalio cianidu.	
+1343	Ar panašu, kad tu jiems rūpi?	
+1344	Kokia sunaikinimo įtaiso sandara?	
+1345	Kaip valdomas šis įtaisas?	
+1346	Kokiais sprogmenimis užtaisytas šis įtaisas ir kokia jo naikinamoji galia?	
+1347	Aš nežinau.	
+1348	Lakūnams šios įrangos nerodė.	
+1349	Kokį plotą gali aprėpti radaras įprastinio skrydžio metu?	
+1350	Nežinau, nežinau!	
+1351	Ar vykdėte perskridimą balandžio 9 d. virš pramoninės MiG bombonešių gamybos bazės Baranovičiuose?	
+1352	Ne.	
+1353	Išskridau pirmą sykį.	
+1354	Noriu žinoti apie sklendimą išjungtu varikliu.	
+1355	Kaip pavyksta pakilti taip aukštai.	
+1356	Mes žinome, kad lėktuvas pasiekia 21 km aukštį.	
+1357	Gari, mes tai žinome.	
+1358	Ir dar noriu žinoti, kur šie lėktuvai skrido.	
+1359	Kur jie skrido, Gari?	
+1360	Ir kalbėk dabar pat.	
+1361	Dabar.	
+1362	Tada truputį pamiegosi.	
+1363	Pone, pabuskite.	
+1364	Pabuskite, pone.	
+1365	Pone, malonėkite eiti su manimi.	
+1366	Gerai.	
+1367	Reikia paskubėti.	
+1368	Taip, žinoma.	
+1369	Malonėkite eiti su manimi.	
+1370	Gerai.	
+1371	Gerai.	
+1372	Jūsų akiniai?	
+1373	[NO TRANSLATION]	missing translation
+1374	Kuri dabar valanda?	
+1375	Vėlu, bet mums reikia pakalbėti, tada įlaipinsime jus į lėktuvą.	
+1376	Taip.	
+1377	Taip.	
+1378	Opapa!	
+1379	Opapa!	
+1380	Štai taip.	
+1381	Puiku.	
+1382	Paskubėkite.	
+1383	Ačiū.	
+1384	Ne čia, ne čia.	
+1385	Einam.	
+1386	Sakote, į lėktuvą?	
+1387	Prašyčiau čionai.	
+1388	Paskubėkite.	
+1389	Maskva į jūsų pasiūlymą atsakė teigiamai, kad mes padėtume mūsų draugams iš VDR poną Pauersą iškeisdami į poną Abelį.	
+1390	Tai bent.	
+1391	Ar galiu pasiūlyti Glinikės tiltą šiems mainams?	
+1392	Kodėl ne Čarlio kontrolės punktą?	
+1393	Viešumo mes nesiekiame.	
+1394	Glinikės tiltas tylus, ypač anksti ryte.	
+1395	Glinikės tiltas.	
+1396	Pasiklausiu savo žmonių.	
+1397	Abelį atskraidinsime penktadienį.	
+1398	Tai gal šeštadienį ryte?	
+1399	Nekantraujate?	
+1400	Noriu namo, į savo lovą.	
+1401	Tai šeštadienio rytas?	
+1402	5.30 val.?	
+1403	Puiku.	
+1404	Susitarėme.	
+1405	Šiuo numeriu skambinkite, jei kas.	
+1406	Gerai.	
+1407	Juo kas nors atsilieps bet kuriuo metu.	
+1408	Tikiuosi, neteks juo pasinaudoti.	
+1409	Išgersime už susitarimą?	
+1410	Kodėl ne?	
+1411	Armėniškas konjakas.	
+1412	Pagydys jūsų peršalimą.	
+1413	Ačiū.	
+1414	Gal galėčiau...	
+1415	Norėčiau jūsų paklausti kai ko peržengus mūsų susitarimo ribas.	
+1416	Galite ir neatsakyti.	
+1417	Atsakysiu, jei žinosiu.	
+1418	Man patinka jūsų žmogus.	
+1419	Kas jam bus, kai jis grįš namo?	
+1420	Mums teks nuspręsti, ar mūsų žmogus netapo jūsų žmogumi.	
+1421	Kaip jau minėjau, jis elgėsi garbingai.	
+1422	Jis vis dar jūsų žmogus, patikėkite.	
+1423	Jūs teigtumėte tai, jei tai būtų tiesa ir jei nebūtų.	
+1424	Padėtis, regis, tokia.	
+1425	Atleiskite už įkyrumą, bet ar jam gresia koks pavojus?	
+1426	Na, žinote.	
+1427	Dabar gyvenimas toks, kad visiems gresia pavojus.	
+1428	Į sveikatą!	
+1429	[NO TRANSLATION]	missing translation
+1430	Mainų ant Glinikės tilto nebus.	
+1431	Atleiskite.	
+1432	Mainų nebus.	
+1433	Frederiko Praerio nebus.	
+1434	Pone Vogeli, juk vakar sutarėme.	
+1435	Mes susitarėme Abelį iškeisti į Praerį.	
+1436	Dabar sužinojau, kad esate karvės pardavėjas, pardavęs tą pačią karvę dviem pirkėjams.	
+1437	Abelį už Praerį parduodate mums.	
+1438	Taip.	
+1439	Ir Abelį už Pauersą parduodate sovietams.	
+1440	Nematau bėdos, jei susitarimas tenkina dvi, tris ar net keturias puses.	
+1441	Koks skirtumas?	
+1442	Šis susitarimas mūsų pusės netenkina.	
+1443	Pone Vogeli...	
+1444	Kaip matau, jūs nesuprantate, su kuo turite reikalą.	
+1445	Vokietijos Demokratinės Respublikos interesas štai koks.	
+1446	Turėti lygiaverčius ryšius su kita suverenia šalimi - Jungtinėmis Valstijomis.	
+1447	Lygiaverčius.	
+1448	O jūs mus laikote Tarybų Socialistinių Respublikų Sąjungos marionetėmis.	
+1449	Vadinkime juos tiesiog rusais?	
+1450	Bus trumpiau.	
+1451	Aš skubu į susitikimą, pone.	
+1452	Jūs veltui švaistote laiką.	
+1453	Pasakykite, ar būsiu neteisus.	
+1454	Pas jus universiteto studentas, jaunuolis, kaip jūs puikiai žinote, nėra šnipas, tad nepavojingas.	
+1455	Tačiau, mainydami nereikšmingą asmenį, norite kalbėti tokiomis pat teisėmis, kaip rusai ir amerikiečiai.	
+1456	Ši operacija tarp mūsų ir jūsų dviejų šalių yra viena.	
+1457	Mes čia ne dvi operacijas vykdome.	
+1458	Tik vieną.	
+1459	Vieną, vieną, vieną.	
+1460	Nematau, kur Rytų Vokietijos demokratų respublika čia paniekinta?	
+1461	Jūs sutarėte su sovietais nepasitaręs su manimi.	
+1462	Tai derybos ar sąmokslas?	
+1463	Sąmokslo atveju jums turi būti padaryta žala.	
+1464	Jūs čia tik laimite.	
+1465	Mūsų visų interesai sutampa.	
+1466	Ne, tai jūs manote, kad sutampa.	
+1467	Kur vyks šis jūsų susitikimas?	
+1468	Vakaruose.	
+1469	Ku'damme.	
+1470	Puiku.	
+1471	Apsidairykite.	
+1472	Kaip rytinė dalis jums atrodo palyginus su vakarine?	
+1473	[NO TRANSLATION]	missing translation
+1474	Mūsų draugai rusai nusprendė, kad mums nereikia atstatyti savo sostinės.	
+1475	Tenka gyventi griuvėsiuose, kurie yra tų pačių draugų rusų darbas.	
+1476	Eikite ir tarkitės su tais rusais.	
+1477	Mes čia nedalyvausime.	
+1478	Be Praerio jokio susitarimo nebus.	
+1479	Mes čia jo nepaliksime.	
+1480	Ar tai jūsų pozicija, ar jūsų vyriausybės?	
+1481	Pone, aš esu čia.	
+1482	Kalbu su jumis.	
+1483	Bet jūs - ne jūsų vyriausybės atstovas.	
+1484	Jūs nežinote, kas jūs toks.	
+1485	Mes irgi.	
+1486	Būkite atsargus.	
+1487	Čia jums ne Bruklinas, pone Donovanai.	
+1488	Klausykite, pone.	
+1489	Turite žinoti, kad visais svarbiais aspektais aš atstovauju savo vyriausybei.	
+1490	Jūs žinote, kas aš toks.	
+1491	Tikrai?	
+1492	[NO TRANSLATION]	missing translation
+1493	Turite tinkamus dokumentus?	
+1494	Žinoma, ne.	
+1495	Tai nesvarbu.	
+1496	Amerikietis advokatas kaip jūs liežuviu išsisuks iš bet kokios situacijos,	
+1497	tiesa?	
+1498	Eikite su juo.	
+1499	Kodėl?	
+1500	Problema dėl paso.	
+1501	[NO TRANSLATION]	missing translation
+1502	Kokia problema?	
+1503	[NO TRANSLATION]	missing translation
+1504	Eikite su juo.	
+1505	Ir atminkite, Frederiko Praerio likimas mūsų rankose.	
+1506	Dieve mano!	
+1507	Pradžiai prašyčiau kavos.	
+1508	Atneškite Hiltono rinkinį ir amerikietiškus pusryčius.	
+1509	Ir kavos.	
+1510	Abejus pusryčius?	
+1511	Taip, taip.	
+1512	Pirma vienus ar...	
+1513	Abejus iš karto.	
+1514	Kai tik bus paruošti.	
+1515	Ir kavos.	
+1516	[NO TRANSLATION]	missing translation
+1517	Jums nederėtų čia būti.	
+1518	Kartais Vokietijoje imi ir užsimanai sočių amerikietiškų pusryčių.	
+1519	Kas nutiko?	
+1520	Kur buvote šiąnakt?	
+1521	Vogelis surengė man ekskursiją po Rytus.	
+1522	Jėzau.	
+1523	Jei atvirai, ne taip jau blogai palyginus su ta vieta, kur mane apgyvendinote Vakaruose.	
+1524	Rusai sutinka keistis, bet Vogelis dabar sako, kad Rytų Vokietija nesikeis.	
+1525	Praerio mes negausime.	
+1526	Puiku, gerai.	
+1527	Su sovietais susitarta.	
+1528	Gausime Pauersą.	
+1529	Mes gausime Pauersą.	
+1530	Puikiai padirbėta.	
+1531	Ne, Rytų vokiečiai atsisako.	
+1532	Praerio negausime, o tas jaunuolis svarbus.	
+1533	Svarbus kiekvienas žmogus.	
+1534	Žinoma, todėl jūs ir stengėtės.	
+1535	[NO TRANSLATION]	missing translation
+1536	Abelis keliauja čia, taigi ryt ryte būsime pasirengę.	
+1537	Minutėlę.	
+1538	Taip tik paprasčiau.	
+1539	Taip tik paprasčiau.	
+1540	Mes negausime jaunuolio.	
+1541	Taip, supratau.	
+1542	Mums pakaks.	
+1543	Galime nekreipti dėmesio į žinutę, gautą šįryt.	
+1544	Kokią žinutę?	
+1545	Iš Rytų vokiečių.	
+1546	Jie skambino numeriu, kurį jums daviau.	
+1547	Sakė, kad nori kalbėti su jumis.	
+1548	Skambino Vogelis?	
+1549	Ne.	
+1550	Skambino iš Haraldo Oto, Rytų Vokietijos generalinio prokuroro, kabineto.	
+1551	Ko norėjo?	
+1552	Ko jis nori?	
+1553	Kalbėti su jumis.	
+1554	Bet nieko tokio, negaliu prašyti jūsų ten grįžti.	
+1555	Jūs kai kam tapote persona non grata, todėl neerzinkime likimo.	
+1556	Jis nori su manimi susitikti.	
+1557	Kada?	
+1558	O ne, ne.	
+1559	Klausykite.	
+1560	Jums neverta ten vykti.	
+1561	Tiksliau, nereikia.	
+1562	Tiksliau, negalima.	
+1563	Su sovietais susitarta.	
+1564	Nereikia nieko gadinti.	
+1565	Aš nieko negadinsiu.	
+1566	Jūs ten nevyksite!	
+1567	Nebūkite rakštis subinėj.	
+1568	Aš užsakiau.	
+1569	Pasimėgaukite sočiais amerikietiškais pusryčiais.	
+1570	Pamaniau, kad derybos turi vykti aukščiausiu lygiu, iš pagarbos jums.	
+1571	Dėkoju, pone.	
+1572	Nesuprantu, kodėl viskas taip susipainiojo.	
+1573	Kartais taip jau nutinka.	
+1574	Aiškumo dėlei pasakysiu, kad mes visiškai pasirengę iškeisti taip vadinamą studentą Praerį į Rudolfą Abelį.	
+1575	Iš pono Vogelio supratau, kad Praeris jums labai svarbus.	
+1576	Taip, bet...	
+1577	Mes būtinai surašysime memorandumą.	
+1578	Memorandumą.	
+1579	Mes, žinoma, palaikome dvipusius mainus.	
+1580	Taip, žinoma.	
+1581	Nors nesuprantu, ką tai reiškia, bet...	
+1582	Mano šalis reikalauja ir Fransio Gario Pauerso.	
+1583	Ne!	
+1584	Štai kaip viskas susipainiojo.	
+1585	Pauersas.	
+1586	Kokia iš jo nauda, pone?	
+1587	Norite jį nubausti?	
+1588	Kas padaryta, padaryta.	
+1589	Jis atskleis tai, ką turi, kaip, neabejoju, padarė ir Abelis.	
+1590	Vietoj jo mes siūlome tą, kurį laikote nekaltu.	
+1591	Ir tai teisinga.	
+1592	Štai ką turite atsiimti.	
+1593	Ateitį.	
+1594	Žvelkite į ateitį.	
+1595	Otas.	
+1596	Otas.	
+1597	Atleiskite,	
+1598	ar negalėtumėte minutėlę palaukti, pone?	
+1599	Labai atsiprašau, pone.	
+1600	Generalinis prokuroras atsiprašo, nes jam teko skubiai išvykti.	
+1601	Jis išvyko?	
+1602	Taip.	
+1603	Labai atsiprašome.	
+1604	Laukiau daugiau nei valandą.	
+1605	Labai apgailestauju, pone.	
+1606	Jaunuoli!	
+1607	Ateikite šen.	
+1608	Viskas gerai,	
+1609	prieikite.	
+1610	[NO TRANSLATION]	missing translation
+1611	Sėskitės.	
+1612	Nagi,	
+1613	sėskite.	
+1614	Ar jums patinka čia dirbti?	
+1615	Mano darbas labai geras, pone.	
+1616	Tai jau tikrai.	
+1617	Ir įdomus.	
+1618	Taip, pone.	
+1619	Taip pat svarbus.	
+1620	Ir angliškai kalbate puikiai.	
+1621	Taip, nesiryžtu teigti, jog kalbu puikiai,	
+1622	bet kalbu puikiai.	
+1623	Puiku, puiku.	
+1624	[NO TRANSLATION]	missing translation
+1625	Supranti, išvyko mano derybų partneris, todėl man reikia su kažkuo pasikalbėti, o tu, regis, protingas jaunuolis.	
+1626	Ar galiu kalbėti su tavimi?	
+1627	[NO TRANSLATION]	missing translation
+1628	Viskas gerai.	
+1629	Viskas gerai.	
+1630	[NO TRANSLATION]	missing translation
+1631	Perduok savo bosui nuo manęs žinią.	
+1632	Bet perduok labai, labai tiksliai.	
+1633	Supranti?	
+1634	Taip, pone.	
+1635	Tačiau gal palauktumėte...	
+1636	Ne.	
+1637	Man sloga ir aš noriu namo, į savo lovą.	
+1638	Gali perduoti jam mano žinią?	
+1639	Žinoma.	
+1640	Pasakyk jam štai ką.	
+1641	Abelio nebus, jei nebus Pauerso ir Praerio.	
+1642	Supratai?	
+1643	Taip, pone.	
+1644	Susitikimas turi įvykti ryt iš ryto.	
+1645	Jis neįvyks, jei nebus šių dviejų vyrų.	
+1646	Jie turi būti du.	
+1647	Du, du, du.	
+1648	Taip, pone.	
+1649	Jei sandoris neįvyks, tavo bosui teks apie tai pranešti sovietams.	
+1650	Jam teks pasakyti sovietams, kad jie negaus Rudolfo Abelio.	
+1651	Taip, pone.	
+1652	Pasakyk jam dar štai ką.	
+1653	Kol kas Abelis elgėsi kaip geras karys, bet jis tikisi netrukus atsidurti namie.	
+1654	Jei mums teks jam pasakyti, kad namo jis negrįš, kad sovietams jis nereikalingas ir kad jis niekada negrįš namo...	
+1655	Įsivaizduok, kaip jo elgesys gali pasikeisti.	
+1656	O kas dėl to bus apkaltintas?	
+1657	Ilgoka žinia.	
+1658	Viską įsiminei?	
+1659	Taip, pone.	
+1660	Viską.	
+1661	Puiku.	
+1662	Tu - geras žmogus.	
+1663	[NO TRANSLATION]	missing translation
+1664	Perduok dar štai ką: jei mums nebus pranešta iki šios darbo dienos pabaigos, susitarimas atšaukiamas.	
+1665	Jis turi numerį.	
+1666	Jei mainų nebus, neverta visiems keltis anksti iš ryto.	
+1667	Taip, pone, būtų beprasmiška.	
+1668	Jūs juokaujate!	
+1669	Jūs juokaujate!	
+1670	Ne.	
+1671	Man reikia smulkių.	
+1672	Būtent šito jums nederėjo daryti.	
+1673	Man buvo nurodyta elgtis pagal situaciją.	
+1674	Jums buvo nurodyta išsiderėti Pauersą, ne Praerį.	
+1675	Pradinis susitarimas buvo kitoks.	
+1676	Jūs viską sugadinote!	
+1677	Iš kur jūs žinote?	
+1678	Man atrodo, kad viskas gerai.	
+1679	Jūs viską sušikote!	
+1680	Nesijaudinkite.	
+1681	Manau, viskas bus gerai.	
+1682	Kodėl taip manote?	
+1683	Juk nežinote.	
+1684	Prašyčiau Jungtines Valstijas.	
+1685	Niujorką.	
+1686	Danke.	
+1687	Mano vaidmuo buvo perkąsti juos.	
+1688	Suprasti, ar verta mainyti vieną į kitą ir kurį?	
+1689	Bet aš pasakiau: Ne, du už vieną.	
+1690	Taigi, jie žino mūsų poziciją.	
+1691	Kas, jei jie pagalvos ir tars:	
+1692	Pamirškite!	
+1693	Tegu mūsų žmogus lieka pas jus, o jūsų žmonės - pas mus.	
+1694	Tuomet aš viską sušikau.	
+1695	Labas, brangioji!	
+1696	Čia aš.	
+1697	Taip.	
+1698	Žvejyba sekasi puikiai.	
+1699	Aš Londone... Dar vienas susitikimas ir namo.	
+1700	Taip, prisimenu tą džemą.	
+1701	Parduotuvė prie Ridžento parko.	
+1702	Gerai, jei turėsiu laiko.	
+1703	Galiu pasisveikinti su Rodžeriu?	
+1704	Galiu pasisveikinti su mergaitėmis?	
+1705	Ar yra kas neužsiėmęs?	
+1706	Ar jie bent pastebėjo, kad manęs nėra namie?	
+1707	Sutarta.	
+1708	Du už vieną.	
+1709	Tai šelmis.	
+1710	Išgerkime.	
+1711	Tik vienas bet.	
+1712	Kas?	
+1713	Praerio kartu su Pauersu ant tilto nepaleis.	
+1714	Praerį paleis tuo pat metu.	
+1715	Kai rusai perduos mums Pauersą ant tilto, Praerį paleis Čarlio kontrolės punkte.	
+1716	Ką tai reiškia?	
+1717	Manau, tai reiškia: Mūsų žodis vis tiek bus paskutinis.	
+1718	Bet jie tai padarys.	
+1719	Tai jūs man pasakykite.	
+1720	Jūs juos perkandote.	
+1721	Kur jie?	
+1722	Kur mūsų žmogus?	
+1723	Kur mūsų žmogus?	
+1724	Jie vėluoja.	
+1725	Niekas nevėluoja.	
+1726	Mes atvykom anksti.	
+1727	Galima?	
+1728	Taip.	
+1729	Hofmanai!	
+1730	Ką?	
+1731	Manau, jie išstatė...	
+1732	Ką?	
+1733	snaiperius.	
+1734	Neabejoju.	
+1735	Kodėl neabejoji?	
+1736	Nes mes irgi išstatėme snaiperius.	
+1737	Išlipkite, pone.	
+1738	Džimai!	
+1739	Brangus Džimai.	
+1740	Kaip jūs?	
+1741	Laimingas jus matydamas.	
+1742	Ar visa tai jūs surengėte dėl manęs?	
+1743	Pirma pažiūrėkime, ką surengiau, o paskui priimsiu pagyras.	
+1744	Kas girdėt apie Praerį iš Čarlio kontrolės punkto?	
+1745	Kol kas nieko.	
+1746	Atleiskite, pone.	
+1747	Leitenantas Džo Merfis iš JAV oro pajėgų atpažins Pauersą.	
+1748	Leitenante Merfi.	
+1749	Pone.	
+1750	Gali kilti sunkumų.	
+1751	Išvykau būdamas jaunas.	
+1752	Kas atpažins mane?	
+1753	Tikiuosi, ne jūsų Rytų Vokietijos šeima.	
+1754	Abejoju, ar jie pažintų vienas kitą.	
+1755	Atrodo, atvyksta.	
+1756	Eime.	
+1757	Likite čia, Donovanai.	
+1758	Nė nemanau.	
+1759	Atidarykite vartus.	
+1760	Kaip manote, kas bus, kai grįšite namo?	
+1761	Manau...	
+1762	Išgersiu degtinės.	
+1763	Taip.	
+1764	Taip.	
+1765	Bet, Rudolfai, negi negali būti taip...	
+1766	Kad mano tautiečiai mane sušaudys?	
+1767	Taip.	
+1768	Negi nebijote?	
+1769	Ar padėtų?	
+1770	Atsakydamas į jūsų klausimą, mano drauge... Aš elgiausi garbingai.	
+1771	Manau, jie tai žino.	
+1772	Tačiau kartais žmonės klysta.	
+1773	Žmonės yra žmonės.	
+1774	Pažiūrėsime, kaip jie mane pasitiks.	
+1775	Ko man laukti?	
+1776	Arba mane apkabins, arba įgrūs į mašiną ant galinės sėdynės.	
+1777	[NO TRANSLATION]	missing translation
+1778	Nusiimkite skrybėlę.	
+1779	Sveikas, Pauersai.	
+1780	Sveikas, Merfi.	
+1781	Taip, čia Pauersas.	
+1782	Na, pone Donovanai,	
+1783	tegu eina.	
+1784	Palaukite.	
+1785	Patikėkite, aš pasakyčiau.	
+1786	Čia nieko nėra.	
+1787	Čarlio punkte jie turi paleisti dar vieną žmogų.	
+1788	Turime įsitikinti, ar jis ten.	
+1789	Dabar!	
+1790	Pagal planą, kaip tarėmės.	
+1791	Eime.	
+1792	Praeris arba pasirodys, arba ne.	
+1793	Eime.	
+1794	Jie nori pažiūrėti, ar mes sutiksime likti be jo.	
+1795	Turime tiesiog likti čia rodydami, kad nesutinkame.	
+1796	Man nerūpi, ko jie nori.	
+1797	Savo tikslą mes pasiekėme.	
+1798	Eikite, Abeli.	
+1799	Eikite, pone.	
+1800	Jūs galite eiti.	
+1801	Jei nesilaikote plano, mes važiuojam namo.	
+1802	Arba keičiamės dabar, arba važiuojam namo!	
+1803	Laukiate dar vieno žmogaus?	
+1804	Taip.	
+1805	Jums jo reikia.	
+1806	Man jo reikia.	
+1807	Nesvarbu, ko jam reikia, pone.	
+1808	Čia vadovauju aš, ir jūs galite eiti.	
+1809	Prašau eiti.	
+1810	Eikite.	
+1811	Aš galiu palaukti.	
+1812	Kažkas pasirodė.	
+1813	Dar nesu tikras.	
+1814	Palaukite!	
+1815	[NO TRANSLATION]	missing translation
+1816	Jis čia!	
+1817	[NO TRANSLATION]	missing translation
+1818	Išsiunčiau jums dovaną, Džimai.	
+1819	[NO TRANSLATION]	missing translation
+1820	Paveikslą.	
+1821	Tikiuosi, jis pasirodys jums prasmingas.	
+1822	Atleiskite,	
+1823	apie dovaną jums aš nepagalvojau.	
+1824	Štai jūsų dovana.	
+1825	Štai jūsų dovana.	
+1826	[NO TRANSLATION]	missing translation
+1827	Eime, eime, eime!	
+1828	Pone Donovanai,	
+1829	pulkininkas Abelis prašė tai perduoti jums.	
+1830	Atleiskite, pone.	
+1831	Ar jūs vadovavote šiam reikalui?	
+1832	Taip.	
+1833	Turiu jums padėkoti.	
+1834	Turiu kažkam dėkoti.	
+1835	Aš jiems nieko nepasakiau.	
+1836	Aš jiems nieko nepasakiau.	
+1837	Tai nesvarbu.	
+1838	Nesvarbu, ką manys žmonės.	
+1839	Svarbiausia, kad pats žinai, ką padarei.	
+1840	Sveikas sugrįžęs namo.	
+1841	Na ir kelionė.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Tu sveikas?	
+1845	Taip, man viskas gerai.	
+1846	Nupirkai džemo?	
+1847	Taip, taip.	
+1848	Taip.	
+1849	Taip.	
+1850	Nupirkau.	
+1851	Kaip liepta.	
+1852	Džimai!	
+1853	Pirkai Arnos parduotuvėje.	
+1854	Ir kas?	
+1855	Čia, už kampo!	
+1856	Brangioji, neturėjau laiko.	
+1857	Atleisk man.	
+1858	[NO TRANSLATION]	missing translation
+1859	Na jau žinai...	
+1860	Kaip Rodžeris?	
+1861	Jis namie?	
+1862	Jis namie.	
+1863	Kerol namie, Pegė namie.	
+1864	Visi namie.	
+1865	Mama!	
+1866	Eikš greičiau!	
+1867	Žiūrėk!	
+1868	Mama, eikš!	
+1869	Mama, eikš!	
+1870	Pažiūrėk!	
+1871	Žiūrėk!	
+1872	[NO TRANSLATION]	missing translation
+1873	Greičiau!	
+1874	Ankstyvą šios dienos rytą Berlyne Fransis Garis Pauersas perduotas oficialiems Amerikos atstovams, išleidus jį iš Sovietų Sąjungos kalėjimo.	
+1875	Prezidentas pakeitė nuosprendį Rudolfui Abeliui.	
+1876	Ponas Abelis buvo deportuotas ir išleistas į laisvę Berlyne.	
+1877	Pastangos pasiekti pono Pauerso išlaisvinimą jau buvo kurį laiką taikomos.	
+1878	Pastaruoju metu JAV vyriausybei talkino ponas Džeimsas B. Donovanas, Niujorko advokatas.	
+1879	Frederikas L. Praeris, amerikietis studentas, sulaikytas Rytų Vokietijos valdžios organų 1961 metų rugpjūtį...	
+1880	Maniau, tėtis buvo išvykęs žvejoti.	
+1881	Lašišų.	
+1882	Abelis dingo komunistiniame pasaulyje.	
+1883	Pauersas čia, atsakinėja į klausimus.	
+1884	O Donovanas grįžo prie savo įprastinio teisininko darbo.	
+1885	Čia Džordžas Fenemanas kalba...	

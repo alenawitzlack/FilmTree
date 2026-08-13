@@ -1,0 +1,1885 @@
+1	Nästa station Broad Street.	
+2	Broad Street nästa.	
+3	Uppåt.	
+4	Den vägen.	
+5	Han kom inte upp här?	
+6	Ingenting?	
+7	[NO TRANSLATION]	missing translation
+8	Gå tillbaka ner.	
+9	Ursäkta.	
+10	Ursäkta.	
+11	Parkera runt hörnet.	
+12	Besökare.	
+13	Kan jag hämta mina tänder?	
+14	Överste, vill ni vända er om, tack?	
+15	Sitt ner på sängen.	
+16	[NO TRANSLATION]	missing translation
+17	[NO TRANSLATION]	missing translation
+18	Tänderna är inne på tvättstället.	
+19	Se på mig.	
+20	Vi är agenter från FBI.	
+21	Se på mig!	
+22	Jag talar med er.	
+23	Vi har mottagit information om er iblandning i spioneri.	
+24	Ni kan samarbeta med oss nu, eller bli arresterad.	
+25	Förstår ni, överste?	
+26	Nej, inte riktigt.	
+27	Varför kallar ni mig överste?	
+28	Ni måste klä på er.	
+29	Vi måste genomsöka lägenheten.	
+30	Kan jag få rengöra min palett?	
+31	Färgerna, den blir förstörd annars.	
+32	Den är bakom er där.	
+33	Jag har en trasa själv.	
+34	Tack.	
+35	Börja genomsöka stället.	
+36	Tack.	
+37	Sök i madrassen, sängen, golvbrädorna.	
+38	Kan ni lägga den i askkoppen på fönsterbrädan där?	
+39	Titta på skrivbordet.	
+40	[NO TRANSLATION]	missing translation
+41	Vill inte få den förstörd.	
+42	Säg inte, min kille.	
+43	Han är inte, min kille.	
+44	Ja, han är din kille.	
+45	Vem talar vi om?	
+46	Vi talar om en kille som var försäkrad genom min klient.	
+47	Så gör honom inte till min kille.	
+48	Visst, bra.	
+49	Jag menar att, killen försäkrad genom er klient, förnekar inte att någon av sakerna hänt.	
+50	[NO TRANSLATION]	missing translation
+51	Sakerna?	
+52	Ja, dessa fem saker.	
+53	Vänta lite.	
+54	Inte fem saker.	
+55	En sak.	
+56	Helt klart, fem saker.	
+57	Ledsen, det är inte klart för mig.	
+58	Fem saker,	
+59	förklara det?	
+60	Det bevisar sig själv.	
+61	Okej, berätta vad som hände.	
+62	Berätta på ett sätt som förklarar fem saker.	
+63	Visst, absolut.	
+64	Din kille...	
+65	Inte min kille.	
+66	Försäkrad...	
+67	Försäkrad genom er klient, kör nedför Highway 19 när han tappar kontrollen och kör på mina fem killar, som jag företräder för att ni inte betalar ut ersättning.	
+68	Ni menar min klient betalar inte ersättning, försäkringsbolaget?	
+69	Mr Donovan, vi vet alla vem som är vem.	
+70	Utom att min klient betalar ut alla ersättningar.	
+71	Det gör de, Mr. Bates.	
+72	Varje ersättning upp till vår gräns, som är 100000 dollar per olycka. Policyn som gäller detta fall.	
+73	Det är en ersättning.	
+74	Enligt er beskrivning, han kör på mina fem killar.	
+75	Killen försäkrad av min klient hade en olycka.	
+76	En, en, en.	
+77	Tappar kontrollen på bilen och kör på fem motorcyklister.	
+78	Från deras synvinkel hände fem saker.	
+79	Hör på, Bob.	
+80	Får jag?	
+81	Bob?	
+82	Jim.	
+83	Om jag bowlar och slår en strike, händer en sak.	
+84	Inte tio saker.	
+85	Jim, mina killar är inte käglor, även om er kille behandlat dem så.	
+86	[NO TRANSLATION]	missing translation
+87	Låt mig prata.	
+88	Låt mig prata.	
+89	Om ert hus är försäkrat för 100000 dollar och en tornado blåser bort det. Så blåste den bort ett hus.	
+90	Den plockade inte upp varje möbel och förstörde dem en och en.	
+91	Om det är vad ni säger, i så fall finns det aldrig någon gräns för vårt ansvar och det är slutet för försäkringsbranschen.	
+92	Då, Bob, är ingen skyddad.	
+93	Watters, Cowan och Donovan.	
+94	Hur kan jag hjälpa er?	
+95	God morgon, mr Donovan.	
+96	God morgon, Alison.	
+97	Jag flyttade mötet 9.00 med Prudential.	
+98	Varför gjorde ni det?	
+99	Jag bad henne.	
+100	Är allt bra, Tom?	
+101	Lämna dina saker hos Alison.	
+102	Kom med in.	
+103	Något viktigt har dykt upp.	
+104	Någon vill träffa oss.	
+105	Natalie hämtar ert kaffe.	
+106	Nescafé, grädde, två bitar?	
+107	Det stämmer.	
+108	[NO TRANSLATION]	missing translation
+109	Lynn!	
+110	Jim!	
+111	Trevligt att ses igen.	
+112	Hur mår familjen?	
+113	Bra,	
+114	tack.	
+115	Hur mår Annie?	
+116	Mordisk.	
+117	Svärföräldrarna kommer på semestern.	
+118	Hon kan få ett bra försvar.	
+119	Vad har hänt?	
+120	Okej, här är saken.	
+121	Den sovjetiska spionen, vi vill att du försvarar honom.	
+122	Här är åtalsakten.	
+123	[NO TRANSLATION]	missing translation
+124	Jag vet inte om jag vill ta upp den.	
+125	Den anklagade känner inga advokater.	
+126	Domstolen slängde det till oss.	
+127	Advokatsamfundet röstade.	
+128	Du är det enhälliga valet.	
+129	[NO TRANSLATION]	missing translation
+130	Det är viktigt oss och landet, Jim, att mannen behandlas rättvist.	
+131	Amerikanska rättsväsendet sätts på prov.	
+132	När du säger det så är det en ära att bli tillfrågad.	
+133	Men, jag är försäkringsjurist.	
+134	Brott var åratal sen.	
+135	Det är som att cykla, eller hur?	
+136	Du utmärkte dig vid NÃ¼rnberg.	
+137	Jag var på åklagarsidan.	
+138	Det hör inte hit.	
+139	Du är inte främmande för straffrätt.	
+140	Jim, se på situationen.	
+141	Mannen är allmänt avskydd.	
+142	Det blir jag med.	
+143	Ja, bland obildade grupper.	
+144	Men det är just därför det måste göras, och göras begåvat.	
+145	Det får inte se ut som vårt rättsväsende kastar folk i askan.	
+146	Om jag gör det, hur ser bevisningen ut?	
+147	Ganska övertygande.	
+148	Toppen,	
+149	toppen.	
+150	Alla kommer att hata mig, men åtminstone förlorar jag.	
+151	Nå, vad tror du, Tom?	
+152	Firman får lida om jag jobbar här.	
+153	Firman får lida om jag jobbar här.	
+154	Jag tycker det är en patriotisk plikt.	
+155	Ett viktigt uppdrag.	
+156	Jag sa till Lynn, att firman inte kan säga nej. Du har också svårt att säga nej.	
+157	Jag tror du måste försvara den jäveln.	
+158	Så, du gör det?	
+159	Gör vad?	
+160	Försvarar Abel, sovjetiska spionen.	
+161	Kanske.	
+162	[NO TRANSLATION]	missing translation
+163	Hur vet du?	
+164	Satte de upp det på anslagstavlan?	
+165	Nej,	
+166	jag talade med Richard Earl.	
+167	Om jag gör det, behöver jag din hjälp.	
+168	Kan du arbeta i natt?	
+169	Jag har en middagsdejt, sir.	
+170	Det är väl tisdag?	
+171	Ja, nej, jag är fri, helt fri.	
+172	Tack, sir.	
+173	Men det är också en ära.	
+174	Advokatsamfundet bad mig för att visa att även en spion får en begåvad advokat.	
+175	Kanske en ära vi kan klara oss utan.	
+176	Vad gör du hemma?	
+177	Träffen dök inte upp.	
+178	Så föraktfullt.	
+179	Vem är dumskallen?	
+180	Det säger jag helst inte.	
+181	Sitt ner,	
+182	vi har nyss börjat.	
+183	Folk är rädda.	
+184	De bygger skyddsrum för att skydda sig mot folk som den mannen.	
+185	I affären köper folk burkmat och kaliumtabletter.	
+186	Allt handlar om den mannen och vad han står för.	
+187	Ett hot mot oss alla.	
+188	En förrädare.	
+189	[NO TRANSLATION]	missing translation
+190	Rosenbergs var förrädare.	
+191	Vilka var det?	
+192	De gav atomhemligheter till ryssarna.	
+193	De var amerikaner.	
+194	De svek sitt land.	
+195	Anklaga inte Abel som förrädare.	
+196	Han är inte amerikan.	
+197	Hör på dig själv.	
+198	Du försvarar honom redan.	
+199	Du övar mot mig.	
+200	Du skulle bara fundera på det.	
+201	Jag funderar bara på det, fast väldigt mycket.	
+202	Alla har rätt till försvar.	
+203	Alla betyder något.	
+204	Jim, vad förtjänar vi?	
+205	Vet du hur folk kommer att se oss?	
+206	Familjen som vill fria en förrädare?	
+207	Han är inte förrädare, Mary.	
+208	[NO TRANSLATION]	missing translation
+209	Roger, ta det!	
+210	[NO TRANSLATION]	missing translation
+211	Varför gör jag allt?	
+212	[NO TRANSLATION]	missing translation
+213	Vänta till bönen.	
+214	[NO TRANSLATION]	missing translation
+215	Han är mest avskydd i landet och du vill ta andra plats!	
+216	Ja, jag är den tredje.	
+217	Carol, du bara dejtade fel kille.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, gräla inte när vi inte har ett gräl.	
+220	Du är emot honom, jag för?	
+221	Nej, jag vill inte att ryssarna spionerar på oss.	
+222	Nej, jag vill inte att ryssarna spionerar på oss.	
+223	Jag är för rätten att ha försvar i en rättssal, därför heter det rättssal.	
+224	Jag ville inte störa middagen.	
+225	[NO TRANSLATION]	missing translation
+226	Hej, Doug.	
+227	Nej, inte alls.	
+228	[NO TRANSLATION]	missing translation
+229	Jim bara viftar.	
+230	Jag viftar inte.	
+231	Doug, ät middag med oss.	
+232	Vi har köttfärslimpa.	
+233	Kom du för att hjälpa Jim om han skall ta fallet?	
+234	Vi tar det!	
+235	Visst är det spännande?	
+236	Herre, vi tackar för välsignelse vi får,	
+237	givmilt av Kristus vår herre.	
+238	Amen.	
+239	God morgon, sir.	
+240	Jag heter Jim Donovan.	
+241	Detta är mina referenser.	
+242	Delägare i Watters, Cowan och Donovan.	
+243	Antagen till advokatsamfundet, 1941.	
+244	Ni har blivit åtalad på tre punkter och 19 uppenbara gärningar.	
+245	Konspiration att överföra USA: s försvars och atomhemligheter till Sovjet. Konspiration att samla hemligheter och att inte registrera sig som spion.	
+246	Registrerar sig många utländska spioner?	
+247	Om det inte gör nåt om jag frågar, sir. Sedan er arrestering, var har ni varit?	
+248	Jag kan inte säga säkert.	
+249	Ni vet inte?	
+250	De körde mig till en flygplats och satte mig på ett plan, tog mig av planet.	
+251	Någonstans varmt.	
+252	Det är varmt här.	
+253	Varmare, mycket fuktigt.	
+254	De satte mig i ett rum.	
+255	Blev du slagen?	
+256	Nej.	
+257	De talade med mig.	
+258	Erbjudanden gjordes.	
+259	Vad menar du?	
+260	Anställningserbjudanden, att arbeta för er regering.	
+261	De sa om jag samarbetade, skulle inga fler anklagelser riktas mot mig.	
+262	Och jag skulle få pengar.	
+263	[NO TRANSLATION]	missing translation
+264	Och ni avböjde?	
+265	Som ni ser.	
+266	Självklart, kan jag inte erbjuda det.	
+267	Jag känner min plikt att anmoda er att samarbeta med regeringen.	
+268	Men, jag sa nej.	
+269	Kanske ni kan höra med era vänner vid CIA att jag menade det.	
+270	Nej, nej.	
+271	[NO TRANSLATION]	missing translation
+272	Jag jobbar inte för CIA.	
+273	Jag jobbar inte för regeringen.	
+274	Jag är här för att erbjuda mina tjänster som ert ombud.	
+275	Om ni accepterar dem som det, arbetar jag för er.	
+276	Om jag accepterar er?	
+277	Är ni bra på det ni gör?	
+278	Ja.	
+279	Jag är ganska bra.	
+280	Har ni representerat många anklagade spioner?	
+281	Nej, inte än.	
+282	Detta blir den första för oss båda.	
+283	Ja.	
+284	Ja, visst.	
+285	Ja, visst?	
+286	Ni accepterar?	
+287	Ja, visst.	
+288	Bra, okej.	
+289	Vi börjar,	
+290	är ni fast i ert beslut att inte samarbeta med regeringen.	
+291	Ja.	
+292	Ja.	
+293	Tala inte med nån om ert fall. Inom eller utanför regeringen.	
+294	Utom med mig, i den grad du litar på mig.	
+295	Min uppgift är att tjäna dig.	
+296	[NO TRANSLATION]	missing translation
+297	Faktiskt vill alla andra skicka dig till elektriska stolen.	
+298	Okej.	
+299	Du verkar inte oroad.	
+300	Skulle det hjälpa?	
+301	[NO TRANSLATION]	missing translation
+302	Jag vill ha material att rita med.	
+303	Det är omöjligt.	
+304	En penna, en bit papper.	
+305	Cigaretter.	
+306	Snälla?	
+307	Mr Donovan, ni har män som mig som gör det samma för ert land.	
+308	Om de blev tagna, är jag säker på att ni önskade att de behandlades väl.	
+309	Vad heter ni?	
+310	Francis Gary Powers.	
+311	Rang, tjänst?	
+312	Löjtnant, United States Air Force.	
+313	Har ni något samröre med Sovjetunionen, löjtnant Powers?	
+314	Skämtar ni?	
+315	Svara bara på frågan,	
+316	ja, nej eller så enkelt ni kan.	
+317	Har ni något samröre med Sovjetunionen?	
+318	Nej, för helvete.	
+319	Vet ni varför ni är här?	
+320	[NO TRANSLATION]	missing translation
+321	Är det ett nej?	
+322	Ja,	
+323	jag menar...	
+324	Nej, bara nej.	
+325	Ja, jag har absolut ingen aning varför.	
+326	Se framåt, löjtnant.	
+327	Ja, sir.	
+328	Hur gick det där inne, Gary?	
+329	Ganska bra.	
+330	Jag tror jag fick mitt namn rätt.	
+331	Då utklassade du nog Shinn.	
+332	Vem vinner?	
+333	Det blir jag.	
+334	[NO TRANSLATION]	missing translation
+335	Låt mig hoppa in.	
+336	Så, alla är mina, då.	
+337	Jag sa att ni inte skulle spela med honom.	
+338	Okej, grabbar, det här gäller.	
+339	Ni är utvalda för ett uppdrag som ni inte får diskutera med någon utanför detta rum.	
+340	Ingen.	
+341	Oavsett vem ni litar på.	
+342	Fru, mor, flickvän,	
+343	gud, när ni ber er kvällsbön.	
+344	Ni berättar inte för nån, något av det jag skall säga.	
+345	Var och en av er har visat givna kvalifikationer.	
+346	Höga säkerhetsnivåer.	
+347	Utomordentliga pilotbetyg utöver erfordrade flygtimmar i ensitsiga flygplan.	
+348	Vi är inbegripna i ett krig.	
+349	Kriget i nuläget involverar inte män med vapen.	
+350	Det involverar information.	
+351	Ni skall samla information.	
+352	Ni skall samla underrättelser om fienden.	
+353	Underrättelser ni samlar kan ge oss en fördel i ett fullskaligt termonukleärt utbyte med Sovjetunionen.	
+354	Eller det kan förhindra ett.	
+355	För allmänhetens vetskap, för er far, fru, mor eller flickvän, eller gud i himmelen, existerar inte ert uppdrag.	
+356	Om det inte existerar, existerar inte ni.	
+357	Ni får inte bli nedskjutna.	
+358	Ni får inte infångas.	
+359	Ni arbetar för CIA nu.	
+360	Jim, jag hörde att er kille talar med ett skumt uttal.	
+361	Gör han det hela tiden?	
+362	Jag är ganska säker på att det är så han talar.	
+363	Han har ryskt namn men brittiskt pass.	
+364	Jag tvivlar på att det är äkta.	
+365	So, Jim, var är vi?	
+366	[NO TRANSLATION]	missing translation
+367	Jo, domare, ni förstår, jag tror bara att tre veckor inte räcker här.	
+368	[NO TRANSLATION]	missing translation
+369	Vi har en enorm mängd bevis.	
+370	Ni vill framflytta?	
+371	Sex veckor.	
+372	Det är bara jag och min kollega.	
+373	Jim, är detta alvar?	
+374	Sir?	
+375	Är det på alvar?	
+376	Ja, absolut.	
+377	Ja, absolut.	
+378	Ni kan se i registreringen.	
+379	Jim, mannen är en sovjetisk spion.	
+380	Åberopande.	
+381	Kom igen, ombudet!	
+382	Herr domare.	
+383	Givetvis, hedrar jag er.	
+384	Vi hedrar er alla för att ta ett otacksamt fall.	
+385	Mannen måste få en rättslig process,	
+386	men låt oss inte lura varandra.	
+387	Han får ett dugligt försvar.	
+388	Med guds vilja blir han dömd.	
+389	Kom igen, ombudet.	
+390	Spela inga spel med det här.	
+391	Inte i min rättssal.	
+392	Vi har ett datum, och vi får en rättegång.	
+393	Taxi!	
+394	Taxi!	
+395	Jag ser att lampan är tänd!	
+396	Skitstövel.	
+397	Jag vill tillbaka till Manhattan.	
+398	Hans lampa var väl på?	
+399	Skitstövel.	
+400	[NO TRANSLATION]	missing translation
+401	[NO TRANSLATION]	missing translation
+402	[NO TRANSLATION]	missing translation
+403	[NO TRANSLATION]	missing translation
+404	[NO TRANSLATION]	missing translation
+405	[NO TRANSLATION]	missing translation
+406	Mr Donovan.	
+407	Vad?	
+408	Vad?	
+409	CIA.	
+410	Ja.	
+411	Jag ville bara prata.	
+412	Hur går fallet?	
+413	Fallet går bra.	
+414	Kunde inte vara bättre.	
+415	[NO TRANSLATION]	missing translation
+416	Har er kille talat?	
+417	Ursäkta mig?	
+418	Ni träffade honom.	
+419	Talade han?	
+420	Har han sagt nåt än?	
+421	Vi har inte det här samtalet.	
+422	Nej, självklart inte.	
+423	Jag menar att vi verkligen inte har det.	
+424	Ni ber mig att bryta tystnadsplikten.	
+425	Kom igen, ombudet.	
+426	Jag önskar ni slutade säga, kom igen, ombudet.	
+427	Jag gillade det inte första gången.	
+428	Domaren sa det två gånger.	
+429	Ju mer jag hör det, ju mer ogillar jag det.	
+430	Okej, jag fattar tystnadsplikten.	
+431	Jag fattar all rättslig psykning	
+432	och jag fattar att ni lever på det.	
+433	Men jag talar till er om något annat.	
+434	Ert lands säkerhet.	
+435	Jag är ledsen om mitt sätt förolämpat er.	
+436	Men vi måste veta vad Abel berättar för er,	
+437	förstår ni mig, Donovan?	
+438	Vi måste få veta.	
+439	Lek inte Bror Duktig med mig.	
+440	Det finns ingen regelbok här.	
+441	Ni är väl agent Hoffman?	
+442	Ja.	
+443	Tysk härkomst?	
+444	Ja, än sen?	
+445	Mitt namn är Donovan.	
+446	Irländskt.	
+447	Båda sidor, mor och far.	
+448	Jag är irländsk, ni är tysk.	
+449	Men vad gör oss båda till amerikaner?	
+450	Bara en sak.	
+451	En, en, en.	
+452	Regelboken.	
+453	Vi kallar den Konstitutionen. Och vi är överens om reglerna. Det gör oss till amerikaner.	
+454	Allt som gör oss till amerikaner. Så säg inte att det inte är en regelbok och nicka inte sådär åt mig, din jävel.	
+455	Måste vi oroa oss för er?	
+456	Inte om jag lämnas ifred att göra mitt jobb.	
+457	Från och med nu talar ni inte om U-2 som ett spion eller spaningsplan.	
+458	Ni talar om det som föremålet.	
+459	Föremålet har ett 80-fots vingspann.	
+460	Det drivs av en ensam Pratt & Whitney J57-P-37-motor.	
+461	10000 Ibf i drivkraft och en maxfart på 430 mph.	
+462	Hon kanske inte är snabb, men med kryssningshöjd på 70000 fot, kommer inget i närheten av er.	
+463	70000?	
+464	Meningen är att fienden inte ens vet att ni är där.	
+465	Den ser ganska bräcklig ut.	
+466	Varje extra pund i vikt kostar en fot i höjd, och vi måste härbärgera kamerorna.	
+467	Det är en 4500-millimeter lins, gånger tre.	
+468	En knivskarp panoramakamera, fyra gånger kraftigare än nån spaningskamera vi använt.	
+469	Ni kommer att ta bilder, massor med bilder.	
+470	Vid 70000 fot, kan föremålet fota 5000 kmÂ² i ett skift.	
+471	Nu förare, ge agent Sumner er odelade uppmärksamhet.	
+472	Sakerna ni behöver för era uppdrag finns här borta.	
+473	B- kamera, Revere 8 model 40 magasin, Keystone Capri K-25, silver.	
+474	Urholkad rakborste.	
+475	Kompletta chiffertabeller på ätbar silverfolie.	
+476	Specialist-fotoutrustning.	
+477	Ja,	
+478	vi förstår idén,	
+479	tack.	
+480	Ursäkta mig, agent, Bosco.	
+481	Blasco.	
+482	Sir.	
+483	Det verkar vara en underavdelning till listan här.	
+484	Det mesta här kom från hans studio resten är från hotellet han höll sig i.	
+485	Där vi hittade honom.	
+486	Hotellrummet ni genomsökte?	
+487	Ja.	
+488	Får jag se ordern?	
+489	Vadå?	
+490	Ja, förklara det för mig.	
+491	Det fanns en order.	
+492	Det fanns en order.	
+493	Det fanns en civil order för gripandet av en utlänning, men ingen husrannsakan för misstanke om brott.	
+494	Så, husrannsakan och bevisen från den är fördärvade och borde inte godkännas.	
+495	Viket skydd har han rätt till?	
+496	[NO TRANSLATION]	missing translation
+497	Vad är mannen?	
+498	Han är Rudolf Ivanovich Abel.	
+499	Han är en sovjetmedborgare.	
+500	Han är inte en amerikan.	
+501	1886, Yick Wo mot Hopkins.	
+502	Domstolen sa att utlänningar, då kinesiska invandrare, inte kan hållas ansvariga för brott utan laglig rätt, även för de som inrest i landet illegalt.	
+503	Justitiedepartementet har sin främsta lojalitet till USA.	
+504	Jag ser inte hur en utlänning, som är här illegalt, kan lida avsaknad av rättigheter.	
+505	Rättigheter för vad?	
+506	För en amerikan?	
+507	Rättigheter för vad, ombudet?	
+508	Vi slåss för civilisationen.	
+509	Denna ryska spion kom hit för att hota vårt levnadssätt.	
+510	Jag har en rättssal med folk som väntar.	
+511	Gå ut och sitt bredvid ryssen.	
+512	Låt oss få det här överstökat.	
+513	Och ert yrkande avslås.	
+514	Han borde försäkra sig.	
+515	Hur gick det för oss?	
+516	Där inne?	
+517	[NO TRANSLATION]	missing translation
+518	Inte så bra.	
+519	Du är tydligen inte amerikansk medborgare.	
+520	Det är sant.	
+521	Och enligt er chef är ni inte en sovjetmedborgare heller.	
+522	Ja, chefen har inte alltid rätt. Men han är alltid chefen.	
+523	Oroar ni er aldrig?	
+524	Skulle det hjälpa?	
+525	Res er upp.	
+526	Jag svär trohet till amerikas förenta staters flagga och till republiken som den står för, en odelbar nation under gud, med frihet och rättvisa åt alla.	
+527	Först, måste man veta vad som händer när en atombomb exploderar.	
+528	Det är en ljus blixt, ljusare än solen.	
+529	Den kan slå in byggnader, krossa fönster över hela stan.	
+530	Men om du duckar och tar skydd som Bert, blir du mycket säkrare.	
+531	Det finns två slags anfall, med varning utan någon varning.	
+532	[NO TRANSLATION]	missing translation
+533	Vad håller du på med?	
+534	Pappa, det här är jätteviktigt.	
+535	När kriget börjar, skär de först av allt vatten och all elektricitet.	
+536	Så vi bör ha denna fylld, använda duschen i ditt rum, använda handfatet nere, trädgårdshuset ute...	
+537	Det är bra idéer.	
+538	Men, Roger, jag tror inte det är något du någonsin behöver oroa dig för.	
+539	Ja, men när man hör sirenen, är det kanske inte nog tid att fylla badkaret och tvättställen.	
+540	Det blir inga sirener.	
+541	Vad är det här?	
+542	När bomben kommer, siktar de röda på Empire State Building.	
+543	Men bomben smäller 10000 fot upp.	
+544	I tidningen Life, kallas det luftbrisad och om bomben är 50 megaton, går tryckvågen ut och ut och ut och smälter allt härifrån till hit.	
+545	Medräknat där vi bor, här.	
+546	[NO TRANSLATION]	missing translation
+547	[NO TRANSLATION]	missing translation
+548	Men, vet du, Roger, ingen skall släppa en atombomb på oss.	
+549	Ryssarna vill det.	
+550	Vet du den ryske killen du försvarar?	
+551	Han skall ordna för de som släpper bomberna.	
+552	[NO TRANSLATION]	missing translation
+553	Nej, han är inte här för det.	
+554	Han är inte ens ryss.	
+555	Vi tror han föddes i norra England.	
+556	Men han är spion för Ryssland.	
+557	Jag förstår inte ens vad du gör.	
+558	Du är inte kommunist, så varför försvarar du en?	
+559	För att det är mitt jobb.	
+560	Det var det inte förr.	
+561	I fallet United States of Amerika mot Rudolf Abel, inför första punkten i åtalet, hur finner ni svaranden?	
+562	Skyldig eller inte skyldig?	
+563	Skyldig.	
+564	Och inför andra punkten?	
+565	Skyldig.	
+566	Och inför tredje punkten?	
+567	Skyldig.	
+568	Jag yrkar åsidosättande av dessa utslag mot vikten av bevis.	
+569	Avslås.	
+570	Juryn är entledigad,	
+571	tack.	
+572	Jag vill gärna tillägga att om jag var en av er skulle jag nått samma utslag.	
+573	Brottspåföljden meddelas... 15 november.	
+574	Dödsstraff är inte givet,	
+575	oroa er inte.	
+576	Jag är inte rädd att dö, mr Donovan.	
+577	Fast, det skulle inte vara mitt första val.	
+578	Ni lämnade kvar den här.	
+579	Tack.	
+580	Tack så hemskt mycket!	
+581	Ni frågade mig aldrig om anklagelserna var sanna.	
+582	Om jag verkligen är en spion.	
+583	Det är så här vi gör det.	
+584	Fallet mot er är av vikt.	
+585	Få dem att visa att det är av vikt.	
+586	Verkligheten är...	
+587	Om ni gjorde det eller inte saknar vikt.	
+588	Staten måste bevisa det, att ni är spion.	
+589	Så ni är inte nyfiken?	
+590	Nej, egentligen inte.	
+591	Jag har alltid trott att ni var konstnär.	
+592	Min fru, hon är konstnären.	
+593	Hon är musiker i Moskvas Barnorkester.	
+594	Vilket instrument?	
+595	Harpa.	
+596	[NO TRANSLATION]	missing translation
+597	Då är hon en ängel.	
+598	När ni står så där påminner ni mig om en man som brukade komma till vårt hus när jag var ung.	
+599	Min far brukade säga, Se på denna man.	
+600	Så det gjorde jag, varje gång han kom.	
+601	Men inte en enda gång gjorde han nåt märkvärdigt.	
+602	Och jag påminner om honom?	
+603	Den enda gången, var jag i din sons ålder.	
+604	Vårt hus var översvämmat av partisanernas gränsvakter.	
+605	Dussintals av dem.	
+606	Min far blev slagen, min mor blev slagen, och denna man, fars vän, han blev slagen.	
+607	Och jag såg på denna man.	
+608	Varje gång de slog honom, ställde han sig upp igen.	
+609	Så de slog honom hårdare.	
+610	Ändå, ställde han sig upp.	
+611	Jag tror att därför slutade de att slå.	
+612	Och lät honom leva.	
+613	Jag minns att de sa det.	
+614	Det betyder ungefär som, Mannen som står.	
+615	Mannen som står.	
+616	Hallå, Jim!	
+617	Millie, ni är en syn.	
+618	Mortie är upptagen att utrusta sig.	
+619	Men kom in.	
+620	Scotch, Jim?	
+621	Ja, tack, gärna.	
+622	[NO TRANSLATION]	missing translation
+623	Bara en droppe vatten.	
+624	Herr domare.	
+625	Hallå, Jim!	
+626	Skall precis gå ut.	
+627	Men har några minuter.	
+628	Mödravårdsföreningens grej.	
+629	Millie är aktiv.	
+630	Tack för att ni tar emot mig.	
+631	Jag ville bara ge er min syn angående påföljden.	
+632	Och tänkte att kanske jag borde besvära er i hemmet, eftersom inte alla mina punkter är fullt legala.	
+633	Nå, ja, det är den sortens fall.	
+634	Jag hoppas jag inte var för motsträvig men det är exakt som ni säger.	
+635	Inget med det här är fullt legalt.	
+636	Det finns större frågor.	
+637	Större frågor!	
+638	Tack.	
+639	[NO TRANSLATION]	missing translation
+640	Sir...	
+641	Jag tror att det kan övervägas i de bästa intressen för USA att Abel förblir levande.	
+642	Varför?	
+643	Jag säger inte att jag bestämt mig men om han ville samarbeta, skulle han ha gjort det.	
+644	Sant, men...	
+645	[NO TRANSLATION]	missing translation
+646	Ursäkta mig.	
+647	Ni kan inte säga att det är i de bästa intressen för USA att han tillbringar resten av sina där i en fängelsecell.	
+648	Hur är det av nationellt intresse?	
+649	Inte fängslandet i sig själv, sir.	
+650	Det är möjligt att i en förutsägbar framtid, en amerikan av likvärdig rang infångas av Sovjetryssland.	
+651	Vi kanske vill ha någon att utbyta.	
+652	[NO TRANSLATION]	missing translation
+653	Det låter som många om och men.	
+654	Ni kan göra det hur länge som helst.	
+655	Min affärsidé är, om och men.	
+656	Jag är i försäkringar.	
+657	Det är inget osannolikt i det här.	
+658	Det är helt i realitet med vad som kan hända.	
+659	Det är den slags möjligheter folk köper försäkringar för.	
+660	Skickar vi denna kille till döden, lämnar vi oss själva vidöppna.	
+661	Ingen taktik i vår bakficka till dagen stormen kommer.	
+662	Snyggt tal.	
+663	Sir, det är också det humanitära argumentet.	
+664	Borde han dö för att han gjorde jobbet han skickades att göra?	
+665	Så där, ombudet.	
+666	Jag måste rusa.	
+667	Trevligt att se er, Jim.	
+668	Jag följer dig ut.	
+669	Stå upp!	
+670	Förenta staternas distriktsdomstol över New Yorks östra distrikt sammanträder.	
+671	Den ärade Mortimer Byers presiderar.	
+672	Inta era platser.	
+673	Vill försvaret resa sig.	
+674	I det upprättade domslutet från denna domstol följande påföljd baserat på juryns fällande dom i varje punkt av åtalet, kan anses möta de krav som blivit fastställda.	
+675	I enlighet med den fällande domen på alla punkter, överlämnas svaranden till förvar av statsåklagaren för USA till fängelsestraff på en federal anstalt att väljas av honom i en period av 30 år.	
+676	Vakter, ni kan ta den svarande i förvar.	
+677	[NO TRANSLATION]	missing translation
+678	Ingen avrättning?	
+679	Nej,	
+680	nej, nej.	
+681	Varför hänger vi honom inte?	
+682	I guds namn, varför hängs han inte?	
+683	Sitt ner, sir.	
+684	Han är en spion!	
+685	Han dödar oss med sina lögner!	
+686	Varför hängs han inte?	
+687	Just det!	
+688	Han är en spion!	
+689	Mr Donovan!	
+690	Mr Donovan!	
+691	Bara en fråga.	
+692	Bara en fråga, sir.	
+693	Min hatt!	
+694	Min hatt!	
+695	[NO TRANSLATION]	missing translation
+696	Ingen här kommenterar.	
+697	Mr och mrs Donovan besvarar inte frågor.	
+698	[NO TRANSLATION]	missing translation
+699	Mr Donovan, är ni nöjd med domen?	
+700	[NO TRANSLATION]	missing translation
+701	Vi har fast grund för överklagan.	
+702	Överklagan?	
+703	Överklagan, ja.	
+704	Jim, du gjorde ett lysande jobb.	
+705	Du fullföljde ditt mandat och mer därtill.	
+706	Men mannen är en spion.	
+707	Domen är rätt, det är ingen orsak att överklaga.	
+708	Det är stora procedurfrågor.	
+709	Husrannsakan var fel.	
+710	4:e författningstillägget väger tyngre i överklagan.	
+711	Vi har ett bra läge.	
+712	Vad i helvete talar du om?	
+713	Vi skulle visa att han fick ett bra försvar, som vi gjorde.	
+714	Varför läser du upp konstitutionen för mig?	
+715	Se mig i ögonen och säg att vi inte har grund för överklagande, då släpper jag det nu.	
+716	Jag säger inte det,	
+717	du vet.	
+718	Tom säger att det kostar.	
+719	Just det.	
+720	En kostnad både för din familj och din byrå.	
+721	Jag har saknat musik.	
+722	De kollade radion att det inte var nån sändare i den.	
+723	Det gjorde de säkert.	
+724	Sjostakovitj.	
+725	[NO TRANSLATION]	missing translation
+726	En stor konstnär, Sjostakovitj.	
+727	Jag tror... att våra starkaste skäl för omprövning är konstitutionella.	
+728	Vår bästa chans är om högsta domstolen går med på att se över vårt fall.	
+729	Jim.	
+730	Du borde vara försiktig.	
+731	Försiktig.	
+732	[NO TRANSLATION]	missing translation
+733	Edward Byrnes.	
+734	[NO TRANSLATION]	missing translation
+735	Och Richard Long.	
+736	God morgon, Suzanne.	
+737	God morgon, Dick.	
+738	Det är ett expressbrev här till dig.	
+739	Hon.	
+740	Mamma!	
+741	Vad har hänt?	
+742	Älskling, gick det bra?	
+743	Mamma!	
+744	Är du skadad?	
+745	Jag har henne.	
+746	Gå upp!	
+747	Gick det bra?	
+748	[NO TRANSLATION]	missing translation
+749	Mår du bra?	
+750	[NO TRANSLATION]	missing translation
+751	Jag satt med ryggen mot väggen!	
+752	[NO TRANSLATION]	missing translation
+753	Bort från fönstren!	
+754	Bra, bra, bra,	
+755	duktig pojke.	
+756	Det är bra.	
+757	[NO TRANSLATION]	missing translation
+758	De är borta. De är borta.	
+759	Fegisarna.	
+760	De är borta.	
+761	Detektiver finkammar närområdet.	
+762	Kanske vi får en beskrivning av bilen, men det är inte troligt.	
+763	Vi behöver beskydd.	
+764	Jag har order att lämna två bilar här.	
+765	Det är helt klart att...	
+766	För hur länge?	
+767	Jag måste till Washington senare i veckan.	
+768	Vad gör du?	
+769	Vad gör du din familj?	
+770	Ursäkta, konstapeln?	
+771	Du försvarar killen?	
+772	Varför slåss du för honom?	
+773	Okej, sluta, konstapeln.	
+774	Jag slutar inget.	
+775	Jag var med i Omaha Beach.	
+776	Jag har gjort min plikt.	
+777	Jag slogs mot dem.	
+778	Varför gör du inte ditt jobb som lagens väktare?	
+779	Förlåt.	
+780	Kom med ut.	
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	Glöm honom bara.	
+784	Vad är det jag inte fattar här?	
+785	Ut, konstapeln.	
+786	Ursäkta.	
+787	[NO TRANSLATION]	missing translation
+788	[NO TRANSLATION]	missing translation
+789	[NO TRANSLATION]	missing translation
+790	Skulle det bli nödvändigt att överge planet över sovjetiskt territorium, då är det en 1,1 kg explosiv laddning inne i flygkroppen.	
+791	Först aktiverar man kretsarna.	
+792	Men för att starta 70-sekunders timern, måste man slå på brytaren märkt Destruct.	
+793	Det är absolut nödvändigt att dessa flygningar förblir hemliga. Och att denna utrustning inte faller i fiendens händer.	
+794	Hur är det med oss?	
+795	Jag vet inte om ni skojar, löjtnant Powers.	
+796	Jag gör det inte.	
+797	Vad ni vet om planet är lika hemligt som planet själv.	
+798	Om tillfångatagande är en förutsägbar avslutning, störtar ni med ert plan.	
+799	Om ni tror ni kan krascha och komma undan, om ni är nog nära en gräns, bra.	
+800	Ni kan utkastningsförfarandet.	
+801	Men om ni kraschar, har ni dollarn med er.	
+802	Det finns en nål, inuti.	
+803	Ni rispar er hud var som helst, det är ögonblickligt.	
+804	Om ni tror ni är på väg att infångas, använder ni den.	
+805	Förare, förstår ni mig?	
+806	Spendera dollarn.	
+807	Herr överdomare, och vänligen domstolen.	
+808	Det kalla kriget är inte bara en fras, herr domare.	
+809	Det är inte bara ett talesätt.	
+810	I verkligheten utkämpas ett slag mellan två olika synsätt på världen.	
+811	Jag hävdar att Rudolf Ivanovich Abel, överste Abel, som han kallades även av de män som arresterade honom, är vår fiende i det slaget.	
+812	Hjälpkraft?	
+813	Kopplad och på.	
+814	Syre sitspaket-reserv?	
+815	Reserv på 1,800 psi.	
+816	Strömväxlare?	
+817	På, lampa släckt.	
+818	Han behandlades som en kombattant i det kriget tills det inte längre passade vår regering att behandla honom så.	
+819	Därmed, gavs han inte det skydd vi ger våra egna medborgare.	
+820	Han utsattes för behandling som, hur än passade en misstänkt fiende, inte var passande för en misstänkt kriminell.	
+821	Bränsletillförsel?	
+822	Tillförselknapp av.	
+823	Destruktor?	
+824	Destruktor säkrad.	
+825	Stigningsdatakort.	
+826	Installerat i plan.	
+827	Jag känner denna man.	
+828	Är anklagan sann, tjänar han främmande makt, men han tjänar den troget.	
+829	Om han är soldat i motståndarnas armé, är han en god soldat.	
+830	Han har inte flytt slagfältet för att rädda sig själv.	
+831	Han har vägrat tjäna sin fångare.	
+832	Han har vägrat svika sin sak.	
+833	Han har vägrat att ta fega vägen ut.	
+834	Ynkryggen måste överge sin värdighet innan han överger slagfältet.	
+835	Det skulle Rudolf Abel aldrig göra.	
+836	Borde inte vi, genom att ge honom full fördel av rättigheterna som definierar vårt styrelsesätt, visa denna man vilka vi är?	
+837	Vilka vi är?	
+838	Är det inte det största vapen vi har i detta kalla krig?	
+839	Skall vi stå för vår sak mindre beslutsamt än han står för sin?	
+840	Presidenten tillkännagav att ett NASA-väderplan försvunnit för fyra där sen norr om Turkiet.	
+841	Och rymdadministration fruktar att deras pilot dog i kraschen.	
+842	Radar visar planet vandrande ur kurs djupt in i sovjetteritorium innan kontakten förlorades, försvårande alla försök att återfå det eller kvarlevorna av piloten.	
+843	Nu till nyheterna från Washington.	
+844	Med jämna röster fastställde idag högsta domstolen domen för den ryske spionen Rudolf Ivanovich Abel, fem röster mot fyra.	
+845	Fallet rörde medborgarrättsfrågor, enligt ryssens advokat, James B. Donovan.	
+846	På frågan hur han kände efter dagens förlust. Sa mr Donovan enbart, Trött.	
+847	Jag har fler nyheter för er efter detta meddelande.	
+848	[NO TRANSLATION]	missing translation
+849	Det är över.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	Jag kan inte hitta filen för det Prudential-fallet.	
+853	Jag, mr Watters bad mig flytta det till Jack Elwes kontor, med utdraget för överklagan.	
+854	Gjorde han?	
+855	Ja, han utarbetade den förra veckan medan ni var Washington.	
+856	Hur länge har vi arbetat ihop?	
+857	Du låter som jag aldrig avslutat en affär.	
+858	Sätt upp ett möte.	
+859	Nånstans smakfullt.	
+860	Jag antar mr Young vill ha de bättre sakerna New York erbjuder.	
+861	Jag vill att ni ger...	
+862	Känner ni nån från Leipzig?	
+863	Leipzig.	
+864	Får jag hatbrev från Tyskland nu?	
+865	Från Östtyskland.	
+866	Är det din fru?	
+867	Nej.	
+868	Nej, nej, nej, nej.	
+869	Hon låtsas vara det, men det är inte ens ett bra låtsas.	
+870	Jag tar denna frihet att skriva till er efter att ha lärt från tidningarna om er mycket humana inställning till min älskade man, Rudolf Abel.	
+871	Och skall jag svara?	
+872	Ja, ja, ja.	
+873	Viket är nästa drag, När man inte vet spelet?	
+874	Francis Gary Powers...	
+875	Av styrkan av artikel två enligt CCCP: s lag för kriminellt ansvar för brott mot staten till 10 år av fångenskap med de första tre åren att avtjänas i fängelse.	
+876	Tiden för straffet, medräknat tillfällig häktning skall bli räknat från 1 maj, 1960.	
+877	Mr Donovan, tack för att ni kom.	
+878	Det är ett nöje att träffa er, mr Dulles.	
+879	En ära, sir.	
+880	Nescafé, grädde, två bitar.	
+881	Tack.	
+882	Okej, detta brev ni mottagit.	
+883	Verkar ganska klart att Sovjet sänder en trevare här.	
+884	De gör det genom Östtyskland för de inte vill erkänna Abel som medborgare, ännu mindre som spion.	
+885	[NO TRANSLATION]	missing translation
+886	Mycket fantasi pågår.	
+887	Ja, sir, men till vilket slut?	
+888	De har vår kille, vår spionpilot.	
+889	Vi har deras kille.	
+890	Fångutbyte, jag tror det är vad de är ute efter.	
+891	Vilket knappast är en överraskning för er.	
+892	Det är en eventualitet jag tror ni förutsåg.	
+893	Ja, jag gjorde det, och jag har så sällan rätt.	
+894	Gratulerar,	
+895	högtidsdag.	
+896	Vi har vår man där borta.	
+897	Powers.	
+898	Bra man, men med ett huvud fullt av hemlig information.	
+899	Abel har också ett huvud fullt av hemlig information, men han ger inte oss ett dyft.	
+900	Han kommer inte att göra det.	
+901	Ja, det vet vi, men inte ryssarna.	
+902	De vill ha sin man tillbaka innan han knäcks.	
+903	Och vi vill ha Powers tillbaka av samma orsaker.	
+904	Jag tror ni säger, sir, att det kan bli ett lyckligt slut för alla.	
+905	Ja, om vi, hänger oss deras fantasi.	
+906	Vi vill att ni förhandlar bytet. För ni är en privat medborgare, så inte regeringen talar.	
+907	De erkänner inte Abel som sovjetmedborgare, och vi erkänner inte Östtyskland som ett suveränt land.	
+908	Vi har inte erkänt Östberlin sen det annekterades av Sovjet, 45.	
+909	Så jag agerar som förhandlare. Representerande?	
+910	Ni representerar ingen.	
+911	Inte en regeringstjänsteman.	
+912	Ingen officiell ställning.	
+913	Så, lite fantasi från vår sida också.	
+914	Stämmer.	
+915	Vilket förstås betyder, att ni inte kan lita på nån kännedom eller hjälp om det skiter sig.	
+916	CIA kan inte vara ansvariga.	
+917	Vi kan inte bli generade.	
+918	Var vill de att denna förhandling tar plats?	
+919	Där.	
+920	Där?	
+921	Östberlin.	
+922	Men, är inte Östberlin ganska...	
+923	Ja, platsen blir komplicerad.	
+924	Ja, komplicerad.	
+925	Sovjetsidan har satt upp kontroller de senaste månaderna. För att stoppa folk att flytta till västra sektorerna, och det har inte fungerat.	
+926	Vi har underrättelser som tror att de kan gå ett steg längre och avskärma hela östra sektorn.	
+927	Okej, det är allt i ett nötskal.	
+928	Beslutet är enbart ert.	
+929	Ni behöver tid att tänka över det?	
+930	Nej.	
+931	Nej, det behövs inte..	
+932	Så fint.	
+933	[NO TRANSLATION]	missing translation
+934	Bäst att allt det här förblir konfidentiellt.	
+935	Diskutera inte något av detta med Mary eller nån annan.	
+936	Dela korrespondensen bara med oss.	
+937	Tala om vad de vill göra och när.	
+938	Jag har ingen klient, ingen fru, inget land.	
+939	Vet inte vad jag gör eller när eller för vem.	
+940	Ni gör det för ert land, men landet vet inte om det än.	
+941	Min klient, den andre personen i ekvationen?	
+942	Min kille?	
+943	Er kille?	
+944	Menar ni ryssen?	
+945	Han är inte er kille längre.	
+946	Er kille är Francis Gary Powers nu.	
+947	Vad säger jag till Rudolf Abel?	
+948	Be honom att inte falla ihop död.	
+949	Professor?	
+950	Professor?	
+951	Pappa gick till universitetet.	
+952	Du borde inte vara här, Frederic.	
+953	Har de föreläsningar idag?	
+954	Han gick för att se.	
+955	Det är dit han går.	
+956	Vad gör du här?	
+957	Jag skulle hämta dig och din far.	
+958	Följ med mig.	
+959	Det kanske inte går i morgon.	
+960	[NO TRANSLATION]	missing translation
+961	Bara gå?	
+962	Ja, ja, ja.	
+963	Gå.	
+964	Nu direkt.	
+965	Gå tillbaka.	
+966	Gå tillbaka.	
+967	Jag klarar mig, jag är amerikan.	
+968	Gå tillbaka.	
+969	Gå tillbaka till din far.	
+970	Vi hittar en annan väg.	
+971	Gå.	
+972	Hallå!	
+973	Hej.	
+974	Papper, tack.	
+975	Jag är student, Frederic Pryor.	
+976	[NO TRANSLATION]	missing translation
+977	Mitt namn är Frederic Pryor.	
+978	Jag är ekonomistudent.	
+979	[NO TRANSLATION]	missing translation
+980	Det är min avhandling.	
+981	Min uppsats.	
+982	Här, se.	
+983	[NO TRANSLATION]	missing translation
+984	Främmande handelssystem i europeiska kommunistländer.	
+985	[NO TRANSLATION]	missing translation
+986	Det var mycket arbete.	
+987	Nej, det är min enda kopia.	
+988	Nej!	
+989	Berätta något.	
+990	Det kom upp i sista minuten.	
+991	De har kontor i London.	
+992	Dessa klienter det är inte min idé.	
+993	Dessa klienter det är inte min idé.	
+994	Skottland, denna fisketur.	
+995	Vad slags fisketur, Jim?	
+996	Laxfiske.	
+997	Säg bara att du inte är i fara, att det bara är en affärsresa. Så oroar jag mig inte.	
+998	Jag behöver mitt pass.	
+999	Ge mig bara nåt att hålla fast vid.	
+1000	Jag bryr mig inte ens om ifall det är sant.	
+1001	Jag gör det här för oss.	
+1002	Mr Michener, här, är er vägvisare i Berlin.	
+1003	Han är attaché vid USA: s ambassad.	
+1004	Det är förbannat komplicerat.	
+1005	[NO TRANSLATION]	missing translation
+1006	Sista brevet från fru Abel, vem hon är? Talar om en advokat i Östberlin, Vogel, vem han nu är? som företräder henne.	
+1007	Ja, Vogel säger att han gått till ryska ambassaden i Östberlin och de kan vara redo att byta Abel mot Powers.	
+1008	Men ingen vet vem som är vem. Men alla är väl ryssar?	
+1009	Ja, Sovjet.	
+1010	Vi tror det.	
+1011	Vad menar ni?	
+1012	Kan vi skruva upp värmen?	
+1013	Det är ett problem.	
+1014	De kan försöka kasta in en ny boll.	
+1015	Försöka få dig att godta en annan fånge än Powers.	
+1016	En annan amerikan?	
+1017	Östtyska Stasi plockade upp en amerikansk student.	
+1018	Frederic Pryor.	
+1019	En unge de hittade på fel sida om muren.	
+1020	En doktorand från Yale	
+1021	som kom hit för att studera ekonomi.	
+1022	[NO TRANSLATION]	missing translation
+1023	Så, de bråkar om att sätta dit ungen för spioneri.	
+1024	Grovt brott, allvarligt brott.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel kontaktar oss och säger att han företräder Pryor.	
+1027	Vänta lite.	
+1028	Vogel företräder fru Abel och den ungen?	
+1029	Ja, han är upptagen.	
+1030	Så, vad är han?	
+1031	Vogel, är han östtysk eller rysk?	
+1032	Försök att ta reda på det när ni träffar honom.	
+1033	Ryska ambassaden, Östberlin, tolv imorgon.	
+1034	Hoffman visar hur du kommer dit.	
+1035	Hur jag kommer dit?	
+1036	Jag behöver en vägvisare.	
+1037	Visst?	
+1038	Det var planen, men det är ett problem.	
+1039	Jag tar dig inte.	
+1040	Beslutat.	
+1041	Ingen regeringspersonal får korsa gränsen tills vidare.	
+1042	Varför?	
+1043	För farligt.	
+1044	Östtyskarna tog den ungen.	
+1045	Det var en grad av straffrihet som vi inte förutsett.	
+1046	Saken är att östtysk agenda och rysk agenda, kanske inte är samma sak.	
+1047	Försök ta reda på det och försök göra en affär,	
+1048	Försök ta reda på det och försök göra en affär,	
+1049	Powers för Abel.	
+1050	Men, den här studenten, Pryor?	
+1051	[NO TRANSLATION]	missing translation
+1052	Fall inte för det.	
+1053	Vi får ut honom en annan gång.	
+1054	Powers är huvudsaken.	
+1055	Var är ert rum?	
+1056	Jag stannar på Hilton.	
+1057	Inte så långt bort.	
+1058	Detta är ett nummer här i Västberlin.	
+1059	Memorera det och ge det tillbaka.	
+1060	Nej,	
+1061	[NO TRANSLATION]	missing translation
+1062	jag menar nu.	
+1063	Sovjet stoppar de internationella linjerna, men lokalsamtal är okej.	
+1064	Någon hämtar upp dag och natt.	
+1065	Den här etiketten i ert pass fungerar som er biljett in och ut ur den östra sovjetsektorn.	
+1066	Mötet med Vogel är satt till tolv i morgon.	
+1067	Det är bara några få vägar kvar till öst.	
+1068	Ni tar S-Bahn, stationen vi visade på vägen in.	
+1069	Gå av vid Friedrichstrasse här och gå till sovjets ambassad på Unter den Linden här.	
+1070	Se på kartan nu.	
+1071	Ni borde inte ta den med.	
+1072	Se på karta, amerikan, ni är spion.	
+1073	Ni kan mycket väl gripas.	
+1074	Undvik att interagera med folk generellt.	
+1075	[NO TRANSLATION]	missing translation
+1076	Ni hör inte dit, så stick inte ut.	
+1077	Maten är knapp och saker börjar falla samman.	
+1078	Där är gäng och rättssäkerheten är lite mindre etablerad där.	
+1079	Och håll er definitivt borta från muren.	
+1080	Det är en linje längs med muren.	
+1081	De kallar den Dödslinjen.	
+1082	Korsa den och ni blir skjuten.	
+1083	Är det nåt utfall där jag inte grips eller skjuts?	
+1084	Oroa er inte för vad Michener sa.	
+1085	Jag är oroad för vad ni säger.	
+1086	Den ungen, Pryor, som östtyskarna har, hur gammal är han?	
+1087	Tjugofem.	
+1088	Hur så?	
+1089	Samma ålder som Dougie.	
+1090	Vem?	
+1091	En kollega till mig.	
+1092	Frederic Pryor.	
+1093	Okej, okej, okej.	
+1094	[NO TRANSLATION]	missing translation
+1095	Vi ber om ursäkt om detta förolämpar.	
+1096	[NO TRANSLATION]	missing translation
+1097	Rock?	
+1098	[NO TRANSLATION]	missing translation
+1099	Förstår ni engelska?	
+1100	Ja, herrn.	
+1101	Jag är James Donovan.	
+1102	Jag skall möta herr Vogel.	
+1103	Herr Vogel.	
+1104	Han arbetar inte här.	
+1105	Jag förväntas möta honom.	
+1106	Det är allt jag vet.	
+1107	Herr Donovan!	
+1108	Så till slut möts vi.	
+1109	Jag är Helen Abel.	
+1110	Hur mår min man?	
+1111	[NO TRANSLATION]	missing translation
+1112	Bra.	
+1113	Hur mår min Rudolf?	
+1114	Så bra som kan förväntas.	
+1115	Och vi får honom tillbaka, ja?	
+1116	Detta är vår dotter.	
+1117	Goddag?	
+1118	Lydia.	
+1119	Är ni herr Vogel?	
+1120	Nej, nej, nej!	
+1121	Jag är inte Vogel.	
+1122	Jag är kusin Drews.	
+1123	Detta är Rudolfs käre kusin Drews.	
+1124	Ja, kusin Drews.	
+1125	Jag är kusin Drews.	
+1126	Kusin Drews, ja.	
+1127	Jag är Helen Abel.	
+1128	När skall du träffa honom?	
+1129	När skall din regering släppa honom?	
+1130	Jag är lite, borta här.	
+1131	Jag skulle möta en herr Vogel.	
+1132	Herr Vogel är vår advokat.	
+1133	Vi skulle förhandla, utväxlingen.	
+1134	Att få Rudolf hit?	
+1135	Ja, ja, att få honom hit.	
+1136	Men det sker inte ensidigt, förstår ni?	
+1137	Det måste vara en utväxling.	
+1138	Inte här?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Herr Donovan?	
+1143	Herr Vogel.	
+1144	Nej, nej,	
+1145	för guds skull.	
+1146	Mitt namn är Schischkin.	
+1147	Ivan Schischkin.	
+1148	Jag är andre sekreterare för sovjets ambassad.	
+1149	Det skulle inte vara passande för herr Vogel att delta.	
+1150	Han är tysk medborgare.	
+1151	Så ni är inte här för...	
+1152	För att underlätta detta möte.	
+1153	Kanske fru Abel vill lugna sig privat?	
+1154	Och låta herr Donovan och jag tala?	
+1155	Tack.	
+1156	Jag är förvirrad.	
+1157	Ja.	
+1158	Jag bryr mig inte om vem jag talar med om det är om utväxling av personer.	
+1159	Är ni personen att tala med?	
+1160	Ja, ja, ja, klart.	
+1161	Vi skall tala.	
+1162	Varsågod, sitt ner, herr Donovan.	
+1163	Hur anlände ni till östra sektorn?	
+1164	Tåget,	
+1165	S-Bahn.	
+1166	Och ni var ensam?	
+1167	Ja.	
+1168	Och ni har kreditiv?	
+1169	Ni måste veta om mig, sir.	
+1170	Jag är privat medborgare.	
+1171	Jag är advokat i Brooklyn i USA, och jag har tagit tid från min kalender för att hjälpa min klient, Rudolf Abel.	
+1172	Jag är bemyndigad att ordna en utväxling av Abel för Francis Gary Powers.	
+1173	Detta är en full benådning av Abel den blir signerad när utväxlingen faktiskt tar plats.	
+1174	Det är bara därför jag är här.	
+1175	Jag hoppas och förväntar att få det ordnat snabbt.	
+1176	Abel för Francis Gary Powers och Frederic Pryor.	
+1177	Vi har inte Pryor.	
+1178	Nej?	
+1179	Ni har inte?	
+1180	Jag har hört om Pryor, men han hålls av DDR, inte av CCCP.	
+1181	Jag skall säga er det första problemet.	
+1182	Namnen på era länder är för långa.	
+1183	Ja, ja.	
+1184	Släpper vi Powers, är det bara för att främja en goodwill mellan våra länder.	
+1185	Så, det kan inte bli en utväxling.	
+1186	Kanske...	
+1187	Kanske ni kan frige Abel. Som bevis på goodwill till våra vänner i Tyskland, och sen, några månader senare, skulle vi frige Powers.	
+1188	Det är en idé.	
+1189	Nej,	
+1190	det går inte alls.	
+1191	Vi behöver att det blir en utväxling.	
+1192	Ni kan kalla det vad ni vill, men en utväxling måste det bli.	
+1193	Vi kan ha Abel här inom 48 timmar.	
+1194	Vi behöver Powers, samtidigt ger vi er Abel.	
+1195	[NO TRANSLATION]	missing translation
+1196	Det är...	
+1197	Kan vi kalla detta, den otålmodiga planen.	
+1198	Ni kan kalla det vad ni vill.	
+1199	Jag kan överföra er otålmodiga plan till Moskva och se vad de säger.	
+1200	Men de kommer att undra, varför så otålmodig.	
+1201	För att jag är förkyld.	
+1202	Och jag bor inte i Berlin och jag vill åka hem.	
+1203	De tänker, Amerikanerna måste ha fått all information som Abel hade att ge.	
+1204	Och nu är de otåliga att växla honom, hoppas att få i retur denna man, Powers, som, kanske, inte ännu givit upp all information som han har att ge.	
+1205	Det är inte ett rimligt byte, sir.	
+1206	Men vad ni säger är, om Powers har givit upp allt han vet, då skulle Moskva växla?	
+1207	Varför skulle de inte?	
+1208	Men för Abel, om han dör i ett amerikanskt fängelse, den nästa ryska agent som fångas kanske tänker sig för om att hålla munnen stängd.	
+1209	Man vet aldrig.	
+1210	Abel kanske vill se himlen igen, och beslutar växla ryska hemligheter för små amerikanska favörer.	
+1211	Hur kan vi veta det?	
+1212	Vi små män, vi gör bara vårt jobb.	
+1213	Som löjtnant Powers.	
+1214	Han är bara en pilot.	
+1215	Han tog fotografier från 70000 fot när han sköts ner från himlen.	
+1216	Folk i mitt land anser det en krigshandling.	
+1217	Vi måste hoppa av karusellen, sir.	
+1218	Nästa misstag våra länder gör kan vara det sista.	
+1219	Vi måste ha den konversation våra regeringar inte kan.	
+1220	Jag skall fråga Moskva.	
+1221	Vem vet vad de kommer att säga.	
+1222	Det är många människor, herr Donovan, som inte vill att denna utväxling någonsin tar plats.	
+1223	Kan ni komma tillbaka i morgon och diskutera deras svar?	
+1224	Powers för Abel.	
+1225	Och Frederic Pryor.	
+1226	Som jag sa, Pryor är i händerna på Statlig Säkerhet för Tyska Demokratiska Republiken.	
+1227	Jag är övertygad om att ni kan vidta åtgärder.	
+1228	Jag är enbart ambassadsekreterare i en främmande makt.	
+1229	Okej.	
+1230	Ni måste träffa herr Vogel.	
+1231	Jag ger er hans adress.	
+1232	Det finns faktiskt en herr Vogel?	
+1233	Varför skulle ni tro annat?	
+1234	Det är en kort taxiresa.	
+1235	Och snälla, herr Donovan, bär en ytterrock i detta väder.	
+1236	Min blev stulen från mig.	
+1237	Vad hade ni trott?	
+1238	Den var från Saks Fifth Avenue.	
+1239	Eller hur?	
+1240	Herr Donovan.	
+1241	Herr Vogel.	
+1242	Snälla, kom in..	
+1243	Tack.	
+1244	Ledsen med ambassaden.	
+1245	Men sovjeterna beslutade att inte ta emot mig.	
+1246	Väldigt irriterande.	
+1247	Jag försöker ännu greppa varje part.	
+1248	Prestige?	
+1249	Ja,	
+1250	och intressanta förfaringssätt.	
+1251	[NO TRANSLATION]	missing translation
+1252	Det är en ny värld.	
+1253	Allt väldigt förvirrande, eller hur?	
+1254	Låt mig berätta vad jag har att erbjuda.	
+1255	Jag är en god vän...	
+1256	Vän,	
+1257	nej, han är äldre.	
+1258	Protegé?	
+1259	Till justitiekanslern för DDR.	
+1260	Sitt ner, tack.	
+1261	Denne oturlige, Frederic Pryor, han var på fel plats vid fel tid.	
+1262	Men varje olycka, väl eftertänkt, är en möjlighet, eller hur, herr Donovan?	
+1263	Nja...	
+1264	Ert land vägrar erkänna DDR.	
+1265	De föredrar att hitta på historier, att DDR inte existerar, till exempel.	
+1266	Ursäkta.	
+1267	Som en utväg att tvinga er regerings erkännande av denna verkliga plats, sir. I vilket ni finner er själv, DDR. Justitiekanslern är nöjd att förhandla med er som er regeringsrepresentant för herr Pryors återkomst.	
+1268	Herr Vogel, jag är inte här som regeringsrepresentant.	
+1269	Okej.	
+1270	Jag tycker det är barnsligt, herr Donovan.	
+1271	[NO TRANSLATION]	missing translation
+1272	Jag har ingen officiell status.	
+1273	Fint.	
+1274	Ni representerar inte USA, Jag representerar inte DDR.	
+1275	Min klient är Lydia Abel, Rudolfs fru,	
+1276	och jag har också...	
+1277	Lydia är dottern,	
+1278	Helen är frun.	
+1279	Nå...	
+1280	Jag är beredd att erbjuda Frederic Pryors utväxling för Rudolf Abels.	
+1281	Låt oss då vara tydliga.	
+1282	Vi framför Rudolf Abel.	
+1283	Ni framför, vid samma tid, studenten, Pryor.	
+1284	Vid samma tid?	
+1285	Absolut.	
+1286	Utväxlingen som erbjuds är en ryss vid slutet av sitt liv för en amerikansk student vid början av sitt.	
+1287	Schischkin?	
+1288	Han är inte en ambassadsekreterare.	
+1289	Ivan Schischkin är KGB: s huvudman i Västeuropa.	
+1290	Vad han än är, så översänder han vårt förslag till Moskva, och de beslutar.	
+1291	Kan jag låna en rock?	
+1292	Jag förlorade min.	
+1293	Hur förlorade ni er rock?	
+1294	Ni vet, spiongrejer.	
+1295	Jag skaffar er en annan rock.	
+1296	Bra, bra...	
+1297	Så, vem är denna Vogel?	
+1298	Honom, vet vi inte.	
+1299	Han kan vara det ni sa han sa han är.	
+1300	Vän till justitiekanslern.	
+1301	Bara nån kille DDR utnyttjar att hantera det här.	
+1302	Låter som Östtyskarna slåss för en plats vid vårt bord.	
+1303	DDR får Abel tillbaka åt ryssarna, och vinner deras respekt.	
+1304	Och kapar huvudrubrikerna för deras sak.	
+1305	Vilket, förstås, sätter Östtyskland på kartan.	
+1306	Men vi bryr oss inte om deras karta.	
+1307	Håll fast vid ryssarna.	
+1308	Håll fast vid ryssarna.	
+1309	Det är Powers för Abel.	
+1310	Så, betyder allt det här att det faktiskt händer?	
+1311	Ja, det är vad ni verkar säga mig.	
+1312	Vi sätter Abel på ett plan, han är här på fredag.	
+1313	Så, om Schischkin får ett okej, Är allt som är kvar mekaniken för utbytet.	
+1314	Hur vi skiftar vår kille med deras kille.	
+1315	Våra killar,	
+1316	två killar.	
+1317	Powers och Pryor.	
+1318	Nej, bli inte mjäkig mot mig.	
+1319	Powers är huvudsaken.	
+1320	Glöm den universitetsgrabben, som tydligen tyckte det var en bra idé att studera sovjetekonomi i Berlin mitt i det kalla kriget.	
+1321	Powers är den vi behöver.	
+1322	Ni tycker inte ens om Powers.	
+1323	Alla hatar Powers.	
+1324	Han tog inte sitt liv och han lät kommunisterna visa honom på tv.	
+1325	Han är den mest hatade mannen i Amerika.	
+1326	Efter Rudolf Abel, kanske.	
+1327	Och mig.	
+1328	Vakna, nu!	
+1329	Jag måste sova.	
+1330	Jag måste bara sova.	
+1331	Jag sa att du kan sova när vi talat om vad vi måste tala.	
+1332	Du måste fokusera på mig.	
+1333	Din regering bryr sig inte om dig.	
+1334	Du vet det.	
+1335	Ingen av er.	
+1336	Vet du att tolv U-2-piloter dragit på sig hjärnskador?	
+1337	De har blivit grönsaker av syrebrist på grund av höjden.	
+1338	Men de låter dig flyga, Gary.	
+1339	Du och dina vänner.	
+1340	De gav dig denna.	
+1341	En nål?	
+1342	Kaliumcyanid.	
+1343	Ser det ut som de bryr sig om er?	
+1344	Vilken är konstruktionen av destruktorenheten?	
+1345	Med vilka medel styrs denna enhet?	
+1346	Med vilka sprängmedel är enheten laddad, och vilken destruktion är den kapabel till?	
+1347	Jag vet inte.	
+1348	Piloterna visades aldrig något av utrustningen.	
+1349	Hur långt bort kan radarn kartlägga en area under överflygning?	
+1350	Jag vet inte!	
+1351	Gjorde du överflygningen 9 april över industriområdet och MIG-basen, vid Baranovichi?	
+1352	Jag gjorde inte den.	
+1353	Det var min första överflygning.	
+1354	Jag behöver veta allt om motor ut till glidförhållanden.	
+1355	Hur kommer planet så högt.	
+1356	Vi vet att det når en altitud på 70000 fot.	
+1357	Gary, vi vet det.	
+1358	Och jag måste veta var planen har flugit.	
+1359	Var de har flugit, Gary.	
+1360	Och vi måste ha det samtalet nu.	
+1361	Nu.	
+1362	Och sen kan du sova lite.	
+1363	Sir, vakna upp.	
+1364	Vakna upp, sir.	
+1365	Sir, vill ni följa med mig?	
+1366	Ja.	
+1367	Vi måste gå.	
+1368	Ja, visst.	
+1369	Vill ni följa med mig, tack?	
+1370	Ja.	
+1371	Okej.	
+1372	Har ni glasögonen?	
+1373	[NO TRANSLATION]	missing translation
+1374	Vilken tid är det?	
+1375	Sent, men vi måste prata. Sen måste vi gå på ett plan, okej?	
+1376	Ja.	
+1377	Ja,	
+1378	upp-å-hoppa!	
+1379	Upp-å-hoppa.	
+1380	Just det.	
+1381	Så där.	
+1382	Fortsätt.	
+1383	Tack.	
+1384	Andra vägen. Den vägen.	
+1385	[NO TRANSLATION]	missing translation
+1386	Ni sa plan?	
+1387	Denna vägen, tack.	
+1388	Fortsätt gå.	
+1389	Så, jag mottog ett positivt beslut från Moskva om ert förslag att vi hjälper våra vänner i DDR genom att utväxla Mr Powers för herr Abel.	
+1390	Det är utmärkt.	
+1391	Får jag föreslå Glienicke Bridge som plats för ett byte?	
+1392	Varför inte Checkpoint Charlie?	
+1393	Vi är inte ute efter publicitet.	
+1394	Glienicke Bridge är väldigt lugnt, speciellt på morgonen.	
+1395	Glienicke Bridge.	
+1396	Jag kör det från vår sida.	
+1397	Vi kan ha Abel här på fredag.	
+1398	Så lördag morgon?	
+1399	Alltid otålmodig.	
+1400	Jag vill komma hem och lägga mig.	
+1401	Så, lördag morgon?	
+1402	5.30?	
+1403	Okej.	
+1404	Vi är klara här.	
+1405	Detta är ett nummer, ifall något skulle dyka upp.	
+1406	Okej.	
+1407	Någon svarar vid alla tider.	
+1408	Jag förväntar mig inte att använda det.	
+1409	Skall vi skåla på avtalet?	
+1410	Varför inte?	
+1411	Armenisk brandy.	
+1412	Bra styrketår mot förkylning.	
+1413	Tack.	
+1414	Skulle ni vilja...	
+1415	Det hör inte till affären, men jag vill ställa er ett par frågor.	
+1416	Ni behöver inte svara.	
+1417	Jag skall svara vad jag vet.	
+1418	Jag gillar killen, er kille.	
+1419	Vad händer er kille när han kommer hem?	
+1420	Vi måste utreda ifall vår kille nu är er kille.	
+1421	Som jag sa till er tidigare, han har agerat hedervärt.	
+1422	Han är ännu er kille, tro mig.	
+1423	Ni skulle förstås säga det om det var sant och om det inte var sant.	
+1424	Ja, det är väl frågan det?	
+1425	Förlåt om jag framhärdar, men är han i någon fara? Om utredningen är gjord?	
+1426	Ja, herregud.	
+1427	Som det är nu, är alla i fara.	
+1428	Skål.	
+1429	Nå zdorovie.	
+1430	Det blir ingen utväxling på Glienicke Bridge.	
+1431	Ursäkta mig, sir.	
+1432	Det blir ingen utväxling.	
+1433	Inte för Frederic Pryor.	
+1434	Herr Vogel, jag trodde igår att vi kommit överens.	
+1435	Vi kom överens om en utväxling, Abel för Pryor.	
+1436	Nu vet jag att ni är en matthandlare, som säljer samma matta till två kunder.	
+1437	Abel för Pryor säljer ni till oss.	
+1438	Ja.	
+1439	Och Abel för Powers säljer ni till Sovjet.	
+1440	Jag förstår inte riktigt vad problemet är. Om upplägget gör två parter nöjda eller fler.	
+1441	Vilken skillnad gör det?	
+1442	Upplägget gör inte denna part nöjd.	
+1443	Herr Vogel, snälla.	
+1444	Tydligen vet ni inte vem ni gör affärer med.	
+1445	Här är DDR: s intressen.	
+1446	Att avtala med, och som verkar avtala med en annan suverän makt, USA.	
+1447	En jämlik makt.	
+1448	Istället behandlar ni oss som springpojkar för CCCP.	
+1449	Kan vi bara kalla dem ryssarna?	
+1450	Det sparar tid.	
+1451	Jag har ett möte, sir.	
+1452	Jag tror det är ni som slösar tid.	
+1453	Berätta om jag beskriver det fel?	
+1454	Ni har en unge, en student, nån ni vet inte är en spion, som är inget hot mot er.	
+1455	I utväxling för denna person som är värdelös för er, spelar ni en jämlik part i en utväxling mellan ryssar och amerikaner.	
+1456	Och detta är en transaktion mellan oss och er båda.	
+1457	Vi försöker inte två saker här.	
+1458	Vi gör bara en sak.	
+1459	[NO TRANSLATION]	missing translation
+1460	Det är svårt för mig att se hur DDR blir skymfat.	
+1461	Ni kom överens med Sovjet utan att konsultera mig.	
+1462	Är det förhandling eller konspiration?	
+1463	[NO TRANSLATION]	missing translation
+1464	Det är bara fördelar här.	
+1465	Våra intressen överensstämmer.	
+1466	Nej, ni bestämde att de är överens.	
+1467	Var är ert möte?	
+1468	I Väst.	
+1469	Kurfürstendamm.	
+1470	Bra.	
+1471	Se omkring er.	
+1472	Hur är Östsektorn jämfört med Väst?	
+1473	[NO TRANSLATION]	missing translation
+1474	Våra ryska vänner har bestämt att vi inte skall bygga upp vår huvudstad.	
+1475	Vi lever i denna ruin gjord av våra ryska vänner.	
+1476	Varsågod, gör er affär med ryssarna.	
+1477	Vi vill inte vara del av det.	
+1478	Det blir ingen affär utan Pryor.	
+1479	Vi lämnar honom inte här.	
+1480	Är det er position eller regeringens?	
+1481	Jag är här och	
+1482	talar med er.	
+1483	Men ni representerar inte er regering.	
+1484	Ni vet inte vem ni är,	
+1485	inte vi heller.	
+1486	Ni bör vara försiktig.	
+1487	Detta är inte Brooklyn, mr Donovan.	
+1488	Hör på, sir.	
+1489	Ni vet att i varje sak av betydelse, representerar jag min regering.	
+1490	Ni vet vem jag är.	
+1491	Gör jag?	
+1492	[NO TRANSLATION]	missing translation
+1493	Har ni de rätta handlingarna?	
+1494	Så klart inte,	
+1495	det gör inget.	
+1496	En amerikansk advokat som ni kan tala er ur allting.	
+1497	Kan ni inte?	
+1498	Ni åker med honom.	
+1499	Varför?	
+1500	Det är ett passproblem.	
+1501	Vad?	
+1502	[NO TRANSLATION]	missing translation
+1503	Vad är problemet?	
+1504	Ni åker med honom.	
+1505	Kom ihåg. Vi kontrollerar Frederic Pryors öde.	
+1506	[NO TRANSLATION]	missing translation
+1507	Ja, jag börjar med lite kaffe, tack.	
+1508	Sen tar jag Hilton combo och den amerikanska frukosten	
+1509	och kaffe.	
+1510	Båda frukostarna?	
+1511	Ja, ja.	
+1512	En först eller...	
+1513	Båda först.	
+1514	Så fort de är klara,	
+1515	och kaffe.	
+1516	[NO TRANSLATION]	missing translation
+1517	Ni borde inte vara här.	
+1518	Ibland i Tyskland vill man bara ha en stor amerikansk frukost.	
+1519	Vad hände?	
+1520	Var var du i natt?	
+1521	Vogel ordnade för mig att tillbringa lite tid i Öst.	
+1522	Herregud.	
+1523	Det var faktiskt inte mycket sämre än där ni har mig här i Väst.	
+1524	Så ryssarna är nöjda med utväxlingen. Men Vogel säger att östtyskarna inte gör det.	
+1525	Vi får inte Pryor.	
+1526	Toppen, bra.	
+1527	Så Sovjet är klart.	
+1528	Vi får Powers.	
+1529	Vi får Powers.	
+1530	Bra jobbat.	
+1531	Nej, östtyskarna gör det inte.	
+1532	Vi får inte Pryor, och den ungen räknas.	
+1533	Varje person räknas.	
+1534	Visst, därför försökte ni.	
+1535	Därför försökte ni.	
+1536	Abel är på väg, så alla är klara.	
+1537	Vänta lite.	
+1538	Gör saken enkelt.	
+1539	Gör saken enkelt.	
+1540	Vi får inte ungen.	
+1541	Ja, jag förstår.	
+1542	Vi är klara.	
+1543	Vi kan ignorera meddelandet vi fick i morse.	
+1544	Vilket meddelande?	
+1545	Från östtyskarna.	
+1546	De ringde numret jag gav er.	
+1547	De sa att de ville tala med er idag.	
+1548	Ringde Vogel?	
+1549	Nej...	
+1550	Kontoret till Harald Ott, Östtysklands justitiekansler.	
+1551	Ville vad?	
+1552	Vad ville han?	
+1553	Tala med er,	
+1554	men det är okej. Jag kan inte be er åka tillbaka.	
+1555	Ni verkar vara icke önskvärd för vissa, så vi utmanar inte ödet.	
+1556	Så han vill träffa mig.	
+1557	Vilken tid?	
+1558	Nej, nej,	
+1559	hör på, ni...	
+1560	Ni behöver inte åka.	
+1561	Ni skall inte åka.	
+1562	Ni kan faktiskt inte åka.	
+1563	Vi har klart med Sovjet.	
+1564	Vi vill inte sabba det.	
+1565	Jag skall inte sabba det.	
+1566	Ni åker inte!	
+1567	Var inte ett svin!	
+1568	Jag beställde.	
+1569	Njut er stora amerikanska frukost.	
+1570	Jag tyckte det borde förhandlas på högsta nivå, som en artighet till er.	
+1571	Jag tackar er, sir.	
+1572	Jag vet inte hur saker blivit så förvirrade.	
+1573	Jag antar att ibland blir det bara så.	
+1574	För sakens tydlighet, säger jag att vi är fullt redo att utväxla den så kallade studenten, Pryor, för Rudolf Abel.	
+1575	Jag förstår från mr Vogel att Pryor är viktig för er.	
+1576	Ja, men.	
+1577	Vi gör en promemoria för den saken.	
+1578	En promemoria.	
+1579	Självklart, binder vi oss till en bilateral utväxling.	
+1580	Ja, ja, visst.	
+1581	Jag är inte säker vad det betyder men...	
+1582	Mitt land insisterar också på Francis Gary Powers.	
+1583	Nej!	
+1584	Det här är hur saker blev så förvirrade.	
+1585	Powers.	
+1586	Vilken nytta är han, sir?	
+1587	Vill ni ha honom av straffskäl?	
+1588	Det som är gjort är gjort.	
+1589	Han har avslöjat, det han vill avslöja, som utan tvekan Abel gjort.	
+1590	Vi erbjuder istället någon som ni hävdar är oskyldig.	
+1591	Och det är rätt.	
+1592	Det är han ni borde återhämta.	
+1593	Framtiden.	
+1594	Se in i framtiden.	
+1595	Ott.	
+1596	Ott.	
+1597	Ursäkta,	
+1598	om ni kan ge mig en stund, sir.	
+1599	Jag är mycket ledsen, sir.	
+1600	Justitiekanslern beklagar att han måste åka på en brådskande affär.	
+1601	Han stack?	
+1602	Ja,	
+1603	många ursäkter.	
+1604	Jag har väntat i över en timme.	
+1605	Mycket ledsen, sir.	
+1606	Unge man.	
+1607	Kom hit.	
+1608	Det går bra.	
+1609	Kom hit.	
+1610	[NO TRANSLATION]	missing translation
+1611	Sitt ner.	
+1612	Kom igen,	
+1613	sitt ner.	
+1614	Gillar ni ert jobb här?	
+1615	Det är ett mycket bra jobb, sir.	
+1616	[NO TRANSLATION]	missing translation
+1617	Det måste vara intressant.	
+1618	Ja, sir.	
+1619	Och viktigt, också.	
+1620	Och er engelska är bra.	
+1621	Ja, jag tvekar att säga utmärkt.	
+1622	Men den är utmärkt, sir.	
+1623	Bra, bra...	
+1624	[NO TRANSLATION]	missing translation
+1625	Jag förlorade nyss min förhandlingspartner, och behöver nån att tala med, och ni verkar som en resonabel ung man.	
+1626	Kan jag tala till er?	
+1627	[NO TRANSLATION]	missing translation
+1628	Det går bra.	
+1629	Det går bra.	
+1630	Jag bara...	
+1631	Jag vill bara att ni ger ett meddelande till er chef.	
+1632	Men det måste vara mycket tydligt.	
+1633	Förstår ni?	
+1634	Ja, sir.	
+1635	Men kanske ni borde vänta till han...	
+1636	Nej,	
+1637	saken är, jag är förkyld och jag vill åka hem och komma i säng.	
+1638	Kan ni ge honom meddelandet?	
+1639	Självklart.	
+1640	Det här är meddelandet.	
+1641	Det blir ingen affär för Abel om inte vi får Powers och Pryor.	
+1642	Förstår ni?	
+1643	Ja, sir.	
+1644	Det är ordnat för i morgon,	
+1645	det sker inte utan att vi får två män.	
+1646	De två männen.	
+1647	Två, två, två.	
+1648	Ja, sir.	
+1649	Blir det ingen affär, måste er chef berätta för Sovjet.	
+1650	Han måste berätta för Sovjet att de inte får Rudolf Abel.	
+1651	Ja, sir.	
+1652	Och säg honom det här.	
+1653	Att så långt har Abel varit en bra soldat, men han tror att han kommer hem.	
+1654	Om vi måste säga att han inte kommer hem, att Sovjet inte vill ha honom, att han aldrig kommer hem.	
+1655	Jag kan tänka mig att hans beteende förändras.	
+1656	Och vem kommer att hållas ansvarig för det?	
+1657	Det är ett långt meddelande.	
+1658	Fick ni med allt?	
+1659	Ja, sir.	
+1660	Fick det.	
+1661	Bra.	
+1662	Ni är en bra man.	
+1663	[NO TRANSLATION]	missing translation
+1664	Säg honom också. Ingen affär om vi inte hör innan arbetsdagens slut, idag.	
+1665	Han har numret.	
+1666	Om utväxlingen inte sker, är det ingen orsak att gå upp tidigt i morgon.	
+1667	Nej, sir, det vore meningslöst.	
+1668	Ni skojar!	
+1669	Ni skojar!	
+1670	Egentligen inte.	
+1671	Jag behöver växel.	
+1672	Det är exakt det ni inte skulle göra.	
+1673	Mina instruktioner var att känna av situationen.	
+1674	Ni skulle få Powers, inte Pryor.	
+1675	Det var inte affären från början.	
+1676	Ni sabbade det!	
+1677	Hur vet ni det?	
+1678	Jag tycker det känns bra.	
+1679	Ni sabbade alltihop!	
+1680	Oroa er inte.	
+1681	Jag tror det kommer att bli bra.	
+1682	Hur vet ni det?	
+1683	Ni vet inte det.	
+1684	United States.	
+1685	New York, New York.	
+1686	Danke.	
+1687	Hör på, hela den här saken har varit att känna av mig.	
+1688	Skulle jag byta en mot en och vilken av dem?	
+1689	Men jag sa, nej, två för en.	
+1690	Så de vet var vi står.	
+1691	Ja, tänk om de säger.	
+1692	Glöm det!	
+1693	Behåll er kille, vi behåller våra killar.	
+1694	Ja, då har jag sabbat alltihop.	
+1695	Hej, älskling!	
+1696	Det är jag.	
+1697	Ja.	
+1698	Fisket har varit bra.	
+1699	Jag är i London, Bara för ett till möte, sen åker jag hem.	
+1700	Ja, ja, jag kommer ihåg den marmeladen.	
+1701	Det är den butiken vid Regents Park.	
+1702	Okej, jag skall om jag har tid.	
+1703	Kan jag säga hej till Roger?	
+1704	Kan jag säga hej till flickorna?	
+1705	Är nån inte upptagen?	
+1706	Har de ens märkt att jag inte är där?	
+1707	Vi är med.	
+1708	Två för en.	
+1709	Jäklar.	
+1710	Vi tar en drink.	
+1711	Ett problem.	
+1712	Vad är det?	
+1713	De släpper inte Pryor med Powers, inte vid bron.	
+1714	De släpper honom vid samma tid.	
+1715	När ryssarna ger oss Powers på bron, släpper de Pryor vid Checkpoint Charlie.	
+1716	Vad betyder det?	
+1717	Jag tror det betyder, Vi vill ha sista ordet.	
+1718	Men de gör det.	
+1719	Säg ni.	
+1720	Ni kunde läsa av dem.	
+1721	Var är de?	
+1722	Var är vår kille?	
+1723	Var är vår kille?	
+1724	De är sena.	
+1725	Ingen är sen.	
+1726	Vi är tidiga.	
+1727	Får jag?	
+1728	Ja.	
+1729	Hoffman.	
+1730	Ja?	
+1731	Jag tror de har...	
+1732	Vad?	
+1733	Krypskyttar.	
+1734	Det är jag säker på.	
+1735	Hur är du säker på det?	
+1736	För att vi har krypskyttar.	
+1737	Kliv ur, sir.	
+1738	Jim.	
+1739	Käre Jim.	
+1740	Hur mår du?	
+1741	Glad att se dig.	
+1742	Har du ordnat allt detta för mig?	
+1743	Vi får se vad det är innan jag tar ära för det.	
+1744	Nåt ord om Pryor från Checkpoint Charlie?	
+1745	Ingenting än.	
+1746	Ursäkta mig, sir.	
+1747	Det är löjtnant Joe Murphy, US Air Force, här för att identifiera Powers.	
+1748	Löjtnant Murphy.	
+1749	Sir.	
+1750	Där kan vara en liten hake.	
+1751	Jag var en ung man när jag stack.	
+1752	Vem hittar de att identifiera mig?	
+1753	Jag hoppas det inte är er östtyska familj.	
+1754	Jag tror knappt de kan identifiera varandra.	
+1755	Verkar som vår grupp.	
+1756	Så, då går vi.	
+1757	Ni kan stanna här, Donovan.	
+1758	Knappast.	
+1759	Öppna bommen.	
+1760	Vad tror du skall hända när du kommer hem?	
+1761	Jag tror...	
+1762	jag tar en vodka.	
+1763	Ja.	
+1764	Ja.	
+1765	Men, Rudolf, är det inte möjligt?	
+1766	Att mitt folk kommer att skjuta mig?	
+1767	[NO TRANSLATION]	missing translation
+1768	Ja. Du är inte orolig?	
+1769	Skulle det hjälpa?	
+1770	För att svara på din fråga, min vän, Jag agerade hedersamt.	
+1771	Jag tror de vet det.	
+1772	Men ibland tror folk fel.	
+1773	Människor är människor.	
+1774	Vi får se hur de tar emot mig.	
+1775	Vad kan jag se efter?	
+1776	Om jag omfamnas eller bara visas till baksätet.	
+1777	Då.	
+1778	Ta av hatten.	
+1779	Hej, Powers.	
+1780	Hej, Murph.	
+1781	Ja, det är Powers.	
+1782	Okej, mr Donovan.	
+1783	Vi går nu!	
+1784	Vänta.	
+1785	Tro mig, jag säger till er.	
+1786	Det är ingen här.	
+1787	De släpper en annan man vid Checkpoint Charlie.	
+1788	Vi bara bekräftar att han är där.	
+1789	Nu!	
+1790	Enligt planen, är ni snäll.	
+1791	Vi går.	
+1792	Pryor dyker upp eller inte.	
+1793	Vi går.	
+1794	De väntar för att se om vi gör det utan honom.	
+1795	Vi behöver bara stå här och, visa att vi inte gör det.	
+1796	Jag skiter i vad de vill.	
+1797	Vi har vårt mål.	
+1798	Gå framåt, Abel.	
+1799	Gå framåt, sir.	
+1800	Ni kan gå.	
+1801	Är det inte efter planen åker vi hem.	
+1802	Vi utväxlar nu eller vi åker hem!	
+1803	Ni väntar på en annan man?	
+1804	Ja.	
+1805	Ni vill ha honom också.	
+1806	Jag vill ha honom.	
+1807	Betyder inget vad han vill, sir.	
+1808	Jag ansvarar och ni är fri att gå.	
+1809	Snälla gå.	
+1810	Gå över.	
+1811	Jag kan vänta.	
+1812	Det är något.	
+1813	Jag är inte säker än.	
+1814	Vänta!	
+1815	[NO TRANSLATION]	missing translation
+1816	Vi har honom!	
+1817	Jag...	
+1818	Jag skickade en present, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Det är en målning.	
+1821	Jag hoppas den har nån mening för dig.	
+1822	Förlåt.	
+1823	Jag tänkte inte på att ge dig en present.	
+1824	Det här är din present.	
+1825	Det här är din present.	
+1826	Är du okej?	
+1827	Kom, kom!	
+1828	Mr Donovan.	
+1829	Överste Abel bad mig att ge den här till er.	
+1830	Ursäkta mig, sir.	
+1831	Hade ni ansvaret för det här, sir?	
+1832	Ja.	
+1833	Jag måste tacka er.	
+1834	Jag måste tacka nån.	
+1835	Jag gav dem ingenting.	
+1836	Jag gav dem ingenting.	
+1837	Det spelar ingen roll.	
+1838	Det spelar ingen roll vad folk tror.	
+1839	Du vet vad du gjorde.	
+1840	Välkommen hem.	
+1841	Vilken resa.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Mår du bra?	
+1845	Ja, jag mår bra.	
+1846	Fick du marmeladen?	
+1847	Ja, ja.	
+1848	Ja,	
+1849	ja.	
+1850	Det gjorde jag.	
+1851	Enligt order.	
+1852	Jim.	
+1853	Den är från Arno's.	
+1854	Så?	
+1855	I hörnet!	
+1856	Älskling, jag var jäktad.	
+1857	Förlåt.	
+1858	Vi hade så bråttom.	
+1859	[NO TRANSLATION]	missing translation
+1860	Hur mår Roger,	
+1861	är han hemma?	
+1862	[NO TRANSLATION]	missing translation
+1863	Carol är hemma, Peggy är hemma.	
+1864	Alla är hemma.	
+1865	Mamma!	
+1866	Kom fort!	
+1867	Se!	
+1868	Mamma, kom hit!	
+1869	Kom!	
+1870	[NO TRANSLATION]	missing translation
+1871	Se!	
+1872	Titta!	
+1873	Kom in!	
+1874	Francis Gary Powers har blivit frisläppt från fängelse i Sovjetunionen och överlämnats till amerikanska myndigheter tidigt i morse i Berlin.	
+1875	Presidenten har omvandlat straffet för Rudolf Abel.	
+1876	Mr Abel har blivit förflyttad och har blivit släppt i Berlin.	
+1877	Ansträngningar att uppnå mr Powers frigivning har varit på gång under en tid.	
+1878	I de senaste ansträngningarna har regeringen haft samarbete och assistans av mr James B. Donovan, en advokat i New York.	
+1879	Frederic L. Pryor, en amerikansk student fasthållen av östtyska myndigheter sedan augusti 1961...	
+1880	Jag trodde pappa fiskade.	
+1881	Lax.	
+1882	Abel har nu försvunnit in i kommunistvärlden.	
+1883	Powers är här och svarar på frågor.	
+1884	Och Donovan har återgått till sin advokatbyrå.	
+1885	[NO TRANSLATION]	missing translation

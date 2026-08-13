@@ -1,0 +1,1885 @@
+1	Pemberhentian berikutnya di Broad Street.	
+2	Broad Street pemberhentian berikutnya.	
+3	Ke atas.	
+4	Lewat sini.	
+5	Dia tak lewat sini?	
+6	Tak ada tanda-tanda?	
+7	Dia tak di atas sini.	
+8	Turun lagi.	
+9	Permisi.	
+10	Permisi.	
+11	Terus ke depan dan parkir di pojok.	
+12	Ada tamu.	
+13	Kalian keberatan kalau aku ambil gigi dulu?	
+14	Kolonel, mohon berbalik.	
+15	Duduklah di tempat tidur.	
+16	Ayo jalan.	
+17	[NO TRANSLATION]	missing translation
+18	Gigi palsuku ada di wastafel.	
+19	Lihat saya.	
+20	Kami adalah agen dari Biro Investigasi Federal.	
+21	Lihat saya!	
+22	Saya bicara pada anda.	
+23	Kami menerima informasi terkait keterkaitan anda dengan mata-mata.	
+24	Lebih baik anda bekerjasama dengan kami saat ini, atau anda akan ditahan.	
+25	Anda paham, Kolonel?	
+26	Tidak, tidak terlalu paham.	
+27	Kenapa kau terus memanggilku Kolonel?	
+28	Anda harus berpakaian.	
+29	Kami harus geledah apartmen anda.	
+30	Apa aku boleh membersihkan paletku?	
+31	Kalau tidak, catnya bisa merusak.	
+32	Ada di belakangmu di sana.	
+33	Aku punya kain pembersihnya.	
+34	Terimakasih.	
+35	Baiklah, mulai geledah tempat ini.	
+36	Terima kasih.	
+37	Geledah kasurnya, ranjangnya, alas lantainya, kursinya.	
+38	Bisa kau taruh ini di asbak di dekat jendela sana?	
+39	Cari dengan seksama di meja itu.	
+40	Periksa mejanya.	
+41	Aku tak mau palet ini jadi rusak.	
+42	Jangan sebut orangku.	
+43	Dia bukan orangku.	
+44	Dia orangmu.	
+45	Siapa yang kita maksud?	
+46	Kita membicarakan orang yang diasuransikan oleh klienku.	
+47	Jadi, jangan anggap dia orangku.	
+48	Oke, baiklah.	
+49	Intinya, orang yang diasuransikan oleh klienmu, dia tidak menyanggah semua hal ini telah terjadi.	
+50	Semua...	
+51	hal ini?	
+52	Ya, lima hal ini.	
+53	Tunggu, tahan dulu.	
+54	Bukan lima hal.	
+55	Satu hal.	
+56	Sudah jelas, ada lima hal.	
+57	Maaf, ini tidak jelas bagiku.	
+58	Lima hal?	
+59	Jelaskan padaku.	
+60	Itu bukti diri.	
+61	Baiklah, ceritakan padaku kejadiannya.	
+62	Jelaskan padaku cerita masuk akal hingga ada lima hal ini.	
+63	Baik, tentu saja.	
+64	Orangmu ini...	
+65	Bukan orangku.	
+66	Yang diasuransikan oleh klienku.	
+67	Orang yang diasuransikan oleh klienmu berkendara menuju State Highway 19 dia hilang kendali mobilnya dan menabrak lima orangku, lima orang yang menyewaku untuk membela mereka karena kau tidak menghormati klaim mu.	
+68	Maksudmu, klienku tidak menghormati klaim, perusahaan asuransi ini?	
+69	Tn. Donovan, kita sudah jelas tentang subjek pembicaraan di sini.	
+70	Kecuali klienku menghormati setiap klaim.	
+71	Itu benar, Tn. Bates.	
+72	Setiap lembar, klaim yang sah, mencapai tanggungan tertingginya, yang mana 100.000 Dollar per kecelakaan sesuai tertera di polis orang ini.	
+73	Dan ini satu klaim.	
+74	Berdasarkan deskripsimu, dia menabrak lima orangku.	
+75	Orang yang diasuransikan klienku mendapat satu kecelakaan.	
+76	Satu, satu, satu.	
+77	Kehilangan kendali mobilnya dan menabrak lima pengendara motor.	
+78	Dari sudut pandang mereka, lima hal telah terjadi.	
+79	Begini, Bob.	
+80	Boleh kupanggil Bob?	forced duplication
+81	Boleh kupanggil Bob?	forced duplication
+82	Jim.	
+83	Jika aku bermain bowling dan melakukan strike, satu hal terjadi.	
+84	Bukan sepuluh hal yang terjadi.	
+85	Jim, orang-orangku bukan balok bowling. Orangmu memperlakukan mereka seperti itu.	
+86	[NO TRANSLATION]	missing translation
+87	Biar kuselesaikan dulu.	
+88	Biar kuselesaikan dulu.	
+89	Jika rumahmu diasuransikan senilai 100.000 Dollar lalu angin tornado menyapu semuanya, angin itu menyapu satu rumah.	
+90	Angin itu tidak memilih setiap perabotannya untuk dihancurkan di tempat berbeda.	
+91	Jika itu yang kau maksud, berarti tidak ada batas dari tanggungan kami dan itu akhir dari bisnis asuransi.	
+92	Dan kemudian, Bob, tak seorang pun yang selamat.	
+93	Watters, Cowan & Donovan.	
+94	Bisa saya bantu?	
+95	Pagi, Pak Donovan.	
+96	Selamat pagi, Alison.	
+97	Saya menggeser rapat dengan Prudential yang pukul 9 pagi, Pak.	
+98	Kenapa kau lakukan itu?	
+99	Aku yang memintanya.	
+100	Semua baik-baik saja, Tom?	
+101	Tinggalkan barangmu pada Alison.	
+102	Ayo masuk.	
+103	Ada sesuatu hal yang penting.	
+104	Seseorang datang menemui kita.	
+105	Natalie mengambilkan kopimu.	
+106	Nescafe, krim, dua gula, bukan?	
+107	Benar.	
+108	Terima kasih.	
+109	Lynn!	
+110	Jim!	
+111	Senang berjumpa lagi.	
+112	Bagaimana keluargamu?	
+113	Baik.	
+114	Terimakasih.	
+115	Bagaimana Annie?	
+116	Di kasus pembunuhan.	
+117	Kami punya urusan hukum saat liburan.	
+118	Jika dia bertugas di sana, dia akan tampil bagus.	
+119	Jadi, ada apa?	
+120	Baiklah, ini perihalnya.	
+121	Mata-mata Soviet tertangkap, kami ingin kau membelanya.	
+122	Ini dakwaannya.	
+123	Wow.	
+124	Aku ragu bisa menerimanya.	
+125	Terdakwa tak mengenal pengacara mana pun.	
+126	Pengadilan Federal melemparnya pada kita.	
+127	Komite Pengacara memungut suara.	
+128	Dan kaulah yang terpilih.	
+129	Sangat penting untuk kita...	
+130	Ini penting untuk negara kita, Jim, agar pria ini mendapat perlakuan adil.	
+131	Pengadilan Amerika sedang diuji.	
+132	Tentu saja, jika kau menganggap seperti itu, ini suatu kehormatan.	
+133	Tapi, Lynn, aku pengacara asuransi.	
+134	Aku sudah bertahun-tahun tidak menangani kasus kriminal.	
+135	Ini seperti mengendarai sepeda motor, bukan?	
+136	Kau menonjol di Nuremberg.	
+137	Saat itu aku di tim jaksa penuntut.	
+138	Bukan itu intinya.	
+139	Kau tak asing dengan hukum kriminal.	
+140	Jim, lihatlah situasinya.	
+141	Pria ini dicerca publik.	
+142	Dan aku juga akan begitu.	
+143	Ya, sebagai pihak belakang layar.	
+144	Tapi seperti itulah tepatnya agar ini tuntas, dan tuntas secara elegan.	
+145	Jangan sampai sistem peradilan kita dianggap melempar orang ke abu pembakaran.	
+146	Anggap aku terima, buktinya seperti apa?	
+147	Cukup banyak.	
+148	Bagus. 	
+149	Bagus.	
+150	Semua orang akan membenciku tapi paling tidak aku akan kalah.	
+151	Bagaimana menurutmu, Tom?	
+152	Firma akan kesusahan.	
+153	Aku ada pekerjaan di sini.	
+154	Kupikir ini tugas patriotik.	
+155	Ini misi penting.	
+156	Sudah kubilang Lynn, firma tak bisa menolak, dan kau bisa berpikir untuk menolaknya juga.	
+157	Kurasa kau harus membela si keparat ini.	
+158	Jadi, kau melakukannya?	
+159	Melakukan apa?	
+160	Membela Abel, si mata-mata Soviet.	
+161	Mungkin. 	
+162	Aku harus bicara dulu pada...	
+163	Tunggu. Tahu dari mana?	
+164	Apa ada di buletin kantor?	
+165	Tidak. 	
+166	Aku tadi bicara dengan Richard Earl...	
+167	Dengar, jika aku melakukannya, aku akan butuh bantuanmu.	
+168	Kau bisa bekerja malam ini?	
+169	Aku punya janji makan malam, Pak.	
+170	Sekarang Selasa, bukan? 	
+171	Ya, tak ada, aku tak ada acara.	
+172	Terima kasih, Pak.	
+173	Tapi itu juga suatu kehormatan.	
+174	Dan asosiasi pengacara telah memintaku karena mereka ingin tunjukkan meski mata-mata sekalipun bisa mendapatkan pengacara handal.	
+175	Mungkin suatu kehormatan jika kita tak membelanya.	
+176	Hei, sayang, kenapa kau masih di rumah?	
+177	Janji malamku batal.	
+178	Itu sungguh kejam.	
+179	Siapa begundal itu?	
+180	Lebih baik tidak kukatakan.	
+181	Duduklah.	
+182	Kami baru saja mulai.	
+183	Orang-orang ketakutan.	
+184	Mereka membangun bunker untuk perlindungan dari orang seperti mata-mata itu.	
+185	Aku pergi ke toko, orang-orang membeli makanan kaleng dan tablet potasium.	
+186	Semua membicarakan orang ini dan maksud jahatnya.	
+187	Dia ancaman bagi kita.	
+188	Seorang pengkhianat.	
+189	Siapa yang pengkhianat?	
+190	Para Rosenberg yang pengkhianat.	
+191	Siapa mereka?	
+192	Mereka memberi rahasia bom atom pada Rusia.	
+193	Mereka orang Amerika.	
+194	Mereka mengkhianati negaranya.	
+195	Kau tak boleh menuduh Abel seorang pengkhianat.	
+196	Dia bukan warga Amerika.	
+197	Oh, dengarlah dirimu.	
+198	Kau sudah membelanya.	
+199	Kau menjelaskannya padaku.	
+200	Kau bilang kau hanya mempertimbangkan untuk membelanya.	
+201	Aku hanya memikirkannya, dengan sangat keras.	
+202	Setiap orang layak untuk dibela.	
+203	Orang manapun.	
+204	Jim, apa yang layak kita dapat?	
+205	Kau tahu bagaimana orang akan melihat kita?	
+206	Keluarga seorang pria yang membebaskan pengkhianat?	
+207	Dia bukan pengkhianat, Mary.	
+208	Ya, ya.	
+209	Roger, coba lihat ke sana!	
+210	Dia bukan pengkhianat...	
+211	Kenapa selalu aku?	
+212	Oh! 	
+213	Tunggu sampai doa dimulai.	
+214	Aku lapar!	
+215	Dia orang paling tidak populer di negara ini, dan kau berusaha menjadi yang ke-dua!	
+216	Ya, dan aku yang ke-tiga.	
+217	Carol, kau cuma salah memilih pria.	
+218	Aku ingin makan.	
+219	Mary, jangan berargumen kita tidak sedang berargumen.	
+220	Kau menentangnya, aku di pihaknya?	
+221	Bukan, aku tidak di pihaknya.	
+222	Aku tidak setuju Rusia memata-matai kita.	
+223	Aku membela haknya untuk untuk dapat pembelaan di peradilan, yang karena itulah, disebut peradilan hukum.	
+224	Aku tak bermaksud mengganggu makan malam.	
+225	Sebuah peradilan hukum...	
+226	Hei, Doug.	
+227	Oh, sama sekali tidak. 	
+228	Halo, Doug.	
+229	Jim cuma berdebat.	
+230	Aku tak mendebat.	
+231	Ayo, Doug, bergabunglah.	
+232	Kami ada daging asap malam ini.	
+233	Jadi, kau datang untuk membantu Jim berpikir apa dia akan menerima kasus ini?	
+234	Oh, kami menerimanya!	
+235	Sungguh luar biasa, bukan!	
+236	Berkatilah kami, O Tuhan, dari kelimpahan-Mu, dan berkat yang akan kami terima	
+237	melalui Kristus Tuhan kami.	
+238	Amin.	
+239	Selamat pagi, Pak.	
+240	Saya Jim Donovan.	
+241	Ini surat mandat saya.	
+242	Saya rekanan di Watters, Cowan and Donovan.	
+243	Saya sudah diakui oleh pengacara New York pada tahun 1941.	
+244	Anda telah dituntut dengan tiga tuduhan dan 19 tindak kejahatan.	
+245	Berkonspirasi untuk mengirim rahasia pertahanan dan bom atom Amrika, kepada Uni Soviet, konspirasi membagikan rahasia, dan tidak terdaftar sebagai agen asing.	
+246	Apa ada agen asing yang terdaftar?	
+247	Jika anda tak keberatan saya bertanya, Pak, karena anda ditahan, anda dari mana saja?	
+248	Tak bisa kujelaskan lebih detil.	
+249	Anda tak tahu?	
+250	Mereka membawaku ke bandara dan dinaikkan ke pesawat, lalu diturunkan.	
+251	Di suatu tempat yang panas.	
+252	Di sini panas.	
+253	Lebih panas, sangat lembab.	
+254	Mereka menempatkanku di sebuah ruangan.	
+255	Anda dipukuli?	
+256	Tidak.	
+257	Aku diajak bicara.	
+258	Ada pengajuan penawaran.	
+259	Apa maksudmu?	
+260	Tawaran pekerjaan, bekerja pada pemerintahmu.	
+261	Dikatakan, jika aku bekerja sama, tak ada tuntutan lagi atas diriku.	
+262	Dan aku akan diberi uang.	
+263	[NO TRANSLATION]	missing translation
+264	Dan anda tolak?	
+265	Seperti yang kau lihat.	
+266	Tentu saja saya tak bisa mengabsahkan itu.	
+267	Saya merasa batasan tugas mendorong anda untuk bekerjasama dengan pemerintah A.S.	
+268	Aku menolak.	
+269	Mungkin bisa kau pastikan dengan rekan CIA mu bahwa aku berniat begitu.	
+270	Tidak.	
+271	[NO TRANSLATION]	missing translation
+272	Saya tidak bekerja untuk agensi.	
+273	Saya tidak bekerja untuk pemerintah.	
+274	Saya di sini menawarkan layanan sebagai pengacara anda.	
+275	Jika anda terima, saya akan bela anda.	
+276	Jika aku menerimamu?	
+277	Kau pandai di bidangmu?	
+278	Ya. 	
+279	Aku cukup pandai.	
+280	Kau pernah membela terdakwa mata-mata?	
+281	Belum pernah.	
+282	Ini akan jadi pengalaman pertama untuk kita berdua.	
+283	Ya.	
+284	Baik.	
+285	Baik?	
+286	Anda terima?	
+287	Ya, aku terima.	
+288	Bagus.	
+289	Mari kita mulai di sini.	
+290	Jika anda tetap teguh pada keputusan anda untuk tidak bekerja sama dengan pemerintah AS...	
+291	Aku tetap teguh.	
+292	Ya.	
+293	Maka jangan bicarakan kasus anda pada siapapun, baik dalam atau luar pemerintah.	
+294	Kecuali padaku, sebagai kepercayaan anda.	
+295	Saya punya mandat untuk membela anda.	
+296	Tak ada orang lain.	
+297	Yang jelas, semua orang lebih tertarik mengirimmu ke kursi listrik.	
+298	Baiklah.	
+299	Anda tidak kaget.	
+300	Apa itu akan membantu?	
+301	[NO TRANSLATION]	missing translation
+302	Aku ingin peralatan menggambar.	
+303	Itu tak mungkin.	
+304	Pensil, secarik kertas.	
+305	Rokok.	
+306	Tolonglah?	
+307	Tn. Donovan, negaramu juga punya orang sepertiku melakukan hal sama untuk negaranya.	
+308	Jika mereka tertangkap, aku yakin kau ingin mereka diperlakukan baik.	
+309	Siapa namamu?	
+310	Francis Gary Powers.	
+311	Pangkat? Penugasan?	
+312	Letnan Satu, Angkatan Udara AS.	
+313	Apa kau punya kaitan dengan Uni Soviet Letnan Powers?	
+314	Kau bercanda?	
+315	Cukup jawab pertanyaannya, Letnan.	
+316	Ya, atau tidak atau sesingkat yang kau bisa.	
+317	Apa kau punya kaitan dengan Uni Soviet?	
+318	Tentu tidak.	
+319	Kau tahu kenapa kau di sini?	
+320	Mmm-mmm.	
+321	Apa itu artinya tidak?	
+322	Ya. 	
+323	Maksudku...	
+324	Tidak, cukup tidak.	
+325	Ya, aku jelas tak tahu kenapa aku di sini.	
+326	Hadap ke depan, Letnan.	
+327	Ya, Pak.	
+328	Bagaiman keadaanmu di sana, Gary?	
+329	Cukup baik.	
+330	Kurasa aku lulus.	
+331	Kau mungkin dapat nilai lebih tinggi.	
+332	Siapa yang menang?	
+333	Tentu saja aku.	
+334	[NO TRANSLATION]	missing translation
+335	Aku ikut.	
+336	Jadi, semua ini milikku.	
+337	Sudah kubilang jangan bermain dengannya.	
+338	Baiklah, pengemudi, ini kesepakatannya.	
+339	Kalian telah terpilih untuk sebuah misi yang tidak boleh kalian diskusikan dengan siapapun selain di ruangan ini.	
+340	Tanpa terkecuali.	
+341	Aku tak peduli siapa yang kalian percayai.	
+342	Istri, Ibu kekasih.	
+343	Tuhan tempat kalian berdoa.	
+344	Kalian tidak mengatakan pada mereka apapun apa yang akan kuberitahu pada kalian.	
+345	Masing-masing kalian telah memenuhi kualifikasi.	
+346	Sistem keamanan tingkat tinggi.	
+347	Pilot handal yang sudah memiliki jam terbang tinggi di pesawat tempur.	
+348	Kita sedang menghadapi perang.	
+349	Perang ini tidak melibatkan pasukan.	
+350	Tapi melibatkan informasi.	
+351	Kalian akan mengumpulkan informasi.	
+352	Kalian akan mengumpulkan teknologi musuh.	
+353	Teknologi yang kalian kumpulkan memberi kita kendali pada pertukaran termonuklir dengan Uni Soviet.	
+354	Atau, itupun bisa mencegahnya.	
+355	Untuk tujuan publik, bahkan istri atau Ibu kalian atau kekasih, atau Tuhan yang di atas sana misi kalian tidak ada.	
+356	Jika misi kalian tidak ada, kalian pun tidak ada.	
+357	Kalian tidak bisa dilumpuhkan.	
+358	Kalian tidak bisa ditangkap.	
+359	Kini kalian bekerja untuk CIA.	
+360	Jim, kudengar klienmu berbicara dengan aksen palsu.	
+361	Apa dia terus begitu sepanjang waktu?	
+362	Aku cukup yakin aksennya memang begitu.	
+363	Dia memiliki nama Rusia, tapi berpaspor Inggris.	
+364	Aku ragukan itu asli.	
+365	Jadi Jim, kita sampai di mana?	
+366	Kulihat di sini...	
+367	Ya, Pak Hakim, anda melihat, Kurasa waktu tiga minggu tidaklah cukup.	
+368	[NO TRANSLATION]	missing translation
+369	Kami punya banyak barang bukti, sebagaimana anda ketahui.	
+370	Kau ingin penundaan?	
+371	Enam minggu.	
+372	Hanya ada aku dan asistenku.	
+373	Jim, apa ini serius?	
+374	Pak?	
+375	Ini serius?	
+376	[NO TRANSLATION]	missing translation
+377	Ya, ini serius.	
+378	Anda bisa lihat di berkasnya...	
+379	Jim, pria ini mata-mata Soviet.	
+380	Itu dugaan orang.	
+381	Ayolah, konsuler!	
+382	Yang Mulia.	
+383	Tentu saja, aku salut padamu.	
+384	Kami semua salut kau menerima tugas tanpa pamrih.	
+385	Pria ini harus segera diproses.	
+386	Tapi, mari bersikap dewasa.	
+387	Dia akan terima pembelaan yang layak.	
+388	Dan, jika Tuhan berkehendak, dia akan dihukum.	
+389	Ayolah, konsuler.	
+390	Jangan main-main dengan ini.	
+391	Tidak di ruang sidangku.	
+392	Tanggal sudah ditetapkan dan kita akan ke pengadilan.	
+393	Taksi!	
+394	Taksi!	
+395	Lampumu masih menyala.	
+396	Dasar keparat.	
+397	Aku harus segera kembali ke Manhattan.	
+398	Lampunya masih menyala, bukan?	
+399	Dasar keparat.	
+400	Berlawanan dengan tingkat kenyamanan mereka.	
+401	Undang-undang itu belum berubah.	
+402	Oh, maaf, Pak.	
+403	Permisi. 	
+404	Maaf.	
+405	[NO TRANSLATION]	missing translation
+406	Tn. Donovan.	
+407	Apa?	
+408	Apa?	
+409	CIA.	
+410	Ya.	
+411	Aku hanya ingin mengobrol.	
+412	Bagaimana kelanjutan kasusnya?	
+413	Kasusnya berjalan baik.	
+414	Cukup baik.	
+415	Mmm-hmm.	
+416	Orangmu sudah bicara?	
+417	Maaf.	
+418	Kau sudah bertemu dia. 	
+419	Dia bicara?	
+420	Dia belum katakan apa pun?	
+421	Kita tidak membicarakan ini.	
+422	Tidak. Tentu saja tidak.	
+423	Tidak, maksudku, kita sungguh tidak membicarakannya.	
+424	Kau memintaku untuk menodai hak istimewa klien dan pengacara.	
+425	Ayolah, konsuler.	
+426	Aku harap orang seperti kalian berhenti mengucapkan Oh, ayolah, konsuler.	
+427	Aku tidak menyukainya sejak awal itu diucapkan hari ini.	
+428	Hakim mengucapkan itu dua kali kepadaku.	
+429	Dan semakin aku mendengarnya, semakin aku tak suka.	
+430	Baik, dengar aku paham hak istimewa klien-pengacara.	
+431	Aku paham semua permainan di bidang hukum.	
+432	Dan aku paham, itu adalah mata pencaharianmu.	
+433	Tapi aku bicara padamu terkait hal lain.	
+434	Keamanan negaramu.	
+435	Dan aku minta maaf, andai caraku menyinggungmu.	
+436	Tapi kami perlu tahu apa yang Abel katakan kepadamu.	
+437	Kau mengerti, Donovan?	
+438	Kami perlu tahu.	
+439	Jangan sok jagoan denganku.	
+440	Kita tak ada aturan di sini.	
+441	Kau agen Hoffman, bukan?	
+442	Ya.	
+443	Keturunan Jerman.	
+444	Ya, lalu?	
+445	Namaku Donovan.	
+446	Irlandia.	
+447	Dari kedua orangtuaku.	
+448	Aku Irlandia, kau Jerman.	
+449	Tapi apa yang menjadikan kita warga Amerika?	
+450	Hanya satu hal.	
+451	Satu, satu, satu.	
+452	Kitab undang-undang.	
+453	Kita menyebutnya institusi, dan kita setuju dengan aturan itu, dan itulah yang menjadikan kita warga Amerika.	
+454	Itu semua yang menjadikan kita warga Amerika jadi jangan katakan tidak ada aturan, dan jangan mengangguk seperti itu kepadaku, keparat.	
+455	Apa kami perlu mengkhawatirkanmu?	
+456	Tidak jika aku dibiarkan sendiri melakukan tugasku.	
+457	Mulai saat ini dan seterusnya kalian tidak menyebut Y-2 sebagai pesawat mata-mata atau pesawat pengintai.	
+458	Kalian menyebutnya dengan The article.	
+459	The article memiliki rentang sayap 24 meter.	
+460	Dijalankan oleh satu mesin J57 P-37 Pratt dan Whitney.	
+461	Daya dorong 4.5 ton dan kecepatan maksimum 692 Km/jam.	
+462	Pesawat ini tidak kencang, tapi pada ketinggian jelajah di 70.000 kaki, tak akan ada yang bisa mendekati kalian.	
+463	70.000?	
+464	Tujuannya adalah musuh tak akan tahu kalian di sana.	
+465	Ini terlihat tipis.	
+466	Tambahan berat berpengaruh pada daya jelajah ketinggian, dan kita perlu memasang kamera-kamera.	
+467	Itu lensa 4.500 milimeter, dikali tiga.	
+468	Kamera pencitraan tajam empat kali lebih tajam daripada kamera pngintai sebelumnya.	
+469	Kalian akan banyak memotret, banyak sekali potretan.	
+470	Pada ketinggian 70.000 kaki, the article mampu memotret 5.7 Km2 wilayah sekali jalan.	
+471	Sekarang, para pengemudi, tolong dengar penjelasan agen Summer.	
+472	Peralatan yang diperlukan dalam misi kalian, ada di sebelah sini.	
+473	B camera, 40 magasin 8 model, Keystone Capri K-25, perak.	
+474	Gagang alat cukur berongga.	
+475	Satu set tabel kode rahasia di atas kertas yang bisa dimakan.	
+476	Peralatan spesialis fotografi.	
+477	Baiklah. 	
+478	Kami sudah cukup dengan infonya,	
+479	terimakasih.	
+480	Maaf, Agen Bosco.	
+481	Blasco.	
+482	Ya, Pak.	
+483	Kelihatannya ada subseksi pada daftar di sini.	
+484	Hampir semua barang-barang itu datang dari studionya tapi sisanya berasal dari kamar hotel dia ditangkap.	
+485	Tempat kami menemukan dia.	
+486	Kamar hotel yang kalian geledah?	
+487	Ya.	
+488	Boleh kulihat surat perintahnya?	
+489	Apanya?	
+490	Ya, jelaskan ini kepadaku.	
+491	Saat itu ada surat perintah.	
+492	Saat itu memang ada surat perintah.	
+493	Yaitu surat perintah penahanan warga asing, tapi kala itu tidak ada surat perintah geledah untuk tuduhan tindak kriminal.	
+494	Jadi, penggeledahan dan bukti yang didapat dari penggeledahan itu, semuanya tidak sah dan tidak bisa diakui.	
+495	Hak perlindungan apa untuk dia, Yang Mulia? 	
+496	Pria itu bukanlah...	
+497	Pria itu siapa?	
+498	Dia Rudolf Ivanovich Abel.	
+499	Dia seorang warga Soviet.	
+500	Dia bukan warga Amerika.	
+501	1886, Yick Wo V. Hopkins.	
+502	Di persidangan meskipun warga asing, kala itu imigran China, tidak boleh dituduh kriminal tanpa hak proses hukum, termasuk warga asing yang ilegal.	
+503	Departmen Pengadilan Negeri memiliki kesetiaan utamanya pada Amerika Serikat.	
+504	Bagaimana mungkin warga asing yang masuk secara ilegal menerima pencabutan hak.	
+505	Hak sebagai apa?	
+506	Sebagai warga Amerika?	
+507	Hak atas apa, konsuler?	
+508	Kita di tengah perang peradaban.	
+509	Mata-mata Rusia ini datang mengancam kelanjutan hidup kita.	
+510	Sekarang, ada persidangan yang menantiku.	
+511	Pergilah ke sana, dan duduk di sebelah orang Rusia itu.	
+512	Mari kita bereskan ini.	
+513	Dan usulanmu ditolak.	
+514	Sebaiknya dia sudah punya asuransi untuk dirinya.	
+515	Begaimana situasi kita?	
+516	Di dalam sana?	
+517	[NO TRANSLATION]	missing translation
+518	Tidak terlalu bagus.	
+519	Kenyataanya, kau bukan warga Amerika.	
+520	Itu benar.	
+521	Dan menurut atasanmu kau juga bukan warga Soviet.	
+522	Atasan, tidak selalu benar, tapi dia selalu menjadi atasan.	
+523	Kau pernah merasa khawatir?	
+524	Apa itu akan membantu?	
+525	Semua berdiri.	
+526	Saya berjanji untuk tetap setia untuk bendera Amerika Serikat, dan kepada Republik tempat berdirinya, satu negara di bawah kuasa Tuhan dan tidak dipisahkan, dengan kebebasan dan keadilan untuk semua...	
+527	Pertama, kalian harus tahu apa yang terjadi saat bom atom meledak.	
+528	Ada kilatan cahaya, lebih terang daripada matahari.	
+529	Itu bisa menghancurkan bangunan, memecah jendela seluruh kota.	
+530	Tapi jika kalian membungkuk dan terlindungi seperti Bert, kalian akan lebih aman.	
+531	Ada dua jenis serangan, dengan peringatan dan tanpa peringatan.	
+532	[NO TRANSLATION]	missing translation
+533	Ada apa ini?	
+534	Ayah, ini sangat penting.	
+535	Saat perang tiba, hal pertama yang mereka lakukan adalah memutus jaringan air dan listrik.	
+536	Jadi hal pertama yang kita lakukan adalah mengisi ini, gunakan shower di kamarmu, gunakan bak air di lantai atas, di kebun...	
+537	Itu semua ide bagus.	
+538	Tapi, Roger, ayah rasa ini bukan hal yang harus kau khawatirkan.	
+539	Ya, tapi saat ayah dengar suara sirine tak cukup waktu untuk mengisi bak mandi dan bak cuci piring.	
+540	Tak akan ada sirine.	
+541	Apa ini?	
+542	Saat bom tiba, kendalinya akan mengarah ke Gedung Empire State.	
+543	Tapi bom itu dilepaskan dari ketinggian 10.000 kaki.	
+544	Di majalah Life, itu dinamakan serangan udara, dan jika bom itu berbobot 50 megaton gelombang ledakannya akan menembus dan melelehkan semuanya dari sini hingga ke sini.	
+545	Termasuk tempat tinggal kita.	
+546	Di sini.	
+547	Ya, di sana.	
+548	Tapi, Roger, tak ada yang akan menjatuhkan bom atom pada kita.	
+549	Tapi Rusia akan melakukan itu.	
+550	Ayah tahu, orang Rusia yang Ayah bela?	
+551	Dia di sini untuk mempersiapkan semua hal untuk orang yang akan menjatuhkan bom itu.	
+552	[NO TRANSLATION]	missing translation
+553	Tidak, dia tidak ke sini untuk hal tersebut.	
+554	Dia bahkan bukan orang Rusia.	
+555	Kami rasa dia lahir Inggris.	
+556	Ya, tapi dia mata-mata Rusia.	
+557	Aku tak mengerti apa yang sedang Ayah lakukan.	
+558	Ayah bukan komunis, jadi kenapa ayah membela orang komunis?	
+559	Karena itu tugas ayah.	
+560	Sebelumnya tidak pernah.	
+561	Kasus antara Amerika Serikat dengan Rudolf Abel, sebagai keputusan pertama dalam dakwaan ini, apa keputusan anda terhadap terdakwa?	
+562	Bersalah atau tidak bersalah?	
+563	Bersalah.	
+564	Keputusan kedua?	
+565	Bersalah.	
+566	Keputusan ketiga?	
+567	Bersalah.	
+568	Yang Mulia, saya mengajukan mosi untuk penundaan dakwaan bersalah ini untuk pengumpulan barang bukti.	
+569	Ditolak.	
+570	Juri dipersilakan keluar.	
+571	Terima kasih.	
+572	Aku ingin menambahkan, jika saya di sisi kalian, saya akan memutuskan hal sama.	
+573	Vonis akan ditetapkan pada 15 November.	
+574	Hukuman mati bukanlah putusan awal.	
+575	Jangan khawatir.	
+576	Aku tak takut mati, Tn. Donovan.	
+577	Meskipun begitu, itu bukan pilihan utamaku.	
+578	Kau ketinggalan ini.	
+579	Terima kasih.	
+580	Terima kasih banyak!	
+581	Kau tak pernah menanyakan apa tuduhan itu benar.	
+582	Apa aku memang seorang mata-mata.	
+583	Ini cara kita melakukannya.	
+584	Kasus terhadapmu, penting.	
+585	Membuktikan pada mereka, itu penting.	
+586	Fiksinya adalah...	
+587	Apa kau melakukannya atau tidak, itu tidak penting.	
+588	Negara bagian harus membuktikan, bahwa kau ini mata-mata.	
+589	Jadi kau tak curiga?	
+590	Tidak terlalu.	
+591	Aku selalu beranggapan kau seorang seniman.	
+592	Istriku, dia seorang seniman.	
+593	Dia seorang musisi di orkestra anak-anak Moscow.	
+594	Alat musik apa?	
+595	Harpa.	
+596	[NO TRANSLATION]	missing translation
+597	Berarti, dia seorang bidadari.	
+598	Berdiri di sana seperti itu, mengingatkanku pada seseorang, yang sering datang ke rumahku saat aku masih muda.	
+599	Ayahku sering bilang, perhatikan pria ini.	
+600	Aku melakukannya, setiap dia datang.	
+601	Dan tak sekalipun dia melakukan hal mengesankan.	
+602	Aku mengingatkan kau padanya?	
+603	Suatu hari, saat aku masih seumuran putramu.	
+604	Rumah kami dikepung oleh gerilyawan perbatasan.	
+605	Mereka ada 12 orang.	
+606	Ayahku dipukuli, Ibuku dipukuli, dan pria ini, teman ayahku, dia juga dipukuli.	
+607	Dan kuperhatikan dia.	
+608	Setiap kali mereka memukulinya dia berdiri kembali.	
+609	Maka mereka memukuli lebih keras.	
+610	Tetap saja, dia beridir kembali.	
+611	Kurasa karena itulah, mereka berhenti memukul.	
+612	Mereka biarkan dia hidup.	
+613	Aku ingat mereka berkata...	
+614	Itu artinya, seperti... Pria yang gigih.	
+615	Pria yang gigih.	
+616	Halo, Jim!	
+617	Millie, kau sungguh cantik.	
+618	Mortie sibuk memasang dasinya.	
+619	Ayo, masuklah.	
+620	Mau scotch, Jim?	
+621	Oh, ya.	
+622	Terima kasih.	
+623	Cukup sedikit saja.	
+624	Yang Mulia.	
+625	Halo, Jim!	
+626	Aku mau pergi.	
+627	Cuma ada sedikit waktu.	
+628	Acara arak-arakan.	
+629	Millie sangat cerewet.	
+630	Terimakasih, bersedia menemuiku.	
+631	Aku cuma menyampaikan pemikiranku terhadap vonis.	
+632	Jadi kupikir aku menemuimu di rumah. Karena beberapa maksudku agak sedikit keluar aturan.	
+633	Ya, ini kasus semacam itu.	
+634	Kuharap aku tidak terlalu keras di sidang tapi itu seperti yang kaukatakan.	
+635	Tak ada dari kasus ini yang sesuai aturan.	
+636	Ini kasus besar.	
+637	Kasus besar!	
+638	Terima kasih.	
+639	[NO TRANSLATION]	missing translation
+640	Pak...	
+641	Kurasa perlu dipertimbangkan demi kebaikan Amerika Serikat kalau Abel tetap dibiarkan hidup.	
+642	Kenapa?	
+643	Aku belum memutuskannya tapi jika ia dulu mau bekerjasama, bekerja dengan pemerintah, dia sudah bebas.	
+644	Benar, tapi masalah di sini...	
+645	[NO TRANSLATION]	missing translation
+646	Maaf.	
+647	Kau tak bisa mengatakan Amerika Serikat akan aman jika dia habiskan sisa hidupnya di penjara.	
+648	Bagaimana bisa ini berdampak nasional?	
+649	Tidak secara langsung, Pak.	
+650	Ini memungkinkan untuk kedepannya. Seorang warga Amerika dengan tugas sama ditangkap oleh Soviet Russia.	
+651	Kita mungkin ingin memiliki seseorang untuk pertukaran.	
+652	Wow.	
+653	Itu kedengaran seperti memutar kemungkinan.	
+654	Kau bisa melakukan itu hingga ternakmu pulang.	
+655	Memutar kemungkinan sudah pekerjaanku.	
+656	Aku di asuransi.	
+657	Dan tak ada yang perlu diragukan dalam hal ini.	
+658	Semua ini berada dalam cakupan aman.	
+659	Ini semacam alasan kenapa orang membeli asuransi.	
+660	Jika kita vonis mati orang ini, maka kita akan terbuka.	
+661	Kita tak punya pegangan untuk cadangan di kala badai menghadang.	
+662	Pidato yang bagus.	
+663	Pak, selain itu juga ada alasan kemanusiaan.	
+664	Haruskah dia mati hanya karena menjalankan tugasnya?	
+665	Baiklah, konsuler.	
+666	Aku harus pergi.	
+667	Senang bertemu denganmu, Jim.	
+668	Kuantar kau keluar.	
+669	Harap berdiri.	
+670	Pengadilan wilayah Amerika Serikat wilayah Timur New York, dimulai.	
+671	Yang Mulia Mortimer Byers memasuki ruang sidang.	
+672	Silakan duduk.	
+673	Terdakwa harap berdiri.	
+674	Dari pertimbangan pengadilan ini untuk vonis terkait, berdasarkan putusan bersalah dari juri dari masing-masing keputusan, yang diyakini telah mencapai kesepakatan.	
+675	Menurut semua putusan bersalah yang ada, terdakwa dikenai hukuman oleh Jaksa Agung Amerika Serikat hukuman penjara di institusi federal yang dijatuhkan padanya selama 30 tahun.	
+676	Petugas, dipersilakan membawa terdakwa ke tahanan.	
+677	[NO TRANSLATION]	missing translation
+678	Tidak ada eksekusi listrik?	
+679	Tidak.	
+680	[NO TRANSLATION]	missing translation
+681	Kenapa kita tak menggantungnya?	
+682	Demi Tuhan, mengapa dia tidak digantung?	
+683	Duduklah, Pak!	
+684	Dia mata-mata!	
+685	Dia membunuhku kita dengan kebohongan!	
+686	Demi Tuhan, kenapa kita tidak menggantung dia?	
+687	Itu benar!	
+688	Dia mata-mata!	
+689	Tn. Donovan!	
+690	Tn. Donovan!	
+691	[NO TRANSLATION]	missing translation
+692	Satu pertanyaan saja, Pak.	
+693	Topiku!	
+694	Topiku!	
+695	Topiku!	
+696	Tak ada yang bisa berkomentar.	
+697	Tn dan Ny. Donovan tidak menjawab pertanyaan.	
+698	Bagaimana perasaan anda sekarang? Apa ancaman nasional terlah berakhir?	
+699	Tn. Donovan, anda senang dengan putusan itu?	
+700	[NO TRANSLATION]	missing translation
+701	Kami punya cukup bukti kuat untuk mengajukan banding.	
+702	Banding?	
+703	Ya, naik banding.	
+704	Jim, kau melakukan tugas dengan baik.	
+705	Kau memenuhi mandatmu.	
+706	Tapi orang ini seorang mata-mata.	
+707	Putusannya sudah benar dan tak ada alasan untuk banding.	
+708	Terdapat banyak alasan prosedur.	
+709	Kita tahu, penggeledahan itu tercemar.	
+710	Dan amandemen keempat selalu memiliki bobot lebih banyak dalam forum banding.	
+711	Kita punya kesempatan bagus.	
+712	Apa yang kau bicarakan?	
+713	Kita seharusnya hanya menunjukkan dia layak mendapat pembelaan.	
+714	Kenapa kau mengutip isi konstitusi padaku?	
+715	Tom, pandang aku dan katakan kita tidak punya banyak bukti untuk naik banding, aku akan lepaskan ini sekarang.	
+716	Aku tak katakan itu.	
+717	Kau tahu apa yang kukatakan.	
+718	Tom merasa ini akan menimbulkan pengorbanan.	
+719	Itu benar.	
+720	Pengorbanan pada keluarga dan firmamu.	
+721	Aku rindu dengan musik.	
+722	Mereka telah periksa radionya, memastikan tak ada pemancar di dalamnya.	
+723	Tentu saja.	
+724	Shostakovich.	
+725	[NO TRANSLATION]	missing translation
+726	Shostakovich, seorang seniman hebat.	
+727	Kupikir pijakan terkuat kita untuk banding adalah konstitusional.	
+728	Peluang terbaik kita adalah jika pengadilan tinggi setuju meninjau kasus kita.	
+729	Jim...	
+730	Kau harus berhati-hati.	
+731	Hati-hati.	
+732	[NO TRANSLATION]	missing translation
+733	Edward byrnes.	
+734	[NO TRANSLATION]	missing translation
+735	Dan Richard Long.	
+736	Selamat pagi, Suzanne.	
+737	Selamat pagi, Dick.	
+738	Ada surat istimewa untukmu.	
+739	Oh, dia.	
+740	Ibu!	
+741	Demi Tuhan, apa yang terjadi?	
+742	Sayang, kau baik saja?	
+743	Ibu!	
+744	Kau terluka?	
+745	Aku memegannya.	
+746	Ke lantai atas.	
+747	Kalian baik saja?	
+748	Aku duduk membelakangi dinding, Ayah!	
+749	Kau tak apa-apa?	
+750	Kau baik-baik saja?	
+751	Ayah, aku duduk membelakangi dinding!	
+752	Bagus, bagus.	
+753	Jauh dari jendela!	
+754	Bagus, bagus, bagus.	
+755	Anak pintar.	
+756	Tak apa.	
+757	Semua baik saja.	
+758	Tak apa. Mereka telah pergi.	
+759	Mereka pengecut.	
+760	Mereka telah pergi.	
+761	Sudah ada detektif yang menanyai tetangga.	
+762	Mungkin kita akan temukan ciri-ciri mobilnya tapi kurasa itu kurang jelas.	
+763	Kami butuh perlindungan.	
+764	Saya sudah instruksikan dua kendaraan di sini.	
+765	Sudah cukup jelas ini akan aman...	
+766	Untuk berapa lama?	
+767	Aku harus ke Washington minggu ini.	
+768	Apa yang kau lakukan?	
+769	Apa yang kau lakukan pada keluargamu?	
+770	Maaf, opsir?	
+771	Kau masih membela orang itu?	
+772	Apa yang kau perjuangkan untuknya?	
+773	Baik, hentikan itu opsir.	
+774	Aku tak akan berhenti.	
+775	Aku di gelombang ketiga di pantai Omaha.	
+776	Hei, aku ikut wajib militer.	
+777	Aku memerangi orang itu dan kau membelanya?	
+778	Kenapa tak kau lakukan tugasmu sebagai penegak hukum?	
+779	Baiklah, maaf.	
+780	Ayo keluar.	
+781	Ayolah.	
+782	Begini saja.	
+783	Lupakan dia.	
+784	Kenapa aku tak boleh di sini?	
+785	Keluar opsir.	
+786	Maaf.	
+787	Membela mata-mata komunis.	
+788	Astaga!	
+789	Apa ini pantas untuk anda, Pak?	
+790	Sangat perlu untuk meninggalkan pesawat di atas wilayah Soviet. Lalu di sana ada dua setengah pound muatan peledak yang dimuat di badan pesawat.	
+791	Pertama, kalian harus aktifkan sirkuitnya.	
+792	Tapi untuk memulai hitung mundur 70 detik kalian perlu menarik tuas bertuliskan hancurkan.	
+793	Sangat penting membuat penerbangan ini tetap rahasia. Dan perlengkapannya tidak jatuh ke tangan musuh.	
+794	Bagaimana dengan kita?	
+795	Aku tak tahu apa kau bercanda, Letnan Powers.	
+796	Aku tidak bercanda.	
+797	Apa yang kalian ketahui tentang pesawat sama rahasianya dengan pesawat itu sendiri.	
+798	Jika gagal, keputusan awal kalian ikut turun bersama pesawat.	
+799	Jika menurut kalian bisa mendarat di air dan kabur, dan kalian cukup dekat dengan perbatasan, silakan saja.	
+800	Kalian tahu protokol pelepasan.	
+801	Tapi jika kalian hanya mendarat di air, kalian punya koin dollar.	
+802	Di dalamnya terdapat peniti.	
+803	Goreskan ke kulit manapun di tubuh kalian, reaksinya akan cepat.	
+804	Jika rasanya kalian akan tertangkap gunakanlah koin itu.	
+805	Para pengemudi, kalian paham?	
+806	Belanjakanlah dolarnya.	
+807	Tuan Hakim Agung, dan semoga penyampaian saya baik.	
+808	Perang dingin bukan cuma sekedar uangkapan, Yang Mulia.	
+809	Itu bukan hanya kata kiasan.	
+810	Kenyataannya, perang telah berlangsung di antara dua pesaing di dunia.	
+811	Saya berpendapat bahwa Rudolf Ivanovich Abel, atau dipanggil Kolonel Abel, bahkan oleh orang yang menangkapnya, adalah lawan kita dalam perang tersebut.	
+812	Daya bantu?	
+813	Terhubung dan menyala.	
+814	Persedian oksigen?	
+815	Tersedia pada 1.800 psi.	
+816	Pembalik?	
+817	Menyala, lampu dimatikan.	
+818	Dia diperlakukan sebagai seorang pejuang di perang itu hingga dia tak lagi layak untuk dipertahankan pemerintah kita.	
+819	Oleh karena itu, dia tidak diberi perlindungan seperti layaknya warga kita.	
+820	Dia mendapat perlakuan itu seberapa layaknya untuk seorang tersangka musuh, tidaklah selayak tersangka kriminal.	
+821	Aliran bahan bakar?	
+822	Alirannya dimatikan.	
+823	Penghancur?	
+824	Penghancur aman.	
+825	Kartu data pendakian.	
+826	Terpasang di pesawat.	
+827	Saya kenal orang ini.	
+828	Meski itu benar bahwa ia membela kekuatan asing, setidaknya ia setia.	
+829	Meski ia prajurit di pihak lawan, tapi ia seorang prajurit baik.	
+830	Ia tidak kabur dari medan perang untuk menyelamatkan dirinya.	
+831	Ia menolak untuk mengabdi pada musuhnya.	
+832	Ia menolak untuk mengkhianati tujuannya.	
+833	Ia menolak untuk mengambil jalan pengecut.	
+834	Para pengecut akan melepas martabatnya sebelum dia kabur dari medan perang.	
+835	Itu, yang tak akan pernah dilakukan Rudolf Abel.	
+836	Tidak seharusnya kah kita, dengan memberinya keuntungan penuh dari hak yang ditetapkan sistem pemerintahan kita, menunjukkan pada orang ini jati diri kita?	
+837	Jati diri kita.	
+838	Bukankah itu senjata terbaik yang kita miliki di perang dingin ini?	
+839	Apa kita mau kalah dalam mempertahankan prinsip dibandingkan dirinya?	
+840	Presiden mengumumkan bahwa pesawat cuaca NASA menghilang di Turki empat hari lalu.	
+841	Dan administrasi luar angkasa menduga pilotnya tewas dalam kecelakaan itu.	
+842	Radar menunjukkan pesawat itu kehilangan arah jatuh ke wilayah Soviet sebelum kehilangan kontak, Hal itu menyulitkan usaha pengejaran pesawat atau jenazah pilot tersebut.	
+843	Sekarang berita dari Washington.	
+844	Pada pemungutan suara hari ini, Pengadilan Tinggi telah memastikan keputusan terhadap mata-mata Rusia Rudolf Ivanovich Abel, dengan lima berbanding empat suara.	
+845	Kasus ini mengangkat isu kebebasan sipil, berdasar pernyataan pengacara James B. Donovan.	
+846	Saat ditanya perihal kekalahannya, Tn. Donovan menjawab dengan simpel, lelah.	
+847	Saya akan kembali dengan berita lainnya setelan pesan berikut.	
+848	[NO TRANSLATION]	missing translation
+849	Telah berakhir.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	Aku tak bisa temukan berkas kasus Prudential.	
+853	Tn. Watters memintaku untuk memindahnya kekantor Jack Elwes. Bersama dengan draf pertama banding.	
+854	Benarkah?	
+855	Ya, dia membaut draf ulang dan menyimpannya minggu lalu saat kau di Washington.	
+856	Kita sudah kenal berapa lama?	
+857	Kau bersikap seakan aku tak bisa menyelesaikan kasus.	
+858	Aturlah pertemuan.	
+859	Di tempat yang mewah.	
+860	Aku yakin Tn. Young akan suka dengan barang bagus. New York harus memberi penawaran.	
+861	Dan aku ingin kau memberiku rangkuman laporan...	
+862	Kau mengenal seseorang dari Leipzig?	
+863	Leipzig. 	
+864	Sekarang aku dapat surat protes dari Jerman?	
+865	Dari Jerman Timur.	
+866	Itu istrimu?	
+867	Bukan.	
+868	Bukan, bukan.	
+869	Dia berpura-pura, dan penyamarannya tidak bagus.	
+870	Aku memberanikan diri menyuratimu setelah membaca dari surat kabar mengenai sikap manusiawi-mu kepada suamiku tercinta, Rudolf Abel.	
+871	Apa perlu kubalas?	
+872	Ya, ya.	
+873	Apa rencanamu berikutnya, saat kau tak tahu apa permainannya?	
+874	Francis Gary Powers...	
+875	Berdasar kekuatan Pasal 2, hukum Uni Soviet atas tindak kejahatan negara 10 tahun kurungan dengan tiga tahun pertama berada di penjara.	
+876	Masa penghukuman, dipotong masa tahanan persiapan, akan dihitung dari tanggal 1 Mei 1960.	
+877	Tn. Donovan, terima kasih sudah bersedia hadir.	
+878	Senang bertemu anda, Tn. Dulles.	
+879	Suatu kehormatan, Pak.	
+880	Nescafe, dengan krim, dua gula.	
+881	Terima kasih.	
+882	Baiklah, dari surat yang anda terima ini.	
+883	Terlihat jelas Soviet ingin membuat penawaran.	
+884	Mereka melakukan ini lewat Jerman Timur karena mereka masih tak mengakui bahwa Abel warga Soviet, apalagi mata-mata Soviet.	
+885	Jadi...	
+886	Banyak rekaan yang terjadi.	
+887	Benar. Tapi untuk tujuan apa?	
+888	Mereka mendapatkan orang kita, pilot mata-mata.	
+889	Kita dapat orang mereka.	
+890	Pertukaran tahanan, kurasa itu yang mereka incar.	
+891	Saya yakin anda tidak terkejut, Konsuler.	
+892	Ini adalah hal yang sudah anda perkirakan.	
+893	Ya, benar, dan aku merasa benar.	
+894	Selamat.	
+895	Ini hari penuh kenangan.	
+896	Sekarang, orang kita berada di sana. 	
+897	Powers.	
+898	Orang baik, tapi menyimpan informasi rahasia.	
+899	Abel juga menyimpan informasi rahasia. Tapi dia tak memberi kita sedikitpun.	
+900	Dan, menurutku, dia tak akan mau.	
+901	Ya, kita tahu itu. Tapi Rusia tidak tahu.	
+902	Mereka ingin orang mereka kembali sebelum membocorkan.	
+903	Dan kita ingin Powers kembali dengan alasan sama.	
+904	Saya rasa maksud anda bahwa ini adalah akhir yang bagus untuk semua orang.	
+905	Ya, jika kita ikuti rekayasa mereka.	
+906	Kami ingin kau yang menegoisasikan pertukaran karena kau dari warga sipil, jadi bukan pemerintah yang bicara.	
+907	Mereka tak akui Abel sebagai warga Soviet, dan kita tidak aku Jerman Timur sebagai negara berdaulat.	
+908	Kita belum mengela Berlin Timur sejak diduduki oleh Soviet tahun 1945.	
+909	Jadi aku bertindak sebagai negosiator, mewakili...	
+910	Kau tak mewakili siapapun.	
+911	Bukan staf kepemerintahan.	
+912	Kau tidak dalam posisi formil.	
+913	Berarti, kita juga merekayasa.	
+914	Tepat sekali.	
+915	Yang berarti, kau tak bisa mengharapkan pengakuan atau bantuan apabila ini gagal.	
+916	CIA tak bisa bertanggungjawab.	
+917	Kami tidak boleh dipermalukan.	
+918	Di mana tempat negoisasi yang mereka inginkan?	
+919	Di sana.	
+920	Di sana?	
+921	Berlin Timur.	
+922	Bukankah Berlin Timur dalam situasi...	
+923	Ya, situasi di sana mulai rumit.	
+924	Ya, rumit.	
+925	Pihak Soviet telah mengatur titik pengawasan beberapa bulan terakhir berusaha menghentikan orang saling bunuh di sektor Barat, dan itu gagal.	
+926	Kami punya agen yang memberi masukan bahwa mereka telah ambil tindakan membangun dinding di sektor Timur.	
+927	Baiklah, intinya begitu.	
+928	Keputusan sepenuhnya berada di tanganmu.	
+929	Kau butuh waktu untuk memutuskannya.	
+930	Tidak.	
+931	Aku tidak butuh waktu.	
+932	Baiklah kalau begitu.	
+933	[NO TRANSLATION]	missing translation
+934	Semua ini bersifat rahasia.	
+935	Jangan bicarakan dengan Mary atau siapa pun.	
+936	Bagilah informasi hanya dengan kami.	
+937	Beritahu kami apa tindakan mereka dan kapan.	
+938	Aku tidak punya klien, istri dan negara.	
+939	Tak tahu apa yang kulakukan atau kapan atau untuk siapa.	
+940	Kau melakukan ini untuk negaramu, tapi negaramu belum mengetahui itu.	
+941	Bagaiamana dengan klienku, orang lain di pertukaran ini? 	
+942	Orangku?	
+943	Orangmu?	
+944	Maksudmu si Rusia?	
+945	Dia bukan orangmu lagi, konsuler.	
+946	Sekarang orangmu adalah Francis Gary Powers.	
+947	Aku harus katakan apa pada Rudolf Abel?	
+948	Katakan padanya jangan sampai mati.	
+949	Profesor?	
+950	Profesor?	
+951	Papa pergi ke kampus.	
+952	Kau sebaiknya tak di sini, Frederic.	
+953	Mereka ada kuliah hari ini?	
+954	Dia pergi melihatnya.	
+955	Karena itulah dia pergi.	
+956	Kenapa kau kemari?	
+957	Aku datang membawamu dan ayahmu.	
+958	Kau ikutlah denganku.	
+959	Kau mungkin tak bisa keluar besok.	
+960	[NO TRANSLATION]	missing translation
+961	Pergi begitu saja?	
+962	Ya. 	
+963	Ya, pergi.	
+964	Sekarang juga.	
+965	Mundur. 	
+966	Mundur.	
+967	Aku tak apa, aku warga Amerika.	
+968	Mundurlah.	
+969	Kembalilah ke rumah ayahmu.	
+970	Kita akan cari jalan lain. 	
+971	Pergilah.	
+972	Hei!	
+973	Hai.	
+974	Tolong, surat-suratnya.	
+975	Saya mahasiswa, Frederic Pryor.	
+976	Ya, mahasiswa.	
+977	Nama saya Frederic Pryor.	
+978	Saya mahasiswa ekonomi.	
+979	Lihat? 	
+980	Ini disertasi saya.	
+981	Tesis saya.	
+982	Anda lihat?	
+983	Lihatlah.	
+984	Lihat, Sistem Perdagangan Luar Negeri Negara Komunis Eropa.	
+985	[NO TRANSLATION]	missing translation
+986	Itu tugas yang banyak.	
+987	Jangan, itu salinan satu-satunya.	
+988	Tidak!	
+989	Beritahulah sesuatu.	
+990	Ini mendadak.	
+991	Mereka punya kantor di London.	
+992	Klien-klien ini.	
+993	Itu bukan ideku.	
+994	Skotlandia, ekspedisi memancing.	
+995	Perjalanan memancing seperti apa, Jim?	
+996	Memancing salmon.	
+997	Cukup katakan kau tidak dalam bahaya, bahwa ini hanya perjalanan bisnis rutin, dan aku tak akan khawatir.	
+998	Aku butuh pasporku.	
+999	Katakanlah sesuatu untuk peganganku.	
+1000	Aku tak akan peduli andai itu benar.	
+1001	Aku melakukan ini untuk kita.	
+1002	Tn. Michener, adalah pengawalmu di Berlin.	
+1003	Dia seorang atase di kedutaan besar Amerika.	
+1004	Jadi, ini semakin rumit.	
+1005	[NO TRANSLATION]	missing translation
+1006	Seperti kau ketahui, surat terakhir dari Ny. Abel, entah dia siapa, bicara tentang pengacara di Berlin Timur, Tn. Vogel, entah dia siapa, uang menjadi perwakilan dia.	
+1007	Ya, Vogel mengatakan dia pergi ke Kedutaan Besar Rusia di Berlin Timur dan mereka mungkin siap untuk menukar Abel untuk Powers.	
+1008	Tapi tak seorangpun tahu peran mereka, tapi jelas mereka semua warga Rusia, bukan?	
+1009	Soviet.	
+1010	Kurasa begitu.	
+1011	Apa maksudmu? 	
+1012	Bisa nyalakan pemanas di mobil ini?	
+1013	Ada sedikit perubahan rencana.	
+1014	Mereka mungkin mencoba menyulitkanmu.	
+1015	Mencoba menawarkanmu tahanan lain selain Powers.	
+1016	Warga Amerika lainnya?	
+1017	Tentara Jerman menangkap seorang mahasiswa Amerika.	
+1018	Frederic Pryor.	
+1019	Anak itu ditangkap di sisi dinding yang salah.	
+1020	Dia mahasiswa lulusan Yale.	
+1021	Datang ke sini belajar Ekonomi.	
+1022	[NO TRANSLATION]	missing translation
+1023	Jadi, mereka coba memanasi akan menjadikan anak itu sebagai mata-mata.	
+1024	Ancaman serius, kejahatan kapital.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel menghubungi kami, kataya dia mewakili Pryor.	
+1027	Tunggu dulu. 	
+1028	Vogel mewakili Ny. Abel dan anak ini?	
+1029	Ya, dia sibuk.	
+1030	Jadi dia orang mana?	
+1031	Vogel, apa Jerman TImur atau Rusia?	
+1032	Cari tahu sendiri saat kau bertemu dia.	
+1033	Di kedutaan Rusia, Berlin Timur, besok siang.	
+1034	Hoffman akan tunjukan jalan ke sana.	
+1035	Tunggu, menunjukkan jalan ke sana?	
+1036	Aku perlu pengawalan.	
+1037	Benar kan?	
+1038	Itu rencana sebelumnya, tapi seperti kukatakan, ada sedikit perubahan.	
+1039	Aku tak mengawalmu.	
+1040	Keputusan telah dibuat.	
+1041	Tak ada staf pemerintahan AS boleh melewati perbatasan.	
+1042	Kenapa?	
+1043	Itu terlalu bahaya.	
+1044	Ya, Jerman Timur menangkap anak ini.	
+1045	Ada derajat kebebasan hukum yang tidak kita antisipasi.	
+1046	Intinya, agenda Jerman Timur dan Rusia mungkin tidaklah sama.	
+1047	Cari tahulah dan bertindak secara normal.	
+1048	Dan cobalah buat kesepakatan.	
+1049	Powers untuk Abel.	
+1050	Bagaimana anak itu, Pryor?	
+1051	[NO TRANSLATION]	missing translation
+1052	Jangan urusi itu.	
+1053	Kita bisa keluarkan dia lain waktu.	
+1054	Powers tujuan utama kita.	
+1055	Di mana kamarmu?	
+1056	Aku menginap di Hilton.	
+1057	Tak jauh dari sini.	
+1058	Ini adalah nomor di Berlin Barat.	
+1059	Hafal dan kembalikan padaku.	
+1060	Tidak. 	
+1061	[NO TRANSLATION]	missing translation
+1062	Maksudku sekarang.	
+1063	Soviets memutus jaringan internasional tapi jaringan lokal tidak masalah.	
+1064	Seseorang akan menjemput siang dan malam.	
+1065	Lampiran yang ada di paspormu, bisa digunakan sebagai tiket keluar masuk sektor Soviet Timur.	
+1066	Pertemuan dengan Vogel dijadwalkan besok siang.	
+1067	Hanya sedikit rute menuju ke Timur.	
+1068	Kau ambil kalur S-Bahn, stasiun yang kami tunjukan saat ke sini.	
+1069	Kau akan turun di Stasiun Friedrichstrasse di sini dan jalan kaki ke kedutaan Soviet di jalur ini.	
+1070	Lihatlah petanya sekarang.	
+1071	Kau tak bisa membawanya bersamamu.	
+1072	Kau lihat peta, dan kau warga Amerika, kau dianggap mata-mata.	
+1073	Kau bisa ditangkap.	
+1074	Hindari berbincang dengan penduduk setempat.	
+1075	[NO TRANSLATION]	missing translation
+1076	Kau bukan orang sini, jadi jangan berlama-lama.	
+1077	Makanan mulai langka di sana dan situasi mulai rumit.	
+1078	Ada para geng dan hukum kurang berjalan baik di sana.	
+1079	Dan menjauhlah dari dinding.	
+1080	Di sisi mereka ada garis membatasi gedung-gedung sepanjang dinding.	
+1081	Mereka menyebutnya garis kematian.	
+1082	Lewati itu dan kau akan ditembak.	
+1083	Apa ada jalan keluar dimana aku tak ditembak atau ditahan?	
+1084	Jangan cemaskan perkataan Michener.	
+1085	Tidak, aku justru mencemaskan perkataanmu.	
+1086	Anak ini, Pryor, yang ditawan Jerman Timur, berapa usianya?	
+1087	25 tahun.	
+1088	Kenapa?	
+1089	Seumuran dengan Dougie.	
+1090	Siapa?	
+1091	Dia asistenku.	
+1092	Frederic Pryor.	
+1093	Baik, baik.	
+1094	Terima kasih.	
+1095	Kami minta maaf, kalau mengganggu.	
+1096	[NO TRANSLATION]	missing translation
+1097	Jas?	
+1098	Baiklah.	
+1099	Kau paham bahasa Inggris?	
+1100	Ya, Pak.	
+1101	Aku James Donovan.	
+1102	Aku ingin bertemu Tn. Vogel.	
+1103	Tn. Vogel.	
+1104	Dia tidak bekerja di sini.	
+1105	Aku seharusnya bertemu dia.	
+1106	Itu saja yang kutahu.	
+1107	Tn. Donovan!	
+1108	Akhirnya kami bertemu denganmu.	
+1109	Aku Helen Abel.	
+1110	Bagaimana kabar suamiku?	
+1111	[NO TRANSLATION]	missing translation
+1112	Dia baik saja.	
+1113	Apa kabar Rudolf ku?	
+1114	Sebaik yang bisa diharapkan.	
+1115	Dan kami akan mendapatkan dia kembali, bukan?	
+1116	Ini puteri kami.	
+1117	Apa kabarmu?	
+1118	Lydia.	
+1119	Apa kau Tn. Vogel?	
+1120	Bukan, bukan!	
+1121	Aku bukan Vogel.	
+1122	Aku sepupu Drews.	
+1123	Ini adalah sepupu kesayangan Rudolf.	
+1124	Ya, sepupu Drews.	
+1125	Aku sepupu Drews.	
+1126	Sepupu Drews, ya.	
+1127	Aku Helen Abel.	
+1128	Kapan kau akan bertemu dia?	
+1129	Kapan pemerintah kalian akan membebaskannya?	
+1130	Aku sedikit bingung.	
+1131	Seharusnya aku bertemu Tn. Vogel.	
+1132	Oh, Tn. Vogel adalah pengacara kami.	
+1133	Kami seharusnya menegoisasikan pertukaran.	
+1134	Untuk membawa Rudolf ke sini?	
+1135	Ya, untuk membawa dia ke sini.	
+1136	Tapi itu tidak terjadi secara unilateral, kau paham?	
+1137	Harus ada pertukaran.	
+1138	Tidak di sini?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Tn. Donovan?	
+1143	Tn. Vogel.	
+1144	Bukan, bukan.	
+1145	Ya Tuhan.	
+1146	Namaku Schischkin.	
+1147	Ivan Schischkin.	
+1148	Aku wakil sekretaris di kedutaan Soviet.	
+1149	Kurang pantas untuk Tn. Vogel bergabung dengan kita.	
+1150	Dia seorang Jerman Nasionalis.	
+1151	Jadi kau di sini untuk...	
+1152	Untuk memfasilitasi pertemuan ini.	
+1153	Barangkali Ny. Abel ingin menenangkan diri secara pribadi?	
+1154	Dan biarkan aku dan Tn. Donovan berbincang dulu.	
+1155	Terima kasih.	
+1156	Jadi, aku bingung.	
+1157	Ya.	
+1158	Aku tak peduli akan bicara dengan siapa yang penting membahas tentang pertukaran.	
+1159	Apa kau orangnya?	
+1160	Ya, ya, tentu saja.	
+1161	Kita sebaiknya bicara.	
+1162	Silakan duduk Tn. Donovan.	
+1163	Bagaimana kau bisa sampai di sektor Timur?	
+1164	Naik kereta.	
+1165	Stasiun S-bahn.	
+1166	Dan kau sendirian?	
+1167	Ya.	
+1168	Dan kau punya surat mandat?	
+1169	Sekarang kau harus tahu tentang aku, Pak.	
+1170	Aku seorang warga sipil.	
+1171	Aku pengacara di Brooklyn, Amerika Serikat, dan aku sudah korbankan jadwal padatku demi menolong klienku, Rudolf Abel.	
+1172	Aku dikuasakan untuk mengatur pertukaran Abel dengan Francis Gary Powers.	
+1173	Ini surat grasi Abel itu akan ditandatangani ketika pertukaran telah dilakukan.	
+1174	Hanya ini alasanku kemari.	
+1175	Aku berharap agar pengaturan ini berjalan cepat.	
+1176	Abel untuk Francis Gary Powers dan Frederic Pryor.	
+1177	Kami tak menahan Pryor.	
+1178	Tidak? 	
+1179	Benarkah?	
+1180	Aku sudah dengar tentang Pryor, tapi dia ditahan oleh Republik Demokrasi Jerman bukan oleh Republik Sosialis Soviet.	
+1181	Akan kuberitahu kau masalah pertamanya.	
+1182	Nama negaramu terlalu panjang.	
+1183	Ya, ya.	
+1184	Jika kami lepaskan Powers, itu hanya untuk menunjukkan niat baik diantara negara kita.	
+1185	Jadi, itu tak bisa menjadi sebuah pertukaran.	
+1186	Barangkali...	
+1187	Barangkali kau bisa bebaskan Abel sebagai wujud niat baik untuk taman kami di Jerman dan beberapa bulan kemudian kami akan lepaskan Powers.	
+1188	Ada sebuah ide. 	
+1189	Tidak.	
+1190	Itu tak bisa diterima buat kami.	
+1191	Kami perlu ini menjadi sebuah pertukaran.	
+1192	Kau boleh sebut itu seperti yang kau mau, tapi intinya tetap pertukaran.	
+1193	Kami bisa bawa Abel ke sini dalam 48 jam.	
+1194	Kami butuh Powers di saat yang sama kami memberikan Abel.	
+1195	[NO TRANSLATION]	missing translation
+1196	Ini adalah...	
+1197	Bisa kita sebut ini rencana tergesa-gesa?	
+1198	Kau bisa sebut itu seperti yang kau mau.	
+1199	Aku bisa sampaikan rencana tergesa-gesa mu ke Moscow, kita tunggu pendapat mereka...	
+1200	Tapi mereka akan bertanya kenapa begitu tergesa-gesa.	
+1201	Karena aku sudah flu.	
+1202	Dan aku tidak tinggal di Berlin dan aku ingin pulang.	
+1203	Mereka akan berpikir, Orang Amerika itu pastinya telah memiliki semua informasi yang harus diberi Abel.	
+1204	Dan kini mereka tergesa-gesa untuk menukarnya, berharap sebagai balasannya pria ini, Powers, yang, barangkali, belum memberikannya semua informasi yang harus diberikan.	
+1205	Ini bukan pertukaran yang setara, Pak.	
+1206	Tapi yang kau maksud adalah jika Powers telah memberi tahu semua yang dia tahu, maka Moscow akan mau bertukar?	
+1207	Kenapa tidak?	
+1208	Buat Abel, jika dia mati di penjara Amerika, mata-mata Rusia berikutnya yang tertangkap mungkin akan berpikir dua kali untuk tetap bungkam.	
+1209	Dan kau mungkin tak pernah tahu.	
+1210	Abel sangat ingin bebas lagi dan putuskan menukar rahasia Rusia dengan sedikit hadiah dari Amerika.	
+1211	Bagaimana kami tahu ini?	
+1212	Kita hanya orang kecil, kita hanya lakukan tugas kita.	
+1213	Seperti Letnan Powers.	
+1214	Dia hanya pilot.	
+1215	Dia telah memotret dari ketinggian 70.000 kaki saat dia tertembak dari langit.	
+1216	Orang di negaraku menganggap ini sebuah tindakan perang.	
+1217	Kita harus berhenti berbalas ancaman, Pak.	
+1218	Kesalahan berikut yang dilakukan negara kita bisa jadi itu yang terakhir.	
+1219	Kita perlu berbincang yang tak bisa dilakukan pemerintah kita.	
+1220	Aku akan minta Moscow.	
+1221	Siapa yang tahu apa pendapat mereka.	
+1222	Ada banyak orang, Tn. Donovan, yang tak ingin pertukaran ini terjadi.	
+1223	Bisakah kau datang besok untk mendiskusikan jawaban mereka?	
+1224	Powers untuk Abel.	
+1225	Dan Frederic Pryor.	
+1226	Seperti kataku, Pryor berada di tangan oraganisasi pasukan keamanan Republik Demokratis Jerman.	
+1227	Aku percaya kau bisa mengaturnya.	
+1228	Aku hanyalah sekretaris di kedutaan negara asing.	
+1229	Baik, baik.	
+1230	Kau harus temui Tn. Vogel.	
+1231	Akan kuberi kau alamatnya.	
+1232	Apa Tn. Vogel itu benar-benar ada?	
+1233	Kenapa kau berpikir begitu?	
+1234	Ini cuma perjalan singkat naik taksi.	
+1235	Dan tolong Tn. Donovan, pakailah jas tambahan di cuaca ini.	
+1236	Aku sudah punya, tapi dicuri.	
+1237	Apa yang kau harapkan?	
+1238	Kebiasaan itu sudah dari Saks Fifth Avenue.	
+1239	Bukan begitu?	
+1240	Tn. Donovan.	
+1241	Tn. Vogel.	
+1242	Silakan masuk.	
+1243	Terima kasih.	
+1244	Maaf soal di kedutaan.	
+1245	Tapi Soviet memutuskan untuk tidak mengundangku.	
+1246	Sangat mengganggu.	
+1247	Aku masih mencoba menganut masing-masing status...	
+1248	kepartaian?	
+1249	Ya. 	
+1250	Dan ketertarikan pada prosesnya.	
+1251	[NO TRANSLATION]	missing translation
+1252	Ini dunia baru.	
+1253	Segalanya sangat di luar arah, bukan?	
+1254	Biar kuberitahu apa yang harus ku tawarkan.	
+1255	Aku teman yang baik...	
+1256	Teman.	
+1257	Bukan, itu terlalu tua.	
+1258	Anak didik?	
+1259	Dari Jaksa Agung Republik Demokratik Jerman.	
+1260	Silakan duduk.	
+1261	Orang malang ini, Frederic Pryor, Dia berada di tempat dan waktu yang salah.	
+1262	Tapi setiap kejadian, yang dipandang dengan layak, adalah sebuah peluang bukan, Tn. Donovan?	
+1263	[NO TRANSLATION]	missing translation
+1264	Negaramu menolak untuk mengakui Republik Demokratik Jerman.	
+1265	Mereka lebih memilih mengarang cerita bahwa RDJ tidak ada.	
+1266	Maaf.	
+1267	Sebagai maksud untuk memaksa pemerintahmu mengakui bahwa negara ini ada, Pak, yang mana telah kau lihat sendiri, RDJ. Jaksa Agung senang untuk bernegosiasi denganmu sebagai perwakilan pemerintahmu untuk pemulangan Tn. Pryor.	
+1268	Tn. Vogel, aku tidak di sini sebagai perwakilan pemerintahku.	
+1269	Baiklah.	
+1270	Kurasa itu kekanakan, Tn. Donovan.	
+1271	[NO TRANSLATION]	missing translation
+1272	Aku tak punya status resmi.	
+1273	Baiklah.	
+1274	Kau tidak mewakili AS, aku tidak mewakili RDJ.	
+1275	Klineku Lydia Abel, istrinya Rudolf.	
+1276	Dan aku juga...	
+1277	Lydia, puterinya.	
+1278	Helen, istrinya.	
+1279	[NO TRANSLATION]	missing translation
+1280	Aku ingin menawarkan pertukaran Frederic Pryor untuk Rudolf Abel.	
+1281	Kalau begitu mari kita perjelas.	
+1282	Kami akan berikan Rudolf Abel.	
+1283	Kau akan berikan di saat yang sama, mahasiswa itu, Pryor.	
+1284	Di saat yang sama?	
+1285	Tentu saja.	
+1286	Pertukaran ini menawarkan orang Rusia di masa akhir hidupnya dengan mahasiswa Amerika di masa awal hidupnya.	
+1287	Schischkin? 	
+1288	Dia bukan sekretaris kedutaan.	
+1289	Ivan Schischkin adalah kepala KGB di Eropa Barat.	
+1290	Siapapun dia dia akan mengirim proposal itu ke Moscow. Dan mereka akn putuskan.	
+1291	Bisa kupinjam sebuah jas?	
+1292	Aku kehilangan punyaku.	
+1293	Bagaimana kau bisa kehilangan?	
+1294	Kau tahu, hal mata-mata.	
+1295	Akan kucarikan kau jas lain.	
+1296	Bagus, karena...	
+1297	Jadi, siapa Vogel ini?	
+1298	Dia, kami tidak tahu.	
+1299	Dia mungkin benar seperti yang dia katakan.	
+1300	Teman dari Jaksa Agung.	
+1301	Hanya orang yang ditugaskan RDJ untuk menangani ini.	
+1302	Kedengaran sepertinya Jerman Timur memperjuangkan pengakuan dari kita.	
+1303	RDJ mendapatkan Abel untuk Rusia mendapat rasa hormat dari mereka...	
+1304	Dan merebut tajuk utama untuk prinsip mereka.	
+1305	Yang tentu saja, menempatkan Jerman Timur di dalam peta.	
+1306	Tapi kita tak peduli dengan peta itu.	
+1307	Tetap fokus pada orang Rusia.	
+1308	Tetap utamakan orang Rusia itu.	
+1309	Ini adalah Power dengan Abel.	
+1310	Jadi, apa semua ini berarti mungkin terjadi?	
+1311	Ya, itu seperti yang kau katakan pada kami.	
+1312	Kami akan terbagkan Abel, dia akan ada di sini hari Jumat.	
+1313	Jadi, jika Schischkin dapat persetujuan, yang perlu dibahas adalah mekanisme pertukaran ini.	
+1314	Bagaiman kita menukar orang kita dengan orang mereka.	
+1315	Orang-orang kita.	
+1316	Ada dua orang.	
+1317	Powers dan Pryor.	
+1318	Tidak, jangan bersikeras denganku.	
+1319	Powers adalah tujuan utamanya.	
+1320	Lupakan saja mahasiswa ini. Yang berpikir adalah ide bagus untuk belajar Ekonomi Soviet di Berlin di tengah perang dingin.	
+1321	Powers lah yang kita butuhkan.	
+1322	Kau bahkan tak suka Powers.	
+1323	Semua kalian membenci Powers.	
+1324	Dia tidak bunuh diri dan dia biarkan komunis membeberkan dirinya di TV.	
+1325	Dia orang paling dibenci di Amerika.	
+1326	Setelah Rudolf Abel, mungkin.	
+1327	Dan aku.	
+1328	Bangunlah!	
+1329	Aku perlu tidur.	
+1330	Aku cuma ingin tidur.	
+1331	Sudah kubilang, kau bisa tidur setelah kita bicarakan hal yang perlu kita bicarakan.	
+1332	Kau harus fokus padaku.	
+1333	Pemerintahmu tak peduli padamu.	
+1334	Kau paham itu.	
+1335	Semua kalian.	
+1336	Kau tahu pilot Twelve U2 mengalami kerusakan otak?	
+1337	Rusak karena ketinggian dan kehabisan oksigen.	
+1338	Tapi mereka tetap menyuruhmu terbang, Gary.	
+1339	Kau dan teman-temanmu.	
+1340	Mereka memberi kalian ini.	
+1341	Sebuah jarum kematian, bukan?	
+1342	Potasium sianida.	
+1343	Apa itu terlihat mereka peduli padamu?	
+1344	Apa konstruksi dari unit penghancur?	
+1345	Dengan tujuan apa unit ini beroperasi?	
+1346	Dengan peledak apa unit ini ditenagai, dan seberapa besar daya ledaknya?	
+1347	Aku tak tahu.	
+1348	Para pilot tak pernah ditunjukkan peralatan apa pun.	
+1349	Seberapa lebar kemampuan radar memetakan area selama penerbangan?	
+1350	Aku tak tahu!	
+1351	Apa kau yang terbang pada 9 April di atas area industri dan pusat  penyimpanan bom di Baranovichi?	
+1352	Bukan aku.	
+1353	Ini penerbangan pertamaku.	
+1354	Aku perlu tahu tentang rasio pergerakan mulus pesawatnya.	
+1355	Bagaimana pesawat itu bisa begitu tinggi.	
+1356	Kami tahu itu mencapai 70.000 kaki.	
+1357	Gary, kami tahu ini.	
+1358	Dan aku ingin tahu kemana saja pesawat ini diterbangkan.	
+1359	Ke mana saja mereka diterbangkan, Gary.	
+1360	Dan kita harus bicarakan ini sekarang.	
+1361	Sekarang.	
+1362	Lalu kau boleh tidur sebentar.	
+1363	Pak, bangunlah.	
+1364	Bangun, Pak.	
+1365	Pak, bisa ikut aku?	
+1366	Ya.	
+1367	Kita harus pergi.	
+1368	Ya, tentu.	
+1369	Kau bisa ikut aku?	
+1370	Ya.	
+1371	Baiklah.	
+1372	Perlu kacamatamu?	
+1373	[NO TRANSLATION]	missing translation
+1374	Pukul berapa sekarang?	
+1375	Masih larut, tapi kita perlu bicara. Dan kemudian kita perlu naik pesawat, oke?	
+1376	Ya.	
+1377	Yep. 	
+1378	Upsy-Daisy!	
+1379	Upsy-Daisy.	
+1380	Itu benar.	
+1381	Benar begitu.	
+1382	Teruslah jalan.	
+1383	Terima kasih.	
+1384	Sebelah sana.	
+1385	Benar.	
+1386	Kau bilang pesawat?	
+1387	Lewat sini.	
+1388	Tetaplah jalan.	
+1389	Jadi, aku telah menerima keputusan dari Moscow atas proposalmu untuk membantu teman kita di Republik Demokratik Jerman dengan pertukaran Tn. Powers dengan Tn. Abel.	
+1390	Itu bagus.	
+1391	Boleh kusarankan jembatan Glienicke sebagai tempat pertukaran?	
+1392	Kenapa bukan titik pertemuan Charlie?	
+1393	Kami tak ingin publikasi.	
+1394	Jembatan Glienicke sangat sepi, terutama di pagi-pagi sekali.	
+1395	Jembatan Glienicke.	
+1396	Aku akan ke sana.	
+1397	Kami bisa bawa Abel ke sini hari Jumat.	
+1398	Jadi, Sabtu pagi?	
+1399	Selalu terburu-buru, ya?	
+1400	Aku ingin pulang dan tidur.	
+1401	Jadi, Sabtu pagi?	
+1402	5:30?	
+1403	Baiklah.	
+1404	Kita sudah selesai.	
+1405	Ini ada nomor, jikalau ada sesuatu masalah.	
+1406	Baiklah.	
+1407	Seseorang akan menjawabnya kapan pun.	
+1408	Aku tak berharap menghubunginya.	
+1409	Perlu kita rayakan kesepakatan ini?	
+1410	Kenapa tidak?	
+1411	Brandy Armenia.	
+1412	Penghangat untuk flu mu.	
+1413	Terima kasih.	
+1414	Apa kau keberatan...	
+1415	Ini bukan bagian dari kesepakatan tapi aku ingin menanyakanmu beberapa pertanyaan.	
+1416	Kau tak harus menjawabnya.	
+1417	Aku akan jawab yang kutahu.	
+1418	Aku suka orang ini, orangmu.	
+1419	Apa yang terjadi pada orangmu sekembali dia ke rumah?	
+1420	Kita harus tetapkan terlebih dahulu bahwa orang kami ini sekarang adalah orangmu.	
+1421	Seperti yang kukatakan padamu sebelumnya, dia bertindak dengan terhormat.	
+1422	Dia masih orangmu, yakinlah padaku.	
+1423	Tentu saja kau akan katakan jika itu benar. Dan jika itu tak benar?	
+1424	Kurasa, memang harus seperti itu, ya?	
+1425	Maaf kalau aku agak memaksa, tapi apakah dia dalam bahaya jika kesepakatan telah terlaksana?	
+1426	Sayangnya.	
+1427	Seperti halnya sekarang ini, semua orang dalam bahaya.	
+1428	Bersulang.	
+1429	Bersulang.	
+1430	Tak akan ada pertukaran di jembatan Glienicke.	
+1431	Maaf, Pak.	
+1432	Tak akan ada pertukaran.	
+1433	Tidak untuk Frederic Pryor.	
+1434	Tn. Vogel, kupikir kemarin kita telah setuju.	
+1435	Kita setuju atas pertukaran, Abel dengan Pryor.	
+1436	Kini aku baru pahami kau ini seperti pedagang tikar menjual tikar yang sama pada dua pembeli.	
+1437	Abel dengan Pryor kau jual pada kami.	
+1438	Ya.	
+1439	Dan Abel dengan Powers kau jual pada Soviet.	
+1440	Aku tak terlalu yakin apa masalahnya apakah kesepakatan ini memuaskan dua, tiga atau empat pihak.	
+1441	Apa bedanya?	
+1442	Kesepakatan itu tidak memuaskan pihak ini.	
+1443	Tn. Vogel, tolonglah...	
+1444	Kau tak tahu berurusan dengan siapa.	
+1445	Ini demi kepentingan Republik Demokratik Jerman.	
+1446	Untuk berkesepakatan, dan dapat dilihat melakukan kesepakatan dengan negara adidaya lain, Amerika Serikat.	
+1447	Kekuatan yang setara.	
+1448	Kecuali kalian menganggap kami antek-antek Republik Sosialis Uni Soviet.	
+1449	Bisakah kita menyebutnya Rusia saja?	
+1450	Lebih menghemat waktu.	
+1451	Aku ada janji temu.	
+1452	Kurasa kaulah yang membuang waktuku.	
+1453	Beritahu jika aku salah.	
+1454	Kau punya anak, mahasiswa universitas, seseorang yang kau yakini bukanlah mata-mata, orang yang bukan ancaman bagimu.	
+1455	Dan sebagai pertukarannya untuk orang ini seseorang yang tak berguna bagimu, kau mengharapkan pertukaran yang setara antara orang Rusia dan orang Amerika.	
+1456	Dan ini salah satu transaksi antara kami dan kalian berdua.	
+1457	Kami tidak bermaksud melakukan dua pertukaran.	
+1458	Kami cuma melakukan satu saja. 	
+1459	Satu, satu, dan satu.	
+1460	Aku tak yakin Republik Jerman Timur Demokrat sedang diremehkan.	
+1461	Kau berkesepakatan dengan Soviet tanpa berdiskusi denganku.	
+1462	Ini negoisasi atau konspirasi?	
+1463	Jika ini konspirasi, tak akan ada kerugian padamu, Pak.	
+1464	Malah ada keuntungan di sini.	
+1465	Kita pihak yang bersepakat.	
+1466	Tidak, hanya kau yang bersepakat.	
+1467	Pertemuan mu ada di mana, Pak?	
+1468	Di Barat.	
+1469	Ku'damm.	
+1470	Bagus.	
+1471	Lihat sekitarmu.	
+1472	Bagaimana perbandingan sektor Timur dengan Barat?	
+1473	[NO TRANSLATION]	missing translation
+1474	Teman Rusia kami telah memutuskan bahwa kami sebaiknya tidak membangun ulang ibukota kami.	
+1475	Tapi kami hidup dalam kehancuran ini yang disebabkan oleh teman Rusia kami.	
+1476	Silakan saja, lakukan kesepakatanmu dengan orang-orang Rusia ini.	
+1477	Kami tak ikut campur.	
+1478	Tak ada kesepakatan tanpa Pryor.	
+1479	Kami tidak akan tinggalkan dia di sini.	
+1480	Ini permintaanmu atau pemerintahmu?	
+1481	Aku ada di sini,	
+1482	aku sedang bicara padamu.	
+1483	Tapi kau bukan perwakilan dari pemerintahmu.	
+1484	Kau tak tahu siapa dirimu.	
+1485	Begitu pula kami.	
+1486	Kau sebaiknya waspada.	
+1487	Ini bukan Brooklyn Tn. Donovan.	
+1488	Dengar, Pak.	
+1489	Kau harus tahu bahwa di setiap hal kehormatan aku mewakili pemerintahku.	
+1490	Kau tahu siapa aku.	
+1491	Benarkah?	
+1492	[NO TRANSLATION]	missing translation
+1493	Kau punya surat-surat resmi?	
+1494	Tentu saja tidak.	
+1495	Itu tak masalah.	
+1496	Seorang pengacara Amerika sepertimu mampu mencari jalan keluar.	
+1497	Bukankah begitu?	
+1498	Kau ikutlah dengannya.	
+1499	Kenapa?	
+1500	Masalah paspor.	
+1501	Apa, 	
+1502	masalah apa?	
+1503	Ada masalah apa?	
+1504	Kau ikut dengannya.	
+1505	Dan ingat, nasib Frederic Pryor di tangan kami.	
+1506	Ya Tuhan!	
+1507	Ya, aku akan mulai dengan kopi.	
+1508	Lalu aku pesan Hilton combo dan sarapan ala Amerika.	
+1509	Dan kopi.	
+1510	Kedua sarapannya?	
+1511	Ya, ya.	
+1512	Satu per satu atau...	
+1513	Langsung dua-duanya.	
+1514	Kapanpun siap.	
+1515	Dan kopi.	
+1516	[NO TRANSLATION]	missing translation
+1517	Kau seharusnya tak di sini.	
+1518	Kadang di Jerman, kau hanya ingin sarapan besar ala Amerika.	
+1519	Apa yang terjadi?	
+1520	Di mana kau tadi malam?	
+1521	Vogel mengatur aku habiskan beberapa waktu di Timur.	
+1522	Oh, Yesus.	
+1523	Itu tak terlalu buruk dari pada tempat kau menempatkanku di Barat.	
+1524	Jadi pihak Rusia seutju dengan pertukaran itu, tapi kini Vogel mengatakan bahwa Jerman Timur tak setuju.	
+1525	Kita tak akan mendapatkan Pryor.	
+1526	Bagus.	
+1527	Jadi Soivet setuju.	
+1528	Kita dapatkan Powers.	
+1529	Kita dapatkan Powers.	
+1530	Bagus.	
+1531	Tidak, pihak Jerman Timur tak setuju.	
+1532	Kita tak mendapatkan Pryor, dan anak itu penting.	
+1533	Setiap orang itu penting.	
+1534	Tentu, karena itulah kau berusaha.	
+1535	Karena itu kau berusaha.	
+1536	Abel sudah di perjalanan, jadi kita sudah siap untuk besok pagi.	
+1537	Tunggu sebentar. 	
+1538	Buatlah ini sederhana.	
+1539	Buatlah ini sederhana.	
+1540	Kita tak mendapatkan anak itu.	
+1541	Ya, kami mengerti.	
+1542	Kita telah usai.	
+1543	Kita bisa abaikan pesan yang diterima pagi ini.	
+1544	Pesan apa?	
+1545	Dari Jerman Timur.	
+1546	Mereka menghubungi nomor telepon yang kuberi padamu.	
+1547	Mereka bilang ingin bicara denganmu hari ini.	
+1548	Vogel menelepon?	
+1549	Bukan.	
+1550	Kantor Harald Ott, Jaksa Agung Jerman Timur.	
+1551	Menginginkan apa?	
+1552	Apa yang dia mau?	
+1553	Untuk bicara denganmu.	
+1554	Tapi itu tak masalah. Aku tak bisa memintamu kembali ke sana.	
+1555	Dan dengar, kau terlihat seperti sosok di luar perseteruan jadi kami tak akan memaksakan diri.	
+1556	Jadi dia ingin bertemu denganku.	
+1557	Pukul berapa?	
+1558	Jangan, jangan.	
+1559	Skearang dengarlah.	
+1560	Kau tak perlu pergi.	
+1561	Jelas, kau tak perlu pergi.	
+1562	Faktanya, kau tak boleh pergi.	
+1563	Kita telah sukses dengan Soviet.	
+1564	Kami tak ingin itu kacau lagi.	
+1565	Aku tak akan kacaukan.	
+1566	Kau tak boleh pergi.	
+1567	Jangan menyusahkan.	
+1568	Aku sudah pesan.	
+1569	Nikmatilah sarapan besar ala Amerika mu.	
+1570	Kupikir ini seharusnya dinegoisasikan di level tertinggi untuk menghargaimu.	
+1571	Terima kasih, Pak.	
+1572	Aku tak tahu, hal ini jadi membingungkan.	
+1573	Yah, kadang memang seperti itu.	
+1574	Supaya lebih jelas, menurutku kita sudah bersiap untuk pertukaran antara mahasiswa Pryor dengan Rudolf Abel.	
+1575	Aku tahu dari Tn. Vogel bahwa Pryor sangat penting buatmu.	
+1576	Ya, tapi...	
+1577	Kami akan lakukan memorandum untuk aset itu.	
+1578	Sebuah memorandum.	
+1579	Lebih jelasnya, kami berkomitmen untuk pertukaran bilateral.	
+1580	Ya, ya tentu. 	
+1581	Aku tak terlalu paham apa maksudnya, tapi...	
+1582	Negaraku juga bersikeras untuk Francis Gary Powers.	
+1583	Tidak!	
+1584	Inilah yang membuat hal semakin membingungkan.	
+1585	Powers. 	
+1586	Apa kegunaan dia?	
+1587	Kau ingin dia kembali untuk alasan pidana?	
+1588	Semua sudah tuntas.	
+1589	Dia telah bocorkan rahasia itu, dan tak diragukan Abel juga begitu.	
+1590	Kami menawarkan seseorang kecuali yang kau anggap tak bersalah.	
+1591	Dan ini benar.	
+1592	Inilah yang seharusnya kau dapatkan kembali.	
+1593	Masa depan.	
+1594	Liahtlah masa depan.	
+1595	Ott.	
+1596	Ott.	
+1597	Maaf.	
+1598	Aku minta waktu sebentar, Pak.	
+1599	Mohon maaf, Pak.	
+1600	Jaksa Agung menyesal bahwa dia harus pergi ada urusan mendadak.	
+1601	Dia pergi?	
+1602	Ya. 	
+1603	Mohon maaf.	
+1604	Aku sudah menunggu lebi satu jam.	
+1605	Mohon maaf sekali, Pak.	
+1606	Anak muda.	
+1607	Kemarilah.	
+1608	Tak apa.	
+1609	Kemarilah.	
+1610	[NO TRANSLATION]	missing translation
+1611	Duduklah.	
+1612	Ayolah, ayolah.	
+1613	Duduk.	
+1614	Kau suka pekerjaanmu di sini?	
+1615	Ini pekerjaan yang bagus, Pak.	
+1616	Tentu saja.	
+1617	Pasti menarik.	
+1618	Ya, Pak.	
+1619	Dan juga penting.	
+1620	Dan bahasa Inggrismu bagus.	
+1621	Ya, aku tak berani bilang istimewa.	
+1622	Tapi memang istimewa, Pak.	
+1623	Bagus, bagus.	
+1624	[NO TRANSLATION]	missing translation
+1625	Dengar, aku baru saja kehilangan rekan negoisasiku dan aku butuh seseorang untuk bicara. Dan kau terlihat seperti anak muda yang cakap.	
+1626	Boleh aku bicara padamu?	
+1627	[NO TRANSLATION]	missing translation
+1628	Tak apa-apa.	
+1629	Tak apa-apa.	
+1630	Aku hanya...	
+1631	Aku hanya ingin kau sampaikan pesanku pada atasanmu.	
+1632	Tapi ini harus sangat jelas.	
+1633	Kau mengerti?	
+1634	Ya, Pak. 	
+1635	Tapi mungkin kau sebaiknya menunggu hingga ia...	
+1636	Tidak, tidak. 	
+1637	Masalahnya, aku terkena flu dan aku ingin pulang dan tidur.	
+1638	Bisa kau sampaikan pesan itu?	
+1639	Tentu saja.	
+1640	Ini pesannya.	
+1641	Tak ada kesepakatan untuk Abel kecuali kami dapatkan Powers dan Pryor.	
+1642	Kau paham?	
+1643	Ya, Pak.	
+1644	Ini akan diadakan besok pagi.	
+1645	Itu tak akan terjadi kecuali kami dapatkan dua orang.	
+1646	Dua orang itu.	
+1647	Dua, dua, dua.	
+1648	Ya, Pak.	
+1649	Jika tak ada kesepakatan, atasanmu harus beritahu Soviet.	
+1650	Dia harus beritahu Soviet bahwa mereka tak akan dapatkan Rudolf Abel.	
+1651	Ya, Pak.	
+1652	Dan beritahu dia.	
+1653	Selama ini, Abel bersikap seperti prajurit baik, tapi dia mengira dia akan pulang.	
+1654	Jika kami harus beritahu dia bahwa dia tak akan pulang... bahwa Soviet tak menginginkannya... bahwa dia tak akan pulang...	
+1655	Aku yakin perilakunya akan berubah.	
+1656	Dan siapa yang akan bertanggung jawab untuk itu?	
+1657	Itu pesan yang panjang.	
+1658	Kau mengerti semuanya?	
+1659	Ya, Pak,	
+1660	aku memahaminya.	
+1661	Bagus.	
+1662	Kau orang baik.	
+1663	[NO TRANSLATION]	missing translation
+1664	Dan juga beritahu dia tak akan ada kesepakatan kecuali kami dengar sebelum akhir urusan hari ini.	
+1665	Dia punya nomornya.	
+1666	Jika pertukaran ini gagal, maka besok belum tentu ada bagi setiap orang.	
+1667	Tidak, Pak, itu tak berdasar.	
+1668	Kau bergurau!	
+1669	Kau bergurau!	
+1670	Tidak juga.	
+1671	Aku butuh recehan.	
+1672	Ini yang seharusnya tak kau lakukan.	
+1673	Isntruksiku adalah menjernihkan situasi.	
+1674	Instruksimu untuk dapatkan Powers, bukan Pryor.	
+1675	Itu bukan ide awalnya.	
+1676	Kau menggagalkannya!	
+1677	Bagaimana kau tahu?	
+1678	Aku cukup yakin akan hal itu.	
+1679	Kau mengacaukan semuanya!	
+1680	Tak usah khawatir.	
+1681	Kurasa ini akan baik saja.	
+1682	Bagaimana bisa?	
+1683	Kau tak tahu itu.	
+1684	Amerika Serikat.	
+1685	New York, New York.	
+1686	Terima kasih.	
+1687	Dengar, semua persoalan ini membuatku hilang kesabaran.	
+1688	Akankah aku menukar satu untuk satu dan siapa yang kupilih?	
+1689	Tapi kubilang todak, dua untuk satu.	
+1690	Jadi mereka tahu apa keinginan kita.	
+1691	Ya, bagaimana jika mereka berpikir ini dan mengatakan...	
+1692	Lupakan saja! 	
+1693	Kau tahan orang kami, dan kami tahan orangmu?	
+1694	Berarti aku memang mengacaukannya.	
+1695	Hei, sayang!	
+1696	Ini aku.	
+1697	Ya. 	
+1698	Memancingnya menyenangkan.	
+1699	Aku di London, satu pertemuan lagi, lalu aku pulang.	
+1700	Ya, aku ingat selai jeruk itu.	
+1701	Tokonya ada di dekat Taman Regent.	
+1702	Baiklah, aku belikan, aku ada waktu.	
+1703	Hei, boleh kusapa Roger?	
+1704	Bisa kusapa puteriku?	
+1705	Apa ada orang yang tidak sibuk?	
+1706	Apa mereka menyadari aku tidak di rumah?	
+1707	Kita bergerak.	
+1708	Dua untuk satu.	
+1709	Hot dog.	
+1710	Mari kita minum.	
+1711	Ada satu persyaratan.	
+1712	Apa itu?	
+1713	Mereka tidak melepas Pryor dengan Powers, tidak di jembatan itu.	
+1714	Mereka akan melepasnya dalam waktu bersamaan.	
+1715	Saat orang Rusia itu memberi kita Powers di jembatan, mereka akan melepas Pryor di titik pemeriksaan Charlie.	
+1716	Apa maksudnya?	
+1717	Kurasa itu artinya, kita butuh kata terakhir.	
+1718	Tapi mereka akan melakukannya.	
+1719	Kau yang tahu.	
+1720	Kau yang memintanya.	
+1721	Di mana mereka?	
+1722	Mana orang kita?	
+1723	Mana orang kita?	
+1724	Mereka terlambat.	
+1725	Tak ada yang terlambat.	
+1726	Kita terlalu cepat.	
+1727	Bisa kupinjam?	
+1728	Ya.	
+1729	Hoffman.	
+1730	Ya?	
+1731	Kurasa mereka punya...	
+1732	Apa?	
+1733	Penembak jitu.	
+1734	Tentu mereka punya.	
+1735	Kenapa kau yakin mereka punya?	
+1736	Karena kita juga punya penembak jitu.	
+1737	Silakan keluar, Pak.	
+1738	Jim.	
+1739	Apa kabar Jim.	
+1740	Apa kabarmu?	
+1741	Senang bertemu denganmu.	
+1742	Kau mengatur semua ini untukku?	
+1743	Mari kita pastikan ini, sebelum berterima kasih padaku.	
+1744	Ada kabar dari Pryor dari titik pemeriksaan Charlie?	
+1745	Belum ada kabar.	
+1746	Permisi, Pak.	
+1747	Ini Letnan Joe Murphy, dari AU Amerika Serikat Dia disini untuk mengenali Powers.	
+1748	Letnan Murphy.	
+1749	Pak.	
+1750	Mungkin ada sedikit halangan.	
+1751	Aku masih muda saat dulu pergi.	
+1752	Siapa yang mereka bawa untuk mengenaliku?	
+1753	Kuharap bukan keluargamu di Jerman Timur.	
+1754	Aku meragukan mereka bisa saling mengenali.	
+1755	Sepertinya tamu kita.	
+1756	Ayo jalan.	
+1757	Kau di sini saja, Donovan.	
+1758	Tidak bisa.	
+1759	Buka gerbangnya.	
+1760	Apa yang terjadi jika kau tiba di rumah?	
+1761	Kurasa...	
+1762	Aku akan minum vodka.	
+1763	Ya.	
+1764	Ya.	
+1765	Tapi, Rudolf, apa ada kemungkinan...	
+1766	Bahwa orang-orangku akan menembakku?	
+1767	Ya.	
+1768	Kau tak khawatir?	
+1769	Akankah itu membantu?	
+1770	Untuk menjawab pertanyaanmu, temanku, Aku sudah bersikap terhormat.	
+1771	Kurasa mereka tahu itu.	
+1772	Tapi kadang orang berpikir keliru.	
+1773	Orang tetaplah orang.	
+1774	Mari kita lihat bagaimana mereka menyambutku.	
+1775	Apa tandanya?	
+1776	Apa aku dipeluk atau disuruh duduk di bangku belakang.	
+1777	Da.	
+1778	Lepaskan topi itu.	
+1779	Hei, Powers.	
+1780	Hei, Murph.	
+1781	Ya, itu Powers.	
+1782	Baiklah, Tn. Donovan.	
+1783	Kita lakukan sekarang!	
+1784	Tunggu dulu.	
+1785	Percayalah, aku akan beritahu.	
+1786	Tak ada siapa-siapa di sini.	
+1787	Mereka melepas orang lain di titik pemeriksaan Charlie.	
+1788	Kami tinggal memastikan di sudah di sana.	
+1789	Sekarang!	
+1790	Mohon tetap sesuai rencana.	
+1791	Ayo jalan.	
+1792	Pryor akan muncul atau tidak. 	
+1793	Ayo jalan.	
+1794	Mereka menunggu apakah kita melakukannya tanpa Pryor.	
+1795	Kita tetap di sini, tunjukkan kita tak akan melakukannya.	
+1796	Aku tak peduli apa mau mereka.	
+1797	Kita punya prioritas.	
+1798	Ayo, Abel.	
+1799	Ayo jalan, Pak.	
+1800	Kau bisa pergi.	
+1801	Jika tak sesuai rencana, kami kembali.	
+1802	Kita bertukar sekarang atau kita pulang!	
+1803	Kau menunggu orang lain?	
+1804	Ya.	
+1805	Kau juga menginginkanya.	
+1806	Aku menginginkannya.	
+1807	Tak peduli apa mau dia Pak.	
+1808	Aku yang berwenang dan kau bebas untuk pergi.	
+1809	Ayo jalan.	
+1810	Menyebaranglah.	
+1811	Aku bisa menunggu.	
+1812	Ada yang datang.	
+1813	Aku belum pasti.	
+1814	Tunggu!	
+1815	Ayo jalan.	
+1816	Kami mendapatkannya!	
+1817	Aku...	
+1818	Mengirimimu hadiah, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Sebuah lukisan.	
+1821	Kuharap itu berarti buatmu.	
+1822	Maaf.	
+1823	Aku tak kepikiran memberimu hadiah.	
+1824	Ini hadiah darimu.	
+1825	Ini hadiahmu.	
+1826	Kau baik saja?	
+1827	Ayo jalan!	
+1828	Tn. Donovan.	
+1829	Kolonel Abel memintaku memberi ini padamu.	
+1830	Permisi, Pak.	
+1831	Apa anda yang memimpin misi ini, Pak?	
+1832	Ya.	
+1833	Aku ingin berterima kasih.	
+1834	Aku harus berterima kasih pada seseorang.	
+1835	Aku tak beri mereka apapun.	
+1836	Aku tak beri mereka apapun.	
+1837	Tak masalah.	
+1838	Tak masalah apa yang orang pikir.	
+1839	Kau tahu apa yang kau lakukan.	
+1840	Selamat datang.	
+1841	Perjalanan yang melelahkan.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Kau baik saja?	
+1845	Aku baik saja.	
+1846	Kau bawakan selai jeruknya?	
+1847	Ya, ya.	
+1848	Ya.	
+1849	Ya.	
+1850	Aku membelikannya.	
+1851	Sesuai pesanan.	
+1852	Jim.	
+1853	Ini dari toko Arno.	
+1854	Jadi?	
+1855	Di sudut kota!	
+1856	Sayang, aku sibuk sekali.	
+1857	Maafkan aku, 	
+1858	aku sibuk sekali.	
+1859	[NO TRANSLATION]	missing translation
+1860	Apa kabar Roger? 	
+1861	Dia di rumah?	
+1862	Dia di rumah.	
+1863	Carol di rumah, Peggy di rumah.	
+1864	Semua orang di rumah.	
+1865	Ibu!	
+1866	Kemarilah! 	
+1867	Lihat!	
+1868	Ibu, kemarilah!	
+1869	Ibu, kemarilah!	
+1870	Ayo lihat ini! 	
+1871	Lihat!	
+1872	[NO TRANSLATION]	missing translation
+1873	Ayo!	
+1874	Francis Gary Powers telah dibebaskan dari penjara Uni Soviet dan diserahkan ke pihak Amerika pagi ini di Berlin.	
+1875	Presiden telah merubah vonis Rudolf Abel.	
+1876	Tn. Abel telah dideportasi dan telah dibebaskan di Berlin.	
+1877	Upaya pembebasan Tn. Powers ini berlangsung rahasia.	
+1878	Untuk upaya ini, pemerintah Amerika Serikat memiliki kerjasama dan bantuan dari Tn. James B. Donovan, seorang pengacara New York.	
+1879	Frederic L. Pryor, seorang mahasiswa Amerika ditahan otoritas Jerman Timur sejak Agustus 1961.	
+1880	Kupikir ayah pergi memancing.	
+1881	Memancing salmon.	
+1882	Abel sekarang menghilang ke dunia komunis.	
+1883	Powers diberi beberapa pertanyaan.	
+1884	Dan Donovan kembali ke praktek hukumnya.	
+1885	Dan sekarang ada George Fenneman, berbicara untuk Asosiasi Plywood Douglas.	

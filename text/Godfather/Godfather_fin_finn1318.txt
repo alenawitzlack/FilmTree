@@ -1,0 +1,1769 @@
+1	Minä uskon Amerikkaan.	
+2	Amerikka on tehnyt minusta rikkaan.	
+3	Olen kasvattanut tyttäreni amerikkalaiseen malliin.	
+4	Annoin hänelle vapauksia mutta opetin, ettei perhettä saa häpäistä.	
+5	Hän ihastui poikaan, joka ei ole italialainen.	
+6	He kävivät elokuvissa,	
+7	ja tyttö tuli myöhään kotiin.	
+8	En sanonut mitään.	
+9	Kaksi kuukautta sitten poika vei hänet toisen pojan kanssa ajelulle.	
+10	He juottivat tyttärelleni viskiä - ja sitten he yrittivät käyttää häntä hyväkseen.	
+11	Hän taisteli vastaan ja säilytti kunniansa.	
+12	Pojat hakkasivat hänet kuin eläimen.	
+13	Kun menin sairaalaan, hänen nenänsä oli murtunut - ja hänen leukansa pysyi kasassa vain tuen avulla.	
+14	Hän ei voinut edes itkeä, koska se teki niin kipeää.	
+15	Mutta minä itkin.	
+16	Miksikö minä itkin?	
+17	Hän oli silmäteräni.	
+18	Hän oli kaunis tyttö.	
+19	Tämän jälkeen hän ei enää ole kaunis.	
+20	Anteeksi.	
+21	Ilmoitin asiasta poliisille kuten kunnon amerikkalaisen kuuluu.	
+22	Pojat joutuivat vastaamaan teostaan oikeudessa.	
+23	Heidät tuomittiin kolmeksi vuodeksi ehdonalaiseen vankeuteen.	
+24	Ehdonalaiseen!	
+25	He pääsivät vapaaksi sinä samana päivänä.	
+26	Minä seisoin tyhmänä oikeussalissa.	
+27	Ne kaksi kusipäätä virnuilivat minulle.	
+28	Sanoin vaimolleni: Don Corleone voi auttaa oikaisemaan vääryyden.	
+29	Miksi menit poliisin puheille	
+30	etkä tullut minun luokseni?	
+31	[NO TRANSLATION]	missing translation
+32	Minä teen, mitä ikinä haluat. Rukoilen sinua täyttämään pyyntöni.	
+33	Mikä se on?	
+34	Haluan heidät hengiltä.	
+35	En voi suostua siihen.	
+36	Annan sinulle ihan mitä vain.	
+37	Olemme tunteneet vuosikausia, mutta pyydät nyt minulta ensi kertaa apua.	
+38	En muista, koska olisit viimeksi kutsunut minut kotiisi kahville -	
+39	vaikka vaimoni on ainoan lapsesi kummi.	
+40	Puhutaan nyt suoraan.	
+41	Et halunnut olla ystäväni.	
+42	Sinua pelotti olla minulle velkaa.	
+43	En tahtonut joutua vaikeuksiin.	
+44	Ymmärrän kyllä.	
+45	Amerikka oli sinulle paratiisi.	
+46	Tienasit hyvin, ja poliisi ja lait suojelivat sinua.	
+47	Et tarvinnut kaltaistani ystävää.	
+48	Nyt tulet luokseni ja sanot:	
+49	Don Corleone, auta minua oikaisemaan vääryys.	
+50	Pyynnössäsi ei ole kunnioitusta.	
+51	Et tarjoa ystävyyttäsi.	
+52	Et halua kutsua minua kummisedäksi.	
+53	Tulet kotiini tyttäreni hääpäivänä ja pyydät minua murhaamaan rahasta.	
+54	Pyydän sinua oikaisemaan vääryyden.	
+55	[NO TRANSLATION]	missing translation
+56	Tyttäresihän on yhä elossa.	
+57	Antaa heidän sitten kärsiä niin kuin hän kärsii.	
+58	Paljonko se maksaa?	
+59	Voi Bonasera, Bonasera.	
+60	Miksi sinä kohtelet minua noin epäkohteliaasti?	
+61	Jos olisit tullut tänne ystävänä - tyttäresi tuhonneet roistot kärsisivät paraikaa.	
+62	Kaltaisesi rehdin miehen viholliset olisivat minunkin vihollisiani.	
+63	Silloin sinua pelättäisiin.	
+64	Oletko ystäväni?	
+65	Kummisetä.	
+66	Hyvä.	
+67	Minä saatan jonain päivänä pyytää sinulta palvelusta.	
+68	Mutta siihen päivään asti - voit pitää tätä lahjana, jonka annan tyttäreni hääpäivänä.	
+69	Grazie, kummisetä.	
+70	Prego.	
+71	Käske Clemenzan hoitaa asia.	
+72	Tahdon väkeä, joka osaa hillitä itsensä.	
+73	Emme ole murhaajia, sanoopa tuo hautausurakoitsija mitä vain.	
+74	Missä Michael on?	
+75	Älä huoli.	
+76	Kyllä hän tulee.	
+77	Mikä nyt on vikana?	
+78	Michael.	
+79	Don Barzini.	
+80	Hei, Paulie!	
+81	Anna vähän viiniä.	
+82	Paulie!	
+83	Lisää viiniä!	
+84	Näytät upealta lattialla.	
+85	Oletko muka joku tanssituomari?	
+86	Mene hoitamaan hommiasi.	
+87	Sandra, vahdi lapsia	
+88	äläkä anna heidän riehua.	
+89	Mitä jos vahtisit heitä ihan itse?	
+90	20- 30 tonnia.	
+91	Pieninä seteleinä, käteisenä.	
+92	Tuossa silkkipussissa.	
+93	Olisivatpa nämä jonkun muun häät.	
+94	[NO TRANSLATION]	missing translation
+95	Hei, Paulie!	
+96	[NO TRANSLATION]	missing translation
+97	Idiootti!	
+98	Mitä nyt?	
+99	Minun pitää palata töihin.	
+100	Tom.	
+101	[NO TRANSLATION]	missing translation
+102	Sisilialainen ei voi evätä pyyntöjä tyttärensä hääpäivänä.	
+103	Don Corleone, olen ylpeä ja kiitollinen kutsustasi.	
+104	Ala vetää täältä!	
+105	Nämä ovat yksityiset juhlat.	
+106	[NO TRANSLATION]	missing translation
+107	Mitä nyt?	
+108	Vietämme sisareni häitä.	
+109	Hemmetin FBI ei kunnioita mitään.	
+110	Tule tänne sieltä!	
+111	Hän pääsi ehdonalaiseen, jotta hän voisi autella sota-aikana. Hän on ollut puoli vuotta töissä konditoriassani.	
+112	Nazorine, miten voin auttaa?	
+113	Nyt kun sota on ohi - Enzo halutaan lähettää takaisin Italiaan.	
+114	Kummisetä, minulla on tytär.	
+115	Hän ja Enzo...	
+116	Haluat, että Enzo pysyy täällä ja tyttäresi pääsee naimisiin.	
+117	Olet niin ymmärtäväinen.	
+118	Mr. Hagen,	
+119	kiitos.	
+120	Odotas, kun näet hääkakun, jonka tein tyttärellesi.	
+121	Siinä on morsian, sulhanen ja enkeli.	
+122	Kuka saa hoitaa tämän homman?	
+123	Ei kukaan meikäläinen.	
+124	Jonkun toisen alueen juutalainen kongressiedustaja.	
+125	Keitä listalla on?	
+126	Hei, Michael!	
+127	Luca Brasi ei ole listalla mutta haluaa tavata sinut.	
+128	Onko se välttämätöntä?	
+129	Hän ei odottanut kutsua häihin ja haluaa kiittää sinua.	
+130	Don Corleone, olen ylpeä ja kiitollinen kutsusta tyttäresi häihin.	
+131	Toivottavasti heidän esikoisensa on poika.	
+132	Michael...	
+133	Tuo mies puhuu itsekseen.	
+134	Siis tuo pelottavan näköinen mies.	
+135	Hän on hyvin pelottava.	
+136	Kuka hän on?	
+137	Hänen nimensä on Luca Brasi.	
+138	Hän auttelee joskus isää.	
+139	Michael, hän tulee tänne.	
+140	Näytät upealta.	
+141	Veljeni Tom Hagen. Miss Kay Adams.	
+142	Isäsi on odottanut sinua.	
+143	Hauska tutustua.	
+144	Kiitos samoin.	
+145	Miksi veljelläsi on eri sukunimi?	
+146	Veljeni Sonny löysi Tom Hagenin kadulta.	
+147	Hänellä ei ollut kotia, joten isä otti hänet meille.	
+148	Hän on kuulunut siitä asti perheeseen.	
+149	Hän on hyvä asianajaja.	
+150	Hän ei ole sisilialainen.	
+151	Hänestä tulee varmaan consigliere.	
+152	Mikä se sellainen on?	
+153	Se on... eräänlainen neuvonantaja,	
+154	hyvin tärkeä perheelle.	
+155	Onko lasagne hyvää?	
+156	Don Corleone.	
+157	Olen ylpeä ja kiitollinen - että kutsuit minut tyttäresi häihin.	
+158	Tyttäresi hääpäivänä.	
+159	Toivottavasti heidän esikoisensa on poika.	
+160	Lupaan, etten petä ikinä luottamustasi.	
+161	Tämä on tyttärellesi.	
+162	Kiitos, Luca.	
+163	Olet arvokas ystävä.	
+164	Don Corleone, en häiritse tämän enempää, koska sinulla on kiireitä.	
+165	Kiitos.	
+166	Signora Corleone!	
+167	Ei!	
+168	Senaattori Cauley pahoitteli pois- jääntiään mutta uskoi, että ymmärrät.	
+169	Samoin jotkut tuomarit.	
+170	He lähettivät lahjoja.	
+171	Mitä ulkona tapahtuu?	
+172	Johnny!	
+173	Johnny!	
+174	Minä rakastan sinua!	
+175	Hän tuli Kaliforniasta asti.	
+176	Mitäs minä sanoin?	
+177	Hän on varmaan taas pulassa.	
+178	Hän on hyvä kummipoika.	
+179	Johnny, Johnny!	
+180	Laula jotain.	
+181	Et kertonut, että tunnet Johnny Fontanen.	
+182	[NO TRANSLATION]	missing translation
+183	Haluatko tavata hänet?	
+184	[NO TRANSLATION]	missing translation
+185	Totta kai.	
+186	Isä auttoi häntä hänen urallaan.	
+187	Niinkö?	
+188	Miten?	
+189	Kuunnellaan laulua.	
+190	Michael...	
+191	Michael, ole kiltti	
+192	ja kerro.	
+193	Kun Johnny aloitteli uraansa, hän teki sopimuksen - erään orkesterin johtajan kanssa.	
+194	Kun hän alkoi menestyä, hän halusi purkaa sopimuksen.	
+195	Johnny on isän kummipoika.	
+196	Isä meni tapaamaan orkesterin johtajaa.	
+197	Hän tarjosi 10000 dollaria hyvitykseksi - mutta johtaja kieltäytyi.	
+198	Seuraavana päivänä isä meni tapaamaan häntä Luca Brasin kanssa.	
+199	Tunnin sisällä mies suostui purkamaan sopimuksen... tuhannen dollarin sekkiä vastaan.	
+200	Miksi ihmeessä?	
+201	Isä teki hänelle tarjouksen, josta ei voinut kieltäytyä.	
+202	Millaisen tarjouksen?	
+203	Luca piti asetta miehen ohimolla. Isä sanoi, että paperia koristaisivat joko hänen aivonsa tai allekirjoitus.	
+204	Se on tosijuttu.	
+205	Perheeni on sellainen, Kay,	
+206	en minä.	
+207	Se oli ihanaa!	
+208	Minä huolehdin siitä.	
+209	Tom...	
+210	Etsi Santino	
+211	ja käske hänen tulla toimistoon.	
+212	Mitä kuuluu, Fredo?	
+213	Tässä on veljeni Fredo. Tämä on Kay Adams.	
+214	Hei.	
+215	Hauska tutustua.	
+216	Tämä on veljeni Mike.	
+217	Onko sinulla kivaa?	
+218	Joo.	
+219	Onko tämä sinun ystäväsi?	
+220	En tiedä, mitä tehdä.	
+221	Ääneni on heikko.	
+222	Se on heikko.	
+223	Jos saisin sen elokuvaroolin, nousisin taas huipulle.	
+224	Mutta studion pomo ei suostu antamaan roolia minulle.	
+225	Mikä hänen nimensä on?	
+226	Woltz.	
+227	Minun on kuulemma ihan turha haaveilla osasta.	
+228	Sonny!	
+229	Sonny!	
+230	Sonny!	
+231	Sonny, oletko siellä?	
+232	Mitä?	
+233	Isäukolla on asiaa.	
+234	Hetkinen vain.	
+235	Hän osti kuukausi sitten erään bestsellerin kuvausoikeudet.	
+236	Päähenkilö on ihan samanlainen kuin minä.	
+237	Voisin vain olla oma itseni.	
+238	Kummisetä, en tiedä, mitä tekisin.	
+239	Käyttäydy kuin mies!	
+240	Mikä sinua riivaa?	
+241	Onko sinusta tullut Hollywood-homppeli, joka parkuu kuin akka?	forced duplication
+242	Onko sinusta tullut Hollywood-homppeli, joka parkuu kuin akka?	forced duplication
+243	Mitä minä tekisin?	
+244	Mitä teen?	
+245	Mitä höpinää se on?	
+246	Naurettavaa.	
+247	Vietätkö aikaa perheesi kanssa?	
+248	Totta kai.	
+249	Hyvä.	
+250	Mies, joka ei vietä aikaa perheensä kanssa, ei ole mikään mies.	
+251	Näytät kamalalta.	
+252	Sinun pitää syödä.	
+253	Lepää kunnolla. Kuukauden päästä se Hollywood-pomo syö kädestäsi.	
+254	Kuvaukset alkavat jo viikon päästä.	
+255	Teen hänelle tarjouksen, josta ei voi kieltäytyä.	
+256	Mene pitämään hauskaa ja unohda se hölynpöly.	
+257	Jätä kaikki minun huolekseni.	
+258	Hyvä on.	
+259	Milloin tyttäreni lähtee?	
+260	Heti kun kakku on leikattu.	
+261	Annammeko uudelle vävyllesi jotain tärkeää?	
+262	Ei.	
+263	Antakaa hänelle hommia mutta älkää puhuko perheen asioista.	
+264	Mitä muuta?	
+265	Virgil Sollozzo soitti.	
+266	Hänet pitää tavata ensi viikolla.	
+267	Kunhan palaat Kaliforniasta.	
+268	Milloin lähden Kaliforniaan?	
+269	Tänään.	
+270	Jututa sitä elokuvapomoa ja laita Johnnyn asiat kuntoon.	
+271	Jos siinä oli kaikki, menisin mielelläni tyttäreni häihin.	
+272	Carlo, meistä otetaan kuva.	
+273	Hetkinen.	
+274	Ei, Michael.	
+275	En halua tulla.	
+276	[NO TRANSLATION]	missing translation
+277	Kas noin.	
+278	Pysykää paikoillanne.	
+279	[NO TRANSLATION]	missing translation
+280	Kertokaa asianne.	
+281	Johnny Fontanen ystävä lähetti minut.	
+282	Tämä ystävä olisi Mr. Woltzin ikuinen ystävä - jos hän tekisi meille palveluksen.	
+283	Woltz kuuntelee.	
+284	Antakaa Johnnylle osa uudesta sotaelokuvastanne.	
+285	Mitä ystävänne antaisi Mr. Woltzille vastalahjaksi?	
+286	Hän auttaisi teitä tulevissa ay-ongelmissa.	
+287	Lisäksi yksi tähtenne on vaihtanut marihuanan heroiiniin.	
+288	Yritätkö uhkailla minua?	
+289	Kuules nyt, kusipää!	
+290	Puhun nyt suoraan.	
+291	Johnny Fontanea ei nähdä siinä elokuvassa -	
+292	vaikka saisin sata italiaanokusipäätä kimppuuni!	
+293	Olen saksalais-irlantilainen.	
+294	Kuule, sakemanni-irkku.	
+295	Voin hommata sinut kiipeliin.	
+296	Olen juristi.	
+297	En ole uhkaillut...	
+298	Tunnen New Yorkin juristit.	
+299	Kuka sinä olet?	
+300	[NO TRANSLATION]	missing translation
+301	Hoidan vain yhden asiakkaan asioita.	
+302	Odotan soittoanne.	
+303	Pidän muuten paljon elokuvistanne.	
+304	Tutki hänen tietonsa.	
+305	Täällä on kaunista.	
+306	Katsopa tuota.	
+307	Se on kuninkaan palatsista.	
+308	Se on hieno.	
+309	Mikset sanonut, että pomosi on Corleone?	
+310	Luulin, että olet joku Johnnyn lähettämä huijari.	
+311	En mainosta hänen nimeään.	
+312	Maistuuko juoma?	
+313	[NO TRANSLATION]	missing translation
+314	Näytän sinulle jotain upeaa.	
+315	Arvostat kai kauneutta?	
+316	[NO TRANSLATION]	missing translation
+317	600000 dollaria neljällä kaviolla.	
+318	Venäjän tsaarit eivät maksaneet hevosista sellaisia summia.	
+319	Khartoum.	
+320	Khartoum.	
+321	Siitä ei kuitenkaan tule kilpahevosta	
+322	vaan siitosori.	
+323	Kiitos, Tony.	
+324	Mennään haukkaamaan jotain.	
+325	Corleone on Johnnyn kummisetä.	
+326	Se on italialaisille hyvin pyhä ja läheinen suhde.	
+327	Kunnioitan sitä.	
+328	Suostun mihin muuhun tahansa	
+329	mutta en tähän.	
+330	Hän ei pyydä toista kertaa, jos hänen pyyntönsä evätään.	
+331	Sinä et nyt ymmärrä.	
+332	Johnny Fontanea ei nähdä siinä elokuvassa.	
+333	Osa on kuin tehty hänelle.	
+334	Hänestä tulisi tähti.	
+335	Minä ajan hänet pois alalta, ja tässä tulee syy.	
+336	Johnny tuhosi yhden Woltz-yhtiön arvokkaimmista suojateista.	
+337	Opetimme häntä 5 vuotta	
+338	laulamaan, näyttelemään ja tanssimaan.	
+339	Sijoitin häneen tuhansia dollareita. Hänestä piti tulla tähti.	
+340	Sanon tämän vielä suoremmin.	
+341	En ole kovasydäminen mies.	
+342	Kyse ei ole vain rahasta.	
+343	Hän oli kaunis.	
+344	Hän oli nuori ja viaton.	
+345	Hän oli paras panoni, ja minulla on ollut niitä ympäri maailmaa.	
+346	Sitten hän lankesi Johnny Fontanen suloääneen ja italiaanocharmiin.	
+347	Hän karkasi.	
+348	Hän hylkäsi kaiken ja teki minusta naurunalaisen.	
+349	Minun asemassani olevalla miehellä ei ole varaa näyttää naurettavalta!	
+350	Painu helvettiin täältä!	
+351	Sen mafioson on turha yrittää mitään. En ole mikään orkesterin johtaja.	
+352	Kuulin sen tarinan.	
+353	Kiitos ateriasta ja hyvää illan jatkoa.	
+354	Veisiköhän autonne minut lentokentälle?	
+355	Mr. Corleone haluaa kuulla huonot uutiset heti.	
+356	Et kai ole liian poikki, Tom?	
+357	En. Nukuin koneessa.	
+358	Tässä ovat Sollozzon tiedot.	
+359	No niin...	
+360	Sollozzo eli Turkkilainen tarttuu herkästi puukkoon - mutta vain jos siihen on syytä liikeasioissa.	forced duplication
+361	Sollozzo eli Turkkilainen tarttuu herkästi puukkoon - mutta vain jos siihen on syytä liikeasioissa.	forced duplication
+362	Hänen alaansa ovat huumeet.	
+363	Hänellä on unikkoviljelmiä Turkissa.	
+364	Heroiini valmistetaan Sisiliassa.	
+365	Hän tarvitsee käteistä ja suojelua poliisilta.	
+366	Hän maksaa lahjuksia,	
+367	mutta en tiedä, kuinka paljon.	
+368	Tattaglian perhe tukee häntä.	
+369	Heidän on hyödyttävä siitä jotenkin.	
+370	Onko hän ollut vankilassa?	
+371	Kerran Italiassa ja kerran täällä.	
+372	Hän on huumealan huippuja.	
+373	Santino, mitä mieltä olet?	
+374	Huumebisneksessä liikkuu rahaa.	
+375	Tom?	
+376	Kyllä.	
+377	Huumeala on kaikkein tuottoisinta.	
+378	Jos me emme valloita alaa, muut viisi perhettä voivat tehdä sen.	
+379	Rahoilla he voivat ostaa poliiseja ja poliittista valtaa.	
+380	Sitten meitä aletaan vainota.	
+381	Hallitsemme ay-liikettä ja uhkapeliä, mutta huumeet ovat tulevaisuutta.	
+382	Jos emme tunge alalle, voimme menettää 10 vuodessa kaiken.	
+383	No?	
+384	Mitä sinä sanot, isä?	
+385	Don Corleone.	
+386	Tarvitsen miehen, jonka ystävillä on valtaa.	
+387	Tarvitsen miljoonan käteistä.	
+388	Tarvitsen niitä poliitikkoja, jotka olet saanut valtaasi.	
+389	Mikä minun perheeni osuus olisi?	
+390	30 prosenttia.	
+391	Ensimmäisenä vuonna osuutenne olisi 3- 4 miljoonaa dollaria.	
+392	Sitten se nousisi.	
+393	Mikä Tattaglian perheen osuus on?	
+394	Onnittelut.	
+395	Hoidan heidät omasta pussistani.	
+396	Saisin siis 30 prosenttia rahoituksesta - poliittisesta vallasta ja suojelusta.	
+397	Juuri niin.	
+398	Miksi juuri minä?	
+399	Miksi olette niin antelias?	
+400	Jos miljoona dollaria käteistä on sinulle vain rahoitusta - ti saluto, don Corleone.	
+401	Tapasin sinut, koska kuulin, että olet vakavasti otettava mies - jota on kohdeltava kunnioittavasti.	
+402	Minun on silti hylättävä tarjous.	
+403	Kerron nyt, miksi.	
+404	Minulla todellakin on ystäviä politiikassa.	
+405	Ystävyys loppuisi pian, jos vaihtaisin uhkapelit huumeisiin. Pelaaminen on harmiton pahe, mutta huumeet ovat hämäräbisnestä.	
+406	Minulle on se ja sama, mitä kukin tekee elääkseen -	
+407	mutta sinun liiketoimesi ovat... hieman vaarallisia.	
+408	Tattagliat takaavat turvallisuuden.	
+409	Tattagliatko muka takaisivat...	
+410	Hetkinen.	
+411	Olen heikkona lapsiini ja hemmottelen heidät piloille.	
+412	He puhuvat, kun pitäisi kuunnella.	
+413	Joka tapauksessa...	
+414	Päätökseni pitää.	
+415	Onnea uusille liiketoimillesi.	
+416	Pärjäät varmasti hyvin. Toivotan onnea.	
+417	Etenkin, kun etumme eivät ole ristiriidassa keskenään.	
+418	Kiitos.	
+419	Santino.	
+420	Tule tänne.	
+421	[NO TRANSLATION]	missing translation
+422	Ovatko aivosi pehmenneet sen tytön kanssa peuhaamisesta?	
+423	Älä enää ikinä paljasta mielipiteitäsi ulkopuolisille.	
+424	Ala mennä.	
+425	Tom, mitä nuo rehut ovat?	
+426	Ne ovat Johnnylta.	
+427	Hän sai osan siitä elokuvasta.	
+428	Vie ne pois.	
+429	Laittakaa ne tuonne.	
+430	Ja... käske Luca Brasi tänne.	
+431	Olen huolissani siitä Sollozzosta.	
+432	Ota selvää, mikä hän on miehiään.	
+433	Käy Tattaglian perheen luona.	
+434	Anna heille sellainen kuva, ettet oikein viihdy meidän perheessämme. Ota selville kaikki mahdollinen.	
+435	Ostin lahjat äidillesi ja Sonnylle - ja solmion Freddylle. Tom Hagen saa Reynoldsin kynän.	
+436	Mitä sinä haluat joululahjaksi?	
+437	Sinut.	
+438	Andiamo, Fredo.	
+439	Käske Paulien hakea auto.	
+440	Selvä, isä.	
+441	Minun on haettava se itse.	
+442	Paulie soitti olevansa kipeä.	
+443	Paulie on hyvä tyyppi.	
+444	Voin ihan hyvin hakea auton.	
+445	Buon Natale, caro.	
+446	Grazie.	
+447	Luca!	
+448	Minä olen Bruno Tattaglia.	
+449	Tiedän.	
+450	Tunnetko minut?	
+451	Tunnen.	
+452	Olet jutellut Tattaglian perheen kanssa, vai mitä?	
+453	Minä ja sinä voisimme ryhtyä liikekumppaneiksi.	
+454	Vahvalle miehelle olisi käyttöä.	
+455	Et kuulemma oikein viihdy Corleonen perheen leivissä.	
+456	Vaihdatko minun leiriini?	
+457	Mitä saisin siitä hyvästä?	
+458	Alkajaisiksi 50000 dollaria.	
+459	Ei hassumpaa.	
+460	Onko sovittu?	
+461	Tom!	
+462	Tom Hagen.	
+463	Hyvää joulua.	
+464	Kiva nähdä.	
+465	Minulla on asiaa.	
+466	En ehdi nyt jutella.	
+467	Kyllä ehdit, consigliere.	
+468	Mene autoon.	
+469	Mitä pelkäät?	
+470	Jos haluaisin tappaa sinut, olisit jo kuollut.	
+471	Mene autoon.	
+472	Fredo, käyn ostamassa hedelmiä.	
+473	Selvä, isä.	
+474	Hyvää joulua.	
+475	Ostaisin hedelmiä.	
+476	Pitäisitkö minusta enemmän, jos olisin nunna	
+477	niin kuin elokuvassa?	
+478	En.	
+479	Entäs jos olisin Ingrid Bergman?	
+480	Sitä pitää miettiä.	
+481	Michael.	
+482	Ei, en pitäisi sinusta enemmän, jos olisit Ingrid Bergman.	
+483	Mitä nyt?	
+484	Tässä ei sanota, onko hän kuollut vai elossa.	
+485	Sonny, Michael täällä.	
+486	Missä olet ollut?	
+487	Onko hän kunnossa?	
+488	Emme tiedä vielä.	
+489	Liikkeellä on kaikenlaisia juttuja.	
+490	Häneen osui pahasti.	
+491	Oletko siellä?	
+492	Olenhan minä.	
+493	Missä olet ollut?	
+494	Olin huolissani.	
+495	Eikö Tom sanonut, että soitin?	
+496	Ei.	
+497	Tule kotiin.	
+498	Äiti tarvitsee sinua.	
+499	Voi luoja.	
+500	Sonny!	
+501	Pysy tuolla.	
+502	Kuka siellä on?	
+503	Clemenza.	
+504	Kuulin uusia uutisia isästäsi.	
+505	Huhujen mukaan hän on kuollut.	
+506	Mikä sinua riivaa?	
+507	Rauhoitu, Sonny!	
+508	Missä Paulie oli?	
+509	Sairaana.	
+510	Hän on sairastellut.	
+511	Kuinka usein?	
+512	Vain kolme neljä kertaa.	
+513	Freddy ei halunnut vaihtaa vartijaa.	
+514	Hae Paulie.	
+515	Vaikka hän olisi kuinka sairas,	
+516	tuo hänet heti isän talolle.	
+517	Lähetänkö tänne ketään?	
+518	Älä.	
+519	Mene nyt vain.	
+520	Minun pitää tavata muutama tyyppi.	
+521	Haloo.	
+522	Santino Corleone?	
+523	Niin.	
+524	Meillä on Tom Hagen.	
+525	Hän tuo kolmen tunnin päästä ehdotuksen.	
+526	Kuuntele tarkasti, ennen kuin teet mitään.	
+527	Tehty mikä tehty.	
+528	Hillitse ne kuuluisat hermosi, Sonny.	
+529	Minä odotan.	
+530	Pomosi on kuollut.	
+531	Sinä et ole perheen uhittelija, joten sinulla ei ole hätää.	
+532	Haluan, että autat Corleoneja ja samalla minua.	
+533	Teilasimme hänet toimiston edessä tunti sinun sieppaamisesi jälkeen.	
+534	Juo se.	
+535	Sinun täytyy saada rauha minun ja Sonnyn välille.	
+536	Sonny kannatti ideaani, vai mitä?	
+537	Sinäkin tiesit, että se olisi kannattavaa.	
+538	Sonny käy kimppuusi kaikin voimin.	
+539	Alkuun kyllä.	
+540	Siksi sinun pitää puhua hänelle.	
+541	Tattaglian perhe tukee minua.	
+542	Muut New Yorkin perheet tekevät mitä vain estääkseen sodan.	
+543	Myönnetään pois, että pomovainajasi ote alkoi lipsua.	
+544	Olisinko saanut hänet kymmenen vuotta sitten?	
+545	Hän on kuollut, Tom, eikä mikään herätä häntä henkiin.	
+546	Sinun pitää puhua Sonnylle ja kaikille muille.	
+547	Se on kannattavaa bisnestä, Tom.	
+548	Minä yritän,	
+549	mutta edes Sonny ei saa pidettyä Luca Brasia aisoissa.	
+550	Niinpä...	
+551	Jätä Luca minun huolekseni.	
+552	Juttele sinä Sonnyn kanssa.	
+553	Ja niiden kahden muun pojan.	
+554	Teen parhaani.	
+555	Hyvä.	
+556	Nyt sinä voit mennä.	
+557	Minä en pidä väkivallasta, Tom.	
+558	Olen liikemies.	
+559	Verenvuodatus tietää rahanmenoa.	
+560	Hän on yhä elossa.	
+561	Äijää ammuttiin viidesti, ja hän on yhä elossa!	
+562	Se on paha homma minulle ja samoin sinulle, jos et saa aikaan sopimusta.	
+563	Äitisi on isäsi luona sairaalassa.	
+564	Hän taitaa sittenkin selvitä.	
+565	Kamalasti pahaa verta.	
+566	Sollozzo, Philip ja Bruno Tattaglia...	
+567	Tapatko heidät kaikki?	
+568	Älä sekaannu tähän.	
+569	Jos tapat Sollozzon, kaikki korjaantuu.	
+570	Entä Luca?	
+571	Sollozzo uskoo hallitsevansa häntä.	
+572	Jos Luca petti meidät, olemme pulassa.	
+573	Onko kukaan saanut Lucaa kiinni?	
+574	Olemme yrittäneet koko yön.	
+575	[NO TRANSLATION]	missing translation
+576	Luca ei ikinä jää yöksi naisensa luo.	
+577	Tom, sinä olet consigliere.	
+578	Mitä teemme, jos isäukko kuolee?	
+579	Silloin menetämme poliittiset yhteydet ja puolet voimastamme.	
+580	Muut perheet saattavat tukea Sollozzoa välttääkseen pitkän sodan.	
+581	Kohta on vuosi 1946.	
+582	Kukaan ei halua verenvuodatusta.	
+583	Jos isäsi kuolee... solmit sopimuksen.	
+584	[NO TRANSLATION]	missing translation
+585	Hän ei ole sinun isäsi.	
+586	Olen yhtä lailla hänen poikansa.	
+587	Mitä nyt?	
+588	Paulie, käskin pysyä vahdissa.	
+589	Portille tuotiin paketti.	
+590	Tessio, mene tarkistamaan tilanne.	
+591	Jäänkö tänne?	
+592	Jää.	
+593	Oletko kunnossa?	
+594	Ei minulla ole hätää.	
+595	[NO TRANSLATION]	missing translation
+596	Onko sinulla nälkä?	
+597	Ei.	
+598	Juo brandyä.	
+599	Se tekee hyvää.	
+600	[NO TRANSLATION]	missing translation
+601	Se voisi olla hyvä idea.	
+602	Hoitele tuo kusipää saman tien.	
+603	Paulie petti isäukon.	
+604	Se on ensimmäinen tehtäväsi.	
+605	Selvä.	
+606	Mickey, mene huomenna parin miehen kanssa Lucan asunnolle.	
+607	Mikea ei ehkä kannattaisi sotkea tähän.	
+608	Olisi hyvä, jos voisit päivystää puhelinta.	
+609	Soita taas Lucalle.	
+610	Mikä tämä on?	
+611	Sisilialainen viesti.	
+612	Se tarkoittaa, että Luca Brasi on kalojen ruokaa.	
+613	Lähden nyt.	
+614	Milloin tulet?	
+615	Varmaan myöhään.	
+616	Muista juustoleivokset!	
+617	Joo joo.	
+618	Mene toiselle puolelle istumaan.	
+619	En näe taustapeilistä.	
+620	Sonny käy kuumana.	
+621	Hän värvää jo lisää väkeä.	
+622	Meidän pitää etsiä joku paikka West Sidesta.	
+623	[NO TRANSLATION]	missing translation
+624	Tiedätkö hyviä paikkoja?	
+625	Mietin asiaa.	
+626	Mieti ajaessasi.	
+627	Haluan päästä New Yorkiin tässä kuussa.	
+628	Varo lapsia.	
+629	Paulie, hae 39th Streetiltä 18 patjaa ja tuo lasku minulle.	
+630	Hyvä on.	
+631	Niiden pitää olla puhtaita, koska miehet käyttävät niitä kauan.	
+632	Niistä on hävitetty kaikki.	
+633	Se on paha sana.	
+634	Hävitetty!	
+635	Varo, ettemme hävitä sinua.	
+636	Pysäytä.	
+637	Minua kusettaa.	
+638	Jätä ase autoon.	
+639	Ota leivosrasia.	
+640	Mike!	
+641	Mikey!	
+642	Mitä?	
+643	Tule puhelimeen.	
+644	Kuka siellä on?	
+645	Joku tyttö.	
+646	[NO TRANSLATION]	missing translation
+647	Kay?	
+648	Miten isäsi voi?	
+649	Hän selviää kyllä.	
+650	Rakastan sinua.	
+651	Rakastan sinua!	
+652	Michael?	
+653	Tiedän.	
+654	Sano, että rakastat minua.	
+655	En voi puhua.	
+656	Etkö voi sanoa sitä?	
+657	Nähdään illalla.	
+658	Mikset sanonut tytölle, että rakastat häntä?	
+659	Rakastan sinua hullun lailla.	
+660	Kuolen, jos en näe sinua pian.	
+661	Katso ja ota opiksesi.	
+662	Voit joutua joskus kokkaamaan 20 hepulle.	
+663	Kuumenna öljy ja kuullota valkosipulia.	
+664	Heitä sekaan tomaatteja ja pyreetä. Paista sitä mutta älä polta pohjaan.	
+665	Kun se alkaa kiehua, heitä sekaan makkarat ja lihapullat.	
+666	Lorauta sekaan vähän viiniä.	
+667	Sitten ripaus sokeria.	
+668	Se on minun jipponi.	
+669	Lopeta nuo höpinät.	
+670	[NO TRANSLATION]	missing translation
+671	Miten Paulien laita on?	
+672	Et näe häntä enää.	
+673	Minne olet menossa?	
+674	Kaupunkiin.	
+675	Laita turvamiehet mukaan.	
+676	Menen vain sairaalaan...	
+677	Ei hätää.	
+678	Sollozzo tietää, että hän on siviili.	
+679	Ole varovainen.	
+680	Kyllä, herra.	
+681	Laita joku hänen mukaansa.	
+682	Minun pitää mennä.	
+683	Saanko tulla mukaan?	
+684	Et nyt, Kay.	
+685	Siellä on poliiseja ja lehtimiehiä.	
+686	Voin tulla taksilla.	
+687	En halua, että sekaannut tähän.	
+688	Milloin näemme taas?	
+689	Palaa New Hampshireen. Soitan sinulle vanhempiesi luo.	
+690	Milloin näemme taas, Michael?	
+691	En tiedä.	
+692	Mitä teette täällä?	
+693	Ette saisi olla täällä.	
+694	Olen Michael Corleone.	
+695	Tämä on isäni.	
+696	Missä vartijat ovat?	
+697	Isällänne kävi liikaa vieraita.	
+698	Se häiritsi sairaalan toimintaa.	
+699	Poliisi käski heidät pois kymmenisen minuuttia sitten.	
+700	Long Beach 45620, kiitos.	
+701	Hoitaja,	
+702	älkää menkö vielä.	forced duplication
+703	älkää menkö vielä.	forced duplication
+704	Sonny, olen sairaalassa.	
+705	Täällä ei ole ketään.	
+706	Ei Tession miehiä tai poliiseja, ei ketään.	
+707	Isä on yksin.	
+708	Älä hermostu.	
+709	En hermostukaan.	
+710	Anteeksi, mutta teidän on poistuttava.	
+711	Siirretään isä toiseen huoneeseen.	
+712	Voisitteko irrottaa letkut?	
+713	Eihän se käy!	
+714	Tunnetteko isäni?	
+715	Hänet aiotaan tappaa.	
+716	Ymmärrättekö?	
+717	Olkaa kiltti ja auttakaa.	
+718	Kuka sinä olet?	
+719	Olen Enzo, leipuri.	
+720	Muistatko minut?	
+721	Enzo.	
+722	Lähde pois. Tiedossa on hankaluuksia.	
+723	Siinä tapauksessa jään auttamaan sinua,	
+724	isäsi vuoksi.	
+725	[NO TRANSLATION]	missing translation
+726	Odota minua sairaalan edessä, onko selvä?	
+727	Tulen ihan kohta.	
+728	Makaa siinä, isä.	
+729	Minä pidän sinusta huolta.	
+730	Minä olen nyt kanssasi.	
+731	Minä olen kanssasi.	
+732	Heitetään nämä pois.	
+733	[NO TRANSLATION]	missing translation
+734	Laita käsi taskuun niin kuin siellä olisi ase.	
+735	Hyvin se menee.	
+736	Pärjäsit hyvin.	
+737	Eivätkö kaikki italiaanokonnat olekaan lukkojen takana?	
+738	Miksei isääni vartioida?	
+739	Senkin nulikka!	
+740	Älä käy neuvomaan minua.	
+741	Minä käskin vartijat pois.	
+742	Lähde pois täältä.	
+743	En ennen kuin isääni vartioidaan.	
+744	Phil, vie hänet putkaan.	
+745	[NO TRANSLATION]	missing translation
+746	Hän on sotasankari.	
+747	Hän ei ole...	
+748	Käskin viedä hänet putkaan!	
+749	Mitä Turkkilainen maksaa teille?	
+750	Pidelkää kiinni hänestä.	
+751	Pidelkää häntä pystyssä.	
+752	[NO TRANSLATION]	missing translation
+753	Olen Corleonen asianajaja.	
+754	Nämä miehet suojelevat Vito Corleonea.	
+755	Heillä on aseenkantolupa.	
+756	Jos puututte asiaan, teidän pitää nostaa aamulla syyte.	
+757	Päästäkää hänet.	
+758	Miksi täällä on uutta väkeä?	
+759	Tarvitsemme heitä nyt.	
+760	Sonny raivostui sairaalajutusta.	
+761	Nitistimme aamulla Bruno Tattaglian.	
+762	Kristus sentään.	
+763	Tämähän on kuin linnoitus.	
+764	[NO TRANSLATION]	missing translation
+765	Kadulla päivystää sata kätyriä vuorokauden ympäri.	
+766	Jos Turkkilaisesta näkyy vilahduskin, hän on vainaja.	
+767	Mike, annas kun katson sinua.	
+768	Olet kaunis.	
+769	Näytät tyrmäävältä.	
+770	Turkkilainen haluaa jutella.	
+771	Onpa sillä kusipäällä otsaa!	
+772	Hän haluaa tavata tänään.	
+773	Mitä hän sanoi?	
+774	Mitäkö hän sanoi?	
+775	Hän haluaa Michaelin kuuntelemaan ehdotuksen.	
+776	Se on kuulemma niin hyvä, ettei siitä voi kieltäytyä.	
+777	Entä Bruno Tattaglia?	
+778	[NO TRANSLATION]	missing translation
+779	Me olemme nyt tasoissa.	
+780	Kuunnellaan ehdotus, Sonny.	
+781	Ei!	
+782	Ei tällä kertaa, consigliere.	
+783	Ei neuvotteluja eikä Sollozzon temppuja!	
+784	Jos en saa Sollozzoa, syttyy sota.	
+785	Muut perheet...	
+786	He antavat Sollozzon!	
+787	Tässä on kyse vain liikeasioista!	
+788	He ampuivat isääni...	
+789	Sekin oli liikeasia.	
+790	Liikeasiat saavat sitten kärsiä.	
+791	[NO TRANSLATION]	missing translation
+792	Älä neuvo minua sovittelemaan	
+793	vaan auta minua voittamaan.	
+794	Miken leuan murtanut ylikomisario McCluskey -	
+795	on Sollozzon leivissä ja tienaa hyvät rahat.	
+796	McCluskey on Turkkilaisen henkivartija.	
+797	Sollozzoon ei siis voi koskea -	
+798	sillä kukaan ei ammu ylikomisariota.	
+799	Saisit kaikki perheet kimppuusi.	
+800	Corleoneista tulisi hylkiöitä!	
+801	Poliittiset suojelijatkin hylkäisivät meidät.	
+802	[NO TRANSLATION]	missing translation
+803	Ole kiltti ja harkitse tätä asiaa.	
+804	Hyvä on. Odotetaan sitten.	
+805	Emme voi odottaa.	
+806	Emme voi odottaa.	
+807	Sanoipa Sollozzo mitä tahansa, hän aikoo tappaa isän.	
+808	[NO TRANSLATION]	missing translation
+809	Meidän täytyy nitistää Sollozzo.	
+810	Mike on oikeassa.	
+811	Minäpä kysyn teiltä jotain.	
+812	Entä McCluskey?	
+813	Mitä me teemme sille kytälle?	
+814	Hehän haluavat tavata minut.	
+815	Meitä on siellä minä, McCluskey ja Sollozzo.	
+816	Sovitaan tapaamisesta.	
+817	Ilmiantajat saavat selvittää paikan.	
+818	Paikan pitää olla julkinen,	
+819	esimerkiksi ravintola.	
+820	Paikka, jossa on ihmisiä, jotta oloni on turvallinen.	
+821	Minut tutkitaan, eikö totta?	
+822	En siis voi kantaa asetta.	
+823	Jos Clemenza saa jotenkin ujutettua minulle sinne aseen... tapan molemmat miehet.	
+824	Olet kiltti opiskelijapoju.	
+825	Et halunnut sekaantua perheen asioihin.	
+826	Nyt haluat tappaa poliisin, koska hän läpsäytti sinua.	
+827	[NO TRANSLATION]	missing translation
+828	Joudut ampumaan niin läheltä, että heidän aivonsa leviävät puvullesi.	
+829	Otat tämän kamalan henkilökohtaisesti.	
+830	Tom, hän ottaa liikeasiat henkilökohtaisesti.	
+831	Miksei kyttää muka saa tappaa?	
+832	Mikey...	
+833	Kyseessä on huumekauppaan sekaantunut kyttä, likainen kyttä.	
+834	Hän sekaantui hämäräpuuhiin ja sai ansionsa mukaan.	
+835	Se on loistava juttu.	
+836	Eikö meillä olekin lehtimiehiä palkkalistoilla?	
+837	He voisivat pitää jutusta.	
+838	Niin voisivat.	
+839	[NO TRANSLATION]	missing translation
+840	Tässä on kyse vain liikeasioista, Sonny.	
+841	[NO TRANSLATION]	missing translation
+842	Tätä asetta on mahdotonta jäljittää, joten älä huolehdi sormenjäljistä.	
+843	Laitoin liipaisimeen ja perään erikoisteippiä.	
+844	Kokeile.	
+845	Onko liipaisin liian tiukka?	
+846	Korvaparat.	
+847	Se pamahtaa lujaa, että kaikki typerät sivulliset pelästyvät.	
+848	Olet ampunut molemmat.	
+849	Mitä teet?	
+850	Istuudun ja syön lautasen tyhjäksi.	
+851	Älä pelleile.	
+852	Laske kätesi sivulle ja anna aseen liukua kädestäsi.	
+853	Näin näyttää, että se on yhä sinulla.	
+854	Ihmiset tuijottavat naamaasi - joten kävele ulos ripeästi mutta älä juokse.	
+855	Älä katso ketään silmiin mutta älä poiskaan.	
+856	Kaikki ovat kauhusta jäykkinä, joten ei hätää.	
+857	Hyvin se sujuu.	
+858	Lähdet pitkälle lomalle - ja me hoitelemme seuraukset.	
+859	Kuinkahan paha tilanteesta tulee?	
+860	Aika hiton paha.	
+861	Muut perheet varmaan liittoutuvat meitä vastaan.	
+862	Tällaista sattuu 5- 10 vuoden välein.	
+863	Se puhdistaa ilmapiiriä.	
+864	[NO TRANSLATION]	missing translation
+865	Pahanilmanlinnut pitää pysäyttää heti.	
+866	Hitleriäkään ei olisi pitänyt päästää Müncheniä pidemmälle.	
+867	[NO TRANSLATION]	missing translation
+868	Mike, olimme ylpeitä sinusta.	
+869	Olit sankari.	
+870	Isäsikin oli ylpeä.	
+871	Ei mitään,	
+872	[NO TRANSLATION]	missing translation
+873	ei yhtään mitään.	
+874	Sollozzonkaan väki ei tiedä, missä neuvottelu pidetään.	
+875	Paljonko meillä on aikaa?	
+876	Sinut haetaan Jack Dempsey'sin edestä 1,5 tunnin päästä.	
+877	Voisimme varjostaa heitä.	
+878	Sollozzo eksyttäisi meidät heti.	
+879	Entä neuvottelija?	
+880	Hän pelaa meillä korttia.	
+881	[NO TRANSLATION]	missing translation
+882	Väkeni antaa hänen voittaa.	
+883	[NO TRANSLATION]	missing translation
+884	Ehkä koko keikka pitäisi perua.	
+885	Neuvottelija pelaa korttia, kunnes Mike tulee takaisin.	
+886	Ammutaan kaikki, jotka ovat autossa.	
+887	[NO TRANSLATION]	missing translation
+888	Sollozzo ei välttämättä ole autossa, Sonny!	
+889	Minä vastaan.	
+890	Louisin ravintola Bronxissa.	
+891	Onko varma?	
+892	Soitto tuli McCluskeyn piiristä.	
+893	Ylikomisario päivystää ympäri vuoro- kauden.	
+894	Hän on silloin ravintolassa.	
+895	Tunnetteko paikan?	
+896	Minä tunnen.	
+897	Se on juuri sopiva.	
+898	Se on pieni perheravintola.	
+899	Kukaan ei puutu toisten asioihin.	
+900	[NO TRANSLATION]	missing translation
+901	Siellä on vanhanaikainen vessan- pönttö,	
+902	jossa on säiliö ja ketju.	
+903	Voisimme teipata aseen sen taakse.	
+904	Hyvä on.	
+905	Mike, sinä menet ravintolaan - syöt, jutustelet	
+906	ja saat heidät rentoutumaan.	
+907	Sitten menet kuselle.	
+908	Pyydät luvan mennä vessaan.	
+909	Sitten tulet takaisin	
+910	ja ammut molempia kaksi kertaa päähän.	
+911	Joku tosi pätevä saa piilottaa aseen.	
+912	Veljeni ei saa tulla vessasta pelkkä kalu kädessään.	
+913	Ase on siellä.	
+914	Sinä viet ja haet hänet sieltä.	
+915	Lähdetään sitten.	
+916	Käskikö hän sinun pudottaa aseen heti?	
+917	Miljoona kertaa.	
+918	Muista sitten:	
+919	kaksi laukausta päähän heti kun tulet vessasta.	
+920	Kuinkahan kauan minun pitää pysytellä poissa?	
+921	Ainakin vuosi.	
+922	Minä hoidan äidin. Et ehdi nähdä häntä ennen lähtöäsi.	
+923	Välitän viestin tyttöystävällesi sitten aikanaan.	
+924	Pidä huolta itsestäsi.	
+925	Nähdään, Mike.	
+926	Hienoa, että tulit.	
+927	Toivottavasti saamme asiat selviksi.	
+928	En toivonut tällaista.	
+929	Näin ei olisi saanut käydä.	
+930	Haluan selvittää koko jutun.	
+931	Isä pitää jättää rauhaan.	
+932	Vannon lasteni nimeen, että niin tapahtuu, Mike.	
+933	Suhtaudu silti keskusteluun avoimin mielin.	
+934	Et kai ole höyrypää niin kuin Sonny?	
+935	Hänen kanssaan ei voi puhua.	
+936	Hän on kunnon poika.	
+937	Olen pahoillani siitä yhdestä illasta, Mike.	
+938	Minun pitää tutkia sinut.	
+939	Mene polvillesi kasvot tännepäin.	
+940	Alan kai olla liian vanha tähän työhön.	
+941	Minusta on tullut äksy.	
+942	En kestä vastaväitteitä.	
+943	Tiedäthän, millaista se on.	
+944	Hänellä ei ole mitään.	
+945	Menemmekö Jerseyyn?	
+946	Voi olla.	
+947	Hyvä, Lou.	
+948	Millaista ruokaa täältä saa?	
+949	[NO TRANSLATION]	missing translation
+950	Vasikka on kaupungin parasta.	
+951	Otan sitten sitä.	
+952	Puhun Mikelle italiaa.	
+953	Siitä vain.	
+954	Se, mitä minä haluan...	
+955	Minulle on tärkeintä se... että takaat,	
+956	ettei isääni yritetä enää tappaa.	
+957	Miten voisin taata sellaista?	
+958	Minua tässä jahdataan.	
+959	Menetin tilaisuuteni.	
+960	Luulet minusta liikoja.	
+961	En ole niin fiksu.	
+962	Minä haluan vain aselevon.	
+963	Minun täytyy käydä vessassa.	
+964	Sopiiko se?	
+965	Jos sinun kerran täytyy.	
+966	Tutkin jo hänet.	
+967	[NO TRANSLATION]	missing translation
+968	Älä viivy kauan.	
+969	Olen tutkinut tuhansia nulikoita.	
+970	Jatkakaa te tästä.	
+971	Rakastan sinua, vaari.	
+972	Olen pahoillani, isä.	
+973	Hän ei tunne sinua vielä.	
+974	[NO TRANSLATION]	missing translation
+975	Anna se vaarille.	
+976	Hyvä on.	
+977	Parane pian, vaari. Toivottavasti näemme pian.	
+978	Pojanpoikasi Frank.	
+979	Mene äidin luo.	
+980	Vie heidät alakertaan.	
+981	Mene sinäkin, Carlo.	
+982	Mene nyt vain.	
+983	Mikäs sinulla on, Carlo?	
+984	Ole hiljaa ja kata pöytä.	
+985	McCluskeyn murhasta lähtien poliisi on puuttunut liiketoimiimme.	
+986	Samoin muiden perheiden.	
+987	Ilmapiiri on ollut erittäin huono.	
+988	Jos kimppuumme käydään, iskemme takaisin.	
+989	Lehtimaailman suhteiden avulla olemme saaneet levitettyä tietoa - McCluskeyn yhteydestä Sollozzon huumekauppoihin.	
+990	Asiat alkavat selkiytyä.	
+991	Lähetän Fredon Las Vegasiin don Francescon suojelukseen.	
+992	Hänen pitää levätä.	
+993	Opettelen pyörittämään kasinoa.	
+994	Missä Michael on?	
+995	Michael tappoi Sollozzon.	
+996	Hän on turvassa.	
+997	Alamme suunnitella hänen paluutaan.	
+998	Saitko selville, missä Tattaglia piileskelee?	
+999	Nitistän hänet.	
+1000	Sonny, asiat alkavat selkiytyä.	
+1001	Et saa tehdä mitään Tattaglialle.	
+1002	Anna isän neuvotella.	
+1003	Hän on liian heikko.	
+1004	Minä päätän...	
+1005	Sota tulee kalliiksi.	
+1006	Bisnes kärsii.	
+1007	Niin heidänkin.	
+1008	Älä siitä huoli!	
+1009	[NO TRANSLATION]	missing translation
+1010	[NO TRANSLATION]	missing translation
+1011	Tapan sen kusipään!	
+1012	Sinulla alkaa olla tosi hyvä maine.	
+1013	Tottele!	
+1014	Jos minulla olisi kunnon consigliere, en olisi tässä tilanteessa!	
+1015	Isällä oli Genco.	
+1016	Katso nyt, mitä minulla on.	
+1017	Anteeksi.	
+1018	En tarkoittanut sitä.	
+1019	Äiti laittoi sunnuntaipäivällisen.	
+1020	[NO TRANSLATION]	missing translation
+1021	Nekrut pelaavat ihan innoissaan Harlemissa.	
+1022	He ajavat Cadillaceilla ja maksavat 50 % vedosta.	
+1023	Niin kävi, kun rahaa alkoi virrata.	
+1024	Isä ei puinut liikeasioita ruokapöydässä.	
+1025	Suu kiinni, Connie...	
+1026	Älä komentele häntä.	
+1027	Älä puutu muiden asioihin.	
+1028	Jutellaan päivällisen jälkeen.	
+1029	Voisin autella perhettä...	
+1030	Emme pui liikeasioita ruokapöydässä.	
+1031	Suutelen kättänne, don Tommasino.	
+1032	Mitä teet näin kaukana kotoa?	
+1033	Olen vastuussa hengestäsi.	
+1034	Carlo ja Fabrizio ovat kanssani.	
+1035	Se on silti vaarallista.	
+1036	Santinoa varoitettiin New Yorkissa.	
+1037	Vihollisesi tietävät, että olet täällä.	
+1038	Sanoiko Santino, milloin voin palata?	
+1039	Et vielä.	
+1040	Se ei tule vielä kuuloonkaan.	
+1041	Minne sinä menet?	
+1042	Corleoneen.	
+1043	Ota minun autoni.	
+1044	Ei kiitos. Haluan kävellä.	
+1045	Ole varovainen!	
+1046	Missä kaikki miehet ovat?	
+1047	He ovat verikoston uhreja.	
+1048	Tuossa ovat vainajien nimet.	
+1049	Vie minut Amerikkaan, sotilas!	
+1050	Vie minut Amerikkaan, sotilas!	
+1051	Clark Gable!	
+1052	[NO TRANSLATION]	missing translation
+1053	Vie minut Amerikkaan, sotilas!	
+1054	Clark Gable, Rita Hayworth!	
+1055	Mamma mia, olen rakastunut.	
+1056	Sinuun taisi iskeä salama.	
+1057	Sisiliassa naiset ovat hengenvaarallisia.	
+1058	Oliko metsästysonnea?	
+1059	Sinähän tunnet täkäläiset tytöt.	
+1060	Näimme pari kunnon kaunotarta.	
+1061	Yksi heistä iski ystäväämme kuin salama.	
+1062	Hän viettelisi itse pirunkin.	
+1063	Upea pakkaus,	
+1064	vai mitä, Carlo?	
+1065	Ihana tukka ja suu!	
+1066	Täkäläiset tytöt ovat kauniita mutta siveitä.	
+1067	Tällä oli luumunvärinen mekko	
+1068	ja hiusnauha.	
+1069	Hän näytti enemmän kreikkalaiselta kuin italialaiselta.	
+1070	Tunnetko hänet?	
+1071	Täällä ei asu ketään sellaista.	
+1072	Voi luoja, nyt minä tajusin.	
+1073	Mitä nyt?	
+1074	Mennään.	
+1075	Se on hänen tyttärensä.	
+1076	Pyydä mies tänne.	
+1077	Pyydä hänet tänne.	
+1078	Fabrizio, käännä puheeni.	
+1079	Pyydän anteeksi, jos loukkasin teitä.	
+1080	Olen muukalainen täällä.	
+1081	Tarkoitukseni ei ollut halveksia teitä tai tytärtänne.	
+1082	Olen amerikkalainen ja olen paossa Sisiliassa.	
+1083	Minun nimeni on Michael Corleone.	
+1084	Monet maksaisivat paljon siitä tiedosta.	
+1085	Silloin tyttärenne menettäisi isänsä... sen sijaan, että saisi miehen.	
+1086	Haluan tavata tyttärenne.	
+1087	Teidän luvallanne ja perheenne valvonnan alaisena.	
+1088	Kaikella kunnioituksella.	
+1089	Tulkaa meille sunnuntaiaamuna.	
+1090	Nimeni on Vitelli.	
+1091	Mikä tyttärenne nimi on? <Apollonia./>	missing English
+1092	Saat kunnon kyydit.	
+1093	Säästä se kirjastoon.	
+1094	Mennään hakemaan siskoni.	
+1095	Mikä hätänä?	
+1096	Mikä hätänä?	
+1097	Se oli minun syytäni!	
+1098	Missä hän on?	
+1099	Se oli omaa syytäni.	
+1100	Minä löin häntä.	
+1101	Aloin tapella hänen kanssaan.	
+1102	Löin häntä, ja hän löi takaisin.	
+1103	Käsken lääkärin tulla vilkaisemaan sinua.	
+1104	Sonny, älä tee mitään.	
+1105	Mikä sinua vaivaa?	
+1106	Mitä minä muka tekisin?	
+1107	Tekisinkö odottamastasi lapsesta orvon?	
+1108	Lyöttekö te tyhmät vetoa Yankeesin puolesta?	
+1109	Käske hänen lopettaa.	
+1110	Hävisimme tarpeeksi viime viikolla.	
+1111	Tule tänne sieltä!	
+1112	Jos kosket vielä siskooni, tapan sinut.	
+1113	Hei!	
+1114	Tämäpä oli yllätys, Kay.	
+1115	Olisit soittanut.	
+1116	Olen kyllä yrittänyt.	
+1117	Olen kirjoittanut ja soittanut.	
+1118	Haluan tavoittaa Michaelin.	
+1119	Kukaan ei tiedä, missä hän on.	
+1120	Tiedämme vain, että hän on kunnossa.	
+1121	Mitä on tapahtunut?	
+1122	Onnettomuus.	
+1123	Tom, ole kiltti ja toimita tämä kirje Michaelille.	
+1124	[NO TRANSLATION]	missing translation
+1125	Se todistaisi, että tiedän hänen olinpaikkansa.	
+1126	Hän ottaa sinuun yhteyttä.	
+1127	Taksini lähti. Voinko tilata täältä uuden?	
+1128	Tule tänne.	
+1129	Anteeksi.	
+1130	Haloo.	
+1131	Onko Carlo siellä?	
+1132	Kuka kysyy?	
+1133	Carlon ystävä.	
+1134	Sano hänelle, että minulle sopii vasta myöhemmin illalla.	
+1135	Narttu!	
+1136	Ruoka on pöydässä.	
+1137	Minulla ei ole nälkä.	
+1138	Ruoka jäähtyy.	
+1139	Syön ulkona.	
+1140	Käskit minun tehdä ruokaa!	
+1141	[NO TRANSLATION]	missing translation
+1142	[NO TRANSLATION]	missing translation
+1143	Tuo kakara on paha suustaan.	
+1144	Riko ne vain, senkin hemmoteltu kakara!	
+1145	[NO TRANSLATION]	missing translation
+1146	Mikset tuo huoraasi kotiin syömään?	
+1147	Ehkäpä minä tuonkin.	
+1148	Siivoa nuo!	
+1149	Älä luulekaan!	
+1150	Senkin luiseva ja lellitty kakara!	
+1151	Siivoa ne!	
+1152	Siivoa ne!	
+1153	Siivoa ne!	
+1154	Käskin siivota sotkun!	
+1155	Siivoa sotku!	
+1156	Siivoa sotku!	
+1157	Siivoa ne, senkin...	
+1158	Siivoa sotku!	
+1159	Siivoa ne!	
+1160	Tapa vain minut.	
+1161	Ole murhaaja niin kuin isäsi!	
+1162	Kaikki Corleonet ovat murhaajia.	
+1163	Minä vihaan sinua!	
+1164	Tapa vain minut!	
+1165	Tule tänne!	
+1166	Vihaan sinua!	
+1167	Nyt minä tapan sinut.	
+1168	Senkin kakara.	
+1169	Tule tänne sieltä!	
+1170	Connie, mikä hätänä?	
+1171	En kuule mitään.	
+1172	Connie, puhu kovempaa.	
+1173	Vauva itkee.	
+1174	Santino, en saa tästä mitään tolkkua.	
+1175	[NO TRANSLATION]	missing translation
+1176	Mitä nyt, Connie?	
+1177	Odota siellä.	
+1178	Ei, odota vain siellä.	
+1179	Se kusipää.	
+1180	Se kusipää!	
+1181	Mitä nyt?	
+1182	Avaa se saatanan portti.	
+1183	Liikettä niveliin.	
+1184	Sonny!	
+1185	Sonny.	
+1186	Ala vetää.	
+1187	Menkää perään.	
+1188	Kusipää.	
+1189	Mene jo!	
+1190	Anna ryyppy.	
+1191	Vaimoni itki ylhäällä.	
+1192	Kuulin, kuinka tänne ajoi autoja.	
+1193	Olet consigliereni. Kerro donillesi se, minkä muut jo tietävät.	
+1194	En kertonut äidille mitään.	
+1195	Olin juuri tulossa kertomaan sinulle.	
+1196	Tarvitsit ensin paukun.	
+1197	Aivan.	
+1198	Nyt olet juonut sen.	
+1199	Sonny ammuttiin tietullilla.	
+1200	Hän on kuollut.	
+1201	En halua, että asia selvitetään.	
+1202	En halua kostotoimia.	
+1203	Järjestä tapaaminen... kaikkien viiden perheen johtajan kanssa.	
+1204	Tämä sota saa luvan loppua.	
+1205	Soita Bonaseralle.	
+1206	Tarvitsen hänen apuaan.	
+1207	Täällä on Tom Hagen.	
+1208	Soitan Vito Corleonen pyynnöstä.	
+1209	Olette hänelle palveluksen velkaa.	
+1210	Hän luottaa siihen, että teette vastapalveluksen.	
+1211	Hän tulee tunnin päästä hautaustoimistoonne.	
+1212	[NO TRANSLATION]	missing translation
+1213	Ystäväni, oletko valmis tekemään minulle palveluksen?	
+1214	Kyllä olen.	
+1215	Mitä haluat minun tekevän?	
+1216	Käytä kaikkia voimiasi ja kaikkia taitojasi.	
+1217	En halua, että hänen äitinsä näkee hänet tuollaisena.	
+1218	Katso, miten he teurastivat poikani.	
+1219	Englanninopetus on turvallisempaa.	
+1220	Osaan englantia.	
+1221	[NO TRANSLATION]	missing translation
+1222	Tervehdys, don Tommasino.	
+1223	Mitä Palermoon kuuluu?	
+1224	Michael opettaa minua ajamaan autoa.	
+1225	Minä voin näyttää.	
+1226	Mitä Palermoon kuuluu?	
+1227	Nykynuoret eivät kunnioita mitään.	
+1228	Ajat muuttuvat pahoiksi.	
+1229	Sinun on vaarallista olla enää täällä.	
+1230	Saat muuttaa Syrakusan lähellä sijaitsevaan huvilaan. Nyt heti.	
+1231	Mitä on tapahtunut?	
+1232	Kuulin huonoja uutisia Amerikasta.	
+1233	Veljesi Santino... Hänet tapettiin.	
+1234	Mennään jo.	
+1235	Sinä lupasit.	
+1236	Fabrizio!	
+1237	Hae auto.	
+1238	Ajatko sinä itse, pomo?	
+1239	Tuleeko vaimosi mukaan?	
+1240	Ei. Hän saa olla isänsä luona, kunnes on turvallista.	
+1241	Ihan miten vain.	
+1242	Carlo, missä Apollonia on?	
+1243	Hän aikoo yllättää sinut	
+1244	ja ajaa autoa yksin.	
+1245	Hänestä tulee hyvä amerikkalainen vaimo.	
+1246	Minä tuon matkatavarat.	
+1247	Fabrizio!	
+1248	Minne olet menossa?	
+1249	Odota siellä!	
+1250	Ajan luoksesi.	
+1251	Ei, Apollonia!	
+1252	Don Barzini, kiitos, että autoit minua järjestämään tämän kokouksen. Kiitos myös viiden muun New Yorkin ja New Jerseyn perheen johtajille.	
+1253	Carmine Cuneo Bronxista - ja Brooklynista... Philip Tattaglia.	
+1254	Staten Islandista - täällä on Victor Strachi.	
+1255	Kaikki muut, jotka tulivat Kaliforniasta ja Kansas Citystä asti - ja muista osista maata,	
+1256	kiitos teille.	
+1257	Kuinka tilanne pääsi näin pahaksi?	
+1258	En tiedä.	
+1259	Se oli hyvin ikävää ja turhaa.	
+1260	Tattaglia menetti pojan, samoin minä.	
+1261	Olemme tasoissa.	
+1262	Jos Tattaglia on samaa mieltä - olen valmis jatkamaan entiseen malliin.	
+1263	Kiitos don Corleonelle tämän kokouksen järjestämisestä.	
+1264	Hän pitää sanansa.	
+1265	Hän on nöyrä mies, joka kuuntelee järkipuhetta.	
+1266	Aivan, don Barzini.	
+1267	Hän on liian nöyrä.	
+1268	Hän hallitsi kaikkia tuomareita ja poliitikkoja.	
+1269	Hän ei suostunut jakamaan heitä.	
+1270	Olenko koskaan kieltäytynyt yhteistyöstä?	
+1271	Te kaikki tunnette minut.	
+1272	Olenko kieltäytynyt muuta kuin kerran?	
+1273	Ja miksikö?	
+1274	Koska uskon, että huumekauppa tuhoaa meidät tulevina vuosina.	
+1275	Sitä ei voi verrata uhkapeleihin, viinaan tai naisiin - joita useimmat haluavat mutta jotka kirkko kieltää.	
+1276	Poliisitkin, jotka ovat auttaneet meitä pelibisneksessä ja muussa - eivät suostu auttamaan huumekaupassa.	
+1277	Olin silloin sitä mieltä enkä ole muuttanut mieltäni.	
+1278	Ajat ovat muuttuneet.	
+1279	Ennen vanhaan saatoimme tehdä, mitä tahdoimme.	
+1280	Ystävä ei kieltäydy auttamasta.	
+1281	Don Corleonen olisi pitänyt jakaa tuomarit ja poliitikot muiden kanssa.	
+1282	Hänen pitää päästää muut jaolle.	
+1283	Hän voi tietenkin laskuttaa siitä.	
+1284	Emmehän ole mitään kommunisteja.	
+1285	Minäkään en usko huumeisiin.	
+1286	Maksoin väelleni, etteivät he sekaantuisi huumekauppoihin.	
+1287	Joku sanoo heille: Minulla on kamaa.	
+1288	Jos sijoitatte 3000- 4000, voimme tienata 50000 dollaria.	
+1289	He eivät voi vastustaa kiusausta.	
+1290	Haluan pitää kaupan kunniallisena.	
+1291	Huumeita ei saa myydä koulujen lähellä eikä lapsille.	
+1292	Se olisi häpeällistä.	
+1293	Meilläpäin mustat saisivat hoitaa myynnin.	
+1294	He ovat joka tapauksessa elukoita.	
+1295	Toivoin, että voisimme keskustella järkevästi.	
+1296	Suostun mihin vain, jotta saamme asian ratkaistua rauhanomaisesti.	
+1297	Selvä on.	
+1298	Sallimme huumekaupan mutta valvomme sitä.	
+1299	Don Corleone suojelee meitä idässä, ja siellä vallitsee rauha.	
+1300	Tarvitsen kunnon takuut Corleonelta.	
+1301	Kun hänen asemansa ajan myötä vahvistuu - ryhtyykö hän verikostoon?	
+1302	Olemme järkeviä miehiä.	
+1303	Emme tarvitse takuita.	
+1304	Sinä puhut kostosta.	
+1305	Tuoko kosto poikasi takaisin?	
+1306	Tai minun poikani?	
+1307	Minä en aio kostaa poikani kuolemaa.	
+1308	Syyni ovat itsekkäät.	
+1309	Nuorimman poikani piti paeta maasta... Sollozzon jutun takia.	
+1310	Minun pitää saada hänet turvallisesti takaisin tänne -	
+1311	ja saada väärät syytteet kumottua.	
+1312	Olen kuitenkin taikauskoinen.	
+1313	Jos hänelle tapahtuisi jotain outoa, jos poliisi ampuisi hänet - tai hän hirttäytyisi sellissään - tai häneen iskisi salama - syyttäisin joitakin tässä huoneessa olijoita.	
+1314	Sitä en antaisi anteeksi.	
+1315	Jos sitä ei oteta lukuun... voin vannoa... lastenlasteni sielujen nimeen - etten ainakaan minä riko tänään solmimaamme rauhaa.	
+1316	Vaadinko, että Tattaglian huumemyyjillä on puhtaat paperit?	
+1317	Mainitse siitä	
+1318	mutta älä vaadi mitään.	
+1319	Barzini tietää sen kertomattakin.	
+1320	Tarkoitat Tattagliaa.	
+1321	Tattaglia on vain välikäsi.	
+1322	Hän ei olisi saanut listittyä Santinoa.	
+1323	Minulle selvisi vasta tänään, että kaiken takana onkin Barzini.	
+1324	Tule, Nancy.	
+1325	Pysykää yhdessä.	
+1326	Brian.	
+1327	Juuri noin.	
+1328	Milloin olet tullut takaisin?	
+1329	Vuosi sitten.	
+1330	Tai ehkä aikaisemminkin.	
+1331	On mukavaa nähdä sinut, Kay.	
+1332	Olen nyt isäni leivissä, Kay.	
+1333	Hän on ollut sairaana,	
+1334	hyvin sairaana.	
+1335	Et ole samanlainen kuin hän.	
+1336	Sanoit, ettei sinusta tule isäsi kaltaista.	
+1337	Isäni on kuin kuka tahansa vaikutusvaltainen mies.	
+1338	Kuin kuka tahansa muista ihmisistä vastuussa oleva mies -	
+1339	kuten senaattori tai presidentti.	
+1340	Tuo on naiivia.	
+1341	Miten niin?	
+1342	He eivät tapata ihmisiä.	
+1343	Kukahan tässä on naiivi, Kay?	
+1344	Isäni tapa hoitaa asioita on vanhentunut.	
+1345	Hän tietää sen itsekin.	
+1346	Viiden vuoden päästä Corleonen perheen toimet ovat täysin laillisia.	
+1347	Luota minuun.	
+1348	En voi kertoa muuta liiketoimistani.	
+1349	Kay...	
+1350	Miksi tulit tänne, Michael?	
+1351	Miksi?	
+1352	Mitä tahdot minusta?	
+1353	Et edes soittanut tai kirjoittanut.	
+1354	Tulin, koska tarvitsen sinua	
+1355	ja välitän sinusta.	
+1356	Älä, Michael.	
+1357	Koska...	
+1358	haluan sinut vaimokseni.	
+1359	On liian myöhäistä.	
+1360	Ole kiltti, Kay.	
+1361	Teen kaikkeni hyvittääkseni sen, mitä meille on tapahtunut.	
+1362	Koska se on tärkeää, Kay.	
+1363	Koska tärkeintä on se... että meillä on toisemme,	
+1364	että meillä on yhteinen elämä.	
+1365	Että meillä on lapsia,	
+1366	omia lapsia.	
+1367	Kay, minä tarvitsen sinua.	
+1368	Minä rakastan sinua.	
+1369	Barzinin väki sekaantuu toimiini, emmekä me tee mitään.	
+1370	En voi kohta käydä missään.	
+1371	Ole kärsivällinen.	
+1372	En pyydä apua.	
+1373	Haluan vain irti kahleista.	
+1374	Ole kärsivällinen.	
+1375	Meidän pitää suojella itseämme.	
+1376	Anna minun värvätä uusia miehiä.	
+1377	Ei käy.	
+1378	Barzini saisi tekosyyn sotaan.	
+1379	Mike, olet väärässä.	
+1380	Don Corleone...	
+1381	Sanoit, että Tessio ja minä voimme joskus perustaa oman perheen.	
+1382	En ole edes harkinnut sitä aiemmin.	
+1383	Haluan sinun lupasi.	
+1384	Michael on nyt perheen johtaja.	
+1385	Jos hän antaa luvan, saat siunaukseni.	
+1386	Nevadan valloituksen jälkeen - voit jättää Corleonen perheen ja perustaa oman.	
+1387	Kauanko siihen menee aikaa?	
+1388	Puoli vuotta.	
+1389	Anteeksi vain, mutta minä ja Pete joudumme pian Barzinin valtaan.	
+1390	Vihaan Barzinia.	
+1391	Puolen vuoden päästä meillä ei ole mitään pohjaa.	
+1392	Luotatteko arviointikykyyni?	
+1393	Kyllä.	
+1394	Oletteko lojaaleja minulle?	
+1395	Ikuisesti.	
+1396	Olkaa Michaelin ystäviä	
+1397	ja totelkaa häntä.	
+1398	Neuvottelut ratkaisevat ongelmanne ja vastaavat kysymyksiinne.	
+1399	En voi kertoa tällä erää enempää.	
+1400	Carlo, sinä vartuit Nevadassa.	
+1401	Sinä saat toimia siellä avustajanani.	
+1402	Tom Hagen ei ole enää consigliere.	
+1403	Hän on asianajajamme Vegasissa.	
+1404	Se ei ole loukkaus Tomia kohtaan.	
+1405	Jos tarvitsen apua, isä on paras mahdollinen consigliere.	
+1406	[NO TRANSLATION]	missing translation
+1407	Kiitos, isä.	
+1408	Olen iloinen puolestasi, Carlo.	
+1409	Mike...	
+1410	Miksi minut hyllytetään?	
+1411	Et ole sota-ajan consigliere, Tom.	
+1412	Tilanne voi äityä pahaksi.	
+1413	Tom.	
+1414	Minä neuvoin Michaelia.	
+1415	Et ollut minusta huono consigliere.	
+1416	Minusta Santino oli huono don, rauha hänen muistolleen.	
+1417	Luotan täysin Michaeliin, samoin sinuun.	
+1418	Tietyistä syistä sinun ei ole hyvä olla mukana tulevissa tapahtumissa.	
+1419	Ehkä voisin auttaa.	
+1420	Et ole enää mukana, Tom.	
+1421	En saa silmiäni irti naamastasi.	
+1422	Näytät tosi hyvältä.	
+1423	Se lääkärihän sai ihmeitä aikaan.	
+1424	[NO TRANSLATION]	missing translation
+1425	Hei!	
+1426	Jättäkää ne tähän.	
+1427	Hän haluaa levätä.	
+1428	Minä avaan oven.	
+1429	[NO TRANSLATION]	missing translation
+1430	Mike, tervetuloa Las Vegasiin.	
+1431	[NO TRANSLATION]	missing translation
+1432	Tämä oli hänen ideansa.	
+1433	Veljesi Freddy.	
+1434	Tyttöjä...	
+1435	Tulen ihan kohta.	
+1436	Pidä heille seuraa.	
+1437	Saat mitä vain haluat.	
+1438	Keitä nuo tytöt ovat?	
+1439	Saat itse ottaa siitä selvän.	
+1440	Käske heidät pois, Fredo.	
+1441	[NO TRANSLATION]	missing translation
+1442	Tämä on liikematka.	
+1443	Käske heidät pois.	
+1444	Minua väsyttää.	
+1445	Käske soittajatkin pois.	
+1446	No niin, mennään.	
+1447	Alkakaa tulla.	
+1448	[NO TRANSLATION]	missing translation
+1449	Riittää jo.	
+1450	Angelo!	
+1451	Alkakaa painua siitä!	
+1452	[NO TRANSLATION]	missing translation
+1453	Mennään, kulta.	
+1454	En tiedä, mikä häntä vaivaa, Johnny.	
+1455	Olen pahoillani, Freddy.	
+1456	En tiedä.	
+1457	Hän on kai väsynyt.	
+1458	Mitä Moe Greenelle tapahtui?	
+1459	Hänellä oli asioita.	
+1460	Hän käski soittaa, kun juhlat alkavat.	
+1461	Soita hänelle.	
+1462	Miten menee, Johnny?	
+1463	Kiva nähdä, Mike.	
+1464	Olemme ylpeitä sinusta.	
+1465	[NO TRANSLATION]	missing translation
+1466	Istu alas. Minulla on asiaa.	
+1467	Donkin on ylpeä.	
+1468	Kaikki on hänen ansiotaan.	
+1469	Hän tietää, että olet kiitollinen.	
+1470	Siksi hän pyytäisikin sinulta palvelusta.	
+1471	Miten voin auttaa?	
+1472	Aiomme luopua oliiviöljyalasta ja asettautua tänne.	
+1473	Moe myy meille osuutensa kasinosta ja hotellista, joten kaikki on meidän.	
+1474	[NO TRANSLATION]	missing translation
+1475	[NO TRANSLATION]	missing translation
+1476	Moehan rakastaa tätä hommaa.	
+1477	Hän ei ole puhunut myynnistä.	
+1478	Teen tarjouksen, josta ei voi kieltäytyä.	
+1479	Katsos, Johnny...	
+1480	Viihde houkuttelisi varmasti pelureita kasinolle.	
+1481	Allekirjoita sopimus, jossa lupaat käydä täällä viidesti vuodessa.	
+1482	Voisit kehottaa näyttelijätovereitasi tekemään samoin.	
+1483	Me luotamme sinuun.	
+1484	[NO TRANSLATION]	missing translation
+1485	Teen mitä tahansa kummisetäni puolesta.	
+1486	Hyvä.	
+1487	Hei, Mike!	
+1488	[NO TRANSLATION]	missing translation
+1489	Kaikki ovatkin täällä.	
+1490	Freddy, Tom.	
+1491	Hauska nähdä.	
+1492	Hei, Moe.	
+1493	[NO TRANSLATION]	missing translation
+1494	Varasimme sinulle herkullista ruokaa, parhaat tanssijat ja hyvän luoton.	
+1495	Jaa kaikille ilmaisia pelimerkkejä.	
+1496	Onko luottoni niin hyvä, että voin ostaa osuutesi?	
+1497	Ostaa osuuteni?	
+1498	Kasinosta ja hotellista.	
+1499	Corleonet haluavat ostaa osuutesi.	
+1500	Vai haluavat Corleonet ostaa osuuteni?	
+1501	Minä ostan teidän.	
+1502	Kasinosi ei tuota.	
+1503	Ehkä voimme auttaa asiaa.	
+1504	Luuletko, että kavallan rahaa?	
+1505	Sinulla on huono tuuri.	
+1506	Te italiaanot olette huvittavaa sakkia.	
+1507	Otin Freddyn tänne, kun teillä meni huonosti, ja nyt haluatte minut pois!	
+1508	Otit Freddyn, koska me rahoitimme kasinosi - ja Molinarit takasivat hänen turvallisuutensa.	
+1509	Tämä on liikeasia.	
+1510	Selvä.	
+1511	Sinä olet mennyttä.	
+1512	Corleonen perhe ei ole enää mitään.	
+1513	Kummisetä on sairas.	
+1514	Muut perheet ajavat teidät New Yorkista.	
+1515	Luuletko voivasi vallata minun hotellini?	
+1516	[NO TRANSLATION]	missing translation
+1517	Voin tehdä sopimuksen Barzinin kanssa ja pitää hotellini.	
+1518	Siksikö läpsit veljeäni julkisesti?	
+1519	Se oli pikkujuttu, Mike.	
+1520	Moe ei tarkoittanut pahaa.	
+1521	Hän menettää joskus malttinsa, mutta olemme hyvät ystävät.	
+1522	Hoidan liiketoimintaa.	
+1523	Minun pitää joskus olla tiukkana.	
+1524	Meille tuli riitaa, ja minä vähän kuritin veljeäsi.	
+1525	Vai kuritit veljeäni?	
+1526	Hän pani tarjoilijoita.	
+1527	Pelurit odottivat paukkujaan.	
+1528	Mikä sinua oikein riivaa?	
+1529	Palaan huomenna New Yorkiin.	
+1530	Mieti hintaa.	
+1531	Kusipää!	
+1532	Olen Moe Greene!	
+1533	Minä rikastuin, kun sinä olit vielä koulupoika.	
+1534	Odota vähän, Moe.	
+1535	Minä sain idean.	
+1536	Tom, olet consigliere.	
+1537	Puhu donille...	
+1538	[NO TRANSLATION]	missing translation
+1539	Don on melkein eläkkeellä, ja Mike hoitaa perheen asioita.	
+1540	Jos sinulla on sanottavaa, puhu Michaelille.	
+1541	Mike, et voi tulla Las Vegasiin ja puhua noin Moe Greenelle!	
+1542	Fredo...	
+1543	Olet isoveljeni, ja rakastan sinua.	
+1544	Älä enää ikinä asetu jonkun toisen puolelle perhettä vastaan.	
+1545	[NO TRANSLATION]	missing translation
+1546	Minun pitää tavata isä ja muu väki. Syökää ilman minua.	
+1547	Mennään viikonloppuna kaupungille teatteriin ja syömään.	forced duplication
+1548	Mennään viikonloppuna kaupungille teatteriin ja syömään.	forced duplication
+1549	Siskosi haluaisi kysyä jotain.	
+1550	Kysyköön sitten.	
+1551	Hän ei uskalla.	
+1552	He haluavat sinut poikansa kummiksi.	
+1553	Katsotaan.	
+1554	Suostutko?	
+1555	Minä mietin asiaa.	
+1556	Tule.	
+1557	Barzini iskee ensin.	
+1558	Hän järjestää tapaamisen jonkun kanssa, johon luotat.	
+1559	Näin turvallisuutesi on taattu.	
+1560	Sinut murhataan tapaamisessa.	
+1561	Pidän nykyään viinistä enemmän kuin ennen.	
+1562	Juon enemmän.	
+1563	Se tekee hyvää sinulle, isä.	
+1564	Enpä tiedä tuota.	
+1565	Oletko onnellinen vaimosi ja lastesi kanssa?	
+1566	Hyvin onnellinen.	
+1567	Sehän on hyvä.	
+1568	Toivottavasti sinua ei haittaa, että jauhan tätä Barzini-juttua.	
+1569	Ei suinkaan.	
+1570	Se on vain tapa.	
+1571	Olen aina yrittänyt välttää huolettomuutta.	
+1572	Naiset ja lapset voivat olla huolettomia, miehet eivät.	
+1573	Mitä pojallesi kuuluu?	
+1574	Hyvää.	
+1575	Hän alkaa muistuttaa yhä enemmän sinua.	
+1576	Hän on fiksumpi kuin minä.	
+1577	Hän on 3- vuotias ja lukee jo sarjakuvia.	
+1578	Vai lukee hän sarjakuvia.	
+1579	Pidä silmällä kaikkia lähteviä ja tulevia puhelinsoittoja.	
+1580	[NO TRANSLATION]	missing translation
+1581	Homma on jo hoidossa, isä.	
+1582	Aivan.	
+1583	Minä ihan unohdin.	
+1584	Mikä on hätänä?	
+1585	Mikä mieltäsi painaa?	
+1586	[NO TRANSLATION]	missing translation
+1587	Sanoin, että hoidan asian, joten hoidan sen.	
+1588	Tiesin, että Santinon pitäisi käydä tämä läpi.	
+1589	Ja Fredo...	
+1590	Fredo nyt oli...	
+1591	En halunnut, että sinulle kävisi näin.	
+1592	Olen tehnyt töitä.	
+1593	En pyydä anteeksi, että pidin huolta perheestäni.	
+1594	En suostunut olemaan sätkynukke - jonka naruja isot pomot vetelevät.	
+1595	En ole pahoillani.	
+1596	Sellaista elämäni on. Luulin vain... että kun tulisi sinun aikasi, sinä vetelisit niitä naruja.	
+1597	Senaattori Corleone,	
+1598	kuvernööri Corleone	
+1599	tai jotain.	
+1600	Toinen pezzo da novanta.	
+1601	Niin...	
+1602	Aika ei vain riittänyt, Michael.	
+1603	Aika ei riittänyt.	
+1604	Kyllä tämä tästä, isä.	
+1605	Kyllä tämä tästä.	
+1606	Kuka tahansa ehdottaakin Barzinin tapaamista - hän on petturi.	
+1607	Älä unohda sitä.	
+1608	Saanko pitää sitä?	
+1609	Saanko kastella näitä?	
+1610	Siitä vain.	
+1611	Kastele noita.	
+1612	Ole varovainen.	
+1613	Läikytät vettä.	
+1614	Anthony!	
+1615	Tule tänne.	
+1616	Kas noin.	
+1617	Laitetaan se tuohon.	
+1618	Näytän sinulle jotain.	
+1619	Tule tänne.	
+1620	Seiso siinä.	
+1621	Anna minulle appelsiini.	
+1622	Se oli uusi temppu.	
+1623	Juoksepas tuonne.	
+1624	Juokse tuonne.	
+1625	Missä sinä olet?	
+1626	Mike, olisiko sinulla hetki aikaa?	
+1627	Barzini haluaa tavata.	
+1628	Hän sanoo, että voimme selvittää kaikki ongelmat.	
+1629	Puhuitko hänen kanssaan?	
+1630	Puhuin.	
+1631	Minä voin hoitaa turvatoimet.	
+1632	Omalla alueellani.	
+1633	Sopiiko?	
+1634	Sopii.	
+1635	Tiedätkö, miten he aikovat iskeä?	
+1636	Tapaaminen järjestetään Brooklynissa	
+1637	Tession alueella.	
+1638	Olen siellä turvassa.	
+1639	Luulin, että petturi olisi Clemenza, ei Tessio.	
+1640	Se on fiksu liike.	
+1641	Tessio on heistä fiksumpi.	
+1642	En kuitenkaan tee mitään -	
+1643	ennen ristiäisiä.	
+1644	Rupean Connien vauvan kummiksi.	
+1645	Sitten tapaan don Barzinin - ja Tattaglian,	
+1646	kaikkien viiden perheen johtajat.	
+1647	Michael, uskotko Jumalaan, Isään, maan ja taivaan luojaan?	
+1648	Uskon.	
+1649	Uskotko Jeesukseen Kristukseen, Hänen ainoaan poikaansa?	
+1650	Uskon.	
+1651	Uskotko Pyhään Henkeen, pyhään katoliseen kirkkoon?	
+1652	Uskon.	
+1653	Michael Francis Rizzi, kiellätkö sinä Saatanan?	
+1654	Kiellän.	
+1655	Ja kaikki hänen tekonsa?	
+1656	Kiellän ne.	
+1657	Voi luoja!	
+1658	Ja kaikki hänen temppunsa?	
+1659	Kiellän ne.	
+1660	Michael Rizzi, tahdotko kasteen?	
+1661	Tahdon.	
+1662	Michael Rizzi, kulje rauhassa. Olkoon Jumala kanssasi.	
+1663	Aamen.	
+1664	Kay!	
+1665	Anna suukko kummisedällesi.	
+1666	Et pääsekään Vegasiin.	
+1667	Meillä on töitä.	
+1668	Muut menkööt ilman meitä.	
+1669	Tämä on ensimmäinen lomamme.	
+1670	Älä, Connie.	
+1671	Mene kotiin ja odota soittoani.	
+1672	Tämä on tärkeää.	
+1673	Tähän menee vain pari päivää.	
+1674	Olemme lähdössä Brooklyniin.	
+1675	Saisipa Mike hyvän sopimuksen.	
+1676	Varmasti saa.	
+1677	Sal ja Tom, pomo tulee eri autolla. Menkää te edeltä.	
+1678	Järjestelyni menevät pieleen.	
+1679	Hän päätti niin.	
+1680	Minäkään en voi tulla, Sal.	
+1681	Sano Mikelle, että se oli vain bisnestä.	
+1682	Olen aina pitänyt hänestä.	
+1683	Hän ymmärtää sen.	
+1684	Suo anteeksi, Sal.	
+1685	Tom, voisitko auttaa minua?	
+1686	Vanhojen aikojen muistoksi.	
+1687	En voi, Sally.	
+1688	Saat maksaa Santinosta, Carlo.	
+1689	Olet ymmärtänyt väärin.	
+1690	Kavalsit Sonnyn Barzinille.	
+1691	Kehitit pikku farssin siskoni kanssa.	
+1692	Luulitko huijaavasi Corleonea?	
+1693	Vannon, että olen viaton.	forced duplication
+1694	Vannon, että olen viaton.	forced duplication
+1695	Älä tee tätä, Mike kiltti.	
+1696	Istu alas.	
+1697	Älä tee tätä, ole kiltti.	
+1698	Barzini on kuollut.	
+1699	Samoin Philip Tattaglia.	
+1700	Moe Greene.	
+1701	Strachi.	
+1702	Cuneo.	
+1703	Selvitän tänään kaikki perheen asiat, joten älä leiki viatonta, Carlo.	
+1704	Tunnusta tekosi.	
+1705	Tuokaa hänelle ryyppy.	
+1706	No niin.	
+1707	Älä pelkää, Carlo.	
+1708	Luuletko, että tekisin siskostani lesken?	
+1709	Olen poikasi kummisetä, Carlo.	
+1710	Juo se.	
+1711	Anna mennä vain. Rangaistukseksi et saa olla mukana perheen toimissa.	
+1712	Rangaistukseksi et saa olla mukana perheen toimissa.	
+1713	Tämä on loppusi.	
+1714	Lennätän sinut Vegasiin.	
+1715	Tom.	
+1716	Pysykin siellä.	
+1717	Onko selvä?	
+1718	Älä väitä olevasi viaton.	
+1719	Se loukkaa älykkyyttäni.	
+1720	Se saa minut raivon partaalle.	
+1721	Kuka otti sinuun yhteyttä?	
+1722	Tattaglia vai Barzini?	
+1723	Barzini.	
+1724	Hyvä.	
+1725	Ulkona odottava auto vie sinut lentokentälle.	
+1726	Soitan vaimollesi ja kerron, millä lennolla tulet.	
+1727	Mike...	
+1728	Häivy silmistäni.	
+1729	Hei, Carlo.	
+1730	Yritän kertoa sinulle...	
+1731	Älä viitsi, äiti!	
+1732	Michael!	
+1733	Mitä nyt?	
+1734	Missä hän on?	
+1735	Michael, senkin sika!	
+1736	Sinä tapoit mieheni.	
+1737	Teit sen isän kuoltua, ettei kukaan olisi estämässä.	
+1738	Kaikki syyttivät häntä Sonnyn kuolemasta.	forced duplication
+1739	Kaikki syyttivät häntä Sonnyn kuolemasta.	forced duplication
+1740	Et uhrannut ajatustakaan minulle!	
+1741	Mitä minä nyt teen?	
+1742	Connie.	
+1743	Hän piti Carlon palveluksessaan,	
+1744	koska hän aikoi tappaa tämän.	
+1745	Ryhdyit lapsemme kummisedäksi,	
+1746	senkin kurja, kylmäsydäminen paska.	
+1747	Haluatko tietää, kuinka monta hän on tappanut?	
+1748	Lue lehdistä!	
+1749	Sellainen sinun miehesi on!	
+1750	Ei!	
+1751	Ei, ei...	
+1752	Viekää hänet yläkertaan.	
+1753	Kutsukaa lääkäri.	
+1754	Hän on hysteerinen.	
+1755	Hysteerinen.	
+1756	Michael, onko se totta?	
+1757	Älä kysele liikeasioistani, Kay.	
+1758	Onko se totta?	
+1759	Älä kysele liikeasioistani.	
+1760	Nyt riittää!	
+1761	Hyvä on.	
+1762	Tämän kerran.	
+1763	Saat kysyä liikeasioistani tämän kerran.	
+1764	Onko se totta?	
+1765	Onko?	
+1766	Ei.	
+1767	Olemme ryypyn tarpeessa.	
+1768	Tule.	
+1769	Don Corleone.	

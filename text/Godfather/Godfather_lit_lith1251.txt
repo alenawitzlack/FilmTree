@@ -1,0 +1,1769 @@
+1	Aš tikiu Amerika.	
+2	Jos dėka aš susikroviau turtą.	
+3	Aš auginau savo dukterį amerikietiškai.	
+4	Aš daviau savo dukrai laisvę, bet mokiau ją niekad neužtraukti negarbės savo šeimai.	
+5	Ji susirado vaikiną, ne italą.	
+6	Ji vaikščiojo į kiną su juo.	
+7	Ji vėlai parsirasdavo namo.	
+8	Aš dėl viso to neprieštaravau.	
+9	Prieš du mėnesius jis pasikvietė ją pasivažinėti. Jis buvo su draugu.	
+10	Jie vertė ją gerti viskį, o paskui bandė išžaginti.	
+11	Ji priešinosi. Ji išsaugojo savo garbę.	
+12	Todėl jie mušė ją, kaip kokį gyvulį.	
+13	Kai nuvykau į ligoninę jos aplankyti, nosis buvo sulaužyta, žandikaulis suskaldytas, sukabintas su viela.	
+14	Ji net negalėjo verkti, nes jai skaudėjo.	
+15	Aš apsiverkiau.	
+16	Kodėl aš apsiverkiau?	
+17	Ji buvo mano gyvenimo šviesa.	
+18	Graži mergina.	
+19	Ji niekad nebebus graži.	
+20	Užjaučiu.	
+21	Aš nuėjau į policiją, kaip doras amerikietis.	
+22	Tie du vaikinai gavo stoti prieš teismą.	
+23	Teisėjas nuteisė juos trejiems metams kalėjimo, bet tik lygtinai.	
+24	Tik lygtinai!	
+25	Jie buvo paleisti tą pačią dieną.	
+26	Stovėjau teismo salėje, kaip kvailys.	
+27	Tie du niekšai išsišiepę žiūrėjo į mane.	
+28	Tada pasakiau žmonai, Teisingumo vardan turime nueiti pas Doną Korleonę.	
+29	Kodėl ėjai į policiją?	
+30	Kodėl pirmiau nėjai pas mane?	
+31	Ko tau reikia iš manęs?	
+32	Prašyk ko nori, tik padaryk, ko aš tavęs prašau.	
+33	Ko gi tu manęs prašai?	
+34	Noriu, kad jie mirtų.	
+35	To negaliu padaryti.	
+36	Duosiu tau, ko tik paprašysi.	
+37	Aš tave pažystu jau daugelį metų, bet tai pirmas kartas, kai prašai manęs pagalbos.	
+38	Aš net neatsimenu, kada paskutinį kartą tu pakvietei mane puodeliui kavos.	
+39	Nors mano žmona yra tavo vienturčio vaiko krikštamotė.	
+40	Bet būkim atviri.	
+41	Tu niekad nenorėjai mano draugystės.	
+42	Tu bijojai likti man skolingas.	
+43	Aš nenorėjau nemalonumų.	
+44	Suprantu.	
+45	Tau Amerika atrodė lyg rojus.	
+46	Tu gerai gyvenai, manei, kad tave saugo policija, kad yra teismai.	
+47	Tau nereikėjo tokio draugo, kaip aš.	
+48	Bet dabar tu atėjai pas mane ir sakai,	
+49	Donai Korleone, duok man teisingumą.	
+50	Ir dar prašai to su nepagarba.	
+51	Tu nesiūlai man savo draugystės.	
+52	Tu net nemanai manęs vadinti Krikštatėviu.	
+53	Ateini per mano dukros vestuves ir prašai manęs žudyti už pinigus.	
+54	Prašau tavęs teisingumo.	
+55	Tai ne teisingumas.	
+56	Tavo dukra gyva.	
+57	Padaryk, kad jie kentėtų. Kentėtų, kaip kenčia mano dukra.	
+58	Kiek tau užmokėti?	
+59	Bonasera, Bonasera.	
+60	Ką aš tokio esu padaręs, kad tu su manim elgiesi taip nepagarbiai?	
+61	Jei būtum atėjęs teisingumo pas mane, tie padugnės, kurie sugriovė tavo dukrai gyvenimą, jau dabar kentėtų.	
+62	Ir jei toks doras žmogus, kaip tu įsigytum priešų, jie būtų ir mano priešai.	
+63	Ir tad jie tavęs bijotų.	
+64	Būk mano draugas.	
+65	Krikštatėvi.	
+66	Gerai.	
+67	Vieną dieną, gali būti, kad ta diena ir niekad neišauš, aš tavęs paprašysiu paslaugos.	
+68	Bet iki tos dienos... priimk šį teisingumą, kaip dovaną per mano dukters vestuves.	
+69	Grazie, Krikštatėvi.	
+70	Prego.	
+71	Pavesk šį reikalą Klemensai.	
+72	Noriu, kad jis pasitelktų žmonės, kurie per daug neįsijaustų užuodę kraują.	
+73	Mes ne galvažudžiai, nesvarbu, ką tas laidotojas kalba.	
+74	Kur Maiklas?	
+75	Nesijaudink, jis tuoj bus čia.	
+76	Mes nesifotografuosime be Maiklo.	
+77	Kas nutiko?	
+78	Tai dėl Maiklo.	
+79	Donai Barzini.	
+80	Ei, Poli!	
+81	Įpilk šiek tiek vyno.	
+82	Poli!	
+83	Dar vyno.	
+84	Atrodai nuostabiai ant scenos.	
+85	Ar tu šokių teisėjas, ar kas?	
+86	Eik ir dirbk savo darbą.	
+87	Sandra, žiūrėk vaikus.	
+88	Neleisk jiems siusti.	
+89	Žiūrėk savęs, gerai?	
+90	20, 30 gabalų.	
+91	Smulkiomis kupiūromis.	
+92	Toje mažoje šilko rankinėje.	
+93	Jei čia būtų kieno nors kito vestuvės...	
+94	Sfortunato!	
+95	Ei, Poli!	
+96	[NO TRANSLATION]	missing translation
+97	Kvailas bukagalvis.	
+98	Kas nutiko?	
+99	Turiu grįžti į darbą.	
+100	Tomai.	
+101	[NO TRANSLATION]	missing translation
+102	Joks sicilietis neturi teisės atsisakyti prašymui jo dukros vestuvių dieną.	
+103	Donai Korleone, aš pagerbtas ir dėkingas, kad mane pakvietėt.	
+104	Varyk iš čia!	
+105	Čia privatus pokylis.	
+106	Greičiau!	
+107	Kas čia?	
+108	Čia mano sesers vestuvės.	
+109	Prakeikti fedai nieko negerbia!	
+110	Ateik, ateik, ateik!	
+111	einant prie pabaigos, jis buvo paleistas garbės žodžiu pasižadėjęs padėti mūsų kariaujančiai šaliai, tad jis šešis mėnesius dirbo mano kepykloje.	
+112	Nozorini, kuo aš tau galiu padėti?	
+113	Dabar, kai karas pasibaigė, vargšas vaikinas, Enzo, bus repatrijuotas atgal į Italiją.	
+114	Krikštatėvi, aš turiu dukrą.	
+115	Matot, ji ir Enzo...	
+116	Tu nori, kad Enzo pasiliktų šalyje, ir, tada jis ves tavo dukrą.	
+117	Tu viską supranti.	
+118	Pone Heigenai.	
+119	Ačiū jums.	
+120	Palaukit, kol pamatysit vestuvinį tortą, kurį iškepiau jūsų dukrai!	
+121	Nuotaka, jaunikis ir angelas...	
+122	Kam aš turėčiau pavesti šį reikalą?	
+123	Tik tešionykščiui valdininkui.	
+124	Pavesk tai Žydų Kongresmenui iš kitos apygardos.	
+125	Kas dar sąraše?	
+126	Ei, Maiklai!	
+127	Jis ne sąraše, bet Lukas Brazis nori tave pamatyti.	
+128	Ar tai būtina.	
+129	Jis nesitikėjo, kad bus pakviestas į vestuves, todėl jis nori tau padėkoti.	
+130	Donai Korleone, aš pagerbtas ir dėkingas, kad mane pakvietėt į savo dukros vestuves.	
+131	Tegul jų pirmas vaikas būna berniukas.	
+132	Maiklai...	
+133	Tas vyras ten, kalbasi pats su savimi.	
+134	Matai tą baisų vyrą ten?	
+135	Jis labai baisus vyras.	
+136	Koks jo vardas?	
+137	Jis - Lukas Brazis.	
+138	Jis kartais padeda mano tėvui.	
+139	Maiklai, jis eina link mūsų!	
+140	Atrodai nuostabiai!	
+141	Mano brolis Tomas Heigenas, Panelė Kei Adams.	
+142	Tavo tėvas tave kviečia.	
+143	Labai malonu susipažinti.	
+144	Malonu susipažinti.	
+145	Kodėl tavo brolis turi kitokį vardą?	
+146	Mano brolis Sonis rado Tomą Heigeną gatvėje.	
+147	Jis neturėjo namų, tad mano tėvas jį priimė vidun.	
+148	Nuo tada jis su mumis ir gyvena.	
+149	Jis geras advokatas.	
+150	Ne sicilietis.	
+151	Manau jis taps Consigliori.	
+152	Ką tai reiškia?	
+153	Tai... kaip patarėjas, kaip konsultantas.	
+154	Labai svarbus šeimoje.	
+155	Tau patinka lazanija?	
+156	Donai Korleone.	
+157	Aš pagerbtas ir dėkingas, kad pakvietėt mane į savo dukros vestuves.	
+158	Savo dukros vestuvių dieną.	
+159	Ir aš tikiuosi, kad jų pirmas vaikas bus berniukas.	
+160	Aš pažadu savo amžiną ištikimybę.	
+161	Čia Jūsų dukros vestuvinei rankinei.	
+162	Ačiū, Lukai.	
+163	Brangiausias drauge.	
+164	Donai Korleone, aš dabar jus paliksiu, nes žinau, kad jūs esat labai užsiėmęs.	
+165	Ačiū.	
+166	Ponia, Korleone.	
+167	Ne!	
+168	Senatorius Kolis atsiprašo, kad neatvyko, bet sako, kad jūs suprasit.	
+169	Taip pat ir keli teisėjai.	
+170	Jie visi atsiuntė dovanų.	
+171	Kas ten lauke?	
+172	Džoni!	
+173	Džoni!	
+174	Aš tave myliu!	
+175	Jis sukorė visą kelią iš Kalifornijos.	
+176	Sakiau, kad jis atvyks!	
+177	Jis tikriausiai vėl turi problemų.	
+178	Jis geras krikštasūnis.	
+179	Džoni, Džoni!	
+180	Sudainuok dainą!	
+181	Tu niekad nesakei, kad pažysti Džonį Fonteiną!	
+182	Žinoma!	
+183	Ar nori su juo susitikti?	
+184	Puiku!	
+185	Žinoma.	
+186	Mano tėvas padėjo jo karjerai.	
+187	Tikrai?	
+188	Kaip?	
+189	Pasiklausykime šios dainos.	
+190	Maiklai...	
+191	Prašau, Maiklai.	
+192	Papasakok man.	
+193	Kai Džonis dar tik pradėjo, jis pasirašė asmeninę tarnybos sutartį su didžiu orkestro vadovu.	
+194	Ir kai jis kilo savo karjeros laiptais aukštyn ir aukštyn, jis panoro ištrūkti.	
+195	Džonis yra mano tėvo krikštasūnis.	
+196	Mano tėvas nuėjo pas tą orkestro vadovą.	
+197	Jis pasiūlė jam 10,000 dolerių, kad atrištų Džonį, bet orkestro vadovas pasakė ne.	
+198	Tada kitą dieną mano tėvas vėl nuėjo pas jį, tik tąkart su Luku Braziu.	
+199	Po valandą, jis pasirašė paleidimo sutartį, už kurią gavo 10,000 dolerių.	
+200	Kaip jam tai pavyko?	
+201	Pasiūlė jam tai, ko jis negalėjo atsisakyti.	
+202	Ką jam pasiūlė?	
+203	Lukas Brazis laikė įrėmęs ginklą jam į galvą, ir tėvas pasakė, arba jo smegenys, arba parašas bus ant kontrakto.	
+204	Tai tikra istorija.	
+205	Tai mano šeima, Kei.	
+206	Ne aš.	
+207	Nuostabu!	
+208	Aš tuo pasirūpinsiu.	
+209	Tomai...	
+210	Noriu, kad surastum Santiną.	
+211	Pasakyk jam, kad ateitų į kabinetą.	
+212	Kaip laikaisi, Fredi?	
+213	Mano brolis Fredis, čia Kei Adams.	
+214	Labas.	
+215	Kaip laikaisi?	
+216	Tai mano brolis Maiklas.	
+217	Ar gerai leidi laiką?	
+218	Aha.	
+219	Ar ji tavo draugė?	
+220	Nebežinau, ką daryti.	
+221	Mano balsas silpnas.	
+222	Jis silpnas.	
+223	Kaip ten bebūtų, jei aš gaučiau vaidmenį tame filme, jis grąžintų mane atgal į viršūnę.	
+224	Bet tas... žmogus neduos man to vaidmens, tas studijos galva.	
+225	Kuo jis vardu?	
+226	Volcas.	
+227	Jis man neduos, jis sako, kad aš neturiu jokių šansų.	
+228	Soni?	
+229	Soni?	
+230	Soni?	
+231	Soni, ar tu ten?	
+232	Ko?	
+233	Senis tave kviečia.	
+234	Minutėlę.	
+235	Prieš mėnesį jis nusipirko filmo teises į šitą knygą, bestselerį.	
+236	Pagrindinis herojus yra visai kaip aš.	
+237	Man net nereikėtų vaidinti.	
+238	Krikštatėvi, aš nežinau, ką man daryti.	
+239	Elkis, kaip vyras!	
+240	Kas su tavimi darosi?	
+241	Nejaugi tu galop virtai Holivudo pastumdėliu, kuris verkšlena, kaip boba.	forced duplication
+242	Nejaugi tu galop virtai Holivudo pastumdėliu, kuris verkšlena, kaip boba.	forced duplication
+243	Ką man daryti?	
+244	Ką man daryti?	
+245	Kas per nesąmonė?	
+246	Apgailėtina.	
+247	Ar būni su šeima?	
+248	Aišku.	
+249	Gerai.	
+250	Nes vyras, kuris nebūna su šeima, niekad nebus tikras vyras.	
+251	Atrodai klaikiai.	
+252	Noriu, kad valgytum.	
+253	Pailsėk, ir po mėnesio tas Holivudo vilkas duos tau, ko tu nori.	
+254	Jau vėlu, jie pradeda filmuoti jau po savaitės.	
+255	Aš jam pasiūlysiu tai, ko jis negalės atsisakyti.	
+256	Paprasčiausiai eik laukan ir linksminkis, ir pamiršk visą tą mėšlą.	
+257	Noriu, kad viską paliktum man.	
+258	Gerai.	
+259	Kada mano dukra išvažiuoja?	
+260	Greitai, kai tik atpjaus tortą.	
+261	Ar duoti tavo žentui, ką nors svarbaus?	
+262	Niekada.	
+263	Duok jam pragyvenimą, bet niekada nekalbėk su juo apie šeimos reikalus.	
+264	Kas dar?	
+265	Virgilijus Solocas skambino.	
+266	Mes turėsime su juo susitikti kitą savaitę.	
+267	Kai tu grįši iš Kalifornijos.	
+268	Kada aš vykstu į Kaliforniją?	
+269	Šįvakar.	
+270	Noriu, kad pakalbėtum su tuo filmų vilku ir sutvarkytum šitą reikalą dėl Džonio.	
+271	Jei daugiau nieko nebėra, aš norėčiau eiti į dukros vestuves.	
+272	Karlai, mes fotografuojamės.	
+273	Palauk minutėlę.	
+274	Ne, Maiklai.	
+275	Ne mane.	
+276	Gerai.	
+277	Būtent taip.	
+278	Ramiai.	
+279	Reikia daugiau šviesos ant tos arkos.	
+280	Kalbėk.	
+281	Mane atsiuntė Džonio Fonteino draugas.	
+282	Tas draugas pasiūlytų savo draugystę ponui Volcui, jei ponas Volcas padarys mums vieną paslaugą.	
+283	Volcas klauso.	
+284	Duokit Džoniui tą vaidmenį karo filme, kurį pradedate filmuoti kitą savaitę.	
+285	O kokią paslaugą jūsų draugas padarys ponui Volcui?	
+286	Jis gali padaryti, kad jūsų kompanijoj baigtųsi neramumai.	
+287	Ir jūsų viena iš žvaigždžių ką tik perėjo nuo marichuanos prie heroino.	
+288	Ar tu nori mane išgąsdinti?	
+289	Klausykis, kalės vaike!	
+290	Leisk man tave apšviesti.	
+291	Džonis Fonteinas niekada negaus to filmo!	
+292	Man nusispjauti, kiek italiūkščių mafijos galvažudžių išlįs iš pašalių!	
+293	Aš pusiau vokietis, pusiau airis.	
+294	Paklausyk mano drauge.	
+295	Tu pats sau ieškai bėdos!	
+296	Aš advokatas.	
+297	Juk aš net negrasinau...	
+298	Aš pažystu Niujorko advokatus.	
+299	Bet kas tu toks?	
+300	Aš turiu tam tikrą praktiką.	
+301	Padedu vienam klientui.	
+302	Lauksiu jūsų skambučio.	
+303	Ir dar, aš labai žaviuosi jūsų filmais.	
+304	Patikrink jį.	
+305	Jis tikrai nuostabus.	
+306	Pažiūrėk į šitą.	
+307	Jis puošdavo karaliaus rūmus.	
+308	Labai gražu.	
+309	Kodėl nesakei, kad dirbi Korleonei?	
+310	Maniau, kad jūs koks pigus nusikaltėlis, Džonio pasiųstas manęs įbauginti.	
+311	Aš naudoju jo vardą, tik kai labai reikia.	
+312	Kaip jūsų gėrimas?	
+313	Geras.	
+314	Dabar aš jums parodysiu kai ką nuostabaus.	
+315	Jūs vertinat grožį, ar ne taip?	
+316	Štai.	
+317	600,000 dolerių ant keturių kanopų.	
+318	Dedu galvą, kad Rusijos carai tiek nemokėjo už vieną žirgą.	
+319	Chartumai.	
+320	Chartumai.	
+321	Bet aš neleisiu jo į lenktynes.	
+322	Laikysiu jį veislei.	
+323	Ačiū, Toni.	
+324	Eime ko nors užkąsti.	
+325	Korleonė yra Džonio krikštatėvis.	
+326	Italams tai labai šventas, artimas ryšys.	
+327	Aš tai gerbiu.	
+328	Pasakyk jam, kad prašytų, ko kito.	
+329	Tos paslaugos aš tau negaliu suteikti.	
+330	Jis niekada neprašo antros paslaugos, jei jam buvo atsakyta pirmoji.	
+331	Jūs nesuprantat.	
+332	Džonis Fonteinas niekad negaus to filmo.	
+333	Tas vaidmuo jam puikiai tinka.	
+334	Tai padarytų jį didele žvaigžde.	
+335	Aš jį išmesiu iš šito biznio, ir leiskit pasakyti, kodėl.	
+336	Džonis Fonteinas sugriovė gyvenimą vienai vertingiausių Woltz International globotinių.	
+337	Mes ją treniravom penkerius metus.	
+338	Dainavimo, vaidinimo, šokio pamokos.	
+339	Išleidau šimtus tūkstančių dolerių dėl jos, kad padaryčiau ją didele žvaigžde.	
+340	Būsiu netgi atviresnis,	
+341	vien tam, kad parodyčiau nesąs kietaširdis žmogus.	
+342	Kalba eina ne vien apie dolerius ir centus.	
+343	Ji buvo graži.	
+344	Ji buvo jauna ir nekalta!	
+345	Ji buvo pati gražiausia pupytė, kokių tik aš turėjau, o jų aš turėjau visame pasaulyje.	
+346	Tada Džonis Fonteinas ateina su savo alyvų aliejaus balsu, italiūkščio žavesiu.	
+347	Ir tada ji pabėga.	
+348	Ji visa tai metė, kad mane apjuoktų!	
+349	O mano padėties žmogus negali leisti sau tapti pajuokos objektu!	
+350	O dabar nešdinkis iš čia po velnių!	
+351	Jei tas guzas norės imtis pašalinių priemonių, pasakyk jam, kad aš ne orkestro vadovas.	
+352	Taip, girdėjau tą istoriją.	
+353	Ačiū jums už vakarienę ir už labai malonų vakarą.	
+354	Tikiuosi jūsų automobilis galės mane nuvežti į oro uostą.	
+355	Ponas Korleonė nori kuo greičiau išgirsti blogas naujienas.	
+356	Nesi per daug pavargęs, ar ne, Tomai?	
+357	Ne, numigau lėktuve.	
+358	Aš čia turiu Soloco pastabas.	
+359	Dabar...	
+360	Solocas dar žinomas kaip Turkas.	
+361	Jis labai greitai stveriasi peilio, tačiau tik biznio reikaluose, dėl to su juo yra nusiskundimų.	
+362	Jo biznis yra narkotikai.	
+363	Jis turi laukus Turkijoj, kur augina aguonas.	
+364	Sicilijoj jis turi gamyklas paversti jas į heroiną.	
+365	Jam reikia grynųjų, jam reikia apsaugos nuo policijos.	
+366	Jis duos gabalą nuo sandėrio.	
+367	Nežinau, kiek.	
+368	Tataljų šeima yra jo užnugaryje.	
+369	Jie turi ten būti dėl svarios priežasties.	
+370	O kaip teistumas?	
+371	Vienąkart Italijoj, kitąkart čia.	
+372	Jis žinomas, kaip narkotikų biznio galva.	
+373	Santinai, ką tu manai?	
+374	Daug pinigų tuose baltuose milteliuose.	
+375	Tomai?	
+376	Taip.	
+377	Narkotikuose daugiau šlamančių, nei kur nors kitur.	
+378	Jei mes čia neįsivelsime, kas nors kitas įsivels, gal penkios šeimos.	
+379	Su šiais pinigais jie gali nusipirkti daugiau policijos ir politinės galios.	
+380	Tada jie taps stipresni už mus.	
+381	Dabar mūsų rankose profsąjungos ir lošimų verslas, ir tai puiku, bet ateitis narkotikuose.	
+382	Jei mes neatsikąsime šito kąsnio, po dešimties metų rizikuosime viskuo, ką turime.	
+383	Na?	
+384	Tai koks bus tavo atsakymas, tėtuk?	
+385	Donai Korleone.	
+386	Man reikia žmogaus, kuris turi galingų draugų.	
+387	Man reikia milijono dolerių grynais.	
+388	Man reikia tų politikėlių, kurios tu nešioji savo kišenėje, kaip smulkius centus.	
+389	Kokia dalis atiteks mano šeimai?	
+390	30 procentų.	
+391	Pirmaisiais metais jūsų dalis bus trys, keturi milijonai dolerių.	
+392	Paskiau ji išaugtų.	
+393	O kokia yra Tataljų šeimos dalis?	
+394	Jie gaus iš mano dalies.	
+395	Aš jais pasirūpinsiu iš savo dalies.	
+396	Taigi, aš gaunu 30 procentų vien tik už finansavimą, politinę įtaką ir juridinę apsaugą?	
+397	Teisingai.	
+398	Kodėl jūs atėjote pas mane?	
+399	Kodėl aš nusipelniau tokio dosnumo?	
+400	Jei jūsų manymu milijonas dolerių - vien tik finansavimas, sveikinu jus Donai Korleone.	
+401	Sakiau, kad su jumis aš susitikau, tik tam, kad girdėjau jus esant rimtą žmogų, su kuriuo reikia elgtis pagarbiai.	
+402	Bet aš jums turiu pasakyti ne.	
+403	Ir išdėstysiu jums savo priežastis.	
+404	Tiesa, aš turiu daug draugų teisėsaugoje.	
+405	Jie nebebūtų draugais ilgai, jei aš įsivelčiau į narkotikus vietoj lošimų, kuriuos jie laiko nekenksmingu verslu, bet narkotikai yra purvinas reikalas.	
+406	Man nerūpi, kuo pragyvenimui verčiasi žmogus.	
+407	Bet tavo verslas... truputį pavojingas.	
+408	Jei jūs rūpinatės saugumu, Tataljos jį garantuoja.	
+409	Tataljos garantuotų mūsų...	
+410	Palauk minutėlę.	
+411	Aš jaučiu sentimentalią silpnybę savo vaikams, ir aš juos išlepinau.	
+412	Jie kalba, kai turėtų klausyti.	
+413	Bet nesvarbu...	
+414	Senjore Solocai, mano ne yra galutinis.	
+415	Leiskite palinkėti sėkmės jūsų naujajame versle.	
+416	Žinau, kad jūs susitvarkysite, ir sėkmės.	
+417	Jūsų biznis nesikerta su manuoju.	
+418	Ačiū jums.	
+419	Santinai.	
+420	Prieik.	
+421	Kas su tavimi dedasi?	
+422	Tavo smegenys suminkštėjo nuo tų žaidimų su ta mergina.	
+423	Daugiau niekam, išskyrus šeimą, neišduok, ką tu galvoji.	
+424	Dink iš akių.	
+425	Tomai, kas tai?	
+426	Tai nuo Džonio.	
+427	Jis vaidina tame naujame filme.	
+428	Išneškit.	
+429	Padėkit jas tenai.	
+430	Ir... pranešk Lukui Braziui, kad ateitų.	
+431	Aš truputį nerimauju dėl to Soloco.	
+432	Išsiaiškink, kas po jo kojomis?	
+433	Nuvyk pas Tataljas.	
+434	Tegul jie mano, kad tu nesi pernelyg patenkintas savo šeima ir išsiaiškink, ką tu gali.	
+435	Turiu kai ką jūsų motinai ir Soniui ir kaklaraištį Fredžiui, ir Tomui Heigenui Reinoldso parkerį.	
+436	Ko tu norėtumei Kalėdoms?	
+437	Tik tavęs.	
+438	Andiamo, Fredai.	
+439	Pasakyk Poliui, kad atvarytų mašiną.	
+440	Gerai, tėvuk.	
+441	Turėsiu ją pats atvaryti.	
+442	Polis paskambino, kad šįryt susirgo.	
+443	Polis - geras vaikis.	
+444	Man nesunku atvaryti mašiną.	
+445	Buon Natale, caro.	
+446	Grazie.	
+447	Lukai!	
+448	Aš Brunas Tatalja.	
+449	Žinau.	
+450	Ar žinai, kas aš toks?	
+451	Žinau.	
+452	Tu kalbėjaisi su Tataljų šeima... taip?	
+453	Manau jūs ir aš galime padaryti stambų biznį.	
+454	Man reikia galingo žmogaus, kaip jūs.	
+455	Girdėjau jūs nesate patenkintas... Korleonių šeima.	
+456	Norite prisijungti prie manęs?	
+457	Kas man iš to?	
+458	Pradžiai 50,000 dolerių.	
+459	Neblogai!	
+460	Sutinkat?	
+461	Tomai!	
+462	Tomai Heigenai.	
+463	Su šventom Kalėdom.	
+464	Malonu tave matyti.	
+465	Man reikia su tavim pasikalbėti.	
+466	Neturiu laiko.	
+467	Surask, Consigliori.	
+468	Lipk į mašiną.	
+469	Dėl ko tu nerimauji?	
+470	Jei būčiau norėjęs tave nudėti, būtum jau negyvas.	
+471	Lipk.	
+472	Fredi, einu nupirksiu vaisių.	
+473	Gerai, tėvuk.	
+474	Linksmų Kalėdų.	
+475	Norėčiau vaisių.	
+476	Ar aš tau labiau patikčiau, jei aš būčiau vienuolė?	
+477	Kaip toje istorijoje.	
+478	Ne.	
+479	O ką, jei aš būčiau Ingrida Bergman?	
+480	Dabar jau reikia pagalvoti.	
+481	Maiklai.	
+482	Ne, tu man labiau nepatiktum, jei būtum Ingrida Bergman.	
+483	Kas yra?	
+484	Jie nerašo, ar jis mirė, ar gyvas.	
+485	Soni, čia Maiklas.	
+486	Kur tu buvai?	
+487	Kaip jis?	
+488	Mes dar nežinome.	
+489	Yra visokių versijų.	
+490	Jam tikrai kliuvo, Maiki.	
+491	Ar klausai?	
+492	Aha, klausau.	
+493	Kur tu buvai?	
+494	Aš nerimavau.	
+495	Ar Tomas tau nesakė, kad skambinau?	
+496	Ne.	
+497	Klausyk, grįžk namo.	
+498	Turėtum būti su mama, girdi?	
+499	O, Dieve.	
+500	Soni!	
+501	Nejudėk.	
+502	Kas ten?	
+503	Atidaryk, čia Klemensa.	
+504	Yra daugiau žinių apie tavo senį.	
+505	Sako, kad jis jau nebegyvas.	
+506	Kas su tavimi darosi?	
+507	Nusiramink!	
+508	Kur buvo Polis?	
+509	Serga.	
+510	Jis serga jau visą žiemą.	
+511	Kiek jis gali sirgt?	
+512	Jis sirgo tris, keturis kartus.	
+513	Fredis nenori naujo sargybinio.	
+514	Atvesk jį tuoj pat.	
+515	Man nerūpi, kaip sunkiai jis serga.	
+516	Atvesk jį į mano tėvo namus tuoj pat.	
+517	Ar nori, kad dar ką nors čia atsiųsčiau?	
+518	Ne.	
+519	Eik.	
+520	Keletas mūsų žmonių atvyks į namus.	
+521	Klausau?	
+522	Santinas Korleonė?	
+523	Taip.	
+524	Mes turime Tomą Heigeną.	
+525	Po kelių valandų jis bus paleistas su mūsų pasiūlymu.	
+526	Paklausykit, ką jis turi pasakyti, prieš ką nors darant.	
+527	Kas įvyko, tas įvyko.	
+528	Neprarask to puikaus savo charakterio, Soni.	
+529	Lauksiu.	
+530	Tavo bosas mirė.	
+531	Žinau, kad tu nesi iš šeimos galvažudžių, tad nenoriu, kad tu bijotum.	
+532	Noriu, kad tu padėtum Korleonėms ir man.	
+533	Mes jį nudėjom prie jo kontoros beveik prieš valandą, kai tave paėmėm.	
+534	Išgerk.	
+535	Tu turi sutaikyti mane su Soniu.	
+536	Soniui be galo parūpo mano sandėris, ar ne?	
+537	Ir tu žinai, kad šitaip pasielgti buvo išmintingiausia.	
+538	Sonis tave persekios.	
+539	Aišku, tokia bus jo pirmoji reakcija.	
+540	Todėl tu turi jam įkrėsti proto.	
+541	Už manęs yra Tataljų šeima.	
+542	Kitos Niujorko šeimos darys viską, kad užkirstų kelią karui tarp mūsų.	
+543	Pažiūrėkim, nors ir gerbiu, Donas - amžiną jam atilsį - pradėjo klysti.	
+544	Prieš dešimt metų aš nebūčiau galėjęs jo užversti.	
+545	O dabar jis nebegyvas, Tomai, ir niekas jo negali sugrąžinti.	
+546	Pasikalbėk su Soniu, su būrių vadais, Tesiju, storuliuku Klemensa.	
+547	Čia geras biznis, Tomai.	
+548	Pasistengsiu.	
+549	Bet net Sonis negalėtų sustabdyti Luko Brazio.	
+550	Taip...	
+551	Palik Luką man.	
+552	Tu tik pasikalbėk su Soniu.	
+553	Ir kitais dviem vyrukais.	
+554	Padarysiu, ką galėsiu.	
+555	Gerai.	
+556	Dabar gali eiti.	
+557	Man nepatinka smurtas, Tomai,	
+558	aš biznio žmogus.	
+559	Kraujas perdaug kainuoja.	
+560	Jis vis dar gyvas.	
+561	Jie suvarė į jį penkias kulkas, o jis dar gyvas!	
+562	Nepasisekė man, nepasiseks ir tau, jei nesutvarkysi to reikalo.	
+563	Tavo motina ligoninėje su tavo tėvu.	
+564	Atrodo jis išgis.	
+565	Čia daug nesveiko kraujo.	
+566	Solocas, Filipas Tatalja, Brunas Tatalja, Reimonas...	
+567	Ar tu nori juos visus nužudyti?	
+568	Nesikišk.	
+569	Jei atsikratysi Soloco, viskas išsirikiuos.	
+570	Kaip dėl Luko?	
+571	Solocas mano, kad galės su juo susitvarkyti.	
+572	Jei Lukas parsiduos, mes turėsime daug bėdos.	
+573	Ar kas nors susisiekė su Luku?	
+574	Bandom visą naktį.	
+575	Ei, padaryk man paslaugą...	
+576	Lukas niekad nenakvoja su mergše visą naktį.	
+577	Na, Tomai, tu consigliori.	
+578	Ką darysim, jei senis mirs?	
+579	Jei senis mirs, mes prarasime politinius kontaktus ir pusę savo galios.	
+580	Kitos Niujorko šeimos galėtų paremti Solocą, kad išvengtų ilgo karo.	
+581	Dabar beveik 1946-ieji.	
+582	Niekas daugiau nenori kraujo.	
+583	Jei tavo tėvas mirs... tu padarysi sandėrį.	
+584	Lengva kalbėti.	
+585	Jis ne tavo tėvas.	
+586	Aš beveik toks pat sūnus, kaip tu ar Maikis.	
+587	Kas ten?	
+588	Poli, liepiau tau pasilikti vietoje.	
+589	Vyras prie vartų turi paketą.	
+590	Tesijau, eik pažiūrėt, kas ten.	
+591	Man pasilikt?	
+592	Taip.	
+593	Ar viskas gerai?	
+594	Gerai.	
+595	Čia yra maisto.	
+596	Gal alkanas?	
+597	Ne.	
+598	Nori gerti?	
+599	Brendis išprakaituos ligą.	
+600	Įsipilk.	
+601	Neblogas sumanymas.	
+602	Pasirūpink tuo kalės vaiku.	
+603	Polis pardavė mūsų senį.	
+604	Užsirašyk tai pirmuoju numeriu savo sąraše.	
+605	Supratau.	
+606	Maiki, rytoj pasiimk keletą vyrukų ir nueik į Luko namus.	
+607	Gal mums nederėtų įvelti Maikio į šį mėšlą taip tiesiogiai?	
+608	Sukiojimasis namuose prie telefono būtų didelė pagalba.	
+609	Dar paskambink Lukui.	
+610	Kas čia po velnių?	
+611	Siciliečių žinutė.	
+612	Tai reiškia, kad Lukas Brazis miega su žuvim.	
+613	Aš išeinu.	
+614	Kada grįši?	
+615	Tikriausiai vėlai.	
+616	Nepamiršk cannoli!	
+617	Taip, taip, taip.	
+618	Rokai, sėsk į kitą pusę.	
+619	Tu užstoji priekinį veidrodėlį.	
+620	Sonis pašėlo.	
+621	Jis jau nori sugulti ant čiužinių.	
+622	Turime surast vietelę Vest Saide.	
+623	Pabandyk 309 Vest 43-iojoj gatvėj.	
+624	Ar žinai vietelę Vest Saide?	
+625	Reikia pagalvoti.	
+626	Vairuodamas pagalvok.	
+627	Aš noriu jau šį mėnesį nuvykti į Niujorką.	
+628	Atsargiai, žiūrėk vaikus.	
+629	Poli, važiuok 39-ąja gatve, paimk 18 čiužinių ir atnešk man sąskaitą.	
+630	Gerai.	
+631	Pažiūrėk, kad tik būtų švarūs, nes vyrukai ant jų ilgai gulės.	
+632	Jie švarūs ir eksterminuoti.	
+633	Čia gerai pasakei.	
+634	Eksterminuoti!	
+635	Saugokis, kad mes neeksterminuotume tavęs.	
+636	Sustok.	
+637	Reikia nugręžti rabarbarą.	
+638	Palik ginklą.	
+639	Paimk cannoli.	
+640	Ei, Maiklai!	
+641	Ei, Maiki!	
+642	Aha.	
+643	Tau skambina.	
+644	Kas?	
+645	Kažkokia mergina.	
+646	Klausau.	
+647	Kei?	
+648	Kaip tavo tėvas?	
+649	Jis išsikapstys.	
+650	Aš tave myliu.	
+651	Aš tave myliu!	
+652	Maiklai?	
+653	Aha, žinau.	
+654	Pasakyk man, kad mane myli.	
+655	Dabar negaliu kalbėt.	
+656	Ar negali pasakyt?	
+657	Pasimatysim vakare.	
+658	Kodėl nepasakai tai gražiai merginai, kad ją myli?	
+659	Aš myliu tave visa širdimi.	
+660	Jei vėl tavęs greitai nepamatysiu, aš numirsiu.	
+661	Ateik ir pasimokyk šio to.	
+662	Vieną dieną tau gali tekti gaminti valgį dvidešimčiai vyrų.	
+663	Pradedi įpildamas trupučio aliejaus, tada pakepini šiek tiek česnako.	
+664	Įdedi truputį pomidorų, pomidorų tyrelės, apkepini ir pasižiūri, kad būtų nelipnus.	
+665	Kai pradeda virti, įdedi visas dešreles ir mėsos kukulius.	
+666	Įpili šiek tiek vyno.	
+667	Ir nedaug cukraus.	
+668	Štai ir visa mano gudrybė.	
+669	Baikit tą nesąmonę.	
+670	Turiu jums daug svarbesnių reikalų.	
+671	Kaip Polis?	
+672	Daugiau jo nebepamatysi.	
+673	Kur eini?	
+674	Į miestą.	
+675	Pasiųsk jam sargybinių.	
+676	Einu tik į ligoninę...	
+677	Jam nieko nenutiks.	
+678	Solocas žino, kad jis tik civilis.	
+679	Būk atsargus.	
+680	Taip, sere.	
+681	Vis tiek nusiųsk ką nors paskui jį.	
+682	Turiu eiti.	
+683	Galiu eiti su tavim?	
+684	Ne, Kei.	
+685	Ten bus detektyvų, žmonių iš žiniasklaidos.	
+686	Palaukčiau tavęs taksi.	
+687	Nenoriu, kad tu į tai veltumeisi.	
+688	Kada aš tave dar pamatysiu?	
+689	Grįžk į Niu Hampšyrą, ir aš tau paskambinsiu į tavo tėvų namus.	
+690	Kada aš tave pamatysiu, Maiklai?	
+691	Nežinau.	
+692	Ką jūs čia darote?	
+693	Jūs neturėtumėte čia būti.	
+694	Aš esu Maiklas Korleonė.	
+695	Čia mano tėvas.	
+696	Kas nutiko sargybiniams?	
+697	Jūsų tėvas turėjo per daug lankytojų.	
+698	Tai trukdė ligoninės darbui.	
+699	Policija liepė jiems išeiti maždaug prieš dešimt minučių.	
+700	Prašau, sujunkit mane su Long Byču 45620.	
+701	Sesele.	
+702	Palaukit minutėlę.	
+703	Pasilikit čia.	
+704	Soni, aš ligoninėj.	
+705	Neseniai čia atėjau, čia nieko nėra.	
+706	Nei Tesijo žmonių, nei detektyvų, nieko.	
+707	Tėtušis vienui vienas.	
+708	Nepanikuok.	
+709	Nepanikuosiu.	
+710	Apgailestauju, bet jūs turėsite išeiti.	
+711	Mes jį perkelsime į kitą palatą.	
+712	Ar galite atjungti tas žarneles?	
+713	Tai beprotystė!	
+714	Ar jūs žinote, kas mano tėvas?	
+715	Vyrai čia jau važiuoja jo nužudyti.	
+716	Ar suprantate?	
+717	Padėkit man, prašau.	
+718	Kas tu?	
+719	Aš esu Enzo, kepėjas.	
+720	Pamenat mane?	
+721	Enzo.	
+722	Tau geriau išeiti, čia nusimato daug nemalonumų.	
+723	Jei bus nemalonumų, aš pasiliksiu čia padėti.	
+724	Dėl jūsų tėvo.	
+725	Klausyk.	
+726	Palauk manęs lauke, prie ligoninės, gerai?	
+727	Už minutėlės išeisiu.	
+728	Pagulėk čia tėtuk.	
+729	Dabar aš tavim pasirūpinsiu.	
+730	Dabar aš su tavim.	
+731	Aš su tavim.	
+732	Mesk jas šalin.	
+733	Prieik.	
+734	Įsikišk ranką į kišenę, lyg turėtum ginklą.	
+735	Tau bus viskas gerai.	
+736	Viską darei gerai.	
+737	Maniau, kad jus visus italiūkščius jau sukišau už grotų!	
+738	Kodėl niekas nesaugo mano tėvo?	
+739	Tu mažas chuligane.	
+740	Nenurodinėk man, ką daryti!	
+741	Aš juos atšaukiau.	
+742	Nesiartink prie šios ligoninės!	
+743	Tik tada, kai mano tėvas bus saugomas.	
+744	Filai, įkišk jį už grotų!	
+745	Vaikis švarus, kapitone.	
+746	Jis karo didvyris.	
+747	Jis niekada...	
+748	Sakiau, pasodink jį!	
+749	Kiek tau Turkas moka?	
+750	Palaikykit jį.	
+751	Pastatykit jį.	
+752	Pastatykit jį tiesiai.	
+753	Aš Korleonės advokatas.	
+754	Šie vyrai nusamdyti saugoti Vitą Korleonę.	
+755	Jie turi leidimą šaunamiesiems ginklams.	
+756	Jei jūs jį trukdysite, ryte turėsite pasirodyti teisėjui ir nurodyti jam priežastį.	
+757	Paleiskit jį.	
+758	Kas per tie nauji veidai?	
+759	Dabar mums jų reikės.	
+760	Po to ligoninės nuotykio, Sonis pašėlo.	
+761	Mes nudėjome Bruną Tatalją šįryt.	
+762	Jėzau Kristau.	
+763	Čia visai kaip tvirtovė.	
+764	Tommasuccio!	
+765	Ei... 100 vyrų gatvėj 24 valandas per parą.	
+766	Jei tas Turkas iškiš bent vieną savo subinės plaukelį - jis lavonas.	
+767	Maiklai, leisk į tave pažiūrėt.	
+768	Tu gražuolis, gražuolis.	
+769	Tu nuostabus.	
+770	Turkas nori pasikalbėti!	
+771	Įsivaizduojat, koks to kalės vaiko įžūlumas.	
+772	Jis nori susitikt šiandien.	
+773	Ką jis sakė?	
+774	Ką jis sakė...	
+775	Jis nori, kad mes nusiųstume Maiklą išgirsti pasiūlymą.	
+776	Jis sako, kad pasiūlymas per geras atsisakyti.	
+777	O Brunas Tatalja?	
+778	Tai pasiūlymo dalis.	
+779	Jis tai sulygina su tuo, ką jie padarė Tėvui.	
+780	Reikėtų jį išklausyti.	
+781	Daugiau ne!	
+782	Ne šįkart, Consigliori.	
+783	Daugiau jokių susitikimų, diskusijų, ar Soloco triukų.	
+784	Aš noriu Soloco, arba rengiamės karui...	
+785	Kitos šeimos...	
+786	Tegul tada duoda man Solocą!	
+787	Tai biznio, o ne asmeniniai reikalai!	
+788	Jie pašovė mano tėvą....	
+789	Netgi tai buvo biznio, o ne asmeniniai reikalai.	
+790	Tada biznis turės nukentėti.	
+791	Padaryk man paslaugą.	
+792	Daugiau jokių patarimų, kaip susitarti.	
+793	Tik padėk man laimėti.	
+794	Sužinojau apie kapitoną Maklaskį, kuris sulaužė Maiklui žandikaulį.	
+795	Jis tikrai dirba Solocui, ir už nemažus pinigus.	
+796	Maklaskis sutiko būti Turko asmens sargybiniu.	
+797	Tad, kai Solocas taip saugomas, jis nepažeidžiamas.	
+798	Dar niekas nėra užvertęs Niujorko policijos kapitono.	
+799	Visos šeimos tave persekios.	
+800	Korleonių šeima būtų atstumtoji.	
+801	Netgi senio politiniai sargai išsislapstytų.	
+802	Padaryk man paslaugą.	
+803	Įsidėmėk tai.	
+804	Gerai, mes lauksim.	
+805	Mes negalim laukti.	
+806	Mes negalim laukti.	
+807	Nesvarbu, ką sako Solocas, jis vis tiek nužudys tėtušį.	
+808	Ir jis tai gerai žino.	
+809	Mes turim nudėti Solocą.	
+810	Maikis teisus.	
+811	Ar galiu tavęs kai ko paklausti?	
+812	O kaip Maklaskis?	
+813	Ką darysime su šituo faru?	
+814	Jie nori su manim susitikt, ar ne?	
+815	Ten būsiu aš, Maklaskis ir Solocas.	
+816	Paskirkim susitikimą.	
+817	Tegul mūsų informatoriai išsiaiškina, kur bus rengiamas susitikimas.	
+818	Reikalaukime viešos vietos.	
+819	Baro, restorano.	
+820	Kokios nors vietos, kur būtų žmonių, kur jausčiaus saugus.	
+821	Jie mane apieškos prieš susitikimą, teisingai?	
+822	Tad negaliu su savim turėti ginklo.	
+823	Bet jei Klemensa surastų būdą padėti ten ginklą... tada juos abu nudėčiau.	
+824	Prašmatnaus koledžo berniuk.	
+825	Nenorėjai veltis į šeimos reikalus?	
+826	Dabar tu nori nudėti policijos kapitoną, nes jis tau trenkė?	
+827	Čia tau ne kaip armijoj!	
+828	Turi stovėt arti jų ir apsitaškyt savo kostiumą jų smegenimis.	
+829	Tu visa tai labai suasmenini.	
+830	Tomai, čia biznis, o jis viską suasmenina.	
+831	Kas pasakė, kad aš negaliu nudėti faro?	
+832	Maiki...	
+833	Aš kalbu apie farą, kuris įsivėlęs į narkotikus, apie nesąžiningą farą.	
+834	Apie farą, kuris įsivėlęs į reketą ir visą kitą mėšlą.	
+835	Nuostabi istorija.	
+836	Mums dirba žmonės iš žiniasklaidos, ar ne?	
+837	Jiems galbūt patiktų ši istorija.	
+838	Galbūt.	
+839	Aš nesuasmeninu, Soni.	
+840	Čia vien tik biznis.	
+841	Ginklas švarus.	
+842	Neįmanoma susekti, tad nesijaudink dėl antspaudų.	
+843	Priklijavau specialią juostelę ant gaiduko ir rankenos.	
+844	Išbandyk.	
+845	Ar gaidukas per daug įtemptas?	
+846	Mano ausys!	
+847	Padariau jį garsų, kad atbaidytų visokius didžiakiaušius nekaltus pašalinius.	
+848	Tu juos abu nušovei.	
+849	Ką darai paskui?	
+850	Atsisėdu ir pabaigiu valgyti.	
+851	Nekvailiok.	
+852	Nuleisk ranką prie šono ir tegul pistoletas išslysta.	
+853	Visi vis dar manys, kad tu jį dar turi.	
+854	Jie į tave spoksos, tad išeik greitai, bet nebėk.	
+855	Nežiūrėk niekam į akis, bet tai pat nenusisuk.	
+856	Jie bus pridėję į kelnes, tad dėl nieko nesijaudink.	
+857	Su tavim viskas bus gerai.	
+858	Tu išvyksi atostogų, niekas nežinos, kur, o mes gausim pipirų.	
+859	Kaip manai, kaip blogai bus?	
+860	Pakankamai sumautai blogai.	
+861	Visos kitos šeimos tikriausiai stos prieš mus.	
+862	Tai turi nutikti kas penkerius, dešimt metų.	
+863	Taip nuleidžiamas nesveikas kraujas.	
+864	Praėjo dešimt metų nuo paskutinio.	
+865	Reikia juos sustabdyti jau pradžioje.	
+866	Kaip jie turėjo sustabdyti Hitlerį Miunchene, neleisti jam išsisukti nenubaustam.	
+867	[NO TRANSLATION]	missing translation
+868	Žinai, Maiklai, mes tavim didžiavomės.	
+869	Buvai didvyris.	
+870	Tavo tėvas taip pat didžiavosi.	
+871	Nieko.	
+872	Nė užuominos.	
+873	Visiškai nieko.	
+874	Net Soloco žmonės nežino, kur viskas vyks.	
+875	Kiek mes dar turim laiko?	
+876	Jie tave paims prie Džeko Dempsio baro maždaug po pusantros valandos.	
+877	Galėtumėm prisegti uodegą prie jų.	
+878	Solocas atsikratytų mūsų uodegos.	
+879	Kaip tarpininkas?	
+880	Jis žaidžia kortomis su mano vyrais.	
+881	Jis patenkintas.	
+882	Jie leidžia jam laimėti.	
+883	Per pavojinga.	
+884	Gal reikėtų viską atšaukti?	
+885	Tarpininkas žais kortomis, kol Maiklas saugiai negrįš.	
+886	Jis galėtų visus iššaudyti, kas tik bus automobilyje.	
+887	Jie to tikėsis.	
+888	Soloco gali net nebūti automobilyje, Soni!	
+889	Atsiliepsiu.	
+890	Luiso restoranas Bronkse.	
+891	Ar tai patikima?	
+892	Tai mano žmogus iš Maklaskio nuovados.	
+893	Policijos kapitonas dirba 24 valandas per parą.	
+894	Jis ten bus nuo aštuntos iki dešimtos.	
+895	Ar kas žino tą landynę?	
+896	Žinoma. Aš žinau.	
+897	Tai mums idealiai tinka.	
+898	Maža šeimos vietelė, geras maistas.	
+899	Galima pasikalbėti netrukdant.	
+900	Idealu.	
+901	Ten yra toks senamadiškas tualetas.	
+902	Žinot, bakelis ir virvutė.	
+903	Galėtumėm už jo priklijuoti ginklą.	
+904	Gerai.	
+905	Maiklai, eini į restoraną, valgai, truputį pasikalbat, atsipalaiduoji.	
+906	Juos atpalaiduoji.	
+907	Tada eini nusilengvinti.	
+908	Ne, geriau paprašai jo leidimo nueiti.	
+909	Tada grįžti šaudydamas.	
+910	Kiekvienam po du šūvius į galvą.	
+911	Noriu, kad kas nors patikimas paslėptų ginklą.	
+912	Nenoriu, kad jis išeitų iš tualeto, laikydamas rankoje savo kotą.	
+913	Ginklas bus ten.	
+914	Tu jį nuveši ir paimsi.	
+915	Judinamės.	
+916	Ar jis tau minėjo išmesti ginklą?	
+917	Aha, milijoną kartų.	
+918	Nepamiršk.	
+919	Kiekvienam po du šūvius į galvą, kai tik išeisi.	
+920	Kaip manai, kiek laiko turės praeiti, kol galėsiu grįžti.	
+921	Mažiausiai metai.	
+922	Aš nuraminsiu mamą, kad išvykai neatsisveikinęs su ja ir...	
+923	perduosiu žinutę merginai, kai laikas bus tinkamas.	
+924	Rūpinkis.	
+925	Rūpinkis, Maiklai.	
+926	Malonu, kad atėjai.	
+927	Tikiuosi mes galėsime susitarti.	
+928	Ne taip norėjau, kad viskas susiklostytų.	
+929	Tai niekad neturėjo nutikti.	
+930	Aš noriu viską išsiaiškinti.	
+931	Nenoriu, kad mano tėvui vėl trukdytų.	
+932	Prisiekiu savo vaikais, kad taip nebus, Maiklai.	
+933	Tik nebūk prieš mane nusistatęs, kai kalbėsimės.	
+934	Tikiuosi tu nesi toks karštakošis kaip Sonis.	
+935	Neįmanoma su juo kalbėtis apie verslą.	
+936	Jis geras vaikis.	
+937	Apgailestauju dėl praeitos nakties, Maiklai.	
+938	Turiu tave apieškoti, tad apsisuk.	
+939	Ant kelių į mane.	
+940	Tikriausiai aš darausi per senas savo darbui.	
+941	Per niurzgus.	
+942	Negaliu pakęsti apsunkinimų.	
+943	Žinai, kaip būna.	
+944	Jis švarus.	
+945	Vykstam į Džersį?	
+946	Galbūt.	
+947	Gerai dirbi, Lu.	
+948	Kaip restorano maistas?	
+949	Išmėginkit veršieną.	
+950	Ji čia geriausia mieste?	
+951	Būtinai.	
+952	Aš kalbėsiu su Maikiu itališkai.	
+953	Pirmyn.	
+954	Ko aš noriu...	
+955	Kas man svarbiausia... tai, kad turėčiau garantiją.	
+956	Daugiau jokių pasikėsinimų į mano tėvo gyvybę.	
+957	Kokias garantijas aš tau galiu duoti?	
+958	Aš pats persekiojamas.	
+959	Praleidau savo progą.	
+960	Tu per gerai apie mane galvoji, vaike.	
+961	Aš ne toks jau protingas.	
+962	Ko aš noriu, tai paliaubų.	
+963	Man reikia nueiti į tualetą.	
+964	Ar galima?	
+965	Kai reikia, tai reikia.	
+966	[NO TRANSLATION]	missing translation
+967	Jis švarus.	
+968	Neužtruk.	
+969	Esu apieškojęs tūkstantį piemenų.	
+970	Gerai, dabar tu perimk.	
+971	Myliu, tave seneli.	
+972	Atleisk, tėtuk.	
+973	Jis dar tavęs nepažįsta.	
+974	Ei, dički.	
+975	Duok jį seneliui.	
+976	Gerai.	
+977	Tikiuosi tu greit pasveiksi, seneli, ir tikiuosi tave greit pamatysiu.	
+978	Tavo anūkas Frenkas.	
+979	Eik su motina.	
+980	Nuvesk jį į apačią.	
+981	Eik, Karlai, tu taip pat.	
+982	Eik.	
+983	Kas tau yra, Karlai?	
+984	Užsičiaupk ir denk stalą.	
+985	Nuo tada, kai buvo nušautas Maklaskis, policija kovoja su mūsų operacijomis.	
+986	Taip pat kitos šeimos.	
+987	Buvo daug nesveiko kraujo.	
+988	Jie davė mums, tad mes davėme atgal.	
+989	Per mūsų laikraščio kontaktus mes galėjome pateikti medžiagosapie Maklaskio ryšį su Solocu narkotikuose.	
+990	Tad reikalai tvarkosi.	
+991	Aš nusiunčiau Fredį į Las Vegasą su Dono Francesko iš Los Andželo apsauga.	
+992	Tegul jis pasiilsi.	
+993	Ruošiuos mokytis kazino verslo.	
+994	Kur Maiklas?	
+995	Tai Maiklas nužudė Solocą.	
+996	Bet jis saugus.	
+997	Mes jau veikiame, kad jis galėtų grįžti.	
+998	Ar jau išsiaiškinai, kur tas senas šiknius Tatalja slepiasi?	
+999	Man jo reikia dabar.	
+1000	Soni, reikalai gerėja.	
+1001	Jei vaikysies Tatalją, visas pragaras užvirs.	
+1002	Tėtušis gali vesti derybas.	
+1003	Jis pirmiausia turi atsigauti.	
+1004	Aš nuspręsiu...	
+1005	Karas daug kainuoja.	
+1006	Mes negalime imtis verslo.	
+1007	Taip pat negali ir jie.	
+1008	Nesirūpink dėl to!	
+1009	Mes negalime lesti sau aklavietės.	
+1010	Daugiau jokių aklaviečių.	
+1011	Aš nudėsiu tą niekšą.	
+1012	Tu įgauni gerą reputaciją!	
+1013	Daryk kaip sakau!	
+1014	Jei aš turėčiau karo meto sicilietį consigliori, nebūčiau toks!	
+1015	Tėtis turėjo Genco.	
+1016	O ką aš turiu?	
+1017	Atleisk.	
+1018	Ne tai turėjau galvoje.	
+1019	Mama paruošė nedidelius pietus.	
+1020	Šiandien sekmadienis.	
+1021	Juodukai gerai leidžia laiką su mūsų politiniais bankais Harleme.	
+1022	Vairuoja naujus Kadilakus, moka 50 procentų lažyboms.	
+1023	Ir visa tai todėl, kad jie pradėjo užkalinėti nemažas babkes.	
+1024	Tėtušis niekad nekalbėdavo apie reikalus prie stalo.	
+1025	Užsičiaupk, Kone...	
+1026	Niekad neliepk jai užsičiaupti.	
+1027	Nesikišk.	
+1028	Norėčiau su tavim po pietų šnektelti.	
+1029	Galėčiau šeimai daugiau nuveikti...	
+1030	Mes neaptarinėjame reikalų prie stalo.	
+1031	Leiskite pareikšti Jums pagarbą, Donai Tomazinai.	
+1032	Kodėl jūs taip toli nuo namų?	
+1033	Žinai, kad aš atsakingas tavo tėvui už tavo gyvybę.	
+1034	Asmens sargybiniai čia.	
+1035	Vis tiek pavojinga...	
+1036	Mes girdėjome iš Santino iš Niujorko...	
+1037	Tavo priešai žino, kad tu čia.	
+1038	Ar Santinas sakė, kada aš galėsiu grįžti?	
+1039	Dar ne.	
+1040	Nėra nei kalbų.	
+1041	Kur tu dabar eini?	
+1042	[NO TRANSLATION]	missing translation
+1043	Paimk mano mašiną.	
+1044	Aš noriu eiti pėsčiomis.	
+1045	Būk atsargus.	
+1046	Kur dingo visi vyrai?	
+1047	Jie visi mirė nuo vendetų .	
+1048	Čia yra visų mirusiųjų vardai.	
+1049	Ei, ei paimkit mane į Ameriką, kareiviai!	
+1050	Ei, ei paimkit mane į Ameriką, kareiviai!	
+1051	Klarkai Geiblai!	
+1052	Amerika!	
+1053	Paimkit mane į Ameriką, kareiviai!	
+1054	Klarkai Geiblai, Rita Heyvort!	
+1055	Mama mia, koks grožis.	
+1056	Man atrodo tave trenkė perkūnas.	
+1057	Sicilijoj moterys daug pavojingesnės už šautuvus.	
+1058	Ar gera buvo medžioklė?	
+1059	Ar pažįstat visas čionykštes merginas?	
+1060	Matėm tikrų gražuolių.	
+1061	Viena jų nutrenkė mūsų draugą, visai kaip perkūnas.	
+1062	Ji suviliotų net patį velnią.	
+1063	Taip, gerai supranti.	
+1064	[NO TRANSLATION]	missing translation
+1065	Tokie plaukai, tokia burna!	
+1066	Čionykštės merginos yra gražios... bet skaisčios.	
+1067	Ta mergina turėjo purpurinę suknelę...	
+1068	Ir purpurinį kaspiną savo plaukuose.	
+1069	Ji atrodo labiau graikė, nei italė.	
+1070	Ar jūs ją pažįstat?	
+1071	Tokios merginos nėra šiame mietelyje.	
+1072	O, Dieve, suprantu!	
+1073	Kas ne taip?	
+1074	Eime.	
+1075	Tai jo dukra.	
+1076	Pasakyk jam, kad čia ateitų.	
+1077	Pakviesk jį.	
+1078	Fabricijau, tu versi.	
+1079	Aš atsiprašau, jei jus įžeidžiau.	
+1080	Aš svetimšalis šioje šalyje.	
+1081	Aš nenorėjau nepagarbiai elgtis su jumis ar jūsų dukra.	
+1082	Aš amerikietis, slepiuosi Sicilijoje.	
+1083	Aš esu Maiklas Korleonė.	
+1084	Yra žmonių, kurie daug užmokėtų už šią informaciją.	
+1085	Bet tada jūsų dukra prarastų tėvą... užuot gautų vyrą.	
+1086	Aš noriu pasimatyti su jūsų dukra.	
+1087	Su jūsų sutikimu, ir jūsų šeimos priežiūroje.	
+1088	Su visa pagarba.	
+1089	Ateikit į mano namus sekmadienio rytą.	
+1090	Mano vardas Vitelis.	
+1091	Koks jos vardas?	
+1092	Kitąkart tave tave apsvaiginsiu.	
+1093	Mesk tą knygą.	
+1094	Reikia paimti mano seserį.	
+1095	Kas nutiko?	
+1096	Kas nutiko?	
+1097	Tai mano kaltė!	
+1098	Kur jis?	
+1099	Tai mano kaltė.	
+1100	Aš jam trenkiau.	
+1101	Muštynes su juo pradėjau aš.	
+1102	Aš jam trenkiau, tad jis man davė atgal...	
+1103	Aš tik iškviesiu gydytoją, kad tave apžiūrėtų.	
+1104	Soni, prašau nieko nedaryk.	
+1105	Kas su tavimi darosi?	
+1106	Ką man daryti?	
+1107	Padaryti tą vaiką našlaičiu, kol jis dar negimė?	
+1108	Jūs suskretėliai ispanai vis dar statot už Jankius?	
+1109	Liepkit jiem nustoti veikti.	
+1110	Mes praradom pakankamai pinigų praeitą savaitę.	
+1111	Ateik čia, ateik čia!	
+1112	Jei dar paliesi mano seserį, aš tave užmušiu.	
+1113	Ei!	
+1114	Mes tavęs nesitikėjom, Kei.	
+1115	Reikėjo paskambinti.	
+1116	Taip.	
+1117	Bandžiau rašyti ir skambinti.	
+1118	Noriu susisiekti su Maiklu.	
+1119	Niekas nežino, kur jis yra.	
+1120	Viską, ką mes žinome, tai, kad jam viskas gerai.	
+1121	Kas čia buvo?	
+1122	Nelaimingas atsitikimas, bet niekas nenukentėjo.	
+1123	Tomai, ar perduosi šį laišką Maiklui?	
+1124	Prašau?	
+1125	Jei tai paimčiau, teismas galėtų įrodyti, kad aš žinau, kur jis randasi.	
+1126	<Pakentėk./> Jis su tavimi susisieks.	missing English
+1127	Aš paleidau savo taksi, tad ar galiu išsikviesti kitą?	
+1128	Eime.	
+1129	Apgailestauju.	
+1130	Klausau.	
+1131	Ar Karlas yra?	
+1132	Kas čia?	
+1133	Karlo draugė.	
+1134	Pasakyk jam, kad šįvakar aš negaliu susitikt.	
+1135	Kalė!	
+1136	Pietūs ant stalo.	
+1137	Aš ne alkanas.	
+1138	Valgis atauš.	
+1139	Suvalgysiu vėliau.	
+1140	Tu man sakei pagaminti pietus.	
+1141	[NO TRANSLATION]	missing translation
+1142	[NO TRANSLATION]	missing translation
+1143	Ji turi baisų liežuvį, ta italiūkštė.	
+1144	Pirmyn, sudaužyk viską, tu išlepusi italiūkšte.	
+1145	Sudaužyk!	
+1146	Kodėl neparsivedi savo šliundros namo pietums?	
+1147	Gal ir parsivesiu.	
+1148	Sutvarkyk!	
+1149	Kurgi ne, jau tvarkau!	
+1150	Tu stora, išlepinta mergiščia.	
+1151	Sutvarkyk!	
+1152	Sutvarkyk!	
+1153	Sutvarkyk!	
+1154	Aš pasakiau, sutvarkyk!	
+1155	Sutvarkyk!	
+1156	Sutvarkyk.	
+1157	Sutvarkyk tą mėšlą, tu...	
+1158	Tvarkyk!	
+1159	Sutvarkyk!	
+1160	Taip, užmušk mane.	
+1161	Būk žmogžudė, kaip tavo tėvas!	
+1162	Visi jūs Korleonės esat žudikai!	
+1163	Aš tavęs nekenčiu!	
+1164	Na, nužudyk mane!	
+1165	Lįsk iš ten!	
+1166	Aš tavęs nekenčiu!	
+1167	Dabar aš tave užmušiu.	
+1168	Tu, italiūkšte.	
+1169	Lįsk iš ten!	
+1170	Kone, kas nutiko?	
+1171	Aš negirdžiu tavęs.	
+1172	Kone, kalbėk garsiau.	
+1173	Kūdikis verkia.	
+1174	Santinai, aš nesuprantu.	
+1175	Nežinau.	
+1176	Taip, Kone.	
+1177	Palauk ten.	
+1178	Ne, tik palauk ten.	
+1179	Kalės vaikas.	
+1180	Kalės vaikas!	
+1181	Kas nutiko?	
+1182	Atverkit tuos sumautus vartus!	
+1183	Judink subinę.	
+1184	Soni!	
+1185	Soni.	
+1186	Traukis!	
+1187	Sekit jį, pirmyn!	
+1188	Kalės vaikas.	
+1189	Judinkis!	
+1190	Duok man lašelį.	
+1191	Mano žmona verkia viršuje.	
+1192	Girdėjau mašinas važiuojant prie namo.	
+1193	Mano consigliori, pasakyk savo Donui, ką, atrodo, visi žino.	
+1194	Aš mamai nieko nesakiau.	
+1195	Aš ruošiausi ateiti pakelti tave ir pasakyti.	
+1196	Bet tau reikėjo pirma išgerti.	
+1197	Taip.	
+1198	Na, jau atsigėrei.	
+1199	Jie nušovė Sonį ant pervažos.	
+1200	Jis nebegyvas.	
+1201	Nenoriu jokio tyrimo.	
+1202	Nenoriu jokių keršto veiksmų.	
+1203	Noriu, kad tu surengtum susitikimą... su penkių šeimų galvomis.	
+1204	Šis karas jau baigėsi.	
+1205	Paskambink Bonaserai.	
+1206	Man dabar jo reikia.	
+1207	Čia Tomas Heigenas.	
+1208	Aš skambinu Vito Korleonės prašymu.	
+1209	Jūs skolingas savo Donui paslaugą.	
+1210	Jis nė neabejoja, kad jūs jums ją padarysite.	
+1211	Jis bus jūsų laidojimo namuose po valandos.	
+1212	Būkit ten su juo pasisveikinti.	
+1213	Na, mano drauge, ar jau pasirengęs padaryti man paslaugą.	
+1214	Taip.	
+1215	Ką norite, kad padaryčiau?	
+1216	Aš noriu, kad tu panaudotum visas savo galias ir įgūdžius.	
+1217	Nenoriu, kad jo motina jį tokį pamatytų.	
+1218	Pažiūrėk, kaip jie subjaurojo mano berniuką.	
+1219	Saugiau tave mokyti anglų kalbos.	
+1220	Aš moku angliškai...	
+1221	Pirmadienis, antradienis, trečiadienis, ketvirtadienis, penktadienis, šeštadienis, sekmadienis.	
+1222	Sveikas, Donai Tomazinai.	
+1223	Kaip reikalai Palerme?	
+1224	Maiklas moko mane vairuoti...	
+1225	žiūrėkit, aš jums parodysiu.	
+1226	Kaip reikalai Palerme?	
+1227	Jauni žmonės daugiau nieko negerbia...	
+1228	laikai keičiasi į blogą.	
+1229	Ši vieta pasidarė tau per pavojinga.	
+1230	Noriu, kad tu persikeltum į vilą prie Sirakusos... tuojau pat.	
+1231	Kas nutiko?	
+1232	Blogos naujienos iš Amerikos.	
+1233	Tavo brolis, Santinas, jie nužudė jį.	
+1234	Važiuojam...	
+1235	tu pažadėjai.	
+1236	[NO TRANSLATION]	missing translation
+1237	Atvaryk mašiną.	
+1238	Ar pats vairuosit, bose?	
+1239	Ar jūsų žmona važiuos kartu?	
+1240	Ne, nuvežk ją į jos tėvo namus kol bus saugu.	
+1241	Gerai, kaip pasakysite.	
+1242	Kalai, kur Apolonija?	
+1243	Ji ruošiasi jus nustebinti.	
+1244	Ji nori vairuoti.	
+1245	Ji bus gera amerikietė žmona.	
+1246	Palaukit, sukrausiu bagažą.	
+1247	Fabricijau!	
+1248	Kur tu eini?	
+1249	Palauk!	
+1250	Aš privažiuosiu.	
+1251	Ne, Apolonija!	
+1252	Donai Barzini, aš noriu jums padėkoti, kad padėjote man suorganizuoti šį susirinkimą, ir taip pat kitoms penkioms šeimoms iš Niujorko ir Niudžersio.	
+1253	Karmainui Kuneo iš Bronkso, ir iš Bruklino... Filipas Tatalja.	
+1254	Ir iš Steiten Ailendo mes turime su mumis Viktorą Stračį.	
+1255	Ir kiti kolegos, kurie atvyko iš taip toli, kaip Kalifornijos ir Kanzas Sičio ir kitų mūsų šalies vietų.	
+1256	Dėkoju jums.	
+1257	Kaip buvo prieita prie tokių dalykų?	
+1258	Nežinau.	
+1259	Viskas buvo taip nevykusiai, taip nereikalinga.	
+1260	Tatalja prarado sūnų, ir aš praradau sūnų.	
+1261	Mes atsiskaitėm.	
+1262	Ir jei Tatalja sutinka, tada aš noriu, kad reikalai klostytųsi kaip anksčiau.	
+1263	Mes dėkingi Donui Korleonei, kad sušaukė šį susitikimą.	
+1264	Mes visi jį pažįstam, kaip jo pasaulio žmogų.	
+1265	Kaip kuklų žmogų, kuris paklauso protingo patarimo.	
+1266	Taip, Donai Barzini.	
+1267	Jis per daug kuklus.	
+1268	Jis turi visus teisėjus ir politikus savo kišenėje.	
+1269	Jis atsisakė jais dalintis.	
+1270	Kada aš atsakiau prašymui?	
+1271	Visi jūs mane pažįstate.	
+1272	Kada, išskyrus vieną kartą, aš atsakiau?	
+1273	Ir kodėl?	
+1274	Todėl, kad manau, kad tas narkotikų biznis mus ateityje pražudys.	
+1275	Tai ne lošimai ar viskis, ar net moterys, kurių dauguma žmonių pageidauja, bet yra draudžiami bažnyčios.	
+1276	Net policija, kuri mums praeityje padėjo lošimuose ir kitose veiklose nori nuo mūsų nusisukti, kai kalba eina apie narkotikus.	
+1277	Aš tuo tikėjau tada... ir tuo tikiu dabar.	
+1278	Laikai pasikeitė.	
+1279	Tai jau nebeseni laikai, kai galėjome daryti, ką tik panorėję.	
+1280	Atsisakymas - tai nedraugiškas aktas.	
+1281	Jei Donas Korleonė turi visus teisėjus ir politikus, tai turi jais dalintis arba leisti kitiems jais naudotis.	
+1282	Jis privalo mums leisti semti vandenį iš šulinio.	
+1283	Žinoma, jis gali pateikti sąskaitą už paslaugas.	
+1284	Juk mes ne komunistai.	
+1285	Aš taip pat netikiu narkotikais.	
+1286	Daug metų papildomai mokėjau savo žmonėms, kad jie nelįstų į šį biznį.	
+1287	Kažkas jiems sako Aš turiu miltelių.	
+1288	Jei įdėsi 3-4,000 dolerių, mes išpardavę galime gauti 50,000.	
+1289	Jie negali atsispirti.	
+1290	Aš noriu tai kontroliuoti kaip biznį, laikyti tai garbingu verslu.	
+1291	Nenoriu miltelių prie mokyklų, ir nenoriu, kad jie būtų pardavinėjami vaikams.	
+1292	Tai infamita.	
+1293	Mano mieste aš žiūrėsiu, kad juos pardavinėtų tik juodaodžiams.	
+1294	Jie gyvuliai, tad tegul jie žudo savo sielas.	
+1295	Aš tikėjausi, kad mes galėsime ateiti čia ir kartu prieiti išvadą.	
+1296	Ir aš noriu padaryti, bet ką, kas tik būtina prieiti taikingą sprendimą.	
+1297	Mes pritariame.	
+1298	Narkotikų prekyba yra leidžiama, bet tik kontroliuojama.	
+1299	Donas Korleonė mums suteiks apsaugą rytuose, ir ten bus taika.	
+1300	Bet aš noriu gauti griežtą garantiją iš Korleonės.	
+1301	Praeis kiek laiko, jo padėtis sustiprės, gal jis imsis kokių keršto veiksmų prieš atskirus žmones.	
+1302	Mes visi esame protingi vyrai.	
+1303	Mes neturime duoti garantijų.	
+1304	Tu kalbi apie kerštą.	
+1305	Ar kerštas tau sugrąžins tavo sūnų?	
+1306	Ar mano berniuką man?	
+1307	Aš pamiršau savo sūnaus kerštą.	
+1308	Bet aš turiu ir savanaudiškų paskatų.	
+1309	Mano jauniausias sūnus buvo priverstas palikti šią šalį... dėl to Soloco biznio.	
+1310	Dabar aš turiu patvarkyti, kad jis saugiai grįžtų namo.	
+1311	Panaikinti visi tie klaidingi kaltinimai.	
+1312	Bet aš prietaringas žmogus.	
+1313	Jeigu jį ištiks koks nelaimingas atsitikimas, jei jį nušaus koks policininkas, arba jei jis pasikars savo kalėjimo kameroje, ar jei jį nutrenks žaibas, tada aš turėsiu kaltinti, ką nors iš šiame kambaryje sėdinčių vyrų.	
+1314	Ir to aš neatleisčiau.	
+1315	Bet, nekalbant apie tai... leiskit man pasakyti, kad aš prisiekiu... savo vaikaičių sielomis, kad aš jokiu būdu nesulaužysiu taikos, kurią mes šiandien pasiekėme.	
+1316	Ar man reikalauti, kad Tataljos narkotikų tarpininkai turėtų švarius dokumentus?	
+1317	Paminėk.	
+1318	Nereikalauk.	
+1319	Barzinis sužinos net jei ir jam nepasakysime.	
+1320	Turi galvoj Tatalją?	
+1321	Tatalja yra šiknius.	
+1322	Jis niekada nebūtų nukovęs Santino.	
+1323	Bet iki šios dienos aš nežinojau, kad dėl to kaltas Barzinis.	
+1324	Eime, Nensi.	
+1325	Visi laikykitės kartu.	
+1326	Brajanai.	
+1327	Puiku, viskas gerai.	
+1328	Kiek laiko tu jau grįžęs?	
+1329	Jau metus.	
+1330	Manau, dar ilgiau.	
+1331	Malonu tave matyti, Kei.	
+1332	Dabar aš dirbu savo tėvui, Kei.	
+1333	Jis sirgo.	
+1334	Labai sirgo.	
+1335	Bet tu ne toks, kaip jis.	
+1336	Tu man sakei, kad tu netapsi toks, kaip tavo tėvas.	
+1337	Mano tėvas nesiskiria nuo kito galingo žmogaus.	
+1338	Žmogaus, kuris atsakingas už kitus žmones.	
+1339	Kaip senatorius arba prezidentas.	
+1340	Kaip naiviai tu kalbi.	
+1341	Kodėl?	
+1342	Jie nežudo žmonių.	
+1343	Kas naivus, Kei?	
+1344	Mano tėvo valdymo laikas baigėsi.	
+1345	Net jis tai žino.	
+1346	Po penkerių metų Korleonių šeima bus visiškai teisėta.	
+1347	Patikėk manimi.	
+1348	Tai viskas, ką aš tau galiu pasakyti apie verslą.	
+1349	Kei...	
+1350	Maiklai, kodėl tu čia atėjai?	
+1351	Kodėl?	
+1352	Ko tu nori iš manęs po viso šito laiko?	
+1353	Aš rašiau ir skambinau.	
+1354	Aš atėjau, nes man tavęs reikia.	
+1355	Tu man rūpi.	
+1356	Prašau, liaukis, Maiklai.	
+1357	Nes...	
+1358	aš noriu, kad tu tekėtum už manęs.	
+1359	Jau per vėlu.	
+1360	Prašau, Kei...	
+1361	Aš padarysiu viską, ko tik paprašysi, kad tik atlyginčiau, kas mums nutiko.	
+1362	Nes tai svarbu, Kei.	
+1363	Nes svarbiausia, kad... mes turim vienas kitą.	
+1364	Kad mes turim mūsų gyvenimą.	
+1365	Kad mes turim vaikus.	
+1366	Savo vaikus.	
+1367	Kei, man tavęs reikia.	
+1368	Ir aš tave myliu.	
+1369	Barzinio žmonės užėmė mano teritoriją ir mes nieko nedarome.	
+1370	Greitai aš nebeturėsiu vietos pasikabinti skrybėlės.	
+1371	Būk kantrus.	
+1372	Aš neprašau pagalbos.	
+1373	Tik nusiimk antrankius.	
+1374	Būk kantrus.	
+1375	Mes turime saugotis.	
+1376	Leisk paimti naujokų.	
+1377	Ne.	
+1378	Barzinis gautų pasiteisinimą kariauti.	
+1379	Maiklai, tu klysti.	
+1380	Donai Korleone...	
+1381	Tu kartą sakei, kad vieną dieną Tesijas ir aš galėtume sukurti savo šeimą.	
+1382	Iki šiandien aš niekad nebūčiau apie tai pagalvojęs.	
+1383	Privalau paprašyti jūsų leidimo.	
+1384	Dabar šeimos galva yra Maiklas.	
+1385	Jei jis tau duos leidimą, tada gausi mano palaiminimą.	
+1386	Po to, kai mes persikelsime į Nevadą, tu galėsi palikti Korleonių šeimą ir eiti savo keliu.	
+1387	Kiek tai užtruks?	
+1388	Šešis mėnesius.	
+1389	Dovanok man, bet, kai tu išvyksi, mes su Pitu atsidursime po Barzinio padu.	
+1390	Aš nekenčiu to Barzinio.	
+1391	Po šešių mėnesių nebebus vietos, kur statyti.	
+1392	Ar tu tiki mano nuomone?	
+1393	Taip.	
+1394	Ar tu man ištikimas?	
+1395	Visada, Krikštatėvi.	
+1396	Tada būk Maiklo draugas.	
+1397	Daryk, kaip jis sakys.	
+1398	Vykstančios derybos išspręs jūsų problemas ir atsakys į jūsų klausimus.	
+1399	Tai viskas, ką jums dabar galiu pasakyti.	
+1400	Karlai, tu užaugai Nevadoje.	
+1401	Kai mes ten nusikelsime, tu būsi mano dešinioji ranka.	
+1402	Tomas Heigenas daugiau jau nebe consigliori.	
+1403	Jis bus mūsų advokatas Vegase.	
+1404	Tenekrenta ant Tomo joks šešėlis. Aš taip noriu.	
+1405	Jei man kada reikės pagalbos, kas geresnis consigliori negu mano tėvas?	
+1406	Tai viskas.	
+1407	Ačiū tau, tėtuk.	
+1408	Aš džiaugiuosi dėl tavęs, Karlai.	
+1409	Maiklai...	
+1410	Kodėl mane nušalini?	
+1411	Tu ne karo meto consigliori, Tomai.	
+1412	Kai mes persikelsime, reikalai gali paaštrėti.	
+1413	Tomai.	
+1414	Aš patariau Maiklui.	
+1415	Aš niekad nemaniau, kad tu blogas consigliori.	
+1416	Aš maniau, kad - amžiną jam atilsį - Santinas buvo blogas Donas.	
+1417	Aš visiškai pasitikiu Maiklu, kaip ir tavimi.	
+1418	Bet yra tam tikrų priežasčių, kodėl tu negali veltis į tai, kas bus.	
+1419	Gal aš galėčiau padėti?	
+1420	Tu nušalintas, Tomai.	
+1421	Negaliu patikėti, kad taip atrodo tavo veidas.	
+1422	Jis tikrai atrodo nuostabiai.	
+1423	Tas gydytojas gerai padirbėjo.	
+1424	Ar Kei tave įkalbėjo?	
+1425	Ei, ei, ei.	
+1426	Palik juos čia.	
+1427	Jis pavargęs ir nori atsigauti.	
+1428	Leisk man atidaryti duris, gerai?	
+1429	Labas, Maiklai!	
+1430	Sveikas atvykęs į Las Vegasą!	
+1431	Viskas tau, vaiki!	
+1432	Čia jo sumanymas.	
+1433	Tavo brolis Fredis.	
+1434	Merginos?	
+1435	Aš tuoj grįšiu.	
+1436	Užlaikyk jas.	
+1437	Ko tik panorėsi, vaike, bet ko.	
+1438	Kas tos merginos?	
+1439	Čia jau gali pats išsiaiškinti.	
+1440	Atsikratyk jų, Fredai.	
+1441	Ei, Maiklai...	
+1442	Aš čia su reikalais.	
+1443	Atsikratyk jų.	
+1444	Aš pavargęs.	
+1445	Taip pat atsikratyk grupės.	
+1446	Ei, kelkitės.	
+1447	Kelkitės.	
+1448	Eikit.	
+1449	Ei, viskas baigta.	
+1450	Ei, Andželo.	
+1451	Ei, judinkitės.	
+1452	Nešdinkitės!	
+1453	Eikš, brangute.	
+1454	Nežinau, kas juo yra, Džoni.	
+1455	Apgailestauju.	
+1456	Nežinau.	
+1457	Jis pavargęs.	
+1458	Kas nutiko Mou Grynui?	
+1459	Jis turėjo reikalų.	
+1460	Jis sakė jam paskambinti, kai prasidės vakarėlis.	
+1461	Tada paskambink jam.	
+1462	Džoni, kaip laikaisi?	
+1463	Malonu tave matyti, Maiklai.	
+1464	Mes tavimi didžiuojamės.	
+1465	Ačiū.	
+1466	Prisėsk, aš noriu su tavim pasikalbėti.	
+1467	Donas taip pat didžiuojasi.	
+1468	Na, aš jam viską skolingas.	
+1469	Jis žino, koks tu dėkingas jam esi.	
+1470	Todėl jis norėtų tavęs paprašyti paslaugos.	
+1471	Maiklai, kuo aš galiu padėti?	
+1472	Mes galvojame mesti alyvų aliejaus verslą ir įsikurti čia.	
+1473	Mou parduos mums savo kazino ir viešbučio akcijas, tad mes jį visą valdysime.	
+1474	Tomai!	
+1475	Ar tu tikras?	
+1476	Mou dievina verslą.	
+1477	Jis niekad neužsiminė apie pardavimą.	
+1478	Aš duosiu jam pasiūlymą, kurio jis negalės atsisakyti.	
+1479	Matai, Džoni...	
+1480	Mes manom, kad estrada privilios lošėjus į kazino.	
+1481	Mes tikimės, kad tu pasirašysi sutartį pasirodyti čia penkis kartus per metus.	
+1482	Galbūt ir įtikinsi kai kuriuos savo draugus iš kino padaryti tą patį.	
+1483	Mes pasitikim tavimi.	
+1484	Žinoma, Maiklai.	
+1485	Padarysiu bet ką savo krikštatėviui.	
+1486	Puiku.	
+1487	Ei, Maiklai!	
+1488	Sveiki, bičiuliai.	
+1489	Visi čia.	
+1490	Fredi, Tomai.	
+1491	Malonu tave matyti.	
+1492	Kaip gyveni, Mou?	
+1493	Nieko netrūksta?	
+1494	Specialiai paruoštas maistas, geriausios šokėjos ir geras vardas.	
+1495	Duokite jiems visiems žetonų, kad galėtų palošti kazino.	
+1496	Ar mano vardas pakankamai geras išpirkti tavo akcijas?	
+1497	Išpirkti mano akcijas?	
+1498	Kazino, viešbutis.	
+1499	Korleonių šeima nori nupirkti jūsų akcijas.	
+1500	Korleonių šeima nori nupirkti mano akcijas?	
+1501	Ne, aš jus nupirksiu.	
+1502	Jūsų kazino nepelningas.	
+1503	Mes galėtume verstis geriau.	
+1504	Tu manai, kad aš jau leidžiuosi nuo kalno?	
+1505	Tau nesiseka.	
+1506	Jūs italiūkščiai mane juokinate.	
+1507	Aš priėmiau Fredį, kai tau buvo blogi laikai, o dabar tu nori mane išstumti.	
+1508	Tu tai padarei, nes mes finansavom tavo kazino ir Molinarių šeima garantavo jo saugumą.	
+1509	Kalbėkimės apie verslą.	
+1510	Taip.	
+1511	Pirmiausia, tau neišdegs.	
+1512	Tu jau nebe toks .	
+1513	Krikštatėvis yra ligotas.	
+1514	Jus veja iš Niujorko kitos šeimos.	
+1515	Manai, kad gali ateiti į mano viešbutį ir viską perimti?	
+1516	Kalbėjau su Barziniu.	
+1517	Galiu su juo susitarti ir dar pasilikti savo viešbutį.	
+1518	Ar tai dėl to tu viešai skaldei antausius mano broliui?	
+1519	Tai buvo niekis, Maiklai.	
+1520	Mou nieko blogo negalvojo.	
+1521	Taip, jis kartais pasikarščiuoja, bet mes esam geri draugai.	
+1522	Turiu paspartinti darbą.	
+1523	Reikia kartais išspardyti subines.	
+1524	Tarp mūsų buvo nesutarimų, tad man reikėjo jam šį tą paaiškinti.	
+1525	Tau reikėjo šį tą paaiškinti mano broliui?	
+1526	Jis barškino visas padavėjas!	
+1527	Žaidėjai negaudavo išgerti.	
+1528	Kas su tavim darosi?	
+1529	Aš rytoj išskrendu į Niujorką.	
+1530	Pagalvok apie kainą.	
+1531	Kalės vaikas!	
+1532	Aš - Mou Grynas!	
+1533	Kai man dar nestovėjo, buvau užmušęs daugiau žmonių, nei tu per visą gyvenimą.	
+1534	Palauk minutėlę, Mou.	
+1535	Turiu sumanymą.	
+1536	Tomai, tu esi consigliori.	
+1537	Pasikalbėk su Donu...	
+1538	Minutėlę.	
+1539	Donas pusiau pasitraukęs ir dabar Maiklas vadovauja šeimos verslui.	
+1540	Jei turi ką pasakyti, sakyk Maiklui.	
+1541	Maiklai, nedrįsk vykti į Las Vegasą ir taip kalbėti su tokiu žmogum, kaip Mou Grynas.	
+1542	Fredai...	
+1543	Tu mano vyresnysis brolis ir aš tave myliu.	
+1544	Tačiau daugiau niekad nesišliek prie tų, kurie eina prieš šeimą.	
+1545	[NO TRANSLATION]	missing translation
+1546	Turiu pamatyti tėvą ir jo žmones, tad papietaukit be manęs.	
+1547	Šį savaitgalį mes išeisime.	
+1548	Nueisime į miestą pažiūrėti reginio ir papietauti.	
+1549	Tavo sesuo nori tavęs kai ko paprašyti.	
+1550	Tegul.	
+1551	Ji bijo.	
+1552	Jie nori, kad tu būtum jų sūnaus krikštatėvis.	
+1553	Pažiūrėsim.	
+1554	Ar būsi?	
+1555	Leisk man apie tai pagalvoti.	
+1556	Eime.	
+1557	Barzinis pirmiausia puls tave.	
+1558	Jis surengs susitikimą su kuo nors tu visiškai pasitiki.	
+1559	Kad garantuotų tavo saugumą.	
+1560	Ir tame susitikime tu būsi nužudytas.	
+1561	Man dabar, nei kada nors seniau, patinka gerti vyną.	
+1562	Šiaip ar taip, geriu daugiau.	
+1563	Tai tau į naudą, tėtuk.	
+1564	Nežinau.	
+1565	Ar tu laimingas su savo žmona ir vaikais?	
+1566	Labai laimingas.	
+1567	Puiku.	
+1568	Tikiuosi neprieštarauji, kad aš kišuosi į Barzinio reikalus?	
+1569	Ne, nė kiek.	
+1570	Tai senas įprotis.	
+1571	Aš praleidau savo gyvenimą bandydamas nebūti nerūpestingu.	
+1572	Moterys ir vaikai gali būti nerūpestingi, tik ne vyrai.	
+1573	Kaip tavo berniukas?	
+1574	Jam viskas gerai.	
+1575	Su kiekviena diena jis panašėja į tave.	
+1576	Jis protingesnis, nei aš.	
+1577	Jam treji, o jis jau moka skaityti komiksus.	
+1578	Skaityti komiksus.	
+1579	Noriu, kad lieptum telefonininkui patikrinti visus įeinančius ir išeinančius skambučius.	
+1580	Jau padariau tai.	
+1581	Pasirūpinau tuo, tėtuk.	
+1582	Teisingai.	
+1583	Pamiršau.	
+1584	Kas nutiko?	
+1585	Kas tau neduoda ramybės?	
+1586	Aš susitvarkysiu.	
+1587	Jei sakiau, kad susitvarkysiu, tai susitvarkysiu.	
+1588	Žinojau, kad Santinas turės viską perimti.	
+1589	Ir Fredas...	
+1590	Fredas buvo, na....	
+1591	Bet aš niekad to nenorėjau tau.	
+1592	Aš dirbau visą gyvenimą.	
+1593	Nesigailiu, kad rūpinaus savo šeima.	
+1594	Ir aš atsisakiau būti kvailiu, tampomu už virvučių visų tų pramogų verslo ryklių.	
+1595	Aš nesigailiu.	
+1596	Tai mano gyvenimas, bet aš maniau, kad... kad, kai ateis tavo laikas, tu būsi tas, kuris laikys tas virveles.	
+1597	Senatorius Korleonė.	
+1598	Gubernatorius Korleonė.	
+1599	Kažkas panašaus.	
+1600	Kitas pezzo da novanta.	
+1601	Na...	
+1602	Tik buvo nepakankamai laiko, Maiklai.	
+1603	Nepakankamai laiko.	
+1604	Dar suspėsim, tėtuk.	
+1605	Dar suspėsim.	
+1606	O dabar paklausyk. Kas tik pas tave ateis dėl Barzinio susitikimo, tas bus išdavikas.	
+1607	Nepamiršk to.	
+1608	Prašau, ar galiu palaikyti?	
+1609	Ar galiu jas palaistyti?	
+1610	Taip, pirmyn.	
+1611	Čia, čia.	
+1612	Atsargiai.	
+1613	Tu laistai.	
+1614	Antoni.	
+1615	Prieik, prieik.	
+1616	Užteks.	
+1617	Padėkim jį čionai.	
+1618	Aš tau kai ką parodysiu.	
+1619	Prieik.	
+1620	Stovėk.	
+1621	Duok man apelsiną.	
+1622	Čia naujas triukas.	
+1623	Bėk ten.	
+1624	Bėk.	
+1625	Kur tu?	
+1626	Maiklai, ar galima minutėlei?	
+1627	Barzinis nori surengti susitikimą.	
+1628	Jis sako, kad mes galime sutvarkyti visas problemas.	
+1629	Tu su juo kalbėjai?	
+1630	Taip.	
+1631	Galiu užtikrinti saugumą.	
+1632	Savo teritorijoj.	
+1633	Gerai?	
+1634	Gerai.	
+1635	Ar žinai, kaip jie tave paims?	
+1636	Jie rengia susitikimą Brukline.	
+1637	Tesijo žemėj.	
+1638	Kur aš būsiu saugus.	
+1639	Aš visad maniau, kad tai bus Klemensa, ne Tesijas.	
+1640	Tai gudrus ėjimas.	
+1641	Tesijas visad buvo gudresnis.	
+1642	Bet aš palauksiu.	
+1643	Po krikštynų.	
+1644	Nusprendžiau būti Konės vaiko krikštatėviu.	
+1645	O tada aš susitiksiu su Barziniu ir Tatalja.	
+1646	Su visomis penkių šeimų galvomis.	
+1647	Maiklai, ar tu tiki Dievu, Tėvu, Dangaus ir Žemės Sutvėrėju?	
+1648	Tikiu.	
+1649	Ar tu tiki Jėzumi Kristumi, vienatiniu Jo Sūnumi, mūsų Viešpačiu?	
+1650	Tikiu.	
+1651	Ar tu tiki Šventąja Dvasia, Šventąja Katalikų Bažnyčia?	
+1652	Tikiu.	
+1653	Maiklai Franci Rici, ar tu išsižadi Šėtono?	
+1654	Išsižadu.	
+1655	Ir visų jo darbų?	
+1656	Išsižadu jų.	
+1657	O, Dieve!	
+1658	Ir visos jo pompastikos?	
+1659	Išsižadu.	
+1660	Maiklai Rici, ar būsi pakrikštytas?	
+1661	Būsiu.	
+1662	Maiklai Rici, eik su taika, ir lai Viešpats būna su tavimi.	
+1663	[NO TRANSLATION]	missing translation
+1664	Kei!	
+1665	Pabučiuok savo krikštatėvį.	
+1666	Negaliu vykti į Vegasą.	
+1667	Kai kas atvyko.	
+1668	Visi turi išvykti be mūsų.	
+1669	Maiklai, tai mūsų pirmosios atostogos!	
+1670	Kone, prašau.	
+1671	Grįžk į namus, lauk mano skambučio.	
+1672	Tai svarbu.	
+1673	Aš būsiu tik kelias dienas.	
+1674	Mes jau važiuojame į Brukliną.	
+1675	Tikiuosi Maiklas gerai susitars.	
+1676	Esu tuo tikras.	
+1677	Selai, Tomai, bosas sakė, kad jis vyks atskira mašina, tad jūs važiuokite.	
+1678	Tai sugadina mano susitarimus.	
+1679	Taip jis jau sakė.	
+1680	Aš taip pat negaliu važiuoti, Selai.	
+1681	Pasakyk Maiklui, kad tai buvo tik biznis.	
+1682	Man jis visada patiko.	
+1683	Jis tai supranta.	
+1684	Atleisk, Selai.	
+1685	Tomai, ar gali nukabinti mane nuo kabliuko?	
+1686	Vardan senų laikų?	
+1687	Negaliu to padaryti, Selai.	
+1688	Tu turi atsakyti už Santiną, Karlai.	
+1689	Maiklai, tu viską ne taip supratai.	
+1690	Tu įdavei Sonį Barziniui.	
+1691	Sužaisdamas tą komediją su mano seserim.	
+1692	Manei galįs apgauti Korleonę?	
+1693	Aš nekaltas.	
+1694	Prisiekiu vaikais.	
+1695	Maldauju, nedaryk to.	
+1696	Sėskis.	
+1697	Nedaryk to man, prašau.	
+1698	Barzinis nebegyvas.	
+1699	Taip pat Filipas Tatalja.	
+1700	Mou Grynas.	
+1701	Stračis.	
+1702	Kuneo.	
+1703	Šiandien aš sutvarkau visus šeimos reikalus. Tad nesakyk, kad esi nekaltas, Karlai.	
+1704	Prisipažink, ką padarei.	
+1705	Įpilkit jam išgert.	
+1706	Nagi.	
+1707	Nebijok, Karlai.	
+1708	Nejaugi manai, kad aš padaryčiau savo seserį našle?	
+1709	Aš tavo sūnaus krikštatėvis, Karlai.	
+1710	Nagi, gerk, gerk.	
+1711	Daugiau tu nebedirbsi šeimos verslui.	
+1712	Tokia tavo bausmė.	
+1713	Viskas baigta.	
+1714	Įsodinsim tave į lėktuvą, skrendantį į Vegasą.	
+1715	Tomai.	
+1716	Noriu, kad čia pasiliktum.	
+1717	Supratai?	
+1718	Tik nesakyk man, kad tu nekaltas.	
+1719	Tai įžeidžia mano intelektą.	
+1720	Daro mane labai piktą.	
+1721	Kas į tave kreipėsi?	
+1722	Tatalja ar Barzinis?	
+1723	Tai buvo Barzinis.	
+1724	Gerai.	
+1725	Lauke yra automobilis. Jis tave nuveš į oro uostą.	
+1726	Aš paskambinsiu tavo žmonai ir pasakysiu, kuriuo reisu tu skrendi.	
+1727	Maiklai...	
+1728	Dink man iš akių.	
+1729	Sveikas, Karlai.	
+1730	Aš tau noriu pasakyti...	
+1731	Mama, prašau!	
+1732	Maiklai!	
+1733	Kas yra?	
+1734	Kur jis?	
+1735	Maiklai, tu bjaurus niekše!	
+1736	Tu nužudei mano vyrą.	
+1737	Tu palaukei, kol tėtis mirė, tada niekas negalėjo tavęs sustabdyti.	
+1738	Tu jį kaltinai dėl Sonio mirties.	
+1739	Visi jį kaltino.	
+1740	Bet tu niekad nepagalvojai apie mane!	
+1741	Ką dabar mums daryti?	
+1742	Kone.	
+1743	Kodėl, tavo manymu, jis laikė Karlą Long Byče?	
+1744	Visąlaik jis žinojo, kad jis jį nužudys.	
+1745	O tu ėjai į mūsų vaiko krikštatėvius.	
+1746	Tu bjaurus kietaširdis niekšas!	
+1747	Nori sužinoti, kiek žmonių jis nužudė, įskaitant Karlą?	
+1748	Pasiskaityk laikraščius!	
+1749	Tai tavo vyras, tai tavo vyras!	
+1750	Ne!	
+1751	Ne, ne...	
+1752	Nuvesk ją į viršų.	
+1753	Iškviesk jai daktarą.	
+1754	Ji isterijoj.	
+1755	Isterijoj.	
+1756	Maiklai, ar tai tiesa?	
+1757	Neklausinėk manęs apie verslą, Kei.	
+1758	Ar tai tiesa?	
+1759	Neklausinėk manęs apie verslą.	
+1760	Gana.	
+1761	Gerai.	
+1762	Tik šįkart.	
+1763	Tik šįkart aš tau leisiu paklausti manęs apie mano reikalus.	
+1764	Ar tai tiesa?	
+1765	Tiesa?	
+1766	Ne.	
+1767	Man atrodo mums abiem reikia išgerti.	
+1768	Eime.	
+1769	Donai Korleone.	

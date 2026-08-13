@@ -1,0 +1,1885 @@
+1	Nasleduje zastávka Broad Street.	
+2	Ďalšou zastávkou je Broad Street.	
+3	Hore.	
+4	Tadiaľto.	
+5	Nevyšiel tadiaľto?	
+6	[NO TRANSLATION]	missing translation
+7	Tu hore nie je.	
+8	Vráť sa dolů.	
+9	Prepáčte.	
+10	Prepáčte.	
+11	Choďte a zaparkujte za rohom.	
+12	Návšteva.	
+13	Môžem si ísť po zuby?	
+14	Plukovník, otočte sa.	
+15	Sadnite si na posteľ.	
+16	Poďte.	
+17	Mám ich...	
+18	Zuby mám na umývadle.	
+19	Pozrite sa na mňa.	
+20	Sme agenti Federálneho úradu pre vyšetrovanie.	
+21	Pozrite sa na mňa.	
+22	Hovorím s vami.	
+23	Dostali sme informácie o tom, že ste zapojený do špionážnych aktivít.	
+24	Buď s nami budete spolupracovať, alebo vás zatkneme.	
+25	Rozumiete, plukovník?	
+26	Nie, ani nie.	
+27	Prečo ma voláte plukovník?	
+28	Oblečte sa.	
+29	Musíme prehľadať váš byt.	
+30	Mohol by som si vyčistiť paletu?	
+31	Inak sa mi znehodnotia farby.	
+32	Rovno za vami.	
+33	Handričku mám.	
+34	Ďakujem.	
+35	Začnite to tu prehľadávať.	
+36	Ďakujem.	
+37	Prehľadajte matrac, posteľ, podlahu, kreslo.	
+38	Môžete to položiť do popolníka tam na parapete?	
+39	Dobre prezrite ten stôl.	
+40	Prehľadajte stôl.	
+41	Nechcel by som, aby sa to znehodnotilo.	
+42	Nehovorte môj človek.	
+43	Nie je to môj človek.	
+44	Áno, je to váš človek.	
+45	O kom to hovoríme?	
+46	Hovoríme o mužovi, ktorý je poistený mojím klientom.	
+47	Takže z neho nerobte môjho človeka.	
+48	Dobre, v poriadku.	
+49	Ide o to, človek poistený vaším klientom nepopiera, že by sa niektorá z týchto poistných udalostí nestala.	
+50	[NO TRANSLATION]	missing translation
+51	Udalostí?	
+52	Áno, týchto päť udalostí.	
+53	Počkať, počkať.	
+54	Nie päť udalostí.	
+55	Jedna udalosť.	
+56	Ide jasne o päť udalostí.	
+57	Prepáčte, nie je mi to jasné.	
+58	Päť udalostí?	
+59	Vysvetlite mi to.	
+60	Je to evidentné.	
+61	Tak mi teda povedzte, čo sa stalo.	
+62	Povedzte mi ten príbeh tak, aby tých päť udalostí dávalo zmysel.	
+63	Dobre, iste.	
+64	Váš človek...	
+65	Nie môj človek.	
+66	Poistený mojím klientom.	
+67	Muž poistený vaším klientom stratil na diaľnici číslo 19 kontrolu nad vozidlom a zrazil mojich piatich ľudí, tých piatich, ktorých zastupujem, lebo odmietate uplatniť ich nárok.	
+68	Myslíte to, že môj klient, poisťovňa, odmieta uplatniť ich nárok?	
+69	Pán Donovan, je nám obom jasné, kto je kto v tejto situácii.	
+70	Až na to, že môj klient nárok uplatňuje.	
+71	Skutočne, pán Bates.	
+72	Každý legitímny nárok do výšky plnenia, čo je v prípade tejto poistky 100000 dolárov.	
+73	A tu ide o jeden nárok.	
+74	Podľa vášho opisu: Zrazil piatich mojich ľudí.	
+75	Človek poistený mojím klientom mal jednu nehodu.	
+76	Jednu, jednu.	
+77	Stratil kontrolu nad vozidlom a zrazil päť motocyklistov.	
+78	Z ich pohľadu sa stalo päť udalostí.	
+79	Pozrite, Bob.	
+80	Môžem?	
+81	Bob?	
+82	Jim.	
+83	Ak zhodím všetky kolky, stane sa jedna vec.	
+84	Nestane sa 10 vecí.	
+85	Jim, moji ľudia nie sú kolky, hoci ich váš človek tak berie.	
+86	[NO TRANSLATION]	missing translation
+87	Dovoľte mi dohovoriť.	
+88	Dovoľte mi dohovoriť.	
+89	Ak máte dom poistený na 100000 dolárov a odnesie vám ho tornádo... Je to stále jeden dom.	
+90	Nevzal každý jeden kus nábytku a nezničil ho pri samostatnej nehode.	
+91	Ak by platilo to, čo hovoríte... Potom by našu zodpovednosť nelimitovalo nikdy nič, a to by bol koniec poisťovníctva.	
+92	A potom, Bob, by nikto nebol v bezpečí.	
+93	Watters, Cowan a Donovan.	
+94	Kam presmerujem váš hovor?	
+95	Dobré ráno, pán Donovan.	
+96	Dobré ráno, Alison.	
+97	Presunula som vám schôdzku s Prudential z 9:00, pane.	
+98	Prečo?	
+99	Požiadal som ju o to.	
+100	Je všetko v poriadku, Tom?	
+101	Nechaj si veci u Alison	
+102	a poď ďalej.	
+103	Stalo sa niečo dôležité.	
+104	Niekto za nami prišiel.	
+105	Natalie ti prinesie kávu.	
+106	Nescafé, smotana, dve kocky cukru?	
+107	Presne,	
+108	vďaka.	
+109	Lynn!	
+110	Jim!	
+111	Rád vás znovu vidím.	
+112	Ako sa má rodina?	
+113	Dobre,	
+114	vďaka.	
+115	A čo Annie?	
+116	Má chuť vraždiť.	
+117	Sú u nás svokrovci.	
+118	Ak to urobí, bude mať dobrého právnika.	
+119	Čo sa deje?	
+120	Vec sa má tak.	
+121	Chceme, aby ste obhajovali zadržaného sovietskeho špiona.	
+122	Tu je obžaloba.	
+123	[NO TRANSLATION]	missing translation
+124	No teda, neviem, či to chcem vziať.	
+125	Obvinený nepozná žiadnych právnikov.	
+126	Federálny súd to podsunul nám.	
+127	Hlasovala súdna rada.	
+128	Vybrali jednomyseľne vás.	
+129	Bolo to pre nás dôležité...	
+130	Dôležité pre našu krajinu, Jim, aby sa tomuto mužovi dostalo spravodlivého súdu.	
+131	Je to skúška pre americké súdnictvo.	
+132	Keď to poviete takto, je mi cťou, že ma o to požiadali.	
+133	Ale Lynn, som poistný právnik,	
+134	trestné právo som nerobil roky.	
+135	Je to ako jazdiť na bicykli, nie?	
+136	Zviditeľnili ste sa v Norimbergu.	
+137	Bol som na strane obžaloby.	
+138	O to nejde.	
+139	V trestnom práve nie ste nováčik.	
+140	Jim, pozrite sa na vec.	
+141	Verejnosť toho muža preklína.	
+142	A bude aj mňa.	
+143	To áno, skôr tými nevzdelanejšími.	
+144	Ale presne pre to sa to musí urobiť, a to kompetentným spôsobom.	
+145	Nemôže to vyzerať tak, že naše súdnictvo odsudzuje bez spravodlivého súdu.	
+146	Povedzme, ale aké sú dôkazy?	
+147	Dosť presvedčivé.	
+148	Skvelé,	
+149	skvelé.	
+150	Všetci ma budú nenávidieť, ale aspoň prehrám.	
+151	Čo myslíte, Tom?	
+152	Firma tým utrpí.	
+153	Mám tu prácu.	
+154	Podľa mňa je to vlastenecká povinnosť.	
+155	Dôležitá misia.	
+156	Povedal som Lynnovi, firma nemôže povedať nie a pre vás bude tiež ťažké to odmietnuť.	
+157	Myslím, že toho sviniara musíte obhajovať.	
+158	Takže ideme na to?	
+159	Na čo?	
+160	Obhajovať Abela, toho sovietskeho špiona.	
+161	Možno.	
+162	Musím sa ešte...	
+163	Odkiaľ to vieš?	
+164	Čo to hodili na vývesku?	
+165	[NO TRANSLATION]	missing translation
+166	Nie, hovoril som s Richardom Earlom...	
+167	Ak do toho pôjdem, budem potrebovať tvoju pomoc.	
+168	Môžeš dnes večer pracovať?	
+169	Mám dohodnutú večeru, pane.	
+170	Je utorok, však?	
+171	Áno, som úplne voľný.	
+172	Ďakujem, pane.	
+173	Ale som poctený.	
+174	Súdna rada chce mňa, lebo chce ukázať, že aj špion dostane schopného advokáta.	
+175	Možno je to ten typ cti, bez ktorej by sme sa zaobišli.	
+176	Zlatko, čo robíš doma?	
+177	Dostala som košom.	
+178	To je ale ničomník.	
+179	Kto je ten hlupák?	
+180	Radšej nepoviem.	
+181	Sadni si,	
+182	akurát sme začali.	
+183	Ľudia sú vydesení.	
+184	Budujú si protibombové kryty na ochranu práve pred takými ľuďmi.	
+185	Keď idem do obchodu, ľudia nakupujú plechovkové jedlo a draslíkové pilulky.	
+186	Je to o tom mužovi a o tom, čo predstavuje.	
+187	Je hrozbou pre nás všetkých.	
+188	Zradca.	
+189	Kto je zradca?	
+190	Rosenbergovci boli zradcovia.	
+191	To boli kto?	
+192	Poskytli Rusom atómové tajomstvá.	
+193	Boli to Američania,	
+194	ktorí zradili svoju krajinu.	
+195	Takže nemôžeš obviňovať Abela zo zrady.	
+196	Nie je Američan.	
+197	Počúvaš sa?	
+198	Už teraz ho obhajuješ.	
+199	Skúšaš to na mňa.	
+200	Vravel si, že o tom len rozmýšľaš.	
+201	Rozmýšľam o tom a je to veľmi ťažké.	
+202	Každý si zaslúži obhajobu.	
+203	Na každom človeku záleží.	
+204	Jim a čo si zaslúžime my?	
+205	Vieš, ako sa na nás budú ľudia pozerať?	
+206	Na rodinu muža, ktorý sa snaží oslobodiť zradcu?	
+207	Nie je zradca, Mary.	
+208	Áno, áno.	
+209	Roger, otvor!	
+210	[NO TRANSLATION]	missing translation
+211	Prečo musím robiť všetko ja?	
+212	[NO TRANSLATION]	missing translation
+213	Počkaj, kým sa pomodlíme.	
+214	Som hladná!	
+215	Je to najneobľúbenejší človek v tejto krajine... A ty chceš zaujať druhé miesto!	
+216	A ja som na treťom.	
+217	Carol, len si sa stretávala s nesprávnym chlapcom.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, neargumentuj tým, keď sa ani nehádame.	
+220	Si proti nemu, ja som za neho?	
+221	Ja nie som za neho.	
+222	Nie som za Rusov, ktorí nás špehujú.	
+223	V právnom procese má právo na obhajobu, preto sa ten proces nazýva právny.	
+224	Nechcel som vás vyrušovať pri večeri.	
+225	[NO TRANSLATION]	missing translation
+226	Ahoj, Doug.	
+227	To nič.	
+228	Ahoj, Doug.	
+229	Jim len tak táral do vetra.	
+230	Netáral som.	
+231	Sadni si, Doug, pridaj sa k nám.	
+232	Dnes máme na večeru sekanú.	
+233	Prišiel si pomôcť Jimovi rozmýšľať o tom, či vezme ten prípad?	
+234	Veď to berieme!	
+235	Vzrušujúce, však?	
+236	Pane, ďakujeme Ti za Tvoje dary, ktoré požívame vďaka štedrosti Krista, nášho Pána, amen.	forced duplication
+237	Pane, ďakujeme Ti za Tvoje dary, ktoré požívame vďaka štedrosti Krista, nášho Pána,	forced duplication
+238	amen.	
+239	Dobré ráno, pane.	
+240	Jim Donovan.	
+241	Moje poverovacie listiny.	
+242	Som partnerom vo Watters, Cowan a Donovan.	
+243	Do newyorskej súdnej rady ma prijali v roku 1941.	
+244	Ste obvinený z 3 zločinov a 19 prečinov.	
+245	Sprisahanie z odovzdávania vojenských a atómových tajomstiev USA Sovietom, sprisahanie za účelom zhromažďovania tajomstiev a nezaradenie sa do registra zahraničných agentov.	
+246	Registruje sa veľa zahraničných agentov?	
+247	Ak sa môžem spýtať, pane... Od vášho zatknutia ste boli kde?	
+248	Neviem to s istotou.	
+249	Neviete?	
+250	Odviezli ma na letisko, nasadili do lietadla, vysadili z neho na nejakom horúcom mieste.	forced duplication
+251	Odviezli ma na letisko, nasadili do lietadla, vysadili z neho na nejakom horúcom mieste.	forced duplication
+252	Aj tu je horúco.	
+253	Na horúcom a veľmi vlhkom mieste.	
+254	Posadili ma do nejakej miestnosti.	
+255	Bili vás?	
+256	Nie.	
+257	Rozprávali sa so mnou.	
+258	Dávali mi ponuku.	
+259	Čo tým myslíte?	
+260	Ponuku pracovať pre vašu vládu.	
+261	Vraj ak by som spolupracoval, neboli by proti mne vznesené žiadne ďalšie obvinenia.	
+262	A dostal by som peniaze.	
+263	[NO TRANSLATION]	missing translation
+264	Odmietli ste to?	
+265	Ako vidíte.	
+266	Toto vaše rozhodnutie, samozrejme, neschvaľujem.	
+267	Cítim morálnu povinnosť trvať na tom, aby ste spolupracovali s americkou vládou.	
+268	Odmietol som to.	
+269	Odkážte svojim priateľom v CIA, že som to myslel vážne.	
+270	Nie, nie.	
+271	[NO TRANSLATION]	missing translation
+272	Ja nepracujem pre agentúru.	
+273	Nepracujem pre vládu.	
+274	Prišiel som vám ponúknuť služby ako právny zástupca.	
+275	Ak ich prijmete, budem pracovať pre vás.	
+276	Ak vás prijmem?	
+277	Ste dobrý v tom, čo robíte?	
+278	[NO TRANSLATION]	missing translation
+279	Dosť dobrý.	
+280	Už ste zastupovali veľa obvinených špionov?	
+281	Nie, ešte nie.	
+282	Bude to pre oboch prvýkrát.	
+283	Áno.	
+284	Dobre.	
+285	Dobre?	
+286	Prijímate to?	
+287	Áno, prijímam.	
+288	Dobre, dobre.	
+289	Začneme týmto.	
+290	Ak ste pevne odhodlaný nespolupracovať s americkou vládou...	
+291	To som.	
+292	Dobre.	
+293	Nerozprávajte sa o našom prípade s nikým, z vlády či mimo nej.	
+294	Okrem mňa, pokiaľ mi veríte.	
+295	Mojím mandátom je vám slúžiť.	
+296	Nikoho iného takého už nemáte.	
+297	Úprimne, všetci ostatní by vás najradšej videli na elektrickom kresle.	
+298	Dobre.	
+299	Zdá sa, že vás to nevykoľajilo.	
+300	Pomohlo by to?	
+301	[NO TRANSLATION]	missing translation
+302	Chcel by som niečo, s čím by sa dalo maľovať.	
+303	To nebude možné.	
+304	Ceruzku, kúsok papiera.	
+305	Cigarety.	
+306	Prosím.	
+307	Pán Donovan, aj vy máte mužov, ako som ja, ktorí robia to isté pre vašu krajinu.	
+308	Keby ich chytili, som si istý, že by ste chceli, aby s nimi zaobchádzali dobre.	
+309	Vaše meno?	
+310	Francis Gary Powers.	
+311	Hodnosť, vojsko?	
+312	Nadporučík, Vzdušné sily Spojených štátov.	
+313	Máte nejaké prepojenie so Sovietskym zväzom?	
+314	Žartujete?	
+315	Odpovedajte na otázku, poručík.	
+316	Áno, nie, alebo čo najjednoduchšie.	
+317	Máte nejaké prepojenie so Sovietskym zväzom?	
+318	Dopekla, nie.	
+319	Viete, prečo ste tu?	
+320	[NO TRANSLATION]	missing translation
+321	To má byť nie?	
+322	Áno,	
+323	myslím...	
+324	Nie, len nie.	
+325	Nemám ani šajnu, prečo som tu.	
+326	Pozerajte dopredu, poručík.	
+327	Áno, pane.	
+328	Ako ti to tam šlo, Gary?	
+329	Celkom dobre.	
+330	Myslím, že som uviedol správne meno.	
+331	Tak to si bol asi lepší ako Shinn.	
+332	Kto vyhráva?	
+333	Asi ja.	
+334	[NO TRANSLATION]	missing translation
+335	Rozdaj aj pre mňa.	
+336	Takže tieto sú asi moje.	
+337	Vravel som, aby ste s ním nehrali.	
+338	Fajn, piloti, vec sa má takto.	
+339	Boli ste vybraní na misiu, o ktorej nepoviete nikomu mimo tejto miestnosti.	
+340	Nikomu.	
+341	Je mi jedno, komu veríte.	
+342	Žene, matke, milenke.	
+343	Dobrému Pánovi pri večernej modlitbe.	
+344	Nesmiete nikomu povedať nič o tom, čo vám teraz poviem.	
+345	Každý z vás pilotov dosiahol určitú kvalifikáciu.	
+346	Vysokú bezpečnostnú previerku,	
+347	výnimočné hodnotenie pilota pri prekročení požadovaných nalietaných hodín v jednosedadlovom lietadle.	
+348	Sme vo vojne.	
+349	V tejto vojne nateraz nejde o ozbrojených mužov,	
+350	ale o informácie.	
+351	Budete zbierať informácie.	
+352	Budete získavať spravodajské informácie o nepriateľovi.	
+353	Vami získané informácie nám poskytnú výhodu v termonukleárnej výmene so Sovietskym zväzom.	
+354	Alebo jej môžu zabrániť.	
+355	Pre verejnosť, vašu ženu alebo matku, či milenku alebo dobrého Pána tam hore... Vaša misia neexistuje.	
+356	Ak neexistuje, vy neexistujete.	
+357	Nemôžu vás zostreliť.	
+358	Nemôžete sa nechať chytiť.	
+359	Teraz pracujete pre CIA.	
+360	Počul som, Jim, že váš človek hovorí s podozrivým prízvukom.	
+361	Hovorí tak stále?	
+362	Som si celkom istý, že tak jednoducho rozpráva.	
+363	Má ruské meno, ale britský pas.	
+364	Pochybujem, že je pravý.	
+365	Takže, Jim, kde sme?	
+366	Vidím, že...	
+367	Áno, sudca... Myslím, že tri týždne v tomto prípade stačiť nebudú.	
+368	[NO TRANSLATION]	missing translation
+369	Máme obrovské množstvo dôkazov.	
+370	Chcete to posunúť?	
+371	Šesť týždňov.	
+372	Som na to len ja s mojím kolegom.	
+373	Jim, myslíte to vážne?	
+374	Pane?	
+375	To myslíte vážne?	
+376	[NO TRANSLATION]	missing translation
+377	Áno, naozaj.	
+378	V návrhu vidíte...	
+379	Jim, tento muž je sovietsky špion.	
+380	Údajne.	
+381	No tak, pán obhajca!	
+382	Ctihodnosť.	
+383	Iste, uznávame vás.	
+384	Všetci vás uznávame, že ste vzali takú nevďačnú úlohu.	
+385	Tento muž musí mať riadny súdny proces.	
+386	Ale nič si nenahovárajme.	
+387	Bude mať schopnú obhajobu.	
+388	A ak Boh dá, bude odsúdený.	
+389	No tak, pán obhajca.	
+390	Nebudeme sa s tým zahrávať.	
+391	Nie v mojej súdnej sieni.	
+392	Máme stanovený dátum a súd sa bude konať vtedy.	
+393	Taxi!	
+394	Taxi!	
+395	Vidím, že ti svieti svetlo,	
+396	ty darebák!	
+397	Neviem sa dočkať, kedy budem späť na Manhattane.	
+398	Svietilo mu svetlo, však?	
+399	Darebák.	
+400	Naproti ich pohodliu.	
+401	Ich status sa nezmenil.	
+402	Prepáčte, pane.	
+403	Prepáčte.	
+404	Pardon.	
+405	[NO TRANSLATION]	missing translation
+406	Pán Donovan.	
+407	Čo je?	
+408	Čo?	
+409	CIA.	
+410	Áno.	
+411	Len sa chcem porozprávať.	
+412	Ako ide váš prípad?	
+413	Dobre.	
+414	Nemohlo by to byť lepšie.	
+415	[NO TRANSLATION]	missing translation
+416	Už váš človek prehovoril?	
+417	Prosím?	
+418	Stretli ste sa s ním.	
+419	Rozprával?	
+420	Povedal vám niečo?	
+421	K tomuto rozhovoru nedôjde.	
+422	Nie, iste že nie.	
+423	Nie, myslím to skutočne vážne.	
+424	Chcete, aby som porušil tajomstvo medzi advokátom a klientom.	
+425	No tak, pán obhajca.	
+426	Chcem, aby mi ľudia ako vy prestali hovoriť: No tak, pán obhajca.	
+427	Nepáčilo sa mi to, keď sa to dnes stalo prvýkrát.	
+428	Sudca mi to povedal dvakrát.	
+429	Čím častejšie to počujem, tým viac to neznášam.	
+430	Dobre, chápem tomu vášmu tajomstvu medzi advokátom a klientom.	
+431	Rozumiem tým vašim právnym čachrom.	
+432	Chápem, že je to vaše živobytie.	
+433	Ale hovorím s vami o niečom inom.	
+434	O bezpečnosti vašej krajiny.	
+435	Mrzí ma, ak vás to, ako som to podal, uráža.	
+436	Ale musíme vedieť, čo vám povie Abel.	
+437	Rozumiete, Donovan?	
+438	Musíme to vedieť.	
+439	Nechoďte na mňa so skautskými rečami.	
+440	My tu nemáme spísané pravidlá.	
+441	Ste agent Hoffman?	
+442	Áno.	
+443	Nemeckého pôvodu.	
+444	A čo?	
+445	Moje meno je Donovan.	
+446	Írske.	
+447	Z matkinej, aj z otcovej strany.	
+448	Ja som Ír, vy Nemec.	
+449	Ale čo z nás robí Američanov?	
+450	Jedna vec.	
+451	Jedna jediná.	
+452	Spísané pravidlá.	
+453	Voláme ich Ústava. To, že sme sa na nich dohodli, z nás robí Američanov,	
+454	tak mi nehovorte, že ich nemáme, a nekývte tak na mňa, vy darebák.	
+455	Máme sa o vás báť?	
+456	Nie, ak ma necháte robiť si svoju prácu.	
+457	Odteraz nebudete U-2 nazývať ako špionážne či prieskumné lietadlo.	
+458	Bude to artikel.	
+459	Má rozpätie 24 metrov.	
+460	Poháňa ho jeden motor Pratt and Whitney J57 P-37.	
+461	Unesie 4500 kilogramov. Pri maximálnej rýchlosti 690 kilometrov za hodinu,	
+462	čo nie je veľa, bude vaša letová výška 21000 metrov. Nič sa k vám nepriblíži.	
+463	21000 metrov?	
+464	Ide o to, aby nepriateľ ani nevedel, že tam ste.	
+465	Vyzerá trochu krehko.	
+466	Každé kilo navyše nás stojí 60 centimetrov výšky a musíme upraviť fotoaparáty.	
+467	Je to šošovka 4500 milimetrov krát tri.	
+468	Ostrý panoramatický fotoaparát je 4-krát silnejší ako ktorýkoľvek iný letecký fotoaparát, ktorý sme kedy používali.	
+469	Budete robiť veľa, veľa záberov.	
+470	Z výšky 21000 metrov dokáže artikel na jeden prelet odfotiť vyše 5000 kilometrov štvorcových.	
+471	Piloti, teraz agenta Sumnera pozorne počúvajte.	
+472	Tu je zoznam vecí, ktoré budete na misii potrebovať.	
+473	Fotoaparát značky B Revere 8 model 40 magazine, ďalší značky Keystone Capri K 25 silver.	
+474	Dutá kefka na holenie,	
+475	kompletné šifrovacie tabuľky na jedlej striebornej fólii,	
+476	špeciálna fotografická výbava.	
+477	[NO TRANSLATION]	missing translation
+478	Rozumieme.	
+479	Ďakujem.	
+480	Prepáčte, agent Bosco.	
+481	Blasco.	
+482	Pane.	
+483	Tu na zozname je ešte nejaká podsekcia.	
+484	Väčšina vecí je z jeho ateliéru, ale zvyšok z hotelovej izby, v ktorej sa zašíval.	
+485	Tam sme ho našli.	
+486	Vy ste prehľadali tú hotelovú izbu?	
+487	Áno.	
+488	Môžem vidieť povolenie?	
+489	Čo prosím?	
+490	Vysvetlite mi to.	
+491	Povolenie mali.	
+492	Povolenie mali.	
+493	Písomný zatykač na cudzinca, ale nie je tu žiadny príkaz na prehliadku pre podozrenie z kriminálnej činnosti,	
+494	takže dôkazy z tejto prehliadky by nemali byť pripustené.	
+495	O akú obranu mu ide, ctihodnosť?	
+496	Ten muž nie je...	
+497	Čo?	
+498	Volá sa Rudolf lvanovič Abel.	
+499	Je to sovietsky občan.	
+500	Nie je to Američan.	
+501	1886, Yick Wo verzus Hopkins.	
+502	Súd rozhodol, že aj cudzinci, v danej veci čínski imigranti, nemôžu byť súdení zo spáchania trestného činu bez náležitého právneho procesu vrátane cudzincov, ktorí do krajiny vstúpili nelegálne.	
+503	Ministerstvo spravodlivosti je verné v prvom rade Spojeným štátom.	
+504	Nerozumiem, ako cudzinec, ak je tu nelegálne, môže doplácať na pozbavenie práv.	
+505	Akých práv?	
+506	Američana?	
+507	Akých práv, pán obhajca?	
+508	Bojujeme o civilizáciu.	
+509	Tento ruský špion sem prišiel ohroziť náš spôsob života.	
+510	Čaká na mňa súdna sieň plná ľudí.	
+511	Choďte a sadnite si vedľa toho Rusa.	
+512	Poďme, nech to máme za sebou.	
+513	A váš návrh sa zamieta.	
+514	Sám by sa mal dodatočne pripoistiť.	
+515	Ako nám to šlo?	
+516	Vo vnútri?	
+517	[NO TRANSLATION]	missing translation
+518	Nie veľmi dobre.	
+519	Očividne nie ste americký občan.	
+520	To je pravda.	
+521	A podľa vášho šéfa nie ste ani sovietskym občanom.	
+522	Šéf nemusí mať vždy pravdu, ale stále je to šéf.	
+523	To sa nikdy neznepokojujete?	
+524	Pomohlo by to?	
+525	Všetci povstaňte.	
+526	Sľubujem vernosť zástave Spojených štátov amerických a republike, ktorú reprezentuje, jedinému Božiemu nerozlučnému národu so slobodou a spravodlivosťou pre všetkých.	
+527	Po prvé, musíte vedieť, čo sa stane, keď vybuchne atómová bomba.	
+528	Jasné svetlo, žiarivejšie než slnko.	
+529	Roztrieska celé budovy, porozbíja okná v celom meste.	
+530	Ale ak sa skrčíte a ukryjete ako Bert, budete vo väčšom bezpečí.	
+531	Existujú dva druhy útokov. S varovaním a bez varovania.	
+532	[NO TRANSLATION]	missing translation
+533	Čo sa to tu deje?	
+534	Dobre, oci, toto je fakt dôležité.	
+535	Keď začne vojna, najskôr odpoja vodu a elektrinu.	
+536	Takže by sme mali mať vaňu stále naplnenú vodou, používať sprchu vo vašej kúpeľni, umývadlo dolů, záhradnú hadicu vonku.	
+537	To sú dobré nápady.	
+538	Ale, Roger, nemyslím si, že je to niečo, čoho by si sa mal báť.	
+539	Áno, ale keď začuješ sirény, nebude dosť času naplniť vaňu a umývadlá.	
+540	Nebudú žiadne sirény.	
+541	Čo je toto?	
+542	Keď príde bomba, cieľom komunistov bude budova Empire State Building.	
+543	Bomba vybuchne vo výške cez 3000 metrov.	
+544	V časopise Life o tom píšu ako o vzdušnom výbuchu a ak má bomba 50 megaton, dôjde k obrovskej tlakovej vlne, ktorá roztaví všetko odtiaľto potiaľto.	
+545	Vrátane toho, kde žijeme.	
+546	Tu.	
+547	Presne tu.	
+548	Roger, nikto na nás atómové bomby nezhodí.	
+549	Ale Rusi to chcú.	
+550	Vieš, ten Rus, ktorého zastupuješ?	
+551	Má tu pripraviť všetko pre tých, čo tie bomby zhadzujú.	
+552	[NO TRANSLATION]	missing translation
+553	Preto tu nie je.	
+554	Nie je ani Rus.	
+555	Myslíme si, že sa narodil v severnom Anglicku.	
+556	Áno, ale je to ruský špion.	
+557	Ani nerozumiem, čo robíš.	
+558	Ty nie si komunista, tak prečo jedného z nich obhajuješ?	
+559	Lebo je to moja práca.	
+560	Nikdy si také niečo nerobil.	
+561	V prípade Spojené štáty americké verzus RudolfAbel... V prvom bode obžaloby, je podľa vás obžalovaný vinný alebo nevinný?	forced duplication
+562	V prípade Spojené štáty americké verzus RudolfAbel... V prvom bode obžaloby, je podľa vás obžalovaný vinný alebo nevinný?	forced duplication
+563	Vinný.	
+564	V druhom bode?	
+565	Vinný.	
+566	V treťom bode?	
+567	Vinný.	
+568	Vaša ctihodnosť, podávam návrh zrušiť tieto verdikty pre závažnosť dôkazov.	
+569	Zamieta sa.	
+570	Porota sa rozpúšťa.	
+571	Všetkým vám ďakujem.	
+572	Chcel by som len dodať, že keby som bol jedným z vás, dosiahol by som ten istý verdikt.	
+573	Rozsudok bude vynesený 15. novembra.	
+574	Trest smrti nie je ešte vopred jasný.	
+575	Nebojte sa.	
+576	Ja sa nebojím smrti, pán Donovan.	
+577	Hoci by som si ju nevybral.	
+578	Toto ste si tam zabudli.	
+579	Ďakujem.	
+580	Veľmi pekne ďakujem!	
+581	Nikdy ste sa nespýtali, či sú tie obvinenia pravdivé.	
+582	Či som naozaj špion.	
+583	Takto to robíme.	
+584	Na prípade proti vám záleží.	
+585	Dokážeme im to.	
+586	[NO TRANSLATION]	missing translation
+587	Špekulovať o tom, či ste to urobili alebo nie, nie je podstatné.	
+588	Štát musí dokázať, že ste špion.	
+589	Takže nie ste zvedavý?	
+590	Nie, ani nie.	
+591	Vždy som vás mal za umelca.	
+592	Moja žena je umelkyňa.	
+593	Hudobníčka. Hrá v Moskovskom detskom orchestri.	
+594	Na aký nástroj?	
+595	Na harfu.	
+596	[NO TRANSLATION]	missing translation
+597	Tak potom je to anjel.	
+598	Keď tam tak stojíte, pripomínate mi muža, ktorý chodieval k nám domov, keď som bol malý.	
+599	Môj otec hovorieval: Sleduj toho muža.	
+600	Tak som ho sledoval vždy, keď prišiel.	
+601	A ani raz neurobil nič pozoruhodné.	
+602	A ja vám ho pripomínam?	
+603	Mal som asi toľko, čo váš syn.	
+604	Náš dom obsadili pohraničné partizánske hliadky.	
+605	Desiatky.	
+606	Bili môjho otca, bili moju matku. A bili aj toho muža, priateľa môjho otca.	
+607	A ja som ho sledoval.	
+608	Zakaždým, keď ho udreli, postavil sa.	
+609	Tak ho udreli silnejšie.	
+610	A aj tak sa vždy postavil na nohy.	
+611	Myslím, že preto ho prestali mlátiť.	
+612	Nechali ho nažive.	
+613	Počul som, ako to vraveli.	
+614	Znamená to niečo ako stojaci muž.	
+615	Stojaci muž.	
+616	Zdravím, Jim!	
+617	Millie, vy ste zjavenie.	
+618	Mortie sa práve oblieka.	
+619	Ale poďte ďalej.	
+620	Škótsku, Jim?	
+621	Áno, prosím.	
+622	Ďakujem.	
+623	S kvapkou vody.	
+624	Ctihodnosť.	
+625	Zdravím, Jim!	
+626	Práve som na odchode.	
+627	Ale mám ešte pár minút.	
+628	Charitatívna večera.	
+629	Millie sa aktívne zúčastňuje.	
+630	Vďaka za prijatie.	
+631	Chcel by som len prispieť svojou troškou do mlyna, pokiaľ ide o trest.	
+632	A tak mi napadlo, že by som vás mohol obťažovať u vás doma, keďže nie všetky moje dôvody sú tak celkom legálne.	
+633	Je to presne tento prípad.	
+634	Dúfam, že som nebol na súde príliš tvrdý, ale je to presne to, čo hovoríte.	
+635	Na tom nie je ani zďaleka nič legálne.	
+636	V hre je oveľa viac.	
+637	Oveľa viac!	
+638	Ďakujem.	
+639	[NO TRANSLATION]	missing translation
+640	Pane...	
+641	Myslím, že by sa mala v najlepšom záujme USA zvážiť možnosť, aby Abel zostal nažive.	
+642	Prečo?	
+643	Nehovorím, že som sa už rozhodol, ale keby chcel spolupracovať s vládou, už by tak urobil.	
+644	To je pravda, ale vec sa má tak...	
+645	[NO TRANSLATION]	missing translation
+646	Prepáčte.	
+647	Nemôžete povedať, že je v najlepšom záujme Spojených štátov, aby strávil zvyšok života vo väzení.	
+648	V čom je toto národný záujem?	
+649	Nie samotné uväznenie, pane.	
+650	Je možné, že v dohľadnej budúcnosti môže Američana rovnakej hodnosti zajať Sovietske Rusko.	
+651	Možno sa nám zíde niekto, za koho ho môžeme vymeniť.	
+652	Fíha.	
+653	To znie ako hypotetická špekulácia.	
+654	To by sme mohli robiť donekonečna.	
+655	Práve s tým pracujem, čo keby.	
+656	Som poistný právnik.	
+657	Toto vôbec nie je nepravdepodobné.	
+658	Je dosť možné, že sa to stane.	
+659	Práve pre takúto pravdepodobnosť si ľudia kupujú poistenie.	
+660	Ak ho pošleme na smrť, prídeme o našu výhodu.	
+661	Nič si neponecháme v zálohe pre prípad, že búrka predsa len nastane.	
+662	Pekný príhovor.	
+663	Pane, ďalšia vec je aj ľudské hľadisko.	
+664	Mal by zomrieť za to, že robí prácu, na ktorú ho poslali?	
+665	Dobre, pán obhajca.	
+666	Musím bežať.	
+667	Rád som vás videl, Jim.	
+668	Vyprevadím vás.	
+669	Všetci povstaňte.	
+670	Zasadá Okresný súd Spojených štátov Východného New Yorku.	
+671	Predsedá ctihodný sudca Mortimer Byers.	
+672	Posaďte sa.	
+673	Obžalovaný povstaňte.	
+674	Rozsudok vymeraný týmto súdom na základe verdiktu poroty, že obžalovaný je vinný v každom bode, je v súlade s verdiktom a právnymi predpismi, ktoré sa na danú vec vzťahujú.	
+675	Na základe rozhodnutia o vine vo všetkých bodoch sa obžalovaný zveruje generálnemu prokurátorovi Spojených štátov, aby ho uväznil v ním vybranom federálnom ústave na dobu 30 rokov.	
+676	Maršali, môžete odviesť obžalovaného do väzby.	
+677	[NO TRANSLATION]	missing translation
+678	Žiadne elektrické kreslo?	
+679	Nie.	
+680	[NO TRANSLATION]	missing translation
+681	Prečo ho neobesíme?	
+682	V mene Božom, prečo ho neobesíme?	
+683	Posaďte sa, pane!	
+684	Je to špion!	
+685	Svojimi lžami nás zabije!	
+686	V mene Božom, prečo ho neobesíme?	
+687	Presne tak!	
+688	Je to špion!	
+689	Pán Donovan!	
+690	Pán Donovan!	
+691	Len jednu otázku.	
+692	Jednu otázku, pane.	
+693	Môj klobúk!	
+694	Môj klobúk!	
+695	Môj klobúk!	
+696	Nikto to nebude komentovať.	
+697	Pán a pani Donovanovci nebudú odpovedať na žiadne otázky.	
+698	Ako sa cítite teraz, keď skončila nočná mora celého národa?	
+699	Pán Donovan, ste spokojný s verdiktom?	
+700	[NO TRANSLATION]	missing translation
+701	Máme silný dôvod na to, aby sme sa odvolali.	
+702	Odvolali?	
+703	Odvolali, áno.	
+704	Jim, odviedol si skvelú prácu.	
+705	Splnil si svoju úlohu a dosiahol aj niečo navyše.	
+706	Ale ten muž je špion.	
+707	Verdikt je správny, nie je dôvod na odvolanie.	
+708	Máme dostačujúci procesný dôvod.	
+709	Viete, že prehliadka bola neprípustná.	
+710	Štvrtý dodatok vždy viac zaváži na odvolacom súde.	
+711	Máme dobré šance.	
+712	O čom to, dopekla, hovoríte?	
+713	Mali sme ukázať, že dostane schopného obhajcu, čo sa stalo.	
+714	Prečo mi, dopekla, citujete Ústavu?	
+715	Tom, pozrite sa mi do očí a povedzte mi, že nemáme dôvod na odvolanie a ja to hneď stiahnem.	
+716	To nehovorím.	
+717	Viete, čo tým chcem povedať.	
+718	Tom tvrdí, že nás to môže stáť draho.	
+719	Presne tak.	
+720	Bude to stáť draho tvoju rodinu aj tvoju firmu.	
+721	Hudba mi chýbala.	
+722	Skontrolovali rádio, aby sa uistili, že tam nie je vysielač.	
+723	To som si istý.	
+724	Šostakovič.	
+725	[NO TRANSLATION]	missing translation
+726	Úžasný umelec, Šostakovič.	
+727	Myslím, že naším najsilnejším argumentom na zrušenie rozhodnutia je obrátiť sa na Ústavu.	
+728	Najlepšiu šancu budeme mať, ak Najvyšší súd odsúhlasí našu vec posúdiť.	
+729	Jim,	
+730	mali by ste byť opatrný.	
+731	Opatrný.	
+732	[NO TRANSLATION]	missing translation
+733	[NO TRANSLATION]	missing translation
+734	[NO TRANSLATION]	missing translation
+735	[NO TRANSLATION]	missing translation
+736	[NO TRANSLATION]	missing translation
+737	[NO TRANSLATION]	missing translation
+738	[NO TRANSLATION]	missing translation
+739	[NO TRANSLATION]	missing translation
+740	Mami!	
+741	Preboha, čo sa stalo?	
+742	Zlatko, si v poriadku?	
+743	Mami!	
+744	Si zranená?	
+745	Mám ju.	
+746	Hore!	
+747	Ste všetci v poriadku?	
+748	[NO TRANSLATION]	missing translation
+749	Ste v poriadku?	
+750	Všetci?	
+751	Oci, sedel som chrbtom k stene!	
+752	[NO TRANSLATION]	missing translation
+753	Mimo okien.	
+754	Dobre, dobre.	
+755	Dobrý chlapec, dobrý chlapec.	
+756	Už je dobre.	
+757	[NO TRANSLATION]	missing translation
+758	V poriadku, sú preč.	
+759	Sú to zbabelci.	
+760	Sú preč.	
+761	Naši detektívi teraz vypočúvajú susedov.	
+762	Možno získame opis auta, ale asi je to dosť nepravdepodobné.	
+763	Budeme potrebovať ochranu.	
+764	Mám príkaz tu nechať dve autá.	
+765	Bude zrejmé, že ide o zabezpečené...	
+766	Na ako dlho?	
+767	Koncom týždňa musím ísť do Washingtonu.	
+768	Čo to robíte?	
+769	Čo to robíte svojej rodine?	
+770	Prepáčte, dôstojník?	
+771	Stále obhajujete toho chlapa?	
+772	Prečo za neho stále bojujete?	
+773	Dobre, to by stačilo, dôstojník.	
+774	Nestačilo.	
+775	Bol som v tretej vlne na pláži Omaha.	
+776	V armáde som si svoje odslúžil.	
+777	Proti tým chlapom som bojoval a vy ich teraz hájite?	
+778	Robte si radšej svoju policajnú prácu.	
+779	Dobre, prepáčte.	
+780	Poďme von.	
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	Zabudnite na neho.	
+784	Čo mi ušlo?	
+785	Von, dôstojník.	
+786	Prepáčte.	
+787	Obhajca komančovského špiona.	
+788	Prepána!	
+789	Nemáte pocit, že si to zaslúžite?	
+790	Ak budete musieť opustiť lietadlo nad sovietskym územím, je tam vyše kilová nálož ovládaná rozbuškou.	
+791	Najprv aktivujete obvody.	
+792	Na začatie 70-sekundového odpočítavania musíte prepnúť prepínač Zničiť.	
+793	Prvoradé je, aby tieto lety zostali tajné a táto výbava nepadla do rúk nepriateľa.	
+794	A čo my?	
+795	Neviem, či žartujete, plukovník Powers.	
+796	Ja nežartujem.	
+797	To, čo viete o lietadle, je rovnako tajné ako samotné lietadlo.	
+798	Ak by neodvratne hrozilo zajatie, choďte so strojom dolů.	
+799	Ak by sa podľa vás dalo utiecť a budete v dostatočnej blízkosti hraníc, tak dobre.	
+800	Katapultačný postup poznáte.	
+801	Ale ak lietadlo opustíte, tento dolár si vezmite so sebou.	
+802	Vo vnútri je špendlík.	
+803	Keď sa ním kdekoľvek poškriabete, smrť nastane okamžite.	
+804	Ak si myslíte, že vás zajmú, použite ho.	
+805	Piloti, rozumiete?	
+806	Miňte ten dolár.	
+807	Pán Najvyšší sudca a celý súd.	
+808	Studená vojna nie je len fráza, Vaša ctihodnosť.	
+809	Nie je to len rečnícky obrat.	
+810	Bitka sa skutočne bojuje medzi dvoma konkurenčnými pohľadmi na svet.	
+811	Trvám na tom, že Rudolf lvanovič Abel, plukovník Abel, ako ho dokonca nazvali muži, ktorí ho zatkli, je v tejto bitke naším nepriateľom.	
+812	Prídavný výkon?	
+813	Pripojený a spustený.	
+814	Kyslíková nádrž na sedadle?	
+815	Má 122 násobok atmosférického tlaku.	
+816	Prevodník?	
+817	Zapnutý, svetlo zhasnuté.	
+818	Vo vojne s ním jednali ako s bojovníkom, kým to našej vláde vyhovovalo.	
+819	Preto nedostal ochranu, akú poskytujeme našim občanom.	
+820	Jednali s ním ako s podozrivým nepriateľom, nie ako s podozrivým zločincom.	
+821	Prívod paliva?	
+822	Spínač prívodu vypnutý.	
+823	Deštruktor?	
+824	Zaistený.	
+825	Dátová karta stúpania.	
+826	Nainštalovaná.	
+827	Poznám tohto muža.	
+828	Ak je obvinenie pravdivé, slúži cudzej mocnosti, ale verne.	
+829	Ak je vojak nepriateľskej armády, je dobrý vojak.	
+830	Nezdupkal z boja, aby sa zachránil.	
+831	Odmietol slúžiť väzniteľovi.	
+832	Odmietol zradiť svoju vec.	
+833	Odmietol dostať sa z toho ako zbabelec.	
+834	Zbabelec musí najprv opustiť svoju dôstojnosť, až potom bojové pole.	
+835	To Rudolf Abel nikdy neurobí.	
+836	Nemali by sme mu poskytnutím všetkých práv, ktoré definujú náš vládny systém, ukázať, kto sme?	
+837	Kto sme.	
+838	Nie je to naša najväčšia zbraň v tejto studenej vojne?	
+839	Budeme stáť za našou vecou menej odhodlane ako on za svojou?	
+840	Prezident oznámil, že meteorologické lietadlo NASA zmizlo pred 4 dňami severne od Turecka.	
+841	A táto vesmírna agentúra sa obáva, že pilot lietadla pri nehode zahynul.	
+842	Radar zobrazoval lietadlo mimo plánovaného kurzu na sovietskom území ešte pred tým, ako sme stratili kontakt, čo skomplikovalo akékoľvek úsilie o jeho vyzdvihnutie či vyzdvihnutie pozostatkov pilota.	
+843	Teraz správy z Washingtonu.	
+844	Na uzavretom hlasovaní dnes Najvyšší súd potvrdil odsúdenie ruského špiona Rudolfa lvanoviča Abela, piatimi hlasmi ku štyrom.	
+845	Prípad sa týka občianskych slobôd, ako tvrdí Rusov obhajca James B. Donovan.	
+846	Na otázku, ako sa cíti po dnešnej prehre, jednoducho odpovedal: Som unavený.	
+847	Viac správ po reklame.	
+848	[NO TRANSLATION]	missing translation
+849	Skončilo to.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	Nikde nemôžem nájsť zložku tej veci s Prudential.	
+853	Pán Watters mi kázal presunúť to Jackovi Elwesovi spolu s prvým návrhom odvolania.	
+854	Naozaj?	
+855	Prepracoval a podal to minulý týždeň, keď ste boli vo Washingtone.	
+856	Ako dlho už spolupracujeme?	
+857	Chováte sa, akoby som nikdy žiadnu vec neuzavrel.	
+858	Dohodnite stretnutie,	
+859	na nejakom nóbl mieste.	
+860	Stavím sa, že pánovi Youngovi sa bude páčiť pár vynikajúcich vecí, čo ponúka New York.	
+861	A chcem, aby ste mi dali súhrn...	
+862	Poznáte niekoho v Lipsku?	
+863	Lipsko.	
+864	Teraz dostávam nenávistnú poštu už aj z Nemecka?	
+865	Z východného Nemecka.	
+866	To je vaša žena?	
+867	Nie.	
+868	Nie, nie.	
+869	Predstiera, že je ona, ale nie je to ani dobre napísané.	
+870	Využívam možnosť napísať vám po tom, čo som sa z novín dozvedela o vašom ľudskom prístupe k môjmu milovanému manželovi, Rudolfovi Abelovi.	
+871	Mám jej odpísať?	
+872	Áno, áno.	
+873	Aký by mal byť ďalší krok, keď neviete, čo je v hre?	
+874	Francis Gary Powers,	
+875	z moci článku 2 zákona ZSSR o trestnej zodpovednosti za zločiny proti štátu ste odsúdený na 10 rokov väzby, pričom prvé tri roky si odslúžite vo väzení.	
+876	Termín väzby zahřňa predbežnú väzbu a začne sa 1. mája 1960.	
+877	Pán Donovan, vďaka, že ste prišli.	
+878	Rád vás spoznávam, pán Dulles.	
+879	Je mi cťou, pane.	
+880	Nescafé, smotana, dve kocky cukru.	
+881	Ďakujem.	
+882	Pokiaľ ide o ten list, ktorý vám prišiel.	
+883	Je dosť jasné, že to vás takto kontaktujú Sovieti.	
+884	Robia to prostredníctvom východného Nemecka, keďže stále nechcú priznať, že Abel je sovietskym občanom a už vôbec nie, že je to sovietsky špion.	
+885	[NO TRANSLATION]	missing translation
+886	Je v ňom popísaných veľa výmyslov.	
+887	Áno, pane, ale za akým účelom?	
+888	Dostali nášho človeka, špionážneho pilota.	
+889	My máme ich človeka.	
+890	Výmena väzňov, myslím, že o to im ide.	
+891	Čo vás len sotva prekvapí, pán obhajca.	
+892	Je to možnosť, ktorú ste predvídali.	
+893	To som predvídal, a to mám pravdu len zriedkakedy.	
+894	Tak teda gratulujem.	
+895	Deň listu od červených.	
+896	Teraz tam máme nášho človeka,	
+897	Powersa.	
+898	Dobrý chlap, ale s hlavou plnou utajených informácií.	
+899	Abel má tiež hlavu plnú utajených informácií, ale neposkytol nám z nich ani štipku.	
+900	Pane, a máte to odo mňa, ani neposkytne.	
+901	Áno, to vieme, ale Rusi to nevedia.	
+902	Chcú svojho človeka späť, skôr než sa zlomí.	
+903	A z toho istého dôvodu chceme my späť Powersa.	
+904	Myslím, pane, že sa snažíte povedať, že pre každého môže existovať šťastný koniec.	
+905	Áno, ak budeme hrať ich hru.	
+906	Chceme, aby ste rokovali o výmene, lebo ste súkromná osoba a s vládou to nemá nič spoločné.	
+907	Neuznávajú Abela ako sovietskeho občana a my neuznávame východné Nemecko ako zvrchovanú krajinu.	
+908	Neuznali sme východný Berlín, odkedy si ho Sovieti anektovali v 1945.	
+909	Takže ja budem vyjednávač zastupujúci...	
+910	Vy nezastupujete nikoho.	
+911	Nie ste vládny úradník.	
+912	Nemáte žiadne oficiálne postavenie.	
+913	Takže rovnaké výmysly aj z našej strany.	
+914	Správne.	
+915	Takže sa nemôžete spoliehať na žiadny zásah či pomoc, ak sa niečo pokazí.	
+916	Agentúra CIA za to nemôže byť zodpovedná.	
+917	Nemôžeme z toho mať ťažkosti.	
+918	Kde sa má konať toto vyjednávanie?	
+919	Tam.	
+920	Tam?	
+921	Vo východnom Berlíne.	
+922	Nie je to tam dosť...	
+923	Áno, je to tam dosť zložité.	
+924	Áno, zložité.	
+925	Sovietska strana posledných pár mesiacov zriaďuje kontrolné body, aby zabránila ľuďom unikať do západných sektorov, ale nezabralo to.	
+926	Podľa našich informácií možno zájdu o krok ďalej a múrom prehradia celý východný sektor.	
+927	To len tak v skratke.	
+928	Rozhodnutie je celkom na vás.	
+929	Potrebujete čas, aby ste si to premysleli.	
+930	Nie.	
+931	Nie, nepotrebujem.	
+932	Tak dobre.	
+933	[NO TRANSLATION]	missing translation
+934	Najlepšie bude, ak to zostane medzi nami.	
+935	Nehovorte o tom s Mary ani s nikým iným.	
+936	Korešpondenciu ukazujte len nám.	
+937	Dajte nám vedieť, čo chcú urobiť a kedy.	
+938	Nemám žiadneho klienta, ženu či krajinu.	
+939	Neviem, čo robím, ani kedy alebo pre koho.	
+940	Robíte to pre svoju krajinu, ale ona o tom ešte nevie.	
+941	A čo môj klient, druhá osoba v tejto rovnici?	
+942	Môj človek?	
+943	Váš človek?	
+944	Ten Rus?	
+945	Už to nie je váš človek, pán obhajca.	
+946	Teraz je ním Francis Gary Powers.	
+947	Čo mám povedať Rudolfovi Abelovi?	
+948	Nech neotrčí päty.	
+949	Profesor?	
+950	Profesor?	
+951	Otec šiel na univerzitu.	
+952	Nemal by si tu byť, Frederic.	
+953	Dnes majú hodinu?	
+954	Šiel sa pozrieť.	
+955	Chodieva tam.	
+956	Čo tu robíš?	
+957	Prišiel som po teba a tvojho otca.	
+958	Musíte ísť so mnou.	
+959	Zajtra sa už nemusíte dostať preč.	
+960	[NO TRANSLATION]	missing translation
+961	Odísť?	
+962	[NO TRANSLATION]	missing translation
+963	Áno, odísť.	
+964	Okamžite.	
+965	Vráť sa,	
+966	vráť sa.	
+967	Ja budem v poriadku, som Američan.	
+968	Vráť sa.	
+969	Vráť sa k otcovi.	
+970	Nájdeme iný spôsob.	
+971	Choď.	
+972	Zdravím.	
+973	[NO TRANSLATION]	missing translation
+974	Doklady, prosím.	
+975	Ich bin Student Frederic Pryor.	
+976	Áno, Student.	
+977	Volám sa Frederic Pryor.	
+978	Som študent ekonomiky.	
+979	Vidíte?	
+980	To je moja dizertačná práca.	
+981	[NO TRANSLATION]	missing translation
+982	[NO TRANSLATION]	missing translation
+983	Pozrite.	
+984	Systém zahraničného obchodu európskych komunistických národov.	
+985	[NO TRANSLATION]	missing translation
+986	Dalo to veľa práce.	
+987	Nie, to je moja jediná kópia.	
+988	Nie!	
+989	Povedz mi o tom niečo.	
+990	Prišlo to na poslednú chvíľu.	
+991	Majú kancelárie v Londýne.	
+992	To tí klienti.	
+993	Nebol to môj nápad.	
+994	Tú rybačku robia v Škótsku.	
+995	Čo sa bude chytať, Jim?	
+996	Lososy.	
+997	Len mi povedz, že ti tam nič nehrozí, že ide o rutinnú služobnú cestu a nebudem sa báť.	
+998	Potrebujem pas.	
+999	Len mi daj niečo, čoho sa môžem chytiť.	
+1000	Je mi jedno, či to bude pravda.	
+1001	Robím to pre nás.	
+1002	Pán Michenerje váš berlínsky sprievodca.	
+1003	Je to atašé americkej ambasády.	
+1004	Dosť sa to celé skomplikovalo.	
+1005	[NO TRANSLATION]	missing translation
+1006	Posledný list od pani Abelovej, nech už je to ktokoľvek, je o právnikovi Vogelovi vo východnom Berlíne, nech už je to ktokoľvek, ktorý zastupuje jej záujmy.	
+1007	Vogel tvrdí, že bol na ruskej ambasáde vo východnom Berlíne a že môžu pripraviť výmenu Abela za Powersa.	
+1008	A nikto nevie, kto je kto, ale v zásade sú to všetci Rusi, však?	
+1009	Sovieti.	
+1010	Podľa nás.	
+1011	Čo tým myslíte?	
+1012	Môžete zapnúť kúrenie?	
+1013	Je tu drobný problém.	
+1014	Môžu sa pokúsiť podhodiť vám niečo iné.	
+1015	Aby ste prijali iného väzňa ako Powersa.	
+1016	Iného Američana?	
+1017	Východonemecká agentúra zajala amerického študenta.	
+1018	Frederica Pryora.	
+1019	Chalana, ktorého našli na zlej strane múru.	
+1020	Absolvent Yaleu,	
+1021	prišiel sem študovať ekonomiku.	
+1022	[NO TRANSLATION]	missing translation
+1023	Vyhrážajú sa, že ho obvinia zo špionážnej činnosti.	
+1024	Závažné obvinenie, trest smrti.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel sa s nami skontaktoval a tvrdí, že zastupuje Pryora.	
+1027	Počkať.	
+1028	Vogel zastupuje pani Abelovú a toho chlapca?	
+1029	Má dosť práce.	
+1030	Kto to je?	
+1031	Vogel, je z východného Nemecka či z Ruska.	
+1032	Skúste to zistiť, keď sa s ním stretnete.	
+1033	Ruská ambasáda, východný Berlín, zajtra napoludnie.	
+1034	Hoffman vám ukáže, ako sa tam dostanete.	
+1035	Ukáže mi, ako sa tam dostanem?	
+1036	Mám mať sprievodcu.	
+1037	Nie je tak?	
+1038	Taký bol plán, ale ako som povedal, je tu ten problém.	
+1039	Nevezmem vás tam.	
+1040	Už sa o tom rozhodlo.	
+1041	Žiadny zamestnanec vlády USA nesmie až do odvolania prekročiť hranice.	
+1042	Ako to?	
+1043	Je to príliš nebezpečné.	
+1044	Východní Nemci zadržali toho chlapca.	
+1045	Vládne tam taká beztrestnosť, akú sme nepredvídali.	
+1046	Ide o to, že plán východného Nemecka a plán Ruska nemusí byť to isté.	
+1047	Skúste to zistiť a zachovať sa podľa toho.	
+1048	Skúste sa dohodnúť.	
+1049	Powersa za Abela.	
+1050	A čo ten študent, Pryor? Len im na to neskočte.	
+1051	[NO TRANSLATION]	missing translation
+1052	[NO TRANSLATION]	missing translation
+1053	Dostaneme ho inokedy.	
+1054	Teraz nám ide o Powersa.	
+1055	Kde ste ubytovaný?	
+1056	Mám izbu v Hiltone.	
+1057	Neďaleko.	
+1058	Telefónne číslo v západnom Berlíne.	
+1059	Zapamätajte si ho a vráťte mi ho.	
+1060	[NO TRANSLATION]	missing translation
+1061	[NO TRANSLATION]	missing translation
+1062	Myslím hneď.	
+1063	Sovieti odpájajú medzinárodné linky, ale miestne hovory sú v poriadku.	
+1064	Niekto vám to zdvihne vo dne aj v noci.	
+1065	Tento súpis pripojený k vášmu pasu bude slúžiť ako priepustka do a z východného sovietskeho sektora.	
+1066	Stretnutie s Vogelom sa má konať zajtra napoludnie.	
+1067	Na východ už zostalo len pár ciest.	
+1068	Pôjdete vlakom S-Bahn zo stanice, ktorú sme vám ukazovali cestou sem.	
+1069	Vystúpite na Friedrichstrasse a po Unter den Linden prejdete k sovietskej ambasáde.	
+1070	Zapamätajte si mapu.	
+1071	Nemali by ste si ju brať so sebou.	
+1072	Ak sa ako Američan pozriete na mapu, ste pre nich špion.	
+1073	Môžu vás zatknúť.	
+1074	Vo všeobecnosti sa s ľuďmi nebavte.	
+1075	[NO TRANSLATION]	missing translation
+1076	Nepatríte sem, takže buďte nenápadný.	
+1077	Jedla je tam málo, celkovo sa to tam začalo rozpadávať.	
+1078	Sú tam gangy a právny poriadok tam nie je pevne zakorenený.	
+1079	A jednoznačne sa držte mimo múru.	
+1080	Na ich strane je pozdĺž múru línia bez budov.	
+1081	Volajú ju pás smrti.	
+1082	Prejdete tam a zastrelia vás.	
+1083	Je aj scenár, v ktorom ma nezadržia alebo nezastrelia?	
+1084	Neznepokojujte sa príliš tým, čo povedal Michener.	
+1085	Nie, mňa skôr znepokojuje to, čo ste povedali vy.	
+1086	Ten chlapec, Pryor, ktorého majú východní Nemci, koľko má rokov?	
+1087	25	
+1088	Prečo?	
+1089	Toľko čo Dougie.	
+1090	Kto?	
+1091	Môj kolega.	
+1092	Frederic Pryor.	
+1093	Dobre.	
+1094	[NO TRANSLATION]	missing translation
+1095	Ospravedlňujeme sa, ak vás to uráža.	
+1096	[NO TRANSLATION]	missing translation
+1097	Kabát?	
+1098	Dobre.	
+1099	Rozumiete po anglicky?	
+1100	Áno, pane.	
+1101	Volám sa James Donovan.	
+1102	Mám sa stretnúť s pánom Vogelom.	
+1103	Pán Vogel.	
+1104	Nepracuje tu.	
+1105	Len sa tu s ním mám stretnúť.	
+1106	Viem len toľko.	
+1107	Pán Donovan!	
+1108	Takže sa nakoniec stretávame.	
+1109	Som Helena Abelová.	
+1110	Ako sa má náš manžel?	
+1111	[NO TRANSLATION]	missing translation
+1112	Dobre.	
+1113	Ako sa má môj Rudolf?	
+1114	Tak dobre, ako by sa dalo čakať.	
+1115	A dostaneme ho späť?	
+1116	Toto je naša dcéra.	
+1117	Ako sa máte?	
+1118	Lydia.	
+1119	A vy ste pán Vogel?	
+1120	Nie, nie!	
+1121	Nie som Vogel.	
+1122	Som bratranec Drews.	
+1123	Rudolfov milovaný bratranec Drews.	
+1124	Áno, bratranec Drews.	
+1125	Som bratranec Drews.	
+1126	Bratranec Drews, áno.	
+1127	Som Helena Abelová.	
+1128	Kedy sa s ním stretnete?	
+1129	Kedy ho prepustí vaša vláda?	
+1130	Som trochu zmätený.	
+1131	Mám sa tu stretnúť s pánom Vogelom.	
+1132	Pán Vogel je náš právnik.	
+1133	Mali sme prerokovať výmenu.	
+1134	Aby ste sem priviezli Rudolfa?	
+1135	Áno, aby som ho priviezol.	
+1136	Ale nemôže to byť jednostranné, chápete?	
+1137	Musí dôjsť k výmene.	
+1138	Nie je tu?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Pán Donovan?	
+1143	Pán Vogel.	
+1144	Nie,	
+1145	prepánajána.	
+1146	Volám sa Šiškin.	
+1147	Ivan Šiškin.	
+1148	Som druhý tajomník sovietskej ambasády.	
+1149	Nebolo by vhodné, aby sa k nám pridal pán Vogel.	
+1150	Je to nemecký štátny príslušník.	
+1151	Takže tu nie ste na to...	
+1152	Zariadiť toto stretnutie.	
+1153	Možno keby sa pani Abelová šla niekam upokojiť?	
+1154	Aby sme sa mohli s pánom Donovanom porozprávať?	
+1155	Ďakujem.	
+1156	Som zmätený.	
+1157	Áno.	
+1158	Je mi jedno, s kým sa budem rozprávať, je to o výmene osôb.	
+1159	Mám sa o tom rozprávať s vami?	
+1160	Áno, iste.	
+1161	Mali by sme sa porozprávať.	
+1162	Posaďte sa, pán Donovan.	
+1163	Ako ste sa dostali do východného sektora.	
+1164	Vlakom.	
+1165	S-Bahn.	
+1166	Prišli ste sám?	
+1167	Áno.	
+1168	Máte oprávnenie?	
+1169	Musíte o mne vedieť, pane.	
+1170	Som tu ako súkromná osoba.	
+1171	Som právnikom v Brooklyne v Spojených štátoch a ukrojil som zo svojho nabitého programu, aby som pomohol môjmu klientovi.	
+1172	Som oprávnený zariadiť jeho výmenu, Rudolfa Abela za Francisa Garyho Powersa.	
+1173	Toto je plná milosť pre Abela. Podpíšu ju, keď dôjde k výmene.	
+1174	Jediný dôvod, prečo som tu.	
+1175	Dúfam a očakávam, že sa rýchlo dohodneme.	
+1176	Abela za Francisa Garyho Powersa a Frederica Pryora.	
+1177	Nemáme Pryora.	
+1178	Nie?	
+1179	Naozaj?	
+1180	Počul som o Pryorovi, ale toho drží Nemecká demokratická republika a nie Zväz sovietskych socialistických republík.	
+1181	Poviem vám, čo je prvý problém.	
+1182	Názvy vašich krajín sú príliš dlhé.	
+1183	Áno, áno.	
+1184	Ak prepustíme Powersa, tak len ako prejav dobrej vôle medzi našimi krajinami.	
+1185	Takže nemôže dôjsť k výmene.	
+1186	[NO TRANSLATION]	missing translation
+1187	Možno ak prepustíte Abela ako prejav dobrej vôle pre našich priateľov v Nemecku, potom by sme mohli o pár mesiacov prepustiť Powersa.	
+1188	To je jedna možnosť.	
+1189	Nie.	
+1190	To pre nás nie je vôbec žiadne riešenie.	
+1191	Musí ísť o výmenu.	
+1192	Nazvite si to, ako chcete, ale k výmene dôjsť musí.	
+1193	Abela sem dokážeme dostať do 48 hodín.	
+1194	V čase, keď vám odovzdáme Abela, musíme mať Powersa.	
+1195	[NO TRANSLATION]	missing translation
+1196	To je...	
+1197	Môžeme to nazvať netrpezlivým plánom?	
+1198	Nazvite si to, ako chcete.	
+1199	Môžem posunúť váš netrpezlivý plán Moskve, nech sa vyjadria,	
+1200	ale budú sa diviť, prečo ste taký netrpezlivý.	
+1201	Lebo mám nádchu.	
+1202	Nežijem v Berlíne a chcem ísť domov.	
+1203	Budú si myslieť: Američania museli od Abela dostať všetky informácie.	
+1204	A teraz sú takí nedočkaví vymeniť ho v nádeji, že sa im vráti tento človek, Powers, ktorý možno ešte nevyzradil všetky informácie.	
+1205	Toto nie je rovnocenný obchod, pane.	
+1206	Ale tvrdíte, ak Powers vyzradil všetko, čo vie, potom by Moskva súhlasila s výmenou?	
+1207	Prečo nie?	
+1208	Pokiaľ ide o Abela, ak zomrie v americkom väzení, ďalší ruský agent, ktorého chytia, si dvakrát rozmyslí, či bude držať jazyk za zubami.	
+1209	A nikdy neviete.	
+1210	Abel možno bude chcieť znovu vidieť oblohu a rozhodne sa prezradiť ruské tajomstvá za drobné americké ústupky.	
+1211	Ako to môžeme vedieť?	
+1212	My nedôležité osoby, my si len robíme svoju prácu.	
+1213	Ako poručík Powers.	
+1214	On je len pilot.	
+1215	Keď ho zostrelili, fotil z výšky 21000 metrov.	
+1216	Ľudia v mojej vlasti to považujú za akt agresie.	
+1217	Z tohto kolotoča musíme zosadnúť, pane.	
+1218	Ďalšia chyba našich krajín môže byť tou poslednou.	
+1219	Musíme viesť rozhovor o tom, o čom sa nemôžu rozprávať naše vlády.	
+1220	Spýtam sa Moskvy.	
+1221	Ktovie, čo povedia.	
+1222	Je mnoho ľudí, pán Donovan, ktorí nechcú, aby k tejto výmene vôbec došlo.	
+1223	Môžete sa vrátiť zajtra, aby sme prebrali ich odpoveď?	
+1224	Powers za Abela.	
+1225	A Frederica Pryora.	
+1226	Ako som povedal, Pryorje v rukách Štátnej bezpečnosti Nemeckej demokratickej republiky.	
+1227	Som presvedčený, že to dokážete zariadiť.	
+1228	Ja som ledva tajomník ambasády zahraničnej mocnosti.	
+1229	Dobre.	
+1230	Musíte navštíviť pána Vogela.	
+1231	Dám vám jeho adresu.	
+1232	Vogel teda naozaj existuje?	
+1233	Prečo by ste si mysleli opak?	
+1234	Taxíkom je to kúsok.	
+1235	A prosím, pán Donovan, v tomto počasí si vezmite zvrchník.	
+1236	Ukradli mi ho.	
+1237	Čo čakáte?	
+1238	Bol zo Saks Fifth Avenue.	
+1239	Alebo nie?	
+1240	Pán Donovan.	
+1241	Pán Vogel.	
+1242	Poďte ďalej.	
+1243	[NO TRANSLATION]	missing translation
+1244	Mrzí ma tá ambasáda.	
+1245	Ale Sovieti sa rozhodli, že ma z toho vynechajú.	
+1246	Veľmi iritujúce.	
+1247	Stále sa snažím pochopiť...	
+1248	Postavenie?	
+1249	Áno.	
+1250	A záujem každej zo strán v tejto výmene.	
+1251	[NO TRANSLATION]	missing translation
+1252	Je to nový svet.	
+1253	Všetko je veľmi mätúce, však?	
+1254	Poviem vám, čo vám môžem ponúknuť.	
+1255	Som dobrý priateľ...	
+1256	Priateľ.	
+1257	Nie, je starší.	
+1258	Chránenec?	
+1259	Ministra spravodlivosti Nemeckej demokratickej republiky.	
+1260	Sadnite si, prosím.	
+1261	Tento nešťastník, Frederic Pryor, bol v zlom čase na zlom mieste.	
+1262	Ale každá zhoda náhod, ak sa vhodne zváži, môže byť príležitosťou, však, pán Donovan?	
+1263	[NO TRANSLATION]	missing translation
+1264	Vaša krajina odmieta uznať Nemeckú demokratickú republiku.	
+1265	Radšej si vymýšľajú, napríklad, že NDR neexistuje.	
+1266	Prepáčte.	
+1267	Ako prostriedok na donútenie vašej vlády, aby uznala túto skutočnú krajinu, v ktorej ste sa ocitli, NDR, minister spravodlivosti bude rád vyjednávať s vami ako s predstaviteľom vlády kvôli návratu pána Pryora.	
+1268	Pán Vogel, nie som tu ako predstaviteľ mojej vlády.	
+1269	Dobre.	
+1270	Myslím, že je to detinské, pán Donovan.	
+1271	[NO TRANSLATION]	missing translation
+1272	Nemám oficiálne postavenie.	
+1273	Dobre.	
+1274	Vy nezastupujete USA, ja nezastupujem NDR.	
+1275	Mojím klientom je Lydia Abelová, Rudolfova žena.	
+1276	A mám aj...	
+1277	Lydia je dcéra.	
+1278	Helen je žena.	
+1279	[NO TRANSLATION]	missing translation
+1280	Som pripravený ponúknuť výmenu Frederica Pryora za Rudolfa Abela.	
+1281	Vyjasnime si to.	
+1282	My prepustíme Rudolfa Abela.	
+1283	Vy súčasne vtedy prepustíte študenta, Pryora.	
+1284	Súčasne?	
+1285	Lste.	
+1286	Ponúkanou výmenou je Rus na konci života za amerického študenta, ktorý je na začiatku toho svojho.	
+1287	Šiškin?	
+1288	To nie je tajomník ambasády.	
+1289	Ivan Šiškin je šéf KGB v západnej Európe.	
+1290	Nech je to ktokoľvek, posunie náš návrh Moskve a oni rozhodnú.	
+1291	Mohol by som si požičať kabát?	
+1292	Svoj som stratil.	
+1293	Ako ste ho stratili?	
+1294	Veď viete, pri špionážnych trikoch.	
+1295	Zoženiem vám iný.	
+1296	Dobre, lebo...	
+1297	Kto je to ten Vogel?	
+1298	Nevieme.	
+1299	Môže byť tým, čo vraví.	
+1300	Priateľ generálneho prokurátora.	
+1301	Len nejaký chlap najatý NDR, aby sa o to postaral.	
+1302	Znie to tak, akoby východní Nemci bojovali o miesto pri našom stole.	
+1303	NDR dostane Abela späť pre Rusov, čím si získajú ich rešpekt	
+1304	a dostanú sa na titulku pre ich vlastnú vec.	
+1305	Ktorou je dostať východné Nemecko na mapu.	
+1306	Ale nám je ich mapa ukradnutá.	
+1307	Držte sa Rusov.	
+1308	Držte sa Rusov.	
+1309	Powers za Abela.	
+1310	Znamená to, že by k tomu naozaj mohlo dôjsť?	
+1311	Áno, podľa toho, čo mi hovoríte.	
+1312	Abela naložíme do lietadla, v piatok bude tu.	
+1313	Ak to Šiškinovi schvália, už bude záležať len od upresnenia výmeny.	
+1314	Ako vymeníme nášho človeka za ich človeka.	
+1315	Našich ľudí.	
+1316	Dvoch.	
+1317	Powersa a Pryora.	
+1318	Nie, nechoďte na mňa s krvácajúcim srdcom.	missing translation
+1319	Len na Powersovi záleží.	
+1320	Zabudnite na chlapca z prestížnej univerzity, ktorý si zjavne myslel, že je dobrý nápad študovať sovietsku ekonomiku v Berlíne uprostred studenej vojny.	
+1321	Potrebujeme len Powersa.	
+1322	Ani ho nemáte rád.	
+1323	Všetci ho nenávidia.	
+1324	Nezabil sa a nechal komančov, aby ho predvádzali v televízii.	
+1325	Je to najnenávidenejší muž Ameriky.	
+1326	Možno po Rudolfovi Abelovi.	
+1327	A mne.	
+1328	Okamžite vstaň!	
+1329	Musím spať.	
+1330	Musím spať.	
+1331	Povedal som, že môžeš spať, keď sa porozprávame.	
+1332	Musíš sa na mňa sústrediť.	
+1333	Tvojej vláde na tebe nezáleží.	
+1334	To vieš.	
+1335	Na nikom z vás.	
+1336	Vieš o tom, že 12 pilotov U-2 utrpelo poškodenie mozgu?	
+1337	Kvôli výške a nedostatku kyslíka sú vo vegetatívnom stave.	
+1338	Ale oni vás nechávajú lietať, Gary.	
+1339	Teba a tvojich priateľov.	
+1340	Dali vám toto.	
+1341	Na poškriabanie sa?	
+1342	Kyanid draselný.	
+1343	Vyzerá to tak, že im na vás záleží?	
+1344	Aká je konštrukcia deštrukčnej jednotky?	
+1345	Čím je poháňaná?	
+1346	Akými výbušninami je nabitá a čo je schopná zničiť?	
+1347	Neviem.	
+1348	Pilotom nikdy nič z vybavenia neukázali.	
+1349	Do akej šírky dokáže radar zmapovať oblasť počas normálneho letu?	
+1350	Neviem, neviem!	
+1351	Leteli ste 9. apríla ponad priemyselnú oblasť a základňu bombardérov MiG v Baranoviči?	
+1352	Nie.	
+1353	Bol to môj prvý let.	
+1354	Musím vedieť, ako ďaleko doplachtí bez motora.	
+1355	Ako sa dostane tak vysoko.	
+1356	Vieme, že dosahuje výšku 21000 metrov.	
+1357	Gary, to vieme.	
+1358	A musím vedieť, kam lietadlá lietajú.	
+1359	Kam lietajú, Gary.	
+1360	A musíme sa porozprávať hneď.	
+1361	Hneď.	
+1362	Potom si môžeš chvíľu pospať.	
+1363	Pane, zobuďte sa.	
+1364	Zobuďte sa, pane.	
+1365	Pane, môžete ísť so mnou?	
+1366	Áno.	
+1367	Musíme ísť.	
+1368	Áno, iste.	
+1369	Môžete ísť so mnou?	
+1370	Áno.	
+1371	Dobre.	
+1372	Máte okuliare?	
+1373	[NO TRANSLATION]	missing translation
+1374	Koľko je hodín?	
+1375	Už je neskoro, ale musíme sa porozprávať a potom vás nasadíme do lietadla, dobre?	
+1376	Dobre.	
+1377	Hej.	
+1378	Elá-hop!	
+1379	Elá-hop.	
+1380	Presne tak.	
+1381	Tak poďme.	
+1382	Pokračujte ďalej.	
+1383	Vďaka.	
+1384	Druhou stranou.	
+1385	Tadiaľ.	
+1386	Vraveli ste do lietadla?	
+1387	Tadiaľto, prosím.	
+1388	Pokračujte.	
+1389	Dostal som z Moskvy priaznivé rozhodnutie ohľadom vášho návrhu, aby sme pomohli vašim priateľom v Nemeckej demokratickej republike výmenou pána Powersa za pána Abela.	
+1390	To je senzačné.	
+1391	Môžem ako miesto výmeny navrhnúť most Glienicke.	
+1392	Prečo nie Checkpoint Charlie?	
+1393	Nechceme žiadnu publicitu.	
+1394	Most Glienicke je veľmi pokojné miesto, najmä zavčas rána.	
+1395	Most Glienicke.	
+1396	Navrhnem ho našej strane.	
+1397	Abela tu môžeme mať v piatok.	
+1398	Takže v sobotu ráno?	
+1399	Stále netrpezlivý, čo?	
+1400	Chcem ísť domov do vlastnej postele.	
+1401	Takže v sobotu ráno?	
+1402	5:30?	
+1403	Dobre.	
+1404	Tu sme skončili.	
+1405	Tu máte číslo pre prípad, že by sa niečo stalo.	
+1406	Dobre.	
+1407	Niekto vám to kedykoľvek zodvihne.	
+1408	Neočakávam, že ho použijem.	
+1409	Pripijeme si na to?	
+1410	Prečo nie?	
+1411	Arménska brandy.	
+1412	Dobrý liek na vašu nádchu.	
+1413	Vďaka.	
+1414	Nevadilo by vám...	
+1415	Netýka sa to našej výmeny, ale rád by som sa vás niečo spýtal.	
+1416	Nemusíte odpovedať.	
+1417	Odpoviem, ak budem vedieť.	
+1418	Mám rád toho človeka, vášho človeka.	
+1419	Čo sa stane, keď príde domov?	
+1420	Musíme zistiť, či náš človek nie je teraz váš človek.	
+1421	Ako som vám už povedal, zachoval sa lojálne.	
+1422	Stále je to váš človek, verte mi.	
+1423	Iste by ste to vraveli, keby to bola pravda, ale aj keby to pravda nebola.	
+1424	Asi o tom to je.	
+1425	Prepáčte, že sa ešte pýtam, ale hrozí mu nejaké nebezpečenstvo po vynesení rozhodnutia.	
+1426	Nuž, pánabeka.	
+1427	Pri súčasnom stave vecí sme všetci v nebezpečenstve.	
+1428	Na zdravie.	
+1429	[NO TRANSLATION]	missing translation
+1430	Na moste Glienicke nedôjde k žiadnej výmene.	
+1431	Prepáčte, pane.	
+1432	Nedôjde k výmene.	
+1433	Nie za Frederica Pryora.	
+1434	Pán Vogel, myslel som, že sme sa včera dohodli.	
+1435	Dohodli sme sa na výmene Abela za Pryora.	
+1436	Teraz vidím, že ste obchodník s kobercami, ktorý predáva ten istý koberec dvom zákazníkom.	
+1437	Predali ste nám Abela za Pryora.	
+1438	Áno.	
+1439	A Abela za Powersa predáte Sovietom.	
+1440	Nie som si celkom istý, čo je za problém, ak táto dohoda uspokojí dve, či tri alebo štyri strany.	
+1441	V čom je rozdiel?	
+1442	Táto dohoda neuspokojí túto stranu.	
+1443	Teraz, pán Vogel...	
+1444	Iste neviete, s kým máte do činenia.	
+1445	Tu ide o záujem Nemeckej demokratickej republiky.	
+1446	Verejne rokovať s inou zvrchovanou mocnosťou, Spojenými štátmi.	
+1447	Rovnocennou mocnosťou.	
+1448	Miesto toho s nami zaobchádzate ako s poskokmi ZSSR.	
+1449	Môžeme ich volať Rusi?	
+1450	Ušetrí nám to čas.	
+1451	Mám schôdzku, pane.	
+1452	To vy tu plytváte časom.	
+1453	Povedzte mi, či to chápem zle.	
+1454	Máte chlapca, univerzitného študenta, niekoho, o kom viete, že nie je špion, žiadna hrozba.	
+1455	A pri výmene tejto osoby, ktorá je pre vás bezcenná, hráte rovnocennú úlohu vo výmene medzi Rusmi a Američanmi.	
+1456	A toto je jedna transakcia medzi nami a vami dvoma.	
+1457	Nesnažíme sa o dve veci, pane.	
+1458	Len o jednu.	
+1459	Jednu jedinú.	
+1460	Ťažko pozerať na toľké opovrhovanie Republikou východonemeckých Demokratov.	
+1461	Dohodli ste sa so Sovietmi bez konzultácie so mnou.	
+1462	Toto je vyjednávanie alebo sprisahanie?	
+1463	Aby to bolo sprisahanie, muselo by vám nejako ublížiť, pane.	
+1464	Je to pre vás výhodné.	
+1465	Máme spoločné záujmy.	
+1466	Nie, vy rozhodujete, oni súhlasia.	
+1467	Kde máte schôdzku, pane?	
+1468	V západnom Berlíne.	
+1469	Ulica Ku'damm.	
+1470	Dobre.	
+1471	Pozrite sa okolo seba.	
+1472	Ako sa môže východný sektor porovnávať so západným?	
+1473	[NO TRANSLATION]	missing translation
+1474	Naši ruskí priatelia rozhodli, že by sme naše hlavné mesto nemali prebudovať.	
+1475	A tak žijeme v tejto ruine vytvorenej našimi ruskými priateľmi.	
+1476	Dobre, dohodnite sa s tými Rusmi.	
+1477	My sa toho nezúčastníme.	
+1478	Bez Pryora nebude žiadna dohoda.	
+1479	Nenecháme ho tu.	
+1480	To je váš postoj alebo postoj vašej vlády?	
+1481	Pane, ja som tu.	
+1482	Hovorím s vami.	
+1483	Ale vy nie ste predstaviteľ vašej vlády.	
+1484	Neviete, kto ste.	
+1485	Ani my.	
+1486	Mali by ste byť opatrný.	
+1487	Toto nie je Brooklyn, pán Donovan.	
+1488	Počúvajte, pane.	
+1489	Musíte vedieť, že v každom hľadisku, na ktorom záleží, zastupujem svoju vládu.	
+1490	Viete, kto som.	
+1491	Naozaj?	
+1492	[NO TRANSLATION]	missing translation
+1493	Máte príslušné papiere?	
+1494	Lsteže nie.	
+1495	Nevadí.	
+1496	Americký právnik ako vy sa vykrúti zo všetkého.	
+1497	Či nie?	
+1498	Choďte s ním.	
+1499	Prečo?	
+1500	Problém s pasom.	
+1501	[NO TRANSLATION]	missing translation
+1502	Aký problém?	
+1503	Čo za problém?	
+1504	Choďte s ním.	
+1505	A nezabudnite, my máme v rukách osud Frederica Pryora.	
+1506	Preboha!	
+1507	Začnem kávou, prosím.	
+1508	Potom si dám Hilton combo a americké raňajky	
+1509	a kávu.	
+1510	Obe raňajkové menu?	
+1511	Áno, áno.	
+1512	Jedno najskôr alebo...	
+1513	Obe mi doneste naraz,	
+1514	keď budú hotové.	
+1515	A kávu.	
+1516	[NO TRANSLATION]	missing translation
+1517	Nemali by ste tu byť.	
+1518	Niekedy aj v Nemecku zatúžite po amerických raňajkách.	
+1519	Čo sa stalo?	
+1520	Kde ste boli včera večer?	
+1521	Vogel zariadil, aby som strávil nejaký čas aj na východe.	
+1522	Ježiši.	
+1523	Úprimne, nie je to tam oveľa horšie, ako kde ste ma ubytovali tu na západe.	
+1524	Rusi s výmenou súhlasia, ale Vogel teraz tvrdí, že východní Nemci to neurobia.	
+1525	Neprepustia Pryora.	
+1526	Fajn, dobre.	
+1527	So Sovietmi sme dohodnutí.	
+1528	Dostaneme Powersa.	
+1529	Dostaneme Powersa.	
+1530	Dobrá práca.	
+1531	Nie, východní Nemci to neurobia.	
+1532	Pryora nedostaneme, ale záleží na ňom.	
+1533	Na každom človeku záleží.	
+1534	Iste, preto ste sa o to pokúsili.	
+1535	Preto ste to skúsili.	
+1536	Abel je na ceste, všetci sme na zajtra ráno pripravení.	
+1537	Počkajte.	
+1538	Zjednodušte to.	
+1539	Zjednodušte to.	
+1540	Toho chlapca nedostaneme.	
+1541	Rozumiem,	
+1542	sme dohodnutí.	
+1543	Môžeme ignorovať správu z dnešného rána.	
+1544	Akú správu?	
+1545	Od východných Nemcov.	
+1546	Zavolali na číslo, ktoré som vám dal.	
+1547	Vraveli, že sa dnes s vami chceli rozprávať.	
+1548	Volal Vogel?	
+1549	Nie.	
+1550	Kancelária Haralda Otta, generálneho prokurátora východného Nemecka.	
+1551	Čo chcel?	
+1552	[NO TRANSLATION]	missing translation
+1553	Hovoriť s vami.	
+1554	Ale to nič, nemôžem od vás žiadať, aby ste sa tam vrátili.	
+1555	Počujte, čoskoro budete pre niektorých persona non grata, tak nepokúšajme šťastie.	
+1556	Takže ma chce vidieť.	
+1557	Kedy?	
+1558	Nie, nie.	
+1559	Počúvajte.	
+1560	Nemusíte tam ísť.	
+1561	Vlastne by ste tam nemali ísť.	
+1562	Nemôžete tam ísť.	
+1563	Sme dohodnutí so Sovietmi.	
+1564	Nechceme to teraz pokašľať.	
+1565	Nepokašlem to.	
+1566	Nepôjdete!	
+1567	Neprovokujte ma.	
+1568	To som si objednal ja.	
+1569	Užite si americké raňajky.	
+1570	Myslel som, že by sa o tom z úcty k vám malo rokovať na najvyššej úrovni.	
+1571	Ďakujem, pane.	
+1572	Neviem, kedy sa to celé takto skomplikovalo.	
+1573	Niekedy sa to stáva.	
+1574	Aby bolo jasné, sme plne pripravení vymeniť takzvaného študenta, Pryora, za Rudolfa Abela.	
+1575	Od pána Vogela viem, že Pryorje pre vás veľmi dôležitý.	
+1576	Áno, ale...	
+1577	Preto k tomu spíšeme memorandum.	
+1578	Memorandum.	
+1579	Isteže, sme za bilaterálnu výmenu.	
+1580	Áno, iste.	
+1581	Nie som si istý, čo to znamená, ale...	
+1582	Moja krajina takisto trvá aj na Francisovi Garym Powersovi.	
+1583	Nie!	
+1584	Tu sa to celé tak poplietlo.	
+1585	Powers.	
+1586	Na čo vám je, pane?	
+1587	Chcete ho späť z kárnych dôvodov?	
+1588	Čo sa stalo, stalo sa.	
+1589	Prezradí, čo prezradil, rovnako ako bezpochyby aj Abel.	
+1590	My ale ponúkame niekoho, o kom tvrdíte, že je nevinný.	
+1591	A tak je to správne.	
+1592	Takých by ste mali zachraňovať.	
+1593	Budúcnosť.	
+1594	Pozerajte do budúcnosti.	
+1595	Ott.	
+1596	Ott.	
+1597	Prepáčte.	
+1598	Ospravedlníte ma na moment?	
+1599	Veľmi ma to mrzí, pane.	
+1600	Generálny prokurátor sa ospravedlňuje, ale musel naliehavo odísť.	
+1601	Odišiel?	
+1602	Áno.	
+1603	Veľmi sa ospravedlňuje.	
+1604	Čakal som viac ako hodinu.	
+1605	Veľmi ma to mrzí, pane.	
+1606	Mladý muž.	
+1607	Poďte sem.	
+1608	To je v poriadku.	
+1609	Poďte sem.	
+1610	[NO TRANSLATION]	missing translation
+1611	Sadnite si.	
+1612	No tak,	
+1613	posaďte sa.	
+1614	Páči sa vám vaša práca?	
+1615	Je to veľmi dobrá práca, pane.	
+1616	To určite.	
+1617	Musí to byť zaujímavé.	
+1618	Áno, pane.	
+1619	A dôležité.	
+1620	Máte dobrú angličtinu.	
+1621	Áno, zdráham sa povedať, že skvelú.	
+1622	Ale je skvelá, pane.	
+1623	[NO TRANSLATION]	missing translation
+1624	Dobre.	
+1625	Práve som prišiel o partnera v rokovaní a potrebujem sa s niekým porozprávať. A vy vyzeráte ako rozumný mladý muž.	
+1626	Môžem sa porozprávať s vami?	
+1627	[NO TRANSLATION]	missing translation
+1628	Je to v poriadku.	
+1629	Je to v poriadku.	
+1630	[NO TRANSLATION]	missing translation
+1631	Len potrebujem, aby ste vášmu vedúcemu nechali odkaz.	
+1632	Ale musí to byť veľmi jasný odkaz.	
+1633	Rozumiete?	
+1634	Áno, pane.	
+1635	Ale možno by ste mohli počkať, kým...	
+1636	Nie.	
+1637	Mám nádchu a chcem ísť domov do postele.	
+1638	Môžete mu odovzdať odkaz?	
+1639	Lste.	
+1640	Toto je ten odkaz.	
+1641	Abela nedostanete, pokiaľ nevydáte Powersa a Pryora.	
+1642	Rozumiete?	
+1643	Áno, pane.	
+1644	Je to dohodnuté na zajtra ráno.	
+1645	Nedôjde k tomu, ak nám nevydáte oboch.	
+1646	Dvoch mužov.	
+1647	Dvoch, dvoch.	
+1648	Áno, pane.	
+1649	A ak nedôjde k dohode, váš vedúci to musí povedať Sovietom.	
+1650	Musí povedať Sovietom, že nedostanú Rudolfa Abela.	
+1651	Áno, pane.	
+1652	A povedzte mu ešte toto.	
+1653	Doteraz bol Abel dobrým vojakom, ale myslí si, že ide domov.	
+1654	Ale ak mu budeme musieť povedať, že domov nejde, že ho Sovieti dokonca nechcú, že sa domov nikdy nedostane,	
+1655	viem si predstaviť, že sa jeho chovanie môže zmeniť.	
+1656	A kto bude za to zodpovedný?	
+1657	To je dlhý odkaz.	
+1658	Rozumiete všetkému?	
+1659	Áno, pane.	
+1660	Rozumiem.	
+1661	Dobre.	
+1662	Ste dobrý muž.	
+1663	[NO TRANSLATION]	missing translation
+1664	A ešte mu povedzte, že ak nedôjde k dohode dnes do konca pracovného času, žiadna nebude.	
+1665	Číslo má.	
+1666	Ak k výmene nedôjde, ráno nebude treba ani vstať.	
+1667	Nie, pane, to by bolo zbytočné.	
+1668	Žartujete!	
+1669	Žartujete!	
+1670	Ani nie.	
+1671	Potrebujem drobné.	
+1672	Toto je presne to, čo ste nemali robiť.	
+1673	Mojou úlohou bolo posúdiť situáciu.	
+1674	Vašou úlohou bolo získať Powersa, nie Pryora.	
+1675	To nebola pôvodná dohoda.	
+1676	Celé ste to pokašľali!	
+1677	Ako viete?	
+1678	Ja mám z toho celkom dobrý pocit.	
+1679	Celé ste to posrali!	
+1680	Nebojte sa.	
+1681	Myslím, že to dopadne dobre.	
+1682	Ako to viete?	
+1683	To nemôžete vedieť.	
+1684	Spojené štáty.	
+1685	New York, New York.	
+1686	Danke.	
+1687	Pozrite, celou touto vecou si ma chceli oťukať.	
+1688	Vymením jedného za jedného a ktorého?	
+1689	Ale ja som povedal: Nie, dvaja za jedného.	
+1690	Takže náš postoj poznajú.	
+1691	Čo ak si to premyslia a povedia:	
+1692	Zabudnite na to!	
+1693	My si necháme vašich ľudí, vy si nechajte nášho?	
+1694	Tak potom som to celé posral.	
+1695	Hej, zlatko!	
+1696	To som ja.	
+1697	Áno.	
+1698	Rybačka bola skvelá.	
+1699	Som v Londýne, mám ešte jedno stretnutie, potom už pôjdem domov.	
+1700	Pamätám si tú marmeládu.	
+1701	Je v tom obchode pri Regentskom parku.	
+1702	Dobre, ak budem mať čas.	
+1703	Môžem pozdraviť Rogera?	
+1704	A čo dievčatá?	
+1705	Je tam niekto, kto nie je zaneprázdnený?	
+1706	Všimli si vôbec, že nie som doma?	
+1707	Ideme na to.	
+1708	Dvaja za jedného.	
+1709	To je báječné.	
+1710	Poďme to osláviť.	
+1711	Drobný problém.	
+1712	A čo?	
+1713	Neprepustia Pryora s Powersom, nie na moste.	
+1714	Prepustia ho súčasne.	
+1715	Keď nám Rusi odovzdajú Powersa na moste, prepustia Pryora na Checkpoint Charlie.	
+1716	Čo to znamená?	
+1717	Podľa mňa: Chceme mať posledné slovo.	
+1718	Ale urobia to.	
+1719	To my povedzte vy.	
+1720	Vy ste to celé dohodli.	
+1721	Kde sú?	
+1722	Kde je náš človek?	
+1723	Kde je?	
+1724	Meškajú.	
+1725	Nikto nemešká.	
+1726	My sme tu skôr.	
+1727	Môžem?	
+1728	Áno.	
+1729	Hoffman.	
+1730	Áno?	
+1731	Myslím, že majú...	
+1732	Čo?	
+1733	Ostreľovačov.	
+1734	Som si istý, že majú.	
+1735	Ako si môžete byť istý?	
+1736	Lebo aj my máme ostreľovačov.	
+1737	Vystúpte, pane.	
+1738	Jim.	
+1739	Drahý Jim.	
+1740	Ako sa máte?	
+1741	Rád vás vidím.	
+1742	To vy ste to pre mňa všetko zariadili?	
+1743	Najskôr sa pozrime, ako to dopadne, skôr ako na tom budem mať zásluhu.	
+1744	Niečo nové o Pryorovi z Checkpoint Charlie?	
+1745	Ešte sa nič nedeje.	
+1746	Prepáčte, pane.	
+1747	Toto je poručík Joe Murphy, letectvo Spojených štátov. Prišiel identifikovať Powersa.	
+1748	Poručík Murphy.	
+1749	Pane.	
+1750	Môže nastať menší problém.	
+1751	Bol som mladý muž, keď som odišiel.	
+1752	Koho nájdu, aby ma identifikoval?	
+1753	Dúfam, že nie vašu východonemeckú rodinu.	
+1754	Pochybujem, že by sa dokázali identifikovať navzájom.	
+1755	Vyzerá to ako naša výprava.	
+1756	Dobre, poďme.	
+1757	Môžete zostať tu, Donovan.	
+1758	To sotva.	
+1759	Otvorte závoru.	
+1760	Čo myslíte, že sa stane, keď prídete domov?	
+1761	Myslím,	
+1762	že si dám vodku.	
+1763	Áno.	
+1764	Áno.	
+1765	Ale, Rudolf, nie je možné...	
+1766	Že ma naši zastrelia?	
+1767	Áno.	
+1768	Nebojíte sa?	
+1769	Pomohlo by to?	
+1770	Aby som odpovedal na vašu otázku, priateľ môj... Konal som čestne.	
+1771	Myslím, že to vedia.	
+1772	Ale niekedy sa ľudia mýlia.	
+1773	Ľudia sú ľudia.	
+1774	Uvidíme, ako ma uvítajú.	
+1775	Ako to zistím?	
+1776	Podľa toho, či ma objímu alebo hodia na zadné sedadlo.	
+1777	[NO TRANSLATION]	missing translation
+1778	Zložte si klobúk.	
+1779	Zdravím, Powers.	
+1780	Zdravím, Murph.	
+1781	Áno, to je Powers.	
+1782	Dobre, pán Donovan.	
+1783	Poďte!	
+1784	Počkať.	
+1785	Verte mi, poviem vám.	
+1786	Nikto tu nie je.	
+1787	Toho druhého muža prepúšťajú na Checkpoint Charlie.	
+1788	Potrebujeme potvrdiť, že je tam.	
+1789	Teraz!	
+1790	Podľa plánu, prosím.	
+1791	Poďme.	
+1792	Pryor sa ukáže alebo sa neukáže.	
+1793	Poďme.	
+1794	Čakajú, aby sa presvedčili, či k výmene dôjde aj bez neho.	
+1795	Musíme tu zostať stáť, ukázať im, že bez neho neodídeme.	
+1796	Je mi ukradnuté, čo chcú.	
+1797	My máme svoj cieľ.	
+1798	Choďte, Abel.	
+1799	Choďte, pane.	
+1800	Môžete ísť.	
+1801	Ak nedodržíte plán, odchádzame.	
+1802	K výmene dôjde hneď, inak odchádzame!	
+1803	Čakáte na toho druhého muža?	
+1804	Áno.	
+1805	Aj jeho chcete.	
+1806	Chcem ho.	
+1807	Na tom nezáleží, čo chce on, pane.	
+1808	Velím tu ja a vy môžete ísť.	
+1809	Prosím, choďte.	
+1810	Prejdite tam.	
+1811	Môžem počkať.	
+1812	Niečo sa deje.	
+1813	Ešte si nie som istý.	
+1814	Počkajte!	
+1815	[NO TRANSLATION]	missing translation
+1816	Máme ho!	
+1817	[NO TRANSLATION]	missing translation
+1818	Poslal som vám darček, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Maľbu.	
+1821	Dúfam, že to pre vás bude niečo znamenať.	
+1822	Prepáčte,	
+1823	mne nenapadlo dať vám dar.	
+1824	Toto je váš dar.	
+1825	Toto je váš dar.	
+1826	[NO TRANSLATION]	missing translation
+1827	Poďme! Poďme!	
+1828	Pán Donovan.	
+1829	Plukovník Abel ma požiadal, aby som vám dal toto.	
+1830	Prepáčte, pane.	
+1831	Pane, to vy ste to mali na starosti?	
+1832	Áno.	
+1833	Musím vám poďakovať.	
+1834	Musím niekomu poďakovať.	
+1835	Nič som im neprezradil.	
+1836	Nič som im neprezradil.	
+1837	Na tom nezáleží.	
+1838	Nezáleží na tom, čo si ľudia myslia.	
+1839	Vy viete, čo ste urobili.	
+1840	Vitaj doma.	
+1841	To bol ale výlet.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Si v poriadku?	
+1845	Áno, som.	
+1846	Máš tú marmeládu?	
+1847	Áno, mám.	
+1848	Mám.	
+1849	Mám.	
+1850	Mám ju.	
+1851	Ako si chcela.	
+1852	Jim.	
+1853	Toto je z obchodu Arno's.	
+1854	A?	
+1855	Tu na rohu!	
+1856	Mal som veľa práce.	
+1857	Prepáč.	
+1858	[NO TRANSLATION]	missing translation
+1859	Prepánajána.	
+1860	Ako sa má Roger?	
+1861	Je doma?	
+1862	Je doma,	
+1863	Carol je doma, aj Peggy.	
+1864	Všetci sú doma.	
+1865	Mami!	
+1866	Rýchlo!	
+1867	Pozri!	
+1868	Mami, poď sem!	
+1869	Mami, poď sem!	
+1870	Toto musíš vidieť!	
+1871	Pozeraj!	
+1872	[NO TRANSLATION]	missing translation
+1873	No tak!	
+1874	V Sovietskom zväze bol prepustený Francis Gary Powers a americkým úradom ho vydali dnes ráno v Berlíne.	
+1875	Prezident zmiernil trest Rudolfa Abela.	
+1876	Abel bol deportovaný a prepustený v Berlíne.	
+1877	Snahy o prepustenie pána Powersa trvali už istý čas.	
+1878	Pri posledných pokusoch s vládou USA spolupracoval a pomáhal jej newyorský právnik, James B. Donovan.	
+1879	Amerického študenta Frederica L. Pryora, zadržiavaného úradmi Východného Nemecka od augusta 1961...	
+1880	Myslela som, že ocko bol na rybačke.	
+1881	Lososov.	
+1882	Abel zmizol v komunistickom svete.	
+1883	Máme tu Powersa, ktorý zodpovie na pár otázok.	
+1884	A Donovan sa vrátil do svojej právnickej firmy.	
+1885	Teraz tu máme Georgea Fennemana zo združenia Douglas Fir Plywood.	

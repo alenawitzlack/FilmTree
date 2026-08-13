@@ -1,0 +1,1885 @@
+1	[NO TRANSLATION]	missing translation
+2	[NO TRANSLATION]	missing translation
+3	Stepenicama,	
+4	ovuda.	
+5	Nije prošao ovuda?	
+6	[NO TRANSLATION]	missing translation
+7	[NO TRANSLATION]	missing translation
+8	[NO TRANSLATION]	missing translation
+9	Oprostite.	
+10	Oprostite.	
+11	Parkiraj iza ćoška.	
+12	Posjetitelji.	
+13	Mogu li uzeti svoje zube?	
+14	Okrenite se, pukovniče.	
+15	Sjednite na krevet.	
+16	[NO TRANSLATION]	missing translation
+17	[NO TRANSLATION]	missing translation
+18	Zubi su u onome... na umivaoniku.	
+19	Pogledajte me!	
+20	Mi smo agenti FBI-a.	
+21	Pogledajte me!	
+22	Pričam s vama!	
+23	Primili smo informacije o vašem učešću u špijunaži.	
+24	Možete surađivati s nama ili ćemo vas uhititi.	
+25	Jasno, pukovniče?	
+26	Ne baš.	
+27	Zašto me stalno zovete pukovniče?	
+28	Morate se obući.	
+29	Moramo pretražiti vaš stan.	
+30	Mogu li očistiti paletu?	
+31	Inače će se uništiti.	
+32	Iza vas.	
+33	Imam krpu.	
+34	Hvala.	
+35	Počnite pretraživati.	
+36	[NO TRANSLATION]	missing translation
+37	Ispod madraca, podova...	
+38	Hoćete li staviti ovo u pepeljaru? Na prozoru tamo.	
+39	[NO TRANSLATION]	missing translation
+40	[NO TRANSLATION]	missing translation
+41	Ne želim da se ovo uništi.	
+42	Ne zovite ga mojim čovjekom.	
+43	Nije on moj.	
+44	Jest.	
+45	O kome pričamo?	
+46	Govorimo o čovjeku koji je osiguran kod mog klijenta.	
+47	Ali ne zovite ga mojim čovjekom.	
+48	Dobro.	
+49	Želim reći da čovjek osiguran kod vašeg klijenta... Ne poriče da se to sve dogodilo.	
+50	[NO TRANSLATION]	missing translation
+51	To sve?	
+52	Da. Svih pet stvari.	
+53	Čekaj, čekaj.	
+54	Ne pet stvari.	
+55	Jedna stvar.	
+56	Očito je pet stvari.	
+57	Oprostite, ali nije mi jasno.	
+58	[NO TRANSLATION]	missing translation
+59	Objasnite.	
+60	Očito je samo po sebi.	
+61	Dobro. Recite mi što se dogodilo?	
+62	Ispričajte mi priču da ima smisla kao pet stvari.	
+63	U redu.	
+64	Vaš čovjek...	
+65	Nije moj čovjek.	
+66	Osiguran kod mog klijenta.	
+67	Vozio je autocestom 19 kad je izgubio kontrolu nad autom i udario mojih 5 ljudi. Koje ja zastupam jer ne poštivate zahtjev.	
+68	Moj klijent ne poštiva? Osiguravajuća tvrtka?	
+69	G. Donovan, raščistili smo tko je tko ovdje.	
+70	Samo što moj klijent poštuje odštetni zahtjev.	
+71	Tako je, g. Bates.	
+72	Svaki pravi zahtjev. Do granice jamstva, što je 100.000 $ po nezgodi u slučaju police ovog čovjeka.	
+73	Ovo je jedan odštetni zahtjev.	
+74	Po vašem opisu udario je pet ljudi.	
+75	Čovjek osiguran kod mog klijenta imao je jednu nezgodu.	
+76	[NO TRANSLATION]	missing translation
+77	Izgubio je kontrolu nad autom i udario pet motociklista.	
+78	S njihove točke gledišta dogodilo se pet stvari.	
+79	Gle, Bobe,	
+80	mogu li?	
+81	[NO TRANSLATION]	missing translation
+82	Jim.	
+83	Ako odem kuglati i srušim sve odjednom jedna stvar se dogodila.	
+84	Ne deset stvari.	
+85	Moji ljudi nisu čunjevi za kuglanje. Iako ih je tvoj čovjek tako tretirao.	
+86	[NO TRANSLATION]	missing translation
+87	Dopusti da završim.	
+88	Dopusti da završim.	
+89	Ako ti je kuća osigurana na 100.000 $ i tornado je odnese, odnio je jednu kuću.	
+90	Nije uzeo svaki komad namještaja i uništio ga u zasebnim nezgodama.	
+91	Ako to želiš reći... Onda nema kraja našem jamstvu i to je kraj osiguravajućeg posla.	
+92	Onda nitko nije siguran, Bobe.	
+93	Watters, Cowan i Donovan,	
+94	kako vam mogu pomoći?	
+95	Dobro jutro, g. Donovane.	
+96	Dobro jutro, Alison.	
+97	Pomjerila sam vam sastanak s Prudentialom u 9.	
+98	Zašto?	
+99	Ja sam je tražio.	
+100	Je li sve u redu, Tome?	
+101	Ostavi stvari kod Alison	
+102	i uđi unutra.	
+103	Nešto vrlo važno je iskrsnulo	
+104	i netko nas je posjetio.	
+105	Natalie će ti donijeti kavu.	
+106	Nescafe, sa šlagom, dva šećera?	
+107	Tako je,	
+108	hvala.	
+109	Lynne!	
+110	Jime,	
+111	drago mi je vidjeti te.	
+112	Kako je obitelj?	
+113	Dobro,	
+114	hvala.	
+115	Kako je Annie?	
+116	Želi se ubiti.	
+117	Svekrva je bila kod nas.	
+118	Ako se bude ponašala u skladu imat će dobar prikaz.	
+119	Što je bilo?	
+120	Ovako stvari stoje.	
+121	Sovjetski špijun kojeg su uhvatili. Želimo da ga braniš.	
+122	Evo optužnice.	
+123	[NO TRANSLATION]	missing translation
+124	Nisam siguran želim li to podignuti.	
+125	Optuženi ne zna nijednog odvjetnika.	
+126	Federalni sud je nama to uvalio.	
+127	Pravni odbor je glasao	
+128	i ti si bio jednoglasan izbor.	
+129	Važno je nama	
+130	i našoj državi tretirati ovog čovjeka pošteno.	
+131	Sudit će se američkoj pravdi.	
+132	Kad to tako prikažete velika je čast,	
+133	ali Lynne, ja sam odvjetnik za osiguranja.	
+134	Nisam godinama radio ovo.	
+135	To je kao vožnja biciklom, zar ne?	
+136	Istaknuo si se u Nurembergu.	
+137	Bio sam u tužiteljstvu.	
+138	Nema veze.	
+139	Nije ti strano kriminalno pravo.	
+140	Pogledaj situaciju.	
+141	Čovjeka javno izruguju.	
+142	I mene će.	
+143	Da, u neupućenim četvrtima.	
+144	Zato ovo mora biti odrađeno kako spada.	
+145	Ne može izgledati da naš pravni sustav baca ljude na hrpu pepela.	
+146	Ako prihvatim, kakvi su dokazi?	
+147	Znatno nadmoćni.	
+148	Odlično.	
+149	Odlično.	
+150	Svi će me mrziti, ali barem ću izgubiti.	
+151	Što misliš, Tome?	
+152	Tvrtka će patiti,	
+153	imam posla ovdje.	
+154	Mislim da je to patriotska dužnost.	
+155	Važna misija.	
+156	Rekao sam Lynnu da tvrtka ne može odbiti, a i ti ćeš teško odbiti.	
+157	Mislim da moraš braniti kujinog sina.	
+158	Znači, uradit ćete to?	
+159	Što?	
+160	Braniti Abela? Sovjetskog špijuna?	
+161	Možda.	
+162	[NO TRANSLATION]	missing translation
+163	Kako ti to znaš?	
+164	Je li objavljeno na oglasnoj ploči?	
+165	[NO TRANSLATION]	missing translation
+166	Razgovarao sam s Richardom...	
+167	Ako to uradim, morat ćeš mi pomoći.	
+168	Možeš li raditi večeras?	
+169	Imam zakazanu večeru, gospodine.	
+170	Utorak je, zar ne?	
+171	Slobodan sam.	
+172	Hvala, gospodine.	
+173	Ali to je i čast.	
+174	Pravni odbor je izabrao mene jer žele pokazati da i špijun dobiva sposobnog odvjetnika.	
+175	Možda je to čast bez koje bismo mogli.	
+176	Hej, dušo, što ćeš ti ovdje?	
+177	Otkazao je.	
+178	Što? Grozno.	
+179	Tko je taj tupan?	
+180	Radije ne bih rekla.	
+181	Sjedni,	
+182	tek smo počeli.	
+183	Ljudi se boje,	
+184	prave skloništa da se zaštite od takvih kao on.	
+185	Idem u trgovinu, ljudi kupuju konzerviranu hranu i kalij tablete.	
+186	Sve zbog tog čovjeka i onoga što on predstavlja.	
+187	Prijetnja je svima,	
+188	izdajica.	
+189	Tko je izdajica?	
+190	Rosenburgovi.	
+191	Tko su oni?	
+192	Odavali su atomske tajne Rusima.	
+193	Bili su Amerikanci.	
+194	Izdali su svoju državu.	
+195	Ali Abel nije izdajica.	
+196	Nije Amerikanac.	
+197	Poslušaj se.	
+198	Već ga braniš.	
+199	Vježbaš na meni.	
+200	Rekao si da razmišljaš o tome.	
+201	Tako je, ali intenzivno.	
+202	Svi zaslužuju obranu.	
+203	Svaka osoba je bitna.	
+204	Jime, što mi zaslužujemo?	
+205	Znaš kako će nas ljudi gledati?	
+206	Obitelj čovjeka koji pokušava osloboditi izdajicu?	
+207	Nije izdajica!	
+208	[NO TRANSLATION]	missing translation
+209	Rogere, idi vidi tko je.	
+210	[NO TRANSLATION]	missing translation
+211	Zašto ja sve moram?	
+212	[NO TRANSLATION]	missing translation
+213	Ne prije molitve.	
+214	Gladna sam.	
+215	Najomraženiji je čovjek u državi, a ti želiš biti drugi.	
+216	A ja sam treća.	
+217	Carol, samo si odabrala pogrešnog dečka.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, nemojmo se prepirati.	
+220	Ti si protiv njega, ja sam za?	
+221	Nisam za njega	
+222	ni to da nas Rusi špijuniraju.	
+223	Ja sam za to da ima pravo na obranu na sudu. Zato i jest sud pravde.	
+224	<Zdravo./> Oprostite, nisam htio prekidati večeru.	missing English
+225	Sud pravde, a ne klokanski sud.	
+226	Zdravo, Doug.	
+227	Nikako, Doug,	
+228	[NO TRANSLATION]	missing translation
+229	Jim samo laprda.	
+230	Ne laprdam.	
+231	Hajde, sjedni i pridruži nam se.	
+232	Imamo mesnu štrucu.	
+233	Došao si pomoći Jimu razmisliti o tome hoće li prihvatiti slučaj?	
+234	Ma prihvatit ćemo ga.	
+235	Nije li to uzbudljivo?	
+236	Bože, hvala Ti na ovome što smo primili.	
+237	Po tijelu Kristovom.	
+238	Amen.	
+239	Dobro jutro, gospodine,	
+240	ja sam Jim Donovan.	
+241	Ovo su moji akreditivi.	
+242	Partner sam u tvrtki Watters, Cowan and Donovan.	
+243	Primljen sam u pravnu službu New Yorka 1941.	
+244	Imate tri točke optužnice i 19 činova s prednakanom;	
+245	urota prenošenja obrambenih tajni SAD-a Sovjetskom savezu, urota skupljanja tajni i neprijavljivanje kao strani agent.	
+246	Prijavljuje li se puno stranih agenata?	
+247	Ako smijem pitati, gospodine... Od vašeg privođenja, gdje ste bili?	
+248	Ne mogu sa sigurnošću reći.	
+249	Ne znate?	
+250	Odveli su me na aerodrom. Smjestili u avion, izvukli iz aviona.	
+251	Negdje gdje je toplo.	
+252	Ovdje je toplo.	
+253	Toplije. S velikom vlagom.	
+254	Smjestili su me u sobu.	
+255	Jesu li vas tukli?	
+256	Ne.	
+257	Pričali su sa mnom.	
+258	Nudili su mi ponude.	
+259	Kako to mislite?	
+260	Ponude zaposlenja. Kako bih radio za vašu Vladu.	
+261	Rečeno mi je ako budem surađivao neće me optužiti ni za što više.	
+262	I dat će mi novac.	
+263	[NO TRANSLATION]	missing translation
+264	Odbili ste?	
+265	Kao što vidite.	
+266	Naravno da to ne mogu podržati.	
+267	Osjećam dužnost savjetovati vam surađivanje s Vladom SAD-a.	
+268	Rekao sam ne.	
+269	Možda želite prenijeti prijateljima u CIA-i da sam ozbiljan.	
+270	Ne,	
+271	[NO TRANSLATION]	missing translation
+272	ja ne radim za Agenciju.	
+273	Ne radim za Vladu.	
+274	Ovdje sam ponuditi vam usluge pravnog savjetnika.	
+275	Ako ih prihvaćate, radim za vas.	
+276	Ako vas prihvatim?	
+277	Jeste li dobri u svom poslu?	
+278	Da.	
+279	Prilično dobar.	
+280	Jeste li predstavljali mnoge optužene špijune?	
+281	Još uvijek nisam.	
+282	Ovo će biti prvi put za obojicu.	
+283	[NO TRANSLATION]	missing translation
+284	Dobro.	
+285	Dobro,	
+286	prihvaćate?	
+287	Da.	
+288	Dobro. U redu.	
+289	Počnimo ovako.	
+290	Odlučni ste u namjeri nesuradnje s američkom Vladom?	
+291	Jesam.	
+292	[NO TRANSLATION]	missing translation
+293	Onda ne razgovarajte ni sa kim o svome slučaju unutar Vlade ili izvan.	
+294	Osim sa mnom uz to da mi vjerujete.	
+295	Ja imam punomoć pomoći vam.	
+296	Nitko drugi nema.	
+297	Iskreno, ostali vas žele poslati na električnu stolicu.	
+298	Dobro.	
+299	Ne činite se uplašeni.	
+300	Bi li pomoglo?	
+301	[NO TRANSLATION]	missing translation
+302	Htio bih materijale za crtanje.	
+303	Nije moguće.	
+304	Olovku i papir.	
+305	Cigarete.	
+306	Molim vas.	
+307	G. Donovane, imate ljude koji rade isto za vašu državu.	
+308	Sigurno biste htjeli dobar odnos prema njima ako bi ih uhvatili.	
+309	Kako se zovete?	
+310	Francis Gary Powers.	
+311	Čin i služba?	
+312	Natporučnik, Zrakoplovstvo SAD-a.	
+313	Imate li veze sa Sovjetskim savezom, natporučniče?	
+314	Šalite se?	
+315	Odgovorite na pitanje.	
+316	Da, ne, najjednostavnije što možete.	
+317	Imate li veze sa Sovjetskim savezom?	
+318	Naravno da ne.	
+319	Znate li zašto ste ovdje?	
+320	Aa.	
+321	Je li to ne?	
+322	Da.	
+323	Ovaj,	
+324	ne. Samo ne.	
+325	Da, nemam pojma zašto sam ovdje.	
+326	Pogled naprijed.	
+327	[NO TRANSLATION]	missing translation
+328	Kako je bilo, Gary?	
+329	Dobro.	
+330	Mislim da sam pogodio ime.	
+331	Sigurno si bio bolji od Shinna.	
+332	Tko pobjeđuje?	
+333	Ja.	
+334	[NO TRANSLATION]	missing translation
+335	Podijelite i meni. <Nadam se da znate igrati./>	missing English
+336	[NO TRANSLATION]	missing translation
+337	[NO TRANSLATION]	missing translation
+338	Dobro, vozači, ovako stvari stoje.	
+339	Odabrani ste za misiju koju ne smijete spominjati nikome.	
+340	Nikome!	
+341	Briga me kome vjerujete.	
+342	Ženi, majkama, simpatijama.	
+343	Bogu, kad se molite navečer.	
+344	Nikome nećete reći ništa od ovoga što ću vam sada reći.	
+345	Svaki od vas ima određene kvalifikacije.	
+346	Visoka razina odobrenja.	
+347	Izvrsne letačke sposobnosti i više nego potrebno sati leta.	
+348	Uključeni smo u rat.	
+349	U ovom trenutku ne uključuje vojnike	
+350	nego informacije.	
+351	Skupljat ćete informacije.	
+352	Otkrivat ćete informacije o neprijatelju	
+353	i ono što saznate može dati prednost u termonuklearnom sukobu sa Sovjetskim savezom.	
+354	Ili može spriječiti sukob.	
+355	U javne svrhe, što se tiče majki, ljubavi i Boga, vaša misija ne postoji.	
+356	Ako ne postoji ni vi ne postojite.	
+357	Ne možete biti srušeni,	
+358	ne može vas se uhvatiti.	
+359	Sada radite za CIA-u.	
+360	Jim, čujem da tvoj tip priča čudnim naglaskom.	
+361	Je li tako stalno?	
+362	Mislim da jednostavno tako priča.	
+363	Ima rusko ime, ali britansku putovnicu.	
+364	Sumnjam da je prava.	
+365	Jim, kako stojimo?	
+366	Da vidimo...	
+367	Da, suče, mislim da tri tjedna neće biti dovoljna.	
+368	[NO TRANSLATION]	missing translation
+369	Imamo gomilu dokaza.	
+370	Želite odgoditi?	
+371	Šest tjedana.	
+372	Samo smo ja i moj suradnik.	
+373	Ti to ozbiljno?	
+374	Gospodine?	
+375	Ti to ozbiljno?	
+376	Da.	
+377	[NO TRANSLATION]	missing translation
+378	Vidjet ćete u spisu...	
+379	Jime, taj čovjek je sovjetski špijun.	
+380	Navodno.	
+381	Molim vas, odvjetniče.	
+382	Suče...	
+383	Naravno,	
+384	svi vam odajemo počast što ste se uhvatili nezahvalnog zadatka.	
+385	[NO TRANSLATION]	missing translation
+386	No, nemojmo se zavaravati.	
+387	Dobit će sposobnu obranu.	
+388	Ako Bog da, bit će osuđen.	
+389	[NO TRANSLATION]	missing translation
+390	Nećemo igrati igrice.	
+391	Ne u mojoj sudnici.	
+392	Imamo datum i idemo na suđenje.	
+393	Taxi?!	
+394	Taxi?!	
+395	Vidim ti svjetlo upaljeno!	
+396	Kučkin sin.	
+397	Jedva čeka stići na Manhattan.	
+398	Svjetlo je bilo upaljeno, zar ne?	
+399	Kučkin sin.	
+400	[NO TRANSLATION]	missing translation
+401	[NO TRANSLATION]	missing translation
+402	[NO TRANSLATION]	missing translation
+403	[NO TRANSLATION]	missing translation
+404	[NO TRANSLATION]	missing translation
+405	[NO TRANSLATION]	missing translation
+406	G. Donovane?	
+407	Što?	
+408	Što je?!	
+409	CIA.	
+410	Da.	
+411	Samo sam htio pročavrljati.	
+412	Kako slučaj napreduje?	
+413	Odlično.	
+414	Ne može bolje.	
+415	[NO TRANSLATION]	missing translation
+416	Je li vaš tip progovorio?	
+417	Oprostite?	
+418	Upoznali ste ga.	
+419	Je li progovorio?	
+420	Rekao nešto?	
+421	Nećemo imati ovaj razgovor.	
+422	Dakako.	
+423	Zaista ga nećemo imati.	
+424	Tražite da prekršim privilegiju šutnje odvjetnika i klijenta.	
+425	Dajte, odvjetniče...	
+426	Volio bih da ljudi kao vi prestanu to govoriti.	
+427	Nije mi se svidjelo prvi puta,	
+428	a sudac mi je rekao dva puta.	
+429	Što to više slušam sve mi se manje sviđa.	
+430	U redu, razumijem za privilegiju šutnje,	
+431	sve pravne zavrzlamice.	
+432	Tako vi zarađujete.	
+433	Ali, govorim vam o nečemu drugome.	
+434	Sigurnosti vaše zemlje.	
+435	Žao mi je ako sam vas uvrijedio,	
+436	ali moramo znati što vam Abel govori.	
+437	Shvaćate me, Donovane?	
+438	Moramo znati.	
+439	Nemojte se ponašati kao skaut.	
+440	Nemamo pravilnik ovdje.	
+441	Agent Hoffman?	
+442	Da.	
+443	Njemački korijeni?	
+444	Da, pa što?	
+445	Ja se prezivam Donovan.	
+446	Irac,	
+447	s obje strane. Majka i otac.	
+448	Ja sam Irac, vi ste Nijemac,	
+449	ali što nas obojicu čini Amerikancima?	
+450	Samo jedna stvar.	
+451	Jedna, jedna, jedna.	
+452	Pravilnik.	
+453	Mi ga nazivamo Ustav. Slažemo se oko pravila i to nas čini Amerikancima.	
+454	Zbog toga smo Amerikanci. Ne govorite da nema pravilnika. Nemojte mi klimati glavom, kučkin sine.	
+455	Moramo li se brinuti zbog vas?	
+456	Ne, ako me ostavite na miru da radim svoj posao.	
+457	Od ovoga trenutka nećete U-2 zvati špijunski ili izvidnički avion.	
+458	Zvat ćete ga Članak.	
+459	Članak ima raspon krila od 25 m.	
+460	Napaja ga jedan Pratt and Whitney J57 P37 motor.	
+461	Četiri i pol tone potiska. Maksimalna brzina je 692 km/h.	
+462	Možda nije brz, ali na visini od 21.000 m ništa vam neće prići.	
+463	21.000?	
+464	Ideja je da neprijatelj ni ne zna da ste tamo.	
+465	Izgleda nezgrapno.	
+466	Svaki dodatni kilogram uzima metar visine. Morali smo smjestiti kamere.	
+467	Ovo je 4500 milimetarska leća. Trostruki zoom.	
+468	Kristalno čista panoramska slika. Četiri puta jača od bilo koje izvidničke kamere koju smo koristili.	
+469	Fotografirat ćete. Puno fotografija.	
+470	Na 21.000 m Članak može uhvatiti 5.200 km2 teritorija u jednom prolazu.	
+471	Vozači, posvetite pažnju agentu Sumneru.	
+472	Predmeti potrebni za vašu misiju su ovdje.	
+473	B-kamera, hvaljeni A-model. Srebrni Keystone za 3K.	
+474	Četka za brijanje sa šupljom drškom.	
+475	Set šifriranih tablica na jestivoj srebrnoj foliji.	
+476	Specijalistička fotografska oprema.	
+477	[NO TRANSLATION]	missing translation
+478	Shvatili smo,	
+479	hvala.	
+480	Oprostite, agente Bosco,	
+481	Blasco?	
+482	Gospodine?	
+483	Čini se da postoji podlista ovoj listi.	
+484	Većina je stigla iz njegovog ateljea. Ostatak je iz hotelske sobe u kojoj se skrivao.	
+485	Gdje smo ga pronašli.	
+486	Hotelsku sobu koju ste pretražili?	
+487	Da.	
+488	Mogu li vidjeti nalog?	
+489	Što?	
+490	Objasnite mi to.	
+491	Bio je nalog.	
+492	Bio je nalog.	
+493	Za privođenje stranca. Nije bilo naloga za pretraživanje. Niti za kriminalnu aktivnost.	
+494	Stoga su to pretraživanje i dokazi te pretrage nevaljani.	
+495	Na kakvu zaštitu on ima pravo, suče?	
+496	[NO TRANSLATION]	missing translation
+497	Kako se zove?	
+498	Rudolph Ivanovič Abel.	
+499	Sovjetski je građanin.	
+500	Nije američki.	
+501	1886 Yick Wo protiv Hopkinsa.	
+502	Sud je presudio da i stranci ne mogu odgovarati za zločin bez sprovedbe zakona. Uključujući i strance koji su ušli u državu nelegalno.	
+503	Ministarstvo pravosuđa na prvom mjestu stoji na strani SAD-a.	
+504	Ne znam kako su strancu, ako je ovdje ilegalno, oduzeta prava.	
+505	[NO TRANSLATION]	missing translation
+506	Prava kao Amerikanca?	
+507	Prava kao čega, odvjetniče?	
+508	Mi smo u borbi za civilizaciju.	
+509	Taj špijun prijeti našem načinu života.	
+510	Čeka me sudnica puna ljudi.	
+511	Sjednite pored Rusa	
+512	i idemo završiti s ovime.	
+513	Vaš prijedlog je odbijen.	
+514	Trebao je uzeti osiguranje na sebe.	
+515	Kako je prošlo?	
+516	Unutra?	
+517	[NO TRANSLATION]	missing translation
+518	Ne najbolje.	
+519	Očito nisi američki građanin.	
+520	Istina.	
+521	A prema tvome šefu nisi ni sovjetski građanin.	
+522	Šefovi nisu uvijek u pravu. Ali uvijek je on šef.	
+523	Zar se ti nikada ne brineš?	
+524	Bi li pomoglo?	
+525	Svi ustanite!	
+526	Zaklinjem se zastavi Sjedinjenih Američkih Država. I republici koju ona predstavljaju. Jedna nacija pred Bogom, nedjeljiva, sa slobodom i pravdom za sve.	
+527	Prvo morate znati što se dogodi kad eksplodira atomska bomba.	
+528	Zabliješti jarka svjetlost, jača od Sunca.	
+529	Može srušiti zgrade, slomiti prozore po cijelom gradu.	
+530	Ali ako se sagnete i pokrijete kao Burt bit ćete sigurniji.	
+531	Dvije su vrste napada. Sa upozorenjem i bez upozorenja.	
+532	[NO TRANSLATION]	missing translation
+533	Što se događa ovdje?	
+534	Tata, ovo je vrlo važno.	
+535	Kad rat počne prvo prekinu dovod vode i struje.	
+536	Mi trebamo držati ovo puno, a koristiti tuš u tvojoj sobi, sudoper u prizemlju i vrtnu kuću.	
+537	Dobre ideje.	
+538	Ali, Rogere, nemoj to gledati kao nešto oko čega se moraš brinuti.	
+539	Ali kad oglase sirene neće biti dovoljno vremena napuniti kadu.	
+540	Neće biti sirena.	
+541	Što je ovo?	
+542	Kad bace bombu, Crveni će ciljati Empire State Building.	
+543	No, bomba eksplodira na 3000 m.	
+544	U časopisu Life to se naziva zračni prasak i ako je bomba 50 megatona val eksplozije se širi i širi i spalit će sve odavde dovde.	
+545	Uključujući i gdje živimo.	
+546	Ovdje.	
+547	[NO TRANSLATION]	missing translation
+548	Nitko neće baciti atomsku bombu na nas.	
+549	Ali Rusi žele.	
+550	Znaš onog Rusa kojeg braniš?	
+551	On ovdje priprema sve za tipove koji će baciti bombu.	
+552	[NO TRANSLATION]	missing translation
+553	Nije zbog toga ovdje.	
+554	On nije ni Rus.	
+555	Rodio se u sj. Engleskoj.	
+556	Ali ruski je špijun.	
+557	Ne shvaćam ni što radiš.	
+558	Nisi komunist, zašto ga braniš?	
+559	Jer mi je to posao.	
+560	Nije prije bio.	
+561	Slučaj Sjedinjene Američke Države protiv Rudolfa Abela. Po prvoj točki optužnice kako ste presudili optuženome?	
+562	Kriv ili nije kriv?	
+563	Kriv.	
+564	Po drugoj točki optužnice?	
+565	Kriv.	
+566	Po trećoj točki optužnice?	
+567	Kriv.	
+568	Suče, tražim da se presude odbace na osnovu jačih dokaza.	
+569	Odbijeno.	
+570	Porota je raspuštena.	
+571	Hvala svima.	
+572	Volio bih dodati da sam bio jedan od vas donio bih istu presudu.	
+573	Izvršenje presude bit će... 15. studenoga.	
+574	Smrtna presuda nije nužan zaključak,	
+575	ne brinite.	
+576	Ne bojim se umrijeti, g. Donovane.	
+577	Iako... Ne bi mi to bio prvi izbor.	
+578	Ostavili ste ovo.	
+579	Hvala.	
+580	Hvala puno.	
+581	Nikada me niste pitali jesu li optužbe istinite.	
+582	Jesam li zaista špijun.	
+583	Tako mi to radimo.	
+584	Slučaj protiv vas je bitan.	
+585	Dokazati to je bitno.	
+586	Fikcija,	
+587	jeste li to ili ne, nije bitna.	
+588	Država mora dokazati da ste špijun.	
+589	Niste znatiželjni?	
+590	Nisam.	
+591	Uvijek sam pretpostavljao da ste umjetnik.	
+592	Moja žena je umjetnica.	
+593	Glazbenica. U dječjem moskovskom orkestru.	
+594	Koji instrument?	
+595	Harfa.	
+596	[NO TRANSLATION]	missing translation
+597	Onda je ona anđeo.	
+598	Dok stojite tako podsjećate me na čovjeka koji je dolazio kod nas.	
+599	Moj otac je govorio da promatram tog čovjeka.	
+600	Jesam. Svaki put kad bi došao.	
+601	Nikada nije uradio nešto veličanstveno.	
+602	Podsjećam vas na njega?	
+603	Jednom, kad sam bio godina vašeg sina,	
+604	našu kuću su preplavili partizanski graničari.	
+605	Deseci.	
+606	Otac i majka su mi pretučeni, a očev prijatelj, taj čovjek, i on je pretučen.	
+607	Gledao sam tog čovjeka.	
+608	Svaki put kad bi ga udarili, opet bi se ustao.	
+609	Zato su ga udarali jače.	
+610	Opet se vraćao na noge.	
+611	Mislim da su ga zbog toga prestali tući	
+612	i ostavili ga na životu.	
+613	<Stoikey muzhik./> Sjećam se da su govorili stoikey muzhik.	missing English
+614	Otprilike znači... Čovjek koji stoji.	
+615	Čovjek koji stoji.	
+616	Zdravo, Jime.	
+617	Millie, predivno izgledaš.	
+618	Mortie se oblači,	
+619	ali uđi unutra.	
+620	Viski?	
+621	Može, molim te.	
+622	[NO TRANSLATION]	missing translation
+623	Samo kapljicu vode.	
+624	Suče.	
+625	Jime.	
+626	Upravo izlazim.	
+627	Imam par minuta.	
+628	Dobrotvorna večer udruge March of Dimes.	
+629	Millie je članica.	
+630	Hvala što ste me primili.	
+631	Htio sam izraziti mišljenje na presudu	
+632	pa sam odlučio gnjaviti vas kod kuće jer nisu mi sva mišljenja striktno vezana uz pravo.	
+633	Da, takav je slučaj.	
+634	Nadam se da nisam ispao previše grub, ali tako je kako si rekao.	
+635	Ništa u vezi ovoga nije striktno vezano uz pravo.	
+636	Postoje veći problemi.	
+637	Veći problemi.	
+638	Hvala.	
+639	[NO TRANSLATION]	missing translation
+640	Gospodine...	
+641	Mislim da se može smatrati u najboljem interesu Sjedinjenih Država da Abel ostane živ.	
+642	Zašto?	
+643	Ne kažem da sam odlučio, ali da je htio surađivati s Vladom već bi to uradio.	
+644	Istina, ali...	
+645	[NO TRANSLATION]	missing translation
+646	Oprosti!	
+647	Ne mogu reći da je u najboljem interesu SAD-a držati ga ostatak života u zatvorskoj ćeliji.	
+648	Kako je to u državnom interesu?	
+649	Ne samo zatvaranje.	
+650	Moguće je da u skorijoj budućnosti Amerikanac jednakog čina bude zarobljen od strane Sovjeta.	
+651	Možda budemo htjeli imati nekoga za zamjenu.	
+652	[NO TRANSLATION]	missing translation
+653	To zvuči kao veliko što ako.	
+654	Mogao bi tako dok se krave ne vrate.	
+655	To je moj posao, što ako.	
+656	Bavim se osiguranjima.	
+657	Nema ničega nemogućeg u vezi ovoga.	
+658	Potpuno je u sferi mogućega.	
+659	Zbog takve vjerojatnosti ljudi kupuju osiguranje.	
+660	Ako ga pošaljemo u smrt ostat ćemo ogoljeni.	
+661	Nemamo policu u džepu za dan kad naiđe oluja.	
+662	Lijep govor.	
+663	Gospodine, tu je i humanitarni argument.	
+664	Treba li umrijeti zbog posla koji su ga poslali raditi?	
+665	Dobro, odvjetniče.	
+666	Moram ići.	
+667	Bilo mi je drago vidjeti te, Jime.	
+668	Ispratit ću te.	
+669	Svi ustanite!	
+670	Okružni sud SAD-a okruga New York sada zasjeda.	
+671	Časni sudac Mortimer Byers predsjeda.	
+672	Sjednite.	
+673	Neka optuženi ustane.	
+674	Po procjeni ovog suda sljedeća kazna, na osnovu presude porote za sve tri točke optužnice, čini se dostojnom za navedeni čin.	
+675	Nastavno na presudu krivnje po svim točkama optužnice optuženi se predaje Ministarstvu unutrašnjih poslova SAD-a poradi privođenja u federalni zatvor po njihovom izboru na period od 30 godina.	
+676	Maršali, možete odvesti optuženog.	
+677	[NO TRANSLATION]	missing translation
+678	Nema smaknuća?	
+679	Ne.	
+680	Ne.	
+681	Zašto ga ne objesimo?	
+682	U božje ime zašto ga ne objesimo?	
+683	Sjednite!	
+684	On je špijun!	
+685	[NO TRANSLATION]	missing translation
+686	Za Boga miloga, zašto ga ne objesimo?!	
+687	[NO TRANSLATION]	missing translation
+688	[NO TRANSLATION]	missing translation
+689	[NO TRANSLATION]	missing translation
+690	[NO TRANSLATION]	missing translation
+691	[NO TRANSLATION]	missing translation
+692	[NO TRANSLATION]	missing translation
+693	[NO TRANSLATION]	missing translation
+694	[NO TRANSLATION]	missing translation
+695	[NO TRANSLATION]	missing translation
+696	Nitko nema komentara!	
+697	[NO TRANSLATION]	missing translation
+698	[NO TRANSLATION]	missing translation
+699	[NO TRANSLATION]	missing translation
+700	[NO TRANSLATION]	missing translation
+701	Čvrsto smo odlučni uložiti žalbu.	
+702	[NO TRANSLATION]	missing translation
+703	[NO TRANSLATION]	missing translation
+704	Odradio si odličan posao.	
+705	Dao si i više od traženoga.	
+706	Ali čovjek je špijun.	
+707	Presuda je točna i nema razloga žaliti se.	
+708	Puno je proceduralnih razloga.	
+709	Pretraga je nepravomoćna,	
+710	a problemi 4. amandmana uvijek su teži kod žalbi.	
+711	Imamo dobre šanse.	
+712	O čemu ti pričaš?	
+713	Morali smo pokazati da je imao sposobnu obranu. Što i jesmo.	
+714	Zašto mi citiraš Ustav?	
+715	Tome, ako me pogledaš u oči i kažeš da nemamo osnovu za žalbu, odustat ću istog trena.	
+716	Ne govorim to.	
+717	Znaš što želim reći.	
+718	Tom kaže da postoji cijena za takve stvari.	
+719	[NO TRANSLATION]	missing translation
+720	Cijena za tvoju obitelj i tvrtku.	
+721	Nedostajala mi je glazba.	
+722	Provjerili su radio da nema predajnika.	
+723	Siguran sam.	
+724	Šostakovič.	
+725	[NO TRANSLATION]	missing translation
+726	Veliki umjetnik, Šostakovič.	
+727	Mislim da su naše najjače osnove za povlačenje presude ustavne.	
+728	Najbolja šansa nam je ako Vrhovni sud razmotri tvoj slučaj.	
+729	Jime...	
+730	Trebao bi biti pažljiv.	
+731	Pažljiv.	
+732	[NO TRANSLATION]	missing translation
+733	[NO TRANSLATION]	missing translation
+734	[NO TRANSLATION]	missing translation
+735	[NO TRANSLATION]	missing translation
+736	[NO TRANSLATION]	missing translation
+737	[NO TRANSLATION]	missing translation
+738	[NO TRANSLATION]	missing translation
+739	[NO TRANSLATION]	missing translation
+740	Mama!	
+741	Što se dogodilo?	
+742	Dušo, jesi li dobro?	
+743	[NO TRANSLATION]	missing translation
+744	Jesi li ozlijeđena?	
+745	[NO TRANSLATION]	missing translation
+746	Peggy i Roger, gore!	
+747	[NO TRANSLATION]	missing translation
+748	Sjeo sam uza zid, tata.	
+749	Jeste li dobro?	
+750	[NO TRANSLATION]	missing translation
+751	Sjeo sam leđima uza zid.	
+752	[NO TRANSLATION]	missing translation
+753	Daleko od prozora.	
+754	Dobro.	
+755	Bravo!	
+756	[NO TRANSLATION]	missing translation
+757	[NO TRANSLATION]	missing translation
+758	U redu je, otišli su.	
+759	[NO TRANSLATION]	missing translation
+760	[NO TRANSLATION]	missing translation
+761	Detektivi će pročešljati susjedstvo,	
+762	možda nađu opis auta.	
+763	Trebat će nam zaštita.	
+764	Dobio sam upute ostaviti dva vozila ovdje.	
+765	Bit će očito...	
+766	Koliko dugo?	
+767	Moram u Washington krajem tjedna.	
+768	[NO TRANSLATION]	missing translation
+769	Što radite svojoj obitelji?	
+770	Molim?	
+771	Još uvijek branite tog tipa?	
+772	Zašto se borite za njega?	
+773	Prestanite!	
+774	Neću prestati.	
+775	Bio sam u trećem valu na plaži Omaha.	
+776	Odslužio sam i ja.	
+777	A vi ga branite.	
+778	Radite svoj posao.	
+779	Žao mi je.	
+780	[NO TRANSLATION]	missing translation
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	Zaboravio sam već.	
+784	Što ne vidim?	
+785	Van, policajče!	
+786	Oprostite.	
+787	[NO TRANSLATION]	missing translation
+788	[NO TRANSLATION]	missing translation
+789	[NO TRANSLATION]	missing translation
+790	Ako bude neophodno ostaviti letjelicu na sovjetskom teritoriju u trupu se nalazi kilogram eksploziva.	
+791	Prvo aktivirate strujni krug.	
+792	Da bi aktivirali tajmer od 70 s morate okrenuti prekidač na kojemu piše: uništi.	
+793	Izuzetno je važno da ovi letovi ostanu tajna i da ova oprema ne padne u neprijateljske ruke.	
+794	Što je s nama?	
+795	Ne znam šalite li se, natporučniče,	
+796	ali ja se ne šalim.	
+797	Ono što znate o avionu tajna je koliko i sam avion.	
+798	Ako je zarobljavanje neizbježno idete zajedno s avionom.	
+799	Ako mislite da možete iskočiti i pobjeći, ako ste blizu granice,	
+800	onda znate protokol izbacivanja.	
+801	Ali ako iskačete ponesite dolar s vama.	
+802	Unutra je iglica.	
+803	Ogrebite površinu kože, bilo gdje, momentalno je.	
+804	Ako mislite da će vas zarobiti iskoristite to.	
+805	Vozači, razumijete me?	
+806	Potrošite dolar.	
+807	Predsjedniče i štovani članovi.	
+808	Hladni rat nije samo izraz.	
+809	Nije samo metafora.	
+810	Zaista se vodi borba između dva pogleda na svijet.	
+811	Slažem se da je Rudolf Ivanovič Abel, pukovnik Abel, kako su ga nazivali oni koji su ga priveli, naš neprijatelj.	
+812	Pomoćni pogon?	
+813	Aktivan i spreman.	
+814	Zalihe kisika?	
+815	1800 GSI jedinica.	
+816	Konverter?	
+817	Uključen.	
+818	Tretiran je kao borac u tom ratu dok našoj Vladi više nije odgovaralo tako ga tretirati.	
+819	Shodno tome, nije mu dana zaštita koju dajemo našim građanima.	
+820	Podvrgnut je tretmanu, koliko god prikladnom osumnjičenom neprijatelju, ali neprikladnom osumnjičenom kriminalcu.	
+821	Prijenos goriva?	
+822	Prekidač prijenosa isključen.	
+823	Ometač.	
+824	Osiguran. <Spreman za let. Podignimo ga u zrak./>	missing English
+825	[NO TRANSLATION]	missing translation
+826	[NO TRANSLATION]	missing translation
+827	Poznajem ovog čovjeka.	
+828	Ako je optužba istinita služi stranoj sili, ali služi joj vjerno.	
+829	Ako je vojnik u protivničkoj vojsci, dobar je vojnik.	
+830	Nije pobjegao iz bitke kako bi se spasio.	
+831	Odbio je služiti zarobiteljima,	
+832	odbio izdati svoj cilj.	
+833	Odbio ići putem kukavice.	
+834	Kukavica će napustiti dostojanstvo prije nego napusti bitku.	
+835	Rudolf Abel to nikada neće učiniti.	
+836	Ne bismo li trebali, dajući mu puna prava po načelima našeg sustava, pokazati tko smo mi?	
+837	Tko smo mi.	
+838	Zar to nije najjače oružje u ovome hladnom ratu?	
+839	Hoćemo li mi manje ustrajati u našem cilju nego on u svojemu?	
+840	Predsjednik je objavio da je NASA-in vremenski avion nestao prije četiri dana iznad Turske.	
+841	Svemirska administracija se boji da je pilot preminuo u padu.	
+842	Radar ga je pokazao kako je odlutao s kursa duboko u sovjetski teritorij prije nego se izgubio kontakt. Time komplicirajući napore izvlačenja ostataka pilota.	
+843	Sada vijesti iz Washingtona:	
+844	Na današnjem glasanju Vrhovni sud je potvrdio osudu ruskog špijuna, Rudolfa Ivanoviča Abela, s pet na prema četiri glasa.	
+845	Slučaj je predstavljao problem s civilnim slobodama po navodima odvjetnika, Jamesa B. Donovana.	
+846	Kada je pitan kako se osjeća nakon današnjeg poraza, g. Donovan je samo rekao umorno.	
+847	Još vijesti nakon ovih promidžbi.	
+848	[NO TRANSLATION]	missing translation
+849	Gotovo je.	
+850	[NO TRANSLATION]	missing translation
+851	Marty,	
+852	nek' sam proklet, al' ne mogu pronaći onaj slučaj Prudential.	
+853	G. Watters mi je rekao da ga odnesem u ured Jacka Elwea. Zajedno s prvim prijedlogom žalbe.	
+854	Jest?	
+855	Prepravio je prijedlog i zaveo ga prošli tjedan.	
+856	Koliko dugo smo zajedno,	
+857	a kao da nikad nisam sklopio dogovor.	
+858	Zakažite sastanak,	
+859	na nekom prvoklasnom mjestu.	
+860	Kladim se da bi g. Young htio probati bolje stvari u New Yorku.	
+861	[NO TRANSLATION]	missing translation
+862	Znate li nekoga iz Liepziga?	
+863	Leipziga.	
+864	Sada dobivam poštu mržnje iz Njemačke?	
+865	Iz Istočne Njemačke.	
+866	Je li to vaša supruga?	
+867	Ne.	
+868	Ne, ne, ne.	
+869	Pravi se da jest, ali nije ni dobro pretvaranje.	
+870	Našla sam za shodno pisati vam nakon što sam iz novina saznala o vašem vrlo humanom postupanjem prema mom suprugu R. Abelu.	
+871	Trebam li odgovoriti?	
+872	Da, da...	
+873	Koji je sljedeći korak kad ne znate koja je igra?	
+874	Poručniče Powers,	
+875	po zakonima SSSR-a kažnjeni ste s deset godina pritvora zbog zločina protiv države. Prve tri godine odslužit ćete u zatvoru.	
+876	Trajanje kazne započet će 1. svibnja...	
+877	G. Donovane, hvala što ste došli.	
+878	Drago mi je, g. Dulles.	
+879	Čast mi je, gospodine.	
+880	Nescafe, šlag, dvije kocke šećera.	
+881	Hvala.	
+882	Dobro, pismo koje ste primili.	
+883	Očito je da se Sovjeti pokušavaju približiti.	
+884	Čine to preko Istočne Njemačke jer ne žele priznati Abela kao sovjetskog građana, kamoli špijuna.	
+885	[NO TRANSLATION]	missing translation
+886	Puno fikcije ovdje.	
+887	Da, gospodine, ali s kojim ciljem?	
+888	Imaju našeg čovjeka, špijunskog pilota.	
+889	Mi imamo njihovog čovjeka.	
+890	Razmjena zatvorenika. Mislim da tome teže.	
+891	Teško da vam je to iznenađenje,	
+892	jer ste vi to predvidjeli.	
+893	Da, jesam, a rijetko sam u pravu.	
+894	Čestitam.	
+895	Dan crvenog pisma.	
+896	Imaju našeg čovjeka tamo.	
+897	Powers.	
+898	Dobar čovjek.	
+899	Abel je također pun povjerljivih informacija, ali ništa nije odao.	
+900	Vjerujte mi, ni neće.	
+901	Znamo to, ali Rusi ne znaju.	
+902	Žele svog čovjeka natrag dok ne pukne,	
+903	a mi želimo Powersa natrag. Iz istih razloga.	
+904	Mislim da želite reći kako bi mogao biti sretan kraj za sve.	
+905	Da, ako udovoljimo ovoj fikciji.	
+906	Želimo da pregovarate zamjenu jer ste građanin pa Vlada neće biti upletena.	
+907	Ne priznaju Abela kao sovjetskog građanina, a mi ne priznajemo Istočnu Njemačku kao suverenu državu.	
+908	Nismo priznali istočni Berlin otkad su ga aneksirali Sovjeti '45.	
+909	Dakle, ja sam pregovarač. Predstavljam...	
+910	Ne predstavljate nikoga.	
+911	Niste Vladin službenik,	
+912	nemate službeno stajalište.	
+913	Dakle, malo fikcije s naše strane.	
+914	Točno.	
+915	Što znači da ne možete očekivati pomoć ako stvari krenu po zlu.	
+916	CIA ne može biti odgovorna.	
+917	Ne smijemo se osramotiti.	
+918	Gdje žele održati ove pregovore?	
+919	Tamo.	
+920	Tamo?	
+921	Istočni Berlin.	
+922	Nije li istočni Berlin malo...?	
+923	Da, postaje komplicirano.	
+924	Da, komplicirano.	
+925	Sovjetska strana postavlja kontrolne točke posljednjih mjeseci kako bi spriječili preljev ljudi u zapadne sektore. Nije djelovalo.	
+926	Imamo informacije koje upućuju da bi mogli ići korak dalje. Ograditi zidom čitav istočni dio.	
+927	Dobro, to je to. Ukratko.	
+928	Odluka je na vama.	
+929	Ako trebate vremena razmisliti...	
+930	[NO TRANSLATION]	missing translation
+931	Ne, ne trebam.	
+932	Dobro,	
+933	dobro.	
+934	Neka ovo ostane povjerljivo.	
+935	Nemojmo raspravljati o ovome s Mary. Niti s nekim drugim.	
+936	Pokažite pisma samo nama.	
+937	To će nam pokazati što žele uraditi i kada.	
+938	Nemam klijenta, žene ni države.	
+939	Ne znam što radim, niti kada niti za koga.	
+940	Radite to za svoju država, ali država to još ne zna.	
+941	Što je s mojim klijentom? Drugom osobom u jednadžbi.	
+942	[NO TRANSLATION]	missing translation
+943	Vaš čovjek,	
+944	Rus?	
+945	Nije on više vaš čovjek.	
+946	Sada je Francis Gary Powers vaš čovjek.	
+947	Što ću reći Rudolphu Abelu?	
+948	Recite mu da ne umre.	
+949	Profesore?	
+950	Profesore?	
+951	Tata je na sveučilištu.	
+952	Ne bi smio biti ovdje, Frederiče.	
+953	Danas imaju predavanja?	
+954	Otišao je vidjeti.	
+955	[NO TRANSLATION]	missing translation
+956	Što radiš ovdje?	
+957	Došao sam po tebe i oca.	
+958	Moraš poći sa mnom.	
+959	Sutra možda ne budete mogli izaći.	
+960	[NO TRANSLATION]	missing translation
+961	Samo otići?	
+962	Da, tako je.	
+963	Otići,	
+964	odmah.	
+965	Idi nazad.	
+966	Idi nazad.	
+967	Bit ću dobro, Amerikanac sam.	
+968	Idi nazad.	
+969	Idi natrag ocu,	
+970	naći ću drugi način.	
+971	[NO TRANSLATION]	missing translation
+972	[NO TRANSLATION]	missing translation
+973	[NO TRANSLATION]	missing translation
+974	Papire, molim vas.	
+975	Ja sam student. Frederic Pryor.	
+976	<Student?/> Da. <Što je ovo? Bez fotografiranja./>	missing English
+977	Zovem se Frederic Pryor,	
+978	student sam ekonomije.	
+979	[NO TRANSLATION]	missing translation
+980	Ovo je moja disertacija.	
+981	[NO TRANSLATION]	missing translation
+982	[NO TRANSLATION]	missing translation
+983	[NO TRANSLATION]	missing translation
+984	Trgovački sustav europskih komunističkih država.	
+985	[NO TRANSLATION]	missing translation
+986	Puno je posla tu.	
+987	<Komunist?/> Ne, to mi je jedini primjerak.	missing English
+988	Ne!	
+989	Reci mi nešto.	
+990	Iskrsnulo je u posljednji trenutak.	
+991	Imaju urede u Londonu.	
+992	Ti klijenti,	
+993	nije moja ideja.	
+994	Škotska i ribička ekspedicija.	
+995	Kakav ribički put, Jime?	
+996	Pecanje lososa.	
+997	Samo mi reci da nećeš biti u opasnosti. Da je to rutinski poslovni put i neću brinuti.	
+998	Trebam putovnicu.	
+999	Daj mi nešto za što ću se držati.	
+1000	Briga me ako nije istina.	
+1001	Radim to zbog nas.	
+1002	G. Michener bit će vaša pratnja.	
+1003	On je naš ataše pri američkoj ambasadi.	
+1004	Postalo je vraški komplicirano.	
+1005	[NO TRANSLATION]	missing translation
+1006	Posljednje pismo gđe Abel, tko god bila, piše o odvjetniku, g. Vogelu, tko god bio, koji predstavlja njene interese.	
+1007	Da, Vogel kaže da je otišao u rusku ambasadu u istočnom Berlinu i možda budu spremni razmijeniti Abela za Powersa.	
+1008	Ne znamo tko je tko, ali u biti su svi Rusi, zar ne?	
+1009	Sovjeti,	
+1010	mislimo da jesu.	
+1011	Kako to mislite?	
+1012	Možete li pojačati grijanje?	
+1013	Postoji zavrzlama.	
+1014	[NO TRANSLATION]	missing translation
+1015	Možda vam pokušaju smjestiti drugog zatvorenika umjesto Powersa.	
+1016	Drugog Amerikanca?	
+1017	Istočnonjemačka Stasi policija uhvatila je F. Pryora.	forced duplication
+1018	Istočnonjemačka Stasi policija uhvatila je F. Pryora.	forced duplication
+1019	Klinac kojeg su pronašli na krivoj strani zida.	
+1020	On je student s Yalea	
+1021	i došao je ovamo studirati ekonomiju.	
+1022	[NO TRANSLATION]	missing translation
+1023	Huška se da žele suditi klincu zbog špijunaže.	
+1024	Veliki prekršaj, ogroman zločin.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel nam se javio. Kaže da zastupa Pryora.	
+1027	[NO TRANSLATION]	missing translation
+1028	Vogel zastupa gđu Abel i tog klinca?	
+1029	Da. Zaposlen je.	
+1030	Što je on?	
+1031	Istočni Nijemac, Rus?	
+1032	Pokušajte shvatiti kad se nađete s njim.	
+1033	Ruska ambasada, istočni Berlin, sutra u podne.	
+1034	Hoffman će vam pokazati kako doći tamo.	
+1035	Pokazati mi?	
+1036	Ali imat ću pratnju?	
+1037	Ne?	
+1038	To je bio plan, ali postoji problem.	
+1039	Neću vas voditi.	
+1040	Odluka je donesena.	
+1041	Nijedan član Vlade SAD-a ne smije prijeći granicu.	
+1042	Kako to?	
+1043	Preopasno je.	
+1044	Istočni Nijemci su zgrabili klinca.	
+1045	Postoji stupanj nekažnjivosti koji nismo predvidjeli.	
+1046	Poanta je da istočnonjemački plan možda nije isto kao ruski.	
+1047	Pokušajte to dokučiti i ponašati se u skladu.	
+1048	Pokušajte se nagoditi,	
+1049	Powers za Abela.	
+1050	Što je s ovim studentom?	
+1051	[NO TRANSLATION]	missing translation
+1052	Nemoj pasti na to.	
+1053	Možemo ga izvući drugi put.	
+1054	Powers je glavni cilj.	
+1055	Gdje je vaša soba?	
+1056	Ja ću odsjesti u Hiltonu.	
+1057	Nije daleko.	
+1058	Ovo je broj u zapadnom Berlinu.	
+1059	Zapamtite ga i vratite mi ga.	
+1060	[NO TRANSLATION]	missing translation
+1061	[NO TRANSLATION]	missing translation
+1062	Mislim sada.	
+1063	Sovjeti prekidaju međunarodne linije, ali lokalni pozivi su u redu.	
+1064	Netko će se javiti u bilo koje doba.	
+1065	Ovaj sažetak spisa u putovnici služit će ti za ulaz i izlaz.	
+1066	Sastanak s Vogelom je zakazan za sutra u podne.	
+1067	Ostalo je samo par puteva do Istoka.	
+1068	Otići ćeš S-Bahnom, na stanici koju smo ti pokazali putem.	
+1069	Izaći ćeš na Friedrichstrasse stanici ovdje i otići ćeš do ambasade u ulici Unter den Linden, ovdje.	
+1070	Pogledaj sada kartu,	
+1071	ne bi je trebao nositi.	
+1072	Gledaš u kartu, Amerikanac si, špijun si.	
+1073	Mogli bi te zadržati.	
+1074	Izbjegavaj interakcije s ljudima općenito.	
+1075	[NO TRANSLATION]	missing translation
+1076	Ne pripadaš ovdje pa se ne ističi.	
+1077	Hrane je malo tamo, sve se počinje raspadati.	
+1078	Bande su prisutne. Pravila zakona su labavija.	
+1079	Kloni se zida.	
+1080	S one strane nalazi se crta očišćena od zgrada	
+1081	koju zovu crta smrti.	
+1082	Prijeđi je i bit ćeš upucan.	
+1083	Ima li koji ishod gdje me neće zadržati ili ubiti?	
+1084	Ne brini puno o onome što je Michener rekao.	
+1085	Sada brinem o tome što si ti rekao.	
+1086	Taj klinac, Pryor kojeg su zarobili. Koliko ima godina?	
+1087	25,	
+1088	zašto?	
+1089	Ima isto godina kao Dougie.	
+1090	Tko?	
+1091	Moj suradnik.	
+1092	Frederic Pryor? <Žao mi je, ne mogu ti pomoći ni reći ništa. Nije ovdje, ili mi ne možete reći je li ovdje? Gdje je? Ne mogu ti to reći./>	missing English
+1093	Da, da...	
+1094	[NO TRANSLATION]	missing translation
+1095	<Unter den Linden?/> Ispričavamo se ako vas ovo vrijeđa.	missing English
+1096	[NO TRANSLATION]	missing translation
+1097	Kaput?	
+1098	<Unter den Linden? Kamo? Pravo pa desno i onda druga lijevo./>	missing English
+1099	Razumijete engleski?	
+1100	Da, gospodine.	
+1101	Ja sam James Donovan	
+1102	i trebam se naći s g. Vogelom.	
+1103	G. Vogel?	
+1104	Ne radi ovdje,	
+1105	trebam se samo naći s njim.	
+1106	To je sve što znam.	
+1107	G. Donovan?!	
+1108	Napokon vas upoznajemo!	
+1109	Ja sam Helen Abel.	
+1110	Kako je moj suprug?!	
+1111	[NO TRANSLATION]	missing translation
+1112	Dobro.	
+1113	Kako je moj Rudolf?	
+1114	Dobro koliko može biti.	
+1115	Vratit ćemo ga, zar ne?	
+1116	Ovo je naša kćer, Lydia.	
+1117	Drago mi je.	
+1118	[NO TRANSLATION]	missing translation
+1119	Vi ste g. Vogel?	
+1120	Ne!	
+1121	Nisam ja Vogel.	
+1122	Ja sam rođak Drews.	
+1123	Ovo je Rudolfov rođak Drews.	
+1124	Da, rođak Drews.	
+1125	Ja sam rođak Drews.	
+1126	[NO TRANSLATION]	missing translation
+1127	Ja sam Helen Abel.	
+1128	Kada ćemo ga vidjeti?	
+1129	Kada će ga vaša Vlada pustiti?	
+1130	Malo sam zatečen.	
+1131	Trebao sam se naći s g. Vogelom.	
+1132	On je naš odvjetnik.	
+1133	Trebali smo razgovarati o zamjeni.	
+1134	Kako bi doveli Rudolfa ovamo?	
+1135	Da. Tako je.	
+1136	Ali to ne ide jednostrano, razumijete li?	
+1137	Mora biti razmjena.	
+1138	[NO TRANSLATION]	missing translation
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	G. Donovan?	
+1143	G. Vogel?	
+1144	Ne, ne,	
+1145	[NO TRANSLATION]	missing translation
+1146	ja sam Šiškin.	
+1147	Ivan Šiškin.	
+1148	Ja sam drugi sekretar sovjetskog veleposlanstva.	
+1149	Ne bi bilo prikladno da nam se g. Vogel pridruži.	
+1150	On je Nijemac.	
+1151	Vi ste ovdje...	
+1152	Kako bih olakšao ovaj sastanak.	
+1153	Možda bi se gđa Abel htjela sabrati nasamo.	
+1154	Ostaviti mene i g. Donovana da popričamo.	
+1155	Hvala vam.	
+1156	Zbunjen sam.	
+1157	Da.	
+1158	Briga me s kim ću razgovarati o razmjeni osoblja.	
+1159	Vi ste osoba za to?	
+1160	Da, dakako.	
+1161	Trebamo razgovarati.	
+1162	Molim vas, sjednite.	
+1163	Kako ste došli u istočni sektor?	
+1164	Vlakom,	
+1165	S-Bahn.	
+1166	Sami ste?	
+1167	Da.	
+1168	A vaše akreditacije?	
+1169	Sigurno znate za mene.	
+1170	Ja sam građanin.	
+1171	Odvjetnik u Brooklynu, SAD. Našao sam vremena u svom gustom rasporedu pomoći mom klijentu.	
+1172	Ovlašten sam ugovoriti i razmijeniti Abela za Francisa Garyja Powersa.	
+1173	Ovo je pomilovanje za Abela koje će biti potpisano nakon razmjene.	
+1174	Samo zbog toga sam ovdje.	
+1175	Nadam se riješiti ovo vrlo brzo.	
+1176	Abel za F. Garyja Powersa. I Frederica Pryora.	
+1177	Nemamo Pryora.	
+1178	Ne,	
+1179	nemate?	
+1180	Čuo sam za njega, ali njega drži Njemačka Demokratska Republika. Ne Savez sovjetskih socijalističkih republika.	
+1181	Reći ću vam prvi problem.	
+1182	Imena vaših država su predugačka.	
+1183	Da, da.	
+1184	Ako pustimo Powersa to je samo radi promicanja dobre volje između država.	
+1185	Stoga ne može biti zamjena.	
+1186	[NO TRANSLATION]	missing translation
+1187	Možda vi možete pustiti Abela, kao znak dobre volje, istočnoj Njemačkoj, a onda, par mjeseci poslije mi bismo pustili Powersa.	
+1188	To je ideja.	
+1189	Ne,	
+1190	to nam neće uopće odgovarati.	
+1191	Ovo mora biti zamjena.	
+1192	Zovite to kako god želite. Ali mora biti zamjena.	
+1193	Abel može biti ovdje unutar 48 sati.	
+1194	Trebamo Powersa u isto vrijeme kada vam damo Abela.	
+1195	[NO TRANSLATION]	missing translation
+1196	Ovo je...	
+1197	Možemo li to zvati Nestrpljivi plan?	
+1198	Zovite kako god želite.	
+1199	Mogu predočiti vaš plan Moskvi, vidjeti što oni kažu,	
+1200	ali pitat će se čemu toliko nestrpljiv?	
+1201	Jer sam se prehladio,	
+1202	ne živim u Berlinu i želim kući.	
+1203	Pomislit će, Amerikanci su sigurno izvukli sve što je Abel znao.	
+1204	Sada su nestrpljivi zamijeniti ga. Nadaju se dobiti Powersa koji možda još nije odao sve što zna.	
+1205	To nije pravedna zamjena, gospodine.	
+1206	Ali time govorite da ako je Powers rekao sve Moskva će se mijenjati?	
+1207	Zašto ne bi?	
+1208	Što se tiče Abela, ako umre u američkom zatvoru, sljedeći ruski operativac koji bude uhvaćen možda dva puta razmisli o tome hoće li držati jezik za zubima,	
+1209	a nikad ne znate.	
+1210	Abel možda opet poželi vidjeti nebo. Odluči razmijeniti svoje tajne za male američke usluge.	
+1211	Kako to možemo znati?	
+1212	Mi, mali ljudi, koji radimo naše poslove?	
+1213	Poput natporučnika Powersa.	
+1214	On je samo pilot.	
+1215	Fotografirao je sa 21.000 m kad je oboren.	
+1216	Ljudi u mojoj državi smatraju to ratnim činom.	
+1217	Moramo sići s ovog vrtuljka, gospodine.	
+1218	Sljedeća pogreška koju naše države urade mogla bi biti posljednja.	
+1219	Mi trebamo obaviti razgovor koji naše države ne mogu.	
+1220	Pitat ću Moskvu.	
+1221	Tko zna što će reći.	
+1222	Puno ljudi ne želi da se ova razmjena ikada odvije.	
+1223	Možete li se vratiti sutra raspraviti njihov odgovor?	
+1224	Powers za Abela?	
+1225	I Frederic Pryor.	
+1226	Kao što rekoh, Pryor je u rukama Njemačke Demokratske Republike.	
+1227	Uvjeren sam da možete to riješiti.	
+1228	Ja sam samo sekretar u veleposlanstvu strane sile.	
+1229	[NO TRANSLATION]	missing translation
+1230	Morat ćete se vidjeti s g. Vogelom.	
+1231	Dat ću vam njegovu adresu.	
+1232	Dakle, zaista postoji g. Vogel?	
+1233	Zašto biste mislili drugačije?	
+1234	Kratka vožnja taksijem.	
+1235	Molim vas, g. Donovane, obucite kaput po ovom vremenu.	
+1236	Ukrali su mi ga.	
+1237	Što ste očekivali?	
+1238	Kupili ste ga u Saks Fifth Avenueu.	
+1239	Zar ne?	
+1240	G. Donovane.	
+1241	G. Vogel.	
+1242	Molim vas, uđite.	
+1243	[NO TRANSLATION]	missing translation
+1244	Ispričavam se zbog veleposlanstva.	
+1245	Sovjeti su odlučili kako me neće ugostiti.	
+1246	Vrlo iritantno.	
+1247	Još pokušavam pojmiti svaku stranu i...	
+1248	Njihov status?	
+1249	Da.	
+1250	I interes u pregovorima.	
+1251	[NO TRANSLATION]	missing translation
+1252	Ovaj novi svijet je zaista dezorijentirajuć, zar ne?	forced duplication
+1253	Ovaj novi svijet je zaista dezorijentirajuć, zar ne?	forced duplication
+1254	Reći ću vam što nudim.	
+1255	Dobar sam prijatelj...	
+1256	[NO TRANSLATION]	missing translation
+1257	Ne, on je stariji.	
+1258	Štićenik?	
+1259	Ministra unutrašnjih poslova NJDR.	
+1260	Sjednite, molim vas.	
+1261	Taj nesretnik, F. Pryor, našao se na krivom mjestu u krivo vrijeme.	
+1262	No, svaka nezgoda je prilika ako se propisno sagleda. Slažete se?	
+1263	Pa...	
+1264	Vaša država odbija priznati NJDR.	
+1265	Radije izmišljaju priče, da NJDR ne postoji, na primjer.	
+1266	Oprostite.	
+1267	Kao sredstvo prisile vaše Vlade u priznavanju ovog pravog mjesta, u kojemu se nalazite, NJDR, ministar će rado pregovarati s vama kao predstavnikom vaše Vlade u svrhu vraćanja g. Pryora.	
+1268	G. Vogel, ja nisam predstavnik moje Vlade.	
+1269	Dobro.	
+1270	Mislim da je to djetinjasto.	
+1271	[NO TRANSLATION]	missing translation
+1272	Nemam službeni status.	
+1273	Dobro.	
+1274	Vi ne predstavljate SAD, ja ne predstavljam NJDR.	
+1275	Moj klijent je Lydia Abel, Rudolfova žena.	
+1276	[NO TRANSLATION]	missing translation
+1277	Lydia je kćer,	
+1278	Helen je žena.	
+1279	Pa...	
+1280	Spreman sam ponuditi Frederica Pryora u zamjenu za Rudolfa Abela.	
+1281	Razjasnimo ovo.	
+1282	Mi ćemo dovesti R. Abela.	
+1283	Vi ćete u isto vrijeme dovesti studenta Pryora.	
+1284	U isto vrijeme.	
+1285	Apsolutno.	
+1286	Ponuda je razmjena Rusa na kraju života za američkog studenta na početku njegovog.	
+1287	Šiškin nije sekretar.	forced duplication
+1288	Šiškin nije sekretar.	forced duplication
+1289	Ivan Šiškin je šef KGB-a u zapadnoj Europi.	
+1290	Tko god bio, on prenosi naš prijedlog Moskvi. Oni će odlučiti.	
+1291	Mogu li posuditi tvoj kaput.	
+1292	Izgubio sam moj.	
+1293	Kako si to uspio?	
+1294	Znate, špijunske stvari.	
+1295	Nabavit ću ti drugi kaput.	
+1296	Dobro.	
+1297	Tko je taj Vogel?	
+1298	Njega ne znamo.	
+1299	Mogao bi biti ono što si rekao da jest.	
+1300	Prijatelj ministra.	
+1301	Neki tip koji je NJDR uzela kako bi odradio ovo.	
+1302	Čini se da se istočni Nijemci bore za mjesto za našim stolom.	
+1303	NJDR dobije Abela za Ruse, time dobiju njihovo poštovanje	
+1304	i glavni zgoditak za svoj cilj.	
+1305	Što znači da će to staviti Istočnu Njemačku na kartu.	
+1306	No, briga nas za njihovu kartu.	
+1307	Drži se Rusa.	
+1308	Drži se Rusa,	
+1309	Powers za Abela.	
+1310	Ovo bi se moglo onda dogoditi?	
+1311	Tako mi govoriš.	
+1312	Smjestit ćemo Abela u avion, bit će ovdje u petak.	
+1313	Ako Šiškin dobije zeleno svjetlo, ostaju samo tehnikalije razmjene.	
+1314	Način razmjene njihovog čovjeka za našeg?	
+1315	Za naše ljude.	
+1316	Dvojicu.	
+1317	Powers i Pryor.	
+1318	Nemoj mi se raznježiti.	
+1319	Powers je jedina meta.	
+1320	Zaboravi tog studentića koji je našao za shodno studirati ekonomiju u Berlinu usred hladnog rata.	
+1321	Trebamo Powersa.	
+1322	Vi ni ne volite Powersa.	
+1323	Svi mrze Powersa.	
+1324	Nije se ubio i komunisti paradiraju njime na TV-u.	
+1325	On je najomraženiji čovjek u Americi.	
+1326	Nakon Rudolfa Abela, možda.	
+1327	I mene.	
+1328	[NO TRANSLATION]	missing translation
+1329	Trebam spavati.	
+1330	[NO TRANSLATION]	missing translation
+1331	Rekao sam ti da možeš spavati nakon razgovora.	
+1332	Moraš se usredotočiti na mene.	
+1333	Tvoja Vlada ne mari za tebe,	
+1334	znaš to.	
+1335	Ni za jednog od vas.	
+1336	Znaš za pilote U-2 koji su zadobili oštećenje mozga?	
+1337	Postali su biljke zbog visine i nedostatka kisika.	
+1338	Ali nastavljaju vas slati u zrak, Gary.	
+1339	Tebe i tvoje prijatelje.	
+1340	Dali su vam ovo.	
+1341	Grebalicu, zar ne?	
+1342	Kalijev cijanid.	
+1343	Liči li to kao da mare za tebe?	
+1344	Kako je izgrađena jedinica uništenja?	
+1345	Kako ona radi?	
+1346	Kakvim je eksplozivom napunjena? I koje je jačine uništenja?	
+1347	Ne znam.	
+1348	Pilotima nije pokazana oprema.	
+1349	Koliku površinu radar može obuhvatiti tijekom preleta?	
+1350	Ne znam!	
+1351	Jesi li ti letio 9. travnja nad industrijskom zonom i bazom bombi?	
+1352	Ne.	
+1353	Ovo mi je bio prvi let.	
+1354	Moram znati koliki je omjer lebdenja s ugašenim motorom?	
+1355	Kako se avion popne toliko visoko?	
+1356	Znamo da dostiže 21.000 m.	
+1357	Gary, znamo to.	
+1358	Moram znati gdje su avioni letjeli.	
+1359	Gdje su letjeli, Gary?	
+1360	Moramo sada pričati o tome.	
+1361	Sada.	
+1362	Tada ćeš moći malo spavati.	
+1363	Gospodine, probudite se.	
+1364	Probudite se.	
+1365	Možete li poći sa mnom, molim vas?	
+1366	[NO TRANSLATION]	missing translation
+1367	Moramo krenuti.	
+1368	Naravno.	
+1369	Pođite sa mnom.	
+1370	[NO TRANSLATION]	missing translation
+1371	U redu.	
+1372	Uzmite naočale.	
+1373	[NO TRANSLATION]	missing translation
+1374	Koliko je sati?	
+1375	Kasno je. No, moramo razgovarati. A onda moramo na avion.	
+1376	[NO TRANSLATION]	missing translation
+1377	[NO TRANSLATION]	missing translation
+1378	Hopala.	
+1379	Hopala?	
+1380	Tako je.	
+1381	Idemo sada.	
+1382	[NO TRANSLATION]	missing translation
+1383	[NO TRANSLATION]	missing translation
+1384	Druga strana.	
+1385	[NO TRANSLATION]	missing translation
+1386	[NO TRANSLATION]	missing translation
+1387	Ovuda, molim vas.	
+1388	Nastavite.	
+1389	Dobio sam pozitivan odgovor od Moskve. Razmijenit ćemo g. Powersa za g. Abela.	
+1390	Odlično.	
+1391	Mogu li predložiti most Glienicke kao mjesto razmjene?	
+1392	Zašto ne kontrolna točka Charlie?	
+1393	Ne tražimo publicitet.	
+1394	Most je vrlo tih, posebno ujutro.	
+1395	[NO TRANSLATION]	missing translation
+1396	Ja ću doći s naše strane.	
+1397	Možemo dovesti Abela u petak.	
+1398	Subota ujutro?	
+1399	Uvijek nestrpljivi, zar ne?	
+1400	Želim otići kući i leći u krevet.	
+1401	Subota ujutro.	
+1402	Pola šest.	
+1403	Dobro.	
+1404	Gotovi smo.	
+1405	Ovo je broj ako nešto iskrsne.	
+1406	Dobro.	
+1407	Netko će se javiti u bilo kojem trenu.	
+1408	Ne očekujem da ću ga koristiti.	
+1409	Hoćemo li nazdraviti našem dogovoru?	
+1410	Zašto ne?	
+1411	Armenski brendi.	
+1412	Dobro će doći protiv prehlade.	
+1413	Hvala.	
+1414	Mogu li...	
+1415	Ovo nije dio našeg posla, ali volio bih vas pitati par pitanja.	
+1416	Ne morate odgovoriti.	
+1417	Odgovorit ću ono što znam.	
+1418	Sviđa mi vaš tip.	
+1419	Što će biti s njim kad se vrati?	
+1420	Moramo utvrditi je li naš tip sada vaš tip.	
+1421	Kao što sam rekao ponio se časno.	
+1422	I dalje je vaš tip, vjerujte.	
+1423	Naravno da biste to rekli ako je istina i ako nije.	
+1424	Da, izgleda da je tako...	
+1425	Oprostite, ali je li on u opasnosti?	
+1426	Bože...	
+1427	Kako stvari stoje, svi su u opasnosti.	
+1428	Živjeli.	
+1429	[NO TRANSLATION]	missing translation
+1430	<Poruka za g. Donovana./> Neće biti razmjene na mostu Glienicke.	missing English
+1431	Oprostite, gospodine?	
+1432	Neće biti razmjene.	
+1433	Ne za Frederica Pryora.	
+1434	G. Vogel, mislio sam da smo se dogovorili.	
+1435	Dogovorili smo razmjenu Abela za Pryora.	
+1436	Sada vidim da ste prodavač tepiha. Prodajete isti tepih dvojici mušterija.	
+1437	Abela za Pryora prodajete nama.	
+1438	Da.	
+1439	A Abela za Powersa prodajete Sovjetima.	
+1440	Ne razumijem u čemu je problem. Ako će to zadovoljiti obje stranke,	
+1441	zar je bitno...	
+1442	To neće zadovoljiti ovu stranku.	
+1443	G. Vogel?	
+1444	Očito ne znate s kime imate posla.	
+1445	U interesu je Njemačke Demokratske Republike	
+1446	poslovati i biti viđeni u poslovanju s drugom velesilom. Sjedinjenim Državama.	
+1447	Jednakom silom.	
+1448	Umjesto toga, smatrate nas potrčcima Saveza sovjetskih socijalističkih republika.	
+1449	Možemo li ih zvati Rusi,	
+1450	bit će brže?	
+1451	Imam sastanak, gospodine.	
+1452	Mislim da vi traćite vrijeme.	
+1453	Recite mi ako sam krivo shvatio.	
+1454	Imate studenta koji nije špijun i znate to. Nije vam prijetnja.	
+1455	U zamjenu za tu osobu, vama bezvrijednu, igrate jednaku ulogu u razmjeni između Rusa i Amerikanaca.	
+1456	To je jedna razmjena između nas i vas dvoje.	
+1457	Ne pokušavamo raditi dvije stvari,	
+1458	već samo jednu.	
+1459	Jednu, jednu, jednu.	
+1460	Teško mi je vidjeti kako je Republika istočnih njemačkih demokrata zakinuta?	
+1461	Dogovarali ste sa Sovjetima bez pitanja.	
+1462	Je li ovo pregovor ili urota?	
+1463	Za urotu bi moralo biti nekakve štete za vas.	
+1464	Ovdje toga nem.	
+1465	Slažemo se oko interesa...	
+1466	Ne, vi se slažete.	
+1467	Gdje vam je sastanak, gospodine?	
+1468	Na zapadu.	
+1469	[NO TRANSLATION]	missing translation
+1470	Dobro.	
+1471	Pogledajte oko vas,	
+1472	kakav je istočni dio u odnosu na zapadni?	
+1473	[NO TRANSLATION]	missing translation
+1474	Naši ruski prijatelji su odlučili da nećemo obnoviti naš glavni grad.	
+1475	Živimo u ovim ruševinama. Koje su napravili ruski prijatelji.	
+1476	Sklopite dogovor s Rusima.	
+1477	Ne želimo biti dio toga.	
+1478	Nema dogovora bez Pryora.	
+1479	Nećemo ga ostaviti.	
+1480	To je vaše stajalište ili vaše Vlade?	
+1481	Gospodine, ja sam ovdje.	
+1482	Ja razgovaram s vama.	
+1483	Ali vi niste predstavnik vaše Vlade.	
+1484	Ne znate tko ste.	
+1485	Ne znamo ni mi.	
+1486	Trebate paziti,	
+1487	nije ovo Brooklyn, g. Donovane.	
+1488	[NO TRANSLATION]	missing translation
+1489	Sigurno znate da u bitnim stvarima predstavljam Vladu.	
+1490	Znate tko sam.	
+1491	Znam li?	
+1492	[NO TRANSLATION]	missing translation
+1493	Imate li prave papire?	
+1494	Naravno da nemate.	
+1495	Nema veze.	
+1496	Američki odvjetnik poput vas može se pričom izvući iz svega.	
+1497	Zar ne?	
+1498	<Izlazi van. Putovnicu?/> Idi s njim.	missing English
+1499	Zašto?	
+1500	Problem s putovnicom.	
+1501	[NO TRANSLATION]	missing translation
+1502	[NO TRANSLATION]	missing translation
+1503	Kakav je problem?	
+1504	Idi s njim.	
+1505	Ne zaboravi. Mi kontroliramo Pryorovu sudbinu.	
+1506	<Ustaj! Polazi!/>	missing English
+1507	<Izvolite?/> Počet ću s kavom.	missing English
+1508	A jest ću Hilton Combo i američki doručak.	
+1509	I kavu.	
+1510	Oba doručka?	
+1511	Da.	
+1512	Jedan prije...	
+1513	Oba.	
+1514	Kad god budu spremni.	
+1515	I kavu.	
+1516	[NO TRANSLATION]	missing translation
+1517	Ne bi smio biti ovdje.	
+1518	Katkad u Njemačkoj poželiš veliki američki doručak.	
+1519	Što se dogodilo,	
+1520	gdje si bio sinoć?	
+1521	Vogel mi je sredio da provedem malo vremena na istoku.	
+1522	Isuse!	
+1523	Nije puno gore od onoga gdje ste me smjestili.	
+1524	Rusima odgovara razmjena, ali Vogel govori da istočni Nijemci neće.	
+1525	Nećemo dobiti Pryora.	
+1526	Odlično!	
+1527	Sovjeti su pristali,	
+1528	dobit ćemo Powersa.	
+1529	Dobit ćemo Powersa.	
+1530	Bravo.	
+1531	Istočni Nijemci nisu pristali,	
+1532	nećemo dobiti Pryora, a taj klinac je bitan.	
+1533	Svaka osoba je bitna.	
+1534	Naravno, zato si pokušao.	
+1535	[NO TRANSLATION]	missing translation
+1536	Abel je na putu, spremni smo za sutra ujutro.	
+1537	Čekaj.	
+1538	Pojednostavljuje stvari.	
+1539	Pojednostavljuje stvari.	
+1540	Nećemo dobiti klinca.	
+1541	Shvaćam.	
+1542	Spremni smo.	
+1543	Možemo ignorirati poruku koju smo dobili jutros.	
+1544	Koju poruku?	
+1545	Od istočnih Nijemaca.	
+1546	Zvali su broj koji sam ti dao.	
+1547	Htjeli su pričati s tobom.	
+1548	Vogel je zvao?	
+1549	Ne,	
+1550	ured Haralda Otta. Ministra unutrašnjih poslova.	
+1551	[NO TRANSLATION]	missing translation
+1552	Što je htio?	
+1553	Razgovarati s tobom,	
+1554	ali ne mogu tražiti da opet ideš tamo.	
+1555	Čini se da si persona non grata za neke. Nećemo riskirati.	
+1556	Želi me vidjeti?	
+1557	Kada?	
+1558	Ne, ne,	
+1559	[NO TRANSLATION]	missing translation
+1560	ne moraš ići.	
+1561	Ne bi ni trebao ići.	
+1562	Ne možeš ići!	
+1563	Sredili smo sve sa Sovjetima,	
+1564	ne želimo zeznuti.	
+1565	Neću zeznuti.	
+1566	Ne možeš ići.	
+1567	Ne budi gnjavež.	
+1568	Naručio sam.	
+1569	Uživaj u velikom američkom doručku.	
+1570	Mislio sam da bismo trebali pregovarati na najvišoj razini.	
+1571	Hvala, gospodine.	
+1572	Ne znam kako je sve postalo tako zbunjujuće.	
+1573	Izgleda da nekada jednostavno postane tako.	
+1574	Zarad razjašnjavanja spremni smo razmijeniti tzv. studenta Pryora za Rudolfa Abela.	
+1575	Koliko sam shvatio g. Pryor vam je vrlo bitan.	
+1576	Da, ali...	
+1577	Zapisat ćemo memorandum o tome.	
+1578	Memorandum?	
+1579	Dakako. Pristajemo na bilateralnu razmjenu.	
+1580	Da, da,	
+1581	ali nisam siguran što to znači...	
+1582	Moja država također inzistira na Francisu Garyju Powersu.	
+1583	Ne!	
+1584	<Oprostite./> Tako su stvari postale zbunjujuće.	missing English
+1585	[NO TRANSLATION]	missing translation
+1586	Od kakve vam je on koristi?	
+1587	Želite ga zbog kaznenih razloga.	
+1588	Što je bilo, bilo je.	
+1589	Odao je što je mogao, isto kao i Abel.	
+1590	Mi vam nudimo nekoga za koga tvrdite da je nevin.	
+1591	To je ispravno.	
+1592	Njega bi trebali izvući.	
+1593	Budućnost!	
+1594	Pogledajte u budućnost.	
+1595	Ott?	
+1596	Ott?	
+1597	Oprostite,	
+1598	možete li mi dati trenutak?	
+1599	Oprostite, gospodine,	
+1600	ministar je morao otići po hitnom poslu.	
+1601	Otišao je?	
+1602	Da,	
+1603	isprike.	
+1604	Čekao sam ga više od sat vremena.	
+1605	Žao mi je.	
+1606	Mladiću?	
+1607	Dođi ovamo.	
+1608	[NO TRANSLATION]	missing translation
+1609	Dođi.	
+1610	[NO TRANSLATION]	missing translation
+1611	Sjedni.	
+1612	Hajde,	
+1613	sjedni.	
+1614	Sviđa ti se posao ovdje?	
+1615	Dobar je posao, gospodine.	
+1616	[NO TRANSLATION]	missing translation
+1617	Sigurno je zanimljiv.	
+1618	Da.	
+1619	Također, važan.	
+1620	Engleski ti je odličan.	
+1621	Nerado kažem izvrstan,	
+1622	ali izvrstan je.	
+1623	[NO TRANSLATION]	missing translation
+1624	[NO TRANSLATION]	missing translation
+1625	Izgubio sam pregovaračkog partnera i trebam nekoga s kim ću pričati. Ti se činiš razuman mladić.	
+1626	Mogu li razgovarati s tobom?	
+1627	[NO TRANSLATION]	missing translation
+1628	U redu je...	
+1629	U redu je...	
+1630	[NO TRANSLATION]	missing translation
+1631	Samo trebaš prenijeti poruku svome šefu.	
+1632	Ali mora biti vrlo, vrlo jasna.	
+1633	[NO TRANSLATION]	missing translation
+1634	Da, gospodine,	
+1635	ali možda da pričekate...	
+1636	Ne.	
+1637	Prehlađen sam i želim se vratiti kući u svoj krevet.	
+1638	Možeš li mu ti prenijeti poruku?	
+1639	Dakako.	
+1640	Evo poruke:	
+1641	Nema dogovora za Abela ako ne dobijemo Powersa i Pryora.	
+1642	Razumiješ li?	
+1643	Da.	
+1644	Dogovoreno je za sutra ujutro.	
+1645	Neće se dogoditi ako ne dobijemo dvojicu.	
+1646	Njih dvojicu.	
+1647	Dva, dva, dva.	
+1648	[NO TRANSLATION]	missing translation
+1649	Ako nema dogovora, vaš šef mora reći Sovjetima.	
+1650	On mora reći Sovjetima da neće dobiti Rudolfa Abela.	
+1651	Da, gospodine.	
+1652	Reci mu i ovo.	
+1653	Do sada je Abel bio dobar vojnik. Ali misli da ide kući.	
+1654	Ako mu budemo morali reći da ne ide kući, da ga Sovjeti ne žele, da nikada ne ide,	
+1655	pretpostavljam da će promijeniti ponašanje.	
+1656	Tko će biti odgovoran za to?	
+1657	Dugačka je to poruka.	
+1658	Jesi li sve zapamtio?	
+1659	Da, gospodine.	
+1660	Jesam.	
+1661	[NO TRANSLATION]	missing translation
+1662	Dobar si ti čovjek.	
+1663	[NO TRANSLATION]	missing translation
+1664	Također mu reci da nema dogovora ako se ne čujemo do kraja dana.	
+1665	Ima broj.	
+1666	Ako se razmjena neće odviti nema potrebe ustajati rano ujutro.	
+1667	Ne, bilo bi besmisleno.	
+1668	Zezaš me?	
+1669	Zezaš me?!	
+1670	Ne baš.	
+1671	Trebam sitniš.	
+1672	Točno to nisi smio napraviti.	
+1673	Morao sam ispitati situaciju.	
+1674	Morao si dobiti Powersa.	
+1675	Pryor nije dio dogovora.	
+1676	Sve si uprskao!	
+1677	Kako znaš?	
+1678	Imam jako dobar osjećaj.	
+1679	Sve si sjebao!	
+1680	Ne brini.	
+1681	Mislim da će biti sve u redu.	
+1682	Kako znaš?	
+1683	Ne znaš to!	
+1684	<Centralu, molim vas./> Sjedinjene Države,	missing English
+1685	New York, New York.	
+1686	Hvala.	
+1687	Sve ovo je bilo da ispipaju mene.	
+1688	Hoću li zamijeniti jednog za jednog i kojega.	
+1689	Ali rekao sam ne, dva za jednog	
+1690	i tako znaju što mislimo.	
+1691	Što ako razmisle i kažu	
+1692	zaboravite?	
+1693	Vi zadržite vašeg tipa, mi ćemo naše.	
+1694	Onda sam sve sjebao.	
+1695	Hej, dušo,	
+1696	ja sam!	
+1697	Da,	
+1698	pecanje je odlično!	
+1699	U Londonu sam. Još jedan sastanak i idem kući.	
+1700	Sjećam se te marmelade.	
+1701	To je u onoj trgovini pored parka Regents.	
+1702	Hoću, ako nađem vremena.	
+1703	Mogu pozdraviti Rogera?	
+1704	A djevojke?	
+1705	Ima li nekoga tko nije zauzet?	
+1706	Jesu li primijetili da me nema?	
+1707	Idemo dalje.	
+1708	Dva za jednog.	
+1709	Ti bokca!	
+1710	Idemo popiti.	
+1711	Jedna zavrzlama.	
+1712	Što?	
+1713	Neće pustiti Pryora s Powersom, ne na mostu.	
+1714	Pustit će ga u isto vrijeme	
+1715	kad nam Rusi daju Powersa na mostu, oni će pustiti Pryora na kontrolnoj točki Charlie.	
+1716	Što to znači?	
+1717	Mislim da znači da žele imati posljednju riječ.	
+1718	Ali učinit će to?	
+1719	Reci ti meni,	
+1720	ti si ih ispipao.	
+1721	Gdje su?	
+1722	Gdje je njihov tip?	
+1723	Gdje je njihov tip?	
+1724	Kasne.	
+1725	Nitko ne kasni.	
+1726	Uranili smo.	
+1727	Mogu li?	
+1728	Da.	
+1729	Hoffmane.	
+1730	Da?	
+1731	Mislim da imaju	
+1732	[NO TRANSLATION]	missing translation
+1733	snajperiste.	
+1734	Siguran sam.	
+1735	Kako si siguran?	
+1736	Jer mi imamo snajperiste.	
+1737	Izađite, gospodine.	
+1738	[NO TRANSLATION]	missing translation
+1739	Dragi Jime.	
+1740	Kako si?	
+1741	Drago mi je što te vidim.	
+1742	Sve si ovo uredio zbog mene?	
+1743	Idemo vidjeti što je to sve prije nego preuzmem zasluge.	
+1744	Ima li vijesti o Pryoru s kontrolne točke Charlie?	
+1745	Još se ništa ne kuha.	
+1746	Oprostite, gospodine.	
+1747	Ovo je natporučnik Murphy, Zrakoplovstvo. Došao je identificirati Powersa.	
+1748	Natporučniče.	
+1749	Gospodine.	
+1750	Možda će biti problem.	
+1751	Bio sam mladić kad sam otišao.	
+1752	Koga će naći za moju identifikaciju?	
+1753	Nadam se ne vašu njemačku obitelj.	
+1754	Sumnjam da mogu sebe identificirati.	
+1755	Izgleda da je to naša skupina.	
+1756	Idemo.	
+1757	Ostani ovdje, Donovane.	
+1758	Neće ići.	
+1759	Podignite rampu.	
+1760	Što misliš da će se dogoditi kad dođeš kući?	
+1761	Mislim	
+1762	da ću popiti vodku.	
+1763	Da.	
+1764	Da.	
+1765	Rudolfe, zar ne postoji mogućnost...	
+1766	Da će me ubiti?	
+1767	Da.	
+1768	Nisi zabrinut?	
+1769	Bi li pomoglo?	
+1770	Odgovor na tvoje pitanje, prijatelju... Ponio sam se časno,	
+1771	mislim da to znaju.	
+1772	No, katkad ljudi pogrešno misle	
+1773	jer ljudi su ljudi.	
+1774	Vidjet ćemo kako će me pozdraviti.	
+1775	Što trebam gledati?	
+1776	Ako me zagrle. Ili ako mi samo pokažu stražnje sjedalo.	
+1777	[NO TRANSLATION]	missing translation
+1778	Skini kapu.	
+1779	Hej, Powers.	
+1780	Hej, Murph.	
+1781	To je Powers.	
+1782	Dobro, g. Donovane.	
+1783	Idemo.	
+1784	Čekajte!	
+1785	Vjerujte mi, reći ću vam.	
+1786	Nema nikoga ovdje.	
+1787	Puštaju drugog čovjeka na kontrolnoj točki Charlie.	
+1788	Potvrđujem je li tamo.	
+1789	Sada,	
+1790	kako smo isplanirali, molim vas.	
+1791	Idemo,	
+1792	Pryor će se pojaviti ili neće.	
+1793	Idemo.	
+1794	Čekaju vidjeti hoćemo li to uraditi bez njega.	
+1795	Moramo stajati i pokazati im da nećemo.	
+1796	Briga me što žele,	
+1797	imamo naš zadatak.	
+1798	Idite, Abele.	
+1799	Idite!	
+1800	Možete ići.	
+1801	Ako ne bude po planu, odlazimo.	
+1802	Sada ćemo se razmijeniti ili idemo kući.	
+1803	Čekamo drugog čovjeka?	
+1804	Da.	
+1805	I njega želiš?	
+1806	Želim.	
+1807	Nije bitno što on želi, gospodine.	
+1808	Ja sam glavni i slobodni ste.	
+1809	Molim vas, otiđite.	
+1810	Prijeđite preko.	
+1811	<Stoikey muzhik./> Mogu sačekati.	missing English
+1812	Nešto,	
+1813	nisam siguran što.	
+1814	Čekajte!	
+1815	[NO TRANSLATION]	missing translation
+1816	Imamo ga!	
+1817	[NO TRANSLATION]	missing translation
+1818	Poslao sam ti poklon, Jime.	
+1819	[NO TRANSLATION]	missing translation
+1820	Slika.	
+1821	Nadam se da će ti imati nekakvo značenje.	
+1822	Oprosti,	
+1823	ja tebi nisam donio poklon.	
+1824	Ovo je tvoj poklon.	
+1825	Tvoj poklon.	
+1826	[NO TRANSLATION]	missing translation
+1827	Idemo, idemo!	
+1828	G. Donovane,	
+1829	pukovnik Abel me zamolio da vam ovo predam.	
+1830	Oprostite, gospodine.	
+1831	Jeste li vi bili glavni?	
+1832	Da.	
+1833	Moram vam zahvaliti.	
+1834	Moram nekome zahvaliti.	
+1835	Ništa im nisam rekao.	
+1836	Ništa.	
+1837	Nema veze.	
+1838	Nije bitno što ljudi misle.	
+1839	Znaš što si uradio.	
+1840	Dobro došao kući.	
+1841	Kakav put.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Jesi li dobro?	
+1845	Jesam.	
+1846	Jesi li uzeo marmeladu?	
+1847	Jesam, jesam.	
+1848	[NO TRANSLATION]	missing translation
+1849	[NO TRANSLATION]	missing translation
+1850	[NO TRANSLATION]	missing translation
+1851	Po narudžbi.	
+1852	Jime,	
+1853	ovo je iz Arno'sa.	
+1854	[NO TRANSLATION]	missing translation
+1855	Iza ćoška.	
+1856	Dušo, bio sam zauzet.	
+1857	Oprosti.	
+1858	Bili smo jako zauzeti.	
+1859	[NO TRANSLATION]	missing translation
+1860	[NO TRANSLATION]	missing translation
+1861	Je li Roger kod kuće?	
+1862	Jest.	
+1863	[NO TRANSLATION]	missing translation
+1864	Svi su kod kuće.	
+1865	Mama,	
+1866	dođi brzo!	
+1867	[NO TRANSLATION]	missing translation
+1868	Mama?!	
+1869	Mama!	
+1870	Dođi vidjeti, dođi vidjeti!	
+1871	[NO TRANSLATION]	missing translation
+1872	[NO TRANSLATION]	missing translation
+1873	[NO TRANSLATION]	missing translation
+1874	Francis Gary Powers pušten je iz zatvora Sovjetskog saveza i predan američkim vlastima u ranim jutarnjim satima jutros u Berlinu.	
+1875	Predsjednik je pomilovao Rudolfa Abela	
+1876	koji je deportiran i pušten u Berlinu.	
+1877	Na spašavanju g. Powersa radilo se već neko vrijeme.	
+1878	U posljednjim akcijama Vlada SAD-a imala je pomoć i suradnju g. Jamesa B. Donovana, njujorškog odvjetnika.	
+1879	[NO TRANSLATION]	missing translation
+1880	Mislila sam da je tata na pecanju.	
+1881	Lososa.	
+1882	[NO TRANSLATION]	missing translation
+1883	[NO TRANSLATION]	missing translation
+1884	[NO TRANSLATION]	missing translation
+1885	[NO TRANSLATION]	missing translation

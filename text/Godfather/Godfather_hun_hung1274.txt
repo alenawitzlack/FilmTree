@@ -1,0 +1,1769 @@
+1	Hiszek Amerikában.	
+2	Vagyont szereztem ebben az országban.	
+3	A kislányomat amerikai elvek szerint neveltem.	
+4	Szabad szellemben. De a családjára soha ne hozzon szégyent.	
+5	Barátkozott egy fiúval, amerikaival.	
+6	Gyakran jártak együtt moziba.	
+7	Néhányszor este is.	
+8	De nem szóltam semmit.	
+9	Két hónapja elvitte kocsikázni egy másik fiúval.	
+10	Whiskyvel itatták... és aztán vissza akartak élni a helyzettel.	
+11	A kislányom ellenállt, őrizte a tisztességét.	
+12	Azok erre nekiestek, és összeverték.	
+13	Kórházba kellett szállítani, az orra el volt törve. Az álla összerepedezve, több kapoccsal kellett összefogni.	
+14	Sírni sem tudott a fájdalomtól.	
+15	De én zokogtam.	
+16	Sírtam őhelyette is.	
+17	Életem szemefénye volt!	
+18	Gyönyörű teremtés!	
+19	Már soha többé nem lesz szép lány.	
+20	Bocsásson meg!	
+21	Aztán elmentem a rendőrségre, mint jó amerikai.	
+22	A két kölyök ellen vádat emeltek.	
+23	A bíró három évi börtönt ítélt, de felfüggesztve.	
+24	Felfüggesztett büntetést kaptak!	
+25	Szabadon sétáltak ki!	
+26	Álltam a teremben, mint egy bolond.	
+27	Az a két gazember meg röhögött rajtam!	
+28	Mondtam a feleségemnek, elmegyünk igazságért Don Corleonéhoz.	
+29	Miért mentél a rendőrségre?	
+30	Miért nem hozzám jöttél?	
+31	Akármit kérhet tőlem, én teljesítem.	
+32	De tegye meg, amire kérem!	
+33	Mit akarsz?	
+34	Azt akarom, hogy meghaljanak.	
+35	Ezt nem tehetjük meg.	
+36	Kérjen akármit, megkapja!	
+37	Régóta ismerjük egymást, de először fordulsz hozzám segítségért.	
+38	Már az idejére sem emlékszem, mikor hívtál meg egy kávéra.	
+39	Pedig a feleségem keresztanyja a gyerekednek.	
+40	Legyünk egészen őszinték.	
+41	Neked nem kellett a barátságom.	
+42	Gondolom, féltél, hogy lekötelezett leszel.	
+43	Én csak nem akartam bajba kerülni.	
+44	Megértelek.	
+45	Te itt megtaláltad Amerikát.	
+46	Megy az üzlet, a rendőrség vigyáz rád, véd a törvény.	
+47	Nincs szükséged egy ilyen barátra.	
+48	Erre most idejössz, és azt mondod:	
+49	Don Corleone, tégy igazságot!	
+50	De most se ajánlod a barátságod.	
+51	Magázol, mint egy idegent.	
+52	Nem áll a szád a Keresztapára.	
+53	Beállítasz a lányom esküvőjén, kérsz, hogy öljek meg valakit pénzért.	
+54	Csak igazságot kérek.	
+55	Az nem lenne igazság.	
+56	A lányod él.	
+57	Akkor szenvedjenek ugyanúgy, ahogy a kislányom.	
+58	Nevezze meg az összeget!	
+59	Bonasera, Bonasera!	
+60	Milyen okot szolgáltattam, hogy ennyire nem tisztelsz?	
+61	Ha barátsággal jössz hozzám... biztos, hogy az a két gazember még ma megkapja a büntetését.	
+62	Ha ilyen embernek ellensége van, az az én ellenségem is.	
+63	És félhetnek tőled.	
+64	Legyél a barátom!	
+65	Keresztapa!	
+66	Helyes!	
+67	Egy nap, ami el se jön talán soha, kérek majd egy szívességet.	
+68	De amíg nem jelentkezem... ez az igazságtétel az ajándék a lányom esküvőjéről.	
+69	Grazie, Keresztapa.	
+70	Prego.	
+71	Ezt bízd Clemenzára!	
+72	Olyan ember kell, aki nem lő túl a célon.	
+73	Nem vagyunk gyilkosok, bármit hisz ez a koporsófaragó.	
+74	Hol van Michael?	
+75	Még van idő bőven.	
+76	Michael nélkül nem fényképezkedünk.	
+77	Mi a baj?	
+78	Michael.	
+79	Don Barzini!	
+80	Hé, Paulie!	
+81	Hozz már valamit inni!	
+82	Paulie!	
+83	Bort hozzál!	
+84	Nagyon kapkodtad a lábad!	
+85	Mi vagy te, pontozóbíró?	
+86	Csináld a dolgod!	
+87	Sandra, bírjanak magukkal a kölykök!	
+88	[NO TRANSLATION]	missing translation
+89	Csak te is bírj magaddal, jó?	
+90	20-30 lepedő kápéban.	
+91	Kis címletekben.	
+92	Kis selyem tarisznyában.	
+93	Ha ez másnak az esküvője volna!	
+94	Sfortunato!	
+95	Hé, Paulie!	
+96	[NO TRANSLATION]	missing translation
+97	Lökött vagy!	
+98	Mi a baj?	
+99	Nekem most dolgom van.	
+100	[NO TRANSLATION]	missing translation
+101	[NO TRANSLATION]	missing translation
+102	Egy szicíliai senkit sem utasíthat el a lánya esküvőjén.	
+103	Don Corleone, nagy megtiszteltetés, hogy a házában lehetek.	
+104	Tűnjenek el innen!	
+105	Ez nem nyilvános rendezvény.	
+106	[NO TRANSLATION]	missing translation
+107	Mit akar itt?	
+108	Ez a húgom esküvője.	
+109	A rohadt zsaruknak semmi se szent!	
+110	Gyere csak ide, gyere ide!	
+111	Szabadlábra helyezték, hogy segítse az amerikaiakat. Már fél éve dolgozik a sütödémben.	
+112	Nazorine, miben segítsek?	
+113	Most, a háború végén... ezt a fiút vissza akarják küldeni Olaszországba.	
+114	Keresztapa, van egy lányom.	
+115	És ő, meg Enzo...	
+116	Azt szeretnéd, ha Enzo itt maradna, a lányod pedig férjhez menne.	
+117	Te mindent megértesz.	
+118	Mr. Hagen!	
+119	Köszönöm.	
+120	Meglátod, micsoda tortát sütöttem a lányodnak!	
+121	Ekkora, és a díszek rajta...	
+122	Ezt a munkát kire bízzuk?	
+123	Ne a mi képviselőnkre.	
+124	Nézz egy zsidó képviselőt, más körzetből!	
+125	Ki van még a listán?	
+126	Michael!	
+127	Nincs rajta a listán, de Luca Brasi szeretne látni.	
+128	Ez elkerülhetetlen?	
+129	Nem remélte, hogy meg lesz hívva, és szeretné megköszönni.	
+130	Don Corleone, megtiszteltetés nekem, hogy meghívtál engem a házadba.	
+131	Kívánom, hogy az ifjú pár első gyermeke fiú legyen.	
+132	Michael!	
+133	Az a férfi mögötted magában beszél.	
+134	Ijesztő pofa!	
+135	Igen, elég ijesztő.	
+136	Mi a neve?	
+137	Luca Brasinak hívják.	
+138	Néha dolgozik az apámnak.	
+139	Michael, ez a pasas ide jön!	
+140	De jó bőrben vagy!	
+141	A bátyám, Tom Hagen, ő pedig Kay Adams.	
+142	Apa már nagyon vár téged.	
+143	Örülök, hogy megismertem.	
+144	Én is.	
+145	Miért van más neve a bátyádnak?	
+146	Nem édes bátyám. Sonny talált rá az utcán.	
+147	Nem volt senkije, apám pedig befogadta.	
+148	Azóta ő is a testvérünk.	
+149	Ügyes jogász.	
+150	Nem szicíliai.	
+151	De azt hiszem, ő lesz a consigliere.	
+152	Az mi?	
+153	Olyan, mint... egy tanácsadó.	
+154	Nagyon fontos poszt egy családban.	
+155	Ízlik a lasagne?	
+156	Don Corleone!	
+157	Nagy tisztesség számomra... hogy engem is meghívtál a lányod esküvőjére.	
+158	A lányod esküvőjének napján.	
+159	És remélem, hogy az első gyermekük fiúgyermek lesz.	
+160	És még egyszer biztosítalak odaadásomról és hűségemről.	
+161	Az esküvői tarisznyába.	
+162	Köszönöm.	
+163	Nem feledkezem el rólad.	
+164	Don Corleone, nem maradok tovább, mert tudom, sok dolgod van.	
+165	Köszönöm.	
+166	Signora Corleone!	
+167	Nem!	
+168	Cauley szenátor elnézést kért, hogy nem tud itt lenni.	
+169	És néhány bíró is.	
+170	De küldtek ajándékokat.	
+171	Mi ez a visítás?	
+172	Johnny!	
+173	Johnny!	
+174	Imádlak!	
+175	Eljött Kaliforniából, hogy itt legyen!	
+176	[NO TRANSLATION]	missing translation
+177	Biztos megint bajban volt.	
+178	Jó keresztfiú.	
+179	Johnny, Johnny!	
+180	Énekelj nekünk valamit!	
+181	Nem is mondtad, hogy ismered!	
+182	Valóban.	
+183	Bemutassalak?	
+184	[NO TRANSLATION]	missing translation
+185	Persze!	
+186	Az apám is egyengette a karrierjét.	
+187	Tényleg?	
+188	Hogyan?	
+189	Hallgassuk meg ezt a dalt!	
+190	Michael...	
+191	Kérlek,	
+192	mondd el!	
+193	Amikor Johnny énekelni kezdett, szerződést kötött... egy nagy zenekar vezetőjével.	
+194	De egyre népszerűbb lett, és terhessé vált neki a szerződés.	
+195	Johnny az apám keresztgyereke.	
+196	Apám elment a zenekar vezetőjéhez.	
+197	Felajánlott tízezer dollárt, hogy elengedje. A pasas nem akarta.	
+198	Erre másnap apám elment hozzá, de most Luca Brasival.	
+199	Egy órán belül... megvolt az egyezség, és ezer dolláros csekk is elég volt.	
+200	Hogyan csinálta?	
+201	Azt az ajánlatot nem lehetett visszautasítani.	
+202	Mi volt az?	
+203	Luca Brasi ráfogta a pisztolyt... hogy vagy az aláírása kerül a papírra, vagy az agyveleje.	
+204	És ez igaz, Kay.	
+205	Ezt ők csinálják.	
+206	Nem én.	
+207	Gyönyörű volt!	
+208	Elintézzük.	
+209	Tom!	
+210	Keresd meg Santinót!	
+211	Jöjjön az irodába!	
+212	Hogy vagy, Fredo?	
+213	A bátyám, Fredo, ő pedig Kay Adams.	
+214	Üdv!	
+215	Hogy vagy?	
+216	Ő az öcsém, Mike.	
+217	Jól érzed magad, Fredo?	
+218	Jól.	
+219	Ez itt a barátnőd?	
+220	Nem tudom, hogy mit csináljak.	
+221	Gyenge a hangom.	
+222	[NO TRANSLATION]	missing translation
+223	Ha megkaptam volna a főszerepet, visszakerülhettem volna a csúcsra.	
+224	De ez az alak hallani sem akar róla.	
+225	Hogy hívják?	
+226	Woltz.	
+227	Nem adja nekem. Azt mondja, esélyem sincs.	
+228	Sonny!	
+229	Sonny!	
+230	Sonny!	
+231	Sonny, bent vagy?	
+232	Mi van?	
+233	Az öreg rád vár.	
+234	Mindjárt megyek.	
+235	Egy hónapja vette meg a könyv megfilmesítési jogát.	
+236	A főszereplő fickó éppen olyan, mint én.	
+237	Csak magamat kellene adnom.	
+238	Keresztapa, nem tudom, hogy mit csináljak.	
+239	Viselkedj férfi módra!	
+240	Mi az ördög lelt téged?	
+241	Hollywood belőled is buzit csinált, nekiállsz bőgni, mint egy nő!	forced duplication
+242	Hollywood belőled is buzit csinált, nekiállsz bőgni, mint egy nő!	forced duplication
+243	Mit csináljak?	
+244	Mit csináljak?	
+245	Micsoda dolog ez?	
+246	Nevetséges!	
+247	A családodra szakítasz időt?	
+248	Persze.	
+249	Helyes.	
+250	Az a férfi, aki nem szán időt rá, sohasem lehet igazi férfi.	
+251	Pocsék bőrben vagy.	
+252	Egyél rendesen!	
+253	Egy hónap, és az a hollywoodi fejes neked adja, amit kérsz.	
+254	Késő, egy hét múlva már forgatnak.	
+255	Az én ajánlatomat nem utasítja vissza.	
+256	Menj, érezd jól magad, szórakoztasd a vendégeket!	
+257	A többit pedig rám bízhatod.	
+258	[NO TRANSLATION]	missing translation
+259	Mikor megy el a lányom?	
+260	Nemsokára, tortavágás után.	
+261	Az új családtag kapjon valami megbízatást?	
+262	Soha.	
+263	Családi ügyekről nem beszélünk vele.	
+264	[NO TRANSLATION]	missing translation
+265	Sollozzo telefonált.	
+266	Megbeszéljük,	
+267	ha visszajöttél Kaliforniából.	
+268	Mikor megyek Kaliforniába?	
+269	Ma este.	
+270	Beszélsz azzal a mozifőnökkel, és elintézed Johnny szerződését.	
+271	Ha egyéb ügy nincs, szeretnék már én is lagziba menni.	
+272	Carlo, fényképezkedünk!	
+273	Egy pillanat!	
+274	Ne, Michael!	
+275	Én nem megyek.	
+276	Rendben.	
+277	Mindenki idenéz.	
+278	És most!	
+279	Be kell melegednie.	
+280	Kit keres?	
+281	Johnny Fontane barátja küldött.	
+282	Mr. Woltzot a barátságáról biztosítaná... ha tenne egy apró szívességet.	
+283	Mr. Woltz hallgatja magát.	
+284	Adja Johnnynak a főszerepet a készülő filmjében!	
+285	És a barátja milyen szívességet tenne cserébe Mr. Woltznak?	
+286	Mindent elsimít a szakszervezettel.	
+287	Az egyik sztárja átváltott a heroinra.	
+288	Fenyegetni próbál?	
+289	Ide figyeljen, maga szemét!	
+290	[NO TRANSLATION]	missing translation
+291	Johnny Fontane nálam semmilyen szerepet nem kap!	
+292	Szarok a zsíros digókra. Nem félek egy Pinokkiótól!	
+293	Én ír vagyok.	
+294	Figyeljen, maga krumplirágó!	
+295	Bajt hozok én még magára!	
+296	Ügyvéd vagyok.	
+297	[NO TRANSLATION]	missing translation
+298	Ismerem az összes New York-i ügyvédet.	
+299	[NO TRANSLATION]	missing translation
+300	[NO TRANSLATION]	missing translation
+301	Egyetlen ügyfél érdekeit képviselem.	
+302	Várom a hívását.	
+303	Egyébként nagyon szeretem a filmjeit.	
+304	Nézz utána!	
+305	Nagyon szép.	
+306	Ezt nézze!	
+307	Egy királyi palota díszlete.	
+308	Gyönyörű.	
+309	Nem mondta, hogy Corleone.	
+310	Azt hittem, Johnny csak blöffölni akar.	
+311	Csak akkor mondom, ha szükséges.	
+312	[NO TRANSLATION]	missing translation
+313	[NO TRANSLATION]	missing translation
+314	Jöjjön! Mutatok valami csodásat!	
+315	Van érzéke a szép iránt, ugye?	
+316	[NO TRANSLATION]	missing translation
+317	600 ezer dollár áll itt négy patán.	
+318	Az orosz cárok nem fizettek ennyit egy lóért.	
+319	Khartoum.	
+320	Khartoum.	
+321	De nem akarom futtatni.	
+322	Tenyészállatot csinálok belőle.	
+323	Viheted, Tony!	
+324	Menjünk enni!	
+325	Corleone Johnny keresztapja.	
+326	Az olaszok számára ez szent rokonság.	
+327	[NO TRANSLATION]	missing translation
+328	Mondja meg, hogy bármit kérhet,	
+329	de ezt nem tudom neki megtenni.	
+330	Másodszor nem kér, ha egyszer visszautasítják.	
+331	[NO TRANSLATION]	missing translation
+332	Johnny Fontane soha nem fogja megkapni azt a szerepet.	
+333	Tökéletes lenne neki.	
+334	Újra a csúcsra emelné.	
+335	De kisöpröm őt a szakmából, és megmondom, miért.	
+336	Johnny Fontane tönkretette a legígéretesebb tehetségünket.	
+337	Öt éven keresztül képeztük.	
+338	Ének-, tánc-, és színpadi órák.	
+339	Több százezer dollárt költöttem rá, hogy sztár legyen.	
+340	De feltárom magának őszintén!	
+341	[NO TRANSLATION]	missing translation
+342	Ne higgye azt, hogy nálam csak a pénz számít!	
+343	A lány gyönyörű volt.	
+344	Fiatal és ártatlan!	
+345	A legjobb nő volt, aki megfordult a kezeim között.	
+346	Aztán megjelent ez a Johnny Fontane, olívaolajos fejjel, búgó hanggal.	
+347	És a lány elment.	
+348	Csak hogy engem nevetségessé tegyen!	
+349	Egy ember az én helyzetemben nem engedheti meg ezt magának!	
+350	Most menjen a pokolba!	
+351	Mondja meg neki, hogy nem vagyok zenekarvezető!	
+352	Igen, nagyon jól tudom, hogy csinálták.	
+353	Köszönöm a vacsorát és a kellemes estét.	
+354	Kérném, vitessen ki a reptérre.	
+355	Mr. Corleone a rossz hírt gyorsan szereti megkapni.	
+356	Nem vagy fáradt, Tom?	
+357	Nem, a gépen aludtam.	
+358	Itt vannak Sollozzo papírjai.	
+359	Megvan.	
+360	Sollozzo. A csúfneve Török.	
+361	Azt mondják jól bánik a késsel... de csak akkor, ha valaki az üzletébe kontárkodik.	
+362	Az üzlete pedig a kábítószer.	
+363	A mákot Törökországban termelteti.	
+364	A szicíliai telepein heroint csinálnak belőle.	
+365	Készpénz kell neki, és védelem.	
+366	Ezért részesedést ad.	
+367	Nem tudom, mennyit.	
+368	A Tattaglia család áll mögötte.	
+369	Gondolom, ők se szívességből tették.	
+370	Volt dolga a törvénnyel?	
+371	Kétszer ült.	
+372	Őt tartják a legnagyobbnak.	
+373	Santino, te mit gondolsz?	
+374	Sok pénz van abban a porban.	
+375	Tom?	
+376	[NO TRANSLATION]	missing translation
+377	A kábítószerben több pénz van, mint akármiben.	
+378	Ha mi nem adunk védelmet, ad más. Talán az öt család.	
+379	A pénzen még több rendőrt és politikust vesznek meg.	
+380	És akkor nekünk esnek.	
+381	Miénk a szakszervezet, a szerencsejáték, de a drog a jövőé.	
+382	Ha ma nem szerzünk benne részesedést, kockáztatjuk mindenünket.	
+383	Na?	
+384	Mit válaszolunk, apa?	
+385	Don Corleone!	
+386	Nekem befolyásos barátok kellenek.	
+387	Egymillió dollár készpénzben.	
+388	És legfőképpen azok a politikusok, akik a maga zsebében vannak.	
+389	Mennyi a családom részesedése?	
+390	30 százalék.	
+391	Első év végére 3-4 millió dollár tiszta haszon.	
+392	És ez csak növekszik.	
+393	És mekkora a Tattaglia család részesedése?	
+394	Elismerésem.	
+395	Azt a saját részemből fizetem ki.	
+396	Tehát 30 százalékot kapok a befektetésért, a védelemért... és a rendőrség távoltartásáért.	
+397	Így van.	
+398	Miért hozzám jött?	
+399	Mivel érdemeltem ki ezt?	
+400	Magában megvan minden, és van egymillió dollárja. Ti saluto, Don Corleone.	
+401	Azért találkoztam magával, mert hallottam, hogy komoly ember... aki tiszteletet érdemel.	
+402	De vissza kell utasítanom.	
+403	Meg is mondom, hogy miért.	
+404	Az igaz, hogy sok politikus barátom van.	
+405	De elfordulnának tőlem, ha megtudják, mivel foglalkozom. A szerencsejáték még ártatlan, de a drog piszkos üzlet.	
+406	Engem nem érdekel, hogy más mivel keresi a kenyerét.	
+407	De a maga üzlete mégis egy kicsit veszélyes.	
+408	A pénze biztonságát Tattagliáék garantálják.	
+409	Hogy Tattagliáék a mi befektetésünket...	
+410	[NO TRANSLATION]	missing translation
+411	Túl elnéző voltam a gyerekeimmel, elkényeztettem őket.	
+412	Akkor is beszélnek, amikor nem kéne.	
+413	Nos...	
+414	Signor Sollozzo, a válaszom végleges.	
+415	Gratulálok az üzlethez!	
+416	Sok sikert hozzá!	
+417	Őszintén mondom, mert a mi érdekeink nem ütköznek.	
+418	Köszönöm.	
+419	Santino!	
+420	Gyere ide!	
+421	Mi bajod van?	
+422	Elment az eszed?	
+423	Először a komédia azzal a csitrivel.	
+424	Eredj!	
+425	Tom, mi ez a kóró?	
+426	Johnny küldi.	
+427	Rábízták a szerepet a filmben.	
+428	Vigyék ki!	
+429	Vigyétek ki!	
+430	És... szólj Luca Brasinak, hogy várom.	
+431	Idegesít egy kicsit ez a Sollozzo.	
+432	Kiszagolhatnád, mire készül.	
+433	Elmész Tattagliához.	
+434	Panaszkodsz neki, hogy nemigen szeretsz itt a mi családunkban... és derítsd ki, amit lehet.	
+435	Már van ajándék anyukádnak, Sonnynak. A nyakkendő Freddyé, Tomnak meg töltőtollat veszünk.	
+436	Te mit szeretnél karácsonyra?	
+437	Csak téged.	
+438	Andiamo, Fredo!	
+439	Szólj Paulie-nak, hogy hozza a kocsit!	
+440	[NO TRANSLATION]	missing translation
+441	Inkább hozom én.	
+442	Paulie telefonált, hogy beteg.	
+443	Nem ügy.	
+444	Különben is, szeretek vezetni.	
+445	Buon Natale, caro!	
+446	Grazie.	
+447	Luca!	
+448	Bruno Tattaglia vagyok.	
+449	Tudom.	
+450	Ismer engem?	
+451	Dereng.	
+452	Beszéltem a Tattaglia családdal.	
+453	Arra gondoltam, hogy te meg én dolgozhatnánk együtt.	
+454	Kell nekem egy ilyen fickó.	
+455	Rájöttem, hogy nem kedveled már a Corleone családot.	
+456	Nem akarsz váltani?	
+457	Akarsz velem dolgozni?	
+458	Ötvenezer dollár, megéri neked.	
+459	Nem rossz!	
+460	Megegyeztünk?	
+461	Tom!	
+462	Tom Hagen.	
+463	Boldog Karácsonyt!	
+464	Jó, hogy erre járt.	
+465	Beszélhetnénk?	
+466	Most nincs időm.	
+467	Szakítson rá, Consigliere.	
+468	Üljön a kocsiba!	
+469	Csak nem fél?	
+470	Ha meg akarnám ölni, már rég nem élne.	
+471	Szálljon be!	
+472	Fredo, veszek egy kis gyümölcsöt.	
+473	Jó, apa.	
+474	Boldog Karácsonyt!	
+475	Gyümölcsöt vinnék.	
+476	Jobban szeretnéd, ha apáca volnék?	
+477	Mint egy regényben.	
+478	Nem.	
+479	És ha én lennék Ingrid Bergman?	
+480	Elgondolkodtató!	
+481	Michael!	
+482	Nem tetszenél jobban, ha te lennél Ingrid Bergman.	
+483	Mi a baj?	
+484	Nem írják, hogy él-e.	
+485	Sonny, itt Michael!	
+486	Hol mászkálsz?	
+487	Életben van?	
+488	Még igen.	
+489	De nem tudnak semmit.	
+490	Öt golyót lőttek bele.	
+491	Ott vagy?	
+492	Itt vagyok.	
+493	Hol voltál?	
+494	Aggódtam.	
+495	Tom nem mondta, hogy hívtam?	
+496	Nem.	
+497	Gyere haza, Michael.	
+498	Anya mellett kell lenned.	
+499	Jól van.	
+500	Sonny!	
+501	Menj hátrébb!	
+502	Ki az?	
+503	Clemenza. Nyisd ki!	
+504	Az utcán az öregről beszéltek.	
+505	Azt mondták, biztos meghalt.	
+506	Mit beszélsz?	
+507	Nyugodj már meg!	
+508	Paulie hol volt?	
+509	Szólt, hogy beteg.	
+510	[NO TRANSLATION]	missing translation
+511	Hányszor volt beteg?	
+512	Háromszor, négyszer.	
+513	[NO TRANSLATION]	missing translation
+514	Tedd meg, hogy idehozod most rögtön!	
+515	[NO TRANSLATION]	missing translation
+516	Ha még lélegzik, ide kell hoznod!	
+517	Ne küldjek valakit?	
+518	Ne. Elegen leszünk.	
+519	[NO TRANSLATION]	missing translation
+520	Két emberünk ide jön a házhoz.	
+521	Halló!	
+522	Santino Corleone?	
+523	Igen.	
+524	Tom Hagen a kezünkben van.	
+525	Három óra múlva viszi az ajánlatunkat.	
+526	Hallgassa meg, mielőtt cselekedne.	
+527	Ami történt, megtörtént.	
+528	Nem veszíti el a fejét, ugye?	
+529	Várok.	
+530	A főnöke halott.	
+531	Tudom, hogy nem maga a pöröly a családban, ezért ne féljen.	
+532	Én csak azt akarom, hogy segítsen Corleonééknak és nekem.	
+533	Az öreget elkaptuk azután, hogy magát felvettük.	
+534	Igya meg!	
+535	Egyedül magán múlik a béke Sonnyval.	
+536	Tetszett neki az ajánlatom, ugye?	
+537	És maga is tudja, hogy azt kellene tenni.	
+538	Sonny magára fog vadászni.	
+539	Ez lesz majd az első gondolata.	
+540	Ezért kell magának meggyőzni őt.	
+541	A Tattaglia-család mögöttem áll.	
+542	A New York-iak mindent elkövetnek, hogy ne legyen háború.	
+543	Valljuk be őszintén, a Don, nyugodjék békében, nem volt a régi.	
+544	Le tudtam volna lőni az utcán tíz éve?	
+545	És most halott, Tom. Nem támasztja fel senki.	
+546	Beszéljen Sonnyval, a Caporegimekkel, Tessióval, a kövér Clemenzával.	
+547	Ez nagyon jó üzlet, Tom!	
+548	Rendben.	
+549	De Luca Brasit Sonny sem fogja tudni visszatartani.	
+550	Igen, de...	
+551	Luca legyen az én gondom!	
+552	Csak Sonnyt győzze meg!	
+553	És a másik két gyereket.	
+554	Megpróbálom.	
+555	Helyes!	
+556	Akkor mehet is.	
+557	Nem bírom az erőszakot, Tom.	
+558	Üzletember vagyok.	
+559	És a vér sokba kerül.	
+560	Még életben van.	
+561	Öt golyót eresztettek bele, és még él!	
+562	Ez rossz hír, de magának még rosszabb, ha nincs egyezség.	
+563	Anyád a kórházba ment.	
+564	Van remény rá, hogy megússza.	
+565	Ez csupa rossz vér.	
+566	Sollozzo, Philip és Bruno Tattaglia, Ramon...	
+567	Ezeket mind meg akarjátok ölni?	
+568	[NO TRANSLATION]	missing translation
+569	Sollozzo halála mindent megoldana.	
+570	Mi van Lucával?	
+571	Sollozzo megfogta.	
+572	Ha Lucát megvásárolták, akkor baj van.	
+573	Lucával próbáltatok beszélni?	
+574	Egész éjjel.	
+575	Lehet, hogy kurvázott.	
+576	Luca nem alszik a nőknél.	
+577	Tom, te vagy a consigliere.	
+578	Mit csinálunk, ha az öreg meghal?	
+579	Ha őt elveszítjük, elveszítjük a súlyunkat, a befolyásunkat.	
+580	A New York-i családok majd Sollozzo mellé állnak.	
+581	A háborúnak egy éve vége.	
+582	Senki nem akar vérontást.	
+583	Ha az öreg meghal... meg kell egyezned.	
+584	Neked könnyű!	
+585	[NO TRANSLATION]	missing translation
+586	Én is fia vagyok, mint te és Mike.	
+587	Mi van?	
+588	Paulie, kint őrködj!	
+589	A kapunál leadtak valami csomagot.	
+590	Tessio, menj! Nézz utána, hogy mi az!	
+591	Maradjak még?	
+592	[NO TRANSLATION]	missing translation
+593	Jól vagy?	
+594	Igen, mondjuk.	
+595	[NO TRANSLATION]	missing translation
+596	Nem vagy éhes?	
+597	Nem.	
+598	[NO TRANSLATION]	missing translation
+599	Egy kis Brandy segít kiizzadni.	
+600	Lehet.	
+601	Az most jól fog esni.	
+602	Vedd kezelésbe ezt a szemetet!	
+603	Paulie árulta el az apámat.	
+604	Az első legyen a listán! Világos?	
+605	Rendben.	
+606	Mickey, holnap elmész pár emberrel Luca lakására.	
+607	Nem kellene Mike-ot belevonni tevőlegesen is.	
+608	Legalább telefonon hívogasd, hátha elkapod.	
+609	Tárcsázd a számát!	
+610	Mi a fene ez?	
+611	Szicíliai üzenet.	
+612	Azt jelenti, hogy Luca már a halakkal alszik.	
+613	Elmegyek.	
+614	Mikor jössz?	
+615	Azt hiszem, későn.	
+616	Ne felejtsd el a cannoli-t!	
+617	Jó.	
+618	Rocco, ülj a másik oldalra.	
+619	Nem látok hátra tőled.	
+620	Sonny begőzölt.	
+621	Szerezzük be a matracokat!	
+622	Találjunk meg egy boltot.	
+623	Próbáljuk a Nyugati 43. utca 309-et!	
+624	Nem tudsz valami jó helyet a West Side-on?	
+625	[NO TRANSLATION]	missing translation
+626	Találd ki, amíg vezetsz, de még ma.	
+627	[NO TRANSLATION]	missing translation
+628	Vigyázz a kölykökre!	
+629	Paulie, menj a 39. utcába, vegyél 18 matracot, kérj számlát!	
+630	Jó van.	
+631	Legyenek tiszták, mert sokáig maradnak a fiúk.	
+632	Tiszták és irtva vannak.	
+633	Nem jó kifejezés!	
+634	Kiirtani!	
+635	Vigyázz, ki ne irtsunk!	
+636	Állj meg!	
+637	Brunyálnom kell.	
+638	A pisztoly marad.	
+639	A cannoli-t hozd!	
+640	Mike,	
+641	Mikey!	
+642	Mi van?	
+643	Telefon!	
+644	Ki az?	
+645	Egy női hang.	
+646	[NO TRANSLATION]	missing translation
+647	Kay?	
+648	Hogy van apád?	
+649	Jól van, túléli.	
+650	Szeretlek.	
+651	Szeretlek!	
+652	Michael!	
+653	Igen, tudom.	
+654	Mondd, hogy te is!	
+655	Nem tudom.	
+656	Nem beszélhetsz?	
+657	Este találkozunk.	
+658	Miért nem mondtad, hogy szereted?	
+659	Szeretlek, imádlak,	
+660	meghalok utánad!	
+661	Gyere ide, tanulj valamit!	
+662	Még te is főzhetsz egyszer.	
+663	Odateszel egy kis olajat, aztán fokhagymát.	
+664	Utána a paradicsomot, de kavarod, hogy ne álljon össze.	
+665	Amikor rotyog, belevágod a kolbászt, meg a húsgombócokat.	
+666	Pár csepp vörösbort.	
+667	És egy kis cukrot.	
+668	Meg is van.	
+669	Hagyd már abba a locsogást!	
+670	[NO TRANSLATION]	missing translation
+671	Mi van Paulie-val?	
+672	Őt nem látod többé.	
+673	Hová mész?	
+674	A városba.	
+675	Adj mellé testőröket!	
+676	Csak a kórházba...	
+677	[NO TRANSLATION]	missing translation
+678	Sollozzo tudja, hogy ő civil.	
+679	Vigyázz magadra!	
+680	Igenis!	
+681	Akkor is kéne valaki.	
+682	Mennem kell.	
+683	Veled mehetek?	
+684	[NO TRANSLATION]	missing translation
+685	A kórház tele lesz detektívekkel meg újságírókkal.	
+686	Akkor a kocsiban megvárlak.	
+687	Inkább maradj ki ebből!	
+688	Mikor látlak ismét?	
+689	Menj vissza New Hampshire-be, a szüleidnél hívlak.	
+690	Mikor látlak ismét, Michael?	
+691	Nem tudom.	
+692	Mit csinál itt?	
+693	Nem lett volna szabad bejönnie.	
+694	Michael Corleone vagyok.	
+695	Ő az apám.	
+696	Hova lettek az őrök?	
+697	Túl sok látogatója volt az apjának.	
+698	Akadályozták a munkánkat.	
+699	A rendőröket tíz perce visszarendelték.	
+700	Kapcsolja a Long Beach 45620-at, kérem!	
+701	Nővér!	
+702	Várjon!	
+703	Maradjon itt!	
+704	Sonny, a kórházban vagyok.	
+705	Későn jöttem, nincs itt senki.	
+706	Se Tessio emberei, se rendőrök.	
+707	Apa egyedül van.	
+708	Ne ess kétségbe!	
+709	Nem esem.	
+710	Sajnálom, de ki kell mennie.	
+711	Megfogjuk apám ágyát és másik szobába visszük.	
+712	Levenné az üvegeket?	
+713	Erről szó sem lehet!	
+714	Tudja, ki az apám?	
+715	Itt akarják meggyilkolni.	
+716	Érti már?	
+717	Segítsen, legyen szíves!	
+718	Kicsoda maga?	
+719	Enzo vagyok, a sütödés.	
+720	Nem emlékszik rám?	
+721	Enzo.	
+722	Menjen innen, mert itt baj lesz!	
+723	Itt maradok segíteni.	
+724	Az apjának sokat köszönhetek.	
+725	[NO TRANSLATION]	missing translation
+726	Menjen ki, és várjon meg engem a bejáratnál, világos?	
+727	Egy perc, és ott leszek.	
+728	Te csak maradj itt, apa!	
+729	Majd én vigyázok rád.	
+730	Most már veled vagyok.	
+731	Veled vagyok.	
+732	Dobja el ezt!	
+733	[NO TRANSLATION]	missing translation
+734	Tegye zsebre a kezét, mintha egy pisztolyt markolna.	
+735	Rendben.	
+736	Jól csinálta.	
+737	Azt hittem, a digó csibészeket bezártam!	
+738	Hol vannak a rendőrök apám mellől?	
+739	Te féreg!	
+740	Te parancsolsz nekem?	
+741	Én rendeltem vissza őket.	
+742	Tűnj el sürgősen!	
+743	Nem, míg nem állít mellé őröket.	
+744	Phil, tedd a kocsiba!	
+745	[NO TRANSLATION]	missing translation
+746	Ez a gyerek egy háborús hős.	
+747	Egyedül neki nincs köze...	
+748	[NO TRANSLATION]	missing translation
+749	Mennyit kapott a Töröktől apámért?	
+750	Fogjátok meg!	
+751	Fogd erősen!	
+752	[NO TRANSLATION]	missing translation
+753	Corleone ügyvédje vagyok.	
+754	Ezek az emberek magándetektívek.	
+755	Tarthatnak fegyvert.	
+756	Ha beavatkozik, holnap reggelre bíróság elé idéztetem.	
+757	Eresszétek el!	
+758	Ki ez sok új pofa?	
+759	Szükségünk van rájuk.	
+760	Sonny begurult a kórházas ügyön.	
+761	Hajnalban lelőttük Bruno Tattagliát.	
+762	Szentséges Úristenem!	
+763	Mint egy erődítmény.	
+764	Tommasuccio!	
+765	Száz fegyveresünk járja az utcákat éjjel-nappal.	
+766	Elég, ha Sollozzo kinéz az utcára, már hulla.	
+767	Mike, hadd nézzelek!	
+768	Gyönyörű vagy, szép,	
+769	férfias!	
+770	A Török tárgyalni akar velünk!	
+771	Nincs még egy ilyen trágya alak!	
+772	Még ma.	
+773	Mit mondott?	
+774	[NO TRANSLATION]	missing translation
+775	Azt akarja, hogy Michaelt küldjük el tárgyalni.	
+776	Van egy állítólag jó ajánlata.	
+777	És Bruno Tattaglia?	
+778	Lenyelték.	
+779	Kiegyenlítettük apánkat.	
+780	Le kéne őket hallgatni.	
+781	Most már nem!	
+782	Elég volt, Consigliere!	
+783	Nincs több tárgyalás és ravaszkodás!	
+784	Nekem Sollozzo kell! Ha nem, háború...	
+785	[NO TRANSLATION]	missing translation
+786	[NO TRANSLATION]	missing translation
+787	<Ezt apád se akarná.../> Ez üzlet, nem személyes ügy!	missing English
+788	És apa...	
+789	Az is üzleti ügy volt, nem bosszú!	
+790	Akkor ezen az üzleten nem nyerünk!	
+791	[NO TRANSLATION]	missing translation
+792	És ne adj tanácsokat nekem,	
+793	inkább segíts győzni!	
+794	Utánanéztem annak a rendőrnek.	
+795	Sollozzo megvásárolta. Mégpedig nagy összegért.	
+796	McCluskey garantálja Sollozzo biztonságát.	
+797	Amíg ilyen apparátus védi, nem eshet baja.	
+798	New Yorkban sosem lőttek még le rendőrt.	
+799	Mind az öt család nekünk esne!	
+800	A Corleone családot kiközösítenék!	
+801	Apa politikus barátai elfordulnának tőlünk.	
+802	Gondolkozz már!	
+803	Ezt mind számításba kell venni!	
+804	Jól van, akkor várunk.	
+805	Nem várhatunk.	
+806	Nem várhatunk.	
+807	Köthetünk egyezséget, de apát akkor is megöli.	
+808	Csak időt akar.	
+809	Sollozzót ki kell nyírni.	
+810	Mike-nak igaza van.	
+811	Jó, mondjuk igaza van.	
+812	De mi lesz McCluskeyval?	
+813	Rendőrtől hogy szabadulsz meg?	
+814	Velem akarnak találkozni, ugye?	
+815	Ott lennék én, McCluskey és Sollozzo.	
+816	Egyezzünk bele!	
+817	És valahogy megtudjuk előre a találkozó helyét.	
+818	Legyen nyilvános hely!	
+819	Kocsma, vagy étterem.	
+820	Ahol sok ember van, nagyobb biztonságban vagyok.	
+821	Meg fognak motozni, ugye?	
+822	Tehát nálam nem lehet fegyver.	
+823	De ha találtok rá megoldást, hogy ott várjon engem egy pisztoly... akkor megölöm mindkettőt.	
+824	Tanult ember beleártaná magát a család piszkos ügyeibe?	forced duplication
+825	Tanult ember beleártaná magát a család piszkos ügyeibe?	forced duplication
+826	Le akar lőni egy zsarut, mert megütötte?	
+827	Ez nem hadsereg!	
+828	Itt nem messziről lövöldöznek, közelről kell lőni!	
+829	Elragadott a bosszúvágy.	
+830	Tom, ez üzleti ügy, és nem személyes.	
+831	Honnan veszed, hogy zsarut nem lehet ölni?	
+832	[NO TRANSLATION]	missing translation
+833	Olyan zsaruról beszélek, aki droggal üzletel, egy disznó állat!	
+834	Egy undormány, egy velejéig korrupt szemét.	
+835	Ez címlapsztori.	
+836	Nekünk is vannak lefizetett újságíróink, nem?	
+837	Még örülnének is a sztorinak.	
+838	Igen, lehet.	
+839	Ez nem bosszúvágy, Sonny.	
+840	Az üzlet kívánja meg.	
+841	Így szoktuk preparálni.	
+842	Ezen nem marad meg az ujjlenyomat.	
+843	Szalag van a ravaszon, meg az agyán is.	
+844	Próbáld ki!	
+845	Mi a baj, nehezen jár?	
+846	Megsüketít!	
+847	Úgy állítottam be, hogy a nagy zajtól berezeljenek.	
+848	Lelőtted őket.	
+849	És aztán mit csinálsz?	
+850	Leülök, és eszem tovább.	
+851	Ne hülyéskedj!	
+852	Kicsúsztatod a pisztolyt a kezedből.	
+853	Azt hiszik, hogy még nálad van.	
+854	Mindenki bámul... úgyhogy kisietsz a teremből.	
+855	Senkinek nem nézel a szemébe.	
+856	Meg fognak dermedni a félelemtől.	
+857	[NO TRANSLATION]	missing translation
+858	Ha túl vagy rajta, elutazol egy kis időre... mi meg háborúzunk addig.	
+859	Mi lehet belőle szerinted?	
+860	Nagy hajcihő.	
+861	Lehet, hogy minden család ellenünk jön.	
+862	Ennek meg kell történnie minden öt-hat-tíz évben.	
+863	[NO TRANSLATION]	missing translation
+864	[NO TRANSLATION]	missing translation
+865	Az elején kell megállítani őket.	
+866	Ahogy Hitlert is kellett volna. Nem hagyni, hogy kifejlődjön.	
+867	[NO TRANSLATION]	missing translation
+868	Rád mindenki nagyon büszke volt,	
+869	hős voltál.	
+870	Apád is.	
+871	Semmi.	
+872	[NO TRANSLATION]	missing translation
+873	Az égvilágon semmi.	
+874	Sollozzo emberei sem tudják, hol lesz a találkozó.	
+875	Mennyi időnk van hátra?	
+876	Másfél óra múlva vesznek fel Jack Dempsey kocsmájánál.	
+877	Követhetjük őket, aztán meglátjuk.	
+878	Sollozzo észrevenné.	
+879	Hol van Sollozzo embere?	
+880	Kártyázik az enyéimmel.	
+881	És örül.	
+882	Mert hagyják nyerni.	
+883	Túl rizikós.	
+884	Le kéne fújni.	
+885	Addig itt marad, míg Mike vissza nem ér.	
+886	Miért nem lövi le őket már ott, a kocsiban?	
+887	[NO TRANSLATION]	missing translation
+888	Lehet, hogy Sollozzo nem is lesz ott.	
+889	Felveszem.	
+890	Louis étterme, Bronxban.	
+891	Biztos?	
+892	Az emberünk szólt.	
+893	A zsaruknak mindig meg kell adniuk, hol fognak tartózkodni.	
+894	[NO TRANSLATION]	missing translation
+895	Járt már ott valaki?	
+896	Én igen.	
+897	A legmegfelelőbb hely.	
+898	Családi étterem, jól főznek.	
+899	Mindenkinek megvan a dolga.	
+900	[NO TRANSLATION]	missing translation
+901	Régimódi vécéjük van.	
+902	Tudod, fatartály, azzal a lánchúzóval.	
+903	A mögé odafér a pisztoly.	
+904	Jól van.	
+905	Mike, bementek az étterembe, leültök enni. Beszélgettek, amíg megnyugszol.	
+906	[NO TRANSLATION]	missing translation
+907	Aztán fölkelsz, hogy ki kell menned pisilni.	
+908	[NO TRANSLATION]	missing translation
+909	Aztán ha kijössz, azonnal tüzelsz.	
+910	Kettőt-kettőt.	
+911	Nehogy valami amatőr tegye fel a pisztolyt!	
+912	Ne csak a farka legyen a kezében!	
+913	A pisztoly ott lesz.	
+914	Odahajtasz, és elhozod, ha kész.	
+915	Akkor gyerünk!	
+916	Mondta, hogy hagyd ott a pisztolyt?	
+917	Mondta már, ezerszer.	
+918	Ne feledd!	
+919	Kettőt mindegyiknek a fejébe, ha kilépsz a budiból.	
+920	Mennyi időnek kell eltelnie, amíg visszajöhetek?	
+921	Legalább egy évnek.	
+922	Anyával én beszélek, mert vele nem találkozol, mielőtt elmész...	
+923	A barátnődet meg értesítem, amikor lehet.	
+924	Vigyázz magadra!	
+925	Nagyon vigyázz!	
+926	Jó, hogy eljöttél!	
+927	Szeretnék mindent tisztázni.	
+928	Nem így akartam.	
+929	Nem lett volna szabad megtörténnie.	
+930	[NO TRANSLATION]	missing translation
+931	Azt akarom, hogy békén hagyja az apámat.	
+932	Békén hagyom, esküszöm a gyerekeimre.	
+933	De neked is belátónak kell lenned.	
+934	Te nem vagy forrófejű, mint Sonny.	
+935	Vele nem lehet beszélni.	
+936	Jó gyerek ez!	
+937	Ne haragudj a kórház előtt történtekért!	
+938	Megmotozlak, úgyhogy fordulj ide.	
+939	Fordulj meg, és térdelj föl!	
+940	Azt hiszem, öreg vagyok én már ehhez a munkához.	
+941	[NO TRANSLATION]	missing translation
+942	Nem bírom, ha ingerelnek.	
+943	Megérted, ugye?	
+944	Fegyvertelen.	
+945	Jerseybe megyünk?	
+946	Lehet.	
+947	Szépen csináltad!	
+948	Az ételek milyenek?	
+949	A borjú!	
+950	Legjobb a városban.	
+951	Megkóstoljuk.	
+952	Olaszul fogjuk megbeszélni.	
+953	Jól van.	
+954	Én egyet akarok...	
+955	Számomra ez a legfontosabb... Garanciát akarok,	
+956	hogy nem próbálja megölni az apám.	
+957	Milyen garanciát adhatnék?	
+958	Rám vadászik mindenki.	
+959	A lehetőséget elpuskáztam.	
+960	[NO TRANSLATION]	missing translation
+961	Én nem vagyok olyan ügyes.	
+962	Ezért kérek tőled békét.	
+963	Kimennék a vécére.	
+964	Nincs ellene kifogásuk?	
+965	Ha menned kell, eredj!	
+966	Megmotoztam.	
+967	[NO TRANSLATION]	missing translation
+968	Siess vissza.	
+969	Ezer ilyet motoztam már.	
+970	<Emeljétek meg! Vigyázzatok!/>	missing English
+971	Szeretlek, nagyapa.	
+972	[NO TRANSLATION]	missing translation
+973	Még nem ismeri. <Azért sír a kis buta./>	missing English
+974	[NO TRANSLATION]	missing translation
+975	Mondd el a nagypapának! Máris.	
+976	[NO TRANSLATION]	missing translation
+977	Gyógyulj meg hamar, nagyapa!	
+978	Nagyon szeret unokád, Frank.	
+979	Most kimehetsz.	
+980	Vigye vissza őt, jó?	
+981	Menj ki te is, Carlo!	
+982	Gyerünk!	
+983	Mi bajod van, Carlo?	
+984	Fogd be a szád! Teríts!	
+985	McCluskey halála óta a rendőrség meg akarja fojtani érdekeltségeinket.	
+986	A családok meg segítenek nekik.	
+987	Sok vér folyik.	
+988	Megütöttek, mi visszaütünk.	
+989	Az újságíróink leadtak egy csomó anyagot... McCluskey, Sollozzo és a drog kapcsolatáról.	
+990	Már enyhül a szorítás.	
+991	Fredót elküldjük Las Vegasba. Don Francesco szemmel tartja majd.	
+992	Hadd pihenjen!	
+993	Megismerem a kaszinó szakmát.	
+994	Hol van Michael?	
+995	Ő lőtte le a rendőrt és Sollozzót.	
+996	De biztonságban van.	
+997	Már szervezzük a visszatérését.	
+998	Kiszagoljuk, hol dekkol Tattaglia.	
+999	Szét akarom lőni.	
+1000	Sonny, most enyhülnek a dolgok.	
+1001	Ha újra vadászol rá, felfordul minden.	
+1002	Apa tud tárgyalni.	
+1003	Apa lábadozik.	
+1004	Addig én döntök.	
+1005	A háború egy csomó pénz.	
+1006	Nem megy az üzlet!	
+1007	[NO TRANSLATION]	missing translation
+1008	[NO TRANSLATION]	missing translation
+1009	[NO TRANSLATION]	missing translation
+1010	[NO TRANSLATION]	missing translation
+1011	[NO TRANSLATION]	missing translation
+1012	Még nagyobb hírnevet akarsz, nem volt elég ennyi?	
+1013	[NO TRANSLATION]	missing translation
+1014	Ha rendes szicíliai consiglierém volna, most nem itt tartanék.	
+1015	Apámnak volt.	
+1016	Nekem ez jutott.	
+1017	Sajnálom.	
+1018	Nem akarlak bántani.	
+1019	Üljünk az ebédhez.	
+1020	Vasárnap van.	
+1021	A négereknek itt van a paradicsom. Segélyekből élnek.	
+1022	Ülnek a Cadillac-jükben, és nagyzolnak.	
+1023	Csak leakasztják a nagy pénzt.	
+1024	Apa sose beszélt üzletről az asztalnál.	
+1025	Fogd be a szád, Connie!	
+1026	Ne mondd neki még egyszer!	
+1027	Ne avatkozz bele!	
+1028	[NO TRANSLATION]	missing translation
+1029	Sokkal többet is tudnék tenni a családért.	
+1030	Üzletről nem beszélünk az ebédnél!	
+1031	Üdvözlöm, Don Tommasino!	
+1032	Mit keresel erre?	
+1033	Én felelek érted.	
+1034	Itt van Fabrizio.	
+1035	Ez akkor is veszélyes.	
+1036	Santino üzent New Yorkból.	
+1037	Az ellenségeid tudják, hogy itt vagy.	
+1038	Santino nem mondta, mikor mehetek vissza?	
+1039	[NO TRANSLATION]	missing translation
+1040	Erről egyelőre szó sem lehet.	
+1041	Most hova mész?	
+1042	Corleonéba.	
+1043	Elviszlek kocsival.	
+1044	Jobb lesz gyalog.	
+1045	Légy óvatos.	
+1046	Hová lettek az emberek?	
+1047	Megölték őket. Vérbosszú.	
+1048	Ott vannak a halottak nevei.	
+1049	Hé, álljatok meg!	
+1050	Hé, várjatok barátaim!	
+1051	Clark Gable!	
+1052	Amerika!	
+1053	Várjatok!	
+1054	Clark Gable, Rita Hayworth!	
+1055	Jézusom, de gyönyörű!	
+1056	Beléd csapott a ménkű?	
+1057	A szicíliai nők nagyon veszélyesek.	
+1058	Sikerült a vadászat?	
+1059	Ismered a környékbeli lányokat?	
+1060	Láttunk egy gyönyörű lányt.	
+1061	Megbabonázta a barátunkat.	
+1062	Talán az ördög küldte a földre.	
+1063	[NO TRANSLATION]	missing translation
+1064	<És mindkettőtök azt akarja?/>	missing English
+1065	Olyan a haja!	
+1066	A nők errefelé csinosak, de ravaszak.	
+1067	Piros ruha volt rajta.	
+1068	És piros szalag a hajában.	
+1069	Inkább görögnek tűnt, mint olasznak.	
+1070	Maga ismeri?	
+1071	Ebben a városban nincs ilyen lány.	
+1072	Úristen, már értem!	
+1073	Mi a baj?	
+1074	Menjünk!	
+1075	Ez az ő lánya.	
+1076	Hívd ide!	
+1077	Hívd ide!	
+1078	Fabrizio, kérlek fordítsd!	
+1079	Bocsánatot kérek, ha megbántottam.	
+1080	Én idegen vagyok itt.	
+1081	Nem akartam tiszteletlenül beszélni.	
+1082	Amerikai vagyok, itt rejtőzöm.	
+1083	A nevem Michael Corleone.	
+1084	Sokan fizetnének magának, hogy ezt kifecsegje.	
+1085	De akkor a lánya elvesztene egy apát. Pedig kaphatott volna egy férjet.	
+1086	Szeretnék találkozni a lányával.	
+1087	Az ön engedélyével, és a család felügyelete mellett.	
+1088	Megadva minden tiszteletet.	
+1089	Vasárnap reggel jöjjön el ide!	
+1090	A nevem Vitelli.	
+1091	És hogy hívják a lányát?	
+1092	Maradj már nyugton.	
+1093	Majd a könyvtárban olvass!	
+1094	A húgomékhoz megyünk.	
+1095	Mi a baj?	
+1096	Mi a baj?	
+1097	Én vagyok a hibás!	
+1098	Hol van?	
+1099	Én tehetek róla.	
+1100	[NO TRANSLATION]	missing translation
+1101	Veszekedni kezdtem vele.	
+1102	Én ütöttem meg őt.	
+1103	Hívunk egy orvost, hogy megvizsgáljon.	
+1104	Sonny, nem kell semmit csinálni.	
+1105	[NO TRANSLATION]	missing translation
+1106	Ne félj, nem csinálok semmi rosszat.	
+1107	Azt akarom én, hogy árva legyen?	
+1108	Digók, még a Yankeesre fogadtok?	
+1109	Szólj, hogy hagyják abba!	
+1110	Vesztettem rajtuk eleget.	
+1111	Gyere ide, gyere ide!	
+1112	Megöllek, ha még egyszer hozzányúlsz.	
+1113	[NO TRANSLATION]	missing translation
+1114	Nem számítottunk magára.	
+1115	Miért nem telefonált?	
+1116	Telefonáltam.	
+1117	Azon kívül írtam pár levelet is.	
+1118	Látni akarom Michaelt.	
+1119	Nem tudni, hol van.	
+1120	Annyit tudunk, hogy biztonságban van.	
+1121	Mi történt?	
+1122	Baleset, de nem sérült meg senki.	
+1123	Tom, odaadná ezt a levelet Michaelnak?	
+1124	Kérem.	
+1125	Ha átvenném, az azt jelentené, hogy tudok valamit a hollétéről.	
+1126	Legyen még türelemmel!	
+1127	Megengedné, hogy telefonáljak taxiért?	
+1128	Természetesen.	
+1129	Jöjjön!	
+1130	Halló?	
+1131	Carlo ott van?	
+1132	Ki keresi?	
+1133	Egy barátnője.	
+1134	Mondja meg neki, hogy este mégse érek rá.	
+1135	Rohadt kurva!	
+1136	Kész a vacsora.	
+1137	Nem kérek.	
+1138	Ki fog hűlni.	
+1139	A városban eszem.	
+1140	Te mondtad, hogy főzzek!	
+1141	[NO TRANSLATION]	missing translation
+1142	[NO TRANSLATION]	missing translation
+1143	Hülye tyúk!	
+1144	Ez az, törd össze, elkényeztetett liba!	
+1145	Azt is!	
+1146	Miért nem hívod ide a kurvádat vacsorázni?	
+1147	Idehívom.	
+1148	Megkapod. Ezt összetakarítod!	
+1149	Azt lesheted!	
+1150	Te girhes, elkényeztetett tyúk!	
+1151	Szedd össze!	
+1152	Szedd össze!	
+1153	Szedd össze!	
+1154	Azt mondtam, összeszeded!	
+1155	Szedd össze.	
+1156	Szedd össze.	
+1157	Felszeded, különben...	
+1158	Feltakarítod!	
+1159	Feltakarítod!	
+1160	Ölj meg.	
+1161	Legyél gyilkos, mint az egész családod!	
+1162	Az összes Corleone gyilkos!	
+1163	Utállak!	
+1164	Gyerünk, ölj meg!	
+1165	Gyere ki onnan!	
+1166	Utállak!	
+1167	Most megöllek.	
+1168	[NO TRANSLATION]	missing translation
+1169	Gyere ki!	
+1170	Connie, mi van veled?	
+1171	Nem hallom jól.	
+1172	Connie, beszélj hangosabban!	
+1173	[NO TRANSLATION]	missing translation
+1174	Santino, én nem értem.	
+1175	Nem tudom.	
+1176	Mi van, Connie?	
+1177	Várj meg otthon!	
+1178	Nem, te csak maradj otthon!	
+1179	Az a szemét bitang!	
+1180	A szemét kurva anyját!	
+1181	Megölöm!	
+1182	Nyissátok ki a kaput!	
+1183	Gyerünk már.	
+1184	Sonny!	
+1185	Sonny!	
+1186	Hagyj békén!	
+1187	Menjetek utána!	
+1188	Mit csinál ez a hülye itt?	
+1189	Eredj már!	
+1190	Adj egy kortyot!	
+1191	A mama sír a szobájában.	
+1192	Hallottam, hogy autók érkeztek.	
+1193	Te vagy a consigliere... mondd el nekem is, amit mindenki tud már.	
+1194	A mamának nem mondtam semmit.	
+1195	Épp most akartam felmenni, hogy elmondjam.	
+1196	De előtte innod kellett.	
+1197	Igen.	
+1198	Nos, akkor mondd, ha ittál.	
+1199	Sonnyt lelőtték az országúton.	
+1200	Meghalt.	
+1201	Nem nyomozunk a gyilkosok után.	
+1202	Nem akarok több bosszút.	
+1203	Szervezz meg egy találkozót... az öt család vezetőivel.	
+1204	A háború véget ért.	
+1205	Hívd fel Bonaserát!	
+1206	Szükségem van rá.	
+1207	Tom Hagen beszél.	
+1208	Vito Corleone kívánságára hívom.	
+1209	Van nekünk egy tartozása.	
+1210	A Don úgy érzi, hogy most viszonozhatnád.	
+1211	Egy óra múlva ott lesz a ravatalozónál.	
+1212	[NO TRANSLATION]	missing translation
+1213	Barátom, megteszed nekem, amire kérlek?	
+1214	Igen.	
+1215	Mit kívánsz tőlem?	
+1216	Szükség lesz minden szakértelmedre, minden eszközre.	
+1217	Nem akarom, hogy az anyja így lássa.	
+1218	Milyen kegyetlenül bántak el vele!	
+1219	Tanuld inkább a nyelvet.	
+1220	Már tudom.	
+1221	Hétfő, kedd, csütörtök, szerda, péntek, vasárnap, szombat.	
+1222	Üdvözlöm, Don Tommasino!	
+1223	Mi újság Palermóban?	
+1224	Michael megtanított autót vezetni.	
+1225	Nézze, megmutatom.	
+1226	Mi újság Palermóban?	
+1227	A fiatalok már nincsenek ránk tekintettel.	
+1228	Megváltoztak az idők.	
+1229	Ez veszélyes környékké vált a számodra.	
+1230	Menj vissza Siracusába! Itt túl sokan ismernek. Indulj!	
+1231	Mi történt?	
+1232	Rossz hír jött Amerikából.	
+1233	A bátyádat, Santinót... Megölték.	
+1234	Indulj már!	
+1235	Gyerünk!	
+1236	Fabrizio!	
+1237	Gyere a kocsival!	
+1238	Te fogsz vezetni, főnök?	
+1239	A feleséged veled megy?	
+1240	Nem, őt te viszed haza az apjához.	
+1241	Ahogy mondod, főnök.	
+1242	Calo, hol van Apollonia?	
+1243	[NO TRANSLATION]	missing translation
+1244	Kint gyakorol a kocsival.	
+1245	Jó amerikai feleség lesz belőle.	
+1246	Kiviszem a csomagokat.	
+1247	Fabrizio!	
+1248	Te hova mész?	
+1249	Várj meg ott!	
+1250	Odagurulok hozzád!	
+1251	Ne, Apollonia!	
+1252	Don Barzini, köszönöm a segítséged a találkozó létrehozásában... és az öt New York-i és New Jersey-i család fejeinek is.	
+1253	Carmine Cuneonak, Bronx... és Brooklyn urának... Philip Tattagliának...	
+1254	a Staten Islandről. Köszöntöm Victor Strachit.	
+1255	Családunk kültagjait, akik eljöttek Kaliforniából, Kansas Cityből... és az ország minden részéről.	
+1256	Köszönöm.	
+1257	Hogy fajulhattak idáig a dolgok?	
+1258	Én nem tudom.	
+1259	Az egész olyan értelmetlen, olyan fölösleges volt.	
+1260	Tattaglia fia meghalt, az én fiam is meghalt.	
+1261	Kvittek vagyunk.	
+1262	Ha Tattaglia beleegyezik... én nem ellenzem, hogy úgy legyen, mint azelőtt.	
+1263	Köszönjük, hogy összehozta a találkozót.	
+1264	Tudjuk róla, hogy állja a szavát.	
+1265	Szerény ember.	
+1266	Igen, Don Barzini.	
+1267	Túl szerény is.	
+1268	Hiszen a zsebében tartott mindenkit.	
+1269	De nem osztotta meg velünk őket.	
+1270	Mikor utasítottam vissza megegyezést?	
+1271	Ismertek mindannyian.	
+1272	Mikor utasítottam vissza, egy esetet kivéve?	
+1273	És azt miért?	
+1274	Mert az volt a véleményem, hogy a drog tönkre fog tenni bennünket.	
+1275	Az nem olyan, mint az alkohol, vagy a nők. Amire az embereknek szüksége is van, csak az egyház megtiltotta nekik.	
+1276	Azok a rendőrök, akik eddig szemet hunytak... rögtön hátat fordítanak, ha a droghoz nyúlunk.	
+1277	Ez volt a véleményem akkor is, és azóta sem változott.	
+1278	Az idők változnak.	
+1279	Ma már nem úgy van, hogy azt tehetünk, amit akarunk.	
+1280	A visszautasítás sem baráti tett.	
+1281	Ha Don Corleone kezében vannak a bírók és a politikusok... juttatnia kell belőlük másnak is, legalább néha.	
+1282	[NO TRANSLATION]	missing translation
+1283	Ezeket a szolgálatokat megfizettetheti.	
+1284	Elvégre, nem vagyunk kommunisták.	
+1285	Én is ellene vagyok a kábítószernek.	
+1286	Sokáig fizettem az embereimnek, hogy tartózkodjanak tőle.	
+1287	Erre azt mondta valaki: Van porom.	
+1288	Ha beszállsz három-, négyezerrel, ötvenezret szakítunk fejenként.	
+1289	[NO TRANSLATION]	missing translation
+1290	A drogot nem lehet szabadjára engedni, nekünk kell kézben tartani.	
+1291	Gyerekekhez nem kerülhet. Az iskoláktól minél távolabb.	
+1292	Ez infamia.	
+1293	A mi kezünkből csak a feketékhez fog kerülni.	
+1294	Azok állatok, veszítsék el a lelküket.	
+1295	Bíztam abban, hogy egyezségre jutunk.	
+1296	Hajlandó vagyok engedményt tenni, hogy békés megoldást találjunk.	
+1297	[NO TRANSLATION]	missing translation
+1298	A kábítószereket engedélyezzük, de korlátozzuk.	
+1299	Don Corleone a területén védelmet ad, és béke lesz.	
+1300	Én biztosítékokat szeretnék Corleonétól.	
+1301	Ha majd idővel megerősödik... nem kísérli meg a vendettát.	
+1302	Komoly emberek vagyunk.	
+1303	Nem kell biztosítékokat adnunk.	
+1304	Te a bosszútól félsz.	
+1305	Attól visszakapod a fiadat?	
+1306	Vagy én az enyémet?	
+1307	A fiamért nem kívánok bosszút állni.	
+1308	De erre önző okom van.	
+1309	A legfiatalabbnak el kellett mennie az országból... amiatt a Sollozzo-eset miatt.	
+1310	Egyezséget kötök veletek, hogy biztonságban jöhessen ide.	
+1311	És tisztázódjon a vádak alól.	
+1312	Csakhogy én babonás ember vagyok.	
+1313	Ha valami baleset történik vele, ha egy rendőr lelövi a kihallgatáson. Vagy felakasztva találják a cellájában... vagy ha villám csap bele az utcán... én azt fogom hinni, hogy innen volt valaki.	
+1314	És akkor nem bocsátok meg.	
+1315	De ha ő hazaér... megesküdni is kész vagyok... akár az unokáim lelki üdvére is... hogy nem szegem meg azt a békét, amit ma itt szentesítünk.	
+1316	Ragaszkodjak hozzá, hogy Tattaglia ügynökeinek ne legyen priusza?	
+1317	Csak említsd meg!	
+1318	Ne forszírozd!	
+1319	Barzini tudja, nem kell mondanod.	
+1320	Tattaglia nem?	
+1321	Tattaglia egy strici.	
+1322	Ő sosem tudta volna Santinót túlnőni.	
+1323	Én sem tudtam egészen a mai napig, hogy Barzini az ellenség.	
+1324	Gyere, Nancy!	
+1325	Fogjátok meg egymás kezét!	
+1326	[NO TRANSLATION]	missing translation
+1327	Jól van.	
+1328	Te mikor jöttél vissza?	
+1329	Már egy éve.	
+1330	Talán régebben is.	
+1331	Örülök, hogy látlak, Kay.	
+1332	Most az apámnak dolgozom.	
+1333	Gyenge már.	
+1334	Nagyon beteg.	
+1335	De te nem vagy olyan, mint ő.	
+1336	Mindig azt hittem, más ember leszel.	
+1337	Az én apám sem különbözik a többi hatalmasságtól.	
+1338	Senkitől, aki felelős más emberekért.	
+1339	Egy szenátor, egy elnök.	
+1340	De naiv vagy!	
+1341	Miért?	
+1342	Ők nem öletnek meg senkit.	
+1343	Melyikünk a naiv, Kay?	
+1344	Azoknak a módszereknek már leáldozott, ahogyan apám dolgozott.	
+1345	[NO TRANSLATION]	missing translation
+1346	Öt-hat éven belül a Corleone-család törvényes cég lehet.	
+1347	Bízzál bennem.	
+1348	Csak ennyit szeretnék mondani,	
+1349	Kay.	
+1350	Michael, miért kellett most megjelenned?	
+1351	[NO TRANSLATION]	missing translation
+1352	Mit akarsz tőlem azután, hogy évekig hiába kerestelek?	
+1353	[NO TRANSLATION]	missing translation
+1354	Azért jöttem, mert szükségem van rád.	
+1355	[NO TRANSLATION]	missing translation
+1356	Hagyd ezt, Michael!	
+1357	[NO TRANSLATION]	missing translation
+1358	És hogy feleségül kérjelek.	
+1359	Késő.	
+1360	Kérlek, Kay...	
+1361	Megteszek érted mindent, amit akarsz.	
+1362	Ez mindennél fontosabb, Kay.	
+1363	Nem számít más, csak az... hogy egymás mellett legyünk.	
+1364	Hogy együtt éljünk.	
+1365	Legyenek gyerekeink, otthonunk.	
+1366	[NO TRANSLATION]	missing translation
+1367	Kay, gyere hozzám!	
+1368	Szeretlek téged.	
+1369	Barzini emberei a mi területünkön vannak.	
+1370	Lassan nem lesz hely, ahová leülhetek!	
+1371	[NO TRANSLATION]	missing translation
+1372	Én nem segítséget,	
+1373	szabad kezet kérek!	
+1374	Csak légy türelemmel!	
+1375	[NO TRANSLATION]	missing translation
+1376	Hadd szerezzek legalább új embereket!	
+1377	[NO TRANSLATION]	missing translation
+1378	Nem adok ürügyet Barzininak, hogy kiássa a csatabárdot!	
+1379	[NO TRANSLATION]	missing translation
+1380	Don Corleone...	
+1381	Egyszer azt ígérted, hogy alapíthatunk saját családot.	
+1382	Eddig nem gondoltam rá,	
+1383	de most kérem az engedélyed.	
+1384	Michael a család új feje.	
+1385	Ha ő engedélyezi neked, akkor áldásom adom rá.	
+1386	Ha Nevadába költözünk... kiválhatsz közülünk és új családot alapíthatsz.	
+1387	Az mennyi idő még?	
+1388	Fél év.	
+1389	Ha nem vagy velünk, Pete-nek és nekem Barzini füttyére kell táncolni.	
+1390	Utálom őt.	
+1391	Fél év múlva nem lenne semmink, amivel kezdhetnénk.	
+1392	Bíztok a józan ítéletemben?	
+1393	Igen.	
+1394	A hűségetek a régi?	
+1395	Örökre.	
+1396	[NO TRANSLATION]	missing translation
+1397	Akkor tegyétek, amit Michael mond.	
+1398	Ez a vállalkozás tisztázni fog minden kérdéses dolgot.	
+1399	A ti ügyeteket is.	
+1400	Carlo, te Nevadában éltél.	
+1401	Te leszel az ottani megbízottam.	
+1402	[NO TRANSLATION]	missing translation
+1403	Tom Hagen a vegasi jogi képviselőnk lesz.	
+1404	Ez nem lefokozás, én kívánom így.	
+1405	Apámnál jobb consigliere-t nem találnék.	
+1406	Végeztem.	
+1407	Köszönöm, apa.	
+1408	Örülök, Carlo fiam.	
+1409	Mike,	
+1410	én miért maradok ki?	
+1411	Te békeidőben vagy jó consigliere, Tom.	
+1412	Most elmérgesedhetnek a dolgok.	
+1413	Tom!	
+1414	Én tanácsoltam így.	
+1415	Tudom, nem voltál rossz consigliere.	
+1416	De sajnos Santino rossz Don volt, nyugodjék békében.	
+1417	Michaelban van minden bizodalmam.	
+1418	Te jobb, ha nem veszel részt ezekben a most készülő dolgokban.	
+1419	Szívesen segítenék.	
+1420	Te kimaradsz, Tom.	
+1421	Szép a képed!	
+1422	Akkor láttam, amikor még lila volt!	
+1423	Jó munkát végzett a doki.	
+1424	Kay beszélt rá?	
+1425	Hé!	
+1426	Hagyjátok csak ott!	
+1427	Majd kipakolunk.	
+1428	Már nyitom is az ajtót.	
+1429	[NO TRANSLATION]	missing translation
+1430	Isten hozott Vegasban!	
+1431	[NO TRANSLATION]	missing translation
+1432	Nem tehetek róla, az ő ötlete volt.	
+1433	A testvéremnek bármit.	
+1434	[NO TRANSLATION]	missing translation
+1435	Mindjárt visszajövök.	
+1436	[NO TRANSLATION]	missing translation
+1437	Amit csak akarsz, Michael.	
+1438	Kik ezek a nők?	
+1439	Erre magad is rájössz.	
+1440	Dobd ki őket, Fredo!	
+1441	Ugyan, Mike!	
+1442	<Holnap utazom vissza./>	missing English
+1443	Dobd ki őket!	
+1444	Fáradt vagyok.	
+1445	Dobd ki a zenészeket is!	
+1446	Na, tűnés!	
+1447	[NO TRANSLATION]	missing translation
+1448	Menjetek haza!	
+1449	Gyerünk!	
+1450	[NO TRANSLATION]	missing translation
+1451	Futás!	
+1452	Elég volt!	
+1453	Gyerünk!	
+1454	Nem tudom, mi van vele.	
+1455	Sajnálom, Angelo.	
+1456	[NO TRANSLATION]	missing translation
+1457	Nincs kedve. Fáradt.	
+1458	Miért nincs itt Moe Greene?	
+1459	Azt mondta, dolga van.	
+1460	És hívjuk, ha már parti van.	
+1461	Akkor hívd fel!	
+1462	Johnny, hogy vagy?	
+1463	Örülök, hogy eljöttél, Mike.	
+1464	Büszkék vagyunk rád.	
+1465	[NO TRANSLATION]	missing translation
+1466	Ülj le, beszélni akarok veled!	
+1467	[NO TRANSLATION]	missing translation
+1468	Apádnak köszönhetem.	
+1469	Tudja, hogy hálás vagy,	
+1470	ezért kér tőled most szívességet.	
+1471	Mit tegyek, Mike?	
+1472	A családunk feladja az olívaolaj érdekeltségeit és ide terjeszkedik.	
+1473	Moe átadja kaszinó- és hotelrészét. Minden a kezünkben lesz.	
+1474	[NO TRANSLATION]	missing translation
+1475	Biztos vagy benne?	
+1476	[NO TRANSLATION]	missing translation
+1477	Moe nekem nem mondta, hogy eladná.	
+1478	Az én ajánlatomat nem fogja elutasítani.	
+1479	Szóval, Johnny...	
+1480	Ha jó a szórakoztatás, többen jönnek játszani.	
+1481	Remélem aláírod, hogy ötször fellépsz nálunk.	
+1482	Rábeszélhetnéd a barátaidat, hogy jöjjenek ők is.	
+1483	Számítunk rád.	
+1484	[NO TRANSLATION]	missing translation
+1485	Tudod, hogy bármit megteszek a Keresztapának.	
+1486	Helyes.	
+1487	Szervusz, Mike!	
+1488	[NO TRANSLATION]	missing translation
+1489	Mindenki itt van?	
+1490	Freddy, Tom.	
+1491	Régen láttalak.	
+1492	[NO TRANSLATION]	missing translation
+1493	[NO TRANSLATION]	missing translation
+1494	A szakács csak nekünk főz, a lányok isteniek, és van hiteled.	
+1495	Hozzál zsetont mindenkinek, a ház ellen játszunk!	
+1496	Van annyi hitel, hogy felvásároljalak?	
+1497	Hogy engem?	
+1498	A kaszinót, és a szállodát.	
+1499	A Corleone család megveszi a részed.	
+1500	A Corleone család az én részemet?	
+1501	Inkább én a tiéteket!	
+1502	A kaszinód veszteséges.	
+1503	[NO TRANSLATION]	missing translation
+1504	Azt hiszed, zsebre vágom a hasznot?	
+1505	Peches vagy.	
+1506	Csak nevetni lehet rajtatok.	
+1507	Én szívességből vettem be Freddyt. És most ki akartok túrni?	
+1508	Azért vetted be, hogy biztosítsuk a pénzt... és hogy megszervezze a védelmét a Molinary család révén.	
+1509	[NO TRANSLATION]	missing translation
+1510	[NO TRANSLATION]	missing translation
+1511	Nektek végetek.	
+1512	A családnak már nincs hatalma.	
+1513	A Don beteg.	
+1514	A családok kisöpörnek New Yorkból.	
+1515	Azt hiszed, első szóra átadom a szállodám?	
+1516	Tárgyalt velem Barzini is.	
+1517	Ha akarom, vele kötök üzletet.	
+1518	Ezért mered pofozni a bátyám nyilvánosan?	
+1519	Az semmiség volt, Mike.	
+1520	Nem volt a mögött ilyen számítás.	
+1521	Néha kijön a sodrából, de attól még jó haver.	
+1522	Egy-két seggbe bele kell rúgni az üzlet miatt.	forced duplication
+1523	Egy-két seggbe bele kell rúgni az üzlet miatt.	forced duplication
+1524	Volt egy összetűzésünk, hát észhez térítettem.	
+1525	Észhez térítetted a bátyámat?	
+1526	A lányokat dugta,	
+1527	a vendégek meg ital nélkül voltak.	
+1528	Mi a fenét vártál tőlem?	
+1529	Holnap reggel elutazom.	
+1530	Gondolkozz az áron.	
+1531	Taknyos szemét!	
+1532	[NO TRANSLATION]	missing translation
+1533	Én már akkor a szakmában voltam, mikor még az ágyba pisáltál.	
+1534	Várj egy pillanatot!	
+1535	Várjál!	
+1536	Tom, te vagy a consigliere.	
+1537	Hívd fel apát...	
+1538	[NO TRANSLATION]	missing translation
+1539	A Don visszavonult és a család irányítását Mike-ra bízta.	
+1540	Ha akarsz valamit mondani, mondd Mike-nak!	
+1541	Mike, ezt itt nem lehet! Nem lehet Moe Greene-nel így beszélni.	
+1542	Fredo!	
+1543	Te a bátyám vagy, és én szeretlek.	
+1544	De nem akarom, hogy bárki miatt a család ellen fordulj!	
+1545	[NO TRANSLATION]	missing translation
+1546	Beszélnem kell apámmal, vacsorázzatok nélkülem.	
+1547	Majd a hétvégén elmegyünk.	
+1548	Moziba is, aztán vacsorázunk.	
+1549	A nővéred akar kérni tőled valamit.	
+1550	Hát kérjen!	
+1551	De nem meri.	
+1552	Lennél a gyerekük keresztapja?	
+1553	Gondolkodom rajta.	
+1554	[NO TRANSLATION]	missing translation
+1555	Majd meglátjuk.	
+1556	[NO TRANSLATION]	missing translation
+1557	Barzini lesz az első, aki rád támad.	
+1558	Találkozót fog ajánlani valaki által, akiben bízol.	
+1559	Garantálja a biztonságodat.	
+1560	És a találkozón azonnal megölne téged.	
+1561	Jobban esik a bor, mint azelőtt.	
+1562	Többet is kívánok.	
+1563	Nem baj, jót tesz.	
+1564	Nem tudom.	
+1565	Hogy éltek az asszonnyal meg a gyerekekkel?	
+1566	Nagyon boldogan.	
+1567	Az jó.	
+1568	Remélem, nem baj, hogy tanácsokat adok a Barzini ügyben.	
+1569	Dehogyis, apa!	
+1570	Beidegződés.	
+1571	Sohasem töltöttem tétlenül a napjaimat.	
+1572	Csak a nők és a gyerekek lehetnek önfeledtek.	
+1573	Hogy van a fiad?	
+1574	Aranyos.	
+1575	Egyre jobban hasonlít rád.	
+1576	Okosabb lesz, mint én.	
+1577	Három évesen képregényt olvas.	
+1578	Képregényeket olvas.	
+1579	Meg kéne kenni egy központost, hogy vegyen fel minden hívást.	
+1580	[NO TRANSLATION]	missing translation
+1581	Arról már gondoskodtam, apa.	
+1582	[NO TRANSLATION]	missing translation
+1583	Lyukas a fejem.	
+1584	Mi van veled?	
+1585	Mi nem hagy nyugodni?	
+1586	Elintézem.	
+1587	Mondtam, elintézem, hát elintézem.	
+1588	Tudtam, hogy Santino azt fogja folytatni, amit én.	
+1589	Fredo is.	
+1590	Fredo, hát...	
+1591	De téged meg akartalak kímélni ettől.	
+1592	Én azon dolgoztam, hogy a családnak biztosítsak mindent.	
+1593	[NO TRANSLATION]	missing translation
+1594	És nem hagytam, hogy rángassanak... sose tűrtem, hogy bábja legyek egy nagymenőnek.	
+1595	Ez nem mentegetőzés.	
+1596	Azt hittem... mire rád kerülne a sor, belőled is fejes lesz.	
+1597	Corleone szenátor.	
+1598	Corleone kormányzó úr.	
+1599	Vagy valami.	
+1600	Van még erre idő.	
+1601	Hát...	
+1602	Kevés volt az idő, Michael.	
+1603	Rövid volt az idő.	
+1604	El fogjuk érni. Nem sokára.	
+1605	El fogjuk érni.	
+1606	De figyelj, aki Barzini tárgyalási ajánlatát hozza... az lesz az áruló.	
+1607	Ezt ne felejtsd el!	
+1608	Add ide, nagypapa!	
+1609	Ezt szabad meglocsolni?	
+1610	Locsold csak! Ezt is itt!	
+1611	Locsoljál!	
+1612	[NO TRANSLATION]	missing translation
+1613	[NO TRANSLATION]	missing translation
+1614	Anthony!	
+1615	Gyere ide, gyere csak!	
+1616	[NO TRANSLATION]	missing translation
+1617	Most letesszük ide az asztalra.	
+1618	Mutatok valamit.	
+1619	Gyere ide!	
+1620	Gyere ide mellém!	
+1621	Én is egy narancsot kérek!	
+1622	Nem szabad megijedni.	
+1623	Fuss, fuss. Majd megfoglak.	
+1624	[NO TRANSLATION]	missing translation
+1625	Hol vagy?	
+1626	Mike, van egy perced?	
+1627	Barzini találkozna veled.	
+1628	Azt mondja, tisztáznánk mindent.	
+1629	Beszéltél vele?	
+1630	Igen.	
+1631	A biztonságot én garantálom.	
+1632	Az én körzetemben.	
+1633	Rendben van?	
+1634	Jó.	
+1635	Tudod, hogy akarnak elintézni?	
+1636	Egy találkozón, Brooklynban.	
+1637	Tessio körzetében.	
+1638	Ahol biztonságban vagyok.	
+1639	Inkább mindig Clemenzára gyanakodtam.	
+1640	Ez okos húzás.	
+1641	Tessio mindig ravaszabb volt.	
+1642	De várok.	
+1643	Majd a keresztelő után.	
+1644	Elvállalom a gyerek keresztapaságát.	
+1645	És akkor találkozom Don Barzinivel... és Tattagliával.	
+1646	És a többi család fejével is.	
+1647	Hiszel-e Istenben, mennynek és földnek teremtőjében?	
+1648	Hiszek.	
+1649	Hiszel-e Jézus Krisztusban, az ő fiában?	
+1650	Hiszek.	
+1651	Hiszel-e a Szentlélekben, az Anyaszentegyházban?	
+1652	Hiszek.	
+1653	Michael Francis Rizzi, ellentmondasz-e a sátánnak?	
+1654	Ellentmondok.	
+1655	Mesterkedésének?	
+1656	Ellentmondok.	
+1657	Istenem!	
+1658	Minden kísértésének?	
+1659	Ellentmondok.	
+1660	Michael Rizzi, akarsz-e megkeresztelkedni?	
+1661	Akarok.	
+1662	Az Atya, a Fiú és a Szentlélek nevében.	
+1663	Menj békével!	
+1664	Kay!	
+1665	Puszit a keresztapádnak!	
+1666	Nem mehetünk Vegasba.	
+1667	[NO TRANSLATION]	missing translation
+1668	A többiek azért induljanak el nélkülünk.	
+1669	Mike, most mentünk volna először!	
+1670	[NO TRANSLATION]	missing translation
+1671	Menj vissza a házba, majd hívlak!	
+1672	Fontos.	
+1673	Legfeljebb pár nap lesz.	
+1674	Most indulunk Brooklynba.	
+1675	Remélem, Mike jó egyezséget köt.	
+1676	Egész biztos.	
+1677	Sal, Tom, a főnök külön kocsiban jön. Ti menjetek addig előre!	
+1678	Nem mehetünk két kocsival.	
+1679	Ő mondta.	
+1680	Én sem mehetek.	
+1681	Mondd meg Mike-nak, hogy csak a pénz miatt.	
+1682	Őt kedveltem.	
+1683	Meg fogja érteni.	
+1684	Elnézést!	
+1685	Tom, nem lehetne, hogy futni hagysz?	
+1686	A régiek miatt.	
+1687	Sajnos nem lehet, Sally.	
+1688	Felelned kell Santinóért, Carlo!	
+1689	Mike, félreérted.	
+1690	Te szolgáltattad ki Barziniéknak.	
+1691	Az a veszekedési komédia a húgommal.	
+1692	Azt hitted, lóvá tehetsz?	
+1693	Ártatlan vagyok,	
+1694	hidd el!	
+1695	Ne csináljátok ezt velem!	
+1696	Ülj le!	
+1697	Ne csináljátok ezt, kérlek!	
+1698	Barzini halott.	
+1699	Az öreg Tattaglia halott.	
+1700	Moe Greene is.	
+1701	Strachi is.	
+1702	Cuneo is.	
+1703	Ma rendezem a család ügyeit, így ne mondd, hogy ártatlan vagy.	
+1704	Valld be, amit tettél!	
+1705	Adj neki inni!	
+1706	Gyerünk!	
+1707	Ne félj, Carlo!	
+1708	Nem akarok özvegyet csinálni a húgomból.	
+1709	A fiad keresztapja vagyok, Carlo.	
+1710	Gyerünk, idd ki!	
+1711	Nem vehetsz részt többet a család ügyeiben.	
+1712	[NO TRANSLATION]	missing translation
+1713	Kizártunk.	
+1714	Elrepülsz azonnal Vegasba!	
+1715	Tom!	
+1716	És ott is maradsz,	
+1717	megértetted?	
+1718	Ne mondd, hogy ártatlan vagy!	
+1719	Mert ezzel hülyének nézel engem,	
+1720	és nagyon megharagítasz.	
+1721	Ki környékezett meg?	
+1722	Tattaglia vagy Barzini?	
+1723	Barzini.	
+1724	Helyes.	
+1725	Odakint vár a kocsi, ami kivisz a repülőtérre.	
+1726	Felhívom a feleséged, hogy mikorra érkezel.	
+1727	Mike!	
+1728	Tűnj a szemem elől!	
+1729	Szervusz, Carlo!	
+1730	[NO TRANSLATION]	missing translation
+1731	Eressz el, mama! Hagyj békén!	
+1732	Michael!	
+1733	Mi van?	
+1734	Hol van?	
+1735	Michael, te tetves gazember!	
+1736	Megölted a férjem.	
+1737	Csak arra vártál, hogy apa meghaljon.	
+1738	Őt hibáztattad Sonny haláláért.	
+1739	[NO TRANSLATION]	missing translation
+1740	De arra sosem gondoltál, hogy velem mi lesz?	
+1741	Mihez kezdek most?	
+1742	Connie!	
+1743	Mit gondolsz, miért nem engedte Carlót velünk elutazni?	
+1744	[NO TRANSLATION]	missing translation
+1745	És te tartottad keresztvíz alá a fiamat!	
+1746	Te hidegvérű gyilkos!	
+1747	Tudod, hogy Carlóval együtt hány embert ölt meg?	
+1748	[NO TRANSLATION]	missing translation
+1749	Ez a te férjed!	
+1750	Nem!	
+1751	Nem!	
+1752	Kísérd fel!	
+1753	Hívd ki az orvost!	
+1754	Hisztérika!	
+1755	Hisztérikus.	
+1756	Michael, ez igaz?	
+1757	Ne kérdezz az üzleti ügyeimről!	
+1758	Ez igaz?	
+1759	Ne kérdezz soha az üzleti ügyeimről!	
+1760	Elég!	
+1761	Rendben.	
+1762	Most az egyszer.	
+1763	Most az egyszer válaszolok, akármit kérdezel.	
+1764	Ez igaz?	
+1765	Igaz?	
+1766	Nem!	
+1767	Ránk férne egy ital.	
+1768	Megcsinálom.	
+1769	Don Corleone!	

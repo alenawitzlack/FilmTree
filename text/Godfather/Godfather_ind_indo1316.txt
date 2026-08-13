@@ -1,0 +1,1769 @@
+1	Aku percaya kepada Amerika.	
+2	Amerika telah membuatku kaya.	
+3	Aku membesarkan putriku dengan cara Amerika.	
+4	Aku beri dia kebebasan, tapi kuajari jangan pernah permalukan keluarga.	
+5	Dia punya pacar, bukan orang Italia.	
+6	Dia pergi menonton film dengan pria itu.	
+7	Sampai larut malam.	
+8	Aku tidak protes.	
+9	Dua bulan lalu, pria itu mengajaknya jalan-jalan dengan pria lain.	
+10	Mereka memaksa putriku minum wiski, lalu mereka mencoba melecehkannya.	
+11	Dia melawan, mempertahankan kesuciannya.	
+12	Jadi mereka memukulinya seperti binatang.	
+13	Saat aku ke rumah sakit, hidungnya patah, rahangnya retak, disangga dengan kawat.	
+14	Dia bahkan tak bisa menangis karena kesakitan.	
+15	Tapi aku menangis.	
+16	Mengapa aku menangis?	
+17	Dia adalah cahaya hidupku.	
+18	Gadis yang cantik.	
+19	Kini, dia tak akan bisa cantik lagi.	
+20	Maaf.	
+21	Aku melapor ke polisi seperti warga Amerika yang baik.	
+22	Kedua pemuda ini diadili.	
+23	Hakim menghukum mereka tiga tahun penjara, tapi menangguhkan hukuman itu.	
+24	Menangguhkan hukuman itu!	
+25	Mereka bebas hari itu juga!	
+26	Aku berdiri di ruang pengadilan seperti orang bodoh.	
+27	Kedua pria berengsek itu, mereka tersenyum kepadaku.	
+28	Aku bilang ke istriku, Untuk keadilan, kita harus temui Don Corleone.	
+29	Mengapa kau melapor ke polisi?	
+30	Mengapa tidak datang kepadaku dulu?	
+31	Apa yang kau mau dariku?	
+32	Katakanlah, tapi tolong lakukanlah permintaanku.	
+33	Apa itu?	
+34	Aku mau mereka mati.	
+35	Aku tak bisa melakukan itu.	
+36	Akan kuberikan apa pun yang kau minta.	
+37	Aku telah mengenalmu bertahun-tahun, tapi ini pertama kalinya kau minta tolong.	
+38	Aku tak ingat kapan terakhir kali kau mengundangku minum kopi.	
+39	Meskipun istriku adalah ibu baptis anak tunggalmu.	
+40	Kita terbuka saja di sini.	
+41	Kau tak pernah ingin bersahabat denganku.	
+42	Dan kau khawatir berutang budi kepadaku.	
+43	Aku tak ingin dapat masalah.	
+44	Aku mengerti.	
+45	Kau menemukan surga di Amerika.	
+46	Hidupmu berkecukupan, dapat perlindungan polisi dan ada hukum pengadilan.	
+47	Kau tak butuh teman seperti aku.	
+48	Tapi kini kau datang kepadaku dan berkata,	
+49	Don Corleone, berikan aku keadilan.	
+50	Tapi kau tak minta dengan hormat.	
+51	Kau tak tawarkan persahabatan.	
+52	Bahkan, tak mau menyebutku Godfather.	
+53	Kau datang di hari pernikahan putriku dan memintaku membunuh demi uang.	
+54	Aku meminta keadilan.	
+55	Itu bukan keadilan.	
+56	Putrimu masih hidup.	
+57	Kalau begitu, biarkan mereka menderita, seperti putriku menderita.	
+58	Berapa aku harus membayarmu?	
+59	Bonasera.	
+60	Apa yang telah kulakukan kepadamu hingga kau tak hormati aku?	
+61	Jika kau datang dengan persahabatan, si berengsek pengacau hidup putrimu akan menderita hari ini juga.	
+62	Jika orang jujur sepertimu punya musuh, mereka akan jadi musuhku juga.	
+63	Lalu mereka akan takut kepadamu.	
+64	Jadilah sahabatku?	
+65	Godfather?	
+66	Bagus.	
+67	Suatu hari, semoga tak akan terjadi, aku akan minta tolong kepadamu.	
+68	Tapi sampai hari itu tiba, terima keadilan ini sebagai hadiah pada hari pernikahan putriku.	
+69	Terima kasih, Godfather.	
+70	Sama-sama.	
+71	Berikan ini ke Clemenza.	
+72	Aku ingin orang yang tak membabi buta.	
+73	Kita bukan pembunuh, tak peduli apa yang dikatakan si pengurus pemakaman.	
+74	Di mana Michael?	
+75	Jangan khawatir, dia akan datang.	
+76	Kita tak berfoto tanpa Michael.	
+77	Ada apa?	
+78	Karena Michael.	
+79	Don Barzini.	
+80	Hei, Paulie!	
+81	Aku minta minuman anggur lagi.	
+82	Paulie!	
+83	Anggur lagi.	
+84	<Permisi./> Kau terlihat hebat di lantai dansa.	missing English
+85	Apakah kau juri dansa?	
+86	Berjalan-jalanlah dan lakukan tugasmu.	
+87	Sandra, perhatikan anak-anak.	
+88	Jangan sampai mereka lepas kendali.	
+89	Kau perhatikan dirimu sendiri, ya?	
+90	Dua puluh, tiga puluh ribu.	
+91	Dalam uang kecil, tunai.	
+92	Dalam tas sutra kecil itu.	
+93	Jika ini pernikahan orang lain,	
+94	tak beruntung!	
+95	Hei, Paulie!	
+96	Aku dapat dua gabagool, capocol, dan satu prosciutto.	
+97	Berengsek!	
+98	Ada apa?	
+99	Harus kembali kerja.	
+100	Tom.	
+101	[NO TRANSLATION]	missing translation
+102	Tak ada orang Sisilia yang dapat tolak permintaan di hari pernikahan putrinya.	
+103	Don Corleone, aku merasa tersanjung dan berterima kasih kau mengundangku.	
+104	Apa ini? Pergilah!	
+105	Ini pesta pribadi.	
+106	Ayo!	
+107	Apa ini?	
+108	Ini pernikahan saudariku.	
+109	FBI sialan tak punya rasa hormat sama sekali!	
+110	Kemari!	
+111	akhirnya, hukumannya dikurangi untuk membantu upaya perang Amerika. Selama enam bulan dia bekerja di toko kueku.	
+112	Nazorine, apa yang bisa kulakukan untukmu?	
+113	Kini perang telah usai, anak ini, Enzo, mereka ingin memulangkannya kembali ke Italia.	
+114	Godfather, aku punya seorang putri.	
+115	Dia dan Enzo...	
+116	Kau ingin Enzo tinggal di negara ini, dan putrimu menikah.	
+117	Kau paham segalanya.	
+118	Tn. Hagen.	
+119	Terima kasih.	
+120	Tunggu sampai kau lihat kue pengantin yang kubuat untuk putrimu.	
+121	Mempelai wanita, mempelai pria, dan malaikat...	
+122	Kepada siapa kuberikan pekerjaan ini?	
+123	Bukan ke orang kita.	
+124	Berikan ke Anggota Kongres Yahudi di distrik lain.	
+125	Siapa lagi dalam daftar?	
+126	Hei, Michael. Halo. Michael.	
+127	Dia tak ada dalam daftar, tapi Luca Brasi ingin menemuimu.	
+128	Ini perlu?	
+129	Dia tak mengira diundang ke pesta, jadi ingin berterima kasih.	
+130	Don Corleone, aku merasa tersanjung dan berterima kasih kau mengundangku di hari pernikahan putrimu.	
+131	Semoga anak pertama mereka adalah anak laki-laki.	
+132	Michael.	
+133	Pria di sana itu bicara sendiri.	
+134	Lihat pria menakutkan di sana itu?	
+135	Dia pria yang sangat menakutkan.	
+136	Siapa namanya?	
+137	Namanya Luca Brasi.	
+138	Dia kadang-kadang membantu ayahku.	
+139	Michael, dia datang ke sini!	
+140	<Mike! Hei. Tom./> Kau terlihat hebat!	missing English
+141	Saudaraku Tom Hagen, Nona Kay Adams.	
+142	<Apa kabar, Tom? Apa kabar? Senang bertemu./> Ayahmu mencarimu.	missing English
+143	Senang berjumpa.	
+144	Senang berjumpa denganmu.	
+145	Mengapa saudaramu punya nama yang berbeda?	
+146	Saudaraku Sonny menemukan Tom Hagen di jalan.	
+147	Dia tak punya rumah, jadi ayahku memungutnya.	
+148	Dia bersama kami sejak itu.	
+149	Dia pengacara yang bagus.	
+150	Bukan orang Sisilia.	
+151	Kurasa dia akan menjadi consigliere.	
+152	Apa itu?	
+153	Itu... seperti konselor, penasihat.	
+154	Sangat penting bagi keluarga.	
+155	Kau suka lasagna-mu?	
+156	Don Corleone.	
+157	Aku merasa tersanjung dan berterima kasih kau mengundangku ke pernikahan putrimu...	
+158	pada hari pernikahan putrimu.	
+159	Dan kuharap anak pertama mereka adalah anak laki-laki.	
+160	Aku mengikrarkan kesetiaanku yang tak akan pernah berakhir.	
+161	Untuk tas pengantin putrimu.	
+162	Terima kasih, Luca,	
+163	temanku terhormat.	
+164	Don Corleone, aku akan pergi sekarang, aku tahu kau sibuk.	
+165	Terima kasih.	
+166	Nyonya Corleone!	
+167	Tidak!	
+168	Senator Cauley minta maaf tak bisa hadir, tapi katanya kau paham.	
+169	Juga beberapa hakim.	
+170	Mereka semua mengirimkan hadiah. <Bersulang./>	missing English
+171	Ada apa di luar?	
+172	<Ada Johnny Fontane! Kemari! Ada Johnny Fontane!/> Johnny!	missing English
+173	Johnny!	
+174	Aku mencintaimu!	
+175	Dia datang jauh-jauh dari California.	
+176	Sudah kukatakan, dia akan datang.	
+177	Dia mungkin punya masalah lagi.	
+178	Dia anak baptis yang baik.	
+179	Johnny!	
+180	Nyanyikanlah sebuah lagu!	
+181	Kau tak pernah bilang mengenal Johnny Fontane!	
+182	Tentu.	
+183	Mau bertemu dengannya?	
+184	Ya,	
+185	tentu.	
+186	Ayahku membantu dalam kariernya.	
+187	Benarkah?	
+188	Bagaimana caranya?	
+189	Mari dengarkan lagu ini.	
+190	Tidak, Michael...	
+191	Ayolah, Michael.	
+192	Ceritakan kepadaku.	
+193	Saat Johnny memulai kariernya, dia terikat kontrak layanan pribadi dengan pemimpin band besar.	
+194	Saat kariernya semakin meningkat, dia ingin keluar dari ikatan itu.	
+195	Johnny adalah anak baptis ayahku.	
+196	Ayahku mendatangi pemimpin band ini.	
+197	Dia tawarkan 10.000 dolar kepadanya agar biarkan Johnny pergi, tapi pemimpin band itu bilang tidak.	
+198	Jadi esok harinya, ayahku mengunjunginya, bersama Luca Brasi.	
+199	Dalam waktu satu jam, dia menandatangani pembebasan dengan bayaran sebesar 1.000 dolar.	
+200	Bagaimana dia melakukan itu?	
+201	Dengan penawaran yang tak bisa ditolak.	
+202	Apa itu?	
+203	Luca Brasi todongkan pistol ke kepala, dan Ayah menyuruh memilih antara mati atau tanda tangan kontrak.	
+204	Itu kisah nyata.	
+205	Itu keluargaku, Kay.	
+206	Bukan aku.	
+207	Indah!	
+208	Aku akan mengurusnya.	
+209	Tom.	
+210	Aku mau kau temukan Santino.	
+211	Suruh dia datang ke kantor.	
+212	Apa kabar, Fredo?	
+213	Saudaraku Fredo, ini Kay Adams.	
+214	Hai.	
+215	Apa kabar?	
+216	Ini saudaraku Mike.	
+217	Kau bersenang-senang?	
+218	Ya.	
+219	Ini temanmu?	
+220	Aku tak tahu yang harus kulakukan.	
+221	Suaraku lemah sekali.	
+222	[NO TRANSLATION]	missing translation
+223	Jika aku punya peran di film itu, popularitasku akan kembali naik.	
+224	Tapi orang ini... kepala studio itu tak mau memberikannya kepadaku.	
+225	Siapa namanya?	
+226	Woltz.	
+227	Dia tak mau berikan itu kepadaku dan bilang tak mungkin.	
+228	Sonny?	
+229	Sonny?	
+230	Sonny?	
+231	Sonny, kau di sana?	
+232	Apa?	
+233	Ayah mau bertemu denganmu.	
+234	Sebentar. <Sonny./>	missing English
+235	Sebulan lalu, dia beli hak film untuk buku laris ini.	
+236	Tokoh utamanya, pria seperti aku.	
+237	Aku bahkan tak perlu berakting.	
+238	Godfather, aku tak tahu apa yang harus kulakukan.	
+239	Kau bisa bertindak seperti laki-laki!	
+240	Ada apa denganmu?	
+241	Ini jadinya?	
+242	Kau berubah jadi homo Hollywood, menangis seperti wanita?	
+243	Apa yang bisa kulakukan?	
+244	Apa yang bisa kulakukan?	
+245	Omong kosong apa ini?	
+246	Konyol.	
+247	Kau luangkan waktu dengan keluargamu?	
+248	Tentu.	
+249	Bagus.	
+250	Karena pria yang tak luangkan waktu bersama keluarga bukanlah pria sejati.	
+251	<Kemarilah./> Kau terlihat payah.	missing English
+252	Kau harus makan.	
+253	Istirahatlah, dalam sebulan, orang besar Hollywood ini akan berikan yang kau mau.	
+254	Sudah terlambat, syutingnya mulai seminggu lagi.	
+255	Aku akan beri dia tawaran yang tak bisa dia tolak.	
+256	Pergilah ke luar dan bersenang-senang, lupakan semua kekonyolan ini.	
+257	Serahkan semuanya kepadaku.	
+258	Baiklah.	
+259	Nah... Pukul berapa putriku pergi?	
+260	Segera, setelah mereka potong kue.	
+261	Apa kita beri menantumu sesuatu yang penting?	
+262	Tak pernah.	
+263	Beri pekerjaan, tapi jangan bicarakan bisnis keluarga dengannya.	
+264	Apa lagi?	
+265	Virgil Sollozzo menelepon.	
+266	Kita perlu kunjungi dia minggu depan.	
+267	Saat kau kembali dari California.	
+268	Kapan aku pergi ke California?	
+269	Malam ini.	
+270	Aku mau kau bicara ke orang film ini dan selesaikan urusan Johnny.	
+271	Jika tak ada yang lain, aku mau pergi ke pernikahan putriku.	
+272	Carlo, kita akan berfoto.	
+273	Tunggu sebentar.	
+274	Tidak, Michael.	
+275	Jangan aku.	
+276	Baik, begitu.	
+277	Begitu saja.	
+278	Tahan.	
+279	Perlu sedikit panas di lengkungan itu.	
+280	Mulai bicara.	
+281	Aku dikirim oleh teman Johnny Fontane.	
+282	Teman ini ingin memberikan persahabatannya ke Tn. Woltz, jika Tn. Woltz bisa membantu kami.	
+283	Woltz mendengarkan.	
+284	Berikan Johnny peran di film perang yang kau mulai minggu depan.	
+285	Dan bantuan apa yang akan diberikan temanmu kepada Tn. Woltz?	
+286	Dia bisa buat masalah yang akan kau hadapi dengan serikat pekerja lenyap.	
+287	Salah satu bintangmu baru beralih dari mariyuana ke heroin.	
+288	Kau mau mengancamku? <Tentu tidak./>	missing English
+289	Dengar, kau berengsek!	
+290	Biar kujelaskan kepadamu dan bosmu itu.	
+291	Johnny Fontane tak akan dapat peran itu!	
+292	Tak peduli berapa banyak kepala geng Italia keluar dari pelosok!	
+293	Aku keturunan Jerman dan Irlandia.	
+294	Dengar, kawan Kraut-Mick.	
+295	Aku akan menyulitkanmu!	
+296	Aku pengacara.	
+297	Belum mengancam.	
+298	Aku tahu semua pengacara besar New York.	
+299	Siapa kau?	
+300	Aku punya praktik khusus.	
+301	Aku menangani satu klien.	
+302	Aku akan menunggu teleponmu.	
+303	Omong-omong, aku mengagumi filmmu.	
+304	Periksa dia.	
+305	Ini cantik sekali.	
+306	Lihat ini.	
+307	Ini dulu menghiasi istana raja.	
+308	Bagus sekali.	
+309	Mengapa tak bilang kau kerja untuk Corleone, Tom?	
+310	Kupikir kau cuma pesuruh murahan yang Johnny temukan.	
+311	Aku hanya gunakan namanya jika perlu.	
+312	Bagaimana minumanmu?	
+313	Enak.	
+314	Akan kutunjukkan sesuatu yang cantik.	
+315	Kau menghargai kecantikan, bukan?	
+316	Ini dia.	
+317	600.000 dolar dengan empat kaki.	
+318	Kurasa czar Rusia tak pernah bayar sebanyak itu untuk seekor kuda.	
+319	Khartoum.	
+320	Khartoum.	
+321	Aku tak akan buat dia ikut balap.	
+322	Akan kujadikan dia kuda pejantan.	
+323	Terima kasih, Tony. <Sama-sama./>	missing English
+324	Ayo. Ayo kita makan.	
+325	Corleone adalah ayah baptis Johnny.	
+326	Bagi orang Italia, itu hubungan yang sangat dekat dan suci.	
+327	Aku hormati itu.	
+328	Katakan kepadanya untuk memintaku lakukan yang lain.	
+329	Aku tak bisa memberinya bantuan ini.	
+330	Dia tak pernah minta bantuan kedua jika yang pertama ditolak.	
+331	Kau tak mengerti.	
+332	Johnny Fontane tak akan pernah dapat film itu.	
+333	Peran itu cocok untuknya.	
+334	Itu akan jadikan dia bintang besar.	
+335	Aku akan menyingkirkannya dari bisnis, akan kuceritakan sebabnya.	
+336	Johnny Fontane merusak seorang bibit artis Woltz Internasional yang amat berharga.	
+337	Kami melatihnya selama lima tahun.	
+338	Kursus menyanyi, akting, menari.	
+339	Aku habiskan ratusan ribu dolar padanya untuk menjadikannya bintang besar.	
+340	Biarkan aku terus terang saja.	
+341	Akan kutunjukkan, aku tak kejam.	
+342	Bukan masalah uang dan laba saja.	
+343	Dia cantik.	
+344	Dia muda dan tak mengerti apa-apa!	
+345	Dia wanita terbaik yang pernah kutiduri, dan semua di seluruh dunia sudah kucoba.	
+346	Lalu Johnny Fontane datang dengan suara manis dan daya tarik Italia.	
+347	Lalu gadis itu kabur.	
+348	Dia tinggalkan segalanya hanya untuk membuatku terlihat konyol!	
+349	Pria di posisiku tak bisa begitu saja dibuat terlihat konyol!	
+350	Kini, kau pergi dari sini!	
+351	Jika si Italia sialan itu mau main kasar, katakan, aku bukan si pemimpin band.	
+352	Ya, aku dengar cerita itu.	
+353	Terima kasih untuk makan malam dan malam yang menyenangkan.	
+354	Mungkin mobilmu bisa mengantarku ke bandara.	
+355	Tn. Corleone adalah orang yang mau dengar berita buruk secepatnya.	
+356	Kau tak terlalu lelah, Tom?	
+357	Tidak, aku tidur di pesawat.	
+358	Aku punya catatan Sollozzo di sini.	
+359	Kini...	
+360	Sollozzo dikenal sebagai Si Turki.	
+361	Dia sepertinya sangat mahir pakai pisau, tapi hanya dalam hal bisnis dengan keluhan yang masuk akal.	
+362	Bisnisnya narkotika.	
+363	Dia punya ladang di Turki, mereka tanam ganja di sana.	
+364	Di Sisilia, dia punya pabrik untuk memprosesnya menjadi heroin.	
+365	Dia butuh uang, dia butuh perlindungan dari polisi.	
+366	Dia akan beri kita bagian keuntungan.	
+367	Aku tak tahu berapa banyak.	
+368	Keluarga Tattaglia mendukungnya di New York.	
+369	Pasti ada maksudnya.	
+370	Bagaimana dengan riwayat penjaranya?	
+371	Sekali di Italia, sekali di sini.	
+372	Dia dikenal sebagai pimpinan narkotika.	
+373	Santino, bagaimana menurutmu?	
+374	Banyak uang di bisnis heroin.	
+375	Tom?	
+376	Ya.	
+377	Ada banyak uang di bisnis narkotika daripada yang lainnya.	
+378	Jika bukan kita, yang lain akan melakukannya. Mungkin satu dari Lima Keluarga.	
+379	Dengan uang itu, mereka bisa beli lebih banyak polisi dan kekuasaan politik.	
+380	Lalu mereka akan mengejar kita.	
+381	Kini, kita punya perserikatan dan judi, bagus, tapi narkotika adalah masa depan.	
+382	Jika kita tak ambil bagian dari itu, risiko kehilangan semua dalam 10 tahun.	
+383	Jadi?	
+384	Apa jawabanmu, Ayah?	
+385	Don Corleone.	
+386	Aku perlu pria yang punya teman berkuasa.	
+387	Aku perlu sejuta dolar tunai.	
+388	Aku perlu politisi yang kau bawa-bawa di kantungmu, seperti uang receh.	
+389	Apa keuntungan untuk keluargaku?	
+390	Tiga puluh persen.	
+391	Di tahun pertama, penghasilanmu sekitar tiga, empat juta dolar.	
+392	Lalu, akan naik.	
+393	Apa keuntungan bagi keluarga Tattaglia?	
+394	Kau hebat.	
+395	Aku akan menangani mereka, yang diambil dari bagianku.	
+396	Jadi aku menerima 30% untuk pembiayaan... pengaruh politik, dan perlindungan hukum?	
+397	Itu benar.	
+398	Mengapa kau datang kepadaku?	
+399	Mengapa kau baik kepadaku?	
+400	Jika kau anggap satu juta dolar tunai hanya pembiayaan... aku salut kepadamu, Don Corleone.	
+401	Kukatakan aku akan menemuimu, karena kudengar kau orang yang serius, harus diperlakukan dengan hormat.	
+402	Tapi, aku harus menolak.	
+403	Dan aku akan memberikan alasanku.	
+404	Memang benar, aku punya banyak teman di politik.	
+405	Mereka tak akan ramah jika tahu aku terlibat di narkoba bukannya judi, yang dianggap kejahatan tak berbahaya, tapi narkoba adalah bisnis kotor.	
+406	<Don Corleone.../> Tak ada bedanya bagiku apa mata pencaharian orang.	missing English
+407	Tapi bisnismu... agak sedikit berbahaya.	
+408	Jika kau khawatir masalah keamanan, keluarga Tattaglia akan menjamin itu.	
+409	Mereka akan jamin investasi kami?	
+410	Sebentar.	
+411	Kelemahanku adalah anak-anakku, dan aku memanjakan mereka.	
+412	Mereka bicara saat mereka seharusnya mendengarkan.	
+413	Tapi...	
+414	Tn. Sollozzo, tidak adalah jawaban akhir.	
+415	Kuucapkan selamat atas bisnis barumu.	
+416	Aku tahu kau akan berhasil, dan semoga berhasil.	
+417	Sebab bisnismu tak bertentangan dengan bisnisku.	
+418	Terima kasih.	
+419	Santino.	
+420	Kemari.	
+421	Ada apa denganmu?	
+422	Otakmu jadi lembek karena bermain dengan gadis itu.	
+423	Jangan pernah katakan ke orang luar apa yang kau pikirkan lagi.	
+424	Pergilah.	
+425	Tom, apa lagi ini?	
+426	Ini dari Johnny.	
+427	Dia berperan di film baru itu.	
+428	Singkirkan.	
+429	Bawa ke sana.	
+430	Dan... suruh Luca Brasi masuk.	
+431	Aku agak khawatir tentang Sollozzo ini.	
+432	Cari tahu dia terlibat dengan apa dan siapa.	
+433	Temui keluarga Tattaglia,	
+434	dan buat mereka berpikir kau tak begitu bahagia dengan keluarga kita... dan cari tahu semampumu.	
+435	Aku punya sesuatu untuk ibumu dan Sonny, dasi untuk Freddy, dan Tom Hagen dapat pena Reynolds.	
+436	Apa yang kau inginkan untuk Natal?	
+437	Aku? Hanya dirimu.	
+438	Ayo, Fredo.	
+439	Suruh Paulie ambil mobil.	
+440	Baik, Ayah.	
+441	Aku harus ambil sendiri.	
+442	Paulie izin hari ini.	
+443	Paulie anak yang baik.	
+444	Aku tak keberatan ambil mobil.	
+445	Selamat Natal, Sayang.	
+446	Terima kasih.	
+447	Luca!	
+448	Aku Bruno Tattaglia.	
+449	Aku tahu. <Mau Scotch? Dari zaman Praperang. Aku tak minum./>	missing English
+450	Kau tahu siapa aku?	
+451	Aku tahu kau.	
+452	Kau bicara ke keluarga Tattaglia, bukan?	
+453	Kurasa kau dan aku bisa berbisnis.	
+454	Aku perlu orang kuat sepertimu.	
+455	Kudengar kau tak senang dengan keluarga Corleone.	
+456	Mau bergabung denganku?	
+457	Apa untungnya bagiku?	
+458	50.000 dolar sebagai permulaan.	
+459	Tidak buruk!	
+460	Setuju?	
+461	<Terima kasih./>	missing English
+462	Tom Hagen.	
+463	Selamat Natal.	
+464	Senang bertemu kau.	
+465	Aku mau bicara.	
+466	Aku tak punya waktu.	
+467	Sempatkan, Penasihat.	
+468	Masuk ke mobil.	
+469	Apa yang kau khawatirkan?	
+470	Jika aku mau membunuhmu, kau pasti sudah mati.	
+471	Masuk.	
+472	Tunggu, Fredo, aku akan beli buah.	
+473	Baik, Ayah.	
+474	Selamat Natal.	
+475	Aku mau beli buah. <Apa ini? Beri aku tiga. Dan yang itu. Ayah!/>	missing English
+476	Mike, kau lebih suka jika aku biarawati?	
+477	Seperti di cerita?	
+478	Tidak.	
+479	Bagaimana jika aku Ingrid Bergman?	
+480	Itu baru ide bagus.	
+481	Michael.	
+482	Aku tak akan lebih suka jika kau Ingrid Bergman.	
+483	<Michael.../> Ada apa?	missing English
+484	Mereka tak katakan dia hidup atau mati.	
+485	Sonny, ini Michael.	
+486	Dari mana saja kau?	
+487	Apa dia baik-baik saja?	
+488	Kami belum tahu.	
+489	Ceritanya simpang siur.	
+490	Dia cukup parah, Mikey.	
+491	Kau masih di sana?	
+492	Ya, aku di sini.	
+493	Dari mana saja kau?	
+494	Aku khawatir.	
+495	Apa Tom tak bilang aku telepon?	
+496	Tidak.	
+497	Begini, pulanglah, Nak.	
+498	Kau harus bersama Ibu, kau dengar? <Baik./>	missing English
+499	Astaga.	
+500	Sonny!	
+501	Tetap di sana.	
+502	Siapa itu?	
+503	Buka pintu, ini Clemenza.	
+504	<Apa?/> Ada berita lagi tentang ayahmu.	missing English
+505	Beredar kabar bahwa dia sudah meninggal.	
+506	Ada apa denganmu?	
+507	Tenanglah!	
+508	Di mana Paulie?	
+509	[NO TRANSLATION]	missing translation
+510	Dia sakit terus selama musim dingin.	
+511	Seberapa sering?	
+512	Hanya tiga, empat kali.	
+513	Freddy tak mau penjaga baru.	
+514	Jemput dia sekarang.	
+515	Aku tak peduli separah apa sakitnya.	
+516	Bawa dia ke rumah ayahku sekarang.	
+517	Kau mau seseorang dikirim kemari?	
+518	Tidak.	
+519	Laksanakan saja. <Baik./>	missing English
+520	<Dengar.../> Aku akan suruh dua orang kita ke rumah.	missing English
+521	Halo?	
+522	Santino Corleone?	
+523	Ya.	
+524	Kami menangkap Tom Hagen.	
+525	Dalam tiga jam dia akan dilepaskan dengan syarat kami.	
+526	Dengarkan yang dia katakan sebelum kau bertindak.	
+527	Semua sudah terlanjur.	
+528	Jangan marah-marah, Sonny.	
+529	Aku akan menunggu.	
+530	Bosmu sudah mati.	
+531	Aku tahu kau bukan kekuatan keluarga, jadi tak perlu ketakutan.	
+532	Aku ingin kau menolong keluarga Corleone dan menolongku.	
+533	Kami tembak dia di luar kantornya sekitar sejam setelah kami jemput kau.	
+534	Minum.	
+535	Kini terserah bagaimana caramu mendamaikan aku dan Sonny.	
+536	Sonny ingin bertransaksi denganku, bukan?	
+537	Kau tahu itu hal yang benar.	
+538	Sonny akan mengejarmu.	
+539	Itu pasti akan jadi reaksi pertamanya.	
+540	Makanya kau harus menasihatinya.	
+541	Keluarga Tattaglia mendukungku sepenuhnya.	
+542	Keluarga New York lainnya akan bergabung demi mencegah perang.	
+543	Akui saja, dengan segala hormat, Don, semoga arwahnya tenang, sudah lemah.	
+544	Sepuluh tahun lalu, apa bisa kukalahkan?	
+545	Kini dia sudah mati, Tom, tak ada yang bisa kembalikan dia.	
+546	Kau harus bicara kepada Sonny, para petinggi, Tessio, Clemenza gemuk.	
+547	Ini bisnis bagus, Tom.	
+548	Akan kucoba.	
+549	Tapi bahkan Sonny pun tak akan bisa membujuk Luca Brasi.	
+550	Ya, begini...	
+551	biar aku yang urus Luca.	
+552	Kau bicara saja dengan Sonny.	
+553	Dan dua anak lainnya.	
+554	Akan kuusahakan.	
+555	Bagus.	
+556	Kau boleh pergi sekarang.	
+557	Aku tak suka kekerasan, Tom.	
+558	Aku pebisnis.	
+559	Darah adalah pertanggungjawaban besar.	
+560	Dia masih hidup.	
+561	Mereka menembaknya lima kali, dan dia masih hidup!	
+562	Itu buruk bagiku dan bagi kalian jika kalian tak berhasil.	
+563	Ibumu masih di rumah sakit bersama ayahmu.	
+564	Sepertinya dia akan selamat.	
+565	Banyak sekali dendam.	
+566	Sollozzo, Philip Tattaglia, Bruno Tattaglia, Ramon...	
+567	Kau akan bunuh mereka semua?	
+568	Jangan ikut campur, Mickey.	
+569	Jika kau singkirkan Sollozzo, semuanya akan beres.	
+570	Bagaimana dengan Luca?	
+571	Sollozzo pikir dapat mengendalikannya.	
+572	Jika Luca bisa disuap, kita punya banyak masalah.	
+573	Ada yang menghubungi Luca?	
+574	Sudah semalaman. <Mungkin bersama wanita./>	missing English
+575	Bantu aku...	
+576	Luca tak pernah tidur dengan wanita.	
+577	Tom, kau penasihat.	
+578	Apa yang harus kita lakukan jika Ayah meninggal?	
+579	Jika kehilangan Ayah, kita kehilangan kontak politik dan setengah kekuatan.	
+580	Keluarga New York lain bisa jadi dukung Sollozzo untuk hindari perang panjang.	
+581	Ini hampir tahun 1946.	
+582	Tak ada yang mau pertumpahan darah lagi.	
+583	Jika ayahmu meninggal... kau buat kesepakatan, Sonny.	
+584	Mudah katakan itu.	
+585	Dia bukan ayahmu.	
+586	Aku juga anaknya seperti kau atau Mike.	
+587	Ada apa?	
+588	Paulie, kusuruh kau tetap di tempat.	
+589	Orang di gerbang mengirimkan paket.	
+590	<Ya?/> Tessio, coba lihat apa itu.	missing English
+591	Perlukah aku tinggal?	
+592	Ya.	
+593	Kau baik-baik saja?	
+594	Aku baik-baik saja.	
+595	Ada makanan.	
+596	Kau lapar?	
+597	Tidak.	
+598	Minum?	
+599	Brendi akan buat berkeringat.	
+600	Silakan.	
+601	Itu mungkin ide bagus.	
+602	Urus bajingan itu.	
+603	Paulie mengkhianati Ayah. <Aku tak mau lihat dia lagi./>	missing English
+604	Utamakan itu.	
+605	Mengerti.	
+606	Mickey, besok, ajak beberapa orang, pergi ke apartemen Luca, tunggu dia.	
+607	Mungkin kita jangan sertakan Mike di sini secara langsung.	
+608	Ya. Tetap di rumah menunggu telepon sudah menolong, ya?	
+609	Coba hubungi Luca lagi.	
+610	Apa ini?	
+611	Pesan Sisilia.	
+612	Artinya Luca Brasi sudah mati.	
+613	Aku pergi.	
+614	Kapan kau akan pulang?	
+615	Mungkin larut.	
+616	Jangan lupa cannoli!	
+617	Ya.	
+618	Rocco, duduk di sisi lain.	
+619	Kau menghalangi kaca spion belakang.	
+620	Sonny jadi gila.	
+621	Dia sudah mau perang saja.	
+622	Kita harus temukan tempat di West Side.	
+623	Coba 309 West 43rd Street.	
+624	Tahu tempat bagus di West Side?	
+625	Akan kupikirkan.	
+626	Pikirkan sambil menyetir.	
+627	Aku ingin sampai ke New York secepatnya.	
+628	Perhatikan anak-anak saat mundur.	
+629	Paulie, pergi ke 39th Street, Carlo Santos. Sewa 18 kamar untuk tidur dan beri tagihannya kepadaku.	
+630	Ya, baiklah.	
+631	Pastikan bersih, sebab mereka akan tinggal di sana dalam waktu lama.	
+632	Bersih dan tersapu bersih.	
+633	Itu kata yang buruk untuk digunakan.	
+634	Tersapu bersih!	
+635	Hati-hati, agar kau tak disapu bersih. <Menurutmu lucu? Hei, Paulie, kau kentut? Rocco, apa yang kau lakukan? Tidak, bukan aku. Pasti dia./>	missing English
+636	Minggir.	
+637	Aku mau kencing.	
+638	Tinggalkan pistolnya.	
+639	Bawa cannoli.	
+640	Hei, Mike!	
+641	Hei, Mikey!	
+642	Ya.	
+643	Ada telepon!	
+644	Dari siapa?	
+645	Wanita.	
+646	Halo.	
+647	Kay?	
+648	Bagaimana ayahmu?	
+649	Baik. Dia akan sembuh.	
+650	Aku mencintaimu.	
+651	Aku mencintaimu!	
+652	Michael?	
+653	Ya, aku tahu.	
+654	Katakan kalau kau mencintaiku.	
+655	Aku tak bisa bicara.	
+656	Kau tak bisa mengatakannya?	
+657	Aku akan menemuimu malam ini.	
+658	Mengapa tak katakan ke gadis baik itu kalau kau mencintainya?	
+659	Aku mencintaimu dengan segenap hatiku.	
+660	Jika tak segera lihat kau, aku akan mati!	
+661	Mari dan belajar sesuatu.	
+662	Kau mungkin harus masak untuk 20 orang suatu hari.	
+663	Kau mulai dengan sedikit minyak, lalu tumis bawang putih.	
+664	Masukkan tomat, pasta tomat, tumis dan pastikan tidak lengket.	
+665	Didihkan, masukkan sosis dan bakso.	
+666	Tambahkan sedikit anggur.	
+667	Dan sedikit gula.	
+668	Itu trikku.	
+669	Berhenti sajalah.	
+670	Aku punya hal lebih penting bagimu.	
+671	Bagaimana Paulie?	
+672	Kau tak akan pernah melihatnya lagi.	
+673	Mau ke mana?	
+674	Ke kota.	
+675	Kirim pengawal bersamanya.	
+676	Aku cuma ke rumah sakit...	
+677	Dia akan baik-baik saja.	
+678	Sollozzo tahu dia orang sipil.	
+679	Baiklah. Hati-hati.	
+680	Ya, Pak.	
+681	Tetap kirim seseorang bersamanya.	
+682	Aku harus pergi.	
+683	Bisa aku pergi bersamamu?	
+684	Tidak, Kay.	
+685	Akan ada detektif di sana, wartawan.	
+686	Aku akan menunggu di taksi.	
+687	Aku tak mau kau terlibat.	
+688	Kapan aku akan melihatmu lagi?	
+689	Kembalilah ke New Hampshire, aku akan menghubungimu di rumah orang tuamu.	
+690	Kapan bisa bertemu kau lagi, Michael?	
+691	Aku tidak tahu.	
+692	Sedang apa kau di sini?	
+693	Seharusnya kau tak berada di sini.	
+694	Aku Michael Corleone.	
+695	Ini ayahku.	
+696	<Tak ada orang./> Ke mana para pengawal?	missing English
+697	Ayahmu dikunjungi terlalu banyak orang.	
+698	Mengganggu layanan rumah sakit.	
+699	Polisi mengusir mereka sekitar 10 menit yang lalu.	
+700	Tolong hubungi Long Beach 45620.	
+701	Perawat.	
+702	Tunggu sebentar.	
+703	Tetap di sini.	
+704	Sonny, aku di rumah sakit.	
+705	Aku tiba larut malam, tak ada orang di sini. <Apa? Tak ada? Tak ada./>	missing English
+706	Tak ada anak buah Tessio, atau detektif, tak ada orang.	
+707	Ayah sendirian.	
+708	Jangan panik.	
+709	Aku tak akan panik.	
+710	Maaf, tapi kau harus pergi.	
+711	Kita akan memindahkan dia ke kamar lain.	
+712	Bisa lepaskan selangnya agar ranjang bisa dikeluarkan?	
+713	Itu tak boleh!	
+714	Kau tahu siapa ayahku?	
+715	Orang akan datang ke sini untuk membunuhnya.	
+716	Kau mengerti?	
+717	Tolonglah aku.	
+718	Siapa kau?	
+719	Aku Enzo, tukang roti.	
+720	Ingat aku?	
+721	Enzo.	
+722	Lebih baik kau pergi, akan ada masalah.	
+723	Jika ada masalah, aku akan tetap di sini menolongmu.	
+724	Untuk ayahmu.	
+725	Baik, dengar.	
+726	Tunggu aku di luar, di depan rumah sakit, ya?	
+727	Aku akan segera keluar. <Baiklah./>	missing English
+728	Berbaringlah di sini, Yah.	
+729	Aku akan menjagamu sekarang.	
+730	Aku bersamamu sekarang.	
+731	Aku bersamamu.	
+732	Singkirkan ini.	
+733	Kemarilah.	
+734	Taruh tanganmu di kantung, seakan punya pistol.	
+735	Kau akan baik-baik saja. Semua akan beres.	
+736	Bagus. Jangan bergerak.	
+737	Kukira semua orang Italia sudah dikurung! <Sedang apa di sini?/>	missing English
+738	Mengapa tak ada yang jaga ayahku?	
+739	Kau bajingan kecil!	
+740	Jangan ajari aku cara bekerja!	
+741	Aku yang mengusir mereka.	
+742	Menyingkirlah dari rumah sakit ini!	
+743	Tidak sampai ruangan ayahku dijaga.	
+744	Phil, tahan dia!	
+745	Dia tak berbuat salah, Kapten.	
+746	Dia pahlawan perang.	
+747	Dia tak pernah...	
+748	Aku bilang tahan dia!	
+749	Berapa yang dibayar si Turki untuk menjebak ayahku, Kapten?	
+750	Pegang dia.	
+751	Berdirikan dia.	
+752	Berdirikan yang tegak.	
+753	Aku pengacara keluarga Corleone.	
+754	Mereka detektif pribadi untuk melindungi Vito Corleone.	
+755	Mereka punya izin bawa senjata.	
+756	Jika kau ikut campur, kau harus menghadap hakim dan beri alasan.	
+757	Baik, biarkan dia pergi. Ayo!	
+758	Mengapa banyak orang baru?	
+759	Kita akan perlu mereka sekarang.	
+760	Setelah masalah rumah sakit, Sonny mengamuk.	
+761	Kami tembak Bruno Tattaglia tadi pagi.	
+762	Ya ampun.	
+763	Terlihat seperti benteng di sekitar sini.	
+764	Tom-anuch!	
+765	100 serdadu di jalan 24 jam sehari.	
+766	Si Turki muncul dari persembunyiannya, dia mati. <Percayalah./>	missing English
+767	Mike, kemari, biar aku melihatmu.	
+768	Kau tampak tampan.	
+769	Rupawan.	
+770	<Dengar ini./> Si Turki ingin bicara!	missing English
+771	Bayangkan beraninya si berengsek itu.	
+772	Dia ingin ada pertemuan hari ini.	
+773	Apa katanya?	
+774	Apa katanya? <Bla, bla, bla./>	missing English
+775	Dia ingin kita kirim Michael untuk dengar tawaran.	
+776	Dia jamin bahwa kesepakatannya sangat bagus.	
+777	Dan Bruno Tattaglia?	
+778	Itu bagian dari kesepakatan.	
+779	Dia balasan perbuatan mereka ke Ayah.	
+780	Kita harus dengar usulan mereka.	
+781	Tidak lagi!	
+782	Tidak kali ini, Penasihat.	
+783	Tak perlu ada lagi pertemuan, diskusi, atau trik Sollozzo.	
+784	<Sampaikan./> Aku inginkan Sollozzo, atau kita berperang...	missing English
+785	Keluarga-keluarga lain...	
+786	Mereka berikan Sollozzo kepadaku!	
+787	Ini masalah bisnis, bukan pribadi!	
+788	Mereka tembak ayahku, itu bisnis?	
+789	Itu juga masalah bisnis, bukan pribadi.	
+790	Maka bisnis akan menderita.	
+791	Bantulah aku.	
+792	Jangan beri saran berdamai lagi.	
+793	Tolong saja aku agar menang.	
+794	Aku tahu soal Kapten McCluskey, yang meninju rahang Mike. <Dia kenapa?/>	missing English
+795	Dia jelas dibayar mahal oleh Sollozzo.	
+796	McCluskey setuju jadi pengawal si Turki.	
+797	Kau harus pahami, Sonny, saat Sollozzo dijaga seperti ini, dia kebal.	
+798	Tak ada yang pernah menembak seorang kapten polisi New York.	
+799	Akan jadi bencana. Lima Keluarga akan mengejarmu.	
+800	Keluarga Corleone akan dikucilkan!	
+801	Bahkan perlindungan politik ayahmu akan lari menjauh.	
+802	Bantulah aku.	
+803	Pertimbangkanlah ini.	
+804	Baik, kita akan menunggu.	
+805	Kita tak bisa menunggu.	
+806	Kita tak bisa menunggu.	
+807	Apa pun ucapan Sollozzo, dia akan membunuh Ayah. Titik.	
+808	Itu kunci baginya.	
+809	Kita harus dapatkan Sollozzo.	
+810	Mike benar.	
+811	Aku ingin bertanya, Profesor...	
+812	Bagaimana dengan McCluskey?	
+813	Kita harus lakukan apa dengan polisi ini?	
+814	Mereka inginkan pertemuan denganku, benar?	
+815	Akan ada aku, McCluskey, dan Sollozzo.	
+816	Ayo atur pertemuan itu.	
+817	Suruh para informan kita mencari tahu di mana akan diadakan.	
+818	Kita desak di tempat publik.	
+819	Bar, restoran.	
+820	Tempat yang ada orang, agar aku merasa aman.	
+821	Mereka akan geledah aku saat bertemu mereka, benar?	
+822	Jadi aku tak bisa bawa senjata.	
+823	Tapi jika Clemenza bisa cari jalan menaruh senjata di sana tanpa diketahui... aku akan membunuh mereka berdua.	
+824	<Hei. Kau mau apa?/> Mahasiswa yang baik.	missing English
+825	Tidak mau ikut campur dengan bisnis keluarga?	
+826	Kini kau mau menembak kapten polisi karena dia menamparmu?	
+827	Ini tak seperti di AD, kau tembak dari jauh.	
+828	Harus tembak jarak dekat, dor! Otak mereka berceceran di bajumu. <Kemarilah. Sonny.../>	missing English
+829	Kau anggap ini pribadi.	
+830	Tom, ini masalah bisnis dan dia yang menjadikannya masalah pribadi.	
+831	Apa ada aturan tak boleh bunuh polisi?	
+832	Ayolah, Mikey.	
+833	Aku bicara soal polisi yang terlibat peredaran narkoba. Polisi tak jujur.	
+834	Polisi korup yang terlibat keributan dan terima akibatnya.	
+835	Itu cerita yang hebat.	
+836	Kita punya wartawan yang bisa dibayar, bukan?	
+837	Mereka mungkin suka cerita seperti itu.	
+838	Mungkin.	
+839	Ini bukan masalah pribadi, Sonny.	
+840	Ini murni bisnis.	
+841	Ini tak terdaftar.	
+842	Tak mungkin dilacak, jadi jangan khawatir tentang sidik jari.	
+843	Aku taruh selotip khusus di pemicu dan ujungnya.	
+844	Cobalah.	
+845	Apa pemicunya terlalu kencang?	
+846	Telingaku!	
+847	Kubuat berisik agar menakuti penonton menjengkelkan yang tak tahu apa-apa.	
+848	Setelah tembak keduanya,	
+849	kau lakukan apa?	
+850	Duduk, selesaikan makan malamku.	
+851	Ayolah, jangan main-main.	
+852	Biarkan tanganmu jatuh di sisimu dan pistol terlepas.	
+853	Semua orang pikir kau masih pegang.	
+854	Mereka akan memandang wajahmu, jadi jalan keluar dengan cepat, tapi jangan lari.	
+855	Jangan tatap orang lain, tapi jangan membuang muka.	
+856	Mereka akan sangat ketakutan, jadi jangan khawatir tentang apa pun.	
+857	Kau akan baik-baik saja.	
+858	Kau berlibur, tak ada yang tahu di mana, kami akan bereskan sisanya.	
+859	Seberapa buruk nantinya?	
+860	Buruk sekali.	
+861	Keluarga-keluarga lain mungkin akan berbaris menentang kita.	
+862	Tak apa. Hal begini terjadi setiap lima, sepuluh tahun.	
+863	Menyingkirkan dendam.	
+864	Sudah sepuluh tahun sejak yang terakhir.	
+865	Kau harus hentikan di awal.	
+866	Seperti Hitler seharusnya dihentikan di Munich. Jangan dibiarkan lolos.	
+867	Mereka cari masalah sendiri.	
+868	Kau tahu, Mike, kami semua bangga kepadamu.	
+869	Mau jadi pahlawan.	
+870	Ayahmu juga.	
+871	Tak ada.	
+872	Tak ada petunjuk.	
+873	Sama sekali tak ada petunjuk.	
+874	Orang-orang Sollozzo pun tak tahu di mana akan diadakan.	
+875	Berapa lama sisa waktu kita?	
+876	Mereka akan menjemputmu di luar Jack Dempsey dalam satu setengah jam.	
+877	Kita bisa mengikuti mereka.	
+878	Sollozzo akan mencegah hal itu.	
+879	Bagaimana dengan negosiatornya?	
+880	Sedang main pinochle dengan orangku.	
+881	Dia gembira.	
+882	Karena dibiarkan menang.	
+883	Terlalu berisiko.	
+884	Sebaiknya dibatalkan.	
+885	Negosiator main kartu sampai Mike kembali dengan selamat.	
+886	Dia bisa ledakkan siapa saja di mobil.	
+887	Bahaya, mereka akan mengira itu.	
+888	Sollozzo mungkin malah tak ada di mobil, Sonny!	
+889	Biar kuangkat. <Ya. Ya. Terima kasih./>	missing English
+890	Restoran Louis di Bronx.	
+891	Itu bisa dipercaya?	
+892	Itu orangku di polsek McCluskey.	
+893	Kapten polisi harus siap 24 jam sehari.	
+894	Dia di sana antara pukul 8 dan 10.	
+895	Ada yang tahu daerah ini?	
+896	Tentu, aku tahu.	
+897	Itu sempurna bagi kita.	
+898	Restoran keluarga kecil, makanan enak.	
+899	Semua orang tak peduli.	
+900	Sempurna.	
+901	Mereka punya toilet kuno.	
+902	Yang pakai kotak dan rantai.	
+903	Kita mungkin bisa tempelkan pistol di belakang itu.	
+904	Baiklah.	
+905	Mike, kau pergi ke restoran, makan, mengobrol sebentar, santai.	
+906	Buat mereka santai.	
+907	Lalu kau pergi ke kamar kecil.	
+908	Lebih baik, kau meminta izin untuk itu.	
+909	Lalu kau kembali sambil menembak.	
+910	Dua tembakan di kepala masing-masing.	
+911	<Dengar./> Aku ingin orang yang ahli menempelkan pistol itu.	missing English
+912	Aku tak mau dia keluar cuma bawa penisnya saja.	
+913	Pistol itu akan ada di sana.	
+914	Kau antar, dan jemput sesudahnya.	
+915	Ayo bergerak. <Terima kasih, Tom./>	missing English
+916	Apa dia menyuruhmu langsung menjatuhkan pistol itu?	
+917	Ya, jutaan kali.	
+918	Jangan lupa.	
+919	Dua tembakan langsung di kepala begitu kau keluar. <Ayo pergi./>	missing English
+920	Berapa lama pikirmu sebelum aku bisa pulang?	
+921	Setidaknya setahun.	
+922	Aku akan atasi masalah dengan Ibu, bahwa kau tak akan pamit kepadanya dan...	
+923	Aku akan beri pesan ke pacarmu itu bila waktunya tepat.	
+924	Jaga dirimu.	
+925	Jaga dirimu, Mike. <Tom./>	missing English
+926	Aku senang kau datang.	
+927	Kuharap kita dapat luruskan segalanya.	
+928	Itu bukan cara yang kuinginkan.	
+929	Seharusnya itu tak pernah terjadi.	
+930	Aku ingin meluruskan segalanya.	
+931	Aku tak mau ayahku diganggu lagi.	
+932	Aku bersumpah demi anak-anakku, bahwa dia tak akan diganggu lagi, Mike.	
+933	Tapi kau harus punya pikiran terbuka saat kita bicara.	
+934	Kuharap kau tak mudah marah seperti Sonny.	
+935	Tak bisa bicara bisnis dengannya.	
+936	Dia anak yang baik.	
+937	Maaf tentang malam itu, Mike.	
+938	Aku harus menggeledahmu, berbaliklah.	
+939	Berlutut, menghadap aku.	
+940	Kurasa aku sudah terlalu tua untuk pekerjaanku.	
+941	Terlalu menggerutu.	
+942	Tak bisa tahan hal yang mengganggu.	
+943	Kau tahu bagaimana itu.	
+944	Dia bersih.	
+945	Kita akan ke Jersey?	
+946	Mungkin.	
+947	Kerja bagus, Lou.	
+948	Bagaimana makanan di restoran ini?	
+949	Enak. Coba daging anak sapi.	
+950	Terbaik di kota.	
+951	Aku mau itu.	
+952	Aku akan bicara bahasa Italia ke Mikey.	
+953	Silakan.	
+954	<Maafkan aku. Lupakan saja. Yang terjadi dengan ayahmu adalah masalah bisnis. Aku sangat menghormati ayahmu, tapi ayahmu, cara pikirnya kuno. Kau harus mengerti aku terpaksa melakukan itu. Aku paham hal-hal itu. Bagaimana mengatakan.../> Apa yang kuinginkan...	missing English
+955	Yang paling penting bagiku... adalah mendapatkan jaminan.	
+956	Tak ada lagi usaha membunuh ayahku.	
+957	Jaminan apa yang bisa kuberikan kepadamu?	
+958	Aku yang diburu!	
+959	Aku kehilangan peluang.	
+960	Pikiranmu terlalu jauh tentangku, Nak.	
+961	Aku tak sepintar itu.	
+962	Yang kuinginkan cuma gencatan senjata.	
+963	Aku harus ke kamar kecil.	
+964	Boleh?	
+965	Kalau kau harus pergi, silakan.	
+966	Sudah kugeledah,	
+967	dia bersih.	
+968	Jangan lama-lama.	
+969	Aku sudah geledah ribuan anak muda.	
+970	<Semua baik-baik saja? Ya. Hei, ayo jalan. Ayo jalan. Ayo, masuk ke mobil./> Baik, giliranmu.	missing English
+971	<Bagus sekali!/> Aku mencintaimu, Kakek.	missing English
+972	Maaf Ayah.	
+973	Dia belum mengenalmu. <Baiklah./>	missing English
+974	Hei, bocah besar.	
+975	Berikan ke Kakek.	
+976	Baik.	
+977	Semoga kau cepat sembuh, Kakek, sampai jumpa.	
+978	Cucumu Frank.	
+979	Pergilah dengan ibumu.	
+980	Bawa mereka turun. <Ayo kita turun./>	missing English
+981	Ayo, Carlo, kau juga.	
+982	Ayo.	
+983	<Kau mau semua cacciatore ayamnya, Sayang? Hei, cukup rotinya. Aku suka roti! Sudah makan berapa?/> Ada apa denganmu, Carlo?	missing English
+984	Diamlah dan siapkan meja.	
+985	Sejak pembunuhan McCluskey, polisi telah memorakporandakan operasi kita.	
+986	Juga keluarga lain.	
+987	Ada banyak sekali dendam.	
+988	Mereka hantam kita, jadi kita hantam mereka kembali.	
+989	Melalui kontak surat kabar kita, kita bisa terbitkan tulisan tentang kaitan McCluskey dan Sollozzo dalam bisnis narkoba.	
+990	Jadi keadaan mulai agak mereda.	
+991	Dan aku kirim Fredo ke Las Vegas, di bawah perlindungan Don Francesco dari LA.	
+992	Aku ingin dia istirahat.	
+993	Aku akan belajar bisnis kasino.	
+994	Di mana Michael? Di mana Michael?	
+995	Michael yang membunuh Sollozzo.	
+996	Tapi dia aman.	
+997	Kami mulai berusaha membawa dia kembali.	
+998	Cari tahu tempat Tattaglia bersembunyi.	
+999	Aku menginginkannya sekarang.	
+1000	<Hei, Sonny. Apa?/> Keadaan mulai agak mereda.	missing English
+1001	Jika kau kejar Tattaglia, semua bisa kacau.	
+1002	<Biar mereda dulu./> Ayah bisa negosiasi.	missing English
+1003	Dia harus sembuh dulu.	
+1004	Aku yang putuskan.	
+1005	Perangmu itu mahal.	
+1006	Kita tak bisa berbisnis.	
+1007	Mereka juga tak bisa.	
+1008	Jangan khawatir.	
+1009	Kita tak bisa terima kebuntuan.	
+1010	Tak ada yang buntu.	
+1011	Kubunuh bajingan!	
+1012	Kau dapat reputasi hebat!	
+1013	Lakukan yang kusuruh!	
+1014	Jika punya penasihat perang Sisilia, tak akan begini!	
+1015	Ayah punya Genco.	
+1016	Lihat yang kumiliki.	
+1017	Maaf.	
+1018	Ucapanku tak serius.	
+1019	Ibu buat makan malam.	
+1020	Ini hari Minggu. <Tak apa./>	missing English
+1021	Para Negro bersenang-senang dengan bank kebijakan kita di Harlem.	
+1022	Menyetir mobil Cadillac baru, membayar 50% pada taruhan.	
+1023	Itu karena mereka mulai dapatkan banyak uang. Ya.	
+1024	Ayah tak pernah membicarakan bisnis di meja makan.	
+1025	Tutup mulut, Connie...	
+1026	Jangan pernah suruh dia tutup mulut.	
+1027	<Santino./> Jangan ikut campur.	missing English
+1028	Sonny, Tom, aku mau bicara denganmu habis makan.	
+1029	Aku bisa lakukan lebih untuk...	
+1030	Jangan bisnis di meja makan.	
+1031	Aku mencium tanganmu, Don Tommasino.	
+1032	<Michael./> Mengapa kau begitu jauh dari rumah?	missing English
+1033	Aku bertanggung jawab atas hidupmu kepada ayahmu.	
+1034	Para pengawal ada di sini.	
+1035	Tetap berbahaya.	
+1036	Kami dengar dari Santino di New York.	
+1037	Musuh-musuhmu tahu kau ada di sini.	
+1038	Apa Santino katakan kapan aku bisa kembali?	
+1039	Belum.	
+1040	Itu belum bisa dilakukan. <Terima kasih./>	missing English
+1041	Kau mau ke mana sekarang?	
+1042	Ke Corleone.	
+1043	Pakai mobilku.	
+1044	Aku mau jalan saja.	
+1045	Hati-hati.	
+1046	<Michael. Corleone./> Ke mana para prianya?	missing English
+1047	Mereka semua mati karena vendeta.	
+1048	Ada nama-nama orang yang sudah mati.	
+1049	Bawa aku ke Amerika, G.I.!	
+1050	Bawa aku ke Amerika, G.I.!	
+1051	Clark Gable!	
+1052	Amerika!	
+1053	Bawa aku ke Amerika, G.I.!	
+1054	Clark Gable, Rita Hayworth!	
+1055	Astaga, cantik sekali.	
+1056	Kurasa kau tersambar petir.	
+1057	<Michael./> Di Sisilia, wanita lebih berbahaya daripada tembakan senapan.	missing English
+1058	Perburuanmu bagus?	
+1059	Kau kenal gadis-gadis di sekitar sini?	
+1060	Ada beberapa yang sangat cantik.	
+1061	Salah satunya menyambar teman kami bagai petir.	
+1062	Setan pun akan tergoda olehnya.	
+1063	Bagus sekali perkataan itu.	
+1064	Benar, Calo?	
+1065	<Bagus./> Rambutnya, mulutnya!	missing English
+1066	Gadis-gadis di sekitar sini cantik... tapi saleh.	
+1067	Yang ini pakai gaun ungu.	
+1068	Pita ungu di rambutnya.	
+1069	Lebih mirip gadis Yunani daripada Italia.	
+1070	Kau kenal dia?	
+1071	Tidak. Tak ada gadis seperti itu di kota ini.	
+1072	Astaga, aku paham!	
+1073	Ada apa?	
+1074	Ayo pergi.	
+1075	Itu putrinya.	
+1076	Suruh dia kemari.	
+1077	<Kau tak mengerti, itu putrinya./> Panggil dia.	missing English
+1078	Fabrizio, kau terjemahkan. <Baik, Tuan./>	missing English
+1079	Aku minta maaf jika menyinggungmu.	
+1080	Aku orang asing di negara ini.	
+1081	Aku tak bermaksud menghinamu atau putrimu.	
+1082	Aku orang Amerika, sedang sembunyi di Sisilia.	
+1083	Namaku Michael Corleone.	
+1084	Ada banyak orang akan bayar banyak uang untuk informasi itu.	
+1085	Tapi putrimu akan kehilangan ayah... bukannya mendapatkan suami.	
+1086	Aku ingin bertemu putrimu.	
+1087	Dengan izinmu, dan di bawah pengawasan keluargamu.	
+1088	Dengan segala hormat.	
+1089	Datanglah ke rumahku Minggu pagi.	
+1090	Namaku Vitelli.	
+1091	<Terima kasih./> Siapa namanya? <Apollonia. Bagus. Ini putriku, Apollonia. Ini Michael Corleone. Terima kasih. Sama-sama./>	missing English
+1092	Kau akan senang sampai pusing.	
+1093	Simpan untuk di perpustakaan.	
+1094	Ayo, kita harus menjemput saudariku.	
+1095	Ada masalah apa?	
+1096	Ada masalah apa?	
+1097	Itu salahku!	
+1098	Di mana dia?	
+1099	Sonny, kumohon, itu salahku.	
+1100	Aku pukul dia.	
+1101	Aku memulai pertengkaran dengannya.	
+1102	Aku pukul dia, jadi dia pukul aku...	
+1103	Baik, aku akan panggil dokter untuk memeriksamu.	
+1104	Sonny, tolong jangan lakukan apa-apa.	
+1105	Baiklah. Ada apa denganmu?	
+1106	Memang aku mau apa?	
+1107	Membuat bayi itu jadi anak yatim sebelum dilahirkan? Ya?	
+1108	Si pemalas ini masih bertaruh untuk Yankee?	
+1109	Suruh mereka jangan terima lagi, ya?	
+1110	Kita kehilangan cukup banyak uang minggu lalu.	
+1111	Kemarilah!	
+1112	Jika kau pukul saudariku lagi, aku akan membunuhmu.	
+1113	[NO TRANSLATION]	missing translation
+1114	Kami tak tahu kau akan datang, Kay.	
+1115	Kau seharusnya menelepon dulu.	
+1116	Ya, sudah.	
+1117	Sudah menulis dan menelepon.	
+1118	Aku ingin cari Michael.	
+1119	Tak ada yang tahu di mana dia.	
+1120	Kami cuma tahu kalau dia baik-baik saja.	
+1121	Apa itu?	
+1122	Kecelakaan, tapi tak ada yang terluka.	
+1123	Tom, maukah kau berikan surat ini ke Michael?	
+1124	Tolong?	
+1125	Jika aku terima itu, pengadilan bisa buktikan aku tahu keberadaannya.	
+1126	<Bersabarlah./> Dia akan menghubungimu.	missing English
+1127	Aku biarkan taksiku pergi, boleh aku masuk dan pesan taksi lagi?	
+1128	Ayolah.	
+1129	Maaf.	
+1130	Halo?	
+1131	Carlo ada?	
+1132	Siapa ini?	
+1133	Teman Carlo.	
+1134	Katakan kepadanya aku tak bisa malam ini, sampai nanti.	
+1135	Sialan!	
+1136	Makan malam sudah siap.	
+1137	Aku tak lapar.	
+1138	Makanannya jadi dingin.	
+1139	Aku akan makan di luar nanti.	
+1140	Kau baru suruh aku buat makan malam!	
+1141	Persetan kau!	
+1142	Kau yang persetan!	
+1143	<Apa lagi sekarang?/> Anak Italia manja ini.	missing English
+1144	Bagus, pecahkan semuanya, anak Italia manja.	
+1145	Pecahkan semuanya! Bagus, pecahkan semua.	
+1146	Mengapa kau tak bawa pelacurmu ke rumah untuk makan malam?	
+1147	Mungkin akan kulakukan! <Kenapa tidak? Ya, silakan./>	missing English
+1148	Sekarang bersihkan itu!	
+1149	Tidak mau!	
+1150	Bersihkan, dasar anak manja!	
+1151	Bersihkan itu!	
+1152	Bersihkan itu!	
+1153	Bersihkan itu!	
+1154	Kubilang, bersihkan itu!	
+1155	Bersihkan itu! Tidak!	
+1156	Bersihkan itu!	
+1157	Bersihkan, Berengsek!	
+1158	Bersihkan itu!	
+1159	Bersihkan itu!	
+1160	Ya, bunuh aku.	
+1161	Jadilah pembunuh, seperti ayahmu!	
+1162	Keluarga Corleone pembunuh semua!	
+1163	Aku benci kau! Kubunuh kau!	
+1164	Ayo, bunuh aku!	
+1165	Keluar dari sini!	
+1166	Aku benci kau!	
+1167	Sekarang kubunuh kau.	
+1168	Dasar anak Italia berengsek.	
+1169	Keluar dari sini!	
+1170	Connie, ada apa?	
+1171	Aku tak bisa mendengarmu. Ada apa?	
+1172	Connie, bicara lebih keras.	
+1173	Bayinya menangis.	
+1174	Santino, aku tak mengerti.	
+1175	Aku tak tahu.	
+1176	Ya, Connie.	
+1177	Kau tunggu di sana.	
+1178	Tidak, kau tunggu saja di sana.	
+1179	Bajingan!	
+1180	Bajingan!	
+1181	Ada masalah apa? Sonny?	
+1182	Buka gerbang itu!	
+1183	Menyingkirlah.	
+1184	Sonny!	
+1185	Sonny, ayolah.	
+1186	Pergilah!	
+1187	Kejar dia, ayo!	
+1188	Berengsek.	
+1189	Ayo!	
+1190	Beri aku sedikit.	
+1191	Istriku menangis di atas.	
+1192	Aku mendengar mobil-mobil berdatangan ke rumah.	
+1193	Penasihatku... katakan ke Don yang semua orang sepertinya tahu.	
+1194	Aku tak beri tahu Ibu apa-apa.	
+1195	Aku baru akan naik, membangunkanmu dan beri tahu.	
+1196	Tapi kau perlu minum dulu.	
+1197	Ya.	
+1198	Sekarang kau sudah minum.	
+1199	Mereka menembak Sonny di jalan.	
+1200	Dia tewas.	
+1201	Aku tak mau ada penyelidikan.	
+1202	Aku tak mau ada aksi balas dendam.	
+1203	Aku mau kau menyiapkan pertemuan dengan pimpinan Lima Keluarga.	
+1204	Perang ini berhenti sekarang.	
+1205	Hubungi Bonasera.	
+1206	Aku perlu dia sekarang.	
+1207	Ini Tom Hagen.	
+1208	Aku menelepon atas permintaan Vito Corleone.	
+1209	Kau berutang budi kepada Don-mu.	
+1210	Dia yakin kau akan membalas budinya.	
+1211	Dia akan ada di ruang rumah dukamu dalam satu jam.	
+1212	Sambutlah dia di sana.	
+1213	Kawanku, kau siap untuk melakukan ini?	
+1214	Ya.	
+1215	Apa yang kau ingin aku lakukan?	
+1216	Aku mau kau menggunakan seluruh kemampuan dan keahlianmu.	
+1217	Aku tak mau ibunya melihat dia seperti ini.	
+1218	Lihat cara mereka membantai putraku.	
+1219	Lebih aman mengajarimu bahasa Inggris!	
+1220	Aku bisa bahasa Inggris...	
+1221	Monday, Tuesday, Thursday, Wednesday, Friday, Sunday, Saturday.	
+1222	Salam, Don Tommasino.	
+1223	Bagaimana keadaan di Palermo?	
+1224	Michael mengajariku menyetir...	
+1225	Lihat, akan kutunjukkan.	
+1226	Bagaimana kabar di Palermo?	
+1227	Anak muda tak menghormati apa pun lagi.	
+1228	Waktu sudah berubah menjadi lebih buruk.	
+1229	Tempat ini menjadi terlalu berbahaya bagimu.	
+1230	Aku mau kau pindah ke vila dekat Siracusa, sekarang juga.	
+1231	Ada apa?	
+1232	Kabar buruk dari Amerika.	
+1233	Saudaramu, Santino, mereka membunuhnya.	
+1234	Ayolah,	
+1235	kau sudah janji.	
+1236	Fabrizio! <Ya?/>	missing English
+1237	Ambil mobil.	
+1238	Kau menyetir sendiri, Bos? <Ya./>	missing English
+1239	Istrimu ikut denganmu?	
+1240	Tidak, antar dia ke rumah ayahnya sampai semuanya aman.	
+1241	Baik, apa pun perintahmu.	
+1242	Calo, di mana Apollonia?	
+1243	Dia mau mengejutkanmu.	
+1244	Dia mau menyetir.	
+1245	Dia akan jadi istri Amerika yang baik.	
+1246	Tunggu, aku akan ambil kopernya.	
+1247	Fabrizio!	
+1248	Kau mau ke mana?	
+1249	Tunggu di sana!	
+1250	Aku akan menghampirimu.	
+1251	Jangan, Apollonia!	
+1252	Don Barzini, aku berterima kasih sudah bantu aku atur pertemuan ini, juga para pemimpin Lima Keluarga dari New York dan New Jersey.	
+1253	Carmine Cuneo dari Bronx, dan dari Brooklyn... Philip Tattaglia.	
+1254	Dan dari Staten Island... Victor Strachi ada bersama kita.	
+1255	Juga para sejawat yang datang jauh-jauh dari California dan Kansas City, dan semua wilayah lain di negara ini.	
+1256	Terima kasih.	
+1257	Bagaimana semua bisa sampai sejauh ini?	
+1258	Aku tak tahu.	
+1259	Sungguh disayangkan, sungguh tak perlu.	
+1260	Tattaglia kehilangan seorang putra, dan aku juga.	
+1261	Kami berhenti.	
+1262	Dan jika Tattaglia setuju, aku bersedia membuat semua kembali seperti sebelumnya.	
+1263	Kami berterima kasih kepada Don Corleone untuk pertemuan ini.	
+1264	Kami tahu dia selalu pegang janji.	
+1265	Pria sederhana yang berakal sehat.	
+1266	Ya, Don Barzini.	
+1267	Dia terlalu rendah hati.	
+1268	Dia mengantungi seluruh hakim dan politisi.	
+1269	Dia menolak untuk berbagi mereka.	
+1270	Kapan aku pernah menolak permintaan?	
+1271	Kalian semua kenal aku.	
+1272	Kapan aku pernah menolak, kecuali satu kali?	
+1273	Dan mengapa?	
+1274	Karena aku percaya bisnis narkoba akan menghancurkan kita di masa depan.	
+1275	Bisnis itu tak seperti judi, miras, atau bahkan wanita, sesuatu yang kebanyakan orang inginkan, tapi dilarang oleh Gereja.	
+1276	Bahkan polisi yang membantu kita di masa lalu dengan judi dan lain-lain akan menolak membantu kita bila terkait dengan narkotika.	
+1277	Aku percaya hal itu dulu dan aku juga percaya hal itu sekarang.	
+1278	Zaman telah berubah.	
+1279	Tak seperti masa lampau, saat kita bisa melakukan apa saja yang kita inginkan.	
+1280	Penolakan bukan tindakan seorang teman.	
+1281	Jika Don Corleone memegang seluruh hakim dan politisi di New York, maka dia harus berbagi atau biarkan orang lain gunakan mereka.	
+1282	Biarkan kami gunakan mereka.	
+1283	Dia pasti bisa kirimkan tagihan untuk layanan semacam itu.	
+1284	Bagaimanapun juga, kita bukan komunis.	
+1285	Aku juga tak suka dengan narkoba.	
+1286	Bertahun-tahun, aku bayar tambahan, agar orang-orangku tak berbisnis itu.	
+1287	Orang bilang ke mereka, Aku punya bubuk.	
+1288	Jika kau lakukan investasi 3.000 atau 4.000 dolar, kita bisa hasilkan 50.000 dolar dari distribusi.	
+1289	Mereka tak bisa tolak.	
+1290	Aku mau itu dikendalikan jadi bisnis, agar terhormat.	
+1291	Aku tak mau barang itu ada dekat sekolah, atau dijual ke anak-anak.	
+1292	Itu perbuatan memalukan.	
+1293	Di kotaku, kami menjualnya kepada orang kulit hitam.	
+1294	Mereka binatang, biarkan mereka kehilangan jiwanya.	
+1295	Kuharap kita bisa kemari dan memikirkannya bersama.	
+1296	Aku mau lakukan apa pun yang perlu untuk temukan solusi damai.	
+1297	Kita setuju.	
+1298	Operasi narkoba akan diizinkan, tapi dikendalikan.	
+1299	Don Corleone akan beri perlindungan di timur, dan akan ada perdamaian.	
+1300	Aku harus dapat jaminan pasti dari Corleone.	
+1301	Seiring waktu, saat posisinya makin kuat, akankah dia melakukan vendeta pribadi?	
+1302	Kita semua orang yang berakal sehat.	
+1303	Tak perlu jaminan seolah kita pengacara.	
+1304	Kau bicara tentang balas dendam.	
+1305	Akankah balas dendam mengembalikan putramu kepadamu?	
+1306	Atau putraku kepadaku?	
+1307	Aku lupakan pembalasan dendam bagi putraku.	
+1308	Tapi aku punya alasan egois.	
+1309	Putra bungsuku terpaksa meninggalkan negara ini karena masalah Sollozzo ini. Baiklah.	
+1310	Aku harus melakukan sesuatu untuk bawa dia kembali dengan aman.	
+1311	Menjernihkan semua tuduhan palsu ini.	
+1312	Tapi aku pria yang percaya takhayul.	
+1313	Jika terjadi kecelakaan mengenaskan kepadanya, jika dia ditembak polisi, atau jika dia gantung diri di sel penjaranya, atau jika dia tersambar petir, maka aku akan menyalahkan beberapa orang di ruangan ini.	
+1314	Jika demikian, aku tak bisa maafkan.	
+1315	Tapi, di luar itu... biarkan aku bersumpah... demi jiwa cucu-cucuku, bahwa aku tak akan merusak perdamaian yang kita buat hari ini.	
+1316	Saat bertemu orang Tattaglia, haruskah kudesak perantaranya tak punya catatan kejahatan?	
+1317	Sebut saja.	
+1318	Jangan mendesak.	
+1319	Barzini akan tahu itu tanpa disuruh.	
+1320	Maksudmu Tattaglia.	
+1321	Tattaglia itu germo.	
+1322	Dia tak akan pernah bisa kalahkan Santino.	
+1323	Tapi aku baru tahu hari ini bahwa ternyata itu perbuatan Barzini.	
+1324	Ayo, Nancy.	
+1325	Tetap bersama, semuanya.	
+1326	Brian.	
+1327	Baiklah.	
+1328	Sudah berapa lama kau kembali?	
+1329	Aku sudah kembali setahun.	
+1330	Lebih dari itu, kurasa.	
+1331	Senang melihatmu, Kay. <Ayo, Dano!/>	missing English
+1332	Aku kerja untuk ayahku sekarang, Kay.	
+1333	Dia sakit.	
+1334	Parah.	
+1335	Tapi kau tak seperti dia, Michael.	
+1336	Kau katakan kepadaku kau tak akan menjadi seperti ayahmu.	
+1337	Ayahku tak ada bedanya dari orang berkuasa lainnya.	
+1338	Orang yang bertanggung jawab atas orang lain.	
+1339	Seperti senator atau presiden.	
+1340	Betapa naif kedengarannya.	
+1341	Mengapa?	
+1342	Senator dan Presiden tak menyuruh bunuh orang.	
+1343	Siapa yang naif, Kay?	
+1344	Cara ayahku melakukan bisnis sudah berakhir.	
+1345	Bahkan dia tahu itu.	
+1346	Dalam lima tahun, keluarga Corleone akan sepenuhnya jadi sah.	
+1347	Percayalah kepadaku.	
+1348	Hanya itu yang bisa kuceritakan tentang bisnisku.	
+1349	Kay...	
+1350	Michael, mengapa kau datang kemari?	
+1351	Mengapa?	
+1352	Apa yang kau mau setelah selama ini?	
+1353	Kau tak menelepon atau menulis surat.	
+1354	Aku datang karena membutuhkanmu.	
+1355	Aku sayang kepadamu.	
+1356	Hentikanlah, Michael.	
+1357	Karena...	
+1358	aku ingin kau menikahiku.	
+1359	Sudah terlambat.	
+1360	Kumohon, Kay...	
+1361	Akan kulakukan semua yang kau minta untuk perbaiki semua di antara kita.	
+1362	Karena itu penting, Kay.	
+1363	Karena hal yang penting adalah... kita saling memiliki.	
+1364	Bahwa kita punya hidup bersama.	
+1365	Bahwa kita punya anak-anak.	
+1366	Anak-anak kita.	
+1367	Kay, aku membutuhkanmu.	
+1368	Dan aku mencintaimu.	
+1369	Orang-orang Barzini gerogoti wilayahku dan kita tak lakukan apa-apa!	
+1370	Sebentar lagi, aku tak punya tempat!	
+1371	Sabarlah.	
+1372	Aku tak minta bantuan.	
+1373	Izinkan saja aku berbuat sesuatu.	
+1374	Sabarlah.	
+1375	Kita harus melindungi diri kita.	
+1376	Izinkan aku cari beberapa orang baru.	
+1377	Tidak.	
+1378	Barzini akan punya alasan bertarung.	
+1379	Mike, kau salah.	
+1380	Don Corleone...	
+1381	Kau pernah katakan kelak aku dan Tessio dapat menjalin keluarga sendiri.	
+1382	Sampai kini, aku tak pernah pikir begitu.	
+1383	Aku harus minta izinmu.	
+1384	Michael adalah kepala keluarga sekarang.	
+1385	Jika dia berikan izinnya, maka kau dapat restuku.	
+1386	Setelah kita pindah ke Nevada, kau bisa tinggalkan keluarga Corleone dan berusaha sendiri. <Setelah pindah ke Nevada./>	missing English
+1387	Berapa lama lagi itu?	
+1388	Enam bulan.	
+1389	Maafkan aku, tapi dengan kepergianmu, aku dan Pete akan jatuh ke bawah kendali Barzini.	
+1390	Aku benci Barzini.	
+1391	Dalam enam bulan, tak ada yang tersisa untuk dibangun.	
+1392	Kau percaya akan penilaianku?	
+1393	Ya.	
+1394	Kau akan loyal kepadaku?	
+1395	Selalu, Godfather.	
+1396	Maka, jadilah teman bagi Michael.	
+1397	Lakukan perintahnya.	
+1398	Banyak hal dinegosiasikan agar masalah selesai dan bisa jawab pertanyaanmu.	
+1399	Cuma itu yang bisa kukatakan.	
+1400	Carlo, kau besar di Nevada.	
+1401	Saat kita pindah ke sana, kau akan jadi tangan kananku.	
+1402	Tom Hagen bukan lagi penasihat.	
+1403	Dia akan jadi pengacara kita di Vegas.	
+1404	Bukannya tak percaya Tom, cuma keinginanku saja.	
+1405	Jika aku butuh bantuan, siapa lebih baik jadi penasihat selain ayahku?	
+1406	Itu saja. Baiklah.	
+1407	Terima kasih, Ayah.	
+1408	Aku bahagia untukmu, Carlo.	
+1409	Mike...	
+1410	Mengapa aku keluar?	
+1411	Kau bukan penasihat masa perang, Tom.	
+1412	Banyak hal bisa jadi berat dengan perpindahan ini.	
+1413	Tom.	
+1414	Aku menasihati Michael.	
+1415	Aku tak pernah menganggap kau penasihat yang buruk.	
+1416	Kupikir Santino adalah Don yang buruk, semoga arwahnya tenang.	
+1417	Michael sangat kupercaya, sama seperti kau.	
+1418	Tapi ada alasan mengapa kau tak boleh ambil bagian dalam hal yang akan terjadi.	
+1419	Mungkin aku bisa menolong.	
+1420	Tak bisa, Tom.	
+1421	Aku tak bisa berhenti kagumi wajahmu.	
+1422	Sungguh tampak bagus.	
+1423	Hasil kerja dokter ini bagus.	
+1424	Apa Kay menyuruhmu?	
+1425	Hei, tunggu!	
+1426	Tinggalkan di sini. <Kita urus nanti./>	missing English
+1427	Dia lelah dan mau membersihkan diri.	
+1428	Biarkan aku buka pintu, ya?	
+1429	Hai, Mike!	
+1430	Selamat datang di Las Vegas!	
+1431	Semua untukmu, Nak!	
+1432	Ini semua idenya.	
+1433	Saudaramu Freddy.	
+1434	Gadis-gadis? <Fredo.../>	missing English
+1435	Aku segera kembali. <Baik./>	missing English
+1436	Buat mereka sibuk.	
+1437	Apa pun yang kau mau, Nak, apa pun.	
+1438	Siapa gadis-gadis itu?	
+1439	Itu yang perlu kau cari tahu.	
+1440	Suruh mereka pergi, Fredo.	
+1441	Mike...	
+1442	Aku di sini untuk bisnis. <Besok pergi./>	missing English
+1443	Suruh mereka pergi.	
+1444	Aku lelah.	
+1445	Suruh bandnya pergi juga.	
+1446	Ayo pergi.	
+1447	Ayo.	
+1448	Ayo pergi.	
+1449	Cukup.	
+1450	Angelo.	
+1451	Ayolah!	
+1452	Pergi!	
+1453	Ayolah, Sayang.	
+1454	Aku tak tahu ada apa dengannya, Johnny.	
+1455	Maaf. Maaf, Sayang.	
+1456	Aku tak tahu.	
+1457	Dia lelah.	
+1458	Ada apa dengan Moe Greene?	
+1459	Dia punya urusan.	
+1460	Dia minta ditelepon saat pesta dimulai.	
+1461	Telepon dia.	
+1462	Johnny, apa kabar?	
+1463	Senang bertemu lagi, Mike.	
+1464	Kami bangga denganmu.	
+1465	Terima kasih.	
+1466	Duduklah, aku ingin bicara.	
+1467	Don juga bangga, Johnny.	
+1468	Aku berutang semua kepadanya.	
+1469	Dia tahu kau sangat berterima kasih.	
+1470	Itu sebabnya dia mau minta bantuanmu.	
+1471	Mike, apa yang bisa kulakukan?	
+1472	Keluarga kami berniat melepas kepentingan kami di bisnis minyak zaitun, dan tinggal di sini.	
+1473	Moe Greene akan jual saham kasino dan hotel kepada kami, agar sepenuhnya milik keluarga.	
+1474	Tom!	
+1475	Mike, kau yakin soal itu?	
+1476	Moe suka bisnis ini.	
+1477	Dia tak pernah bilang soal menjual.	
+1478	Aku akan memberinya tawaran yang tak bisa dia tolak.	
+1479	Begini, Johnny...	
+1480	kami pikir, hiburan akan menarik para penjudi ke kasino.	
+1481	Kami harap kau mau tanda tangan kontrak untuk tampil lima kali setahun.	
+1482	Mungkin yakinkan teman-teman filmmu untuk melakukan hal yang sama.	
+1483	Kami mengandalkanmu.	
+1484	Tentu, Mike.	
+1485	Akan kulakukan apa pun untuk ayah baptisku.	
+1486	Bagus.	
+1487	Hei, Mike!	
+1488	Halo, semuanya.	
+1489	Semua ada di sini.	
+1490	Freddy, Tom.	
+1491	Senang bertemu denganmu.	
+1492	Apa kabar, Moe?	
+1493	Dapat semuanya?	
+1494	Makanan disiapkan khusus, penari terbaik, kredit bagus.	
+1495	Tarik chip untuk semua orang, agar bisa main gratis.	
+1496	Kreditku cukup bagus untuk membeli sahammu?	
+1497	Membeli sahamku?	
+1498	Kasino, hotel.	
+1499	Keluarga Corleone mau membeli sahammu.	
+1500	Keluarga Corleone mau membeli sahamku?	
+1501	Tidak, aku yang beli sahammu.	
+1502	Kasinomu merugi.	
+1503	Kami bisa lakukan yang lebih baik.	
+1504	Kau pikir aku mengambil laba sendiri?	
+1505	Kau tak beruntung.	
+1506	Kalian orang Italia membuatku tertawa.	
+1507	Aku tolong Freddy di masa buruk kalian, kini kau mau singkirkan aku?	
+1508	Kau lakukan itu karena kami berikan jaminan bank untuk kasinomu, dan keluarga Molinari jamin dia aman.	
+1509	Ayo bicarakan bisnis.	
+1510	Ya.	
+1511	Pertama-tama, kalian semua sudah habis.	
+1512	Kalian tak punya kekuatan seperti itu lagi.	
+1513	Godfather sakit.	
+1514	Kau disingkirkan dari New York oleh Barzini dan yang lain.	
+1515	Kau pikir kau bisa datang ke hotelku dan ambil alih?	
+1516	Aku bicara ke Barzini.	
+1517	Aku bisa buat kesepakatan dan mempertahankan hotelku!	
+1518	Itu sebabnya kau tampar saudaraku di muka umum?	
+1519	Itu bukan apa-apa, Mike.	
+1520	Moe tak bermaksud apa-apa.	
+1521	Ya, dia sesekali lepas kendali, tapi kami teman baik.	
+1522	Aku harus menjalankan bisnis.	
+1523	Kadang aku perlu marah-marah.	
+1524	Kami bertengkar, jadi aku harus membereskannya.	
+1525	Kau membereskan saudaraku?	
+1526	Dia meniduri dua pramusaji koktail sekaligus.	
+1527	Para pemain jadi tak bisa minum.	
+1528	Ada apa denganmu?	
+1529	Aku kembali ke New York besok.	
+1530	Pikirkan tentang harganya.	
+1531	Sialan!	
+1532	<Tahu aku siapa?/> Aku Moe Greene!	missing English
+1533	Aku sudah kaya saat kau masih remaja.	
+1534	Tunggu sebentar, Moe.	
+1535	Aku punya ide.	
+1536	Tom, kau penasihat.	
+1537	Bicaralah kepada Don...	
+1538	Sebentar.	
+1539	Don hampir pensiun dan kini Mike mengendalikan bisnis keluarga.	
+1540	Jika perlu mengatakan sesuatu, katakanlah kepada Michael.	
+1541	Mike! Kau tak ke Las Vegas dan bicara begitu kepada pria seperti Moe Greene!	
+1542	Fredo.	
+1543	Kau kakakku, dan aku mencintaimu.	
+1544	Tapi jangan pernah memihak orang lain yang menentang keluarga.	
+1545	Jangan pernah.	
+1546	Aku harus temui Ayah dan anak buahnya, makan malamlah tanpa aku. <Michael./>	missing English
+1547	Akhir pekan ini kita akan keluar.	
+1548	Ke kota, menonton, dan makan malam. <Baiklah./>	missing English
+1549	Michael, saudarimu mau tanya sesuatu.	
+1550	Suruh dia tanya sendiri.	
+1551	Dia takut.	
+1552	Mereka ingin kau jadi ayah baptis bagi putranya.	
+1553	Kita lihat nanti.	
+1554	Maukah kau?	
+1555	Aku akan mempertimbangkannya.	
+1556	Ayo.	
+1557	Jadi... Barzini akan bergerak menentangmu lebih dulu.	
+1558	Dia akan mengatur pertemuan dengan orang yang sangat kau percaya.	
+1559	Menjamin keamananmu.	
+1560	Pada pertemuan itu, kau akan dibunuh.	
+1561	Aku minum anggur lebih dari biasanya.	
+1562	Aku minum lebih banyak.	
+1563	Bagus untukmu, Ayah.	
+1564	Entahlah.	
+1565	Kau bahagia dengan istri dan anak-anakmu?	
+1566	Sangat bahagia.	
+1567	Itu bagus.	
+1568	Kuharap kau tak keberatan caraku membahas masalah Barzini ini.	
+1569	Tidak sama sekali.	
+1570	Itu kebiasaan lama.	
+1571	Sepanjang hidup aku berusaha untuk tak ceroboh.	
+1572	Wanita dan anak-anak bisa ceroboh, tapi pria tidak.	
+1573	Bagaimana putramu?	
+1574	Dia baik-baik saja.	
+1575	Dia semakin mirip denganmu.	
+1576	Dia lebih pintar dariku.	
+1577	Usia tiga tahun dan bisa baca komik.	
+1578	Bisa baca komik.	
+1579	Aku mau kau suruh petugas telepon untuk mengecek telepon keluar-masuk...	
+1580	Sudah kulakukan itu. <Bisa siapa saja./>	missing English
+1581	Sudah kuatasi.	
+1582	Benar,	
+1583	aku lupa.	
+1584	Ada apa?	
+1585	Apa yang mengganggumu?	
+1586	Aku akan tangani itu.	
+1587	Sudah kukatakan aku bisa tangani itu.	
+1588	Aku tahu Santino seharusnya melakukan semua ini.	
+1589	Dan Fredo...	
+1590	Fredo, begitulah...	
+1591	Tapi aku tak pernah menginginkan ini untukmu.	
+1592	Aku bekerja seumur hidup.	
+1593	Aku tak minta maaf karena merawat keluargaku.	
+1594	Dan aku menolak jadi orang bodoh, dikendalikan oleh orang-orang kuat itu.	
+1595	Aku tak minta maaf.	
+1596	Itu hidupku, tapi kupikir... saat tiba waktumu, kau harus jadi orang yang mengendalikan.	
+1597	Senator Corleone.	
+1598	Gubernur Corleone.	
+1599	Apalah.	
+1600	Orang berkuasa lain.	
+1601	Ya...	
+1602	Waktunya tak cukup, Michael.	
+1603	[NO TRANSLATION]	missing translation
+1604	Kita akan bisa mencapainya, Ayah.	
+1605	[NO TRANSLATION]	missing translation
+1606	Dengar, siapa pun yang membujukmu untuk pertemuan Barzini ini, dia pengkhianatnya.	
+1607	Jangan lupa itu.	
+1608	Boleh kupegang itu? <Ya, aku akan mengurusnya./>	missing English
+1609	Boleh kusiram ini?	
+1610	Ya, silakan.	
+1611	Di sebelah sini.	
+1612	Hati-hati.	
+1613	Kau menumpahkannya.	
+1614	Anthony!	
+1615	Kemarilah. Kemarilah.	
+1616	Sudah selesai.	
+1617	Kita akan taruh di sana.	
+1618	Akan kutunjukkan sesuatu.	
+1619	Kemarilah.	
+1620	Berdiri di sana.	
+1621	Beri aku jeruk! Tidak.	
+1622	Itu trik baru.	
+1623	Kau lari ke sana.	
+1624	[NO TRANSLATION]	missing translation
+1625	Di mana kau?	
+1626	Mike, boleh bicara sebentar?	
+1627	Barzini ingin atur pertemuan.	
+1628	Dia bilang dia bisa bereskan semua masalah kita.	
+1629	Kau bicara kepadanya?	
+1630	Ya.	
+1631	Aku bisa atur keamanan.	
+1632	Di wilayahku.	
+1633	Baik?	
+1634	Baik.	
+1635	Kau tahu cara mereka mencoba membunuhmu?	
+1636	Mereka mengatur pertemuan di Brooklyn.	
+1637	Daerah kekuasaan Tessio.	
+1638	Tempat aku akan aman.	
+1639	Aku selalu pikir Clemenza orangnya, bukan Tessio.	
+1640	Langkah yang pintar.	
+1641	Tessio selalu lebih pintar.	
+1642	Tapi aku akan menunggu.	
+1643	Setelah pembaptisan.	
+1644	Aku memutuskan untuk jadi ayah baptis bayi Connie.	
+1645	Lalu aku akan bertemu dengan Don Barzini dan Tattaglia.	
+1646	Seluruh pemimpin Lima Keluarga.	
+1647	Michael, kau percaya akan Tuhan, Bapa Yang Maha Kuasa, pencipta Langit dan Bumi?	
+1648	Aku percaya.	
+1649	Kau percaya akan Yesus Kristus, Putra-Nya yang tunggal, Tuhan kita?	
+1650	Aku percaya.	
+1651	Kau percaya akan Roh Kudus, Gereja Katolik yang kudus?	
+1652	Aku percaya.	
+1653	Michael Francis Rizzi, sanggupkah kau menolak setan?	
+1654	Aku sanggup.	
+1655	Dan seluruh bujuk-rayunya?	
+1656	Aku sanggup.	
+1657	Ya, Tuhan!	
+1658	Dan seluruh tindak-tanduknya?	
+1659	Aku sanggup.	
+1660	Michael Rizzi, bersediakah kau dibaptis?	
+1661	Aku bersedia.	
+1662	Michael Rizzi, pergilah dalam damai, semoga Tuhan bersamamu.	
+1663	Amin.	
+1664	Kay!	
+1665	Ayo. Cium ayah baptismu.	
+1666	<Carlo./> Tak bisa ke Vegas.	missing English
+1667	Ada masalah muncul.	
+1668	Semua harus pergi tanpa kita.	
+1669	Mike, ini liburan pertama kita!	
+1670	Connie, kumohon.	
+1671	<Apa maumu?/> Pulang, tunggu teleponku.	missing English
+1672	Ini penting. <Baik./>	missing English
+1673	Aku hanya beberapa hari.	
+1674	Kami dalam perjalanan ke Brooklyn.	
+1675	Kuharap Mike bisa buat kesepakatan.	
+1676	Aku yakin dia bisa.	
+1677	Sal, Tom, Bos bilang dia akan pakai mobil lain, jadi kalian jalan duluan.	
+1678	Tak bisa, dia merusak semua yang kuatur.	
+1679	Dia bilang begitu.	
+1680	Aku juga tak bisa pergi, Sal.	
+1681	Beri tahu Mike, ini cuma bisnis.	
+1682	Aku selalu menyukainya.	
+1683	Dia paham itu.	
+1684	Permisi, Sal.	
+1685	Tom, bisa kau bebaskan aku?	
+1686	Demi masa lalu?	
+1687	Aku tak bisa melakukan itu, Sally.	
+1688	Kau harus bertanggung jawab untuk Santino, Carlo.	
+1689	Mike, kau salah paham.	
+1690	Kau jebak Sonny untuk Barzini.	
+1691	Pertunjukan kecil yang kau mainkan dengan saudariku.	
+1692	Kau kira bisa bodohi seorang Corleone?	
+1693	Aku tak salah.	
+1694	Sumpah demi anak-anak.	
+1695	Kumohon, jangan lakukan ini.	
+1696	Duduk.	
+1697	Mike, jangan lakukan ini kepadaku, kumohon.	
+1698	Barzini sudah mati.	
+1699	Begitu juga Philip Tattaglia.	
+1700	Moe Greene.	
+1701	Strachi.	
+1702	Cuneo.	
+1703	Hari ini kuselesaikan urusan keluarga, jangan katakan kau tak bersalah, Carlo.	
+1704	Akui perbuatanmu.	
+1705	Beri dia minum.	
+1706	Ayo.	
+1707	Jangan takut, Carlo.	
+1708	Kau pikir aku akan membuat saudariku jadi janda?	
+1709	Aku ayah baptis putramu, Carlo.	
+1710	Silakan, minumlah.	
+1711	Tidak, kau keluar dari bisnis keluarga.	
+1712	Itu hukumanmu.	
+1713	Kau sudah selesai.	
+1714	Aku kirim kau ke Vegas dengan pesawat terbang.	
+1715	Tom.	
+1716	Aku mau kau tetap di sana.	
+1717	Mengerti?	
+1718	Hanya jangan katakan kau tak bersalah.	
+1719	Karena itu menghina kecerdasanku.	
+1720	Membuatku sangat marah.	
+1721	Siapa yang mendekatimu?	
+1722	Tattaglia atau Barzini?	
+1723	Barzini.	
+1724	Bagus.	
+1725	Ada mobil menunggumu di luar untuk membawamu ke bandara.	
+1726	Aku akan telepon istrimu, beri tahu penerbanganmu.	
+1727	Mike...	
+1728	Enyahlah.	
+1729	Halo, Carlo.	
+1730	<Apa maksudmu?/> Aku coba katakan kau salah!	missing English
+1731	Ibu, kumohon!	
+1732	Michael!	
+1733	Ada apa?	
+1734	Di mana dia? Michael!	
+1735	Michael, kau bajingan sialan!	
+1736	Kau bunuh suamiku.	
+1737	Kau tunggu sampai Ayah meninggal, agar tak ada yang bisa menghentikanmu.	
+1738	Kau menyalahkan dia karena Sonny.	
+1739	Semua begitu.	
+1740	Tapi kau tak pernah memikirkan aku!	
+1741	Kini apa yang kami lakukan?	
+1742	Connie.	
+1743	Mengapa kau kira Mike tempatkan Carlo di Mal?	
+1744	Dia tahu dia akan membunuhnya.	
+1745	Dan kau jadi ayah baptis anak kami.	
+1746	Dasar bajingan berdarah dingin!	
+1747	Mau tahu berapa orang yang dia bunuh bersama Carlo?	
+1748	Baca koran!	
+1749	Itulah suamimu!	
+1750	Ayolah.	
+1751	Tidak!	
+1752	Bawa dia ke atas.	
+1753	Panggil dokter.	
+1754	Dia histeris.	
+1755	Histeris.	
+1756	Michael, benarkah itu?	
+1757	Jangan tanya tentang urusanku, Kay.	
+1758	Benarkah itu?	
+1759	Jangan tanya tentang urusanku.	
+1760	Tidak! Cukup!	
+1761	Baiklah.	
+1762	Sekali ini saja...	
+1763	Sekali ini saja kuizinkan kau tanya tentang urusanku.	
+1764	Benarkah itu?	
+1765	Benarkah?	
+1766	Tidak.	
+1767	Kurasa kita berdua butuh minum.	
+1768	Ayo.	
+1769	Don Corleone.	

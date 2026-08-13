@@ -1,0 +1,1885 @@
+1	Hurrengo geltokia: Broad Street.	
+2	Hurrengo geltokia: Broad Street.	
+3	Gora.	
+4	Hemendik.	
+5	Ez da hemendik igo?	
+6	[NO TRANSLATION]	missing translation
+7	Ez dago hemen.	
+8	Ni behera noa.	
+9	Barkatu.	
+10	Barkatu.	
+11	Segi eta ertzean gelditu.	
+12	Bisitak.	
+13	Hortzeriaren bila joan naiteke?	
+14	Koronel, eman buelta, mesedez.	
+15	Ohean eseri.	
+16	Aurrera.	
+17	[NO TRANSLATION]	missing translation
+18	Hortzeria harraskan dago.	
+19	[NO TRANSLATION]	missing translation
+20	Ikerketa Bulego Federaleko agenteak gara.	
+21	Begira nazazu!	
+22	Zurekin ari naiz.	
+23	Espioitza-ekintzetan sartuta zaudela dakigu.	
+24	Lagundu gurekin berehala edo atxilotuko zaitugu.	
+25	Argi dago, koronel?	
+26	Ez, egia esan.	
+27	Zergatik deitzen didazu koronel?	
+28	Jantzi zaitez.	
+29	Logela miatu behar dugu.	
+30	Paleta garbitu dezaket?	
+31	Hondatuko da bestela.	
+32	Hortxe dago.	
+33	Zapi bat daukat horretarako.	
+34	Eskerrik asko.	
+35	Hasi miatzen.	
+36	Eskerrik asko.	
+37	Aztertu koltxoia, ohe azpian, zoladura azpian...	
+38	Hautsontzian utz dezake? Leiho-ertzean dago.	
+39	Goitik behera miatu.	
+40	Idazmahaia.	
+41	Ez dut hondatzea nahi.	
+42	Ez nire gizona esan.	
+43	Ez da nire gizona.	
+44	Jakina baietz.	
+45	Nori buruz ari gara?	
+46	Nire bezeroarekin asegurua zuen norbaitez.	
+47	Ez du nire gizona bihurtzen.	
+48	Ados.	
+49	Kontua da zure bezeroak aseguratutako gizonak... ez du ezeztatu kasu horiek egiazkoak direla.	
+50	Horiek?	
+51	Kasu horiek?	
+52	Bai, bost kasu horiek.	
+53	Itxaron.	
+54	Ez dira bost kasu,	
+55	bakarra baizik.	
+56	Argi dago bost direla.	
+57	Barkatu, niretzat ez dago argi.	
+58	Bost kasu?	
+59	Azaldu iezadazu.	
+60	Nabaria da.	
+61	Ados, azaldu zer gertatu zen.	
+62	Kontatu ulertu dezadan zergatik diren bost kasu.	
+63	Jakina.	
+64	Zure gizonak...	
+65	Nire gizona ez,	
+66	aseguruduna.	
+67	Zure bezeroaren aseguruduna 19. estatu-errepidean zebilen, kontrola galdu eta nire 5 gizonak harrapatu zituen. Hauek kontratatu ninduten eskakizunari ez erantzuteagatik.	
+68	Nire bezeroak, aseguruak, ez zuela erantzun.	
+69	Donovan jauna, argi daukagu nor den nor.	
+70	Baina nire bezeroak eskakizun guztiei erantzuten die.	
+71	Hala da,	
+72	eskakizun zilegi guztiei erantzuten zaie... erantzukizun muturreraino, hau da, 100.000 dolar istripuko, gizon honen polizaren arabera.	
+73	Erreklamazio bakarra da.	
+74	Zure kontakizunaren arabera, nire 5 gizonak harrapatu zituen.	
+75	Nire bezeroaren asegurudunak istripu bakarra izan zuen.	
+76	Bat, bat, bat.	
+77	Autoaren kontrola galdu eta 5 moto-gidari harrapatu zituen.	
+78	Haien arabera, bost harrapatzen izan ziren.	
+79	Begira, Bob.	
+80	Bob deitu zaitzaket?	forced duplication
+81	Bob deitu zaitzaket?	forced duplication
+82	Jim.	
+83	Boloetan guztiak botaz gero, jaurtiketa bat da,	
+84	ez hamar.	
+85	Nire gizonak ez dira boloak, zureak bolotzat hartu bazituen ere.	
+86	[NO TRANSLATION]	missing translation
+87	Utzi amaitzen.	
+88	Utzi amaitzen.	
+89	Zure etxea ehun mila dolarrean aseguratzen baduzu... eta tornado batek eramaten badu, etxea eraman duela esango genuke.	
+90	Ez ditu altzari guztiak banan-banan suntsitu.	
+91	Hori bada esan nahi duzuna, tira, gure erantzukizunak ez luke mugarik izango, eta aseguru-konpainien amaiera litzateke.	
+92	Eta orduan, Bob, guztiak babesgabe egongo ginateke.	
+93	Watters, Cowan eta Donovan.	
+94	Zertan lagundu diezazuket?	
+95	Egun on, Donovan jauna.	
+96	Egun on, Alison.	
+97	Prudentialekin zenuen 9etako hitzordua atzeratu dut.	
+98	Zergatik?	
+99	Neuk eskatu diot.	
+100	Zer gertatzen da, Tom?	
+101	Utzi gauzak Alisonekin,	
+102	zatoz barrura.	
+103	Gauza oso garrantzitsua geratu da.	
+104	Bisita daukagu.	
+105	Nataliek kafea ekarriko dizu.	
+106	Berehalakoa, esnea eta bi koxkor, ezta?	
+107	Bai,	
+108	eskerrik asko.	
+109	Lynn!	
+110	Jim!	
+111	Pozten nau zu ikusteak.	
+112	Zer moduz familia?	
+113	Ongi,	
+114	eskerrik asko.	
+115	Eta Annie?	
+116	Norbait hiltzeko moduan.	
+117	Aita-amaginarrebak etorri dira.	
+118	Zerbait egiten badu, abokatu ona izango du.	
+119	Esan.	
+120	Hau da kontua.	
+121	Harrapatu zuten espioi sobietarra defendatu dezazun nahi dugu.	
+122	Hona hemen akusazioa.	
+123	Hara.	
+124	Ez dakit onartu beharko nukeen.	
+125	Salatuak ez du abokaturik ezagutzen.	
+126	Auzitegi federalak kasua egokitu digu.	
+127	Abokatuen elkargoak bozkatu du.	
+128	Aho batez aukeratu zaituzte.	
+129	Garrantzitsua da guretzat,	
+130	herrialdearentzat, lege-berme guztiak jasoko dituela erakustea.	
+131	Estatu Batuetako justizia probatuko dute.	
+132	Horrela jarrita, ohorea da niri eskatzea,	
+133	baina, Lynn, ni aseguru-abokatua naiz.	
+134	Aspaldi ez naiz zuzenbide penalean aritu.	
+135	Bizikletan ibiltzea bezala da, ezta?	
+136	Nurembergen nabarmendu zinen.	
+137	Akusazioaren aldean nengoen.	
+138	Bost axola.	
+139	Zuzenbide penalean esperientzia duzu.	
+140	Jim, aintzat hartu ezazu.	
+141	Gizona arbuiatzen dute.	
+142	Eta ni ere arbuiatuko naute.	
+143	Bai, inguru ez landuetan.	
+144	Horregatik egin behar dugu modu aproposean.	
+145	Ezin du iruditu gure justiziak ez diola edonori laguntzen.	
+146	Demagun onartzen dugula. Ze itxura dute frogek?	
+147	Nahiko erabatekoak.	
+148	Primeran.	
+149	Primeran.	
+150	Guztiek gorrotatuko naute, baina gutxienez galduko dut.	
+151	Zer deritzozu, Tom?	
+152	Abokatu-langelari eragingo lioke.	
+153	Beste kasu batzuk ditut.	
+154	Aberriarekiko eginbeharra dela uste dut.	
+155	Misio garrantzitsua.	
+156	Lynni esan diot abokatu-langelak lagunduko duela, eta zuk ere egin beharko zenuke.	
+157	Doilor hori defendatu behar duzu.	
+158	Beraz, egingo duzu?	
+159	Zer egin?	
+160	Abel, espioi sobietarra defendatzea.	
+161	Agian.	
+162	Hitz egin behar dut...	
+163	Aizu, nola dakizu?	
+164	Iragarki-taulan jarri dute?	
+165	Ez,	
+166	Richard Earlekin hitz egin dut.	
+167	Egiten badut, beharko zaitut.	
+168	Zer egingo duzu gaur gauean?	
+169	Afaltzeko geratu naiz, jauna.	
+170	Asteartea da, ezta?	
+171	Libre nago.	
+172	Arazorik ez, jauna.	
+173	Baina ohorea da baita ere.	
+174	Abokatuen elkargoak ni proposatu nau... erakutsi nahi dutelako espioiek ere abokatu trebea merezi dutela.	
+175	Horrelako ohorerik gabe bizi gintezke.	
+176	Kaixo, laztana. Zertan zabiltza etxean?	
+177	Kale egin didate.	
+178	Zital halakoa.	
+179	Nor izan da kaikua?	
+180	Nahiago dut ez esan.	
+181	Eseri zaitez,	
+182	afaltzen hasi gara.	
+183	Jendea beldur	
+184	da eta halakoez babesteko aterpeak egin ditu.	
+185	Dendetan jendeak janari enlatatuta eta potasio tabletak erosten ditu.	
+186	Gizon horregatik eta ordezkatzen duenagatik.	
+187	Mehatxu handia da,	
+188	traidorea.	
+189	Nor?	
+190	Rosenbergtarrak.	
+191	[NO TRANSLATION]	missing translation
+192	Errusiarrei sekretu atomikoak eman zizkieten.	
+193	Estatubatuarrak.	
+194	Haiek herrialdea traizionatu zuten.	
+195	Ezin duzu Abel traizioaz salatu.	
+196	Ez da estatubatuarra.	
+197	Begira zer esaten duzun,	
+198	jada defendatzen ari zara.	
+199	Nirekin frogatzen ari zara.	
+200	Hausnartuko duzula esan duzu.	
+201	Hausnartzen ari naiz, baina oso zaila da.	
+202	Guztiek merezi dute defentsa,	
+203	guztiek garrantzia dute.	
+204	Eta zer merezi dugu guk, Jim?	
+205	Zer pentsatuko du jendeak?	
+206	Traidore bat askatu nahi duen gizon baten familia da.	
+207	Ez da traidorea, Mary.	
+208	Bai, bai.	
+209	Roger, ireki!	
+210	[NO TRANSLATION]	missing translation
+211	Zergatik ni?	
+212	[NO TRANSLATION]	missing translation
+213	Itxaron mahaia bedeinkatu arte.	
+214	Gose naiz!	
+215	Herrialdeko gizon gorrotatuena da, eta bigarrena izatear zaude!	
+216	Eta ni hirugarrena.	
+217	Mutil horrek ez dizu ongi egingo.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, ez hau eztabaida bihurtu.	
+220	[NO TRANSLATION]	missing translation
+221	Ez nago bere alde	
+222	ezta sobietarrek gu espiatzearen alde.	
+223	Auzitegi aurrean defentsa izateko eskubidearen alde nago. Horregatik deitzen zaio justizia.	
+224	Ez nuen eragotzi nahi.	
+225	[NO TRANSLATION]	missing translation
+226	Kaixo, Doug.	
+227	Lasai.	
+228	Kaixo, Doug.	
+229	Jim txorakeriak esaten ari zen.	
+230	Ez dira txorakeriak.	
+231	Eseri gurekin, Doug.	
+232	Haragi-pastela dago.	
+233	Kasua onartuko duen erabakitzen laguntzera etorri zara?	
+234	Jada onartu dugu!	
+235	Zirraragarria, ezta?	
+236	Eskerrak, Jauna, elikagai hauengatik.	
+237	[NO TRANSLATION]	missing translation
+238	Amen.	
+239	Egun on,	
+240	Jim Donovan dut izena.	
+241	Hauek dira nire egiaztagutunak.	
+242	Watters, Cowan eta Donovaneko kidea naiz.	
+243	Abokatuen elkargoko kidea 1941etik.	
+244	3 delitu eta 19 ekintza ageri salatzen zaizkizu.	
+245	Sobietar Batasunari defentsa sekretuak pasatzeko konspiratzea, sekretuak biltzeko konspiratzea, ez erregistratzea atzerritar gisa.	
+246	Atzerriko agenteak erregistratzen dira?	
+247	Galdetuko dizut, jauna, atxilotu zintuztenetik, non egon zara?	
+248	Ez nago ziur.	
+249	Ez dakizu?	
+250	Aireportu batera eraman ninduten, hegazkinera igo ninduten, hegazkinetik jaitsi ninduten.	
+251	Bero handia egiten zuen.	
+252	Hemen bero egiten du.	
+253	Eta hezetasun handia zegoen.	
+254	Gela batean sartu ninduten.	
+255	Jo zintuzten?	
+256	Ez.	
+257	Hitz egin zidaten.	
+258	Eskaintzak egin zizkidaten.	
+259	Zer motako eskaintzak?	
+260	Lan eskaintzak, zure gobernuari laguntzea.	
+261	Esan zidaten lagunduz gero, ez zutela salaketa gehiago aurkeztuko nire aurka.	
+262	Eta ordainduko zidatela.	
+263	[NO TRANSLATION]	missing translation
+264	Eta uko egin zenion?	
+265	Argi dago.	
+266	Jakina, ez nator bat.	
+267	Estatu Batuetako gobernuekin laguntzera premiatu behar zaitut.	
+268	Ba ezetz esan nuen.	
+269	Esan CIAko lagunei benetan esaten nuela.	
+270	Ez, ez.	
+271	[NO TRANSLATION]	missing translation
+272	Nik ez dut CIArentzat lan egiten.	
+273	Ez dut gobernuarentzat lan egiten.	
+274	Nire zerbitzuak eskaini nahi dizkizut abokatu gisa.	
+275	Onartzen banauzu, defendatuko zaitut.	
+276	Onartzen bazaitut?	
+277	Trebea zara?	
+278	Bai,	
+279	nahiko trebea.	
+280	Ustezko espioi asko defendatu dituzu?	
+281	Ez, oraindik ez.	
+282	Lehendabiziko aldia izango da biontzat.	
+283	Bai.	
+284	Ados.	
+285	Ados?	
+286	Onartzen duzu?	
+287	Bai, onartzen dut.	
+288	Primeran.	
+289	Hasteko,	
+290	ziur zaude gobernuari ez diozula lagundu nahi.	
+291	Bai.	
+292	Ados.	
+293	Ez inorekin hitz egin kasuari buruz, gobernukoa edo ez.	
+294	Nirekin izan ezik, ahal duzun heinean.	
+295	Zure defentsa niri egokitu didate,	
+296	niri baino ez.	
+297	Gainerakoek aulki elektrikora bidali nahi zaituzte.	
+298	Ongi.	
+299	Ez dirudi kezkatuta zaudenik.	
+300	Lagunduko luke?	
+301	[NO TRANSLATION]	missing translation
+302	Marrazteko materiala izan nahiko nuke.	
+303	Hori ez da posible.	
+304	Arkatz bat, orriak...	
+305	Zigarretak.	
+306	Mesedez.	
+307	Donovan jaunak, ni bezalako gizonak dituzue... zure herrialdearentzat gauza bera egiten.	
+308	Harrapatuko balituzte, ziur gustatuko litzaizukeela ongi tratatzea.	
+309	Izena?	
+310	Francis Gary Powers.	
+311	Maila, gorputza?	
+312	Tenientea, Estatu Batuetako Aireko Indarra.	
+313	Sobietar Batasunarekin loturarik al duzu, Powers tenientea?	
+314	Benetan?	
+315	Erantzun, teniente.	
+316	Bai, ez edo erantzun xumea.	
+317	Sobietar Batasunarekin loturarik al duzu?	
+318	Batere ez.	
+319	Badakizu zergatik zauden hemen?	
+320	[NO TRANSLATION]	missing translation
+321	Hori ezezkoa al da?	
+322	Bai.	
+323	Zera...	
+324	Ez, ezezkoa da.	
+325	Bai, ez dakit zergatik nagoen hemen.	
+326	Aurrera begira, teniente.	
+327	Bai, jauna.	
+328	Zer moduz atera zaizu, Gary?	
+329	Nahiko ongi.	
+330	Izena ere banekien.	
+331	Orduan Shinnek baino hobeto egin duzu.	
+332	Nor dabil lehen?	
+333	Neu.	
+334	[NO TRANSLATION]	missing translation
+335	Eman kartak.	
+336	Hauek guztiak nireak dira.	
+337	Harekin ez jolasteko esan nizuen.	
+338	Hauxe da egoera.	
+339	Misio baterako aukeratu zaituztete, eta ezin duzue aipatu gela honetan ez dagoen inorekin.	
+340	Inorekin ez.	
+341	Bost axola norekin fidatzen zareten.	
+342	Emaztea, ama, neska-laguna.	
+343	Jauna gauez otoitz egitean.	
+344	Ezin diozue inori kontatu esango dizuedana.	
+345	Zuek, pilotu gisa, zenbait abilezia betetzen dituzue.	
+346	Segurtasun akreditazio altua.	
+347	Adierazle paregabeak hegaldi-orduetan.	
+348	Gerra egiten ari gara.	
+349	Momentuz, ez du soldadu armaturik,	
+350	informazioa baizik.	
+351	Informazioa jasoko duzue.	
+352	Etsaiari buruzko inteligentzia.	
+353	Jasoko duzuen inteligentziak abantaila eman diezaguke... Sobietar Batasunaren aurkako gatazka termonuklear batean.	
+354	Eta are gatazka hori saihestu.	
+355	Ofizialki, zuen emazte, ama, neska-lagun edo Jaunari dagokienez, zuen misioa ez da existitzen.	
+356	Existitzen ez bada, zuek ez zarete existitzen.	
+357	Ezin zaituztete oinkatu.	
+358	Ezin zaituztete harrapatu.	
+359	Orain CIArentzat egiten duzue lan.	
+360	Aizu, zure bezeroak errusieraz hitz egiten du?	
+361	Nork itzultzen dizu?	
+362	Zeuk eta biok bezala hitz egiten du.	
+363	Izen errusiera dauka, baina pasaporte britaniarra.	
+364	Ez dut uste benetakoa denik.	
+365	Zer daukagu, Jim?	
+366	Bai, jauna, zera...	
+367	Ez dut uste hiru aste nahikoa denik.	
+368	[NO TRANSLATION]	missing translation
+369	Froga asko daude.	
+370	Atzeratu nahi duzu?	
+371	Sei aste.	
+372	Nire laguntzailea eta biok gaude bakarrik.	
+373	Benetan?	
+374	Jauna?	
+375	Benetan diozu?	
+376	[NO TRANSLATION]	missing translation
+377	Bai, jauna.	
+378	Eskakizunean dago.	
+379	Jim, espioi sobietarra da.	
+380	Ustezkoa.	
+381	Tira, letradu.	
+382	Jauna.	
+383	[NO TRANSLATION]	missing translation
+384	Guztiok eskertzen dizugu... halako zeregin eskergaitza egitea.	
+385	Berme legal guztiak izango ditu,	
+386	baina ez gaitezen engainatu.	
+387	Defentsa aproposa jasoko du.	
+388	Eta, Jainkoa lagun, zigorra jasoko du.	
+389	Tira, letratu.	
+390	Ez nago txantxetarako,	
+391	eta are gutxiago nire auzitegian.	
+392	Data bat dago, eta epaiketa egingo da.	
+393	Taxi!	
+394	Taxi!	
+395	Argia piztuta daramazu!	
+396	Doilor halakoa.	
+397	Manhattanera bueltatzeko irrikaz zaude.	
+398	Argia zeraman, ezta?	
+399	Doilor halakoa.	
+400	[NO TRANSLATION]	missing translation
+401	[NO TRANSLATION]	missing translation
+402	Barkatu, jauna.	
+403	[NO TRANSLATION]	missing translation
+404	Barkatu.	
+405	[NO TRANSLATION]	missing translation
+406	Donovan jauna.	
+407	Zer?	
+408	Zer?	
+409	CIA, e?	
+410	Bai.	
+411	Hitz egin nahi nuen, hori besterik ez.	
+412	Zer moduz auzia?	
+413	Primeran,	
+414	ezin hobeto.	
+415	[NO TRANSLATION]	missing translation
+416	Ezer kontatu al du?	
+417	Barkatu?	
+418	Harekin egon zara.	
+419	[NO TRANSLATION]	missing translation
+420	Zerbait esan dizu?	
+421	Elkarrizketa hau ez da gertatu.	
+422	Jakina ezetz.	
+423	Ez, benetan, ez da posible.	
+424	Sekretu profesionala hausteko eskatzen didazu.	
+425	Tira, letratu.	
+426	Nahikoa horrekin.	
+427	Ez zait gustatzen hori entzutea,	
+428	eta epaile batek birritan esan dit.	
+429	Zenbat eta gehiago entzun, orduan eta gutxiago gustatzen zait.	
+430	Ulertzen dut sekretu profesionalarena.	
+431	Ulertzen ditut lege-amarruak.	
+432	Ulertzen dut bizimodua horrela ateratzen duzula.	
+433	Baina kontua bestelakoa da.	
+434	Herrialdearen segurtasuna.	
+435	Sentitzen dut azaltzeko moduak iraindu izana,	
+436	baina jakin behar dugu Abelek zer esan dizun.	
+437	Ulertzen, Donovan?	
+438	Jakin behar dugu.	
+439	Ez nirekin puritano jarri.	
+440	Hemen ez dago araurik.	
+441	Hoffman duzu izena, ezta?	
+442	Bai.	
+443	Jatorri alemana.	
+444	Bai, eta?	
+445	Nirea Donovan da,	
+446	irlandarra.	
+447	Peto-petoa, guraso biak.	
+448	Ni irlandarra naiz, zu alemana.	
+449	Zerk egiten gaitu estatubatuar?	
+450	Gauza bakar batek.	
+451	Bat, bat, bat.	
+452	Arauek.	
+453	Konstituzio dute izena, adostutako arauak dira, eta estatubatuar egiten gaituzte.	
+454	Ez esan araurik ez dagoenik, eta ez etorkorra izan.	
+455	Zutaz kezkatu beharko gara?	
+456	Ez nire lanean muturra sartzen ez baduzue.	
+457	Hemendik aurrera, U-2a ez da hegazkin espioia izango, ezta azterketa-aparatua ere.	
+458	Artikulua deituko diozue.	
+459	Hego-hedadura 24 metrokoa da.	
+460	Pratt & Whitney J57 P-37 motor bakarra,	
+461	5.000 kiloko bultzada... eta 690 kilometro ordukoko gehienezko abiadura.	
+462	Gurutzaldi-altuera, ordea, 70.000 oinekoa denez, ezer ez zaizue hurbilduko.	
+463	70.000?	
+464	Etsaiak ez du jakingo hor zaudetela.	
+465	Nahiko ahula dirudi.	
+466	Kilo soberakin bakoitzak altuera-oin bat kentzen dio, eta kamerak sartu behar ditugu.	
+467	Objektiboa 4.500 milimetrokoa, hiru bider.	
+468	Zehaztasun handiko kamera panoramikoa, inoiz erabili ditugunak baino lau aldiz indartsuago.	
+469	Argazki asko aterako dituzue.	
+470	70.000 oinetan, Artikuluak 5.000 km2 lurrari fotografiatu dezake hegaldi batean.	
+471	Orain, pilotuok, adi egon Summer agentearekin.	
+472	Misiorako erabili behar duzuena hemen izango duzue.	
+473	B kamera, Revere modeloa, 40 argazki-film, Keystone Capri K-25, zilarra.	
+474	Kirten hutseko bizar-brotxa.	
+475	Zilar-paper jangarrizko taula-zifratu sorta.	
+476	Argazki-material profesionala.	
+477	Bai,	
+478	badakigu,	
+479	eskerrik asko.	
+480	Barkatu, Bosco agentea.	
+481	Blasco.	
+482	Jauna.	
+483	Gainerako azpiatal bat omen dago zerrenda honetan.	
+484	Gauza gehienak bere apartamentukoak dira, baina gainerakoa ezkutatzen zen hotel-gelakoa.	
+485	Aurkitu genuen lekuan.	
+486	Aztertu zenuten gela?	
+487	Jakina.	
+488	Agindua daukazue?	
+489	Zer?	
+490	Bai, azaldu iezadazu hau.	
+491	Agindu bat zegoen.	
+492	Agindu bat zegoen.	
+493	Bai, atzerritar bat atxilotzeko agindua, baina ez miaketa-agindua krimen-ekintza susmoagatik.	
+494	Beraz, miaketa eta miaketan aurkitutako frogak... desegokiak dira eta ez dira onartu behar.	
+495	Ze babes merezi du?	
+496	Gizon horrek...	
+497	[NO TRANSLATION]	missing translation
+498	Rudolf Ivanovich Abel du izena.	
+499	Hiritar sobietarra da.	
+500	Ez da estatubatuarra.	
+501	1886, Yick Wo Hopkinsen aurka.	
+502	Auzitegiak erabaki zuen, atzerritarrak, txinatarrak orduan, ezin dituztela epaitu berme osorik gabe, herrialdean legez kanpo egonda ere.	
+503	Justizia Sailak zerbitzatzen ditu, lehenik eta behin, Estatu Batuak.	
+504	Ez dut ikusten nola legez kanpoko atzerritar bati... gal ditzakeen eskubideak.	
+505	Zer gisa?	
+506	Estatubatuar gisa?	
+507	Ze eskubide, letratu?	
+508	Zibilizazioaren aldeko gerra da.	
+509	Errusiar hori gure bizimodua mehatxatzera etorri zen.	
+510	Jendea zain dago.	
+511	Zoaz errusiarraren ondoan esertzera.	
+512	Amaitu dezagun behingoz.	
+513	Eta ez da eskakizuna onartuko.	
+514	Aseguru on bat kontratatu beharko du bere buruarentzat.	
+515	Zer moduz?	
+516	Hor barruan?	
+517	[NO TRANSLATION]	missing translation
+518	Ez ongi.	
+519	Ez omen zara hiritar estatubatuarra.	
+520	Egia da hori.	
+521	Eta, zure buruzagiaren arabera, ez zara sobietarra ere.	
+522	Buruzagia ez dago beti zuzen, baina buruzagia da hala ere.	
+523	Ez zara inoiz kezkatzen?	
+524	Lagunduko luke?	
+525	Zutik.	
+526	Zin egiten diot... Estatu Batuetako banderari... eta ordezkatzen duen Errepublikari, nazio bakarra, Jainkoaren pean, banaezina, guztiok askatasuna eta justizia izan dezagun.	
+527	Jakin behar duzue zer gertatzen den... bonba atomiko batek eztanda egitean.	
+528	Distira handia dago, Eguzkia baino distiratsuagoa.	
+529	Eraikinak eraitsi ditzake, hiri osoko leihoak hautsi.	
+530	Baina Bert bezala makurtu eta ezkutatzen bazarete, babestuago egongo zarete.	
+531	Bi eraso mota daude: jakinarazitakoak eta jakinarazi gabeak.	
+532	[NO TRANSLATION]	missing translation
+533	Zer da hau?	
+534	Aita, oso garrantzitsua da hau.	
+535	Gerra hastean, ura eta elektrizitatea moztuko dituzte.	
+536	Beraz, beteta eduki beharko genuke, zuen dutxa erabili, beheko konketa, lorategiko mahuka...	
+537	Oso ideia onak dira.	
+538	Baina ez dut uste honengatik kezkatu beharko zarenik.	
+539	Bai, baina sirenak entzuten ditugunean, ez dugu bainuontzia eta konketak betetzeko denbora izango.	
+540	Ez duzu sirenarik entzungo.	
+541	Zer da hori?	
+542	Bonba heltzean, komunistek Empire Statera zuzenduko dute.	
+543	Baina bonbak 3.000 metrora egingo du eztanda.	
+544	Eztanda airean deitzen diote. Eta 50 megatoikoa bada, hedatze-uhina gero eta handiagoa egingo da... eta dena urtuko du hemendik hona.	
+545	Eta bizi garen lekua ere.	
+546	[NO TRANSLATION]	missing translation
+547	Bai, hemen.	
+548	Baina inork ez digu bonba atomiko bat bidaliko.	
+549	Errusiarrek egin nahi dute.	
+550	Defendatzen duzun errusiarra...	
+551	dena prestatzen ari zen bonbak bidaltzeko.	
+552	Ez,	
+553	zen horretarako etorri.	
+554	Ez da ezta errusiarra ere.	
+555	Ingalaterran jaio zela uste dugu.	
+556	Bai, baina Errusiarentzat espiatzen du.	
+557	Ez dut ulertzen zer egiten ari zaren.	
+558	Komunista ez bazara, zergatik defendatzen duzu?	
+559	Nire lana delako.	
+560	Lehen ez zen.	
+561	Estatu Batuak... Rudolf Abelen aurkako auzian, salatzen zaion lehen karguari dagokionez, nola jotzen duzue salatua?	
+562	Erruduntzat edo errugabetzat?	
+563	Errudun.	
+564	Eta bigarren karguari dagokionez?	
+565	Errudun.	
+566	Eta hirugarren karguari dagokionez?	
+567	Errudun.	
+568	Epaiak alde batera uztea frogen pisuagatik eskatzen dut.	
+569	Ez da onartzen.	
+570	Epai-mahaiak amaitu du.	
+571	Eskerrik asko guztioi.	
+572	Nik ere gauza bera bozkatu nukeen.	
+573	Epaia jakinaraziko da... azaroaren 15ean.	
+574	Oraindik ez da erabaki heriotza-zigorra jasoko duzunik.	
+575	Ez kezkatu.	
+576	Ez naiz heriotzaren beldur, Donovan jauna.	
+577	Baina... ez litzateke nire lehen aukera izango.	
+578	Hau ahaztu zaizu.	
+579	Eskerrik asko.	
+580	Milesker.	
+581	Ez didazu inoiz galdetu salaketa benetakoa den.	
+582	Espioia naizen.	
+583	Hau da kontua.	
+584	Zure aurkako salaketa garrantzitsua da.	
+585	Erakusteko beharra garrantzitsua da.	
+586	Ustea...	
+587	Erruduna zaren edo ez ez da garrantzitsua.	
+588	Estatuak frogatu behar du espioia zarela.	
+589	Ez al duzu jakinminik?	
+590	[NO TRANSLATION]	missing translation
+591	Artistatzat hartu zaitut beti.	
+592	Nire emaztea da artista.	
+593	Musikaria da... Moskuko orkestra batean.	
+594	Zer jotzen du?	
+595	Harpa.	
+596	[NO TRANSLATION]	missing translation
+597	Orduan aingerua da.	
+598	Hor geldi... gogoratzen didazu txikitan etxera etortzen zen gizon bat.	
+599	Nire aitak esaten zidan: Begira gizon honi.	
+600	Eta hala egiten nuen etortzen zen guztietan.	
+601	Eta behin ere... ez zuen nabarmena zen ezer egiten ikusi.	
+602	Eta gogorarazten dizut?	
+603	Behin, zure semearen adina nuenean,	
+604	goardia partisanoak etxera sartu ziren.	
+605	Hamaika.	
+606	Nire gurasoak jipoitu zituzten, baita gizon horri ere, nire aitaren lagunari.	
+607	Eta nik begiratu nuen.	
+608	Jipoitzen zuten bakoitzean, zutik jartzen zen berriz ere.	
+609	Beraz, gogorrago jotzen zuten.	
+610	Eta, hala ere, berriz jartzen zen zutik.	
+611	Uste dut horri esker jipoitzen gelditu	
+612	eta bizirik utzi zutela.	
+613	Hori esan zuten.	
+614	Gutxi gorabehera, gizon sendoa.	
+615	Gizon sendoa.	
+616	Kaixo, Jim.	
+617	Millie, zoragarri zaude.	
+618	Mortie janzten ari da.	
+619	Sartu.	
+620	Whiskey, Jim?	
+621	Bai,	
+622	eskerrik asko.	
+623	Ur pixka batekin.	
+624	Jauna.	
+625	Kaixo, Jim.	
+626	Ateratzear gaude.	
+627	Minutu batzuk baino ez ditut.	
+628	Ongintzazko ospakizuna.	
+629	Millie boluntarioa da.	
+630	Eskerrik asko ni hartzeagatik.	
+631	Epaiari buruzko nire harri-koskorra ekarri nahi nuen.	
+632	Eta zure etxean ekartzea komenigarriagoa iruditu zait... nire argumentu guztiak ez direlako legezkoak.	
+633	Hala da horrelako auzietan.	
+634	Espero dut zorrotzegia ez izana epaiketan, baina zuzen zaude.	
+635	Ez da soilik legezkoa.	
+636	Beste eragile batzuk daude.	
+637	Askoz garrantzitsuagoak!	
+638	Eskerrik asko.	
+639	[NO TRANSLATION]	missing translation
+640	Jauna...	
+641	Uste dut, Estatu Batuentzat berebizikoa izan litekeela... Abel bizirik jarraitzea.	
+642	Zergatik?	
+643	Ez dut erabakia hartu, baina gobernuarekin lagundu nahi izanez gero, jada egin zukeen.	
+644	Bai, baina kontua da...	
+645	[NO TRANSLATION]	missing translation
+646	Barkatu.	
+647	Nola izan daiteke berebizikoa Amerikako Estatu Batuentzat... bere bizitza osoa gela batean igarotzea.	
+648	Ze interes dauka horrek nazioarentzat?	
+649	Espetxeratzeak ez, jauna.	
+650	Baliteke, etorkizun hurbilean, maila baliokideko estatubatuar bat harrapatzea Sobietar Batasunak.	
+651	Komeniko liguke trukatzeko norbait izatea.	
+652	Hara.	
+653	Urruneko aukerak dira.	
+654	Aspertu arte egin zenitzake.	
+655	Nire berezitasuna,	
+656	aseguruetan egiten dut lan.	
+657	Ez da zentzugabea,	
+658	gertatu liteke.	
+659	Aseguruak horrelako arrazoiengatik kontratatzen dira.	
+660	Heriotza-zigorra emanez gero, babesgabe geratuko gara.	
+661	Aseguru-polizarik gabe... ekaitza heltzean.	
+662	Hitzaldi ona.	
+663	Argumentu humanitario bat ere badago.	
+664	Hil beharko litzateke besteek agindutakoa egiteagatik?	
+665	Eskerrik asko, letratu.	
+666	Banoa.	
+667	Plazer handia izan da, Jim.	
+668	Ateraino lagunduko dizut.	
+669	Zutik.	
+670	New Yorkeko Ekialdeko Barrutiko Auzitegiak saioa hasi du.	
+671	Mortimer Byers jauna da epailea.	
+672	Eseri zaitezte.	
+673	Salatua zutitu dadila.	
+674	Auzitegi honen ustez, hurrengo zigorra, epai-mahaiaren epaia kontutan hartuta, krimenekin bat dator.	
+675	Kargu guztiez erruduntzat hartuta, akusatua Estatu Batuetako Fiskalaren eskuetara pasatuko da... aukeratuko den instituzioan espetxeratuta igarotzeko... hurrengo 30 urteetan.	
+676	Agenteok, akusatua eraman dezakezue.	
+677	[NO TRANSLATION]	missing translation
+678	Ez naute elektrokutatuko?	
+679	[NO TRANSLATION]	missing translation
+680	Ez, ez.	
+681	Zergatik ez duzue urkatzen?	
+682	Jainkoarren, zergatik?	
+683	Eseri zaitez, jauna!	
+684	Espioia da!	
+685	Bere gezurrekin hiltzen gaitu!	
+686	Zergatik ez duzue urkatuko?	
+687	Egia da!	
+688	Espioia da!	
+689	Donovan jauna!	
+690	Donovan jauna!	
+691	[NO TRANSLATION]	missing translation
+692	Galdera bat baino ez, jauna.	
+693	Nire txapela!	
+694	Nire txapela!	
+695	Nire txapela!	
+696	[NO TRANSLATION]	missing translation
+697	Donovan jaun-andreek ez dute ezer esango.	
+698	Zer sentitzen duzue amesgaiztoa amaitu ondoren?	
+699	Donovan jauna, epaiarekin bat zatoz?	
+700	[NO TRANSLATION]	missing translation
+701	Apelatzeko arrazoi sendoak ditugu.	
+702	Apelatzeko?	
+703	Bai.	
+704	Jim, lan zoragarria egin duzu.	
+705	Betebeharra gaindika lortu duzu.	
+706	Baina espioia da.	
+707	Epaia zuzena da eta ez dago zertan apelatzerik.	
+708	Arrazoiak daude,	
+709	miaketa legez kanpokoa izan zen.	
+710	Laugarren zuzenketak pisua du apelazioetan.	
+711	Aurrera egin genezake.	
+712	Zer arraio diozu?	
+713	Defentsa aproposa izan lezakeela frogatu behar genuen, eta izan du.	
+714	Zergatik aipatzen didazu konstituzio madarikatua?	
+715	Tom, begietara begira... eta esan apelatzeko arrazoirik eta alde batera utziko dut.	
+716	Ez dut hori esan,	
+717	badakizu.	
+718	Tomek dio kostea duela.	
+719	Hala da.	
+720	Zure familiarentzat zein langelarentzat.	
+721	Musikaren mira sentitzen zuen.	
+722	Ziurtatu dute irratiak ez duela igorgailurik.	
+723	Jakina baietz.	
+724	Shostakovich.	
+725	[NO TRANSLATION]	missing translation
+726	Artista handia da Shostakovich.	
+727	Uste dut... helegitea aurkezteko argumentu onenak... konstituzionalak direla.	
+728	Espero dezagun auzia Auzitegi Gorenak berrikustea.	
+729	Jim...	
+730	Kontuz ibili.	
+731	Kontuz.	
+732	[NO TRANSLATION]	missing translation
+733	[NO TRANSLATION]	missing translation
+734	[NO TRANSLATION]	missing translation
+735	[NO TRANSLATION]	missing translation
+736	[NO TRANSLATION]	missing translation
+737	[NO TRANSLATION]	missing translation
+738	[NO TRANSLATION]	missing translation
+739	[NO TRANSLATION]	missing translation
+740	Ama!	
+741	Zer gertatu da?	
+742	Laztana, ongi zaude?	
+743	Ama!	
+744	Min egin dizute?	
+745	Ni moldatuko naiz.	
+746	Igo zaitez!	
+747	Ongi zaudete?	
+748	[NO TRANSLATION]	missing translation
+749	Ongi zaude?	
+750	Ongi zaude?	
+751	Hormaren kontra eseri naiz,	
+752	[NO TRANSLATION]	missing translation
+753	leihoetatik urrun.	
+754	Primeran.	
+755	Ongi, primeran.	
+756	Lasai,	
+757	lasai.	
+758	Joan dira.	
+759	Koldarrak dira,	
+760	joan dira.	
+761	Agenteak ditugu auzokoak galdekatzen.	
+762	Baliteke autoaren deskribapena lortzea, baina ez dut uste.	
+763	Babesa behar dugu.	
+764	Hemen bi auto uzteko jarraibideak jaso ditut.	
+765	Argi dago...	
+766	Zenbat denbora?	
+767	Washingtonera joan behar dut aste honetan.	
+768	Zertan ari zara?	
+769	Zer egiten diozu zure familiari?	
+770	Barkatu, agente?	
+771	Zergatik defendatzen du oraindik tipo hori?	
+772	[NO TRANSLATION]	missing translation
+773	Nahikoa da, agente.	
+774	Ez naiz isilduko.	
+775	Omahan izan nintzen soldadu.	
+776	Ni ere armadan izan nintzen.	
+777	Haien aurka egin zenuen eta orain defendatzen dituzu?	
+778	Polizia-agentea zara.	
+779	Sentitzen dut.	
+780	Itxaron kanpoan.	
+781	Goazen.	
+782	[NO TRANSLATION]	missing translation
+783	[NO TRANSLATION]	missing translation
+784	Zer ez dut ulertzen?	
+785	Kanpora, agente.	
+786	Sentitzen dut.	
+787	Espioi komunista defendatzea!	
+788	Jainkoarren!	
+789	Merezi duzula uste duzu?	
+790	Beharrezkoa balitz gailua uztea lurralde sobietarrean, 1,13 kg-ko karga leherkorra dago fuselaje barruan.	
+791	Lehenik eta behin, sistemak aktibatu.	
+792	70 segundoko tenporizadorea... autosuntsiketa kommutagailuarekin aktibatzen da.	
+793	Ezinbestekoa da hegaldi hauek isilean mantentzea... ekipamendu hau etsaien eskuetan ez amaitzea.	
+794	Eta gu?	
+795	Ez dakit txantxetan ari zaren, Powers tenientea.	
+796	Ni ez.	
+797	Hegazkinari buruz dakizuena hegazkina bezain sekretua da.	
+798	Harrapatzea saihestezina bada, hegazkinarekin eroriko zarete.	
+799	Ihes egin dezakezuela uste baduzue, eta mugatik gertu bazaudete,	
+800	eiekzio-protokoloa ezagutzen duzue.	
+801	Baina ihes egingo baduzue... eraman dolarra zuekin.	
+802	Barruan orratz bat dago.	
+803	Atzamarka bakarra, edonon, berehalakoa da.	
+804	Harrapatuko zaituztela uste baduzue, erabili ezazue.	
+805	Ulertzen, pilotuok?	
+806	Dolarra gastatu.	
+807	Auzitegiko jauna eta epai-mahaikideok,	
+808	Gerra hotza ez da soilik esaera bat, jauna.	
+809	Ez da hitz egiteko modua.	
+810	Argi dago gerra egiten ari dela... mundua ikusteko kontrako bi ikuspunturen artean.	
+811	Ziurtatzen dizuet Rudolf Ivanovich Abel, Abel koronela, deitu zuten moduan are atxilotu zutenak ere, gure etsaia dela gerra horretan.	
+812	Energia osagarria?	
+813	Piztuta.	
+814	Oxigeno hornidura?	
+815	Presioa 5,25 baretan.	
+816	Inbertsorea?	
+817	Piztuta.	
+818	Borrokalaritzat hartu zuten gerra horretan... gobernuarentzat horrela tratatzen gelditzea komeni zitzaion arte.	
+819	Gure hiritarrei bermatzen dizkiogun babesa ezeztatu zitzaion, beraz.	
+820	Etsaiarentzat egokia izan daitekeen tratua jaso arren, ez da egokia balizko kriminalentzat.	
+821	Erregaia?	
+822	Ontzi-aldaketa desaktibatuta.	
+823	Autosuntsiketa?	
+824	Asegurua aktibatuta.	
+825	Igoera profila.	
+826	Hegazkinean instalatuta.	
+827	Gizon hau ezagutzen dut.	
+828	Salaketa egiazkoa izanez gero, sobietarrekiko leiala litzateke.	
+829	Etsaien armadako soldadu gisa, soldadu ona da.	
+830	Ez zuen bataila-eremutik ihes egin bere burua salbatzeko.	
+831	Uko egin zion harrapatzaileari laguntzeari.	
+832	Uko egin dio bere kausa saltzeari.	
+833	Uko egin dio koldar gisa portatzeari.	
+834	Koldarrak duintasuna uzten du bataila-eremua baino lehen.	
+835	Rudolf Abelek ez du inoiz hori egingo.	
+836	Ez genioke, gure gobernu-sistema zehazten duten... berme legalak erakutsiz, nor garen?	
+837	Nor garen.	
+838	Ez al da hori Gerra Hotzean daukagun arma onena?	
+839	Geure kausa defendatuko dugu... hark berea defendatzen duen baino erabakitasun gutxiagorekin?	
+840	Presidenteak jakinarazi du NASAko hegazkin meteorologiko bat... desagertu dela duela 4 egun Turkiako iparraldean.	
+841	SAk uste du pilotua istripuan zendu dela.	
+842	Radarrak baieztatu du hegazkina desbideratu zela... lurralde sobietarrean sartuz kontaktua galdu aurretik, beraz, konplikatuko dira berreskuratzeko esfortzuak... baita gorpua ere.	
+843	Orain, Washington.	
+844	Bozketa lehiatuan, Auzitegi gorenak berretsi du Rudolf lvanovich Abelen zigorra... bost boto lauren aurka.	
+845	Auzia askatasun zibiletan ardaztu zen... James B. Donovan abokatuaren arabera.	
+846	Galdu ondoren nola sentitzen zen galdetu ondoren, Donovan jaunak soilik esan zuen: Nekatuta.	
+847	Berri gehiago iragarki hauen ondoren.	
+848	[NO TRANSLATION]	missing translation
+849	Amaitu da.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	Ez dut Prudential kasuaren txostena aurkitzen.	
+853	Watters jaunak eskatu zidan Jack Elwesen bulegora bidaltzeko. Eta apelazioaren zirriborroa.	
+854	Benetan?	
+855	Bai, berridatzi eta aurkeztu zuen Washingtonen zeunden bitartean.	
+856	Noiztik egiten dugu lan elkarrekin?	
+857	Ez ditut tratuak ixten?	
+858	Bilera bat antolatu.	
+859	Leku dotore batean.	
+860	Young jaunari gustatuko zaizkio New Yorkek dituen fintasunak.	
+861	Eta bidali txosten bat...	
+862	Leipzigen inor ezagutzen duzu?	
+863	Leipzig.	
+864	Orain Alemaniatik ere iraintzen naute?	
+865	Ekialdeko Alemaniatik.	
+866	Zure emaztea al da?	
+867	Ez.	
+868	Ez, ez.	
+869	Izatearen plantak egiten ditu, baina oso traketsa da.	
+870	Idazteko atrebentzia izan dut... egunkarietan irakurri ondoren... izan duen jarrera onberari buruz nire Rudolf Abel maitearekiko.	
+871	Erantzungo diot?	
+872	Jakina.	
+873	Zer egin behar da ez dakigunean zertan jolasten ari garen?	
+874	Francis Gary Powers...	
+875	lege sobietarraren bigarren artikulua betez, estatuaren aurkako erantzukizun kriminalei buruzkoa, zigortzen zaituztegu 10 urtez giltzapetzera, lehenengo hiru urteak espetxean izango direla.	
+876	Zigorraren iraupena, behin-behineko espetxea barne, 1960eko maiatzaren 1ean hasiko da.	
+877	Donovan jauna, eskerrik asko etortzeagatik.	
+878	Plazer handia da, Dulles jauna.	
+879	Plazer handia.	
+880	Berehalakoa, esnea eta bi koxkor.	
+881	Eskerrik asko.	
+882	Jaso zenuen gutunaren arabera,	
+883	argi dago sobietarrek hurreratzea nahi dutela.	
+884	Ekialdeko Alemaniaren bidez egin dute ez dutelako Abel... hiritar sobietartzat onartu nahi, are gutxiago espioitzat.	
+885	[NO TRANSLATION]	missing translation
+886	Itxura handia dago.	
+887	Bai, jauna, baina ze asmorekin?	
+888	Gure pilotu espioia daukate haiek,	
+889	guk bere agentea.	
+890	Argi dago trukea nahi dutela.	
+891	Ez zintuzke harritu behar,	
+892	aurreikusi baizenuen.	
+893	Bai, eta ez naiz ia inoiz zuzen.	
+894	Zorionak,	
+895	egun hori markatu.	
+896	Gure pilotua daukate,	
+897	Powers.	
+898	Gizon jatorra, baina informazio isilaz beteta.	
+899	Abelek ere, baina ez du tutik ere esan.	
+900	Ziur ez duela deus esango.	
+901	Bai, badakigu, baina errusiarrek ez.	
+902	Eta berreskuratu nahi dute amore eman aurretik.	
+903	Eta guk Powers nahi dugu arrazoi beragatik.	
+904	Ulertzen dut guztiontzako amaiera zoriontsua izan litekeela.	
+905	Bai, kontra egiten ez badiegu.	
+906	Trukea negoziatu dezazun nahi dugu. Partikularra zara, gobernuek ez dute aurre egin beharko.	
+907	Ez dute Abel hiritar sobietartzat onartzen, eta guk ez dugu Ekialdeko Alemania herrialde subiranotzat hartzen.	
+908	Ez dugu egin sobietarrek 1945ean beretu zutenetik.	
+909	Beraz, nik negoziatuko nuke noren izenean?	
+910	Inoren izenean ez.	
+911	Ez zara funtzionarioa,	
+912	ez duzu kargu ofizialik.	
+913	Beraz, itxurak ere gure aldetik.	
+914	Hala da.	
+915	Beraz, ez duzu... laguntzarik jasoko dena pikutara badoa.	
+916	CIA ezin da erantzule izan.	
+917	Ezin gara gaizki gelditu.	
+918	Non izango da negoziazioa?	
+919	Han.	
+920	Han?	
+921	Ekialdeko Berlinen.	
+922	Egoera ez al da...	
+923	Bai, nahiko konplikatua.	
+924	Bai, konplikatua.	
+925	Alde sobietarrak denbora luze darama kontrolguneak instalatzen... jendea mendebaldera ez joateko, eta ez du funtzionatu.	
+926	Gure txostenen arabera, haratago joango dira... eta ekialdeko alde osoa harresi batekin bakartuko dute.	
+927	Listo, hori da laburpena.	
+928	Erabakia zure eskuetan dago.	
+929	Hausnartzeko denbora beharko duzu.	
+930	Ez.	
+931	Ez dut denborarik behar.	
+932	Ongi, primeran.	
+933	[NO TRANSLATION]	missing translation
+934	Hau guztia isilekoa izango da.	
+935	Ez hau ez Maryri ez inori kontatu.	
+936	Posta-trukea gurekin baino ez ezazu partekatu.	
+937	Jakin behar dugu zer nahi duten eta noiz.	
+938	Ez daukat ez bezerorik, ez emazterik, ez herrialderik.	
+939	Ez dakit zer egingo dudan noiz ezta norentzat.	
+940	Zure herrialdeagatik egingo duzu, baina herrialdeak oraindik ez daki.	
+941	Eta nire bezeroa, operazioaren beste laguna,	
+942	nire gizona?	
+943	[NO TRANSLATION]	missing translation
+944	Errusiarra?	
+945	Jada ez da zure gizona.	
+946	Orain zure gizona Francis Gary Powers da.	
+947	Zer esango diot Rudolf Abeli?	
+948	Ez hiltzeko.	
+949	Irakasle?	
+950	Irakasle?	
+951	Aita unibertsitatera joan da.	
+952	Ez zenuke hemen egon behar.	
+953	Gaur eskolak ematen ari dira?	
+954	Hori ikustera joan da.	
+955	[NO TRANSLATION]	missing translation
+956	Zertan zabiltza hemen?	
+957	Zuengatik etorri naiz.	
+958	Nirekin etorri behar zarete,	
+959	agian bihar ezingo duzue.	
+960	[NO TRANSLATION]	missing translation
+961	Joan? Besterik gabe?	
+962	[NO TRANSLATION]	missing translation
+963	Bai, joan.	
+964	Oraintxe bertan.	
+965	Zoaz,	
+966	bueltatu etxera.	
+967	Ez da ezer, estatubatuarra naiz.	
+968	[NO TRANSLATION]	missing translation
+969	Zoaz zure aitarekin.	
+970	Zerbait bururatuko zaigu.	
+971	[NO TRANSLATION]	missing translation
+972	[NO TRANSLATION]	missing translation
+973	Kaixo.	
+974	Paperak, mesedez.	
+975	Ich bin Student Frederic Pryor.	
+976	Bai, Student.	
+977	Frederic Pryor dut izena.	
+978	Ekonomia ikaslea.	
+979	Ikusten?	
+980	Hau nire lana da,	
+981	nire tesia.	
+982	[NO TRANSLATION]	missing translation
+983	[NO TRANSLATION]	missing translation
+984	Europako nazio komunisten kanpo-merkataritza sistema.	
+985	[NO TRANSLATION]	missing translation
+986	Oso lan handia izan zen.	
+987	Ez, nire kopia bakarra da.	
+988	Ez!	
+989	Kontaidazu zerbait.	
+990	Azken momentukoa izan da.	
+991	Londresen bulegoak dituzte.	
+992	Horiek dira bezeroak, horiek.	
+993	Ez da nire ideia izan.	
+994	Eskozia, arrantzan joan nahi dute.	
+995	Zer arrantzatu, Jim?	
+996	Izokinak, nik uste.	
+997	Esan ez zarela arriskuan egongo, negozio normala dela eta ez naiz kezkatuko.	
+998	Pasaportea behar dut.	
+999	Emaidazu heltzeko zerbait,	
+1000	berdin dit egia ez izatea.	
+1001	Gugatik egingo dut.	
+1002	Michener jauna izango da zure gida Berlinen.	
+1003	Estatu Batuetako enbaxadako agregatua da.	
+1004	Gauzak izugarri zaildu dira.	
+1005	[NO TRANSLATION]	missing translation
+1006	Abel andrearen gutunak, edonor dela ere, Vogel delako abokatua aipatzen du, bere interesak ordezkatuko dituena.	
+1007	Vogelek Errusiako enbaxadarekin hitz egin omen du Berlinen... eta baliteke prest egotea Abel Powersengatik trukatzeko.	
+1008	Ez dakigu nor den nor. Guztiak errusiarrak izango dira.	
+1009	Beno, sobietarrak.	
+1010	Hala uste dugu.	
+1011	Zer esan nahi duzu?	
+1012	Berogailua igo dezakezue?	
+1013	Traba bat dago.	
+1014	Aginagako izenez Frantziatik ekarri nahiko dizute.	
+1015	Saiatuko dira Powers ez den presoa onartuarazten.	
+1016	Beste estatubatuar bat?	
+1017	Stasi alemaniarrak ikasle bat atxilotu du,	
+1018	Frederic Pryor.	
+1019	Beste aldean geratu zen mutikoa.	
+1020	Tesia egiten ari da Yalen,	
+1021	eta Ekonomia ikasten ari da hemen.	
+1022	[NO TRANSLATION]	missing translation
+1023	Espioitzaz epaitu nahi dute.	
+1024	Delitu larria, heriotza-zigorrekoa.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel jarri zen harremanetan, Pryor ordezkatzen omen du.	
+1027	[NO TRANSLATION]	missing translation
+1028	Vogelek Abel andrea eta mutikoa ordezkatzen ditu?	
+1029	Oso langilea omen da.	
+1030	Nongoa da Vogel?	
+1031	Ekialdeko alemana edo errusiarra?	
+1032	Bihar jakingo duzu.	
+1033	Enbaxada sobietarrean, Ekialdeko Berlinen, eguerdian.	
+1034	Hoffmanek nola heldu azalduko dizu.	
+1035	Zer azalduko dit?	
+1036	Lagunduko dit, ezta?	
+1037	Ezta?	
+1038	Hori zen asmoa, baina traba bat dago.	
+1039	Ni ez naiz joango.	
+1040	Erabakia sendoa da.	
+1041	Estatu Batuetako funtzionarioek ezin dute muga zeharkatu.	
+1042	Zergatik ez?	
+1043	Arriskutsua da.	
+1044	Mutiko hori atxilotu zuten.	
+1045	Zigorgabetasun maila handitu da aurreikusi aurretik.	
+1046	Kontua da balitekeela alemanen eta errusiarren asmoak... bat ez etortzea.	
+1047	Jakin ezazu	
+1048	eta tratua itxi.	
+1049	Powers Abelen truke.	
+1050	Eta ikaslea, Pryor?	
+1051	[NO TRANSLATION]	missing translation
+1052	Ez zaituztela limurtu.	
+1053	Aurrerago arduratuko gara.	
+1054	Powers da garrantzitsuena.	
+1055	Zein da zure gela?	
+1056	Hiltonean geratuko naiz.	
+1057	Gertu dago.	
+1058	Hau Mendebaldeko Berlineko zenbakia da.	
+1059	Buruz ikasi eta bueltatu iezadazu.	
+1060	Ez,	
+1061	[NO TRANSLATION]	missing translation
+1062	oraintxe bertan.	
+1063	Sobietarrek nazioarteko lineak moztu dituzte, baina bertako deiek funtzionatzen dute.	
+1064	Norbaitek erantzungo du, egunez zein gauez.	
+1065	Zure pasaporteari erantsitako dokumentu honek... alde sobietarrean sartu eta ateratzeko balio izango dizu.	
+1066	Vogelekin bilduko zara bihar eguerdian.	
+1067	Ekialderako sarrera gutxi geratzen dira.	
+1068	Hartu S-Bahn-a erakutsi dizudan geltokian.	
+1069	Jaitsi Friedrichstrassen, hemen, eta oinez joango zara enbaxada sobietarrera.	
+1070	Mapa ikasi ezazu,	
+1071	ezin izango duzu eraman.	
+1072	Mapa batekin ikusten bazaituzte estatubatuarra izanda, espioia zara,	
+1073	eta atxilotu zintuzkete.	
+1074	Ez jendearekin harremana izan.	
+1075	[NO TRANSLATION]	missing translation
+1076	Atzerritarra zara, ez nabaria izan.	
+1077	Janaria eskasa da, eta dena gainbeheratzen ari da.	
+1078	Bandak daude eta legeak ez du hainbesteko indarra.	
+1079	Eta ez Harresira gerturatu.	
+1080	Eraikinik gabeko zerrenda bat dago beste aldean.	
+1081	Heriotzaren Zerrenda da.	
+1082	Zeharkatzen baduzu, hilko zaituzte.	
+1083	Baliteke atxilotuta edo hilda ez amaitzea?	
+1084	Ez kezkatu Michenerrek esandakoagatik.	
+1085	Ez, zeuk esandakoak kezkatzen nau.	
+1086	Mutikoak, Pryor, alemanek atxilotu dutena, zenbat urte ditu?	
+1087	Hogeita bost,	
+1088	zergatik?	
+1089	Dougiek duen adina.	
+1090	Nor?	
+1091	Nire laguntzaileetako bat.	
+1092	[NO TRANSLATION]	missing translation
+1093	Lasai, lasai.	
+1094	[NO TRANSLATION]	missing translation
+1095	Barkatu ofenditzen bazaitugu.	
+1096	[NO TRANSLATION]	missing translation
+1097	Berokia?	
+1098	Ongi.	
+1099	Galdera bat egin diezazuket?	
+1100	Bai, jauna.	
+1101	James Donovan dut izena.	
+1102	Vogel jaunarekin biltzekoa naiz.	
+1103	Vogel jauna.	
+1104	Ez du hemen egiten,	
+1105	baina hemen bilduko gara.	
+1106	[NO TRANSLATION]	missing translation
+1107	Donovan jauna!	
+1108	Azkenik ezagutzen zaitugu.	
+1109	Helen Abel naiz.	
+1110	Zer moduz dago nire senarra?	
+1111	[NO TRANSLATION]	missing translation
+1112	Ongi.	
+1113	Zer moduz nire Rudolf?	
+1114	Nahiko ongi.	
+1115	Gurekin bueltatuko da?	
+1116	Hau gure alaba da.	
+1117	Urte askotarako.	
+1118	Lydia.	
+1119	Zeu zara Vogel jauna?	
+1120	Ez, ez,	
+1121	ni ez naiz Vogel.	
+1122	Drews lehengusua naiz.	
+1123	Rudolfen lehengusu maitea, Drews.	
+1124	Bai, Drews.	
+1125	Drews lehengusua.	
+1126	Drews lehengusua, bai.	
+1127	Ni Helen Abel naiz.	
+1128	Noiz ikusiko duzu?	
+1129	Noiz askatuko du gobernuak?	
+1130	Pixka bat nahasita nago.	
+1131	Vogel jaunarekin biltzekoa nintzen.	
+1132	Vogel jauna gure abokatua da.	
+1133	Trukea negoziatu behar nuen.	
+1134	Rudolf ekartzeko?	
+1135	Rudolf ekartzeko.	
+1136	Baina ezin du alde bateko negoziazioa izan, ulertzen?	
+1137	Trukea da.	
+1138	Ez dago hemen?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Donovan jauna?	
+1143	Vogel jauna.	
+1144	Ez, ez.	
+1145	[NO TRANSLATION]	missing translation
+1146	Schischkin naiz,	
+1147	Ivan Schischkin.	
+1148	Enbaxada sobietarreko bigarren idazkaria.	
+1149	Ez litzateke aproposa izango Vogel jauna hona etortzea.	
+1150	Hiritar alemana da.	
+1151	Beraz, zu etorri zara...	
+1152	Bilera errazteko.	
+1153	Abel andrea, pribatuan lasaitu nahi duzu?	
+1154	Donovan jauna eta biok hitz egin dezagun?	
+1155	Eskerrik asko.	
+1156	Nahastuta nago.	
+1157	Bai.	
+1158	Ez dit axola norekin hitz egin trukeari buruz bada.	
+1159	Zurekin hitz egin behar dut?	
+1160	Bai, jakina,	
+1161	hitz egin behar dugu.	
+1162	Eseri zaitez, Donovan jauna.	
+1163	Nola heldu zara ekialdeko aldera?	
+1164	Trenez,	
+1165	S-Bahnean.	
+1166	Bakarrik etorri zara?	
+1167	Bai.	
+1168	Eta akreditatuta zaude?	
+1169	Ziurrenik badakizu hiritar partikularra naizela.	forced duplication
+1170	Ziurrenik badakizu hiritar partikularra naizela.	forced duplication
+1171	Abokatua naiz Brooklynen, Estatu Batuetan, eta denbora baliotsua eman dut Rudolf Abel bezeroari laguntzeko.	
+1172	Baimena eman didate Abel trukatzeko... Francis Gary Powersengatik.	
+1173	Hau da Abelen barkamen osoa, trukea egin ondoren sinatuko da.	
+1174	Horregatik baino ez naiz etorri.	
+1175	Espero dut bizkor heltzea tratu batera.	
+1176	Abel Francis Gary Powersengatik... eta Frederic Pryorrengatik.	
+1177	Ez daukagu Pryor.	
+1178	Ez?	
+1179	Ziur?	
+1180	Hari buruz entzun dut, baina Alemaniako Errepublika Demokratikoaren eskuetan dago, ez Sobietar Errepublika Sozialisten Batasunen eskuetan.	
+1181	Hona lehen arazoa.	
+1182	Zuen herrialdeen izenak luzeegiak dira.	
+1183	Bai, bai.	
+1184	Powers askatzen badugu, gure herrialdeen arteko borondatea sustatzeko baino ez da izango.	
+1185	Beraz, ez da trukea izango.	
+1186	[NO TRANSLATION]	missing translation
+1187	Agian Abel askatu zenezakete... Alemaniarekiko borondate onezko keinu gisa, eta hilabete batzuk geroago, guk Powers askatuko genuke.	
+1188	Ideia ona da.	
+1189	Ez,	
+1190	horrek ez digu balio.	
+1191	Trukea izan behar du.	
+1192	Nahi duzun moduan deitu, baina trukea izan behar du.	
+1193	Abel hemen egon daiteke 48 ordu barru.	
+1194	Powers izan nahi dugu Abel emango dugun aldi berean.	
+1195	[NO TRANSLATION]	missing translation
+1196	Horri...	
+1197	plan pairugabea deituko nioke.	
+1198	Deitu nahi duzun moduan.	
+1199	Plan pairugabea Moskura bidali dezaket,	
+1200	baina jakin nahiko dute zergatik hainbesteko erretasuna.	
+1201	Hoztu naizelako.	
+1202	Ez naiz Berlinen bizi eta etxera bueltatu nahi dut.	
+1203	Pentsatuko dute: Ziur estatubatuarrek... lortu dute Abelek eman zezakeen informazio guztia.	
+1204	Orain trukea egiteko irrikaz daude... Powers berreskuratzeko itxaropena izanda, balitekeelako eman diezagukeen informazio guztia ez ematea.	
+1205	Ez da truke zuzena, jauna.	
+1206	Powersek eman balu dakien guztia, Moskuk trukatuko luke, beraz?	
+1207	Argi dago.	
+1208	Abeli dagokionez, hiltzen bada Estatu Batuetako espetxe batean, harrapatzen dugun hurrengo agenteak bitan pentsatu gabe hitz egingo du.	
+1209	Batek daki,	
+1210	agian Abelek nahiko luke kalean egotea... eta sekretuak ematea erabakitzea guri mesedeak egitearen truke.	
+1211	Nola jakin dezakegu?	
+1212	Gu peoiak gara, gure lana egiten dugu.	
+1213	Powers tenienteak bezala.	
+1214	Pilotua baino ez da.	
+1215	Argazkiak ateratzen ari zen 70.000 oinetan... hegazkina lurrera bota zutenean.	
+1216	Nire herrialdean gerra-ekintza da hori.	
+1217	Itzulinguruka ibiltzen gelditu behar dugu.	
+1218	Gure herrialdeen hurrengo akatsa azkena izan liteke.	
+1219	Gure gobernuek ezin izan dezaketen elkarrizketa izan behar dugu.	
+1220	Moskuri galdetuko diot.	
+1221	Ez dakit zer esango duten.	
+1222	Donovan jauna, askok ez dute nahi truke hau gertatzea.	
+1223	Bihar goizean bueltatu zaitezke... erantzuna eztabaidatzeko?	
+1224	Powers Abelen truke.	
+1225	Eta Frederic Pryor.	
+1226	Esan dizunez, Alemaniako Errepublika Demokratikoak... dauka Pryor.	
+1227	Ziur lortu dezakezula.	
+1228	Atzerriko herrialde bateko enbaxada bateko idazkaria baino ez naiz.	
+1229	Ados, ados.	
+1230	Hitz egin Vogel jaunarekin.	
+1231	Bere helbidea emango dizut.	
+1232	Beraz, Vogel jauna existitzen da?	
+1233	Zerk pentsarazi dizu ezetz?	
+1234	Taxi bidez ibilbide laburra da.	
+1235	Mesedez, Donovan jauna, berokia jarri, hotz egiten du.	
+1236	Neramana lapurtu didate.	
+1237	Zer espero zenuen?	
+1238	Bosgarren Etorbideko Saksekoa zen.	
+1239	Ezta?	
+1240	Donovan jauna.	
+1241	Vogel jauna.	
+1242	Sartu, mesedez.	
+1243	[NO TRANSLATION]	missing translation
+1244	Sentitzen dut enbaxadakoa.	
+1245	Sobietarrek ez zidaten sartzen utzi.	
+1246	Oso minduta nago.	
+1247	Oraindik ez dut ulertzen ze posizio duen...	
+1248	Jokalari bakoitzak?	
+1249	Bai,	
+1250	eta ze interes duzun.	
+1251	[NO TRANSLATION]	missing translation
+1252	Mundu berri batean gaude.	
+1253	Oso nahasia da guztia, ezta?	
+1254	Zer eskaintzen dizudan esango dizut.	
+1255	Lagun ona naiz...	
+1256	Lagun,	
+1257	ez, helduagoa da.	
+1258	Begikoa?	
+1259	Alemaniako Errepublika Demokratikoaren fiskalaren begikoa.	
+1260	Eseri zaitez.	
+1261	Zoritxarrez, Frederick Pryor... leku okerrean zegoen une okerrean.	
+1262	Baina istripu oro, ongi hausnartuz gero, aukera bat da, ezta?	
+1263	Ez dakit.	
+1264	Zure herrialdeak ez du Alemaniako Errepublika Demokratikoa onartuko.	
+1265	AED ez dela existitzen esatea nahiago duzue.	
+1266	Sentitzen dut.	
+1267	Zure gobernuari errealitate hau onartzera premiatzeko, zu hemen baizaude, AEDan, fiskalak zurekin negoziatuko du zure gobernuaren ordezkari gisa... Pryor jauna bueltatu dadin.	
+1268	Vogel jauna, ez nago hemen nire gobernuaren ordezkari gisa.	
+1269	Ados.	
+1270	Hori haurrentzakoa iruditzen zait.	
+1271	[NO TRANSLATION]	missing translation
+1272	Ez daukat kargu ofizialik.	
+1273	Ongi.	
+1274	Zuk ez dituzu EEBBak ordezkatzen, nik ez dut AEDa ordezkatzen.	
+1275	Nire bezeroa Lydia Abel da, Rudolfen emaztea.	
+1276	Eta...	
+1277	Lydia alaba da.	
+1278	Helen da emaztea.	
+1279	Tira,	
+1280	Frederic Pryor eskaini dezaket Rudolf Abelen truke.	
+1281	Argi hitz egin dezagun.	
+1282	Guk Rudolf Abel emango dugu.	
+1283	Zuek, aldi berean, Pryor ikaslea emango diguzue.	
+1284	Aldi berean.	
+1285	Jakina.	
+1286	Proposatutako trukea da errusiar bat bere gainbeheran... bere bizitza hastear duen ikasle estatubatuar baten truke.	
+1287	Schischkin?	
+1288	Ez da enbaxadako idazkaria.	
+1289	Ivan Schischkin KGBko agentea da Mendebaldeko Europan.	
+1290	Edonor dela ere, proposamena Moskuri jakinaraziko dio... eta haiek erabakiko dute.	
+1291	Beroki bat utziko didazue?	
+1292	Nirea galdu dut.	
+1293	Nola galdu dezakezu beroki bat?	
+1294	Espioien gorabeherak.	
+1295	Beste beroki bat ekarriko dizut.	
+1296	Eskerrik asko.	
+1297	Nor da delako Vogel hori?	
+1298	Egia esan, ez dakigu.	
+1299	Baliteke esandakoa egia izatea,	
+1300	fiskalaren lagun bat.	
+1301	AEDak honetaz arduratzeko aukeratu zuen tipoa.	
+1302	Ekialdeko Alemaniak mahaian esertzeko borrokatzen ari omen da.	
+1303	AEDak Abel berreskuratu nahi du Errusiarentzat, errespetua lortu...	
+1304	eta bere kausaren alde egin dezaten.	
+1305	Horrek Ekialdeko Alemania mapan jarriko luke.	
+1306	Baina bere mapak ez digu axola.	
+1307	Segi errusiarrekin.	
+1308	Kontzentratu zaitez.	
+1309	Powers Abelen truke.	
+1310	Beraz, baliteke gertatzea?	
+1311	Bai, hala dirudi.	
+1312	Abel hegazkinera igo eta ostiralean hemen egon daiteke.	
+1313	Schischkinek baiezkoa lortuz gero, zehaztasunak soilik geratuko dira.	
+1314	Nola trukatu gure gizona eta berea.	
+1315	Gure gizonak.	
+1316	Biak.	
+1317	Powers eta Pryor.	
+1318	Ez, ez zaitez tartean sartu.	
+1319	Powers da nahi duguna.	
+1320	Ahaztu ikasle bikain hori, pentsatu zuenak ideia ona zela... ekonomikoa sobietarra aztertzea Berlinen Gerra Hotzean.	
+1321	Powers da nahi duguna.	
+1322	Ez duzu Powers gogoko.	
+1323	Guztiek gorroto dute Powers.	
+1324	Ez zuen buruaz beste egin, komunistek telebistan eman zuten.	
+1325	Estatu Batuetako gizon gorrotatuena da.	
+1326	Rudolf Abelen atzetik, beharbada.	
+1327	Eta nire atzetik.	
+1328	Esnatu!	
+1329	Lo egin behar dut.	
+1330	Lo egin behar dut.	
+1331	Lo egingo duzu hitz egiten amaitu ondoren.	
+1332	Nigan kontzentratu zaitez.	
+1333	Gobernuari ez diozu axola,	
+1334	badakizu.	
+1335	Ez diozue axola.	
+1336	Badakizu 12 pilotuk garun-kalteak dituztela?	
+1337	Begetal daude altitudeagatik eta oxigeno faltagatik.	
+1338	Baina hegan egiten jarraituarazten dizuete.	
+1339	[NO TRANSLATION]	missing translation
+1340	Hau eman zizueten.	
+1341	Orratz bai, ezta?	
+1342	Potasio-zianuroa.	
+1343	Hau egingo lizukete axola baliezu?	
+1344	Nola dago osatuta autosuntsiketa unitatea?	
+1345	Nola aktibatzen da?	
+1346	Ze karga lehergarria dauka... eta ze leherketa-gaitasun dauka?	
+1347	Ez dakit.	
+1348	Pilotuok ez dugu inoiz makineria ikusten.	
+1349	Zenbat aztertzen du radarrak eremu baten gainetik hegan egitean?	
+1350	Ez dakit, ez dakit!	
+1351	Apirilaren 9an, zeuk egin zenuen hegan... Baranovichiko industrialgunea eta MiG bonbaketarien eremua?	
+1352	Ez,	
+1353	nire lehen hegaldia izan da.	
+1354	Motorraren gaitasuna eta hego-zabalera nahi ditut.	
+1355	Nola igotzen du hainbeste?	
+1356	Badakigu 70.000 oineko altuerara heltzen dela.	
+1357	Badakigu, Gary.	
+1358	Eta jakin nahi dut zeren gainean egin duzuen hegan.	
+1359	Non egin duzue hegan, Gary.	
+1360	Orain hitz egin behar dugu.	
+1361	Orain.	
+1362	Ondoren lo egingo duzu.	
+1363	Esnatu, jauna.	
+1364	Esnatu, jauna.	
+1365	Jauna, nirekin etorriko zara?	
+1366	Bai.	
+1367	Bizkor.	
+1368	Bai, jakina.	
+1369	Nirekin etorriko zara?	
+1370	Bai.	
+1371	[NO TRANSLATION]	missing translation
+1372	Betaurrekoak dituzu?	
+1373	[NO TRANSLATION]	missing translation
+1374	Ze ordu da?	
+1375	Berandu, baina hitz egin behar dugu... eta ondoren hegazkin bat hartu behar dugu, ados?	
+1376	Bai.	
+1377	Bai.	
+1378	Zutik!	
+1379	Zutik, bai.	
+1380	Hori da.	
+1381	[NO TRANSLATION]	missing translation
+1382	Segi aurrera.	
+1383	Eskerrik asko.	
+1384	Beste aldera.	
+1385	Goazen.	
+1386	Hegazkin bat?	
+1387	Hemendik, mesedez.	
+1388	Segi.	
+1389	Moskuk baiezkoa eman dit zure proposamenarekiko, AEDeko lagunei lagunduko diegu... Powers jauna eta Abel jauna trukatuz.	
+1390	Primeran.	
+1391	Glienicken zubian egin dezakegu trukea?	
+1392	Zergatik ez Charlie kontrolgunea?	
+1393	Ez, ez dugu publizitaterik nahi.	
+1394	Glienicke zubia oso lasaia da, batez ere goizean goiz.	
+1395	Glienicke zubia,	
+1396	berehala jakinaraziko dut.	
+1397	Abel ostiralean hemen egon daiteke,	
+1398	zer iruditzen zaizue larunbata?	
+1399	Beti presaka, ezta?	
+1400	Nire ohean lo egin nahi dut.	
+1401	Larunbat goizean?	
+1402	Goizeko bost eta erdietan?	
+1403	Ados.	
+1404	Listo.	
+1405	Tori zenbaki bat ezusteko bat egotekotan.	
+1406	Eskerrik asko.	
+1407	Erantzungo dute edozein ordu izanda ere.	
+1408	Ez dut uste erabili beharko dugunik.	
+1409	Topa egingo diogu tratuari?	
+1410	Bai, jakina.	
+1411	Armeniako brandya.	
+1412	Bikaina hotzaren aurka.	
+1413	Eskerrik asko.	
+1414	Zera...	
+1415	Ez da tratuaren parte, baina galdera pare bat dauzkat.	
+1416	Ez duzu zertan erantzun.	
+1417	Dakidana erantzungo dut.	
+1418	Zuen gizona gogoko dut.	
+1419	Zer gertatuko zaio etxera bueltatu ondoren?	
+1420	Zuen agentea den zehaztu beharko dugu.	
+1421	Esan dudan moduan, leial mantendu da.	
+1422	Zuen gizona da, ziur egon.	
+1423	Jakina, hori esango zenuke egia balitz... eta ez balitz.	
+1424	Gauzak horrela dira.	
+1425	Barkatu tematzeagatik, baina arriskuan egongo da ondorio horretara helduz gero?	
+1426	Nola esan.	
+1427	Gauzak dagoen moduan, guztiak gaude arriskuan.	
+1428	Topa.	
+1429	[NO TRANSLATION]	missing translation
+1430	Ez da trukerik egongo Glienicke zubian.	
+1431	Zer, jauna?	
+1432	Ez dela trukerik egongo.	
+1433	Ez Frederic Pryorren truke.	
+1434	Vogel jauna, atzo adostu genuela uste nuen.	
+1435	Abel eta Pryor trukatzea adostu genuen.	
+1436	Jakin dut txerpolaria zarela, kinkila bera saltzen diozula bi erosleri.	
+1437	Abel Pryorren truke eman zenigun.	
+1438	Bai.	
+1439	Eta sobietarrei eskaini diezu Abel Powersen truke.	
+1440	Ez dut ikusten zein den arazoa... tratuak bi, hiru, lau alde pozik uzten baditu.	
+1441	Ze desberdintasun dago?	
+1442	Tratuak ez du alde hau pozten.	
+1443	Aizu, Vogel jauna.	
+1444	Argi dago ez dakizula norekin hitz egiten ari zaren.	
+1445	Hauxe nahi du Alemaniako Errepublika Demokratikoak.	
+1446	Tratu bat potentzia subirano batekin, Estatu Batuekin.	
+1447	Potentzia baliokidea.	
+1448	Sobietar Errepublika Sozialisten Batasuneko lelotzat hartu gaituzu.	
+1449	Errusiarrak deitu ahal diegu?	
+1450	Denbora aurreztuko genuke.	
+1451	Hitzordua daukat, jauna.	
+1452	Zeu zara denbora galtzen ari dena.	
+1453	Esan deskribapena okerra den.	
+1454	Ikasle bat daukazue, badakizue ez dela espioia, ez dela mehatxua.	
+1455	Eta bere trukean, zuentzat baliorik ez duena, zeregin garrantzitsua izango duzue... errusiarren eta estatubatuarren arteko trukean.	
+1456	Gure eta beste bi aldeen arteko transakzioa da.	
+1457	Ez dira bi auzi, jauna.	
+1458	Bat baino ez.	
+1459	Bat, bat, bat.	
+1460	Ez dugu irainduko Alemaniako Errepublika Demokratikoa.	
+1461	Sobietarrekin tratua itxi zenuen niri galdetu gabe.	
+1462	Negoziazioa da edo konspirazioa?	
+1463	Konspirazioa izateko, kalte egin beharko lizuke.	
+1464	Abantailak baino ez ditut ikusten.	
+1465	Interesek bat egiten dute.	
+1466	Ez, zeuk erabaki duzu bat egiten dutela.	
+1467	Non daukazu hitzordua, jauna?	
+1468	Mendebaldean,	
+1469	Ku'dammen.	
+1470	Ongi.	
+1471	Begira ingurura.	
+1472	Ekialdeko aldea eta mendebaldekoa ezin dira alderatu.	
+1473	[NO TRANSLATION]	missing translation
+1474	Gure lagun errusiarrek erabaki zuten... ezin dugula gure hiriburua berreraiki.	
+1475	Baina gure lagun errusiarrek eragindako hondarretan bizi gara.	
+1476	Aurrera, haiekin negoziatu.	
+1477	Ez dugu zerikusirik nahi.	
+1478	Pryor gabe, ez da traturik egongo.	
+1479	[NO TRANSLATION]	missing translation
+1480	Zure eskaintza edo gobernuarena?	
+1481	Jauna, neu nago hemen,	
+1482	zurekin hitz egiten ari naiz.	
+1483	Baina ez duzu gobernua ordezkatzen.	
+1484	Ez daki nor den,	
+1485	ezta geuk ere.	
+1486	Kontuz, Donovan jauna.	
+1487	Hau ez da Brooklyn.	
+1488	Begira, jauna.	
+1489	Honi dagokion guztian, nire gobernua ordezkatzen dut.	
+1490	Badakizu nor naizen.	
+1491	Benetan?	
+1492	[NO TRANSLATION]	missing translation
+1493	Dokumentuak behar bezala dituzu?	
+1494	Jakina ezetz.	
+1495	Ez dio axola.	
+1496	Abokatu amerikar hitz-jariodunak edonor konbentzitu dezake,	
+1497	ezta?	
+1498	Zoaz harekin.	
+1499	Zergatik?	
+1500	Arazo bat pasaportearekin.	
+1501	[NO TRANSLATION]	missing translation
+1502	[NO TRANSLATION]	missing translation
+1503	Ze arazo?	
+1504	Zoaz harekin.	
+1505	Gogoan izan, geuk kontrolatzen dugu Frederic Pryorren etorkizuna.	
+1506	Jainkoarren!	
+1507	Hasteko, kafea.	
+1508	Ondoren Hilton gosaria... eta gosari amerikarra.	
+1509	Eta kafea.	
+1510	Bi gosari?	
+1511	Bai, bai.	
+1512	Lehendabizi bat edo...	
+1513	Biak,	
+1514	prest daudenean.	
+1515	Eta kafea.	
+1516	[NO TRANSLATION]	missing translation
+1517	Ez zenuke hemen egon behar.	
+1518	Batzuetan, Alemanian, gosari amerikarra nahi dugu.	
+1519	Zer gertatu zen?	
+1520	Non egon zinen bart?	
+1521	Vogel arduratu zen Ekialdean egon nintezen.	
+1522	Demontre.	
+1523	Ez da eman didazun gela baino askoz okerragoa.	
+1524	Errusiarrek trukea onartuko dute, baina orain Vogelek dio alemanek ez dutela egingo.	
+1525	Ez digute Pryor emango.	
+1526	Eta? Primeran.	
+1527	Sobietarren tratua onartu dute,	
+1528	Powers emango digute.	
+1529	Powers daukagu.	
+1530	Zorionak.	
+1531	Ez, alemanek ez dute amore eman.	
+1532	Ez daukagu Pryor, garrantzitsua da.	
+1533	Guztiak dira garrantzitsuak.	
+1534	Jakina, horregatik saiatu zara.	
+1535	Ondo da, saiatu zara.	
+1536	Abel bidean dago, prest egongo da dena bihar.	
+1537	Itxaron.	
+1538	Hori bezain sinplea.	
+1539	Hori bezain sinplea.	
+1540	Ez digute mutikoa emango.	
+1541	Bai, ulertzen dut.	
+1542	[NO TRANSLATION]	missing translation
+1543	Ez diogu gaur goizeko mezuari kasu egingo.	
+1544	Ze mezu?	
+1545	Alemanena.	
+1546	Eman nizun telefonora deitu dute.	
+1547	Zurekin hitz egin nahi zuten.	
+1548	Vogel zen?	
+1549	Ez,	
+1550	Harald Otten bulegoa, fiskal orokorra.	
+1551	Eta zer esan du?	
+1552	Zer nahi zuten?	
+1553	Zurekin hitz egin.	
+1554	Ez kezkatu, ez dizut berriz joateko eskatuko.	
+1555	Batzuek ez omen zaituzte gogoko. Ez gara arriskatuko.	
+1556	Ikusi nahi ninduen.	
+1557	Ze ordutan?	
+1558	Ez, ez.	
+1559	[NO TRANSLATION]	missing translation
+1560	Ez duzu zertan joan.	
+1561	Ez zenuke joan behar.	
+1562	Izan ere, ezin zara joan.	
+1563	Sobietarrak bat datoz,	
+1564	ez ezazu zapuztu.	
+1565	Ez dut zapuztuko.	
+1566	Ez joateko!	
+1567	Ez izorratu.	
+1568	Neuk eskatu dut.	
+1569	Gozatu gosari amerikarra.	
+1570	Maila gorenean negoziatu behar zela pentsatu dut, zurekiko errespetuz.	
+1571	Eskerrik asko, jauna.	
+1572	Ez dakit zergatik nahasi den.	
+1573	Batzuetan gertatzen da.	
+1574	Argi egon dadin, prest gaude... balizko ikaslea, Pryor Rudolf Abelengatik trukatzeko.	
+1575	Vogel jaunak esan dit Pryor zuretzat garrantzitsua dela.	
+1576	Bai, baina...	
+1577	Memorandum bat idatziko dugu horri dagokionez.	
+1578	Memorandum bat.	
+1579	Bi aldeko trukea proposatzen dugu.	
+1580	Bai, jakina.	
+1581	Ez dakit zer esan nahi duen, baina...	
+1582	Nire herrialdeak Francis Gary Powers ere nahi du.	
+1583	Ez!	
+1584	Horrela nahasi dira gauzak.	
+1585	Powers.	
+1586	Zertarako nahi duzue?	
+1587	Zigorra jaso dezan?	
+1588	Egindakoa eginda dago.	
+1589	Esan zezakeena esan du, ziurrenik Abelek egin duen bezala.	
+1590	Trukean, errugabea dela diozun norbait eskaintzen dizuegu.	
+1591	Hori zuzen dago.	
+1592	Bera berreskuratu beharko zenukete.	
+1593	Etorkizuna.	
+1594	Begira etorkizunera.	
+1595	Ott.	
+1596	Ott.	
+1597	Barkatu, jauna.	
+1598	[NO TRANSLATION]	missing translation
+1599	Barkatu, jauna.	
+1600	Fiskala premiazko kontu batengatik joan da.	
+1601	Joan da?	
+1602	Bai,	
+1603	sentitzen dut.	
+1604	Ordubete daramat bere zain.	
+1605	Sentitzen dut, jauna.	
+1606	Gazte.	
+1607	Zatoz.	
+1608	Lasai,	
+1609	zatoz.	
+1610	[NO TRANSLATION]	missing translation
+1611	Eseri zaitez.	
+1612	Tira,	
+1613	eseri zaitez.	
+1614	Gustura zaude hemen lanean?	
+1615	Oso lan ona da, jauna.	
+1616	[NO TRANSLATION]	missing translation
+1617	Ziur, interesgarria izango da.	
+1618	Bai, jauna.	
+1619	Baita garrantzitsua ere.	
+1620	Eta ez daukazu ia doinurik.	
+1621	Ez da harropuzteagatik,	
+1622	baina nahiko trebea naiz.	
+1623	Ongi, ongi.	
+1624	[NO TRANSLATION]	missing translation
+1625	Ez daukat norekin negoziatu... norbaitekin hitz egin behar dut, eta gazte jatorra zarela dirudi.	
+1626	Hitz egin dezakegu?	
+1627	[NO TRANSLATION]	missing translation
+1628	Lasai.	
+1629	Ez da ezer.	
+1630	[NO TRANSLATION]	missing translation
+1631	Zure buruzagiari mezu bat ematea baino ez dut nahi.	
+1632	Baina argi eta garbi gera dadila.	
+1633	Ulertzen?	
+1634	Bai, jauna,	
+1635	baina agian itxaron beharko zenuke...	
+1636	Ez, ez,	
+1637	hotza daukat eta etxera joan nahi dut... ohean sartzeko.	
+1638	Mezua emango diozu?	
+1639	Jakina.	
+1640	Hauxe da mezua:	
+1641	Ez dago traturik Abelengatik Powers eta Pryor ez baditugu.	
+1642	Ulertzen?	
+1643	Bai, jauna.	
+1644	[NO TRANSLATION]	missing translation
+1645	Hitzordua ez da gertatuko bi gizonak ez badizkigute ematen.	
+1646	Bi gizon horiek.	
+1647	Bi, bi, bi.	
+1648	Bai, jauna.	
+1649	Traturik ez badago, buruzagiak sobietarrei esan diezaiela.	
+1650	Sobietarrei esan beharko die ez dutela Rudolf Abel lortuko.	
+1651	Bai, jauna.	
+1652	Eta esaiozu beste hau ere.	
+1653	Orain arte, Abel soldadu ona izan da, baina etxera bueltatuko dela uste du.	
+1654	Esan beharko bagenio ez dela bueltatuko, sobietarrek ez dutela nahi, ez dela inoiz bueltatuko,	
+1655	ziurrenik bere jarrera aldatuko litzatekeela.	
+1656	Eta nor izango litzateke erantzule?	
+1657	Oso mezu luzea da.	
+1658	Gogoratuko duzu?	
+1659	Bai, jauna,	
+1660	ez kezkatu.	
+1661	Ongi.	
+1662	Mutil jatorra zara.	
+1663	[NO TRANSLATION]	missing translation
+1664	Esaiozu, baita ere, ez dela traturik egongo gaur bertan ez badigute erantzuten.	
+1665	Zenbakia badauka.	
+1666	Trukerik ez badago, ez du zertan garaiz esnatu beharko.	
+1667	Ez, zentzugabea litzateke.	
+1668	Ez da izango!	
+1669	Ez da izango.	
+1670	Bai.	
+1671	Eskudirua behar dut.	
+1672	Ez zenuen hau egin behar.	
+1673	Egoera zirikatzeko jarraibideak jaso nituen.	
+1674	Powers lortzea ziren, ez Pryor.	
+1675	Hori ez zen asmoa,	
+1676	dena izorratu duzu!	
+1677	Nola dakizu?	
+1678	Susmo ona diot.	
+1679	Dena izorratu duzu!	
+1680	Ez kezkatu.	
+1681	Dena ongi aterako da.	
+1682	Nola dakizu?	
+1683	Ezin duzu jakin.	
+1684	Estatu Batuak,	
+1685	New York.	
+1686	[NO TRANSLATION]	missing translation
+1687	Begira, hau guztia ni zirikatzeko izan da.	
+1688	Bat bestearengatik trukatuko nukeen, eta nor.	
+1689	Ezetz esan nien, bi baten truke.	
+1690	Hauxe da gure jarrera.	
+1691	Bai, eta esaten badigute:	
+1692	Ez,	
+1693	gurearekin gelditu eta gu zuenekin geldituko gara?	
+1694	Orduan dena izorratu dut.	
+1695	Kaixo, laztana,	
+1696	neu naiz.	
+1697	[NO TRANSLATION]	missing translation
+1698	Arrantza primeran ibili da.	
+1699	Londresen nago, beste bilera bat eta etxera bueltatuko naiz.	
+1700	Bai, marmelada hori gogoratzen dut.	
+1701	Regent's Park ondoan dagoen denda batekoa da.	
+1702	Bai, denbora badut ekarriko dut.	
+1703	Rogerrekin hitz egin dezaket?	
+1704	Eta neskak agurtu?	
+1705	Lanpeturik ez dagoen inor al dago?	
+1706	Konturatu dira etxean ez nagoela?	
+1707	Ituan.	
+1708	Bi baten truke.	
+1709	Primeran.	
+1710	Topa egin dezagun.	
+1711	Traba bat dago.	
+1712	Zer?	
+1713	Ez dituzte Pryor eta Powers zubian askatuko,	
+1714	baina bai aldi berean.	
+1715	Errusiarrek Powers zubian ematen digutenean, haiek Pryor askatuko dute Charlie kontrolgunean.	
+1716	Zer esan nahi du horrek?	
+1717	Uste dut mezua dela: Azken hitza nahi dugu.	
+1718	Baina egingo dute.	
+1719	Zeuk jakingo duzu,	
+1720	zirikatu zenituen.	
+1721	Non daude?	
+1722	Non dago gure gizona?	
+1723	Non dago gure gizona?	
+1724	Berandu dabiltza.	
+1725	Ez dabiltza berandu,	
+1726	garaiz da.	
+1727	Utziko dizkidazu?	
+1728	Bai.	
+1729	Hoffman.	
+1730	Bai?	
+1731	Uste dut daudela...	
+1732	Zer?	
+1733	frankotiratzaileak.	
+1734	Ziur baietz.	
+1735	Zergatik ziur?	
+1736	Geuk ere baditugulako.	
+1737	Atera, mesedez.	
+1738	Jim.	
+1739	Jim maitea.	
+1740	Zer moduz?	
+1741	Zu ikusteko pozez.	
+1742	Hau guztia nigatik antolatu duzu?	
+1743	Ikus dezagun nola amaitzen den merezimendua aitortu aurretik.	
+1744	Pryorri buruz ezer dakigu Charlie kontrolgunean?	
+1745	Oraindik ezer ez.	
+1746	Barkatu, jauna.	
+1747	Joe Murphy tenientea, Aire Indarrekoa. Powers identifikatzera dator.	
+1748	Murphy tenientea.	
+1749	Jauna.	
+1750	Baliteke zailtzea.	
+1751	Gaztea nintzen joan nintzenean.	
+1752	Nork identifikatuko nau?	
+1753	Espero dut familia alemana ez izatea.	
+1754	Apenas ez dute elkar identifikatzen.	
+1755	Hor datoz.	
+1756	Goazen.	
+1757	Hemen geratu zaitezke, Donovan.	
+1758	Ezta pentsatu ere.	
+1759	Igo hesia.	
+1760	Zer uste duzu gertatuko dela etxera heltzen zarenean?	
+1761	Uste dut	
+1762	vodka bat hartuko dudala.	
+1763	Jakina.	
+1764	Jakina.	
+1765	Rudolf, gerta liteke...	
+1766	Nireek ni hil nahi izatea?	
+1767	Bai.	
+1768	Ez al zaitu kezkatzen?	
+1769	Lagunduko luke?	
+1770	Galderari erantzunez, lagun, leialtasunez ibili naiz.	
+1771	Uste dut badakitela.	
+1772	Baina batzuetan huts egiten dute,	
+1773	pertsonak baino ez dira.	
+1774	Ikus dezagun nola hartzen nauten.	
+1775	Zertan jarri beharko dut arreta?	
+1776	Besarkatzen nauten edo atzean eseriarazten nauten.	
+1777	[NO TRANSLATION]	missing translation
+1778	Estalgabetu zaitez.	
+1779	Kaixo, Powers.	
+1780	Kaixo, Murph.	
+1781	Bai, Powers da.	
+1782	Listo, Donovan jauna.	
+1783	Nahi duzunean.	
+1784	Itxaron.	
+1785	Lasai, esango nizuke.	
+1786	Hemen ez dago inor.	
+1787	Beste gizon bat askatuko dute Charlie kontrolgunean.	
+1788	Hor dagoela baieztatzen ari gara.	
+1789	Orain!	
+1790	Plana jarraitu, mesedez.	
+1791	Aurrera.	
+1792	Pryor agertuko da edo ez.	
+1793	Goazen.	
+1794	Bera gabe egingo dugun ikusi zain daude.	
+1795	Eutsi behar diogu, ez dugula amore emango erakutsi.	
+1796	Ez dit axola,	
+1797	gure xedea daukagu.	
+1798	Goazen, Abel.	
+1799	Aurrera, jauna.	
+1800	Joan zaitezke.	
+1801	Ez baduzue plana jarraitzen, gu bagoaz.	
+1802	Orain trukatu edo bagoaz!	
+1803	Beste gizon baten zain zaude?	
+1804	Bai.	
+1805	Bera ere nahi baduzu?	
+1806	Hala da.	
+1807	Ez dio axola zer nahi duen,	
+1808	neu naiz buru, goazen.	
+1809	Aurrera, mesedez.	
+1810	Zubia zeharkatu ezazu.	
+1811	Itxaron dezaket.	
+1812	Zerbait gertatzen ari da.	
+1813	Ez nago ziur.	
+1814	Itxaron!	
+1815	[NO TRANSLATION]	missing translation
+1816	Badaukagu!	
+1817	[NO TRANSLATION]	missing translation
+1818	Opari bat utzi dizut, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Margolan bat da.	
+1821	Espero dut zuretzat balioa izatea.	
+1822	Barkatu,	
+1823	nik ez dizut oparirik ekarri.	
+1824	Hau da zure oparia.	
+1825	Hau da zure oparia.	
+1826	[NO TRANSLATION]	missing translation
+1827	Goazen, goazen.	
+1828	Donovan jauna.	
+1829	Abel koronelaren partetik.	
+1830	Barkatu, jauna.	
+1831	Zeu zaude agindupean?	
+1832	Bai.	
+1833	Eskerrak eman nahi dizkizut.	
+1834	Norbaiti eman behar dizkiot.	
+1835	Ez nuen hitz egin.	
+1836	Ez nuen hitz egin.	
+1837	Ez kezkatu,	
+1838	ez dio axola jendeak zer uste duen.	
+1839	Zeuk badakizu zer egin zenuen.	
+1840	Ongi etorri etxera.	
+1841	Hau bidaia, hau.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Zer moduz?	
+1845	Ongi.	
+1846	Marmelada ekarri duzu?	
+1847	Bai.	
+1848	Hemen dago.	
+1849	Hemen dago.	
+1850	[NO TRANSLATION]	missing translation
+1851	Eskatu zenidan bezala.	
+1852	Jim.	
+1853	Hau Arno'sekoa da.	
+1854	Eta?	
+1855	Ertzekoa da!	
+1856	Oso lanpetuta nengoen,	
+1857	barkatu.	
+1858	[NO TRANSLATION]	missing translation
+1859	Ez da izango!	
+1860	[NO TRANSLATION]	missing translation
+1861	Roger etxean dago?	
+1862	Bai,	
+1863	eta Carol, eta Peggy.	
+1864	Etxean daude guztiak.	
+1865	Ama,	
+1866	zatoz!	
+1867	Begira!	
+1868	Zatoz, ama!	
+1869	Zatoz, ama!	
+1870	Zatoz hau ikustera!	
+1871	[NO TRANSLATION]	missing translation
+1872	[NO TRANSLATION]	missing translation
+1873	Bizkor!	
+1874	Francis Gary Powers askatu dute... Sobietar Batasunetik... eta Estatu Batuetako agintarien eskuetan utzi dute gaur Berlinen.	
+1875	Presidenteak trukatu du Rudolf Abelen zigorra.	
+1876	Abel jauna atzerriratu dute eta Berlinen askatu.	
+1877	Aspaldi saiatzen ari ziren Powers askatzen.	
+1878	Oraindik orain, Estatu Batuetako gobernuak... James Donovan jaunaren laguntza jaso du, New Yorkeko abokatu bat.	
+1879	Frederic L. Pryor, Estatu Batuetako ikasle bat, Ekialdeko Alemaniako agintariek espetxeratuta zuten... 1961eko abuztutik...	
+1880	Aita ez al zegoen izokina arrantzatzen?	forced duplication
+1881	Aita ez al zegoen izokina arrantzatzen?	forced duplication
+1882	Abel desagertu da mundu komunistan.	
+1883	Powers hemen dago adierazpena egiten.	
+1884	Eta Donovan jauna zuzenbidera bueltatu da.	
+1885	Hona hemen George Fenneman, Douglas Fir Plywood... elkartearen izenean...	

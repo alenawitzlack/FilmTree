@@ -1,0 +1,1769 @@
+1	Ma usun Ameerikasse.	
+2	Ameerikast sain oma varanduse.	
+3	Ma kasvatasin oma tütart Ameerika tavade järgi.	
+4	Andsin talle vabaduse, kuid õpetasin, et perekonnale ei tohi häbi teha.	
+5	Ta leidis poisi, mitteitaallase.	
+6	Ta käis temaga kinos.	
+7	Oli kaua väljas.	
+8	Ma ei pahandanud.	
+9	Kaks kuud tagasi kutsus ta mu tütre sõitma koos ühe teise poisiga.	
+10	Nad sundisid teda viskit jooma ja seejärel üritasid teda ära kasutada.	
+11	Ta keeldus, ta hoidis oma au.	
+12	Nad peksid teda nagu looma.	
+13	Kui haiglasse läksin, oli ta nina puruks, tema lõualuud olid purustatud, neid hoiti traadiga koos.	
+14	Ta ei suutnud valu pärast isegi nutta.	
+15	Kuid mina nutsin.	
+16	Mispärast?	
+17	Ta oli minu elu valgus.	
+18	Kaunis tüdruk.	
+19	Enam ei ole ta kunagi ilus.	
+20	Vabandust.	
+21	Ma läksin politseisse, nagu hea ameeriklane.	
+22	Need kaks poissi toodi kohtu ette.	
+23	Kohtunik määras neile kolm aastat vanglas, aga lükkas karistuse edasi.	
+24	Lükkas karistuse edasi!	
+25	Nad vabanesid selsamal päeval!	
+26	Seisin kohtumajas nagu tola.	
+27	Need kaks kaabakat, nad irvitasid.	
+28	Siis ütlesin naisele: Õiglust, peame minema Don Corleone juurde.	
+29	Miks sa politseisse läksid?	
+30	Miks sa esmalt minu juurde ei tulnud?	
+31	Mida te soovite?	
+32	Mida iganes, aga tehke seda, mida ma palun.	
+33	Mis see on?	
+34	Tahan nende surma.	
+35	Ma ei saa seda teha.	
+36	Ma annan teile kõik, mida palute.	
+37	Tunnen sind palju aastaid, aga see on esimene kord, kui abi vajad.	
+38	Ma ei mäletagi viimast korda, kui kutsusid mind tassi kohvi jooma.	
+39	Kuigi mu naine on sinu ainsa lapse ristiema.	
+40	Olgem ausad.	
+41	Sa pole kunagi mu sõprust soovinud.	
+42	Sa kartsid mulle võlgu jääda.	
+43	Ma ei soovinud pahandusi.	
+44	Ma mõistan.	
+45	Leidsid Ameerikast paradiisi.	
+46	Teenisid head elatist, sind kaitses politsei ja kohus.	
+47	Sa ei vajanud minusugust sõpra.	
+48	Aga nüüd tuled sa siia ja ütled,	
+49	Don Corleone, andke mulle õiglust.	
+50	Kuid sa ei palu austusega.	
+51	Sa ei paku sõprust.	
+52	Sa isegi ei mõtle mind ristiisaks kutsuda.	
+53	Sa tuled mu tütre pulmapäeval ja palud mõrva raha eest.	
+54	Ma palun teilt õiglust.	
+55	See ei ole õiglus.	
+56	Su tütar on elus.	
+57	Las siis nemadki kannatavad, nagu mu tütar.	
+58	Palju ma maksma pean?	
+59	Bonasera, Bonasera.	
+60	Mida ma olen küll teinud, et kohtled mind nii ebaaustavalt?	
+61	Kui oleksid sõpruses tulnud, siis sinu tütre rikkunud saast oleks juba kannatanud.	
+62	Ja kui sinusugusel ausal mehel vaenlasi tekiks, oleksid nad ka minu vaenlased.	
+63	Ja siis nad kardaksid sind.	
+64	Olge mu sõber?	
+65	Ristiisa?	
+66	Hästi.	
+67	Ühel päeval, mis ei pruugi üldse tullagi, palun sinult vastuteenet.	
+68	Kuid kuni selle päevani... võta vastu õiglus kingituseks mu tütre pulmade puhul.	
+69	Grazie, Ristiisa.	
+70	Prego.	
+71	Anna see Clemenzale.	
+72	Tahan usaldusväärseid inimesi, kes mind alt ei vea.	
+73	Me ei ole mõrtsukad, hoolimata selle surnumatja ütlustest.	
+74	Kus Michael on?	
+75	Ära muretse, küll ta tuleb.	
+76	Me ei tee mingit pilti ilma Michaelita.	
+77	Mis lahti?	
+78	Michael.	
+79	Don Barzini.	
+80	Hei, Paulie!	
+81	Anna mulle veini.	
+82	Paulie!	
+83	Veel veini.	
+84	Näed põrandal hea välja.	
+85	Tantsukohtunik oled või?	
+86	Mine jaluta ja tee oma tööd.	
+87	Sandra, valva lapsi.	
+88	Ära lase neil ringi joosta.	
+89	Sina vaata enda järele, eks?	
+90	20, 30 tonni.	
+91	Väikesed kupüürid, sularaha.	
+92	Selles väikeses siidist rahakotis.	
+93	Kui need oleksid kellegi teise pulmad...	
+94	Sfortunato!	
+95	Kuule, Paulie!	
+96	[NO TRANSLATION]	missing translation
+97	Idioot!	
+98	Mis viga on?	
+99	Pean tööle tagasi minema.	
+100	Tom.	
+101	[NO TRANSLATION]	missing translation
+102	Ükski sitsiillane ei lükka tütre pulmapäeval palvet tagasi.	
+103	Don Corleone, mul on suur au ja ma olen tänulik, et kutsusite mind oma koju.	
+104	Kaduge siit minema!	
+105	See on erapidu.	
+106	Minge juba!	
+107	Mis viga on?	
+108	Need on mu õe pulmad.	
+109	Pagana FBI ei austa ka midagi!	
+110	Tule siia!	
+111	aga lõpupoole, ta vabastati, et aidata Ameerika sõjapingutusi, seega on ta kuus kuud minu pagari poes töötanud.	
+112	Nazorine, kuidas saan sind aidata?	
+113	Kuna sõda on juba läbi, siis tahetakse Enzo Itaaliasse tagasi saata.	
+114	Ristiisa, mul on tütar.	
+115	Vaadake, tema ja Enzo...	
+116	Sa tahad, et Enzo saaks siia jääda ja sinu tütrega abielluda.	
+117	Te mõistate kõike.	
+118	Hr Hagen.	
+119	Tänan teid.	
+120	Oodake kuni näete pulmatorti, mille teie tütrele valmistasin!	
+121	Pruut, peigmees ja ingel...	
+122	Kellele ma selle töö annan?	
+123	Mitte meie paisā'le.	
+124	Anna see juudist kongresmenile teises piirkonnas.	
+125	Kes veel nimekirjas on?	
+126	Tere Michael!	
+127	Ta ei ole küll nimekirjas, aga Luca Brasi soovib sind näha.	
+128	Kas see on vajalik?	
+129	Ta ei lootnud pulmakutset saada ja soovib sind tänada.	
+130	Don Corleone, mul on suur au ja ma olen tänulik, et kutsusite mind oma tütre pulmapäeval.	
+131	Olgu nende esimene laps meessoost.	
+132	Michael...	
+133	See mees seal räägib iseendaga.	
+134	See hirmus mees seal?	
+135	Ta on väga hirmus tüüp.	
+136	Mis ta nimi on?	
+137	Ta nimi on Luca Brasi.	
+138	Ta aitab vahel mu isa.	
+139	Michael, ta tuleb siiapoole!	
+140	Näed suurepärane välja!	
+141	Mu vend Tom Hagen, Miss Kay Adams.	
+142	Su isa küsib sinu järele.	
+143	Oli meeldiv tutvuda.	
+144	Minul samuti.	
+145	Miks su vennal on erinev nimi?	
+146	Minu vend Sonny leidis Tomi tänavalt.	
+147	Tal ei olnud kodu, mu isa võttis ta enda juurde.	
+148	Sellest saati on ta meiega olnud.	
+149	Ta on hea advokaat.	
+150	Mitte sitsiillane.	
+151	Ma arvan, et temast saab meie consigliere.	
+152	Mis see on?	
+153	See on... nagu nõustaja, nõunik.	
+154	Väga tähtis perekonnale.	
+155	Kas lasanje maitseb?	
+156	Don Corleone.	
+157	Mul on suur au ja ma olen tänulik, et kutsusite mind oma tütre pulmapeole.	
+158	Oma tütre pulmapäeval.	
+159	Ma loodan, et nende esimene laps saab olema poisslaps.	
+160	Ma tõotan oma igavest lojaalsust.	
+161	Teie tütre kaasavara tarvis.	
+162	Tänan sind, Luca.	
+163	Hinnalisim sõber.	
+164	Don Corleone, ma lahkun nüüd, sest tean, et teil on kiire.	
+165	Tänan sind.	
+166	Signora Corleone!	
+167	Ei!	
+168	Senaator Cauley vabandab, et ei saa tulla, aga sa pidavat mõistma.	
+169	Samuti mõned kohtunikud.	
+170	Nad kõik saatsid kingitusi.	
+171	Mis seal väljas toimub?	
+172	Johnny!	
+173	Johnny!	
+174	Ma armastan sind!	
+175	Ta tuli kogu selle tee Californiasse.	
+176	Ma ütlesin, et ta tuleb!	
+177	Tal on ilmselt jälle probleeme.	
+178	Ta on hea ristipoeg.	
+179	Johnny, Johnny!	
+180	Laula palun!	
+181	Sa ei öelnud mulle, et tunned Johnny Fontane'i!	
+182	Tühiasi.	
+183	Soovid temaga kohtuda?	
+184	Muidugi!	
+185	Tore.	
+186	Mu isa aitas tal karjääri alustada.	
+187	Tõesti?	
+188	Kuidas?	
+189	Kuulame ta laulu.	
+190	Michael...	
+191	Palun, Michael.	
+192	Räägi mulle.	
+193	Kui Johnny alustas, oli tal isiklik leping tähtsa ansamblijuhiga.	
+194	Kuna ta karjäär muudkui kasvas ja kasvas, siis soovis ta välja pääseda.	
+195	Johnny on mu isa ristipoeg.	
+196	Mu isa külastas seda ansamblijuhti.	
+197	Isa pakkus talle 10,000 dollarit, et see Johnnyl minna laseks, aga ansamblijuht keeldus.	
+198	Seega läks mu isa järgmine päev uuesti, kuid seekord koos Luca Brasiga.	
+199	Tunni aja pärast, lõpetas ansamblijuht lepingu 1,000 dollari eest.	
+200	Kuidas nii?	
+201	Isa tegi talle pakkumise, millest ei saanud keelduda	
+202	Mis see oli?	
+203	Luca Brasi hoidis püssi tema pea kohal ja isa ütles, et kas tema ajud või allkiri saavad olema lepingul.	
+204	See on tõestisündinud lugu.	
+205	See on minu perekond, Kay.	
+206	Mitte mina.	
+207	Kaunis!	
+208	Ma tegelen sellega.	
+209	Tom...	
+210	Otsi Santino üles.	
+211	Las tuleb minu kabinetti.	
+212	Kuidas läheb, Fredo?	
+213	Minu vend Fredo, See on Kay Adams.	
+214	Tere.	
+215	Kuidas läheb?	
+216	See on mu vend Mike.	
+217	Kas sul on lõbus?	
+218	Jah.	
+219	On ta su sõber?	
+220	Ma ei tea, mida teha.	
+221	Mu hääl on nõrk.	
+222	See on nõrk.	
+223	Igatahes, kui ma saaksin selle rolli, tõstaks see mu taas tippu.	
+224	Aga see... mees ei anna seda mulle, stuudio boss.	
+225	Mis ta nimi on?	
+226	Woltz.	
+227	Ta ei anna seda mulle ja ta ütleb, et mitte mingil juhul.	
+228	Sonny?	
+229	Sonny?	
+230	Sonny?	
+231	Sonny, oled sa seal?	
+232	Mida?	
+233	Vanamees tahab sind.	
+234	Üks hetk.	
+235	Kuu aega tagasi ostis ta filmiõigused ühele bestsellerile.	
+236	Peategelane on täpselt minu moodi mees.	
+237	Ma ei peaks isegi näitlema.	
+238	Ristiisa, ma ei tea, mida teha.	
+239	Käitu nagu mees!	
+240	Mis sul viga on?	
+241	Kas sa nii muutusidki Hollywoodi käpardiks, kes ulub nagu naine?	forced duplication
+242	Kas sa nii muutusidki Hollywoodi käpardiks, kes ulub nagu naine?	forced duplication
+243	Mida teha?	
+244	Mida teha?	
+245	Mis jama see on?	
+246	Naeruväärne.	
+247	Kas veedad perega aega?	
+248	Muidugi.	
+249	Hästi.	
+250	Kui mees ei veeda aega oma perega, siis ei ole ta mingi mees.	
+251	Näed kohutav välja.	
+252	Mine söö.	
+253	Puhka, kuu aja pärast annab see tähtis Hollywoodi nina sulle, mida soovid.	
+254	Liiga hilja, nad alustavad võtteid nädala pärast.	
+255	Ma teen talle pakkumise, millest ei saa keelduda.	
+256	Mine välja ja lõõgastu ja unusta see jama.	
+257	Jäta kõik minu hooleks.	
+258	Olgu.	
+259	Mis kell mu tütar lahkub?	
+260	Varsti, pärast koogi lahti lõikamist.	
+261	Kas anname su väimehele midagi olulist?	
+262	Mitte iialgi.	
+263	Anna talle elamine, aga ära iialgi aruta temaga perekonna äri.	
+264	Mis veel?	
+265	Virgil Sollozzo helistas.	
+266	Peame temaga tuleval nädalal kohtuma.	
+267	Siis, kui Californiast tagasi tuled.	
+268	Millal ma sinna lähen?	
+269	Täna.	
+270	Räägi selle filmitegelasega ja aja Johnny asi korda.	
+271	Kui muud ei ole, siis tahaksin oma tütre pulma minna.	
+272	Carlo, me tahame pilti teha.	
+273	Oodake natuke.	
+274	Ei, Michael.	
+275	Mitte mina.	
+276	Olgu, just nii.	
+277	[NO TRANSLATION]	missing translation
+278	Olge paigal!	
+279	Sellele kaarele on rohkem kuumust vaja.	
+280	Hakka rääkima.	
+281	Mind saatis üks Johnny Fontane'i sõber.	
+282	See sõber pakub oma sõprust hr Woltzile, kui hr Woltz talle ühe teene osutab.	
+283	Woltz kuulab.	
+284	Andke Johnnyle osa selles sõjafilmis, mida järgmisel nädalal alustate.	
+285	Ja mida sinu sõber hr Woltzile vastuteenena osutab?	
+286	Ta võib panna teie ametiühingu probleemid kaduma.	
+287	Ja üks teie staaridest vahetas just marihuaana heroiini vastu.	
+288	Kas sa üritad survet avaldada?	
+289	Kuula mind, sa igavene litapoeg!	
+290	Ütlen sulle selgelt.	
+291	Johnny Fontane ei saa kunagi sellesse filmi!	
+292	Ükskõik, kui palju Guinea kurikaelu mind ka väänama ei tuleks!	
+293	Olen Saksa iirlane.	
+294	Kuula mind, mu segavereline sõber.	
+295	Kütan su tagumiku kuumaks!	
+296	Olen advokaat.	
+297	Ma ei ähvardanud...	
+298	Ma tunnen New Yorki tähtsaid advokaate.	
+299	Kes sina selline oled?	
+300	Mul on eripraksis.	
+301	Tegelen vaid ühe kliendiga.	
+302	Ootan teie kõnet.	
+303	Muide, mulle meeldivad teie filmid väga.	
+304	Uuri ta tausta.	
+305	See on tõesti kaunis.	
+306	Vaadake seda.	
+307	See kaunistas varem kuninga paleed.	
+308	Väga kena.	
+309	Miks te ei öelnud, et töötate Corleone heaks?	
+310	Pidasin teid mõneks odavaks tüübiks, kelle Johnny palkas.	
+311	Kasutan tema nime vaid siis, kui vaja.	
+312	Kuidas jook maitseb?	
+313	Hästi.	
+314	Nüüd tahaksin midagi kaunist näidata.	
+315	Te ju hindate ilu, või kuidas?	
+316	Olge lahke.	
+317	600,000 dollarit neljal kabjal.	
+318	Olen kindel, et isegi Vene tsaarid ei maksnud ühe hobuse eest nii palju.	
+319	Khartoum.	
+320	Khartoum.	
+321	Ma ei lase tal võistelda.	
+322	Kasutan teda tõutäkuna.	
+323	Tänan, Tony.	
+324	Lähme sööme midagi.	
+325	Corleone on Johnny ristiisa.	
+326	Itaalia inimeste jaoks on see äärmiselt tähtis ja lähedane suhe.	
+327	Austan seda.	
+328	Las ta palub midagi muud.	
+329	Seda teenet ei saa ma osutada.	
+330	Ta ei palu kunagi teist teenet, kui esimene tagasi lükatakse.	
+331	Te ei mõista.	
+332	Johnny Fontane ei pääse iialgi sellesse filmi.	
+333	See osa on talle ideaalne.	
+334	See teeks tast suure tähe.	
+335	Ma kavatsen ta sellest ärist välja süüa ja teate miks.	
+336	Johnny Fontane rikkus ühe Woltzi väärtuslikematest noortest talentidest.	
+337	Treenisime teda viis aastat.	
+338	Laulu, näitlemise, tantsu tunnid.	
+339	Kulutasin selle peale sadu tuhandeid dollareid, et teha temast supertäht.	
+340	Laske ma olen veelgi avameelsem.	
+341	Näitamaks, et ma ei ole kõva südamega mees.	
+342	Ei ole ainult dollarid ja sendid.	
+343	Ta oli kaunitar.	
+344	Ta oli noor ja süütu!	
+345	Ta oli parim tükk, mis mul on olnud ja mul on neid üle terve maailma.	
+346	Siis tuleb Johnny Fontane koos oma oliiviõli häälega ja Guinea sarmiga.	
+347	Ja tüdruk teeb vehkat.	
+348	Ta lõi kõigele käega, et teha minust naerualune!	
+349	Ja minu reputatsiooniga mees ei saa seda endale lubada!	
+350	Ja nüüd kao siit minema!	
+351	Kui see härg üritab mingeid karme võtteid, siis ütle talle, et ma pole mingi ansamblijuht.	
+352	Jaa, kuulsin seda lugu.	
+353	Tänan teid õhtusöögi ja väga meeldiva õhtu eest.	
+354	Ehk saaks teie autojuht mind lennujaama viia.	
+355	Hr Corleone soovib halbu uudiseid otsekohe kuulda.	
+356	Oled sa väga väsinud, Tom?	
+357	Ei, magasin lennukis.	
+358	Mul on siin Sollozzo märkmed.	
+359	Nii...	
+360	Sollozzot teatakse ka Türklasena.	
+361	Ta pidavat noaga väga osav olema, kuid ainult äriga seotud mõistetavate probleemide puhul.	
+362	Tema äriks on uimastid.	
+363	Tal on Türgis põllud, kus kasvatatakse mooni.	
+364	Sitsiilias on tal vabrikud, kus see heroiiniks töödeldakse.	
+365	Ta vajab sularaha, ta vajab kaitset politsei eest.	
+366	Ta annaks osa tegevusest meile.	
+367	Ma ei tea, kui palju.	
+368	Tattaglia perekond on siin tema taga.	
+369	Nad peavad millegi eest osalised olema.	
+370	Palju ta kinni on istunud?	
+371	Üks kord Itaalias, üks kord siin.	
+372	Teda tuntakse kui narkokaubanduse tippu.	
+373	Santino, mis sa arvad?	
+374	Valges pulbris on palju raha.	
+375	Tom?	
+376	Jah.	
+377	Narkoga tuleb rohkem raha, kui mistahes muust ärist.	
+378	Kui me välja jääme, siis keegi teine võtab osa, viis perekonda näiteks.	
+379	Selle raha eest saavad nad osta rohkem politseid ja poliitikuid.	
+380	Siis nad ründavad meid	
+381	Praegu on meil ametiühingud ja hasartmängud, see on hea, kuid uimastid on tulevik.	
+382	Kui me sellest osa ei võta, siis riskime kõigega 10 aasta jooksul.	
+383	Noh?	
+384	Mis sa vastad, Paps?	
+385	Don Corleone.	
+386	Vajan meest, kellel on võimukaid sõpru.	
+387	Vajan miljon dollarit sularaha.	
+388	Vajan neid poliitikuid, keda taskus kannate nagu münte.	
+389	Mis minu perekond sellest saaks?	
+390	30 protsenti.	
+391	Esimesel aastal peaks teie osa olema kolm, neli miljonit dollarit.	
+392	Seejärel veelgi rohkem.	
+393	Ja mida Tattaglia perekond sellest saab?	
+394	Minu kiidusõnad.	
+395	Hoolitsen ise nende eest, oma osast.	
+396	Niisiis, ma saan 30 protsenti finantseeringu, poliitilise mõju ja õiguskaitse eest?	
+397	Just nii.	
+398	Miks te minu juurde tulite?	
+399	Millega selle au ära teenisin?	
+400	Kui teile on miljon dollarit sulas lihtsalt finantseering, siis ti saluto, Don Corleone.	
+401	Lubasin teiega kohtuda, kuna olin kuulnud, et olete tõsine mees, keda tuleks austusega kohelda.	
+402	Kuid, pean teile eitavalt vastama.	
+403	Ja ma ka põhjendan seda.	
+404	Tõsi, mul on poliitikas palju sõpru.	
+405	Nad ei oleks enam kaua mu sõbrad, kui hakkaksin uimastitega tegelema, mida nad peavad räpaseks äriks.	
+406	Minu jaoks ei oma tähtsust, millega mees elatist teenib.	
+407	Aga teie äri on... natuke ohtlik.	
+408	Kui kardate turvalisuse pärast, siis Tattagliad garanteerivad selle.	
+409	Kas Tattagliad tagavad...	
+410	Oota hetk.	
+411	Mul on oma laste vastu nõrkus ja ma hellitan nad ära.	
+412	Nad räägivad, kui peaksid kuulama.	
+413	Aga igal juhul...	
+414	Sinjoor Sollozzo, mu ei on lõplik.	
+415	Soovin teid uue äri puhul õnnitleda.	
+416	Tean, et teil hästi läheb, õnn kaasa.	
+417	Eriti kuna teie huvid ei põrku minu omadega.	
+418	Tänan teid.	
+419	Santino.	
+420	Tule siia.	
+421	Mis sul viga on?	
+422	Sinu aju on pehmeks läinud, kuna selle tüdrukuga mängid.	
+423	Ära kunagi ütle kellelegi väljaspool perekonda, mida sa mõtled.	
+424	Mine nüüd.	
+425	Tom, mis see jaburdus on?	
+426	See on Johnnylt.	
+427	Ta on peaosaline selles uues filmis.	
+428	Vii see minema.	
+429	Pange see sinna.	
+430	Ja... ütle Luca Brasile, et ta siia tuleks.	
+431	Olen pisut mures selle Sollozzo pärast.	
+432	Uuri järele, mis tal küünte all peidus on.	
+433	Mine Tattagliade juurde.	
+434	Las nad arvavad, et sa ei ole meie perekonnaga rahul ja uuri nii palju, kui saad.	
+435	Mul on midagi su ema ja Sonny jaoks ja lips Freddyle ja Reynoldi sulepea Tom Hageni jaoks.	
+436	Mida sa ise jõuludeks soovid?	
+437	Lihtsalt sind.	
+438	Andiamo, Fredo.	
+439	Lase Pauliel auto tuua.	
+440	Olgu, papa.	
+441	Pean selle ise tooma.	
+442	Paulie helistas hommikul, ta olla haige.	
+443	Paulie on hea poiss.	
+444	Võin ise küll auto tuua.	
+445	Buon Natale, caro.	
+446	Grazie.	
+447	Luca!	
+448	Mina olen Bruno Tattaglia.	
+449	Ma tean.	
+450	Kas tead, kes mina olen?	
+451	Ma tunnen sind.	
+452	Oled Tattaglia perekonnaga rääkinud... eks?	
+453	Arvan, et sina ja mina saaksime äri teha.	
+454	Vajan sinusugust tugevat meest.	
+455	Kuulsin, et sa ei ole rahul... Corleone perega.	
+456	Tahad minuga ühineda?	
+457	Mis ma selle eest saan?	
+458	$50,000 alustuseks.	
+459	Pole paha!	
+460	Lööme käed?	
+461	Tom!	
+462	Tom Hagen.	
+463	Häid jõule.	
+464	Meeldiv kohtuda.	
+465	Tahaksin rääkida.	
+466	Mul pole aega.	
+467	Leidke aega, Consigliere.	
+468	Ronige autosse.	
+469	Miks te muretsete?	
+470	Kui oleksin teid tappa tahtnud, oleksite juba surnud.	
+471	Minge sisse.	
+472	Fredo, lähen ostan puuvilja.	
+473	Olgu, paps.	
+474	Häid jõule.	
+475	Sooviksin puuvilja.	
+476	Kas ma meeldiksin sulle rohkem, kui oleksin nunn?	
+477	Nagu lugudes.	
+478	Ei.	
+479	Aga kui ma oleksin lngrid Bergman?	
+480	See juba on midagi.	
+481	Michael.	
+482	Ei, sa ei meeldiks mulle rohkem, kui oleksid lngrid Bergman.	
+483	Mis viga on?	
+484	Siin ei öelda, kas ta on elus või surnud.	
+485	Sonny, Michael helistab.	
+486	Kus sa olid?	
+487	On temaga kõik korras?	
+488	Me ei tea veel.	
+489	Igasugu jutte liigub.	
+490	Ta sai raskelt haavata, Mikey.	
+491	Oled veel seal?	
+492	Jah, olen.	
+493	Kus sa olid?	
+494	Ma olin mures.	
+495	Kas Tom ei öelnud, et ma helistasin?	
+496	Ei.	
+497	Tule koju, poisu.	
+498	Peaksid ema juures olema, mõistad?	
+499	Oh jumal.	
+500	Sonny!	
+501	Püsi tagapool.	
+502	Kes seal on?	
+503	Tee lahti, Clemenza siin.	
+504	Su vanamehe kohta on uudiseid.	
+505	Kõlakas levib, et ta on juba surnud.	
+506	Mis sul viga on?	
+507	Rahune maha!	
+508	Kus Paulie oli?	
+509	Haige.	
+510	Ta on kogu talve haige olnud.	
+511	Kui tihti?	
+512	Ainult kolm, neli korda.	
+513	Freddy ei tahtnud uut ihukaitsjat.	
+514	Mine võta ta kohe peale.	
+515	Mul kama, kui haige ta on.	
+516	Too ta otsekohe mu isa majja.	
+517	Kas saadan kellegi sinna?	
+518	Ei.	
+519	Mine nüüd.	
+520	Kutsun mõned meie mehed majja kohale.	
+521	Halloo?	
+522	Santino Corleone?	
+523	Jah.	
+524	Tom Hagen on meie käes.	
+525	Kolme tunni pärast ta vabastatakse koos meiepoolsete ettepanekutega.	
+526	Enne, kui midagi teha kavatsete, kuulake mis tal öelda on.	
+527	Mis tehtud, see tehtud.	
+528	Ära oma kuulsat tuju kaota, Sonny.	
+529	Ma ootan.	
+530	Su boss on surnud.	
+531	Ma tean, et sa pole perekonnas mingi musklimees, nii et ära karda.	
+532	Tahan, et aitaksid Corleonesid ja mind.	
+533	Tabasime ta kontorist väljas umbes tund enne, kui sinu üles korjasime.	
+534	Joo.	
+535	Nüüd sõltub kõik sinust, kas teeme Sonnyga rahu.	
+536	Sonnyle meeldis mu pakkumine, eks?	
+537	Ja sa teadsid, et nii on õige.	
+538	Sonny tuleb sind otsima.	
+539	Loomulikult on see tema esimene reaktsioon.	
+540	Seega pead talle aru pähe panema.	
+541	Minu selja taga on Tattaglia perekond.	
+542	Teised New Yorki perekonnad nõustuvad sõja vältimiseks kõigega.	
+543	Olgem ausad, kogu austuse juures, Don - puhaku ta rahus - eksis.	
+544	Kas ma oleksin kümme aastat tagasi temani pääsenud?	
+545	Noh, ta on surnud, Tom ja miski ei too teda tagasi.	
+546	Räägi Sonny ja teistega.	
+547	See on hea äri, Tom.	
+548	Ma püüan.	
+549	Aga isegi Sonny ei suuda Luca Brasit tagasi hoida.	
+550	Noh...	
+551	Las mina muretsen Luca pärast.	
+552	Sina lihtsalt räägi Sonnyga.	
+553	Ja teiste poistega.	
+554	Annan oma parima.	
+555	Tore.	
+556	Võid nüüd minna.	
+557	Mulle ei meeldi vägivald, Tom.	
+558	olen ärimees.	
+559	Veri on väga kulukas.	
+560	Ta on veel elus.	
+561	Ta sai viis korda pihta, aga on siiski elus!	
+562	Halb õnn minule ja halb õnn sulle, kui tehingut ei tule.	
+563	Su ema on haiglas su isa juures.	
+564	Tundub, et ta jääb ellu.	
+565	Palju halba verd.	
+566	Sollozzo, Philip Tattaglia, Bruno Tattaglia, Ramon...	
+567	Tahad neid kõiki tappa?	
+568	Ära sega end sellesse.	
+569	Kui vabaned Sollozzost, siis saab kõik korda.	
+570	Aga Luca?	
+571	Sollozzo arvab, et suudab teda talitseda.	
+572	Kui Luca üle läks, oleme hädas.	
+573	Kas keegi on Lucaga rääkinud?	
+574	Oleme kogu öö proovinud.	
+575	Kuule, tee mulle teene...	
+576	Luca ei maga kunagi päise päeva ajal.	
+577	Noh, Tom, sina oled consigliere.	
+578	Mida me teeme, kui vanamees sureb?	
+579	Kui ta kaotame, siis kaotame ka kontaktid poliitikas ja poole oma jõust.	
+580	Teised New Yorki perekonnad võivad Sollozzot toetada, et sõda vältida.	
+581	See on peaaegu 1946.	
+582	Keegi ei taha enam verevalamist.	
+583	Kui su isa sureb... pead tehingu sõlmima.	
+584	Kerge öelda.	
+585	Ta ei ole sinu isa.	
+586	Olen samamoodi poeg nagu sina või Mike.	
+587	Mis on?	
+588	Paulie, ma käskisin ju valves olla.	
+589	Värava taga on üks mees pakiga.	
+590	Tessio, mine vaata järele.	
+591	Kas jään siia?	
+592	Jah.	
+593	Oled kombes?	
+594	Kõik on korras.	
+595	Seal on süüa.	
+596	Oled näljane?	
+597	Ei.	
+598	Napsi?	
+599	Brandy ajab selle välja.	
+600	Lase käia.	
+601	See võib hea mõte olla.	
+602	Hoolitse selle sitapea eest.	
+603	Paulie müüs vanamehe maha.	
+604	Võta see asi esimesena plaani.	
+605	Olgu nii.	
+606	Mickey, võta paar meest ja mine Luca korterisse.	
+607	Ehk me ei peaks Mike'i liiga otseselt asjasse segama.	
+608	Sellest oleks suur abi, kui siin niisama ringi liigud ja telefoniga tegeled.	
+609	Proovi veelkord Lucat.	
+610	Mis see on?	
+611	Sitsiilia teade.	
+612	See tähendab, et Luca Brasi magab kalade juures.	
+613	Ma lähen.	
+614	Millal sa koju tuled?	
+615	Ilmselt hilja.	
+616	Ära cannolit unusta!	
+617	Ja-jah.	
+618	Rocco, istu teisele poole.	
+619	Sa varjad tahavaate peegli ära.	
+620	Sonny on pöörane.	
+621	Ta tahab juba laibakottide järele minna.	
+622	Peame West Side'l koha leidma.	
+623	Proovi 309 West 43. tänavat.	
+624	Tead seal mõnda head kohta?	
+625	Mõtlen sellele.	
+626	Mõtle sõidu ajal.	
+627	Tahan sel kuul New Yorki jõuda.	
+628	Ära lapsi alla aja.	
+629	Paulie, mine 39. tänavale, osta 18 kotti ja too arve mulle.	
+630	Olgu nii.	
+631	Vaata, et need puhtad oleksid, sest poisid on seal väga pikka aega.	
+632	Nad on puhtad ja hävitatud.	
+633	Kus nüüd ütles.	
+634	Hävitama!	
+635	Vaata ette, et me sind ei hävita!	
+636	Jää seisma.	
+637	Pean kusele minema.	
+638	Jäta püstol.	
+639	Võta cannoli.	
+640	Kuule, Mike!	
+641	[NO TRANSLATION]	missing translation
+642	Jah.	
+643	Telefon!	
+644	Kes see on?	
+645	Mingi tüdruk.	
+646	Halloo.	
+647	Kay?	
+648	Kuidas isal läheb?	
+649	Ta jääb elama.	
+650	Armastan sind.	
+651	Ma armastan sind!	
+652	Michael?	
+653	Jah, ma tean.	
+654	Ütle, et armastad mind.	
+655	Ma ei saa rääkida.	
+656	Kas sa ei saa öelda seda?	
+657	Õhtul näeme.	
+658	Miks sa ei ütle sellele kenale tüdrukule, et armastad teda?	
+659	Armastan sind kogu südamest.	
+660	Kui ma sind peagi ei näe, siis ma suren!	
+661	Tule ja õpi midagi.	
+662	Võib-olla pead kunagi 20 mehele süüa tegema.	
+663	Alustad vähese õliga, siis prae natuke küüslauku.	
+664	Viska sisse paar tomatit, tomatipastat, prae veel ja vaata, et kinni ei jää.	
+665	Ajad selle keema, lükkad sisse kõik vorstid ja lihapallid.	
+666	Lisad veidi veini.	
+667	Ning natuke suhkrut.	
+668	See on minu nõks.	
+669	Lõpeta jama.	
+670	Mul on sulle palju tähtsamaid asju.	
+671	Kuidas Pauliega on?	
+672	Teda sa enam ei näe.	
+673	Kuhu sina lähed?	
+674	Linna.	
+675	Saatke ihukaitsjad kaasa.	
+676	Lähen haiglasse...	
+677	Ta saab hakkama.	
+678	Sollozzo teab, et ta tavaline tsiviil on.	
+679	Ole ettevaatlik.	
+680	Jah, söör.	
+681	Saatke ikkagi keegi kaasa.	
+682	Pean minema.	
+683	Kas võin kaasa tulla?	
+684	Ei, Kay.	
+685	Seal on uurijad, ajakirjanikud.	
+686	Ma ootan taksos.	
+687	Ma ei taha sind sellega siduda.	
+688	Kuna ma sind uuesti näen?	
+689	Mine tagasi New Hampshire'i, ma helistan su vanematele.	
+690	Millal ma sind uuesti näen, Michael?	
+691	Ma ei tea.	
+692	Mida te siin teete?	
+693	Te ei tohiks siin olla.	
+694	Ma olen Michael Corleone.	
+695	See on mu isa.	
+696	Mis valvuritega juhtus?	
+697	Su isal oli liiga palju külalisi.	
+698	Nad segasid haigla tööd.	
+699	Politsei saatis nad umbes kümne minuti eest minema.	
+700	Long Beach 45620, palun.	
+701	Õde.	
+702	Üks hetk.	
+703	Jääge siia.	
+704	Sonny, ma olen haiglas.	
+705	Jõudsin hilja siia, siin pole kedagi.	
+706	Ei Tessio mehi, ühtegi uurijat, kedagi.	
+707	Papa on üksinda.	
+708	Ära paanitse.	
+709	Ma ei paanitse.	
+710	Vabandust, aga te peate lahkuma.	
+711	Me liigutame ta teise tuppa.	
+712	Kas saate voolikud lahti ühendada?	
+713	See ei tule kõne allagi!	
+714	Kas tunnete mu isa?	
+715	Teda tullakse tapma.	
+716	Kas mõistate?	
+717	Aidake mind, palun.	
+718	Kes sa oled?	
+719	Mina olen Enzo, see pagar.	
+720	Mäletad mind?	
+721	Enzo.	
+722	Parem hakka minema, siin tuleb probleeme.	
+723	Kui probleeme, siis jään sulle appi.	
+724	Sinu isa pärast.	
+725	Kuula.	
+726	Oota mind väljas, haigla ees, eks?	
+727	Tulen kohe järele.	
+728	Lama rahulikult, Paps.	
+729	Mina hoolitsen nüüd sinu eest.	
+730	Ma olen sinuga.	
+731	Olen sinuga.	
+732	Viska need minema.	
+733	Tule siia.	
+734	Pane käsi taskusse, nagu oleks sul relv.	
+735	Sa saad hakkama.	
+736	Sa olid tubli.	
+737	Ma arvasin, et te kurikaelad olete kõik juba luku taga!	
+738	Miks keegi mu isa ei valva?	
+739	Sina väike peldik!	
+740	Ära tule siia õpetama!	
+741	Mina kutsusin nad tagasi.	
+742	Hoia sellest haiglast eemale!	
+743	Mitte enne, kui mu isa palatit valvatakse.	
+744	Phil, vii ta minema!	
+745	Poiss on puhas, kapten.	
+746	Ta on sõjakangelane.	
+747	Ta pole kunagi...	
+748	Ütlesin, et vii ta minema!	
+749	Palju Türklane sulle maksab?	
+750	Hoidke teda kinni.	
+751	Püsti.	
+752	Hoidke teda sirgelt.	
+753	Mina olen Corleonede advokaat.	
+754	Need mehed on palgatud siia valvama.	
+755	Neil on luba tulirelvi kanda.	
+756	Kui vahele segate, siis peate kohtu ette ilmuma.	
+757	Laske ta lahti.	
+758	Miks nii palju uusi nägusid?	
+759	Meil on neid nüüd vaja.	
+760	Peale haigla lugu Sonny vihastas.	
+761	Me ründame Tattagliat täna hommikul.	
+762	Jeesus Kristus.	
+763	Siin oleks justkui kindlus.	
+764	Tommasuccio!	
+765	Hei... 100 mundrimeest on tänaval 24 tundi päevas.	
+766	Kui Türklane kasvõi oma persekarva näitab, siis on ta surnud.	
+767	Mike, lase ma vaatan sind.	
+768	Sa oled ilus.	
+769	Lausa imeline.	
+770	Türklane tahab rääkida!	
+771	Kujutate sitapea jultumust ette.	
+772	Ta tahab täna kohtuda.	
+773	Mis ta ütles?	
+774	Mis ta ütles...	
+775	Ta tahab, et saadaksime Michaeli ettepanekut kuulama.	
+776	Ta lubab, et pakkumine on keeldumiseks liiga hea.	
+777	Ja Bruno Tattaglia?	
+778	See on osa tehingust.	
+779	Ta lõpetab isaga jamamise ära.	
+780	Me peaksime teda kuulama.	
+781	Ei!	
+782	Enam mitte, Consigliere.	
+783	Ei mingeid kohtumisi, arutelusid, ega Sollozzo vigureid.	
+784	Ma tahan Sollozzot, või astume sõtta...	
+785	Teised perekonnad...	
+786	Nad annavad mulle Sollozzo!	
+787	See on äri, mitte isiklik!	
+788	Nad tulistasid mu isa...	
+789	Isegi see on äri, mitte isiklik.	
+790	Siis peab äri kannatama.	
+791	Tee mulle üks teene.	
+792	Ei mingeid nõuandeid, kuidas asju parandada.	
+793	Lihtsalt aita mul võita.	
+794	Uurisin kapten McCluskey kohta, kes Mike'i lõuad segi lõi.	
+795	Ta on kindlalt Sollozzo palgal ja suure raha eest.	
+796	McCluskey nõustus olema Türklase ihukaitsjaks.	
+797	Seega, kui Sollozzot kaitstakse, on ta haavamatu.	
+798	Mitte keegi pole kunagi New Yorki politsei kaptenit tapnud.	
+799	Kõik perekonnad ründaksid sind.	
+800	Corleone perekond söödaks välja!	
+801	Isegi vanamehe poliitiline kaitse jookseks laiali.	
+802	Tee mulle üks teene.	
+803	Võta see arvesse.	
+804	Olgu, me ootame.	
+805	Me ei või oodata.	
+806	Me ei või oodata.	
+807	Mida iganes Sollozzo räägib, ta tapab isa.	
+808	See on võti tema juures.	
+809	Me peame teda ründama.	
+810	Mike'l on õigus.	
+811	Las ma küsin sult midagi.	
+812	Kuidas McCluskeyga jääb?	
+813	Mida me teeme selle võmmiga?	
+814	Nad tahavad minuga kohtuda, eks?	
+815	Seal oleme mina, McCluskey ja Sollozzo.	
+816	Korraldame kohtumise.	
+817	Las mehed kuulavad maad, kus see tehakse.	
+818	Nõuame, et see oleks avalik koht.	
+819	Baar või restoran.	
+820	Koht, kus oleks inimesi, et end turvalisena tunneksin.	
+821	Kindlasti otsitakse mind läbi.	
+822	Seega, ma ei saa relva kaasa võtta.	
+823	Aga kui Clemenza suudab minu jaoks sinna kuidagi relva sokutada... siis tapan nad mõlemad.	
+824	Tore kolledži poiss.	
+825	Enne ei tahtnud end perekonna asjadesse segada.	
+826	Nüüd tahad tappa politsei kaptenit, kuna ta sulle laksu andis?	
+827	See ei ole sõjavägi!	
+828	Sa pead lähedalt laskma ja ajud lendavad su ülikonnale.	
+829	Sa võtad seda liiga isiklikult.	
+830	Tom, see on äri aga ta võtab seda isiklikult.	
+831	Kus on kirjas, et võmmi ei tohi tappa?	
+832	Mikey...	
+833	Ma räägin võmmist, kes on segatud narkoärisse, ma räägin ebaausast võmmist.	
+834	Võmm, kes sattus liialt supi sisse ja sai oma palga.	
+835	See on suurepärane lugu.	
+836	Meil ju on ajalehtede inimesi palgal?	
+837	Neile võib selline lugu meeldida.	
+838	Võib küll.	
+839	See ei ole isiklik, Sonny.	
+840	See on puhas äri.	
+841	See on sama külm kui uus.	
+842	Võimatu jälitada, ära muretse sõrmejälgede pärast.	
+843	Panin spetsiaalse plaastri päästikule ja kabale.	
+844	Proovi seda.	
+845	Kas päästik käib liiga raskelt?	
+846	Mu kõrvad!	
+847	Ma jätsin selle valjuks, et see mittevajalikke pealtvaatajaid eemal hoiaks.	
+848	Oled mõlemat tulistanud.	
+849	Mis sa nüüd teed?	
+850	Istun maha ja lõpetan oma söögi.	
+851	Ära lollita.	
+852	Lase oma käel küljele vajuda ja libista püstol maha.	
+853	Kõik arvavad, et see on sinu käes.	
+854	Nad vahivad sind, kõnni kiiresti välja, aga ära jookse.	
+855	Ära kellelegi silma vaata, kuid ära ka kõrvale vaata.	
+856	Nad on surmani hirmunud, nii et ära muretse millegi pärast.	
+857	Kõik saab korda.	
+858	Võtad puhkuse, keegi ei tea, kuhu ja meie tegeleme põrguga.	
+859	Kui suur jama sellest tuleb?	
+860	Üsna suur.	
+861	Kõik teised perekonnad ilmselt koonduvad meie vastu.	
+862	Sellised asjad peavad juhtuma iga viie, kümne aasta tagant.	
+863	See puhastab verd.	
+864	Viimasest korrast on kümme aastat.	
+865	Nad tuleb juba alguses peatada.	
+866	Nagu nad oleksid pidanud peatama Hitleri Münchenis, mitte laskma tal tegutseda.	
+867	[NO TRANSLATION]	missing translation
+868	Tead ju küll, Mike, et me kõik olime uhked sinu üle.	
+869	See kangelase värk.	
+870	Sinu isa samuti.	
+871	Ei midagi.	
+872	Mitte piskutki.	
+873	Mitte midagi.	
+874	Isegi Sollozzo mehed ei tea, kus kohtumine toimub.	
+875	Palju meil veel aega on?	
+876	Na võtavad su Jack Dempsey juurest pooleteise tunni pärast peale.	
+877	Me võime neile saba järele panna.	
+878	Sollozzo raputaks meid maha.	
+879	Kuidas läbirääkijaga on?	
+880	Mängib minu meestega kaarte.	
+881	Ta on õnnelik.	
+882	Tal lastakse võita.	
+883	Liiga ohtlik.	
+884	Ehk peaksime selle katkestama.	
+885	Läbirääkija mängib kaarte, kuni Mike on turvaliselt tagasi.	
+886	Ta võib ükskõik kelle maha lasta.	
+887	Nad arvestavad sellega.	
+888	Sollozzo ei pruugigi autos olla, Sonny!	
+889	Ma vastan.	
+890	Louis' restoran Bronxis.	
+891	On see usaldatav?	
+892	Minu mees McCluskey ringkonnas.	
+893	Politsei kapten peab 24h päevas valmis olema.	
+894	Ta tuleb sinna 8 ja 10 vahel.	
+895	Keegi teab seda kohta?	
+896	Mina tean.	
+897	See on meile täiuslik.	
+898	Väike perekoht, hea toit.	
+899	Igaüks tegeleb oma asjadega.	
+900	Ideaalne.	
+901	Neil on vanamoodne toalett.	
+902	Teate küll, kast ja see keti asi.	
+903	Võib-olla õnnestub relv selle taha kinnitada.	
+904	Olgu.	
+905	Mike, mine restorani, söö, vestle veidi, lõõgastu.	
+906	Lase neil lõõgastuda.	
+907	Siis mine kusele.	
+908	Ei, parem küsi selleks luba.	
+909	Siis tule tagasi ja hakka kõmmutama.	
+910	Kaks lasku kummalegi pähe.	
+911	Ma tahan, et keegi väga hea paneks püstoli paika.	
+912	Ma ei taha, et ta tuleks välja ainult türa pihus.	
+913	Küll relv paika saab.	
+914	Sina viid ta kohale ja võtad hiljem peale.	
+915	Liigume.	
+916	Kas ta käskis sul relv kohe maha pillata?	
+917	Jah, miljon korda.	
+918	Ära unusta.	
+919	Kaks lasku kummalegi pähe kohe, kui välja tuled.	
+920	Kui kaua sinu arvates aega võtab enne, kui saan tagasi tulla?	
+921	Vähemalt aasta.	
+922	Räägin ise emaga, et sa ei saanud temaga enne lahkumist kohtuda...	
+923	Ja teatan ka sellele tüdrukule, kui õige aeg käes on.	
+924	Ole tubli.	
+925	Sina ka, Mike.	
+926	Tore, et tulid.	
+927	Loodetavasti saame kõik sirgeks rääkida.	
+928	Ma ei tahtnud, et asjad nii läheks.	
+929	Seda ei oleks tohtinud juhtuda.	
+930	Tahan kõik selgeks rääkida.	
+931	Ma ei taha, et mu isa enam tülitataks.	
+932	Vannun oma laste nimel, et seda ei tehta, Mike.	
+933	Aga sa pead avameelne olema, kui me räägime.	
+934	Loodan, et sa ei ole tuulepea nagu Sonny.	
+935	Temaga ei saa ärist rääkida.	
+936	Ta on tore poiss.	
+937	Vabandust tolle õhtu pärast, Mike.	
+938	Pean su läbi otsima, keera ringi.	
+939	Põlvili, näoga minu poole.	
+940	Ilmselt hakkan oma töö jaoks vanaks jääma.	
+941	Liiga äkiline.	
+942	Ma ei kannata pahandamist.	
+943	Tead ju küll.	
+944	Ta on puhas.	
+945	Kas läheme Jerseysse?	
+946	Võib-olla.	
+947	Hea töö, Lou.	
+948	Kuidas siin toit on?	
+949	Proovi vasikaliha.	
+950	See on parim linnas.	
+951	Ma võtan selle.	
+952	Ma räägin Mikeyga Itaalia keeles.	
+953	Lase käia.	
+954	Mida ma tahan...	
+955	Mis on minule kõige olulisem... on see, et mul oleks garantii.	
+956	Ei mingeid katseid enam mu isa tappa.	
+957	Mis garantiisid saan ma sulle anda?	
+958	Mind aetakse taga!	
+959	Magasin oma võimaluse maha.	
+960	Arvad must liiga palju, poiss.	
+961	Ma ei ole nii nutikas.	
+962	Tahan vaid vaherahu.	
+963	Pean tualetti minema.	
+964	Kas tohib?	
+965	Kui pead minema, siis mine.	
+966	[NO TRANSLATION]	missing translation
+967	Ta on puhas.	
+968	Ära kauaks jää.	
+969	Olen tuhandeid tolguseid läbi otsinud.	
+970	Olgu, võta üle.	
+971	Ma armastan sind, vanaisa.	
+972	Vabandust, isa.	
+973	Ta ei tunne sind veel.	
+974	Hei, suur kutt.	
+975	Anna see vanaisale.	
+976	Olgu.	
+977	Loodan, et paraned, vanaisa ja loodan sind varsti näha.	
+978	Sinu lapselaps Frank.	
+979	Mine emaga kaasa.	
+980	Vii nad alla.	
+981	Minge, Carlo, sina ka.	
+982	Minge.	
+983	Mis sul viga on, Carlo?	
+984	Ole vait ja kata laud.	
+985	McCluskey tapmisest saati on politsei meie operatsioone nurjanud.	
+986	Samuti teised perekonnad.	
+987	Palju halba verd on valatud.	
+988	Nad ründavad meid, meie ründame vastu.	
+989	Oma ajalehtede kontaktide kaudu oleme saanud avaldada materjali McCluskey ja Sollozzo seotuse kohta narkokaubanduses.	
+990	Nii et asjad hakkavad rahunema.	
+991	Saatsin Fredo Las Vegasesse Don Francesco kaitse all.	
+992	Tahan, et ta puhkaks.	
+993	Lähen kasiinoäri õppima.	
+994	Kus Michael on?	
+995	Michael tappiski Sollozzo.	
+996	Temaga on kõik korras.	
+997	Tegeleme tema tagasitoomisega.	
+998	Kas uurisid välja, kus vana Tattaglia redutab?	
+999	Tahan teda kohe.	
+1000	Sonny, asjad hakkavad paranema.	
+1001	Kui Tattaglia kallale lähed, läheb põrgu lahti.	
+1002	Vana võib läbi rääkida.	
+1003	Enne peaks ta paranema.	
+1004	Mina otsustan...	
+1005	Sõda on kallis.	
+1006	Me ei saa äri ajada.	
+1007	Nemad ka mitte.	
+1008	Ära muretse!	
+1009	Me ei saa endale surnud seisu lubada.	
+1010	Ei mingit surnud seisu.	
+1011	Tapan selle tõpra!	
+1012	Sa saad endale kõva nime külge!	
+1013	Tee nagu ma ütlen!	
+1014	Kui mul oleks sitsiillasest consigliere, poleks ma selles olukorras!	
+1015	Vanal oli Genco.	
+1016	Aga, mis minul on.	
+1017	Anna andeks.	
+1018	Ma ei mõelnud seda.	
+1019	Ema tegi süüa.	
+1020	On pühapäev.	
+1021	Neegrid veedavad aega röövides meie pankasid Harlemis.	
+1022	Sõidavad uute Cadillacitega, maksavad 50 protsenti panuse pealt.	
+1023	Sellepärast, et nad on hakanud suurt raha teenima.	
+1024	Isa ei rääkinud söögilaua taga kunagi äriasjadest.	
+1025	Jää vait, Connie...	
+1026	Ära kunagi enam nii talle ütle.	
+1027	Ära sega vahele.	
+1028	Ma tahaksin peale sööki sinuga rääkida.	
+1029	Võiksin perekonnale rohkem teha...	
+1030	Me ei aruta äriasju laua taga.	
+1031	Ma suudlen teie kätt, Don Tommasino.	
+1032	Miks sa kodust nii kaugele tulid?	
+1033	Sa ju tead, et vastutan sinu elu eest su isa ees.	
+1034	Ihukaitsjad on ju siin.	
+1035	Ikkagi on ohtlik...	
+1036	Saime teate Santinolt New Yorgist...	
+1037	Sinu vaenlased teavad, et sa siin oled.	
+1038	Kas Santino ütles, millal tagasi võin minna?	
+1039	Mitte veel.	
+1040	See ei tule kõne allagi.	
+1041	Kuhu sa nüüd lähed?	
+1042	[NO TRANSLATION]	missing translation
+1043	Võta minu auto.	
+1044	Ma tahan jalutada.	
+1045	Ole ettevaatlik.	
+1046	Kuhu kõik mehed kadunud on?	
+1047	Kõik on ära tapetud.	
+1048	Seal on surnute nimed.	
+1049	Hei, viige mind Ameerikasse, G.I.!	
+1050	Hei, viige mind Ameerikasse, G.I.!	
+1051	Clark Gable!	
+1052	Ameerika!	
+1053	Viige mind Ameerikasse, G.I. !	
+1054	Clark Gable, Rita Hayworth!	
+1055	Mamma mia, milline kaunitar.	
+1056	Sa vist said piksenoolega löögi pähe.	
+1057	Sitsiilias on naised ohtlikumad, kui püssid.	
+1058	Kas teil oli hea jaht?	
+1059	Kas sa tunned kõiki siinseid tüdrukuid?	
+1060	Me nägime paari tõelist iludust.	
+1061	Üks neist põrutas meie sõbrale nagu piksenool.	
+1062	Ta seaks ka saatana enda kiusatusse.	
+1063	Tõeline tükk.	
+1064	[NO TRANSLATION]	missing translation
+1065	Millised juuksed, milline suu!	
+1066	Siinsed tüdrukud on ilusad, aga osavad.	
+1067	Sellel oli purpurpunane kleit...	
+1068	Juustes oli tal purpurpunane pael.	
+1069	Rohkem kreeklase kui itaallase moodi.	
+1070	Kas sa tunned teda?	
+1071	Sellist tüdrukut siin linnas ei ole.	
+1072	Mu jumal, ma vist saan aru!	
+1073	Mis viga on?	
+1074	Lähme.	
+1075	Tüdruk on tema tütar.	
+1076	Palu tal siia tulla.	
+1077	Kutsu teda.	
+1078	Fabrizio, sina tõlgid.	
+1079	Ma vabandan, kui olen teid solvanud.	
+1080	Olen siin maal võõras.	
+1081	Ma ei soovinud üles näidata lugupidamatust teie ega teie tütre vastu.	
+1082	Olen ameeriklane, varjan end Sitsiilias.	
+1083	Minu nimi on Michael Corleone.	
+1084	On inimesi, kes selle info eest oleksid nõus palju raha maksma.	
+1085	Aga siis kaotaks teie tütar oma isa... selle asemel, et mehele minna.	
+1086	Ma soovin teie tütrega tutvuda.	
+1087	Teie loal ja teie perekonna järelvalve all.	
+1088	Kogu austusega.	
+1089	Tulge pühapäeva hommikul minu majja.	
+1090	Minu nimi on Vitelli.	
+1091	Mis tema nimi on?	
+1092	Ma ajan su uimaseks.	
+1093	Hoia see raamatukogu jaoks.	
+1094	Peame mu õele järele minema.	
+1095	Mis viga on?	
+1096	Mis viga on?	
+1097	Mina olin süüdi!	
+1098	Kus ta on?	
+1099	See oli minu süü.	
+1100	Mina lõin teda.	
+1101	Mina alustasin tüli.	
+1102	Mina lõin teda, siis lõi tema mind...	
+1103	Ma lähen toon arsti, et see su läbi vaataks.	
+1104	Sonny, palun ära tee midagi.	
+1105	Mis sul viga on?	
+1106	Mida ma ikka teen?	
+1107	Kas teen su lapsest orvu juba enne sündi?	
+1108	Kas te kaltsakat panete ikka veel panuseid Yankeese peale	
+1109	Käsi neil lõpetada.	
+1110	Möödunud nädalal kaotasime küllalt raha.	
+1111	Tule siia, tule siia!	
+1112	Kui mu õde veel puutud, siis tapan su.	
+1113	Hei!	
+1114	Me ei oodanud sind, Kay.	
+1115	Oleksid pidanud helistama.	
+1116	Jah, ma tegin seda.	
+1117	Olen üritanuid helistada ja kirjutada.	
+1118	Tahan Michaeliga kokku saada.	
+1119	Keegi ei tea, kus ta on.	
+1120	Teame vaid seda, et temaga on kõik korras.	
+1121	Mis juhtus?	
+1122	Õnnetus, keegi ei saanud viga.	
+1123	Tom, kas sa annad selle kirja Michaelile.	
+1124	Palun?	
+1125	Kui ma selle vastu võtan, on see tõendiks, et ma tean tema asukohta.	
+1126	Ta võtab sinuga ise ühendust.	
+1127	Lasin oma taksol minna, kas saaksin siit uue kutsuda?	
+1128	Tule edasi.	
+1129	Vabandust.	
+1130	Halloo?	
+1131	Kas Carlo on seal?	
+1132	Kes helistab?	
+1133	Üks Carlo sõber.	
+1134	Ütle talle, et ma täna ei jõua.	
+1135	Lirva!	
+1136	Õhtusöök on laual.	
+1137	Ma ei ole näljane.	
+1138	Toit jahtub ära.	
+1139	Söön hiljem väljas.	
+1140	Ise just käskisid omale õhtusöök valmistada!	
+1141	[NO TRANSLATION]	missing translation
+1142	[NO TRANSLATION]	missing translation
+1143	Tal on räpane suu, igavene Guinea jõmpsikas.	
+1144	Ongi kõik, lõhu kõik ära, sina hellitatud jõmpsikas.	
+1145	Lõhu kõik ära!	
+1146	Miks sa oma hoora koju õhtust sööma ei kutsu?	
+1147	Võib-olla kutsungi.	
+1148	Korista ära!	
+1149	Põrgutki ma koristan!	
+1150	Kondine, rikutud jõmpsikas.	
+1151	Korista see ära!	
+1152	Korista ära!	
+1153	Korista ära!	
+1154	Ma ütlesin, korista ära!	
+1155	Korista ära.	
+1156	Korista ära.	
+1157	Korista ära, vana...	
+1158	Korista!	
+1159	Korista ära!	
+1160	Just, tapa mind.	
+1161	Ole mõrtsukas nagu su isagi!	
+1162	Teie Corleoned olete kõik mõrvarid!	
+1163	Ma vihkan sind!	
+1164	Noh, tapa mind!	
+1165	Kao siit välja!	
+1166	Ma vihkan sind!	
+1167	Nüüd tapan mina sinu.	
+1168	Räpane jõmpsikas.	
+1169	Kao välja!	
+1170	Connie, mis viga on?	
+1171	Ma ei kuule sind.	
+1172	Connie, räägi valjemini.	
+1173	Laps nutab.	
+1174	Santino, ma ei mõista.	
+1175	Ma ei tea.	
+1176	Jah, Connie.	
+1177	Oota mind seal.	
+1178	Ei, lihtsalt oota seal.	
+1179	Igavene litapoeg.	
+1180	Litapoeg!	
+1181	Mis viga on?	
+1182	Avage see kuradi värav!	
+1183	Liigutage end.	
+1184	Sonny!	
+1185	Sonny.	
+1186	Kao siit!	
+1187	Minge talle järele!	
+1188	Litapoeg.	
+1189	Kaua võib!	
+1190	Anna mulle ka tilgake.	
+1191	Mu naine nutab üleval.	
+1192	Ma kuulen, kuidas autod maja juurde sõidavad.	
+1193	Minu Consigliere, ütle oma Donile, mida kõik teised ilmselt juba teavad.	
+1194	Ma ei öelnud Mamale midagi.	
+1195	Pidin lihtsalt sind üles ajama ja sulle rääkima.	
+1196	Aga sa vajasid enne üht napsu.	
+1197	Jah.	
+1198	Noh, sa said oma napsu.	
+1199	Nad tulistasid Sonny't.	
+1200	Ta on surnud.	
+1201	Ärge tehke mingeid uurimisi.	
+1202	Ma ei soovi mingeid kättemaksuaktsioone.	
+1203	Soovin korraldada kohtumist... viie perekonna juhtide vahel.	
+1204	Siin see sõda lõpeb.	
+1205	Helista Bonaserale.	
+1206	Ma vajan teda nüüd.	
+1207	Siin on Tom Hagen.	
+1208	Ma helistan Vito Corleone palvel.	
+1209	Te võlgnete oma Donile ühe teene.	
+1210	Ta ei kahtlegi, et osutate selle.	
+1211	Ta tuleb tunni aja pärast teie matusebüroosse.	
+1212	Tulge talle vastu.	
+1213	Mu sõber, kas sa oled valmis mulle seda teenet osutama?	
+1214	Jah.	
+1215	Mida ma tegema peaksin?	
+1216	Ma tahan, et sa kasutaksid kogu oma võimu ja oskusi.	
+1217	Ma ei taha, et tema ema teda sellisena näeks.	
+1218	Vaata, kuidas nad mu poja ära lõhkusid.	
+1219	Ohutum on sulle inglise keelt õpetada!	
+1220	Ma oskan seda...	
+1221	Monday, Tuesday, Thursday, Wednesday, Friday, Sunday, Saturday.	
+1222	Tervitus, Don Tommasino.	
+1223	Kuidas Palermos asjalood on?	
+1224	Michael õpetab mulle autojuhtimist.	
+1225	Vaata, ma näitan sulle.	
+1226	Kuidas Palermos asjad on?	
+1227	Noored inimesed ei austa enam midagi...	
+1228	ajad lähevad üha halvemaks.	
+1229	See koht on sulle liiga ohtlikuks muutunud.	
+1230	Ma tahan, et sa koliksid Siracusa lähedale villasse... kohe.	
+1231	Mis viga on?	
+1232	Halvad uudised Ameerikast.	
+1233	Sinu vend, Santino, nad tapsid ta.	
+1234	Lähme...	
+1235	sa lubasid.	
+1236	[NO TRANSLATION]	missing translation
+1237	Too auto.	
+1238	Kas sa sõidad ise, Boss?	
+1239	Kas su naine ka kaasa tuleb?	
+1240	Ei, vii ta oma isa majja, kuni asjad rahunevad.	
+1241	Olgu, kuidas soovid.	
+1242	Calo, kus Apollonia on?	
+1243	Ta tahab sulle üllatust teha.	
+1244	Ta tahab ise sõita.	
+1245	Temast saab hea ameerika naine.	
+1246	Oota, ma toon koti.	
+1247	Fabrizio!	
+1248	Kuhu sa lähed?	
+1249	Oota seal!	
+1250	Ma sõidan sinu juurde.	
+1251	Ei, Apollonia!	
+1252	Don Barzini, soovin sind tänada, et aitasid mul organiseerida seda kohtumist ja teisi perekondade juhte New Yorgist ja New Jerseyst.	
+1253	Carmine Cuneo Bronxist ja Brooklynist... Philip Tattaglia.	
+1254	Staten lslandilt on koos meiega Victor Strachi.	
+1255	Samuti teised liitlased, kes tulid nii kaugelt nagu Californiast ja Kansas Cityst ja ka teised riigi territooriumid	
+1256	Tänan teid.	
+1257	Kuidas küll asjad nii kaugele arenesid?	
+1258	Mina ei tea.	
+1259	See oli nii õnnetu, nii mittevajalik.	
+1260	Tattaglia kaotas poja ja mina kaotasin poja.	
+1261	Oleme tasa.	
+1262	Ja kui Tattaglia nõustub, siis sooviksin lasta asjadel edasi minna nagu varemgi.	
+1263	Oleme Don Corleonele tänulikud, et ta selle kohtumise kokku kutsus.	
+1264	Me kõik teame teda sõnapidaja mehena.	
+1265	Tagasihoidlik mees, kes alati enne mõtleb.	
+1266	Jah, Don Barzini.	
+1267	Ta on liiga tagasihoidlik.	
+1268	Tal olid kõik kohtunikud ja poliitikud taskus olemas.	
+1269	Ta keeldus neid jagamast.	
+1270	Millal ma olen kokkuleppest keeldunud?	
+1271	Te kõik tunnete mind.	
+1272	Millal olen ma keeldunud, peale seda ühte korda?	
+1273	Ja miks?	
+1274	Sest ma usun, et see narkoäri hävitab meid tulevikus.	
+1275	See pole nagu hasartmängud, või salaalkohol, või isegi naised, mida enamus inimesi tahavad, aga mis on kiriku poolt keelatud.	
+1276	Isegi politsei, kes meid ikka aidanud on hasartmängude ja muude asjade juures, keeldub abi osutamast, kui tegemist on narkootikumidega.	
+1277	Uskusin seda siis... ja usun ka praegu.	
+1278	Ajad on muutunud.	
+1279	Ei ole enam nagu varem, kui võisime teha, mida iganes.	
+1280	Keeldumine ei ole sõbra käitumine.	
+1281	Kui Don Corleonel oleks kõik poliitikud ja kohtunikud, siis peab ta neid jagama või laskma teistel neid kasutada.	
+1282	Ta peab lubama meilgi kaevust vett võtta.	
+1283	Muidugi võib ta selliste teenuste eest arve esitada.	
+1284	Peale kõige, me ei ole ju kommunistid.	
+1285	Ka mina ei usu narkootikumidesse.	
+1286	Olen aastaid oma inimestele lisa maksnud, et nad sellega ei tegeleks.	
+1287	Keegi ütleb neile Mul on pulbrit.	
+1288	Kui investeerid 3-4,000 dollarit, võid saada 50,000 dollarit kasumit.	
+1289	Nad ei saa keelduda.	
+1290	Soovin seda kontrollida, kui äri, hoida seda normaalsena.	
+1291	Ma ei soovi seda koolide lähedale, ma ei taha, et seda lastele müüdaks.	
+1292	See on infāmia.	
+1293	Minu linnas võiksime põhiliselt värvilistele müüa.	
+1294	Nad on loomad, las nad pealegi kaotavad oma hinged.	
+1295	Ma lootsin, et tuleme siia üheskoos arutlema.	
+1296	Ma olen valmis tegema mida iganes, et rahumeelne lahendus leida.	
+1297	Oleme kokku leppinud.	
+1298	Narkoäri lubatakse, ent kontrollitakse.	
+1299	Don Corleone annab meile kaitse idast ja seal saab olema rahu.	
+1300	Ma vajan otsest kinnitust Corleonelt.	
+1301	Kui aeg läheb edasi ja tema positsioon muutub tugevamaks, ehk proovib ta siiski kätte maksta?	
+1302	Oleme kõik mõistlikud mehed.	
+1303	Me ei pea andma mingeid tagatisi.	
+1304	Sa räägid kättemaksust.	
+1305	Kas kättemaks toob su poja sinu juurde tagasi?	
+1306	Või minu oma minu juurde?	
+1307	Ma unustan kättemaksu oma poja eest.	
+1308	Kuid mul on omad põhjused.	
+1309	Minu noorim poeg oli sunnitud lahkuma sellest riigist... selle Sollozzo asja pärast.	
+1310	Ja mul on vaja korraldada tema ohutu tagasitulek siia.	
+1311	Puhastada ta kõigist valesüüdistustest.	
+1312	Ent ma olen ebausklik mees.	
+1313	Kui temaga peaks mingi õnnetus juhtuma, kui teda tulistab politseinik, või kui ta poob end kongis üles, või kui teda tabab piksenool, siis süüdistan ma kedagi siit ruumist.	
+1314	Ja seda asja ma juba ei andesta.	
+1315	Aga teisest küljest... tahan ma vanduda... oma lastelaste hingede nimel, et mina seda rahu ei lõhu, mille me täna saavutasime.	
+1316	Kas ma peaksin nõudma, et Tattaglia narkomeestel oleksid puhtad paberid?	
+1317	Maini seda.	
+1318	Ära nõua.	
+1319	Barzini saab teada rääkimatagi.	
+1320	Sa pead silmas Tattagliat.	
+1321	Tattaglia on kupeldaja.	
+1322	Ta poleks iialgi suutnud Santinole häda teha.	
+1323	Kuid ma ei teadnud, kuni tänaseni, kas see oli Barzini.	
+1324	Tule juba, Nancy.	
+1325	Hoidke kokku, kõik.	
+1326	Brian.	
+1327	Olgu siis.	
+1328	Kui kaua sa juba tagasi oled olnud?	
+1329	Aasta aega.	
+1330	Rohkemgi, ma arvan.	
+1331	Tore sind näha, Kay.	
+1332	Töötan nüüd oma isa juures, Kay.	
+1333	Ta on haige.	
+1334	Väga haige.	
+1335	Aga sa ei ole nagu tema.	
+1336	Sa ütlesid, et ei muutu oma isasuguseks.	
+1337	Mu isa on samasugune nagu iga teinegi võimukas mees.	
+1338	Iga mees, kes vastutab teiste inimeste eest.	
+1339	Nagu senaator või president.	
+1340	Sa kõlad nii naiivselt.	
+1341	Miks?	
+1342	Nemad ei tapa inimesi.	
+1343	Kes on naiivne, Kay?	
+1344	Minu isa moodi asjade ajamine on möödas.	
+1345	Isegi tema teab seda.	
+1346	Viie aasta pärast on Corleone perekond täiesti seaduslik.	
+1347	Usalda mind.	
+1348	Nii palju saan ma sulle oma ärist rääkida.	
+1349	Kay...	
+1350	Michael, miks sa siia tulid?	
+1351	Miks?	
+1352	Mida sa minult tahad pärast neid aastaid?	
+1353	Olen helistanud ja kirjutanud.	
+1354	Tulin, sest ma vajan sind.	
+1355	Ma hoolin sinust.	
+1356	Palun lõpeta, Michael.	
+1357	Sest...	
+1358	ma tahan, et tuleksid mulle naiseks.	
+1359	Selleks on liiga hilja.	
+1360	Palun, Kay...	
+1361	Teen mida iganes sa soovid, et meiega juhtunut heaks teha.	
+1362	Sest see on tähtis, Kay.	
+1363	Sest tähtis on see, et... me oleme teineteisel olemas.	
+1364	Et meil on ühine elu.	
+1365	Et meil on lapsed.	
+1366	Meie lapsed.	
+1367	Kay, ma vajan sind.	
+1368	Ja ma armastan sind.	
+1369	Barzini mehed võtavad meie territooriumi üle ja me ei tohi midagi ette võtta!	
+1370	Varsti ei ole mul kohta, kuhu kaabut riputada!	
+1371	Ole kannatlik.	
+1372	Ma ei palu abi.	
+1373	Võtke lihtsalt käerauad ära.	
+1374	Ole kannatlik.	
+1375	Me peame end kaitsma.	
+1376	Luba ma värban uusi mehi.	
+1377	Ei.	
+1378	See oleks Barzinile ettekäändeks.	
+1379	Mike, sa eksid.	
+1380	Don Corleone...	
+1381	Kunagi sa ütlesid, et Tessio ja mina võime ühel päeval oma perekonna luua.	
+1382	Kuni tänaseni, pole ma sellele mõelnud.	
+1383	Ma pean su luba küsima.	
+1384	Michael on nüüd perekonna pea.	
+1385	Kui tema loa annab, siis on teil ka minu õnnistus.	
+1386	Pärast seda, kui liigume Nevadasse, võite Corleone perekonnast lahkuda ja omapäi edasi minna.	
+1387	Kuna see juhtuks?	
+1388	Kuue kuu pärast.	
+1389	Andesta, aga kui sa lahkud, siis mina ja Pete satume Barzini pöidla alla.	
+1390	Ma vihkan seda Barzinit.	
+1391	Kuue kuu pärast pole midagi järel, millest ehitada.	
+1392	Kas teil on usku minu otsustesse?	
+1393	Jah.	
+1394	Kas te olete lojaalsed?	
+1395	Alati, Ristiisa.	
+1396	Siis olge Michaelile sõbrad.	
+1397	Tehke nagu ta ütleb.	
+1398	Asju arutatakse, varsti lahenevad kõik teie probleemid ja teie küsimused leiavad vastused.	
+1399	Rohkem ma hetkel öelda ei saa.	
+1400	Carlo, sina kasvasid Nevadas üles.	
+1401	Kui sinna liigume, siis sinust saab minu parem käsi.	
+1402	Tom Hagen ei ole enam consigliere.	
+1403	Ta hakkab meie advokaadiks Vegases.	
+1404	Mul pole midagi Tomi vastu, ma lihtsalt tahan nii.	
+1405	Kui kunagi abi vajan, siis kes oleks parem consigliere kui mu isa?	
+1406	See on kõik.	
+1407	Aitäh sulle, Poppa.	
+1408	Mul on sinu üle hea meel, Carlo.	
+1409	Mike...	
+1410	Miks mina väljas olen?	
+1411	Sa ei ole sõjaaja consigliere, Tom.	
+1412	Selle käiguga võivad asjad karmiks minna.	
+1413	Tom.	
+1414	Ma nõustasin Michaelit.	
+1415	Ma ei pidanud sind iialgi halvaks consigliere'ks.	
+1416	Ma arvasin, et Santino oli halb Don, puhaku ta rahus.	
+1417	Michaelil on kogu mu usaldus, nagu sinulgi.	
+1418	Sellel on omad põhjused, miks sa ei tohi edaspidi osaleda.	
+1419	Võib-olla saan aidata.	
+1420	Sa oled väljas, Tom.	
+1421	Ma ei saa aru, kuidas su nägu välja näeb.	
+1422	Väga ilus!	
+1423	See arst tegi head tööd.	
+1424	Kas Kay rääkis su pehmeks?	
+1425	Hei, sina seal!	
+1426	Jätke need siia.	
+1427	Ta on väsinud ja soovib end pesta.	
+1428	Las ma teen ukse lahti, eks?	
+1429	Tere, Mike!	
+1430	Tere tulemast Las Vegasesse!	
+1431	Kõik on sulle, poiss!	
+1432	Tema idee.	
+1433	Sinu vend Freddy.	
+1434	Tüdrukud?	
+1435	Tulen kohe tagasi.	
+1436	Leia nendele tegevust.	
+1437	Mida iganes, poiss, mida iganes.	
+1438	Kes need tüdrukud on?	
+1439	Selle pead sa ise välja uurima.	
+1440	Saada nad minema, Fredo.	
+1441	Kuule, Mike...	
+1442	Olen siin äriasjus.	
+1443	Saada nad minema.	
+1444	Olen väsinud.	
+1445	Saada ka bänd minema.	
+1446	Hei, laske jalga.	
+1447	Laske jalga.	
+1448	Lähme.	
+1449	Hei, aitab küll.	
+1450	Kuule, Angelo.	
+1451	Aitab, laske jalga!	
+1452	[NO TRANSLATION]	missing translation
+1453	Noh, kullake.	
+1454	Ma ei tea, mis tal viga on, Johnny.	
+1455	Vabandust.	
+1456	Ma ei tea.	
+1457	Ta on väsinud.	
+1458	Mis Moe Greenest sai?	
+1459	Ta oli hõivatud.	
+1460	Ta palus endale helistada, kui pidu algas.	
+1461	Noh, eks helista siis.	
+1462	Johnny, kuidas läheb?	
+1463	Tore sind näha, Mike.	
+1464	Oleme sinu üle uhked.	
+1465	Tänan.	
+1466	Istu maha, tahan sinuga rääkida.	
+1467	Don on samuti uhke.	
+1468	Ma võlgnen kõik selle talle.	
+1469	Ta teab, kui tänulik sa oled.	
+1470	Seepärast ta tahabki sinult ühte teenet paluda.	
+1471	Mike, kuidas saan aidata?	
+1472	Me mõtleme loobuda oma huvidest oliiviõli äris ja tegeleda äriga siin.	
+1473	Moe müüb meile oma osa kasiinost ja hotellist, see saab tervenisti meile.	
+1474	Tom!	
+1475	Oled sa kindel?	
+1476	Moe armastab seda äri.	
+1477	Ta ei rääkinud midagi müümisest.	
+1478	Ma teen talle pakkumise, millest ei saa keelduda.	
+1479	Vaata, Johnny...	
+1480	Mõtlesime, et meelelahutus meelitaks mängureid kasiinosse.	
+1481	Loodame, et kirjutad alla lepingule ja esineksid siin viis korda aastas.	
+1482	Võib-olla suudad veenda oma sõpru filmidest sama tegema.	
+1483	Me loodame sinule.	
+1484	Muidugi, Mike.	
+1485	Teeksin kõike oma ristiisa heaks.	
+1486	Tore.	
+1487	Tere, Mike!	
+1488	Tere, mehed.	
+1489	Kõik on siin.	
+1490	Freddy, Tom.	
+1491	Tore sind näha.	
+1492	Kuidas elad, Moe?	
+1493	Oled kõike saanud?	
+1494	Spetsiaalselt valmistatud toit, parimad tantsijad, hea krediit.	
+1495	Tooge ūetoone kõigile, et nad saaksid maja kulul mängida.	
+1496	Kas minu krediidist piisab sinu äraostmiseks?	
+1497	Minu äraostmiseks?	
+1498	Kasiino, hotell.	
+1499	Corleone perekond soovib sinu osa ära osta.	
+1500	Corleone perekond tahab minu osa ära osta?	
+1501	Ei, ma ise ostan teid ära.	
+1502	Sinu kasiino kaotab raha.	
+1503	Me suudame paremat.	
+1504	Kas arvad, et riisun kasumist endale?	
+1505	Sul ei ole vedanud.	
+1506	Su neegrid ajavad mu naerma.	
+1507	Ma võtsin Freddy siia, kui teil halvad ajad olid ja nüüd tahate mind välja ajada!	
+1508	Sa tegid seda, sest meie päästsime sinu kasiino ja Molinari perekond garanteeris turvalisuse.	
+1509	Räägime ärist.	
+1510	Just.	
+1511	Esmalt, te olete läbi.	
+1512	Teil pole enam neid muskleid.	
+1513	Ristiisa on haige.	
+1514	Teid aetakse New Yorgist minema.	
+1515	Kas tõesti arvate, et võite siia hotelli tulla ja asi üle võtta?	
+1516	Rääkisin Barziniga.	
+1517	Ma võin temaga tehingu teha ja hotell jääks alles!	
+1518	Kas sa sellepärast lõidki mu venda avalikult?	
+1519	See oli tühiasi, Mike.	
+1520	Moe, ei mõelnud seda tõsiselt.	
+1521	Vahel ta kaotab enesevalitsuse, aga me oleme head sõbrad.	
+1522	Mul on vaja äri juhtida.	
+1523	Vahepeal on vaja tagumikku virutada.	
+1524	Meil oli erimeelsusi, seega pidin talle koha kätte näitama.	
+1525	Sa pidid minu vennale koha kätte näitama?	
+1526	Ta keppis ettekandjatega!	
+1527	Mängijatele ei toodud jooke.	
+1528	Mis sul viga on?	
+1529	Ma lahkun homme New Yorki.	
+1530	Mõtle hinna peale.	
+1531	Litapoeg!	
+1532	Mina olen Moe Greene!	
+1533	Mina olin juba mees, kui sina alles kooliplikadega jamasid.	
+1534	Oota väheke, Moe.	
+1535	Mul on mõte.	
+1536	Tom, sina oled consigliere.	
+1537	Räägi Doniga...	
+1538	Pea nüüd.	
+1539	Don on pooleldi pensionil ja Mike vastutab nüüd pereasjade eest.	
+1540	Kui sul on midagi öelda, siis ütle seda Michaelile.	
+1541	Mike, sa ei tule Las Vegasesse ja ei räägi Moe Greeniga sedasi!	
+1542	Fredo...	
+1543	Sa oled mu vanem vend ja ma armastan sind.	
+1544	Kuid ära enam kunagi asu ühele poolele perekonna vastasega.	
+1545	[NO TRANSLATION]	missing translation
+1546	Pean kohtuma oma isaga ja teistega, õhtusta ilma minuta.	
+1547	Nädalavahetusel läheme välja.	
+1548	Lähme linna, etendusele ja õhtustama.	
+1549	Su õde tahab sinult midagi küsida.	
+1550	Las ta siis küsib.	
+1551	Ta kardab.	
+1552	Nad tahavad, et hakkaksid nende pojale ristiisaks.	
+1553	Vaatame seda asja.	
+1554	Kas hakkad?	
+1555	Las ma mõtlen sellele.	
+1556	Tule nüüd.	
+1557	Barzini teeb esimese käigu.	
+1558	Ta kohtub kellegagi, keda sa täielikult usaldad.	
+1559	Garanteerib sinu turvalisuse.	
+1560	Ja sellel kohtumisel sind tapetakse.	
+1561	Mulle meeldib vein rohkem, kui varem.	
+1562	Igatahes joon ma rohkem.	
+1563	See teeb sulle head, Pop.	
+1564	Ma ei tea.	
+1565	Kas oled oma naise ja lastega õnnelik?	
+1566	Väga õnnelik.	
+1567	See on hea.	
+1568	Ma loodan, et sa ei pahanda, et sedasi Barzini asjast üle hüppan.	
+1569	Ei, üldsegi mitte.	
+1570	See on vana harjumus.	
+1571	Ma veedan oma elu, püüdes mitte hoolimatu olla.	
+1572	Naised ja lapsed võivad hoolimatud olla, aga mitte mehed.	
+1573	Kuidas su poiss elab?	
+1574	Hästi.	
+1575	Ta paistab iga päevaga üha rohkem sinu moodi.	
+1576	Ta on minust targem.	
+1577	Ta on kolmene ja juba loeb koomikseid.	
+1578	Loeb koomikseid.	
+1579	Ma tahan, et sa korraldaksid kõikide sisenevate ja väljuvate telefonikõnede kontrollimise.	
+1580	Juba tegin seda.	
+1581	Hoolitsesin selle eest, Pop.	
+1582	Õigus jah.	
+1583	Ma unustasin.	
+1584	Mis viga on?	
+1585	Mis sind vaevab?	
+1586	Ma saan hakkama.	
+1587	Ütlesin ju sulle et saan, seega ka saan.	
+1588	Ma teadsin, et Santino peab selle kõik läbi tegema.	
+1589	Ja Fredo...	
+1590	Fredo oli, noh...	
+1591	Ma ei tahtnud seda kunagi sulle.	
+1592	Töötasin kogu oma elu.	
+1593	Ma ei vabanda oma perekonna eest hoolitsemise pärast.	
+1594	Ja ma keeldusin loll olemast, kes tantsib nööril ja hoiab neid suuri võimalusi.	
+1595	Ma ei vabanda.	
+1596	Selline on minu elu, aga ma mõtlesin, et... kui sinu aeg tuleb, siis hoiaksid sina neid suuri võimalusi.	
+1597	Senaator Corleone.	
+1598	Kuberner Corleone.	
+1599	Midagi sellist.	
+1600	Järjekordne pezzo da novanta.	
+1601	Noh...	
+1602	Polnud küllaldaselt aega, Michael.	
+1603	Polnud piisavalt aega.	
+1604	Me jõuame sinna, Pop.	
+1605	Me jõuame sinna.	
+1606	Kuula nüüd, kes iganes tuleb sinu juurde Barziniga kohtumisest rääkima, on reetur.	
+1607	Ära seda unusta.	
+1608	Kas ma võin seda hoida, palun?	
+1609	Kas võin neid kasta?	
+1610	Jah, lase käia.	
+1611	Siia, siia.	
+1612	Ole ettevaatlik.	
+1613	Pillad selle maha.	
+1614	Antony!	
+1615	Tule siia, tule siia.	
+1616	Ongi kõik.	
+1617	Paneme selle siia.	
+1618	Ma näitan sulle midagi.	
+1619	Tule siia.	
+1620	Seisa siin.	
+1621	Anna mulle üks apelsin!	
+1622	See on uus trikk.	
+1623	Sina jookse sinna.	
+1624	[NO TRANSLATION]	missing translation
+1625	Kus sa oled?	
+1626	Mike, on sul hetk aega?	
+1627	Barzini tahab kohtumist korraldada.	
+1628	Ta ütleb, et võime kõik oma probleemid lahendada.	
+1629	Kas sa rääkisid temaga?	
+1630	Jah.	
+1631	Ma võin turvalisuse tagada.	
+1632	Oma territooriumil.	
+1633	Kõik korras?	
+1634	Jah.	
+1635	Kas sa tead, kuidas nad su tabada plaanivad?	
+1636	Nad korraldavad kohtumist Brooklynis.	
+1637	Tessio pinna peal.	
+1638	Seal on ohutu.	
+1639	Ma arvasin alati, et see on Clemenza, mitte Tessio.	
+1640	See on tark käik.	
+1641	Tessio oli alati targem.	
+1642	Aga ma ootan.	
+1643	Pärast ristimist.	
+1644	Otsustasin hakata Connie lapsele ristiisaks.	
+1645	Siis ma kohtun Don Barziniga ja Tattagliaga.	
+1646	Kõigi viie perekonna juhtidega.	
+1647	Michael, kas sa usud jumalasse, isasse, taeva ja maa loojasse?	
+1648	Jah.	
+1649	Kas sa usud Jeesusesse Kristusesse, tema ainsasse poega, meie issandasse?	
+1650	Jah.	
+1651	Kas sa usud pühasse vaimu, pühasse katoliku kirikusse?	
+1652	Jah.	
+1653	Michael Francis Rizzi, Kas sa ütled saatanast lahti?	
+1654	Ütlen küll.	
+1655	Ja kogu tema toimingutest?	
+1656	Jah.	
+1657	Oh, jumal!	
+1658	Ja tema hiilgusest?	
+1659	Jah.	
+1660	Michael Rizzi, kas sa tahad ristitud saada?	
+1661	Jah.	
+1662	Michael Rizzi, mine rahus ja olgu issand sinuga.	
+1663	Aamen.	
+1664	Kay!	
+1665	Suudle oma ristiisa.	
+1666	Ma ei saa Vegasesse tulla.	
+1667	Midagi tuli vahele.	
+1668	Peate ilma minuta lahkuma.	
+1669	Mike, see on meie esimene puhkus!	
+1670	Connie, palun.	
+1671	Mine tagasi koju, oota mu kõnet.	
+1672	See on tähtis.	
+1673	Olen ainult paar päeva ära.	
+1674	Oleme teel Brooklynisse.	
+1675	Loodan, et Mike saab hea tehingu.	
+1676	Olen selles kindel.	
+1677	Sal, Tom, boss ütles, et tuleb eraldi autoga, teie minge ees.	
+1678	See rikub mu korraldused ära.	
+1679	Nii ta ütles.	
+1680	Mina ka ei saa tulla, Sal.	
+1681	Ütle Mikele, et see oli ainult äri.	
+1682	Ta meeldis mulle alati.	
+1683	Ta mõistab seda.	
+1684	Vabanda mind, Sal.	
+1685	Tom, kas sa saaks mind konksu otsast alla?	
+1686	Vanade aegade nimel?	
+1687	Kahjuks ei saa, Sally.	
+1688	Sa pead Santino eest kostma, Carlo.	
+1689	Mike, oled valesti aru saanud.	
+1690	Sina söötsid Sonny Barzinile ette.	
+1691	See farss, mis sa minu õega mängisid.	
+1692	Arvasid, et suudad Corleonet lollitada?	
+1693	Olen süütu.	
+1694	Vannun laste nimel.	
+1695	Palun, ära tee seda.	
+1696	Istu maha.	
+1697	Ära tee seda, palun.	
+1698	Barzini on surnud.	
+1699	Samuti Philip Tattaglia.	
+1700	Moe Greene.	
+1701	Strachi.	
+1702	Cuneo.	
+1703	Täna tegelen kõikide perekondadega, nii et ära tule ütlema, et sa süütu oled, Carlo.	
+1704	Tunnista, mida sa tegid.	
+1705	Tooge talle juua.	
+1706	Tule lagedale.	
+1707	Ära karda, Carlo.	
+1708	Kas sa arvad, et teeksin oma õest lese?	
+1709	Olen su poja ristiisa, Carlo.	
+1710	Lase käia, joo.	
+1711	Ei, sa oled perekonnaärist väljas.	
+1712	See on sinu karistus.	
+1713	Sinuga on lõpp.	
+1714	Panen su Vegase lennuki peale.	
+1715	Tom.	
+1716	Tahan, et seal püsiksid.	
+1717	Mõistad?	
+1718	Ära ainult ütle, et oled süütu.	
+1719	Sest see solvab minu intelligentsi.	
+1720	Teeb mu väga vihaseks.	
+1721	Kes sinuga ühendust võttis?	
+1722	Tattaglia või Barzini?	
+1723	See oli Barzini.	
+1724	Hästi.	
+1725	Väljas ootab auto, et sind lennujaama viia.	
+1726	Helistan su naisele ja ütlen, millisel lennul sa oled.	
+1727	Mike...	
+1728	Kao mu silmist.	
+1729	Tere, Carlo.	
+1730	Üritan sulle öelda...	
+1731	Mama, palun!	
+1732	Michael!	
+1733	Mis on?	
+1734	Kus ta on?	
+1735	Michael, vilets närukael!	
+1736	Sa tapsid mu mehe.	
+1737	Sa ootasid, kuni isa sureb, et keegi sind takistada ei saaks.	
+1738	Süüdistasid teda Sonny pärast.	
+1739	Kõik tegid seda.	
+1740	Aga minu peale ei mõelnud sa kunagi!	
+1741	Mida me nüüd peale hakkame?	
+1742	Connie.	
+1743	Miks ta sinu arvates hoidis Carlot	
+1744	Ta teadis kogu aeg, et tapab ta.	
+1745	Ja sa hakkasid veel meie lapsele ristiisaks.	
+1746	Igavene vilets närukael!	
+1747	Kas tahad teada, kui palju mehi ta tappa laskis?	
+1748	Loe ajalehti!	
+1749	See on sinu abikaasa, sinu abikaasa!	
+1750	Ei!	
+1751	Ei...	
+1752	Vii ta üles.	
+1753	Kutsu arst.	
+1754	Ta on hüsteeriline.	
+1755	Hüsteeriline.	
+1756	Michael, kas see on tõsi?	
+1757	Ära küsi minu äri kohta, Kay.	
+1758	Kas see on tõsi?	
+1759	Ära päri minu äri kohta.	
+1760	Aitab!	
+1761	Olgu.	
+1762	See on ainuke kord.	
+1763	Sel korral tohid sa küsida minu tegemiste kohta.	
+1764	Kas see on tõsi?	
+1765	On või?	
+1766	Ei.	
+1767	Ilmselt vajame mõlemad napsu.	
+1768	Tule.	
+1769	Don Corleone.	

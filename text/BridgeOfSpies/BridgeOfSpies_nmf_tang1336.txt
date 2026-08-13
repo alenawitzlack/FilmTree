@@ -1,0 +1,1885 @@
+1	Next kakham apam Broad Street.	
+2	Broad Street chi next ne.	
+3	Upstairs.	
+4	Hishong.	
+5	Hishong li maka hai maite?	
+6	Katha?	
+7	Hi li mazak mane.	
+8	Ta use.	
+9	Yang laga zakno.	
+10	Makathei ne.	
+11	Hi wui ngalem li kham haolu.	
+12	Visitors.	
+13	Iwui aha khui fage?	
+14	Colonel, khanuk ngareilu?	
+15	Bed li vapamsang lu.	
+16	Zatlu.	
+17	Uh, aha...	
+18	Aha chi, uh chili... Apahng mazik khavai li haika hai da lei.	
+19	I li yanglu.	
+20	Ithum Federal Bureau of Investigationwui agent ne.	
+21	I li yahng lu!	
+22	Na li ngahanda khalei ne.	
+23	Na espionage ot saye kachi ithum pao samphng haira.	
+24	Na ithumna kahang masa akha, na li tuk khui haora.	
+25	Phabta hairala, Colonel?	
+26	Mathada phab mata runge.	
+27	Khiwuivang eing I li Colonel da hoda khalei khala?	
+28	Sari shaksa khuihao lu.	
+29	Ithum nawui shim hi pha ura.	
+30	I machu mixsa khavai khongphei chi samatha haifakila?	
+31	Maning akha machubing chi zakshi haora.	
+32	Chi nawui khanukwui chi.	
+33	Iwui chonshi chili hai dalei.	
+34	Ningshi haire.	
+35	Pha phok ula.	
+36	Ningshi haire.	
+37	Mathada phalu, mattress li la, bed li la, floorboardbing li la, awui chair li la.	
+38	Na hi ashtray li kasangmi hao kila, chiwui window li kahai chili?	
+39	Chiwui desk li la mathada yanglu.	
+40	Chiwui desk chi mathada yanglu.	
+41	Hi mazakshi ngasak hai mara.	
+42	Iwui mi da mahanglu.	
+43	A Iwui mi maning mane.	
+44	A hi nawui mi maning akha.	
+45	Na khipali hang da khalei da?	
+46	Ina hangda khalei chi mi chipa Iwui client wui eina insurance kakhui mi chipa chili hangda khalei ne.	
+47	Chieina Iwui mi da mahang ki kachi ne.	
+48	Thakhava phai.	
+49	Ina kahang point chiva, nawui clientwui eina insurance kakhui mi pachi, a la hi otshotbing hi shokke kachi angkei machi mane machine.	
+50	Otshotbing...	
+51	Otshotbing hi?	
+52	Mah, hai thathok phange dai.	
+53	Tharifalu. Tharifalu.	
+54	Phanga maning mane.	
+55	Akha mange.	
+56	Phanga ne.	
+57	Kathada, I liva phabmata makho.	
+58	Phanga ni?	
+59	I li hang yangla.	
+60	Mahunglala ichacha khalatta phabta pailake se.	
+61	Thakha katha haowei kachida hanglu.	
+62	Kharachan chi otshot phange hili wungtalak eina kahunglu.	
+63	Ay, ay, hitha kachine, hi.	
+64	Nawui mi pachi...	
+65	Iwui mi maning mane.	
+66	Iwui clientwui eina insurance khuiye kachine.	
+67	Mi, nawui clientwui eina insurance lowe kachi mi pachi State Highway 19 li thaozak saiji, laga control masarar thuda mi phanga li ngatak iji, athumwuivang nganingmi luda Ili khawai mi phangana hangda na nana sarada hang kahai chili khaya mashi mane ji.	
+68	Nana kahang chi, Iwui client ana sarada hangkahai chili khaya mashi mane da, insurance company?	
+69	Mr. Donovan, na I mathalak eina phabtaye hiwui maram hili khapa chi khipa khalada.	
+70	Iwui client ana sarada hangkahai katonga li a saye.	
+71	Khaya shiye, Mr Bates.	
+72	Ainwui athishurda samphang kapai-pai katonga kala athumwi sami kashap $100,000 accident avava li da, thakha hiwui maram li chidala.	
+73	Laga hi claim akhane.	
+74	Nana kahang athishurda A mi phange li ngatakke kachi maning mala.	
+75	Mi chipa Iwui clientli insurance khalei pachi accident akha kashokne.	
+76	Akhane.	
+77	Car akhawui control masarar mada cycle thaozak kasa mi phange li ngatakke kachine.	
+78	Da hi, athumwui theikakhui athishurda otshot phanga kashok dala.	
+79	Yo! Yanglu, Bob.	
+80	Ina akha hangkei.	
+81	Bob?	
+82	Jim.	
+83	I bowling angareo laga, akhashi kakhalang li ten pins katonga sahaoni kachiva, chi strike akha dei.	
+84	Ten strikes maning matei.	
+85	Jim, nawui mi na Iwui mibing li bowling pins ne da khuihailala, Ina nganingmi da khaleibing hi bowling pins maning mane.	
+86	Chitha sani kachiva...	
+87	Tharifalu, Ina shanghai fakei.	
+88	Tharifalu, Ina shanghai fakei.	
+89	Nawui shim hi insurance policy $100,000 leilakha, tornadona sakhai haoni kachiva, chi shim akhamang sakakhai dei.	
+90	Insurance company shimwui mang midei, shimli khi mamei haisa khala kachiwui mami madei.	
+91	Nana hangda khalei chi chi hangda khaleine chiakhava, insurance companywui limit mangava ukida insurance business maleilui mara.	
+92	Chitha haiakha, Bob, mi katongli saza haora.	
+93	Watters, Cowan and Donovan.	
+94	Katha, khipali ngahanki kachi?	
+95	Mahai rareo, Mr. Donovan.	
+96	Mahai rareo, Alison.	
+97	Ina nawui 9:00 a.m. wui meeting Prudential li khayeimi haire.	
+98	Khiwuivang eina chithada khayeimi hao khala?	
+99	Ina hanghaowe.	
+100	Khikhikha leida leila, Tom?	
+101	Nawui otbing chi Alison li haimi haolu.	
+102	Laga hili zanglu.	
+103	Ot kasak akha leihaira.	
+104	Mi akha nali samphang khavai ngaraida leiye.	
+105	Nawui coffee Nataliena semdalei haira.	
+106	Nescafe, cream, angum khani, mashunge yang?	
+107	Mashung haira.	
+108	Ningshi haira.	
+109	Lynn!	
+110	Jim!	
+111	[NO TRANSLATION]	missing translation
+112	Shimkhur kathada leida lei?	
+113	Ringphalak eina leiserda lei.	
+114	Ningshi haire.	
+115	Annie kathada leidalei?	
+116	Mi sathat ngairareo pamdalei.	
+117	I preiva shi shimkhur holiday nada yoathui rayei.	
+118	Thakhava, a zakshilak eina sami haire chikhava, a mi lawyer khamatha leida leikahaira.	
+119	Katha kachang khala?	
+120	Hi, hi kathane.	
+121	Athumna Soviet spy tukhui kahai chili, nana defend sara kachine.	
+122	Hina ali kakaphehnwui maram.	
+123	Wow.	
+124	Makhuika ngaina makho, Ili.	
+125	Phenda khali mi pachi lawyer akhala mathei maniji.	
+126	Federal courtna ishili horsangmi kahainei.	
+127	Bar Commetteena vote sangarok laga.	
+128	Nali kapang kahaine.	
+129	Hi ishiwuivang kanalak haowe.	
+130	Ishi yurwuivang kanalake, Jim, mipa hili mathada sakhami.	
+131	American justice system hi ara mi katongana yangda khaleine.	
+132	Nana chishong eina hangda leiakhava, hangkhami wuivangla ringpha lakkei.	
+133	Kha, Lynn, Iva insurance lawyerne.	
+134	Zingkum kasangkha haira I hikathali makasa.	
+135	Bike kathao thaye, maning mala?	
+136	Nuremberg lila kateiliva nana mathamei kharda sayei.	
+137	Mah, I prosecution teamli zang sai.	
+138	Chi kahang maning mane.	
+139	Na criminal law shonglila kathar maning mane kachine.	
+140	Jim, otshot hili yanglu.	
+141	Mipa hili mi katongana ningkachai serda khaleine.	
+142	Chitha akhava, Ilila ningkachai ura.	
+143	Kachi katha phab makata, mathei-thangkhamei mibingna.	
+144	Kha hi thei-thangmeilak eina saphalungki kachi otnei.	
+145	Ishi justice system mi hi khikha makhaning thada mahor paila.	
+146	Evidence chi katha, I khuisani kachiva?	
+147	Chung lakkei.	
+148	Phana haire.	
+149	Phana haire.	
+150	Katongana ningkakhachaiva ningkachai ura, kha thalala khayuiva I mayui phalungki kachinada.	
+151	Na kathada phaningdalei, Tom?	
+152	Ishi chot haorei.	
+153	Ot hi.	
+154	Ot hi ava ngaleili leishida samiki kachi otnei.	
+155	Hi thuklak eina khuiki kachi ot akhanei.	
+156	Ina Lynnli, Ishi firm angkei da mahangrar marada kahang thada, nala angkeida hangki kachi masarar mara.	
+157	Na fa nao hi wuivang nganingmiki kachi tai.	
+158	Da na sa ura?	
+159	Khi?	
+160	Abelwuivang nganing khami, Soviet spy chipa wuivang.	
+161	Maphabta runge.	
+162	I ngahan fara...	
+163	Thari falu, nali khipana hangda hi?	
+164	Bulletin boardli shokhaida leila?	
+165	Maning mane, I...	
+166	I athang Richard Earl ngahanne...	
+167	I hi sasa akha, I nawui khangachon kana kho.	
+168	Na ashama ngaya kha ot sakila?	
+169	I aphaza sada hanghai dalei, sir.	
+170	Aja Tuesdayne yang?	
+171	Ai, maning mane, I phaye, pha khalaiye.	
+172	Ningshi haire, sir.	
+173	Thalala hi khaya kaka akhane.	
+174	Bar Associationna Ili kahang maram chi spy lila sakashap advocate miye kachi athum spyli chitheingai iji.	
+175	Hikatha khaya hi makahao manei.	
+176	Hey, honey, na kathahao?	
+177	A mara manei.	
+178	Iyo! Chi mamaya ngailak thura.	
+179	Ning makapei pahi khipada?	
+180	Uh, makahangna phameira.	
+181	Da pamsanglu.	
+182	Ishila aruicham haophok thartharne.	
+183	Mi katonga ngachee ngachamlak eina pamngarok serda lei.	
+184	Mi katonga bomb shelter sem ngarokda khaleine, hikatha mi wuivang eina.	
+185	Dukanli va akha, mi katonga canned food kala potassium tablets lo ngarok serda khaleine.	
+186	Hikatha mi wuivang eina.	
+187	Ithum saikorali samachitda khaleinei.	
+188	Sakharek mi.	
+189	Khipali sakharek mi kaho?	
+190	Rosenbergbingli sakharek mi hodala.	
+191	Athumna khipa?	
+192	Athumna atomicwui secrets Russianli mihaowei.	
+193	Athumla americannei.	
+194	Athumna yurli chipat kahai dala.	
+195	Abelli sakharek mi da maphen paimatei.	
+196	Ava American maning matei.	
+197	Chi, nala nana kahang chili nganalu.	
+198	Na awuivang nganingmi phok haira.	
+199	Na Ili tamvaida leida lei.	
+200	Khuihaonika da phaning dalei da na athangva hangei.	
+201	Mah, I chithada phaningfa dalei, saklakkei.	
+202	Mi katonga legal representation li mashun leiserdei.	
+203	Mi hi aman sakdei.	
+204	Jim, thakha ishi hi mi maning mala?	
+205	Mina kathada ishili phaningra?	
+206	Shimkhur akhana sakharek, khakapik mili chiho khavai nganingmida khalei hili?	
+207	Ahi sakharek, khakapik mi maning mane, Mary.	
+208	Mah, mah.	
+209	Roger, khamong chi vashomi haolu.	
+210	Ahi sakharek, khakapik mi maning mane...	
+211	Khiwuivang eina Ili ot katonga salu kachi khala?	
+212	Oh!	
+213	Ngarailu seiha masarunge.	
+214	Thai hairei.	
+215	Ali yurna ningkachai meikap kachi mi akha ngasa dalei, laga nana kakhaniya mi ngasa khavai sadalei!	
+216	Mah, laga Ina khakathumma.	
+217	Carol, nawui chi nana makhamashung mili leikashinei.	
+218	Zangai haira.	
+219	Mary, maram hili tui ngaphat khavai masa mara, chan khangazekne.	
+220	Na ali mamaya mane, thakha I ali mayala?	
+221	Mamaya mane.	
+222	Ila Russianna ithumli rayangda khalei hi mamaya manei.	
+223	Mi akhali case kapan tharanli, mi pachina lawyer khuikapai mashun khalei athishurda, I chi mashun chi sada khaleine, chieina court of law da kaho dala.	
+224	Nashi phakazali sheikhut haira.	
+225	Court of law...	
+226	Hey, Doug.	
+227	Masheikhut manei, khikha matha manei.	
+228	Hello, Doug.	
+229	Jim, thada ungkazang-zang matuida khaleinei.	
+230	I ungkazang-zang khamatui maningmanei.	
+231	Pamsanglu, Doug, hili phaza sei.	
+232	Meatloaf zarada pamdalei.	
+233	Jim, case hi khuinika makhuinika kachi ngasan ngarun khavai kharala?	
+234	Oh maningmanei, khui ura.	
+235	Khamatha paonei, maning mala?	
+236	Kasa-Akhava Karevara, ningshilak haira nana kashak kaza khami hi za ukida leihaira,	
+237	proho Jesu Krista ming li khokharumne.	
+238	Amen.	
+239	Mahai rareo, sir.	
+240	Iwui amingna Jim Donovan hoye.	
+241	Hi iwui credentialsnei.	
+242	I, Watters, Cowan and Donovanwui partners akhanei.	
+243	1941 li Ili New York Barli kapang sangda otram ngathayei.	
+244	Nali three counts kala 19 overt acts eina phen dalei.	
+245	United Stateswui defense and atomic secrets Soviet Unionli khami wuivang, secrets ngathumda khakazip wuivang, kala aming register makasa wuivang.	
+246	Foreign agents register saserla?	
+247	Ina ngahanda khalei hi kakai malei akha, sir, nana khi apam mameili vahaira, nali tukhui kahaiwui thili?	
+248	I horzakdava mathei manei.	
+249	Na mathei manei?	
+250	Ili airportli thanva, plane la tong ngasak, plane eina la ta ngasak.	
+251	Salak kahai khi apamli khala la va.	
+252	Hi la sayei.	
+253	Sa meiyei.	
+254	Room lila zangpam ngasak.	
+255	Nali shaola?	
+256	Mashao manei.	
+257	Ili question ngahannei.	
+258	Offer kathala miyei.	
+259	Kakhalatva?	
+260	Nashi government wuivang ot saluda offerla sai.	
+261	Offer chi khuilaga ot sangarumra chiakha, Iwui tungli case mapan maran da hangei.	
+262	Laga pheisala mirada hangei.	
+263	Hmm.	
+264	Laga na angkei chihaira?	
+265	Chieina hili kapamne.	
+266	Amai, chiva inala makatom paimanei.	
+267	Kha na U.S. governmentli otsak rumluda nali kahang hiva iwui dutynei.	
+268	Angkei chi kahainei.	
+269	Napa nala nawui ngasotnao CIAli kazangbing lila Ina kahang chi kachangkhat nada khahangmi luishitlu joh.	
+270	Chikatha maning manei.	
+271	I...	
+272	I CIAli ot masa manei.	
+273	I government wuivang ot masa manei.	
+274	I hili nali legal counsel mikhavai kharanei.	
+275	Nana ay da chithada khuiakha, I na wuivang ot samiki kachinei.	
+276	Ina ay chiakha?	
+277	Na nana kasa ot chili mathala?	
+278	Amai.	
+279	Amai. I mathalakei.	
+280	Na spy kachungkhali case nganingmi hairala?	
+281	Manganing mi rangei.	
+282	Hina kharene na wuivangla I wuivang la.	
+283	Mashunge.	
+284	Kakai malei manei.	
+285	Kakai malei manei?	
+286	Na ay chi kahaila?	
+287	Mah, ay chi kahainei.	
+288	Phana hairei, thakha.	
+289	Hi eina haophok sei.	
+290	Nali U.S. governmentwui ot salu kachi chi khalan haire chiakha...	
+291	Khalan hairei.	
+292	Mah.	
+293	Thakha na mi khipakha lila nawui casewui khararchan masalu, government mi lapai government mi makhaning lapai.	
+294	Ili mang, nana ili kayakha shitsang khala kachi eina tangda.	
+295	Ili mang nali nganingmi khavai khamaya khamine.	
+296	Khipali khala mami manei.	
+297	Tharlak eina kahangnei, mi katongana nali electric chairli chihosang haolu da panda khaleinei.	
+298	Kakai malei manei.	
+299	Na wukkhanangda mathei manei.	
+300	Wukkakhanang na ngachon rala?	
+301	I...	
+302	I khikhikha yak khavai ningchangei.	
+303	Chi mamaya maei.	
+304	Pencil akha, paper akha da.	
+305	Churi.	
+306	Khalummashan mida?	
+307	Mr. Donovan, nashi wui mila I thada sada khaleinei nashi yur wuivang.	
+308	Athum lila tukhui haosi kachiva, Ila phabta, nala athum li mathada treatkasa ningchangra.	
+309	Nali khipa ho?	
+310	Francis Gary Powers.	
+311	Rank, service?	
+312	First Lieutenant, United States Air Force.	
+313	Na Soviet Union li mari malei, Lieutenant Powers?	
+314	Sa khanganao la?	
+315	Ngahanda khaleibing chi ngahankalu, Lieutenant.	
+316	Leiyei, malei manei, maning akha kasha eina.	
+317	Na Soviet Union li mari malei?	
+318	Apait, malei maei.	
+319	Na khiwuivang eina hili kapamda mathei?	
+320	Mmm-mmm.	
+321	Chi mathei manei kachi la?	
+322	Amei.	
+323	Thada...	
+324	Mathei manei, mathei manei chimang.	
+325	Amei, I hili khiwuivang eina kapam khala kachi phabmatalak manei.	
+326	Amik mangashong, Lieutenant.	
+327	Ay, sir.	
+328	Kathada sami haira khala, Gary?	
+329	Mathalak eina sami haire.	
+330	Iwui aming mashungda sangkahai thai.	
+331	Thakha Shinnli nana matha meida sahaida leira.	
+332	Khipana yui dalei?	
+333	Uh, chiva Inei ya.	
+334	Oh.	
+335	Phana haire, Ilila yaomilu.	
+336	Thakha, hi katonga hi iwuivang nei.	
+337	Ina nathumli hang haira, ali teta machiloda.	
+338	Okay, drivers, hithara.	
+339	Nathumli ot akha wuivang kapang kahainei, room hi eina kanda nathum hi khipakha lila mangazek paimara.	
+340	Khipakha lila.	
+341	Na khipali shitsang khala, i mathei manei.	
+342	Na preiva, nashava, nawui leikashiva.	
+343	Ngayashong Kasa-Akhavali khokharum lila.	
+344	Nathum khipali khala mahang paimara arui ina nathumli hangki kachi hi.	
+345	Nathum driverbing ot hi sashap kida quality leiser haira.	
+346	High level security clearance.	
+347	Khangatei katonga li nathumna single-seat aircraft kathao atam li, chungmeida thao kahaiwui mathalak eina pilot ratings leida lei.	
+348	Ishi rai ngararda leiyei.	
+349	Arui-ruiva rai hi mi zanglaga khutlai eina mangarar manei chisalala.	
+350	Hi pao eina ngararda khaleinei.	
+351	Nathum pao collect vasara.	
+352	Nathum ishili yangshiya bingwui khangaran, pao, sakashap, khangazan etc. arayangra.	
+353	Nathumna hikatha pao akakhui hi akhama ithum Soviet Unionli thermonuclear rai khangarar atamli tarakha ngachonki kachinei.	
+354	Or raila kham pai.	
+355	Yaruili masha ngasak khavai, na ot maram hi na preivalila, nashavalila, nawui leikashivalila or Kasa Akhava vare lila khararchan masapai mara.	
+356	Ot hi maleisani kachiva, nathum hila maleiki kachinei da khui ngasak ngaiyei.	
+357	Nali makapta ngasak paimanei.	
+358	Nali matukkhui ngasak paimanei.	
+359	Nathum ara CIA wuivang ot sauki kachinei.	
+360	Da, Jim, nawui mi chi akhano sareklaga matuiyei da sha.	
+361	A atam kachida sakharek akhano chieina ngahan ching shapla?	
+362	Chi awui khangacha khamatui akhanonei kachi I maningmong mara.	
+363	Awui amingna Russiannei, kha awui passport hi British wuinei.	
+364	Chi mashungra kachi I mashitsang manei.	
+365	Da, Jim, kali zatda lei?	
+366	Ina kathei hi...	
+367	Mah, uh, Judge, hi, hili hapta kathum hi ngachang rada I mashitsang manei.	
+368	Ishi...	
+369	Ishi evidence tarakha samphang haira.	
+370	Na postpone sakhangai la?	
+371	Hapta tharuk.	
+372	I, kala Iwui associate, ani mang haida.	
+373	Jim, hi kachangkhatla?	
+374	Sir?	
+375	Hi kachangkhat lei?	
+376	Mah.	
+377	Mah, chi kachangkhatnei.	
+378	Lairik li yang akha theira.	
+379	Jim, mi hipa hi Soviet spynei.	
+380	Thada hangdalei.	
+381	Nala sei, Counselor!	
+382	Your Honor.	
+383	Amai, I nali ningyang unglakei.	
+384	Ithum katonga nali ningyang unglakkei ot hi kakhui wuivang.	
+385	Mipa hili mathada treat saki kachinei, Ila thei.	
+386	Kha masa nganao ngaroksei ya.	
+387	Ali sakashap lawyer mira.	
+388	Laga, a mayui mara.	
+389	Nala sei, Counselor.	
+390	Masanao ngaroksei hiwui maram li.	
+391	Iwui courtroom li.	
+392	Date set sakahainei, chithang trial sapapamra.	
+393	Taxi!	
+394	Taxi!	
+395	Na light on salaga zakdalei.	
+396	Fawui nao.	
+397	Manhattan ungngaina haira.	
+398	A light on salaga zatsai, yang?	
+399	Fawui nao.	
+400	Athumwui ringkaphali saza lala.	
+401	Ain chi mangachei manei.	
+402	Oh, makatheinei, sir.	
+403	Makatheinei.	
+404	Yonhaira.	
+405	Oh!	
+406	Mr. Donovan.	
+407	Khi?	
+408	Khi da?	
+409	CIA.	
+410	Mah.	
+411	Kashakha ngahan khangainei.	
+412	Case chi kathada zat dalei?	
+413	Case chi mathalak eina zat dalei.	
+414	Mathalak eina zat dalei.	
+415	Mmm-hmm.	
+416	A nali khararchan masa haira?	
+417	Khini.	
+418	Na ali samphang kahai nada.	
+419	A khararchan mahang haira?	
+420	A khikhikha mahang haira khala?	
+421	Maram hili ini khararchan masa mara.	
+422	Amei, ameiya.	
+423	Ina kahangna va, maram hili mangazek thatha mara kachinei.	
+424	Nana ngahanda khalei hi attorney-client privilege sakhaida khaleinei.	
+425	Oh, nala sei, Counselor.	
+426	Laga, Oh, nala sei, Counselor da kahang chi mahangmi luilu.	
+427	Athang chi shakhaleo da maning kachang lakei.	
+428	Judge nala khanishi da hangei.	
+429	Laga chungmeida sha akha, ningkachai meiyei.	
+430	Phai, ila phabta attorney-client privilege.	
+431	Ili legal gamesmanship chi kathada ngareo khala kachi phabta.	
+432	Laga na hi salaga mirin ringkhavai sakhuiyei kachila phabta.	
+433	Kha Ina nali ngahanda khalei maram hi ngateiyei.	
+434	Nawui yur ninglummei khavainei.	
+435	Laga I yonhaira, Ina kahang hi eina nali saza dalei chiakha.	
+436	Kha Abelna khi hangdalei khala kachi ithum phabkata tarkar sai.	
+437	Ina kahang hi phabtada leila, Donovan?	
+438	Ithum kathei tarkar sai.	
+439	Ili matam chithei no.	
+440	Hili ainwui lairik mazang manei.	
+441	Na Agent Hoffmannei, maning mala?	
+442	Mei.	
+443	Nashava nashava German.	
+444	Mei, katha?	
+445	Iwui ming Donovan hoi.	
+446	Irish.	
+447	Side khanini, avava kala avava.	
+448	Ina Irish, nana German.	
+449	Kha khina ithumli American ngasa ngasak?	
+450	Maram akhawui eina.	
+451	Akha mangei.	
+452	Ainwui lairik.	
+453	Ithum chi constitution da hoi laga ithum ain chi mayonei, laga china ithumli American sakhangasak dala.	
+454	Chimangna ithumli American sakhangasak dala chiwuivang eina ainwui lairik malei manei da mahangno, laga chithada salaka mapamlu, na fawui nao.	
+455	Ishi nawuivang mawukkhanang ra khala?	
+456	Iwui ot kasali masheikhut akhava.	
+457	Atam hitharan eina haopkokda nathum U-2 li spy plane or reconnaissance aircraftda maholui paimara.	
+458	The Article da nathum hora.	
+459	The Articlewui angachang hi 80-foot shayei.	
+460	Engine hi Pratt and Whitney J57 P-37 enginena zat ngasakei miyei.	
+461	Engine hina 10,000 pounds power generate sashapei kala pung akhali 430 miles zatshapei...	
+462	Hi chiyakha mathak salapai, kha nathumna 70,000 feet kachui kapaili, khangatei akhala mangatamrar manei.	
+463	70,000?	
+464	Ina hangda khalei hi, yangkashibing nathum zatdaleiyei kachi hi katheila mathei mara kachinei.	
+465	Mararlak eina mathei manei.	
+466	Pound ava-va extra kasangli ana chuida pai kashap capacity shoita ngasakei, aruila cameras sangfaki kachinei.	
+467	Chi 4,500-millimeter lens, kathumna mataiki kachinei.	
+468	Shenglak kahai, apam kahakha cover sakashap camera, rida ithumna kachui kapaili shijinda yangkashi bingwui pao khuikhavai shijin kasa chili mati shida matha meiyei.	
+469	Nathum ama khuiki kachinei, ama tarakha.	
+470	70,000 feet kachui eina kapai tharanli The Articlena 2,000 square miles ngalei alungli khaleiwui ama khuishappei sakhashi akhamakan li.	
+471	Ara, drivers, Agent Sumnerna hangki kachi hili mathalak eina nganalu.	
+472	Nathumna ot hili khuiphungki kachi otyurbing chi hili hai.	
+473	B camera, Revere 8 model 40 magazine, Keystone Capri K-25, silver.	
+474	Apang singkhavaili akhur khawut morha si khavai brush.	
+475	Cipher tables katonga shaikapai silver foil hili kapika haidalei.	
+476	Ama kapkhavai machak.	
+477	Ay, ithum, uh...	
+478	Ithum phabta haira.	
+479	Ningshilak hairei.	
+480	Uh, akhashi, Agent, uh, Bosco.	
+481	Blasco.	
+482	Sir.	
+483	Hiwui list hili khangatei section leifada lei maitei.	
+484	Ot kachung kacha hi awui studio wui eina khui khranei, kha khangeibing chiva ana pamkasa hotelwui eina khui kharanei.	
+485	Ali tuk kakhui apam eina.	
+486	Hotel room nathumna kaphawui eina?	
+487	Mah.	
+488	Phaluda khamaya khamiwui lairik chi mayang paira?	
+489	Khi?	
+490	Ili hi hangchithei yangla.	
+491	Khamaya khamiwui lairik leiyei.	
+492	Khamaya khamiwui lairik leiyei.	
+493	Mi khangateinei chieina tukhui haoluda khamaya khamiwui lairikva lei, kha criminal activity ningmong haokida phaluda khamaya khamiwui lairik malei manei.	
+494	Chieina, kapha eina samkaphang evidencebing hi mamaya manei, phapai haorada khamaya khamiwui lairik makazang wuivang.	
+495	Khi protection a samphangrado, Your Honor?	
+496	Mi pachi...	
+497	Mi chipa chi khida?	
+498	A hi Rudolf Ivanovich Abel.	
+499	A hi Soviet citizen nei.	
+500	A hi American maning manei.	
+501	1886, Yick Wo v. Hopkins.	
+502	Courtna tuitak kata athishurda, chiwui case li Chinese immigrants, kha kachi katha yurzat country hili ain kaida rakazangbing katongali ranu, kachi katha kaphenli, kala kachi katha crimeli, athumli tukhui laga mangahan paimanei, ainna mamaya la da tuitak khuihai dalei.	
+503	Department of Justicewui khamaitaiya ot ngarut hi United States mibingwui ain kala mashun khamayon hina.	
+504	Ili phab mata manei, kathada ain kailaga yurzat khangatei mi country hili rapam laga, kachi katha mashun mami thuwe chi rakhala.	
+505	Kachi katha mashun?	
+506	Americanwui va?	
+507	Kachi katha mashun, Counselor?	
+508	Ishi civilizationwui rai ngararda khaleinei.	
+509	Hi Russian spy hi ngalei hili ra laga ithumwui kharing kharakli ra samachitda khaleinei.	
+510	Courtroomli ili mi ngaraida lei.	
+511	Chili shokulu, laga Russianpa chili shok ngasopam ulu.	
+512	Hi thaklak eina kupsang haosei.	
+513	Laga nawui request chi mamayami manei.	
+514	[NO TRANSLATION]	missing translation
+515	Ishi katha haira?	
+516	Alungli va?	
+517	Uh...	
+518	Maungtana manei.	
+519	Na American citizen maning phalung lamo.	
+520	Chi mashungei.	
+521	Laga nawui bossna kahang athishurda na hi Soviet citizen la maning maniji.	
+522	Bossla atam kachida mamashung manei kha ava atam kachida boss nada.	
+523	Nali wukkhanang kaho maleilak mala?	
+524	China ngachon rala?	
+525	Nganingka serlo.	
+526	[NO TRANSLATION]	missing translation
+527	Rida, nana theiki kachi hi khisa khala atomic bomb khangawok atam li.	
+528	Horlak eina, zimik lila hormeida light kapshokkei.	
+529	Keinung li leida khalei shim, window hupta sakhai shappa.	
+530	Kha na Bert thada pamzang laga ngak akha, na safe samei kharrei.	
+531	Attack kasa hi apong khani eina sai, warning khami kala warning makhami.	
+532	Mmm.	
+533	Khisada khalei hili?	
+534	Ava, hi kana lakkei.	
+535	Rai kashok atamli, rimeithuida athumna saki kachi hi tara eina electricity khakatatniji.	
+536	Chieina rimeikapda ithumna saki kachi hi hi sapui laga kahai, nashi roomwui shower chila shijin, azingwui pang mazik khavai chila shijin, yamguili tara chaimi khavai cila shijin...	
+537	Chi khamatha awornei.	
+538	Kha, Roger, hi nana wukkhanagda saki kachi ot neida I makhui makho.	
+539	Mah, kha na sirens kasha atamli, ravai khavai eina pang mazik khavai bing chi sapui khavai atam malei saluimara.	
+540	Siren makhong mara...	
+541	Hina khida?	
+542	Bomb chiho kasang atamli, kahungbing china Empire State Buildingli kharin.	
+543	Kha bomb chi 10, 000 feet kachui eina ngawok haora.	
+544	Chi airburstda hoi, Life magazineli kakhapi athishurda, laga bomb chi 50 megatons rit akha, khangawokwui wave chi hakshok maman, hakshok maman, hakshok maman da hi eina hiwui alungli khalei katonga meng serhaora.	
+545	Ishiwui apamla zang-zangda.	
+546	Hili.	
+547	Mah, mashunga, chili.	
+548	Kha, Roger, khipana khala ithumli atomic bomb mahortami mara.	
+549	Kha Russianna horsangmi phaphara.	
+550	Nana nganingmida khalei Russian mi chipa?	
+551	A hili bomb horsangmiki kachi mibing wuivang khangaran rasada khalei dala.	
+552	Maning manei, maning manei, a...	
+553	Hili chi rasada khalei maning manei.	
+554	A hi Russian la maning manei.	
+555	A hi, ithumna phabkata chi mashung akha, Northern England li kapharanei.	
+556	Mah, kha a hi Russian spy dala.	
+557	Iliva na khi sada khalei khala kachila phabmata manei.	
+558	Na Communistla maning manei, laga khiwuivang eina ali nganing khami khala?	
+559	Yo, maramma chi iwui otnei.	
+560	Khare liva machitha ma.	
+561	United States of America versus Rudolf Abelwui case hili, Rudolf Abelli phenda khalei first count hili na katha phabta?	
+562	Guilty ka guilty maning?	
+563	Guilty.	
+564	Second count hili?	
+565	Guilty.	
+566	Third count hili?	
+567	Guilty.	
+568	Your Honor, evidence hi kachithei mang eina mashup manei, chieina aruiwui guilty verdict takahai chi makhuivami faluda request sadalei.	
+569	Mamayami manei.	
+570	Juryna ngathanmi paihaora.	
+571	Ningshilak haira nathum katongali.	
+572	Inala hithada hangsang ngaiyei, ila nathum sasani kachiva, aruiwui verdict khuikahai chili horzakda khuira.	
+573	Sentencing chi November 15.	
+574	Death sentence hi guarantee maning manei.	
+575	Mawuk khananglu.	
+576	Thiki kachili I mawuk khanang manei, Mr. Donovan.	
+577	Chitha saiiji lala, chi iwui khare choice meaning manei.	
+578	Hi na malaita haisai.	
+579	Oh, ningshi hairei.	
+580	Oh, ningshi kachangkhat hairei!	
+581	Na ili mangahanlak makho phenda khaleibing chi mamashung khala da.	
+582	I spy kachangla da.	
+583	Ithum hithada sai.	
+584	Nali phenda khalei hi mashung akha.	
+585	Athumli prove sangasakla.	
+586	Kharachan chi...	
+587	Na hi spy ka spy maning khala kachi makana manei.	
+588	Na hi spynei chiakha state li prove sangasakula.	
+589	Da na matheingai manei?	
+590	Mah, matheingai manei.	
+591	I nali artistnei da khuiyei.	
+592	I preiva, a hi artistnei.	
+593	A hi Children's Orchestra of Moscowwui musiciannei.	
+594	Khi instrument?	
+595	Harp.	
+596	Oh.	
+597	Thakhava, a hi kazingraonei.	
+598	Na chili chithada nganingpam akha, I nganui kachang mi akha ishi shimli raching kachi pali phaning ungei.	
+599	Ishavana hanghang chi Mipa hili yanglu da.	
+600	Chieina Ina yang-yang, Ishi shimli ra kachida.	
+601	Laga thangkhani dala khamatha ot kasa mangava manei.	
+602	Laga I hi ali khangarui?	
+603	Thangkha, I nawui nao mayara shi thotla zatsai.	
+604	Ishi shim chi partisan border guardsna sahaowei.	
+605	Athum mi tarakhanei.	
+606	Ishavali shao, ishava lila shao, laga mi hipa hi, ishavawui ngasotnao, a lila shao.	
+607	Atam chitharan li Ina mi hipa hili yangei.	
+608	A li kashir kachida a nganingka luishit-shit chi.	
+609	Chitha akha athumna marmaida shao.	
+610	Thalala aruila, nganingka luishit.	
+611	Hiwuivang eina da leira a li kashao ngasam haowei.	
+612	Ali masathathai manei.	
+613	I aruila athumna kahang chi phaningung fayei.	
+614	Chi, thada, uh, khanganing mi kachi kathanei.	
+615	Khanganing mi.	
+616	Hello, Jim!	
+617	Millie, na aja ngala mathei meiyei.	
+618	Mortie sari shak kasali ngalang zarlak eina pamdalei.	
+619	Thalala zanglu.	
+620	Scotch, Jim?	
+621	Oh, ay.	
+622	Ningshi lakra.	
+623	Uh, laga tara drop akha kasang milo.	
+624	Your Honor.	
+625	Hello, Jim!	
+626	Shok ura da pamdalei.	
+627	Thalala atam kashakha leifayei.	
+628	March of Dimes wui ot.	
+629	Millie mareklak fayei.	
+630	Ningshilak haire I li samphang khami wuivang.	
+631	Sentencingwui maram hili iwui kaphaning teomeikha hangai haowei.	
+632	Laga ina hangkhangai saikora hi legal shong lila relate makasa zanghaokida shim eina ngarokkhui laga hangseida kharanei.	
+633	Mah, hi chikatha case nei.	
+634	Ila kayakha malung makhavat thai, trial kasa atamli, kha nanava malungvat haowei da hanga leikho,	
+635	hi case hi khikhala mateo manei.	
+636	Hi maram hili kasaka tarakha lei.	
+637	Kasaka kahaka lei!	
+638	Ningshi haire, ningshi haire.	
+639	Uh...	
+640	Sir...	
+641	Iwui theikakhuili United States wuivang phamei khavai Abelli ringkhangasak na phameira.	
+642	Khiwuivang eina?	
+643	I decision khui haire kachi meaning manei, kha ana cooperate salaka, governmentli otsak rumra chihaoni kachiva, a chi sahairara.	
+644	Mashungei, kha maram pahi...	
+645	Na...	
+646	Thari falu.	
+647	United States wuivang phamei khavai awui mirin peida jail li pamngasak haora machipai matei.	
+648	Kathada hi yurwuivang pha khavai khala?	
+649	Jailli kasang chinala maning manei, sir.	
+650	Khanao-khanali Americanwui rank ngarai kacha Soviet Russia nala tukakhui shokpaiyei kachinei.	
+651	Akhama hi rakashok atam li khangathala shokpaiyei.	
+652	Wow.	
+653	Hiva chitha sani kachiva kachili phaningsei kachinei.	
+654	Chiva kakup mangava luimara.	
+655	Chitha sani kachiva da kaphaning hi iwui otnei.	
+656	I insurance li ot kasa minei.	
+657	Hi marashok paimanei kachi malei manei.	
+658	Hi rashok pailak kahai akhanei.	
+659	Shok kapai khalei wuivang mina insurance khalo kathanei.	
+660	Mipa hi sathat haiakha, ishi ishi khalatta wuivang kahaka sho haora.	
+661	Naoda siphan-zingrok khara atam wuivang khangaran masahai luimara.	
+662	Mathalak eina matui haire.	
+663	Sir, kala hi ngayi ka mangayi khala da kaphaningla tarkar sai.	
+664	Ali asaluda kakaso ot sazatda khalei li sathat khami ngayi rala?	
+665	Phana hairei, Counselor.	
+666	I zatura.	
+667	Ningshi hairei, Jim.	
+668	Ina ngayur shokkei.	
+669	Nganing ka serlu.	
+670	Eastern District of New Yorkwui United States District Court hi ara haophok haira.	
+671	Khayashi khangayiya Mortimer Byersna singka mira.	
+672	Pamzang serlo.	
+673	Defendant nganingka mi ranu.	
+674	Juryna count huptali guilty verdict tutak khuikahai hili courtna ngasan ngarum laga, azingwui sentence hi chayei da maya ngarok haira.	
+675	Kaphen huptali guilty tahao kida, defendant hi zingkum 30 jailli tuknarkhavai United Stateswui Attorney Generalwui pangli sangmidalei, khi jailli sangra khala kachi hi ana kapang naora.	
+676	Marshalsna defendantli tukhui pai haora.	
+677	Uh...	
+678	Electrocution maninglui mala?	
+679	Meaninglui manei.	
+680	Meaninglui manei.	
+681	Khiwuivang eina ali mangakhak thi ngasak ra khala?	
+682	Varewui ming eina, Khiwuivang eina ali mangakhak thi ngasak ra khala?	
+683	Pamsang serlo, sir!	
+684	Ahi spy nei!	
+685	Ana ithumli sathatda khaleinei!	
+686	Varewui ming eina, Khiwuivang eina ali mangakhak thi ngasak ra khala?	
+687	Chi mashungei!	
+688	Ahi spynei!	
+689	Mr. Donovan!	
+690	Mr. Donovan!	
+691	Question akha mang.	
+692	Question akha mang, sir.	
+693	Iwui kuihon!	
+694	Iwui kuihon!	
+695	Iwui kuihon!	
+696	Hili kazat khipa khala hang khangai malei manei.	
+697	Mr. kala Mrs. Donovan khangahanli mangahan ka mata.	
+698	Na kathada phaning, ishi yurna ngachee-ngachamlak eina kapam chi van hairala?	
+699	Mr. Donovan na verdict chili maya ngaila?	
+700	Ishi...	
+701	Ishi hi case hi appeal sakapai, uh, angayung kahakka lei.	
+702	Appeal?	
+703	Appeal, ame.	
+704	Jim, na mathalak eina sahairei.	
+705	Na khi sangayi khala chimang masala chili lang meida sahairei.	
+706	Kha mi pachi spynei.	
+707	Verdict chi mashung hairei appeal sakhavai maram maleilui manei.	
+708	Procedural maram li sakapai kahakha lei.	
+709	Awui shim kapha hi mamashung manei.	
+710	Laga Fourth Amendment shong eina la appellate forum li sapai lakei.	
+711	Ishi sakapai tarakha lei.	
+712	Na khi hangda khalei khala?	
+713	Ithumna saki kachi chi ala sakashap lawyer samphangei kachi chinei, chi sakahainei.	
+714	Na khiwuivang eina I li Constitution hangchithei da khalei khala?	
+715	Tom, na kachangkhat eina ili yanglaga appeal sakhavai maram malei manei chiakha, I arui ngalangda case hi drop sara.	
+716	I chi kahang meaning manei.	
+717	Na phabtayei Ina khi hangda lei khala kachi.	
+718	Tomna kahang chi makapha la shokpaiyei kachinei.	
+719	Chi mashungei.	
+720	Makapha nawui shimkhur kala nawui ot lila.	
+721	Kasangkha hairei music makhangana.	
+722	Athun radio chi check sayei pao phaongarok kapai khikhikha mazang khala da.	
+723	I li didi khannei.	
+724	Shostakovich.	
+725	Mmm.	
+726	Phaolak kahai artistnei, Shostakovich.	
+727	Uh, kachida, ishiwui phayat kapai maram chi ainna mayai.	
+728	Ara ithumwui kala hi Supreme Courtna mayada case hi yang luishitra chiakha.	
+729	Jim...	
+730	Na ning ngashar rakho.	
+731	Ning ngashar rakho.	
+732	77 Sunset Strip	
+733	Edward Byrnes.	
+734	77 Sunset Strip	
+735	Kala Richard Long.	
+736	Mahai rareo, Suzanne.	
+737	Mahai rareo, Dick.	
+738	Nali hili special delivery letter haimi dalei.	
+739	Oh, ngalava pachila.	
+740	Ava!	
+741	Khida?	
+742	Inao, nali masa za?	
+743	Ava!	
+744	Nali masa za?	
+745	Ina yang haora.	
+746	Upstairs!	
+747	Masa za?	
+748	Ava! I phaklang li khanuk eina ngaheilaga pam kahai.	
+749	Nali masa za?	
+750	Nali masa za mala?	
+751	Ava, I phaklang li khanuk eina ngaheilaga pam kahai.	
+752	Phana hairei.	
+753	Window eina lakha shongli.	
+754	Phana hairei, phana hairei.	
+755	Phana hairei inao, phana hairei.	
+756	Khikhala matha manei.	
+757	Khikhala mathalui mara.	
+758	Khikhala mathalui mara, athum zathairei, athum zathairei.	
+759	Malung makazang mibing nei.	
+760	Athum zathairei.	
+761	Detective kakhai khongnainao li ngathing zatdalei.	
+762	Gariwui details samphang pai, kha Iliva ningmong lakkei.	
+763	Ithumli khamayon ningchanggei.	
+764	Oh, hili gari khani haimi haoluda ili hangei.	
+765	[NO TRANSLATION]	missing translation
+766	Karankha sangda?	
+767	I Washingtonli vakida leida leiyei aja hapta.	
+768	Na khi sada khalei khala?	
+769	Na nashi shimkhur li khi sakapam da?	
+770	Katha i, Officer?	
+771	Na aruila mipa hili nganingmi da khalei hi?	
+772	Na khiwuivang eina awuivang ngararmida khalei da?	
+773	Hai haolu chi, Officer.	
+774	I khikhala mahai mara.	
+775	I Omaha Beachwui third wave li zangei.	
+776	Hey, ila service sasai.	
+777	I hikatha mibingli rai ngarar sai, laga nana athumli ngamingmi paila?	
+778	Na kathada officer akhawui otsak masa kachi khala?	
+779	Chinei, chinei.	
+780	Ayarli shokhaosei,	
+781	sei.	
+782	Uh, yang.	
+783	Ali chithada hai haolu.	
+784	I hili khi phab makata khaleida?	
+785	Ayarli, Officer.	
+786	Phabmata khangaroknei.	
+787	Commie spyli nganing khami.	
+788	Jeez!	
+789	Na hi otshot hi ngayiyei da khuila, sir?	
+790	Kalikha masapai mada aircraft hi Soviet territoryli notha haora chiakha, fuselage alungli two-and-a-half pound explosive charge zangdalei.	
+791	Rimeikapta, circuitbing hi activate sara.	
+792	Kha 70-second timer hi haophok khavai, switch hi Destruct kachi hili namra.	
+793	Flights hi ngathumtit phalungki kachinei, kala khutlai hi yangkashiwui bangli matazang ngasak phalungki kachinei.	
+794	Ithum liva?	
+795	Na ngasan kasada leira, Lieutenant Powers.	
+796	I ngasan kasa meaning manei.	
+797	Nana plane hiwui maramli kathei hi ngathumtit phalungki kachi thada plane hila ngathumtit phalungki kachinei.	
+798	Nali tukkhui phalung haora kachi thei haiakha, planeli ngasoda tahaolu.	
+799	Thakha kalikha, na thari li nganai haida, emergency land salaga zathui shapra chiakha, phai.	
+800	Na ejection protocol thei haira.	
+801	Kha kalikha da na emergency landing sakha, dollar hi khuiphung haolu.	
+802	Alungli pin akha zangei.	
+803	Nawui ahuili chikaolu chi eina, ngalang ra.	
+804	Nali tukkhui nanai hairei chiakha, na chi shijinra.	
+805	Drivers, Ina kahang hi phabtada leila?	
+806	Dollar chi shijinra.	
+807	Mr. Khayashi khangayiya Chief Justice, kala court.	
+808	Cold War kachi hi tui mang eina maning manei, Your Honor.	
+809	Figure of speech la maning manei.	
+810	Kachangkhat eina rai ngarada leiyei okathuiwui theikathui khanina.	
+811	I la Rudolf Ivanovich Abel, Colonel Abel, da ali tukakhui mibing nala kaho thada, hi ithumwui yangkashiyanei rai chili kachi maya chaowei.	
+812	Auxiliary power?	
+813	Connect sahaira laga on sahaira.	
+814	Oxygen seat-pack supply?	
+815	1,800 psi eina supply sai...	
+816	Inverter?	
+817	On sahaira, light mit haira.	
+818	A li rai chili khangarar mi akhaleinei da khuisai, ishi government wuivang a hi rai chili khangarara mi akhanei da mahoran thura kachi atam eina tangda.	
+819	Chithada sada, Ithumna ithumwui mibingli protection khami chithada ali mami thu manei.	
+820	Ali criminal ming khamongwui treatment mamila, rai khangarar atamli yangkashi mibingli ningmongda tukkhuilaga treatment khami chithada mi.	
+821	Fuel transfer?	
+822	Sa shimit haihairei.	
+823	Destructor?	
+824	Destructor safety.	
+825	Climb data card.	
+826	Aircraft li kahairei.	
+827	I mi hipa hili thei.	
+828	Ali phenda khalei hi mashungda leiakha, a foreign government wuivang ot sada leilala ningkathar eina sada khaleinei.	
+829	A hi yangkashi shongwui shipai sasalala, a hi khamatha shipainei.	
+830	A rai khangarar apam eina awui mirin kan khavai mayamhai manei.	
+831	A li tukkakhui mibing wuivang ot salu kachili angkei chihaira.	
+832	A awui kaphaning shitkasang li machipat hai manei.	
+833	A malung makazang mibingwui thada paikhamei shongfa mazat hai manei.	
+834	Malung makazang mi ngasa sasi kachiva rai khangarar apam eina mayam ranglakha, awui khaya chi horhailaga yamzat sahara.	
+835	Chi, Rudolf Abel masalak mara.	
+836	Ithum, ali awui mashun katonga chi milaga, ishiwui governmentna mashun khangashit chi machithei sila, ishi khipa khala kachi?	
+837	Ishi khipa khala kachi.	
+838	Hithada kasa hina Cold War hiwui khamataiya pangmeikap kachi khutlai mangasa marala?	
+839	Ana awui shitkasangli panglak eina khanganing hi, Ishina ithumwui shitkasang hili khanganingna mangazan haimei marala?	
+840	Presidentna, NASAwui weather plane akha Turkeywui atungshong li zatlaga shiman hairei kachi phongmihaira.	
+841	Chiwui pilotla plane kakai chili thisang narhao maitei da Space Administrationna hangdalei.	
+842	Radarna kahang athishurda: pao phaokhangarok hi mazat runglakha plane chi Soviet ngaleili zanglak eina thaozatsayei da hangdalei. Mi chihosang laga kathi angum chi akhuiki kachi hi saklakeida hangdalei.	
+843	Ara Washington news ngana usei.	
+844	Aja Supreme Court eina Russian spy Rudolf Ivanovich Abelwui case hili judgebingna vote sangarok laga, nganailak eina vote mati guilty meaning manei kachi hi vote phangana guilty nei kachina yuihaira.	
+845	Case hi civil liberties maramli khuikaka nei, Russianwui lawyer, James B. Donovanna.	
+846	Na ajawui case makhuiyui hili kathada phaning khala da khangahan atam li, Mr. Donovanna shalak eina hanga, chot hairei da.	
+847	Pao chung meida leifayei hiwui thili.	
+848	[NO TRANSLATION]	missing translation
+849	Kuphaira.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	I, chi Prudential casewui file chi masamphang manei wo.	
+853	I, uh, Mr. Wattersna Jack Elweswui office li khuisang haoluda hangei, kala appeal kasawui first draftla da.	
+854	Ana hangei?	
+855	Mah, thuikahai hapta, ana draft saluishit hairei, na Washington nahnli panda leilakha.	
+856	Karankha haira ithum ot sangarumda?	
+857	I deal akhala masarar manei da kakhui maitei na.	
+858	Meeting khangaran salu.	
+859	Apam khamatha akhali.	
+860	I phaningei Mr. Young la ninchang lakrei apam khamatha-tha New York li khalei bing hi.	
+861	Laga chi nawui summarybing chi I lila milu...	
+862	Na khipa khali kathei leila, Leipzig mi?	
+863	Leipzig.	
+864	Ara Germany eina Ili ningkhakachai wui mail samphang phok hairala?	
+865	East Germany eina.	
+866	Na preiva la?	
+867	Maning manei.	
+868	I preiva maning manei.	
+869	I preiva sarekda khaleinei kha ava sakharekla masarekthei laga.	
+870	Letter hi kasuirak eina kapida lei newspaper eina pakhui nana kakashung, leikashi, lukhamashan leilak eina I gahara, Rudolf Abel wuivang sakhami katonga.	
+871	Thakha I kapi chiphun haorala?	
+872	Amai, kakai malei marei.	
+873	Ara na next kachishong zatrada pam dalei khi game ngareo ura kachi mathei thumada?	
+874	Francis Gary Powers...	
+875	U.S.S.R. lawwui Article Two Kachi kathana yurwui ain kaida ma khamaya ot kasa hi kum 10 tuknara, laga kum 10 wui eina khare kum kathum hi jail li pamra da kapi kahai athishurda.	
+876	Punishmentwui atam kala tukhui hailaga courtli makhuikarang lakha wui atam hi May 1 1960 eina shan phokra.	
+877	Mr. Donovan, ra khami wuivang ningshilak hairei.	
+878	Ningshilak hairei samphang khami wuivang, Mr. Dulles.	
+879	Ninshilak hairei, sir.	
+880	Nescafe, cream, angum khani.	
+881	Ningshi hairei.	
+882	Nali kachiphun letter chi.	
+883	Hili Soviets khikhikha hang ngaida lei maitei.	
+884	Athum East Germany shong eina sada leiyei, kachipava athum aruila Abel hi Soviet spynei kachi hailak lakha, athumwui minei kachi eina tangdala acknowledge masangai rungei.	
+885	Kakhalatva...	
+886	Kharachan makhaning-ning tarakha hang dalei.	
+887	Mah, sir, kha kachishong eina?	
+888	Athumwui pangli ishiwui mi tukhui haidalei, ishiwui spy pilot.	
+889	Ishiwui pangli athumwui mi tukhai.	
+890	Ngatha khangarok, chi sasei da hangda khaleirei.	
+891	Na la hi maram li phaning haida leira, Counselor.	
+892	Hi anaolamshong shokpaiye kachi na theisa haida leira da I phaningei.	
+893	Mah, I theisa hairei, laga I phaksada mangui manei.	
+894	Phana haire, nawui kaphaning mashung hairei.	
+895	Red letter day.	
+896	Ishiwui mi chili leidalei.	
+897	Powers.	
+898	Mi khamathanei, kha aguili information salak kahai puiting eina phungzat dalaei.	
+899	Abel la awui aguili saklak kahai kahai information puiting eina phungzatda khaleinei, kha a ithumli hirikhala mahang manei.	
+900	Laga, Sir, Ina kahang, a mahang thatha mara.	
+901	Mah, ithum katonga theiyei, athum Russianva mahang thatha manei.	
+902	Ashi ashiwui mi hipa hina mahang chithei ranglaga ungngasak khangai dala.	
+903	Thakha, ishila Powers hi ngarai kacha maram wuivang thakda khuikhaung chi ningchang.	
+904	Nana hangda khalei hi, sir, ishi wuivang la, ashi wuivang la kapha eina kupsang kapai leiyeida kahang dala.	
+905	Mah leiyei, ishi um, athumna kahang chili maya akha.	
+906	Nali swap maram hili vangazek ngasak khangai dala kachipava na hi private citizen ngasa haokida, hili government mazang khangai dala.	
+907	Athumna Abel hi Soviet citizennei kachi hi mamaya ma, thakha ishina East Germany hi sovereign countrynei kachi hi mamaya ma.	
+908	East Berlin hi Sovietsna 1945 li khuikahai eina ishi East Berlin hi sovereign countrynei da makhuilui manei.	
+909	Thakha, Ili ngazek khami saluda,, khipa wuivang nganingmi...	
+910	Na khipakha wuivang la manganing mi manei.	
+911	Na government official maning manei.	
+912	Na governmentli khikhala mari malei manei.	
+913	Ishiwui shong la kharachan kasem khuilaga la mahang pai mara.	
+914	Mahang pai mara...	
+915	Hangda khalei hi, na khipawui eina la maya khami kala khangachon makhui pai manei ot hi maungta lala.	
+916	Ot hi maungshung salala CIA li maphen pai manei.	
+917	Ithumli makhayak ngsak pai manei.	
+918	Hiwui chan khangazaek hi kali ngazeksei kachi?	
+919	Chili.	
+920	Chili?	
+921	East Berlin.	
+922	Da, East Berlin arui-rui rotmaratlak eina...	
+923	Mah, mashungei, apam chi arui-rui matikacha rotmarotlak eina pam dalei.	
+924	Mah, rotmarat thatha pamdalei.	
+925	Ara kachang khani kathum kakahainei Soviet shong checkpoint lingka phok kahai, mi Western sector shong li yam kazang chi kham khavai, laga chila maungta ma da pamda khaleinei.	
+926	Pao samkaphang athishurda ashi Eastern sector katonga wall saphin haora dala hangdalei.	
+927	Da, chinei, meisa eina.	
+928	Decision hi nawui tungli khalei nei.	
+929	Na atam kateokha kakhui ngai akha.	
+930	Makhui marei.	
+931	Makhui marei, I atam makhui marei.	
+932	Thakha, phalak hairei.	
+933	Phana haire.	
+934	Katonga hi mili mathei ngsakla ngathumda haisei.	
+935	Hi, uh, Mary lila kala khipali khala mangazeksei.	
+936	Hiwui maramwui pao hi ithumli mang hanglu.	
+937	Athum khi sangai kala katharan sangai kachi chi ithumli hanglu.	
+938	Khipa wuivang samida khalei khala kachila mathei, preiva lila mahang ngasak ma, yurna la manganing ngachon mara chi.	
+939	Mathei thura I khisa kapam khala, khipa wuivang, kala katharan.	
+940	Nana sada khalei hi nawui yur wuivangnei, kha yur matheirang kachinei.	
+941	Thakha iwui clientva, Ina nganingmi kikachi phabta hairala?	
+942	Iwui mi?	
+943	Nawui mi?	
+944	Russianpa chiva?	
+945	Ahi nawui mi maninglui manei, Counselor.	
+946	Nawui mi hi Francis Gary Powersnei ara.	
+947	I Rudolf Abelli kathada hangrada?	
+948	Mathi hailu da hanghaolu.	
+949	Professor?	
+950	Professor?	
+951	Ishava universityli va haowei.	
+952	Na hili maraki kachinei, Frederic.	
+953	Ashi aja class leila?	
+954	A malei khala da thuihaowei.	
+955	Chi ayang khavai thuihaowei.	
+956	Na hili khiwuivang eina kharada?	
+957	Na eina nashava li rathan khuikhavai.	
+958	Na Ili ngayur raulu.	
+959	Na akhama mashokpai lui mara.	
+960	Thada...	
+961	Thada zatulu da va?	
+962	Mei.	
+963	Mei, thada zatulu.	
+964	Arui.	
+965	Hanung haolu.	
+966	Hanung haolu.	
+967	Ili khikha matha marei, I Americannei.	
+968	Hanung haolu.	
+969	Nashiva wuili hanung luishit haolu.	
+970	Ishi khangatei shongfa phakhuilui naosei.	
+971	Ung ulu.	
+972	Hey!	
+973	Katha, hi.	
+974	Lairik, yangsei.	
+975	I Frederic Pryornei, lairik katamnaonei.	
+976	Mah, lairik katamnaonei.	
+977	Iwui mingna Frederic Pryor hoi.	
+978	I economics katamnaonei.	
+979	Hi?	
+980	Hi Ina tamda khaleiwui maramli khakapinei.	
+981	Iwui thesis nei.	
+982	[NO TRANSLATION]	missing translation
+983	Hi, hi.	
+984	Yanglu European Communist nationwui ayarli leikhalon.	
+985	Huh?	
+986	Saklak eina khakapi nei.	
+987	Chi mangei, makhui pai mara.	
+988	Frederic!	
+989	Hanglu.	
+990	Huilak eina kahangnei.	
+991	London lila ishiwui office leiiji.	
+992	Client hibing.	
+993	Iwui kaphaning maning manei.	
+994	Scotlandli khai aphasei kachi hi.	
+995	Kachi katha khai apha kikachi khala, Jim?	
+996	Salmon kapha.	
+997	Hanglu, na kala kashi khikha malei manei, hi khangachawui thada business trip vaki kachineida, chitha akha I mawukkhanung mara.	
+998	I iwui passport kanayei.	
+999	Kateokha hang kachanglu, I ma wukkhanangrar manei.	
+1000	Khamashung khakapik I theikhangai meaning manei.	
+1001	Ina sada khalei hi ithum wuivang sada khaleinei.	
+1002	Mr. Michener, hipa hina Berlinli nali than-ung than-va ra.	
+1003	A US embassyli ot sada leiyei.	
+1004	Ara, hi matik kaza sakkahai dala.	
+1005	Uh-huh.	
+1006	Nala thei, achonthang chithi Mrs. Abel, nei kachika, wui eina samkaphang chili East Berlinli khalei lawyer, Mr. Vogel, kachika, ana awuivang nganingmi dalei da kahang dala.	
+1007	Chithada hangei, Vogel Berlinli khalei Russian embassyli vahairei, ashi Abel wuivang Powersli ngathangai phaphaki chimaitei da hangei.	
+1008	Kha khipana khipa khala kachi khipa khala matheima, kha athum katonga Russian sera dala, yang?	
+1009	Soviet.	
+1010	Chithada leila pai.	
+1011	Kachi pava?	
+1012	Heat chi kashireika sila?	
+1013	Kasaka tarakha leirakho.	
+1014	Na lila makapha tarakha heromi rakho.	
+1015	Powers chi maningla khangatei prisoner khuingasak khavaila hangrakho.	
+1016	Khangatei Americanva?	
+1017	American lairik katamnao akha East German Stasina tukhui haireida hangdalei.	
+1018	Frederic Pryor.	
+1019	Uh, naoshinao akha Wall makanda lakhashong zat kasa dala.	
+1020	Yale eina graduate kup kasang.	
+1021	Hili economics tam rada khara.	
+1022	Mmm-hmm.	
+1023	Ara, ashi naoshinao hipa hili espionageli phen rada leidalei...	
+1024	Salak kahai offensenei, capital punishment la mikapai crimenei.	
+1025	Chieina.	
+1026	Vogelna ithumli ngahanlaga, a Pryor wuivang nganingmi yeida hangei.	
+1027	Thari falu.	
+1028	Vogelna Mrs. Abel kala hi... Naoshinao hipa hili nganing khami?	
+1029	Mah, a ngalang zarlakei.	
+1030	Thakhava, ana khipa?	
+1031	Vogel, a hi, uh, East German ka Russian khala?	
+1032	Ali ngahan khuilu, ali samkaphang atamli.	
+1033	Russian embassy, East Berlin, akhama ngashun.	
+1034	Kathada vara khala kachi Hoffmanna hang chitheira.	
+1035	Thari falu, hanglu kathada varakhala kachi?	
+1036	Ili thanzatra dala.	
+1037	Chang?	
+1038	Chithaseida leikasanei, kha Ina hangkahai thada, kasaka tarakha leida lei...	
+1039	I nali mathan ra mara.	
+1040	Decision khui kahainei.	
+1041	U.S. governmentwui mi khipakha lila thari mamakan paimara chihairei, makanpai urada mahangrang lakha eina tangda.	
+1042	Kathada?	
+1043	Danger salak haowei.	
+1044	East Germansna naoshinao hipa hili tukkhui kahainei...	
+1045	Ashi ashili sakaza malei khala kachi maphaningla hithada sarada ishi maphaningsa manei.	
+1046	Hangda khalei hi East Germanwui agenda eina Russianwui agenda hi mangaraicha maitei kachinei.	
+1047	Athumwui ngatei khangarok chi theiri hailaga chiwui athishurda savalu kachinei.	
+1048	Laga tui chi kupsang chilu.	
+1049	Powers hi Abel wuivang.	
+1050	Thakha katha ura, college katamnao, Pryor liva?	
+1051	Mmm-mmm.	
+1052	Chiva kaphaningla maphaninglu.	
+1053	Aliva thangkha mathangkha khuishok haorei.	
+1054	Powers hi mangei ishiwui kharin hi.	
+1055	Nawui roomva kali?	
+1056	I Hiltonli zangrei.	
+1057	Mata manei.	
+1058	Hi West Berlinwui numbernei.	
+1059	Phaninghai haolu laga ili miluishitlu.	
+1060	Meaning manei, meaning manei.	
+1061	I...	
+1062	Ina kahang chi arui kachinei.	
+1063	Sovietsna internationalwui linebing hi katathao-katathao chi, kha local callbingva khikha matha manei.	
+1064	Nali mi kachi kathana ngashun ngaya rathan khuirei.	
+1065	Thakha, docket nawui passportli sakami haida khalei hina Eastern Soviet sectorli kazang kashokwui nawui ticket ngasara.	
+1066	Vogelli samphang khavai meeting hi akhama ngashunli khangaran sami hairei.	
+1067	East shong li vakapai shongfa machung luimanei.	
+1068	Na S-Bahn khuiki kachinei, station chipa, shongfa kazangvakli ithumna nali kachithei pachi.	
+1069	Laga na Friedrichstrasse station hili ta kikachinei, laga Soviet embassy, Unter den Linden hili na aphei eina zat kikachinei.	
+1070	Map hi mathada yanghaolu arui.	
+1071	Na map hi makhuiphung kikachinei.	
+1072	Na map yang laga zat, laga na hi American ngasa luishit chiakha, spynei da.	
+1073	Nali tukhui haoki kachinei.	
+1074	Mi li mangahan khavai salu.	
+1075	Na...	
+1076	Na apam hiwui mi meaning manei, chieina nali maningmong ngasaklu.	
+1077	Kashak kaza chishongli tang dalei, chieina chishong okathui maungta lakla palmdale.	
+1078	Zakkashi mila eina leisara, kala ain kapar chila chishong eina free sameiyei.	
+1079	Laga Wall li masaza laklu.	
+1080	Ashi vakwui, Wall ayar-yarwui shimla sakhaita ser hairei.	
+1081	Ashi chi Death Line da hoi.	
+1082	Hi kan khaleoda nungmei eina kap uki kachinei.	
+1083	Kalikha teida chi salala, matuk khuiki kachi kala nungmei eina makapki kachi apong maleida?	
+1084	Michenerna kahang chili mawukkhanang nalu.	
+1085	Meaning manei, I nana hangda khali hili wuk kakhanangnei.	
+1086	Naoshinao pahi, Pryor, East Germanna tuknarhaida khalei chi, zingkum kayakha haira?	
+1087	Makada-phanga.	
+1088	Kathahao?	
+1089	Dougie thotla lamo.	
+1090	Khipa?	
+1091	Eh, Iwui associate akha.	
+1092	Frederic Pryor.	
+1093	Mah, mah, mah.	
+1094	Ninshi hairei.	
+1095	Yonhairei da hangai, hi kahang eina na maringkapha masalu.	
+1096	Uh...	
+1097	Coat?	
+1098	Ay.	
+1099	Na English mamatui thei?	
+1100	Matui theiyei, sir.	
+1101	I James Donovannei.	
+1102	I Mr. Vogel li samphang khavai kharanei.	
+1103	Mr. Vogel.	
+1104	A hili ot masa manei.	
+1105	I thada ali samphangki kachinei.	
+1106	I chimang thei.	
+1107	Mr. Donovan!	
+1108	Samphang khuilak hairei...	
+1109	I Helen Abelnei.	
+1110	Ishiwui gahara kathada palmdale?	
+1111	Oh.	
+1112	A chalak eina panda leiyei.	
+1113	Iwui Rudolf kathada pamdalei?	
+1114	Shokda khalei maram hi eina a maringpha nala pamdalei.	
+1115	A ishili ungluishit haora, chang?	
+1116	Hi ishinao ngalava nei.	
+1117	[NO TRANSLATION]	missing translation
+1118	Lydia.	
+1119	Na Mr. Vogella?	
+1120	Meaning manei, meaning manei.	
+1121	I Vogel meaning manei.	
+1122	I cousin Drews nei.	
+1123	Hi Rudolfwui leishilak kahai cousin Drews nei.	
+1124	Mah, cousin Drews.	
+1125	I cousin Drewsnei.	
+1126	Cousin Drews, mah.	
+1127	I Helen Abel.	
+1128	Na katharan ali samphangra?	
+1129	Katharan nashi government ali chihora khala?	
+1130	I, uh, mathada phab mata makho.	
+1131	I Mr Vogel li samphang seida kharanei.	
+1132	Oh, Mr. Vogel hi asjiwui lawyernei.	
+1133	Exchange maramli ngazekfa kikachinei.	
+1134	Rudolfli hili khuiung khavaiva?	
+1135	Mah, mah, hili khuiung khavai.	
+1136	Kha chi akha shong mang eina masapai manei, chi phab mata khala?	
+1137	Exchange saki kachinei.	
+1138	Hi mazat mani?	
+1139	Shh.	
+1140	Shh.	
+1141	Shh.	
+1142	Mr. Donovan?	
+1143	Mr. Vogel.	
+1144	Meaning manei, meaning manei, a meaning manei.	
+1145	Phana hairei.	
+1146	Ili Schischkin hoi.	
+1147	Ivan Schischkin.	
+1148	I Soviet embassy secretary kakhaniya nei.	
+1149	Mr. Vogelli join salu kachi mangayi luimara.	
+1150	A hi German national.	
+1151	Da na hili khikha sakhavai maningla...	
+1152	Meeting hi mapungpha meida khuiva khavai vang.	
+1153	Uh, da Mrs. Abelna apam akhali kashakha shokpam misa kila?	
+1154	I Mr. Donovan eina I ngahanda leilakha?	
+1155	Ningshi hairei.	
+1156	Da, I mathada phabmata manei.	
+1157	Kathayi.	
+1158	Uh, personnel exchange maramli ngazekda leilakha eina tangda, I khipali ngazekra khala kachi kakai malei manei.	
+1159	Ngazekki kachi mi pachi na la?	
+1160	Mah, mah, ameiya.	
+1161	Uh, ishi ngazek khalaisei.	
+1162	Pamzang milu, Mr. Donovan.	
+1163	Uh, na Eastern sectorli kathada ra?	
+1164	Train eina.	
+1165	S-Bahn da.	
+1166	Ah, na mang raka?	
+1167	Mah, I mang rayei...	
+1168	Laga, nali ot hi wuivang kachihola?	
+1169	Na Iwui maram theingayi hairei, sir.	
+1170	I private citizennei.	
+1171	I lawyernei, Brooklyn da United Statesli khaleiwui, laga iwui ot ngalang kazar katonga hai hailaga, I, iwui client Rudolf Abelli ngachon khavai kazatnei.	
+1172	Ili, Abel li Francis Gary Powers ngatha khavai chan ngazek khavai hili khamaya mihaira.	
+1173	Hi Abel li full pardon sakhamiwui exchange kasa atamli sign saki kachi lairiknei.	
+1174	Maram hiwuivang mang eina I hili kharanei.	
+1175	Khangaran hi thaklak eina sarada, kachihan lei.	
+1176	Abel wuivang Francis Gary Powers, kala Frederic Pryorla.	
+1177	Mmm, Pryor ishili malei manei...	
+1178	Malei mani?	
+1179	Nashili malei manei?	
+1180	I Pryor kachi sha hairei, kha a hi German Democratic Republicna tukkhui laga kahainei, Union of Soviet Socialist Republicsna meaning manei.	
+1181	Ina hangrei problem khare hi.	
+1182	Nashi countrywui aming bing hi sangnayei wo.	
+1183	Mashunei, mashungei.	
+1184	Powersli chiho akha, ithum countries hili khamatha khuira khavai wuivangnei.	
+1185	Exchange sakhavai vang meaning manei.	
+1186	Maning akha...	
+1187	Maning akha, nashi Abelli chihorei, ishi ngasotnao Germanyli khalei bingli khamatha ot akha sakhami sada, laga kachang hunnakha pam laga Powerli chihonao chira dala.	
+1188	Idea hi mathayei.	
+1189	Machitha mara.	
+1190	Hi kalikha dala masapailak manei ithum wuivang.	
+1191	Ishiwui ningkachang chiva, exchange kasa hinei.	
+1192	Nana ho khangangai ho paira, kha ngatha ngarok phalungra.	
+1193	Ishi Abelli 48 hours alungli hili khuira shapra.	
+1194	Ishi Abelli khami atamli Powers lila atam ngaraichada ningchangei.	
+1195	Hmm.	
+1196	Hi...	
+1197	Hi impatient plan da mahopai ra?	
+1198	Thada, nana ho khangangai ho pairei.	
+1199	I nawui impatient plan hi Moscowli hanghai fakei, athum khi hangra khala yangsei...	
+1200	Thalala athumla matakhak lakra khiwuivang eina hiyakha khakatok khala da.	
+1201	I khaiheng khakaza wuivang eina nei.	
+1202	Kala I Berlin li maring ma, laga I shim ungngai hairei.	
+1203	Athum phaningra, American Abelwui eina pao khuiki kachi khuiser haokida.	
+1204	Ara, ashi thaklak eina ngatha khangai da leira hipa hi, Powers hi samphang ukichihao, Kala pao katonga mamishok hai rangra da phaning laga kathak eina ngatha khangai ra da.	
+1205	Hi khamashung leikakhalon meaning manei, sir.	
+1206	Thakha, nana hangda khaleipa hiva, Powersna kathei katonga hang hairei chiakha, Moscow ngatha naora kachinei?	
+1207	Maning mala?	
+1208	Abelva, American prison eina thihai salala, naoda Russian spy tukkakhui bing athum pao mahang shokngai akha phaning luishit kachi tarkar masa marala.	
+1209	Khipana hangshapra.	
+1210	Abella ringphalak eina okthui ngai luishit haoda ana Russianwui secrets teomeikha kathei chi awui tongkhavai vang share sahaipai.	
+1211	Hi ithum kathada theida?	
+1212	Ithum pangshap makhalei mi, ithum thada ithumwui ot hi kasanei.	
+1213	Lieutenant Powers thada.	
+1214	Ahi pilotnei.	
+1215	A 70,000 feet kachui eina photo kaplaga zatsaiyeiji ali kap kata atam li.	
+1216	Ishi yur mibing hi rai neida salak eina khuiyei.	
+1217	Hi merry-go-round hi sashimit khavai sasei, sir.	
+1218	Ishiwui yurbing akha shida khayon saluishit hairei chiakha mashung khuiki kachi salak haora.	
+1219	Ishi governmentna mangazek kharar chan khangazek tarkar sai.	
+1220	Ila Moscowli hangra.	
+1221	Athum kathada saluda hangni khala.	
+1222	Mi tarakhana, Mr. Donovan, hi khangatha hi maungshung ngasak ngai manei.	
+1223	Na akhama maraphara khala athumna kahang chi ngazek khavai?	
+1224	Powers wuivang Abel.	
+1225	Kala Frederic Pryor.	
+1226	Ina hangkahai thada, Pryor chi State Security of the German Democratic Republic pangli haiyei.	
+1227	I shitsangei, na khangaran sashaprada.	
+1228	I hiva embassy li khalei foreign powerwui secretary nao nada.	
+1229	Ay, ay.	
+1230	Na Mr. Vogelli samphanglu.	
+1231	Ina awui address mikei.	
+1232	Mr. Vogel da leiphalung lamo?	
+1233	Malei sasi kachiva khiwuivang eina na kaphangla phaningra khala?	
+1234	Uh, taxi eina tada mava manei.	
+1235	Laga khalumashan mida, Mr. Donovan, overcoat sanglu kazing hili.	
+1236	Iwui li khui haowei.	
+1237	Chithada phaningsa phalungei.	
+1238	Saks Fifth Avenuewui coat.	
+1239	Meaning mala?	
+1240	Mr. Donovan.	
+1241	Mr. Vogel.	
+1242	Zanglu.	
+1243	Ningshilak hairei.	
+1244	Embassywui maramli kapheo milu.	
+1245	Soviets Ili host masami mara chi.	
+1246	Malung vatlakkei.	
+1247	I theingai fayei ashiyak kathada...	
+1248	Kali zatli khala kachi?	
+1249	Mah.	
+1250	Kala chan ngazeksei kachi hili la kayakha ningsang khala kachi.	
+1251	Oh.	
+1252	Ngateihang hairei.	
+1253	Katonga sakazamser hairei, maning mala?	
+1254	Ina hangkei khi sasi khala kachi.	
+1255	I awui khamashitta ngasotnaonei...	
+1256	Ngasotnao.	
+1257	Maning mara, ana rar meira.	
+1258	Katamnao?	
+1259	German Democratic Republicwui attorney general ngasotnao.	
+1260	Khapamzang milo...	
+1261	Hi kala kashi, Frederic Pryor, a hi apam makhamashungli atam machala zat kasanei.	
+1262	Kha otshot katonga hi kapha khamong shokhaminei mathalak eina yangakha, maning, Mr. Donovan?	
+1263	Yoh...	
+1264	German Democratic Republic leiyei kachi nashi countryna ay da makhuisangmi ma.	
+1265	Athumna kharachan makhaning-ning nan semkhuilaga GDR hi malei manei chihao, chancham sada.	
+1266	Oh makathei.	
+1267	Nashi governmentli namphu sada apam hi leiyei kachi khuisang ngasak khavai, sir, kala nala arui-rui GDRli chan ngazek khavai leihaokida, nali nashi governmentna kachihoneida khuida attorney general nali Mr. Pryorli chiho khavaivang chan ngazek ngaiyei.	
+1268	Mr. Vogel, I ishi governmentna chihoda hili kazat maning manei.	
+1269	Phana hairei.	
+1270	Naoshinao shoknayeida I phaningkho, Mr. Donovan.	
+1271	I...	
+1272	I official status malei manei.	
+1273	Kakai malei manei.	
+1274	Na USA wuivang manganing ma, Ila GDR wuivang manganing ma.	
+1275	Iwui client hi Lydia Abelnei, Rudolf preiva.	
+1276	Kala...	
+1277	Lydia hi anao ngalavanei.	
+1278	Preiva chi Helen nei.	
+1279	Phayei...	
+1280	I Rudolf Abel li ngatha khavai wuivang Frederic Pryor li mihairei.	
+1281	Thakha tharlak eina hangngarok ura.	
+1282	Ishi Rudolf Abel li khuishokra.	
+1283	Nashila khuishora, katamnao Pryor chipa chili, atam horzakda.	
+1284	Atam horzakda yang?	
+1285	Mah, atam horzakda.	
+1286	Ngathaki kachi mi pachi Russiannei, sar hairei, ahi American lairik katamnao khanuithot li ngathaki kachinei.	
+1287	Schischkin?	
+1288	A hi embassywui secretary maning manei.	
+1289	Ivan Schischkin hi KGB western Europeli khaleiwui chiefnei.	
+1290	A hi kachi katha mi khala mathei manei, kha, ana Moscowli ishiwui proposal hi ngazekmi dalei laga ashi decide sanaora chi.	
+1291	Coat akha ma misang pai sara?	
+1292	Iwui chi shiman hairei.	
+1293	Na kathada coat shimanhao khala?	
+1294	Spy ot, thada.	
+1295	Ina coat khangatei mira.	
+1296	Phana hairei, kachiva...	
+1297	Kha hi, uh... Vogel hi khipa khala?	
+1298	Ali, ithum mathei manei.	
+1299	A hi ana nali kahang chi mashungda leira.	
+1300	Attorney generalwui ngasotnao.	
+1301	Thada GDRna otshot hili yangsang ngasak khavai khuikasang ra.	
+1302	East Germans ishina recognize sakhami hi ningchanglak eina leida khalei tha.	
+1303	GDRna Abelli khuiung shapda Russianli khami atamli, ashi Russianwui eina theikami tarakha samphang...	
+1304	Kala chi news headlinesli kapi laga.	
+1305	Chieina, East German okathuina theida mapli khuikasang samphang uradala.	
+1306	Thalala ishi ashiwui mapli khikhala machakmi manei...	
+1307	Russianli khamataiya sada khuilu.	
+1308	Russianli khamataiya sada khuilu.	
+1309	Powers hi Abel wuivang nei.	
+1310	Da, nana hangda khalei hiva changkhat shopaiyei kachila?	
+1311	Mah, nana kahang hili ngana akha.	
+1312	Ishi Abelli plane eina khuira ura, a li Fridayli hili khuira shaphaora.	
+1313	Kalikha Schischkinna ay kachi khuishap hairei chiakha, khangatha hi kathada ngathasi khala chimang vatkahainei.	
+1314	Kathada ishiwui mi eina ashiwui mi chi ngathara khala kachi chimang.	
+1315	Ishi mi.	
+1316	Mi khaninei.	
+1317	Powers eina Pryor.	
+1318	Lukhamashan leikashina mayuihai ngasakalu.	
+1319	Kharin hi Powersli mangei.	
+1320	Ivy Leaguenao chipa, aruihon hithada Cold War rai ngararda leilakha Sovietwui economics Berlinli katam hi kaphanei da phaninglakha kazat nao chipa chiwui maram chi malai haolu.	
+1321	Powersli mangei ningkachang hi.	
+1322	Na Powers lila maningchang lakha.	
+1323	Katongana Powersli ningkachai lakhava.	
+1324	A akhalatta sathat laga commiesli television eina chitheilu parade kasachi da mahang matei.	
+1325	A hi Americali ningkachai meikap kachi mi ngasadalei.	
+1326	Rudolf Abelwui thili, maning akha.	
+1327	Kala I.	
+1328	Ngakarthuilu!	
+1329	I khapikhui fakei.	
+1330	I khapi khuihai fakei.	
+1331	Ina hanghaira, ishina ngazekki kachi chi ngazek kahaiwui thili pi pairada.	
+1332	Ili yanglu.	
+1333	Nashii government nawui maram hili sakda makhui matei.	
+1334	Nala chi thei.	
+1335	Nashi khipali khala.	
+1336	Nashi thara-da-khani U-2 pilots akuingatokli saza hairei chi yang?	
+1337	China paihaokida masi khaksui kasang hi mangachang thumada, ashi akuingatokli marlak eina szahaireiji.	
+1338	Chitha salala athum nali pai ngasakfada leiyei Gary.	
+1339	Na kala nawui ngasotnao bingli.	
+1340	Athumna nali hi khami.	
+1341	Chikao khavainei, yang?	
+1342	Potassium cyanide.	
+1343	Chithalala na aruila athum nali care safayeida khuifala?	
+1344	Destructor unit chi kathada sem khala?	
+1345	Chi kathada operate sakhala?	
+1346	Khi explosive eina unit chi charge sa, kala khimamei sakhai shap khala?	
+1347	I mathei manei.	
+1348	Pilotbingli khutlai khikha machitheilak manei.	
+1349	Radarna kayakha hakda, tada area map sashap khala pai khamakan atamli?	
+1350	I mathei manai, I akhala mathei manei!	
+1351	April 9th zimiksho Baranovichili khalei industrial area kala MiG bomber base pai khamakan chi nala?	
+1352	I maning manei.	
+1353	Hina Iwui pai makan kharenei.	
+1354	Engine-out to glide ratio karankha zatshap kachi I theingai.	
+1355	kathada plane chiyakha chuida paikashap khala.	
+1356	Ithum theihairei 70,000 feet chuida pai shappei kachi.	
+1357	Gary, ithum theihairei chi.	
+1358	Kala plane binghi kachi mamei li pai haira kachi chi.	
+1359	Kachi mamei li pai haira khala, Gary.	
+1360	Maram hi arui ngazek phalungra.	
+1361	Arui.	
+1362	Laga chiwui thili na khapi khui paira.	
+1363	Sir, ngakarthuilu.	
+1364	Ngakarthui haolu, sir.	
+1365	Sir, na Ili ngaso ra rala?	
+1366	Ay.	
+1367	Zat ura.	
+1368	Ay, ay.	
+1369	Na Ili ngaso ra rala?	
+1370	Ay.	
+1371	Chilakei.	
+1372	Glasses sangkhui hairala?	
+1373	Uh-huh.	
+1374	Pung kayakha tahaira?	
+1375	Hui hairei, thalala kashakha ngahanlaga plane eina zathaorei, yao?	
+1376	Ay.	
+1377	Ay.	
+1378	Ngaironda!	
+1379	Ngaironda.	
+1380	Mashung hairei.	
+1381	Uhg, chithada.	
+1382	Uhg thada zatulu...	
+1383	Ningshi hairei.	
+1384	Chishong, chishong.	
+1385	Uhg, chithada zatlu.	
+1386	Nana kahang chi plane kachi la?	
+1387	Hishong.	
+1388	Thada zatlu.	
+1389	Nana propose kasa hili Moscowna ishi ishi ngasotnao German Democratic Republic li Mr. Powers li Mr. Abel wuivang ngatha khangarok hili ngachonmi rada khamaya tuitak samphang hairei.	
+1390	Phana hairei.	
+1391	Khangatha apam hi Glienicke Bridge eina ngatha ngarok sila?	
+1392	Checkpoint Charlie eina kasa maphamei marala?	
+1393	Mi khangateili kaphong maningchang manei.	
+1394	Glienicke Bridge chi ngazakyang haiti, matailak eina ngathor shongli.	
+1395	Glienicke Bridge.	
+1396	Ila ishi shongli hang haorei.	
+1397	Ishi Abelli Friday zimiksho hili khuirashap haora.	
+1398	Thakha, Saturday ngathorshong kathara?	
+1399	Atam kachida katot dalei, maning mala?	
+1400	Shimli unglga mathada pikhui ngaiyei.	
+1401	Thakha, Saturday ngathorshong katha?	
+1402	5:30?	
+1403	Chalak hairei.	
+1404	Da, chinei ara.	
+1405	Number hili, kalikha khikhikha shokakha.	
+1406	Ay.	
+1407	Atam kachida khuikaka mi leisara.	
+1408	Kayakhala makanaki chimaitei.	
+1409	Arrangement sakahai wuivang toast sasila?	
+1410	Ameiya?	
+1411	Armenian brandy.	
+1412	Kasik wuivang matha lakkei.	
+1413	Ningshilak hairei.	
+1414	Na dahn rala...	
+1415	Hi ishiwui business maram meaning manei kha I nali question kareo ngahan ngaiyei.	
+1416	Na mahangngai lala kakai malei manei.	
+1417	Ina kathei chi hangraya.	
+1418	I mi hipahi hili ningchang lakkei, nashiwui mipa chili.	
+1419	A li khi sara a shim khaung atamli?	
+1420	Ara, yang ura ma, ishi mipa chi ara nashiwui mi ngasahaira ka kachi chi.	
+1421	Athang Ina hangkahai thada, a khaya leilak eina otram ngathami kahainei.	
+1422	A hi nashiwui mi lakfayei. Tharlak eina kahangnei.	
+1423	Ameya, chi mashung lala mamashung lala nava chithada hang phalungraya.	
+1424	Hiyakha kasakli zang kahai, yang?	
+1425	Hangluda namphu masangai manei, kha awui tungli kala kashi leirala a hi ishi mi ngasa haoni kachiva?	
+1426	Yo.	
+1427	Arui-ruiva, mi katonga dangerli leiserda khalei nada.	
+1428	Cheers.	
+1429	Cheers.	
+1430	Glienicke Bridge li khikhala mangatha mara.	
+1431	Katha i, sir.	
+1432	Mangatha mara.	
+1433	Frederic Pryor li mangatha mara.	
+1434	Mr. Vogel, aya mayangark kahai meaning mala.	
+1435	Aya, Pryorli Abel wuivang ngathaseida maya ngarokkei.	
+1436	Ara na hi khayor mi, akha hi mi khanili yorda leiyei kachi shadalei.	
+1437	Nahn Pryorli Abel wuivang ishi yor.	
+1438	Amah.	
+1439	Laga Abelli Powers wuivang Sovietsli yor.	
+1440	I mathada phabta mata manei, arrangement hi party khani or kathum or mati wuivang tongda leiakha hili khi problem khalei khala kachi.	
+1441	Khi ngatei khangarok leihao khala?	
+1442	Arrangement hi ishi party wuivang ningyang maung manei.	
+1443	Hikathanei, Mr. Vogel, akhashida...	
+1444	Na khipali ngazekda khalei khala kachi maphabta kachi chatnei.	
+1445	German Democratic Republicwui ningkachang hi.	
+1446	Chan khangazekli zang, kala khangatei sovereign power, United Statesli chan ngakhazek hila thei khangasak hinei.	
+1447	Ishi lila sovereign state akhanei da theikhami chi ningkachangnei.	
+1448	Sovereign state akhanei da khuiki kachi mahut eina nashi ishili Union of Soviet Socialist Republicswui fanaonei da khuidalei.	
+1449	Shalak eina Russians da maho paira?	
+1450	Atam mashiman khavai.	
+1451	I mi samphang khavai leida leiyei,, sir.	
+1452	Atam shiman ngasakda khalei chi na nei.	
+1453	Hi mamashungla hangda leiakha I li hanglu.	
+1454	Naoshinao chipa university katamnao, nashina tukkhuilaga kahai chi spy maning manei, threat khikhala malei manei kachi nashila theiyei.	
+1455	Laga naoshinao hipa hi, khikha aman makhalei hi ngatha khavai, americans eina Russians khangathali pangshap ngaraichaida ningkachang.	
+1456	Kala hi akha shida ngatha, ishi eina nashi khani akha sada.	
+1457	Khanishi ngathakida khalei maning manei, sir.	
+1458	Hi akha shida ngathaki kachiwui khangarannei.	
+1459	Akha mangei.	
+1460	Ili phabmata manei hi eina kathada East German Democratsli mashatda leiyei kachi khala.	
+1461	Na Ili mahangla Sovietsli ay chikahai dala.	
+1462	Hi chan khangazek ka conspire kasa khala?	
+1463	Hi conspiracy sani kachiva, nali sakaza leisara dala, sir.	
+1464	Hi tongkhavai mangei.	
+1465	We're of agreeing interests.	
+1466	No, you decide they agree.	
+1467	Na mi samphangki kachi chi kali khala, sir?	
+1468	West li.	
+1469	Ku'damm.	
+1470	Phana hairei.	
+1471	Yanglu nala.	
+1472	Eastern sector hi West eina kayakha ngatei khala?	
+1473	Hmm?	
+1474	Ishi ngasotnao Russianna ishiwui capital city hi masemka pailuimarada chihairei.	
+1475	Kha ishi ishi ngasotnao Russianna sakhaimi kacham kahai hili okthuida lei.	
+1476	Va ulu, va laga Russian hibingli chan vangazek ulu.	
+1477	Ithumva mazangkei.	
+1478	Pryor mazang akha chan khangazek hi makupsang mara.	
+1479	Ishi ali hili manothahai mara.	
+1480	Hi nawui kaphaning ka nashi governmentwui kaphaning khala?	
+1481	Sir, I hili zatda lei.	
+1482	I nali ngahanda khalei hiva.	
+1483	Thalala na hi nashi governmentna kachiho maning laga.	
+1484	Na khipa khala kachila na mathei laga.	
+1485	Ishila mathei ma.	
+1486	Na ning ngasharno.	
+1487	Hi Brooklyn maning matei, Mr. Donovan.	
+1488	Hi, sir.	
+1489	Khikhikha kasaka maram Ina ngazek zatda khalei hili, I, ishiwui government wuivang sazatda leiyei kachi phabta ratei.	
+1490	Na I khipa khala theiyei.	
+1491	I thei lamo?	
+1492	Uh-oh.	
+1493	Na lairik zangdala, yang?	
+1494	Mazang maneiya.	
+1495	Khikhala matha manei.	
+1496	Na katha American lawyerbingva pailak eina ngazek haora.	
+1497	Maning mala?	
+1498	Na ali ngaso valu.	
+1499	Khisada?	
+1500	Passport problemnei.	
+1501	Khi...	
+1502	Khi problem?	
+1503	Khi problem leihao?	
+1504	Ali ngaso valu.	
+1505	Laga, Frederic Pryorwui mirin hi ishiwui pangli leiyei kachi mamalai hailu.	
+1506	Ava varevara!	
+1507	I coffee mang re haifakai.	
+1508	Laga chiwui thili Hilton combo kla American breakfast.	
+1509	Laga coffee da.	
+1510	Khani thathui breakfast va?	
+1511	Mah.	
+1512	Rida akha laga...	
+1513	Khani thathui, sakhali shili,	
+1514	sem kuphairei chiakha.	
+1515	Lada coffee da.	
+1516	Hmm.	
+1517	Na hili mazatki kachitei.	
+1518	Atam akhaliva Germany lila, American breakfast matikacha zakhangai atam leitei.	
+1519	Kathahao?	
+1520	Na angaya kali vahao khala?	
+1521	Vogelna Eastli pamngarum khavai atam khangaran mida.	
+1522	Oh, Jesu...	
+1523	Nathumna I li pam khangasak hishong West vak eina kayakha mangateina manei.	
+1524	Ara Russianva exchange sasei kachi hili maya hairei, kha ara East Germans, Vogelna masa marada hangda leiyeiwo.	
+1525	Pryorli masamphang marada hangda lei.	
+1526	Phana hairei, phana hairei.	
+1527	Thakha Sovietwui chi kup kahainei.	
+1528	Ishi Powers samphang ura.	
+1529	Ishi Powers samphang ura.	
+1530	Phalak hairei.	
+1531	Maning manei, East Germans mangatha mara chi.	
+1532	Ishi Pryor masamphang mara chi, nao chipa chila mi tei.	
+1533	Mi saikorali sakda khuiratei.	
+1534	Chieina wo, chieina na hotna kahai dala.	
+1535	Chieina na hotna kahai dala.	
+1536	Abella shongfali zathairei, Thakha katonga akhama ngathorwuili khangaran sakahainei.	
+1537	Kashakha ngarailu.	
+1538	Ot paimei ngasak haora.	
+1539	Ot paimei ngasak haora.	
+1540	Ishi naoshinao chipa chi masamphang mara.	
+1541	Ame, I phabtayei.	
+1542	Khangaran kupkahainei.	
+1543	Athang ngathor pao samkaphang chila ignore sapai haora.	
+1544	Khi pao?	
+1545	East Germanwui eina.	
+1546	Ina nali number khami chili ashi call sayei.	
+1547	Athum nali aja ngahan ngaiyeida hangei.	
+1548	Vogelna sala?	
+1549	A maning manei, um...	
+1550	Office of, uh, Harald Ott, East German attorney general.	
+1551	Khi ningkachang?	
+1552	A khi ningkachang?	
+1553	Ai thada, nali ngahan khavai wo.	
+1554	Thalala khikhala matha lui manei, nali chili va luiluda mahang lui mara.	
+1555	Laga, ashi mi kaikhana nali mara ngasak ngaina maitei, chieina ishi ishiwui kala mahotna luimara.	
+1556	Kha a Ili samphang ngaiakha.	
+1557	Pung kayakha li?	
+1558	Oh, maning manei, maning manei.	
+1559	Nganalu.	
+1560	Na khava makanalui manei.	
+1561	Kachangkhat da na mavaki kachinei.	
+1562	Kachangkhat eina na mava pai manei.	
+1563	Sovietwui chi kupkahainei.	
+1564	Ishi hi teta machi ngasak hailui mara.	
+1565	I teta machi ngasak mara.	
+1566	Mava pai mara!	
+1567	Kahang chi makailu.	
+1568	Oh, Ina order sayei.	
+1569	American breakfast chi mathada zakhui haolu.	
+1570	Chan khangazek hi khayashi sada chuikhamei level eina ngazek seida kaphaningnei.	
+1571	Ningshilak haira, sir.	
+1572	Ili phabmata manei kathada hi chiyakha pangapa hoakhala.	
+1573	Ai, marakha li chithada phabmakata la leihaowei.	
+1574	Phabta paimei khavaivang, Ina hang luishitkei, Ishi, Katmnao Pryorda kaho hi Rudolf Abelli ngatha khavaivang mayachao hairei.	
+1575	Ili Mr. Vogelna hangei, Pryor hi nali kanalak haoweiiji.	
+1576	Mah, kha...	
+1577	Ah, ishi hiwui hili lairik kapira.	
+1578	Oh, lairik.	
+1579	Ameiya, ishi bi-lateral exchange hili mayayei.	
+1580	Ameiya, ameiya.	
+1581	I chiwui kakhalat mathada phab mata manei kha...	
+1582	Francis Gary Powersli la ishi countryna panglak eina hangdalei.	
+1583	Masapai mara!	
+1584	Hi wuivang eina maram hi pangapa lakhao lamo.	
+1585	Powers.	
+1586	Khisada a, sir?	
+1587	A li ningkachang maram hi a li punishment mikhavai ningkachang ka?	
+1588	Shokahai chi shok kahainei...	
+1589	Ana pao mikikachi miser haida leira, Abella chitha haida leira.	
+1590	Chieina ishi ali miki kachi mahut liva khangatei nana kahangthala khayon makhalei li khami dala.	
+1591	Hipa hina mashung meiyei.	
+1592	Na hipa hili khuiki kachinei.	
+1593	Anao lamshong.	
+1594	Anao lamshong wuivang yangki kachinei.	
+1595	Ott.	
+1596	Ott.	
+1597	I yon hairei.	
+1598	Na Ili atam kashakha machika paira, sir.	
+1599	Pheomilu, sir.	
+1600	Attorney general, ot kasak akha zathaira, kashi masa miluji.	
+1601	A thuihaire?	
+1602	Thuihaire.	
+1603	Kashi masa milu.	
+1604	I pung akha langda ngarai hairei.	
+1605	Yon hairei, sir.	
+1606	Inao.	
+1607	Hili ralu.	
+1608	Khikhala matha manei.	
+1609	Hili ralu.	
+1610	Uh...	
+1611	Pam zanglu.	
+1612	Oh, avait!	
+1613	Pam zanglu.	
+1614	Na nana hili ot kasa chi ningchang la?	
+1615	Mathalak kahai otnei, sir.	
+1616	Chithada leira.	
+1617	Ringphada leira.	
+1618	Oh, mah, sir.	
+1619	Laga kankhana la kana da leira.	
+1620	Laga nawui English la... mathai.	
+1621	Mah, matha lakkeida I mahang ngai manei.	
+1622	Kha matha lakkei, sir.	
+1623	Phana hairei, phana hairei.	
+1624	Phana hairei.	
+1625	Ina ngazekki kachi mina zathui mihao, laga I ali ngahan ngaihao, laga na hi khanuithot ngahanpha kikachi thada thei.	
+1626	I kashakha nali mangahan paira?	
+1627	Uh...	
+1628	Khikha manei.	
+1629	Khikha manei...	
+1630	I...	
+1631	Nawui mapu li pao akha khahang miluda hangki kachinei.	
+1632	Kha hi shenglak eina hangki kachi otnei.	
+1633	Na phabmata?	
+1634	Phabtayei, sir.	
+1635	Kha a khaung khangaraina phameiki chihaitei.	
+1636	Maning manei.	
+1637	Hikathanei, I khaiheng kaza laga zatdalei chieina shimli ung laga bedkarli ungpam kahaina phameira.	
+1638	Na ali pao hi mahangmi pairado?	
+1639	Hangmipai khalairei.	
+1640	Phanayei, pao hi hinei.	
+1641	Ishi Powers eina Pryorli masam kaphang eina tangda Abelwui chan khangazek hi makupsang mara.	
+1642	Phabta hairala?	
+1643	Phabta hairei, sir.	
+1644	Akhama ngathorshongli khangaran sahairei.	
+1645	Ishi khani chi masamphang akha, exchange masa marada.	
+1646	Mi chipa khani chi.	
+1647	Khani, khani, khani.	
+1648	Phabta hairei, sir.	
+1649	Khani chi masa mara chiakha, Sovietsli nawui mapu hangki kachinei.	
+1650	Sovietsli Rudolf Abelli athum masamphang mara kachi chi ana hangki kachinei chilu.	
+1651	Ay, sir.	
+1652	Oh, laga hila hanglu.	
+1653	Arui rashungda, Abel khamatha shipai akha sadalei, ali shimli chiho ungra kachi a phaning chingei.	
+1654	Laga ishina ali na shim maunglui mara, Soviets nali maningchanglui manei, na shim maunglui mara da hang akha...	
+1655	Awui kasa khava ngachei haipai da I phaningei.	
+1656	Thakha chiwui chi khipana phungra?	
+1657	Pao chi sang hairei.	
+1658	Uh, thalala na phabtaser hairala?	
+1659	Amei, sir.	
+1660	Phabtaser hairei.	
+1661	Phana hairei...	
+1662	Na hi khamatha minei.	
+1663	Oh...	
+1664	Laga hila hangmilu aja zimik matunrang lakha ishili pao mami akha mangatha mara chihaolu.	
+1665	Awui pangli number haiyei.	
+1666	Mangatha mara chiakha, khipakhala ngathor thak kathui matarkarla.	
+1667	Chithayei, sir, chiva kakhalat malei lui mara.	
+1668	Ngasan kasanei yang!	
+1669	Ngasan kasanei yang!	
+1670	Ngasan kasa maning manei.	
+1671	Akha kha tarkar sayei.	
+1672	Hi nana masaphalungki kachi otnei.	
+1673	Ili kahang chiva otshot hi ayanglu kachinei.	
+1674	Nali kahang chi Powersli akhuilu kachinei, Pryorli akhuilu kachi maning manei.	
+1675	Chi original deal maning manei.	
+1676	Nana sanguiser hairei!	
+1677	Na kathada thei?	
+1678	Iva shitsang lakei.	
+1679	Nana sanguiser hairei!	
+1680	Oh, mawuk khananglu.	
+1681	Khikhala matha marei.	
+1682	Na kathada thei?	
+1683	Na chi mathei lagava.	
+1684	United States.	
+1685	New York, New York.	
+1686	Ningshi hairei.	
+1687	Katonga hi Ili athumna chang tamda khaleinei.	
+1688	I one for one ngatha rala, thakha kachipa?	
+1689	Chieina Ina maning manei, khani wuivang akha.	
+1690	Ara athum ishi kali nganing khala kachi phabta.	
+1691	Uhg, kalikha laga athum ngasanlaga, uh...	
+1692	Ai tanghaolu!	
+1693	Ishiwui mi chi nashili thada hai haolu, nashiwuila ishiwuili thada haihaora, hangsani kachiva?	
+1694	Ai, chitha haoni kachiva Ina sanguiser haira.	
+1695	Hey, honey!	
+1696	I nei.	
+1697	Mah.	
+1698	Khai kaphala mathalak eina zatdalei.	
+1699	I Londonli pamdalei, meeting akha leifayei chi zanghairei chiakha, shimli ung haorei.	
+1700	Mah, mah, phaning ungdalei marmalade.	
+1701	Regent's Park wui ngalemli dukan chi leihairei.	
+1702	Ay, ay, I atam samphang akha.	
+1703	Hey, Roger li kashakha mangahan paira?	
+1704	Nao ngalavabing li kashakha mangahan paira?	
+1705	Mangalang kazar mi malei khala?	
+1706	I malei manei kachiva athum mathei haira?	
+1707	Ay chihairei.	
+1708	Khani wuivang akha.	
+1709	Phana hairei.	
+1710	Mang usei.	
+1711	Problem akha.	
+1712	Khida?	
+1713	Ashi Pryorli Powerswui thong chili machiho mara chi.	
+1714	Ashila atam ngaraichada chihora chi.	
+1715	Russiansna Powersli thong eina khami atamli, ashila Pryorli Checkpoint Charlie eina chihora chi.	
+1716	Thakha chinava khi kahang?	
+1717	Chi iwui kaphaningli, Ishina khangachang tui chi hangra kachi dala.	
+1718	Kha ashila cassava sara dala.	
+1719	Nana hangdala.	
+1720	Na ashiwui kaphaning theihairei da.	
+1721	Ashiva kachi khala?	
+1722	Ishi mi chi kali zatdalei khala?	
+1723	Ishi mi chi kali zatdalei khala?	
+1724	Ashiva hui hairei.	
+1725	Khipa khala mahui rangnei.	
+1726	Ishi thakna kahai eina nei.	
+1727	Akha shida.	
+1728	Ay.	
+1729	Hoffman.	
+1730	Huh?	
+1731	Ashi hi...	
+1732	Katha?...	
+1733	Snipers khuiphungda khalei maitei.	
+1734	Ameiya, ashi khuiphung phalungraya.	
+1735	Ashi khuiphungda leiyei kachi na kathada kathei khala?	
+1736	Kachipava ishila snipers khuiphung dalei.	
+1737	Shok ulu, sir.	
+1738	Jim.	
+1739	Leishiya Jim.	
+1740	Na maring phali?	
+1741	Nali kathei hi ringpha lakei.	
+1742	Katonga hi iwuivang da nana ngaran khami la?	
+1743	Yang fasei hi, I... I ningkashi makhuirang lakha.	
+1744	Checkpoint Charlie eina Pyorwui maramli pao masamphang dalei?	
+1745	Arui-ruiva khikhala pao masamphang rangei.	
+1746	Akha shida, sir.	
+1747	Hi Lieutenant Joe Murphy, United States Air Force, ana Powers li ra.	
+1748	Lieutenant Murphy.	
+1749	Sir.	
+1750	Problem khaleihaoki kachi maitei.	
+1751	Nganuilak eina zaksafayei, I zatkathui atam chi.	
+1752	Ili ashi khipali sangasakra khala?	
+1753	Nawui East German family maning mada leira.	
+1754	Ashi icha khlattala sa ngarokshap ura kachi I mashitsang lui manei.	
+1755	Ishi party tha hairei.	
+1756	Thakha, va usei.	
+1757	Na hili pamsalu, Donovan.	
+1758	Machitha mara.	
+1759	Gate sholu.	
+1760	Na shim khaung atamli khisa marao?	
+1761	Uh, I...	
+1762	I vodka ung mangra.	
+1763	Ameiya.	
+1764	Ameiya.	
+1765	Kha, Rudolf, thada khikhikha shok kapai malei mala...	
+1766	Ishi mina ili kap kapai katha?	
+1767	Uhg.	
+1768	Na mawuk khanang mala?	
+1769	Wuk khanang da ngachon rala?	
+1770	Ngasotnao, nawui khangahan wui ngahan kaka chi, I khaya leilak eina otram ngathami hairei.	
+1771	Ashi chi theida leirada I shitsangei.	
+1772	Kha marakhali mi hi ngatei phaning haowei.	
+1773	Mikumo hi mikumonei.	
+1774	Yangsei athum ili kathada samphang khuimira khala.	
+1775	I khili yangrada?	
+1776	I li vamkhuira meaning akha khanuk shongli pam ngasakra.	
+1777	Amei.	
+1778	Kuihon khuishok haolu.	
+1779	Hey, Powers.	
+1780	Hey, Murph.	
+1781	Chi Powers nei.	
+1782	Ara Mr. Donovan.	
+1783	Haophok ura!	
+1784	Thari falu.	
+1785	Ili kashitsang milo, ina hangra.	
+1786	Khipa khala malei manei hili.	
+1787	Mi khangatei akhala chihorada leidalei Checkpoint Charlieli.	
+1788	A chili mara haira khala da pao khuida leifa kachinei.	
+1789	Arui!	
+1790	Ngazek kahai athishurda, khalum mashan mida khuira mi haolu.	
+1791	Sei.	
+1792	Ashi Pryorli khuira raga makhuirani khala, mathei laga.	
+1793	Sei.	
+1794	Ashi thada a mazang akha masara khalada ngaraida khaleinei.	
+1795	Hili thada nganing farei, a mazang akha mangatha mara kachi chitheira.	
+1796	Ashi khi ningkachang khala kachi I matheimi manei.	
+1797	Ishi ishiwui kharin khaleinei.	
+1798	Va ulu, Abel.	
+1799	Va ului, sir.	
+1800	Na vapai haora.	
+1801	Nashina khangaran kasa chi maungta manei chiakha, ishi unghaora.	
+1802	Ishi arui ngatha haorei chi meaning akha ishi shim unghaora!	
+1803	Na mi khangatei lila ngaraida khaleila?	
+1804	Mah.	
+1805	Na alila ningkachang.	
+1806	I alila ningchangei.	
+1807	A khi ningchang khala kachi li na khikhala ngana khavai malei manei, sir.	
+1808	I in charge nei, na va pai haora.	
+1809	Khavami ulu.	
+1810	Ka ulu.	
+1811	I ngarai shapra.	
+1812	Rarada khalei thadalei.	
+1813	Sure masa rangei.	
+1814	Thari falu!	
+1815	Sei.	
+1816	A nei, khui hairei!	
+1817	Uh, I, uh...	
+1818	Ina nali otnao akha chihomi haowei, Jim.	
+1819	Uh...	
+1820	Paintingnao nei.	
+1821	Kakhalat khalei otnao akha ngasarada I shitsangei.	
+1822	I yon hairei.	
+1823	I nali otnao khikhala malophungmi thurei.	
+1824	Hi Ili nana mikahainei.	
+1825	Hi Ili nana mikahainei.	
+1826	[NO TRANSLATION]	missing translation
+1827	Sei, sei, sei!	
+1828	Mr. Donovan.	
+1829	Colonel Abelna nali mi haoluda Ili miyei.	
+1830	Akha shida, sir.	
+1831	Nana in charge kakhuila hiwui hi, sir?	
+1832	Mah.	
+1833	Ninshilak hairei.	
+1834	Ninshilak hairei.	
+1835	I athumli khikha mami manei.	
+1836	I athumli khikha mami manei.	
+1837	Khikha matha manei.	
+1838	Mina khi phaningra khala kachili khikha phaning khavai malei manei.	
+1839	Nana sakahai chi na thei haiakha.	
+1840	Shimli ungulu.	
+1841	Ajawui kharam khava hiva vei.	
+1842	Mmm.	
+1843	Mmm.	
+1844	[NO TRANSLATION]	missing translation
+1845	Amei, I khikha matha manei.	
+1846	Na marmalade chi makhuilui da?	
+1847	Uhg, khuiyei.	
+1848	Khuiyei.	
+1849	Khuiyei...	
+1850	Khui ungei.	
+1851	Khuiunglu da hanghaokida.	
+1852	Jim.	
+1853	Hi Arnowui laga.	
+1854	Da?	
+1855	Corner chiwui eina wo!	
+1856	Honey, I ngalang zarlak haowei.	
+1857	I yonhairei.	
+1858	Ishi matikacha ngalang zarhaowei.	
+1859	Katha kachi khala.	
+1860	Roger kathada pamdalei?	
+1861	A shimli pamda leika?	
+1862	Shimli panda leiyei.	
+1863	Carol la shimli panda leiyei, Peggy la.	
+1864	Katonga shimli pamserda lei.	
+1865	Ava!	
+1866	Zanglu thakda!	
+1867	Yanglu!	
+1868	Ava, hili unglu!	
+1869	Ava, hili unglu!	
+1870	Unglu hi ung yanglu!	
+1871	Yanglu!	
+1872	Yanglu!	
+1873	Thaklu!	
+1874	Francis Gary Powers li Soviet Unionwui jail eina khuishok hailaga Americanwui authoritiesli misang haira, angathor Berlin li.	
+1875	Presidentna Rudolf Abelwui sentence hi commute sami haira.	
+1876	Mr. Abelli countrywui eina chihoung haira, laga Berlinli chihoshok hairei.	
+1877	Mr. Powerswui release sakhavai khangaran kasa hi atam hunnakha sara kahainei.	
+1878	Ajawui United States governmentna khangaran kasa hili Mr. James B. Donovan, New York attorneywui khangachon khuiyei.	
+1879	Frederic L. Pryor, American katamneo East German authoritiesna August 1961 eina tukhui laga kahai chi...	
+1880	Ava khai phazat dalei da I phaning sakho.	
+1881	Salmon.	
+1882	Abelli ara communist worldli chiho ung kahainei.	
+1883	Powers hili leida lei, khangahan li ngahan kada.	
+1884	Kala Donovan awui law ot chili ungluishit hairei.	
+1885	Kala ara, hi George Fenneman, Douglas Fir Plywood Associationwui mahut eina matuira da khaleina.	

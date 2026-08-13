@@ -1,0 +1,1885 @@
+1	Volgende halte, Broad Street.	
+2	[NO TRANSLATION]	missing translation
+3	Daar.	
+4	Deze kant op.	
+5	Ging hij deze kant niet op?	
+6	[NO TRANSLATION]	missing translation
+7	Hij is hier niet.	
+8	Ga terug.	
+9	Sorry.	
+10	Sorry.	
+11	Parkeer maar om de hoek.	
+12	Bezoek.	
+13	Mag ik mijn tanden even pakken?	
+14	Draai u om, kolonel.	
+15	Ga op het bed zitten.	
+16	[NO TRANSLATION]	missing translation
+17	[NO TRANSLATION]	missing translation
+18	De tanden liggen op de wastafel.	
+19	Kijk me aan.	
+20	We zijn agenten van de FBI.	
+21	Kijk me aan.	
+22	Ik praat tegen u.	
+23	We hebben informatie ontvangen over uw betrokkenheid bij spionage.	
+24	U kunt nu met ons meewerken, of u wordt gearresteerd.	
+25	Begrijpt u dat, kolonel?	
+26	Nee, niet echt.	
+27	Waarom noemt u me kolonel?	
+28	U moet zich aankleden.	
+29	We moeten uw appartement doorzoeken.	
+30	Mag ik mijn palet schoonmaken?	
+31	Anders bederft de verf.	
+32	Hij ligt achter u.	
+33	Ik heb een doek.	
+34	Bedankt.	
+35	Begin met het onderzoek.	
+36	Bedankt.	
+37	Doorzoek het matras, het bed, de grond, de stoel...	
+38	Zet die asbak neer.	
+39	Kijk bij de vensterbank.	
+40	Kijk in het bureau.	
+41	Ik wil niet dat dit verpest wordt.	
+42	Zeg niet, mijn jongen.	
+43	Dat is hij niet.	
+44	Hij is wel jouw jongen.	
+45	Over wie hebben we het?	
+46	We hebben het over een jongen die verzekerd was bij mijn cliënt.	
+47	Maak hem dus mijn jongen niet.	
+48	Prima.	
+49	De jongen die verzekerd was door uw cliënt... ontkent niet dat die dingen gebeurd zijn.	
+50	[NO TRANSLATION]	missing translation
+51	Die dingen?	
+52	Ja, die vijf dingen.	
+53	Wacht even.	
+54	Geen vijf dingen,	
+55	maar één ding.	
+56	Het zijn overduidelijk vijf dingen.	
+57	Voor mij is het niet overduidelijk.	
+58	Vijf dingen?	
+59	Leg het me uit.	
+60	Het is onbetwist.	
+61	Vertel me dan wat er gebeurd is.	
+62	Vertel me het verhaal waar die vijf dingen op gebaseerd zijn.	
+63	[NO TRANSLATION]	missing translation
+64	Jouw jongen...	
+65	[NO TRANSLATION]	missing translation
+66	Verzekerd door mijn cliënt.	
+67	Rijdt op snelweg 19... als hij de controle verliest en mijn vijf jongens raakt... de vijf die mij inhuurde om hen te vertegenwoordigen... omdat jij niet wilde betalen.	
+68	Je bedoelt dat mijn cliënt niet betaalt? De verzekeringsmaatschappij?	
+69	Mr Donovan, we weten wie wie is.	
+70	Behalve dat mijn cliënt volledig uitbetaalt.	
+71	[NO TRANSLATION]	missing translation
+72	Elke legale claim, Mr Bates, waar ze voor aansprakelijk zijn. Dat is $100,000 per ongeluk volgens de polis van deze man.	
+73	En dit is één claim.	
+74	Volgens uw beschrijving, raakte hij mijn vijf jongens.	
+75	De jongen verzekerd door mijn cliënt had één ongeluk.	
+76	[NO TRANSLATION]	missing translation
+77	Hij had de auto niet meer onder controle en raakte vijf motorrijders.	
+78	Hun standpunt is, dat er vijf dingen zijn gebeurd.	
+79	Luister, Bob.	
+80	Mag ik Bob zeggen?	
+81	[NO TRANSLATION]	missing translation
+82	Jim.	
+83	Als ik ga bowlen en een strike gooi, gebeurt er één ding.	
+84	Geen tien dingen.	
+85	Mijn cliënten zijn geen kegels. Hoewel jouw cliënt hen wel zo heeft behandeld.	
+86	[NO TRANSLATION]	missing translation
+87	[NO TRANSLATION]	missing translation
+88	[NO TRANSLATION]	missing translation
+89	Als jouw huis is verzekerd voor $100,000 en een tornado verwoest het... heeft hij één huis verwoest	
+90	en heeft hij niet elk stuk meubilair... vernield bij een ander ongeluk.	
+91	Als je dat beweert... dan is er geen grens aan onze aansprakelijkheid... en is dat het einde van de verzekeringsmaatschappijen.	
+92	Dan is niemand veilig.	
+93	Watters, Cowan and Donovan,	
+94	met wie mag ik u doorverbinden?	
+95	Goedemorgen, Mr Donovan.	
+96	Goedemorgen, Alison.	
+97	Ik heb de vergadering twee uur verschoven.	
+98	Waarom heb je dat gedaan?	
+99	Dat heb ik haar gevraagd.	
+100	Is alles goed, Tom?	
+101	Laat je spullen maar bij Alison achter.	
+102	Kom naar binnen.	
+103	Er is iets belangrijks aan de hand.	
+104	Er is iemand voor ons.	
+105	Natalie haalt koffie voor je.	
+106	Nescafé, melk en twee klontjes suiker, toch?	
+107	Dat klopt.	
+108	[NO TRANSLATION]	missing translation
+109	[NO TRANSLATION]	missing translation
+110	[NO TRANSLATION]	missing translation
+111	Leuk je weer te zien.	
+112	Hoe gaat het met het gezin?	
+113	Geweldig.	
+114	[NO TRANSLATION]	missing translation
+115	Hoe is het met Annie?	
+116	Zelfmoordneigingen.	
+117	Haar ouders zijn over.	
+118	Als ze dat doet, heeft ze een goede advocaat.	
+119	Wat is er aan de hand?	
+120	Het zit zo.	
+121	We willen dat jij die Russische spion verdedigt die ze gepakt hebben.	
+122	Hier is de aanklacht.	
+123	[NO TRANSLATION]	missing translation
+124	Ik weet niet of ik dat wel wil doen.	
+125	De verdachte kent geen advocaten.	
+126	De rechtbank heeft hem in onze schoot gegooid.	
+127	De Raad van Advocaten heeft gestemd.	
+128	Jij werd unaniem gekozen.	
+129	Het is belangrijk voor ons,	
+130	voor het land... dat deze man eerlijk berecht wordt.	
+131	Het Amerikaanse recht staat terecht.	
+132	Als je het zo stelt, is het een eer gevraagd te worden.	
+133	Lynn, ik ben een verzekeringsadvocaat.	
+134	Ik heb al jaren geen strafzaak gehad.	
+135	Het is net als fietsen.	
+136	Je blonk uit in Nuremberg.	
+137	Ik zat aan de kant van de vervolging.	
+138	Dat maakt niets uit.	
+139	Strafzaken zijn jou niet onbekend.	
+140	Jim, dit is de situatie.	
+141	De man is publiekelijk beschimpt.	
+142	Dat gebeurt mij dan ook.	
+143	Ja, niet op die manier.	
+144	Daarom moet dit gedaan worden, en kundig.	
+145	Het mag niet lijken alsof ons rechtssysteem veroordeelt zonder een eerlijk proces.	
+146	Als ik het nu doe, hoe ziet het bewijs er dan uit?	
+147	Nogal overweldigend.	
+148	Geweldig.	
+149	Geweldig.	
+150	Iedereen zal me haten, maar ik verlies tenminste.	
+151	Wat vind je ervan, Tom?	
+152	De firma zal lijden,	
+153	ik heb werk hier.	
+154	Het is een vaderlandslievende daad.	
+155	Het is een belangrijke missie.	
+156	Ik heb Lynn verteld dat de firma geen nee kan zeggen.	
+157	Jij vindt het ook moeilijk om nee te zeggen. Je moet die klootzak verdedigen.	
+158	Je doet het dus?	
+159	Wat?	
+160	Abel verdedigen, de Russische spion.	
+161	Misschien.	
+162	Dan moet ik hem eerst spreken.	
+163	Hoe weet jij dat?	
+164	Hebben ze het op het prikbord gehangen?	
+165	[NO TRANSLATION]	missing translation
+166	Nee, ik heb met Richard Earl gesproken.	
+167	Als ik het doe, dan heb ik jouw hulp nodig.	
+168	Kan je vanavond werken?	
+169	Ik ga uit eten.	
+170	Het is toch dinsdag?	
+171	Nee, ik heb niets te doen.	
+172	[NO TRANSLATION]	missing translation
+173	Maar het is ook een eer.	
+174	De Raad heeft mij gevraagd... omdat ze willen laten zien dat zelfs een spion een goeie advocaat krijgt.	
+175	Dat soort eer hebben we niet nodig.	
+176	Wat doe jij thuis, schat?	
+177	Hij is niet op komen dagen.	
+178	Walgelijk.	
+179	Wie is die idioot?	
+180	Dat zeg ik liever niet.	
+181	Ga zitten.	
+182	We zijn net begonnen.	
+183	Mensen zijn bang.	
+184	Ze bouwen schuilkelders om zich tegen dat soort mannen te beschermen.	
+185	Ik zie dat mensen in de winkels eten in blik en kaliumpillen kopen.	
+186	Het gaat allemaal over die man en wat hij vertegenwoordigt.	
+187	Hij is een bedreiging voor ons allemaal.	
+188	Een verrader.	
+189	Wie is een verrader?	
+190	De Rosenbergs waren verraders.	
+191	Wie waren dat?	
+192	Ze gaven atoomgeheimen aan de Russen.	
+193	Het waren Amerikanen,	
+194	die hun land hebben verraden.	
+195	Je kan Abel niet beschuldigen wegens verraad.	
+196	Hij is geen Amerikaan.	
+197	Luister naar jezelf.	
+198	Je verdedigt hem nu al.	
+199	[NO TRANSLATION]	missing translation
+200	Je zei dat je er alleen over nadacht.	
+201	Dat doe ik ook, maar het is moeilijk.	
+202	Iedereen verdient een advocaat.	
+203	Iedereen is belangrijk.	
+204	Jim, wat verdienen wij?	
+205	Hoe zullen mensen ons aankijken?	
+206	Het gezin van een man die een verrader probeert vrij te krijgen?	
+207	Hij is geen verrader, Mary.	
+208	[NO TRANSLATION]	missing translation
+209	Roger ga opendoen.	
+210	[NO TRANSLATION]	missing translation
+211	Waarom moet ik alles doen?	
+212	[NO TRANSLATION]	missing translation
+213	Wacht tot we gebeden hebben.	
+214	[NO TRANSLATION]	missing translation
+215	Hij is de minst populaire man in het land, en jij wil de tweede plaats innemen.	
+216	En ik sta op de derde plaats.	
+217	Carol, je had een afspraakje met de verkeerde.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, maak er geen discussie van, want we hebben geen discussie.	
+220	Jij bent er tegen, ik ervoor.	
+221	[NO TRANSLATION]	missing translation
+222	Nee, ik wil niet dat de Russen ons bespioneren.	
+223	Ik ben voor het recht op een verdediging in de rechtbank. Daarom noemen ze het Het Gerechtshof.	
+224	Ik wilde niet storen tijdens het eten.	
+225	[NO TRANSLATION]	missing translation
+226	[NO TRANSLATION]	missing translation
+227	[NO TRANSLATION]	missing translation
+228	Hallo, Doug.	
+229	Jim had het net over je.	
+230	Ik had het niet over je, Doug.	
+231	Eet een hapje mee.	
+232	We eten witlof vanavond.	
+233	Je kwam Jim helpen met het besluit wat te doen met de zaak?	
+234	We gaan het doen.	
+235	Opwindend, toch?	
+236	Heer, wij danken U voor de zegeningen die we gaan ontvangen.	
+237	In naam van Christus onze Heer.	
+238	Amen.	
+239	Goedemorgen, sir.	
+240	Ik ben Jim Donovan.	
+241	Dit zijn mijn geloofsbrieven.	
+242	Ik ben een partner bij Watters, Cowan and Donovan.	
+243	Ik ben in 1941 aangesloten bij de Raad van Advocaten van New York.	
+244	U bent aangeklaagd wegens drie misdaden en 19 overt acts.	
+245	Samenzwering om Amerikaanse atoomgeheimen aan de Sovjet Unie over te dragen. Samenzwering om geheimen te vergaren... en voor het niet registreren als buitenlandse agent.	
+246	Registreren veel buitenlandse agenten zich?	
+247	Als ik het mag vragen, sir... waar verbleef u, sinds uw arrestatie?	
+248	Dat kan ik niet met zekerheid zeggen.	
+249	Dat weet u niet?	
+250	Ze reden me naar een vliegveld, zette me in een vliegtuig, haalde me er weer uit.	
+251	Ergens waar het heet was.	
+252	Het is hier heet.	
+253	Heet en erg vochtig.	
+254	Ze stopte me in een kamer.	
+255	Werd u geslagen?	
+256	Nee,	
+257	er werd met me gesproken.	
+258	Er werden aanbiedingen gedaan.	
+259	Wat bedoelt u?	
+260	Aanbiedingen voor een baan, om voor uw regering te werken.	
+261	Mij werd verteld, als ik zou meewerken, dat er dan geen aanklacht ingediend werd.	
+262	En dan zou ik geld ontvangen.	
+263	[NO TRANSLATION]	missing translation
+264	U wees dat af?	
+265	Zoals u ziet.	
+266	Dat kan ik natuurlijk niet onderschrijven.	
+267	Ik voel me verplicht aan te dringen om mee te werken met de Amerikaanse regering.	
+268	Ik zei nee.	
+269	Misschien kunt u bij uw vrienden van de CIA nagaan dat ik dat meende.	
+270	[NO TRANSLATION]	missing translation
+271	[NO TRANSLATION]	missing translation
+272	Ik werk niet voor de CIA.	
+273	Ik werk niet voor de overheid.	
+274	Ik kom om mijn diensten als uw advocaat aan te bieden.	
+275	Als u die aanvaardt, dan werk ik voor u.	
+276	Als ik u aanvaard?	
+277	Doet u uw werk goed?	
+278	[NO TRANSLATION]	missing translation
+279	Ja, best goed.	
+280	Heeft u veel beschuldigde spionnen vertegenwoordigt?	
+281	Nee, nog niet.	
+282	Dit zal voor ons beiden de eerste keer zijn.	
+283	[NO TRANSLATION]	missing translation
+284	Goed.	
+285	[NO TRANSLATION]	missing translation
+286	U gaat akkoord?	
+287	[NO TRANSLATION]	missing translation
+288	[NO TRANSLATION]	missing translation
+289	[NO TRANSLATION]	missing translation
+290	U besluit niet mee te werken met de Amerikaanse overheid?	
+291	Dat klopt.	
+292	[NO TRANSLATION]	missing translation
+293	Praat dan met niemand anders over uw zaak, van de overheid of niet van de overheid...	
+294	behalve dan met mij, voor zolang als u mij vertrouwt.	
+295	Ik ben verplicht om u te helpen.	
+296	Niemand anders is dat verplicht.	
+297	Eerlijk gezegd, heeft iedereen er belang bij u naar de elektrische stoel te sturen.	
+298	[NO TRANSLATION]	missing translation
+299	U lijkt zich geen zorgen te maken.	
+300	Zou dat helpen?	
+301	[NO TRANSLATION]	missing translation
+302	Ik zou graag tekenmateriaal hebben.	
+303	Dat is niet mogelijk.	
+304	Een potlood, papier.	
+305	Sigaretten.	
+306	Alstublieft.	
+307	Mr Donovan, u hebt mannen die hetzelfde doen voor uw land.	
+308	Als die gepakt werden, zou u ook willen dat ze goed behandeld werden.	
+309	Hoe heet u?	
+310	Francis Gary Powers.	
+311	Rang en bataljon?	
+312	Eerste luitenant, United States Air Force.	
+313	Heeft u connecties met de Sovjet Unie, luitenant Powers?	
+314	Grapje?	
+315	Beantwoord gewoon de vraag.	
+316	Ja, of nee. Zo eenvoudig mogelijk.	
+317	Heeft u een connectie met de Sovjet Unie?	
+318	Zeker niet.	
+319	Weet u waarom u hier bent?	
+320	[NO TRANSLATION]	missing translation
+321	Betekent dat Nee?	
+322	Ja,	
+323	ik bedoel...	
+324	Nee, het is gewoon Nee.	
+325	Ja, ik heb echt geen idee waarom ik hier ben.	
+326	Voor u kijken, luitenant.	
+327	[NO TRANSLATION]	missing translation
+328	Hoe ging het, Gary?	
+329	Heel goed.	
+330	Volgens mij had ik mijn naam goed.	
+331	Dan had je meer punten dan Shinn.	
+332	Wie wint er?	
+333	Ik volgens mij.	
+334	[NO TRANSLATION]	missing translation
+335	Ik doe mee.	
+336	Die zijn allemaal van mij.	
+337	Ik heb gezegd dat jullie niet met hem moesten spelen.	
+338	Het zit zo, piloten.	
+339	Jullie zijn uitgekozen voor een missie... waarover jullie met niemand mogen praten.	
+340	Met niemand.	
+341	Het maakt niet uit wie jullie vertrouwen.	
+342	Vrouw, moeder, vriendin.	
+343	De Lieve Heer, als je 's avonds bidt.	
+344	Jullie vertellen aan niemand wat ik jullie nu ga vertellen.	
+345	Jullie piloten hebben aan zekere kwalificaties voldaan.	
+346	Hoog niveau beveiligingings verklaring.	
+347	Uitzonderlijke cijfers... voor wat betreft verplichtte vlieguren in een eenpersoons vliegtuig.	
+348	We zijn in een oorlog verwikkeld.	
+349	Bij deze oorlog zijn geen gevechtstroepen betrokken.	
+350	Het betreft informatie.	
+351	Jullie zullen informatie verzamelen.	
+352	Jullie zullen informatie over de vijand verzamelen.	
+353	Door die informatie kunnen wij de overhand krijgen... bij een thermonucleaire confrontatie met de Sovjet Unie.	
+354	Of het kan er één voorkomen.	
+355	Voor publieke doeleinden... voor wat betreft je vrouw, moeder, vriendin of de Lieve Heer... bestaat de missie niet.	
+356	Als het niet bestaat, besta jij niet.	
+357	Je kunt niet neergeschoten	
+358	of gevangen worden.	
+359	Jullie werken nu voor de CIA.	
+360	Jim, ik hoor dat jouw cliënt met een raar accent spreekt.	
+361	Doet hij dat de hele tijd?	
+362	Volgens mij praat hij gewoon zo.	
+363	Hij heeft een Russische naam, maar een Brits paspoort.	
+364	Ik betwijfel of dat echt is.	
+365	Jim, waar zijn we gebleven.	
+366	Hier...	
+367	Ziet u, rechter... ik denk niet dat drie weken voldoende zullen zijn.	
+368	[NO TRANSLATION]	missing translation
+369	We hebben een berg bewijsmateriaal.	
+370	Je wilt uitstel?	
+371	Zes weken.	
+372	Ik werk alleen met mijn vennoot.	
+373	Jim, meen je dat echt?	
+374	[NO TRANSLATION]	missing translation
+375	Meen je dit echt?	
+376	[NO TRANSLATION]	missing translation
+377	Absoluut.	
+378	U kunt in het dossier zien...	
+379	Jim, hij is een Sovjet spion.	
+380	Vermoedelijk.	
+381	Kom op, advocaat.	
+382	Edelachtbare.	
+383	Natuurlijk respecteer ik je.	
+384	We respecteren je allemaal omdat je zo'n ondankbare taak op je neemt.	
+385	Deze man moet een eerlijk proces krijgen,	
+386	maar laten we elkaar niet in de maling nemen.	
+387	Hij zal een bekwame verdediging krijgen.	
+388	En, zo God het wil, worden veroordeeld.	
+389	Geen spelletjes spelen, advocaat.	forced duplication
+390	Geen spelletjes spelen, advocaat.	forced duplication
+391	Niet in mijn rechtbank.	
+392	We hebben een datum en we gaan een proces voeren.	
+393	Taxi.	
+394	[NO TRANSLATION]	missing translation
+395	Ik zie dat je je licht aan hebt,	
+396	klootzak.	
+397	Je kunt niet wachten tot je weer in Manhattan terugbent.	
+398	Hij had toch zijn licht aan?	
+399	Klootzak.	
+400	Gezien het comfortniveau	
+401	is de wet nog niet veranderd.	
+402	[NO TRANSLATION]	missing translation
+403	[NO TRANSLATION]	missing translation
+404	Sorry.	
+405	[NO TRANSLATION]	missing translation
+406	[NO TRANSLATION]	missing translation
+407	Wat?	
+408	Wat?	
+409	De CIA.	
+410	[NO TRANSLATION]	missing translation
+411	Ik wilde alleen maar even praten.	
+412	Hoe gaat het met de zaak?	
+413	Geweldig.	
+414	Het kan niet beter.	
+415	[NO TRANSLATION]	missing translation
+416	Heeft jouw cliënt al iets gezegd?	
+417	Sorry?	
+418	Je hebt hem ontmoet.	
+419	[NO TRANSLATION]	missing translation
+420	Heeft hij al iets gezegd?	
+421	Dit gesprek voeren we niet.	
+422	Nee, natuurlijk niet.	
+423	We praten hier echt niet over.	
+424	Je vraagt me of ik de advocaat/cliënt geheimhoudingsplicht schend.	
+425	Kom op, advocaat.	
+426	Zeg toch niet, Kom op, advocaat.	
+427	Ik vond dat de eerste keer al niet leuk.	
+428	Een rechter zei het twee keer.	
+429	Des te meer ik het hoor, des te minder ik het leuk vind.	
+430	Ik begrijp de advocaat/cliënt geheimhoudingsplicht.	
+431	Ik begrijp alle legale spelletjes.	
+432	En ik begrijp dat jij zo je geld verdient.	
+433	Maar ik heb het over iets anders.	
+434	De veiligheid van je land.	
+435	Het spijt me, als de manier waarop ik het zeg jou beledigt.	
+436	Maar we moeten weten wat Abel jou verteld heeft.	
+437	Begrijp je mij, Donovan?	
+438	We moeten het weten.	
+439	Doe niet net of je beledigd bent.	
+440	We hebben geen boek met regels.	
+441	Je bent agent Hoffman, toch?	
+442	[NO TRANSLATION]	missing translation
+443	Van Duitse afkomst.	
+444	Ja, en?	
+445	Ik heet Donovan,	
+446	Iers.	
+447	Zowel vader als moeder.	
+448	Ik ben een Ier, jij een Duitser.	
+449	Maar waardoor zijn we beiden Amerikanen?	
+450	Door één ding.	
+451	Eén ding maar.	
+452	Het boek met regels.	
+453	Wij noemen het de Grondwet. En we zijn het eens met de regels. En dat maakt ons Amerikanen.	
+454	Dat is het enige dat ons Amerikanen maakt. Zeg dus niet dat er geen boek met regels is. En knik niet zo tegen me, klootzak.	
+455	Moeten we ons zorgen over je maken?	
+456	Niet als ik alleen word gelaten, om mijn werk te doen.	
+457	Vanaf nu verwijzen we niet naar de U-2 als een spionagevliegtuig... Of verkenningsvliegtuig.	
+458	Je verwijst ernaar als het artikel.	
+459	Het artikel heeft een vleugelspanwijdte van 24 meter.	
+460	Uitgerust met een enkele Pratt and Whitney J57-P 37 motor.	
+461	4500 kilo stuwkracht. En een topsnelheid van 692 Km.	
+462	Het is misschien niet snel, maar heeft een kruishoogte van 21 kilometer. Dus niets zal je kunnen benaderen.	
+463	692?	
+464	Het is de bedoeling dat de vijand niet eens weet dat je er bent.	
+465	Het lijkt mij wat fragiel.	
+466	Met elke extra halve kilo gewicht verlies je een voet aan hoogte. We moeten de camera's aanpassen.	
+467	Drie lenzen van 4.500 mm.	
+468	Een panoramische camera. Vier keer krachtiger dan de luchtverkennings camera's die we hebben gebruikt.	
+469	Je zult foto's nemen, veel foto's,	
+470	Op zeventigduizend voet... kan het Artikel 2000 km2 grondgebied in een keer fotograferen.	
+471	Piloten, geef Agent Sumner uw volledige aandacht.	
+472	De items die je nodig hebt voor de missie, liggen hier.	
+473	Revere 8 mm camcorder. Model 40 Magazine. Keystone Capri K-25, zilver.	
+474	Scheerkwast met holle kabel.	
+475	Complete set cijfers Vigenère in eetbare folie...	
+476	Speciale fotografische apparatuur.	
+477	Ja,	
+478	we begrijpen het,	
+479	dank je wel.	
+480	Pardon, agent Bosco,	
+481	Blasco'?	
+482	[NO TRANSLATION]	missing translation
+483	Er lijkt een onderafdeling op deze lijst te staan.	
+484	Het meeste kwam uit zijn appartement. De rest is van de hotelkamer waar hij zat ondergedoken...	
+485	Waar we hem vonden.	
+486	De kamer die je hebt doorzocht?	
+487	[NO TRANSLATION]	missing translation
+488	Kan ik het huiszoekingsbevel zien?	
+489	Wat?	
+490	Ja, leg het me uit.	
+491	Er was een huiszoekingsbevel.	
+492	Er was een bevel.	
+493	Een arrestatiebevel om een buitenlander te arresteren. Maar geen huiszoekingsbevel voor vermoedelijke criminele activiteiten.	
+494	Dus de doorzoeking en het bewijs dat het gevolg is van deze doorzoeking... zijn besmet en kunnen niet worden toegelaten.	
+495	Wat voor bescherming, edelachtbare?	
+496	[NO TRANSLATION]	missing translation
+497	[NO TRANSLATION]	missing translation
+498	Hij heet Rudolf Ivanovich Abel.	
+499	Hij is een Sovjetburger.	
+500	Geen Amerikaan.	
+501	1868, John Henry Hopkins.	
+502	De rechter oordeelde dat zelfs buitenlanders, in dit geval de Chinese migranten... niet gearresteerd mogen worden zonder eerlijk wettelijk proces. Inclusief buitenlanders die het land illegaal zijn binnengekomen.	
+503	Het Ministerie van Justitie dient als eerste de Verenigde Staten.	
+504	Ik zie niet hoe 'n illegale buitenlander beroofd kan worden van zijn rechten.	
+505	Welke rechten?	
+506	Een Amerikaan?	
+507	Welke rechten, advocaat?	
+508	We zijn verwikkeld in een beschavingsstrijd.	
+509	Deze Russische spion kwam hier om onze levensstijl te bedreigen.	
+510	Er wachten mensen op me in de rechtbank.	
+511	Neem plaats naast de Rus.	
+512	Laten we dit snel afhandelen.	
+513	En uw verzoek wordt afgewezen.	
+514	Hij kan beter zelf een levensverzekering afsluiten.	
+515	Hoe ging het?	
+516	Daarbinnen?	
+517	[NO TRANSLATION]	missing translation
+518	Niet heel goed.	
+519	Blijkbaar bent u geen Amerikaans burger.	
+520	Dat klopt.	
+521	En volgens uw baas ook geen Sovjet burger.	
+522	De baas heeft niet altijd gelijk. Maar hij is altijd de baas.	
+523	Bent u nooit bezorgd?	
+524	Zou het helpen?	
+525	Iedereen opstaan.	
+526	Ik zweer trouw aan de vlag... van de Verenigde Staten van Amerika. En aan de Republiek waarvoor hij staat. Eén natie onder God, ondeelbaar. Met vrijheid en Rechtvaardigheid voor iedereen.	
+527	Eerst moet men weten wat er gebeurt als een atoombom ontploft.	
+528	Er is een flits, sterker dan de zon.	
+529	Het kan gebouwen vernietigen, en alle ramen breken in de stad.	
+530	Maar als je bescherming zoekt zoals Bert, dan zal het veiliger zijn.	
+531	Er zijn twee soorten aanvallen: Met en zonder enige waarschuwing.	
+532	[NO TRANSLATION]	missing translation
+533	Wat is hier aan de hand?	
+534	Luister, pap. Dit is heel belangrijk.	
+535	Wanneer de oorlog begint, is het eerste wat ze doen alle water en elektriciteit afsluiten.	
+536	Het eerste wat wij moeten doen, is dit bad gevuld houden. We gebruiken de douche in je kamer, en de gootsteen beneden, de tuinslang...	
+537	Dat zijn goede ideeën.	
+538	Maar. Roger, daar hoef jij je geen zorgen over te maken.	
+539	Maar als je de sirenes hoort... hebben we misschien niet genoeg tijd om het bad en de wastafels te vullen.	
+540	Er komen geen sirenes.	
+541	Wat is dit?	
+542	Wanneer de bom komt, is hij gericht op het Empire State Building.	
+543	Maar de bom ontploft op 3.000 meter hoogte.	
+544	In Life noemen ze het Airburst, en als de bom 50 Mton is... zal de explosie zich verspreiden en smelt alles van hier naar hier.	
+545	Ook waar we wonen,	
+546	hier.	
+547	Ja, daar.	
+548	Roger, niemand zal atoombommen op ons lanceren.	
+549	De Russen willen dat graag.	
+550	Die Rus die jij verdedigt...	
+551	Bereidt hier alles voor, voordat ze de bom laten vallen.	
+552	Nietwaar.	
+553	[NO TRANSLATION]	missing translation
+554	Hij is niet eens Russisch.	
+555	Hij werd vermoedelijk geboren in het noorden van Engeland.	
+556	Ja, maar het is een spion voor Rusland.	
+557	Ik begrijp niet wat je doet.	
+558	Je bent geen communist, waarom verdedig je hem?	
+559	Dat is mijn werk.	
+560	Maar daarvoor niet.	
+561	De Verenigde Staten van Amerika... tegen Rudolf Abel. Voor wat betreft de eerste aanklacht. Wat is uw standpunt over de verdachte?	
+562	Schuldig of onschuldig?	
+563	Schuldig.	
+564	De tweede aanklacht?	
+565	Schuldig.	
+566	De derde aanklacht?	
+567	Schuldig.	
+568	Edelachtbare, ik vraag u de uitspraken te negeren wegens gebrek aan bewijs.	
+569	Afgewezen.	
+570	De jury wordt ontslagen.	
+571	Ik dank u allen.	
+572	Ik zou willen toevoegen dat als ik één van jullie was... ik hetzelfde vonnis had geveld.	
+573	De uitspraak zal zijn... op 15 november.	
+574	De doodstraf is geen uitgemaakte zaak.	
+575	Maak je geen zorgen.	
+576	Ik ben niet bang om te sterven, Mr Donovan.	
+577	Hoewel... het niet mijn eerste keuze zou zijn.	
+578	Je vergat dit.	
+579	Bedankt.	
+580	Dank u wel.	
+581	U vroeg me nooit of de beschuldigingen waar zijn.	
+582	Of ik inderdaad een spion ben.	
+583	We doen het zo.	
+584	Jouw zaak is belangrijk.	
+585	Laat we hen bewijzen dat het belangrijk is.	
+586	Wat ik wil zeggen...	
+587	Of je het gedaan hebt of niet, is niet belangrijk.	
+588	De staat moet bewijzen dat je een spion bent.	
+589	Dus u bent niet nieuwsgierig?	
+590	Niet echt,	
+591	ik heb altijd gedacht dat je een kunstenaar was.	
+592	Mijn vrouw is een kunstenaar, ze is een muzikant.	
+593	De Children's Orchestra van Moskou.	
+594	Welk instrument bespeelt ze?	
+595	De harp.	
+596	[NO TRANSLATION]	missing translation
+597	Ze is dus een engel.	
+598	U doet me denken aan een man die ons thuis bezocht toen ik jong was.	
+599	Mijn vader zei altijd: Bekijk deze man.	
+600	En ik keek altijd wanneer hij verscheen.	
+601	Hij deed nooit iets bijzonders.	
+602	En ik doe je aan hem denken?	
+603	Destijds was ik zo oud als uw zoon.	
+604	Ons huis werd overvallen, door partizaanse grenswachters.	
+605	Tientallen.	
+606	Mijn vader werd geslagen, m'n moeder werd geslagen. En deze man, de vriend van mijn vader, werd geslagen.	
+607	En ik keek naar hem.	
+608	Elke keer als ze hem sloegen... stond hij weer op.	
+609	Toen sloegen ze nog harder.	
+610	Maar hij stond nog steeds.	
+611	Ik denk dat ze daarom stopte met slaan,	
+612	en hem in leven lieten.	
+613	Ik herinner me dat ze het zeiden.	
+614	Dat betekent zoiets als... Man die staat.	
+615	Man die staat.'	
+616	Hallo, Jim.	
+617	Millie, je ziet er fantastisch uit.	
+618	Mortie is bezig met omkleden.	
+619	Maar kom binnen.	
+620	Whisky, Jim?	
+621	Ja. Alsjeblieft,	
+622	dank je.	
+623	Met een beetje water.	
+624	Edelachtbare.	
+625	Hallo, Jim.	
+626	Ik ga zo weg,	
+627	maar ik heb nog wel heel even.	
+628	Een liefdadigheidsdiner,	
+629	Millie is daar vrijwilligster.	
+630	Bedankt dat u mij wilde ontvangen.	
+631	Ik wilde alleen maar mijn mening geven over de veroordeling.	
+632	En ik dacht, misschien moet ik u thuis lastigvallen. Omdat niet al mijn argumenten strikt juridisch zijn.	
+633	Ja, zo'n geval is dat.	
+634	Ik was niet zo georganiseerd tijdens de zitting, maar dat is precies wat je zegt.	
+635	Niets van dit alles gaat volgens de wet.	
+636	Er zijn meer belangrijkere zaken.	
+637	Belangrijkere zaken.	
+638	Dank u.	
+639	[NO TRANSLATION]	missing translation
+640	[NO TRANSLATION]	missing translation
+641	Volgens mij is het in het belang van de Verenigde Staten... dat Abel blijft leven.	
+642	Waarom?	
+643	Ik heb nog niets besloten maar als hij wilde samenwerken met de regering, had hij dat wel gedaan.	
+644	Klopt, maar het punt hier...	
+645	[NO TRANSLATION]	missing translation
+646	Sorry.	
+647	Je kunt niet zeggen dat het van belang is voor de Verenigde Staten dat hij de rest van zijn leven doorbrengt in de gevangenis.	
+648	Hoe kan dit van nationaal belang zijn?	
+649	Niet de opsluiting zelf, meneer.	
+650	Het is mogelijk dat in de nabije toekomst een Amerikaan van vergelijkbare rang kan worden gevangen door Sovjet-Rusland.	
+651	Wellicht hebben we iemand nodig om mee te ruilen.	
+652	[NO TRANSLATION]	missing translation
+653	Het is zoeken naar mogelijkheden.	
+654	Dit kun je doen tot St. Juttemis.	
+655	Ik werk met mogelijkheden.	
+656	Ik ben een verzekeringsadvocaat.	
+657	Er is niets onaannemelijks aan dit geval.	
+658	Het draait allemaal om wat er kan gebeuren.	
+659	Het is het soort van waarschijnlijkheid waarom mensen verzekeringen afsluiten.	
+660	Als we deze man ter dood veroordelen, zullen wij weerloos zijn.	
+661	Zonder een reservering van beleid. Wanneer het zover is.	
+662	Prachtige speech.	
+663	We hebben ook een humanitair argument.	
+664	Moet hij sterven voor het werk dat hem werd toegewezen?	
+665	Oké, advocaat.	
+666	Ik moet gaan.	
+667	Leuk je te zien, Jim.	
+668	Ik laat je uit.	
+669	Iedereen opstaan.	
+670	De Amerikaanse arrondissementsrechtbank van het oostelijke district van New York is in zitting.	
+671	Rechter Mortimer Byers presideert.	
+672	Gaat u zitten.	
+673	Wil de gedaagde opstaan, alstublieft.	
+674	De rechtbank spreekt de volgende straf uit. Op basis van de schuldig uitspraak van de jury. Voor wat betreft elk punt van de aanklacht. Daar is proefondervindelijke aan voldaan. Zoals verklaard is.	
+675	Om in hechtenis te worden gezet in een federale gevangenis... uitgekozen door hem, voor een periode van 30 jaar.	
+676	Marshalls, u kunt deze man in hechtenis nemen.	
+677	[NO TRANSLATION]	missing translation
+678	Geen elektrocutie?	
+679	[NO TRANSLATION]	missing translation
+680	[NO TRANSLATION]	missing translation
+681	Waarom wordt hij niet opgehangen?	
+682	In Gods naam, waarom niet ophangen?	
+683	Ga zitten, meneer.	
+684	Hij is een spion.	
+685	Hij doodt ons met zijn leugens.	
+686	In Gods naam, waarom niet ophangen?	
+687	Precies.	
+688	Hij is een spion.	
+689	[NO TRANSLATION]	missing translation
+690	[NO TRANSLATION]	missing translation
+691	[NO TRANSLATION]	missing translation
+692	Maar één vraag, meneer.	
+693	Mijn hoed.	
+694	Mijn hoed.	
+695	Mijn hoed.	
+696	Geen commentaar.	
+697	Mr en Mrs Donovan...	
+698	Hoe voelt u zich nu deze nationale nachtmerrie voorbij is?	
+699	Mr Donovan, bent u blij met de uitspraak?	
+700	[NO TRANSLATION]	missing translation
+701	We gaan zeker in hoger beroep.	
+702	Hoger beroep?	
+703	[NO TRANSLATION]	missing translation
+704	Jim, je hebt fantastisch werk verricht.	
+705	Je hebt gedaan wat je moest doen.	
+706	Maar de man is een spion.	
+707	De uitspraak is juist. Er is geen reden voor hoger beroep.	
+708	Er zijn procedurele redenen.	
+709	We weten dat de huiszoeking illegaal was...	
+710	Het vierde amendement weegt zwaarder als er in beroep wordt gegaan.	
+711	We hebben een goede kans.	
+712	Waar heb je het over?	
+713	We moesten laten zien dat hij een bekwame verdediging had. En dat hebben we gedaan.	
+714	Waarom citeer je de Grondwet voor mij?	
+715	Tom, als je in mijn ogen kijkt... en zegt dat we geen gronden hebben voor hoger beroep, dan laat ik het los.	
+716	Dat zeg ik niet.	
+717	Je weet wat ik zeg.	
+718	Tom zegt dat er een prijs aan hangt.	
+719	Precies.	
+720	Een prijs voor zowel je familie als bedrijf.	
+721	Ik heb muziek gemist.	
+722	Ze onderzochten de radio of er geen zender in zat.	
+723	Dat geloof ik best.	
+724	Shostakovich.	
+725	[NO TRANSLATION]	missing translation
+726	Shostakovich is een groot artiest.	
+727	Ik denk... dat onze sterkste gronden voor een herroeping... constitutioneel zijn.	
+728	Onze beste kans is wanneer het Hooggerechtshof akkoord gaat met de zaak te herzien.	
+729	[NO TRANSLATION]	missing translation
+730	Je moet voorzichtig zijn.	
+731	Wees voorzichtig.	
+732	[NO TRANSLATION]	missing translation
+733	[NO TRANSLATION]	missing translation
+734	[NO TRANSLATION]	missing translation
+735	[NO TRANSLATION]	missing translation
+736	[NO TRANSLATION]	missing translation
+737	[NO TRANSLATION]	missing translation
+738	[NO TRANSLATION]	missing translation
+739	[NO TRANSLATION]	missing translation
+740	Mama.	
+741	Mijn God, wat is er gebeurd?	
+742	Lieverd, gaat het?	
+743	[NO TRANSLATION]	missing translation
+744	Ben je gewond?	
+745	Ik zorg voor haar.	
+746	Boven.	
+747	Is alles goed met jullie?	
+748	Papa, ik zat met mijn rug tegen de muur.	
+749	[NO TRANSLATION]	missing translation
+750	[NO TRANSLATION]	missing translation
+751	Papa, ik zat met mijn rug tegen de muur.	
+752	[NO TRANSLATION]	missing translation
+753	Weg van de ramen.	
+754	Geweldig,	
+755	goed gedaan, jongen.	
+756	[NO TRANSLATION]	missing translation
+757	Het is allemaal goed.	
+758	Ze zijn weg.	
+759	Het zijn lafaards,	
+760	ze zijn al weg.	
+761	We hebben rechercheurs die de buurt onderzoeken.	
+762	Misschien vinden we een omschrijving van de auto. Maar ik denk niet...	
+763	We hebben bescherming nodig.	
+764	Ik heb instructies om twee auto's hier te laten.	
+765	Het is duidelijk dat het veilig is...	
+766	Voor hoe lang?	
+767	Ik moet naar Washington aan het einde van de week.	
+768	Wat doet u?	
+769	Wat doet u met uw gezin?	
+770	Pardon, agent?	
+771	Verdedigt u die man nog?	
+772	[NO TRANSLATION]	missing translation
+773	Ophouden, agent.	
+774	Ik houd niet op.	
+775	Ik zat in de 3e leads op Omaha Beach...	
+776	Ik heb ook in het leger gezeten.	
+777	[NO TRANSLATION]	missing translation
+778	Waarom doet u niet uw werk als een wetsdienaar?	
+779	Oké, sorry, kom naar buiten.	
+780	[NO TRANSLATION]	missing translation
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	Vergeet hem maar.	
+784	Wat begrijp ik niet?	
+785	Naar buiten, agent.	
+786	Sorry.	
+787	[NO TRANSLATION]	missing translation
+788	[NO TRANSLATION]	missing translation
+789	[NO TRANSLATION]	missing translation
+790	Mocht 't nodig zijn om het vliegtuig te verlaten op Sovjet grondgebied... het heeft een explosieve lading van meer dan één kilogram in de romp.	
+791	Allereerst moeten de circuits worden geactiveerd.	
+792	Maar om de timer van 70 seconden te starten... zet je de schakelaar op: vernietigen.	
+793	Het is essentieel dat die vluchten geheim blijven. En dat deze apparatuur niet in handen van de vijand valt.	
+794	Hoe zit het met ons?	
+795	Ik weet niet of je een grapje maakt, luitenant Powers?	
+796	Maar ik dus niet.	
+797	Wat jullie weten over 't vliegtuig is zo geheim als het vliegtuig zelf.	
+798	Indien gevangen is het een uitgemaakte zaak. Je stort neer, samen met je vliegtuig.	
+799	Als je denkt weg te komen, want je bent dicht bij een grens. Prima.	
+800	Je kent het eject-protocol.	
+801	Maar als je vertrekt. Neem je de dollar mee.	
+802	Er zit een pin in.	
+803	Maak daarmee een kras in je huid, het gebeurt dan onmiddellijk.	
+804	Als je denkt dat je toch wordt opgepakt. Gebruiken.	
+805	Piloten, is dat begrepen?	
+806	Gebruik de dollar.	
+807	Edelachtbare, mag ik de rechtbank toespreken?	
+808	De koude oorlog is niet alleen een uitdrukking, edelachtbare.	
+809	Het is niet alleen maar bij wijze van spreken.	
+810	Eerlijk gezegd, wordt er een strijd uitgevochten... tussen twee tegenstrijdige opvattingen van de wereld.	
+811	Ik blijf erbij dat Rudolf Ivanovich Abel... Kolonel Abel, zoals hij genoemd werd, zelfs door mensen die 'm arresteerden... ons voorbeeld is in deze strijd.	
+812	Stroomgenerator?	
+813	Aangesloten en ingeschakeld.	
+814	Zuurstofvoorziening?	
+815	1800 psi.	
+816	Omvormer?	
+817	Aan, licht uit.	
+818	Hij werd behandeld als een strijder in die oorlog. Tot het onze regering niet meer uitkwam hem als zodanig te behandelen.	
+819	Daarom kreeg hij de bescherming niet, die wij onze eigen burgers geven.	
+820	Hij kreeg een behandeling die passend was voor een vermeende vijand... maar niet gepast was voor een vermeende crimineel.	
+821	Brandstofpompen?	
+822	Aan.	
+823	Vernietiger?	
+824	Aan.	
+825	Mappen?	
+826	Geïnstalleerd in het vliegtuig.	
+827	Ik ken deze man.	
+828	Als de beschuldiging waar is, dient hij een vreemde mogendheid, maar trouw.	
+829	Als hij een soldaat van het vijandelijke leger is, dan is hij een goede soldaat.	
+830	Hij vluchtte niet van het slagveld om zichzelf te redden.	
+831	Hij weigerde zijn ontvoerder te dienen.	
+832	Hij weigerde om zijn zaak te verraden.	
+833	Hij weigerde om het pad van lafaards te volgen.	
+834	De lafaard moet zijn waardigheid afstaan voordat hij het slagveld verlaat.	
+835	Rudolf Abel zal dat nooit doen.	
+836	Moeten we hem niet het volledige voordeel geven... van de rechten die ons overheidssysteem definieert?	
+837	Hem laten zien wie wij zijn?	
+838	Is dat niet het belangrijkste wapen dat we hebben in deze Koude Oorlog?	
+839	Zullen we onze zaak minder stevig ondersteunen dan hij zijn zaak ondersteunt?	
+840	De president kondigde aan dat een NASA weervliegtuig vier dagen geleden verdween ten noorden van Turkije.	
+841	De NASA vreest dat de piloot is omgekomen bij de crash.	
+842	Op radar is gebleken dat het vliegtuig afweek van zijn koers richting Russisch grondgebied voor 't contact werd verloren. Wat elke poging belemmert, om het lichaam van de piloot terug te halen.	
+843	En nu nieuws uit Washington.	
+844	Met een krappe meerderheid, bevestigde het Hooggerechtshof de veroordeling van de Russische spion Rudolf Ivanovich Abel. Met vijf stemmen tegen vier.	
+845	De zaak liet problemen betreffende burgerlijke vrijheden zien volgens de Russische advocaat, James B. Donovan.	
+846	Toen hem werd gevraagd hoe hij zich voelde over de huidige nederlaag zei Mr Donovan alleen: Moe.	
+847	Meer nieuws na de reclame.	
+848	[NO TRANSLATION]	missing translation
+849	Het is voorbij.	
+850	[NO TRANSLATION]	missing translation
+851	Marty,	
+852	ik kan helaas het dossier over die prudentiële zaak niet vinden.	
+853	Mr Watters vroeg me om het in Jack Elwes kantoor te leggen. Samen met het eerste concept van het beroep.	
+854	Oh ja?	
+855	Ja, hij herschreef het en diende dat vorige week in, toen je in Washington was.	
+856	Hoe lang zijn we partners?	
+857	Je doet alsof ik nooit een deal heb gesloten.	
+858	Maak een afspraak.	
+859	In een luxe tent.	
+860	Ik wed dat Mr Young gek op de luxe dingen in New York is.	
+861	En ik wil een overzicht van...	
+862	Kent u iemand uit Leipzig?	
+863	Leipzig,'	
+864	krijg ik nu haatbrieven uit Duitsland?	
+865	Oost-Duitsland.	
+866	Je vrouw?	
+867	[NO TRANSLATION]	missing translation
+868	[NO TRANSLATION]	missing translation
+869	Ze doet alsof, maar goed is ze niet daar niet in.	
+870	Ik neem de vrijheid om u te schrijven na uit de kranten vernomen te hebben... over uw meest menselijke gebaar naar mijn geliefde man, Rudolf Abel.'	
+871	Zal ik haar terugschrijven?	
+872	[NO TRANSLATION]	missing translation
+873	Wat is de volgende stap, als je het spel niet kent?	
+874	Francis Gary Powers...	
+875	Gebaseerd op artikel Twee van de wet van de Sovjet-Unie. Voor criminele misdaden tegen de staat, tien jaar celstraf waarbij de eerste drie jaar in de gevangenis zal worden voldaan.	
+876	De duur van de straf, waaronder voorlopige detentie gaat in vanaf 1 mei 1960.	
+877	Mr Donovan, dank u voor uw komst.	
+878	Leuk u te ontmoeten, Mr Dulles.	
+879	Het is een eer, meneer.	
+880	Nescafé, room, twee suiker.	
+881	Dank u.	
+882	De brief die u heeft ontvangen...	
+883	Het lijkt duidelijk dat de Sovjets hier een voorstel doen.	
+884	Ze gebruiken Oost-Duitsland omdat ze Abel nog steeds niet willen erkennen als een Sovjetburger. Laat staan als een Sovjetspion.	
+885	[NO TRANSLATION]	missing translation
+886	Er is dus veel valse informatie.	
+887	Maar aan welke kant?	
+888	Ze arresteerden onze spion piloot,	
+889	en wij hebben die van hen.	
+890	Uitwisseling van gevangenen, dat is wat ze willen.	
+891	Wat nauwelijks een verrassing voor u moet zijn.	
+892	Het is een mogelijkheid die u voorspeld heeft.	
+893	Ja, dat klopt en ik heb zelden gelijk.	
+894	Mijn felicitaties,	
+895	een onvergetelijke dag.	
+896	Ze hebben een van ons,	
+897	Powers.	
+898	Een goede man, maar vol met veel vertrouwelijke informatie.	
+899	Abel heeft ook vertrouwelijke informatie. Maar heeft ons niets verteld.	
+900	En van wat ik weet, zal hij niets zeggen.	
+901	Ja, dat weten we, maar de Russen niet.	
+902	Abel moet terug voordat hij breekt.	
+903	En we willen Powers terug om dezelfde redenen.	
+904	Er is dus een happy end voor iedereen.	
+905	Ja, als we hun spel spelen.	
+906	Wij willen dat u onderhandelt over de uitwisseling. Want u bent een gewone burger, zodat het geen dialoog wordt tussen twee regeringen.	
+907	Zij erkennen Abel niet als een Sovjetburger. En wij erkennen Oost-Duitsland niet als een soeverein land.	
+908	We erkennen Oost-Berlijn niet sinds het in '45 door de Sovjets geannexeerd werd.	
+909	Dus ik treed op als onderhandelaar, vertegenwoordiger...	
+910	U vertegenwoordigt niemand.	
+911	U bent geen overheidsfunctionaris,	
+912	en u heeft geen officieel standpunt.	
+913	We spelen het spel dus ook mee.	
+914	Correct.	
+915	Dat betekent dat u zich niet kan beroepen op erkenning of hulp mocht er iets mis gaan.	
+916	De CIA kan niet verantwoordelijk worden gesteld.	
+917	We kunnen niet voor schut staan.	
+918	Waar vinden de onderhandelingen plaats?	
+919	Daar.	
+920	Daar'?	
+921	Oost-Berlijn.	
+922	Maar is Oost-Berlijn niet een beetje...	
+923	Ja, het wordt er steeds ingewikkelder.	
+924	Het is ingewikkeld.	
+925	De Sovjetzijde heeft de afgelopen maanden checkpoints geplaatst. Om te voorkomen dat mensen naar de Westerse sectoren gaan. En het heeft niet gewerkt.	
+926	Volgens inlichtingen kunnen ze één stap verder gaan. En de oostelijke sector afschermen.	
+927	Dat is alles.	
+928	De beslissing is aan jou.	
+929	Je hebt tijd nodig om er over na te denken.	
+930	[NO TRANSLATION]	missing translation
+931	Nee, dat is niet nodig.	
+932	[NO TRANSLATION]	missing translation
+933	Uitstekend.	
+934	Het beste is als dit vertrouwelijk blijft.	
+935	Bespreek het niet met Mary of iemand anders.	
+936	Deel de correspondentie alleen met ons.	
+937	Vertel ons wat ze willen doen en wanneer.	
+938	Ik heb geen klant, vrouw, of 'n land.	
+939	Ik weet niet wat ik doe, of wanneer, of met wie?	
+940	Je doet het voor je land, maar je land weet het nog niet.	
+941	Hoe zit het met mijn cliënt, de andere persoon in deze zaak?	
+942	Mijn man?	
+943	[NO TRANSLATION]	missing translation
+944	De Rus?	
+945	Hij is niet je man meer.	
+946	Jouw man is nu Francis Gary Powers.	
+947	Wat vertel ik Rudolf Abel?	
+948	Zeg hem niet dood neer te vallen.	
+949	Professor?	
+950	Professor?	
+951	Papa ging naar de universiteit.	
+952	Je moet hier niet komen, Frederic.	
+953	Ze hebben les vandaag?	
+954	Hij ging even kijken.	
+955	Daarom ging hij weg.	
+956	Wat doe jij hier?	
+957	Ik kwam jou en je vader halen.	
+958	Je moet met mij mee,	
+959	morgen kan het wellicht niet meer.	
+960	[NO TRANSLATION]	missing translation
+961	Gewoon vertrekken?	
+962	Ja.	
+963	[NO TRANSLATION]	missing translation
+964	Nu.	
+965	Ga terug.	
+966	Ga terug.	
+967	Met mij komt het wel goed. Ik ben een Amerikaan.	
+968	Ga terug.	
+969	[NO TRANSLATION]	missing translation
+970	[NO TRANSLATION]	missing translation
+971	Ga.	
+972	Hallo.	
+973	Hallo.	
+974	Papieren, alsjeblieft.	
+975	Ik ben student Frederic Pryor.	
+976	Ja, student.	
+977	En dit hier? Geen foto's. Mijn naam is Frederic Pryor.	
+978	Ik studeer economie.	
+979	[NO TRANSLATION]	missing translation
+980	Dit is mijn proefschrift.	
+981	Mijn werkstuk.	
+982	[NO TRANSLATION]	missing translation
+983	[NO TRANSLATION]	missing translation
+984	Kijk, Het internationale handelssysteem, van de Europese communistische naties.	
+985	[NO TRANSLATION]	missing translation
+986	Een hoop werk. Communist.	
+987	Nee, dat is mijn enige exemplaar.	
+988	[NO TRANSLATION]	missing translation
+989	Vertel me iets.	
+990	Het kwam op het allerlaatste moment.	
+991	Ze hebben kantoren in Londen.	
+992	Deze klanten.	
+993	Het was niet mijn idee.	
+994	Schotland heeft een visserijexpeditie.	
+995	Wat voor soort vissen, Jim?	
+996	Zalm.	
+997	Zeg me dat je geen gevaar loopt. Dat het een gewone zakenreis is, dan maak ik me geen zorgen.	
+998	Ik heb mijn paspoort nodig.	
+999	Zeg iets wat me geruststelt,	
+1000	ook al is het de waarheid niet.	
+1001	Ik doe het voor ons.	
+1002	Mr. Michener wordt uw gids in Berlijn.	
+1003	Hij is een attaché bij de Amerikaanse ambassade.	
+1004	Het wordt dus echt ingewikkeld.	
+1005	[NO TRANSLATION]	missing translation
+1006	De laatste brief van Mrs Abel, wie het ook is... gaat over 'n advocaat in Oost-Berlijn, Mr Vogel, wie dat ook moge zijn... die haar belangen vertegenwoordigt.	
+1007	Ja, Vogel zei dat ze vertrok naar de Russische ambassade in Oost-Berlijn om te zorgen dat Abel voor Powers geruild wordt.	
+1008	Maar niemand weet wie wie is, maar ze zijn allemaal Russen, toch?	
+1009	Nou, Sovjets.	
+1010	Althans dat wordt gedacht.	
+1011	Wat bedoel je?	
+1012	Kan de verwarming wat hoger?	
+1013	Er is een klein probleem.	
+1014	Ze kunnen proberen anders te onderhandelen.	
+1015	Dat u 'n andere gevangene, in plaats van Powers accepteert.	
+1016	Een andere Amerikaan?	
+1017	De Stasi's in Oost-Duitsland hebben 'n Amerikaanse student,	
+1018	Frederic Pryor.	
+1019	De jongen bevond zich aan de verkeerde kant van de muur.	
+1020	Hij is afgestudeerd aan Yale,	
+1021	kwam hier om economie te studeren.	
+1022	[NO TRANSLATION]	missing translation
+1023	Dus ze dreigen de jongen te beschuldigen wegens spionage.	
+1024	Grote overtreding. Ernstig misdrijf.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel nam contact met ons op, en zei dat hij Pryor vertegenwoordigt.	
+1027	[NO TRANSLATION]	missing translation
+1028	Wacht, Vogel vertegenwoordigt Mrs Abel en deze jongen?	
+1029	Ja, hij heeft het druk.	
+1030	Dus wat is hij?	
+1031	Vogel. Oost-Duitser of een Rus?	
+1032	Probeer het uit te vinden zodra je hem ontmoet.	
+1033	Russische ambassade, Oost-Berlijn, morgenmiddag.	
+1034	Hoffman laat zien hoe je daar komt.	
+1035	Tonen hoe er te komen?	
+1036	Ik zou een gids krijgen.	
+1037	Toch?	
+1038	Dat was het plan, maar zoals ik al zei, is er een probleem.	
+1039	Ik breng je niet,	
+1040	het is al besloten.	
+1041	Geen Amerikaanse functionaris gaat tot nader order de grens over.	
+1042	Omdat?	
+1043	Het is te gevaarlijk.	
+1044	De Oost-Duitsers pakten de jongen.	
+1045	Er is een zekere mate van straffeloosheid die we niet verwacht hadden.	
+1046	Het punt is dat de plannen van de Oost-Duitsers en Russen... niet hetzelfde kunnen zijn.	
+1047	Probeer het uit te vinden en handel dienovereenkomstig.	
+1048	Probeer een akkoord te bereiken,	
+1049	Powers voor Abel.	
+1050	Hoe zit het met die student, Pryor?	
+1051	[NO TRANSLATION]	missing translation
+1052	Maak jezelf niet gek.	
+1053	We halen hem 'n andere keer.	
+1054	Powers is belangrijk voor ons.	
+1055	Waar is je kamer?	
+1056	Ik verblijf in het Hilton.	
+1057	Het is niet ver.	
+1058	Dit is een telefoonnummer in West-Berlijn.	
+1059	Onthoud het en geef het terug.	
+1060	Nee,	
+1061	[NO TRANSLATION]	missing translation
+1062	ik bedoel, nu.	
+1063	De Sovjets blijven de internationale lijnen afbreken, maar de locale lijnen zijn goed.	
+1064	Iemand neemt dag en nacht op.	
+1065	Dit protocol dat vastgeniet zit aan je paspoort zal dienen als toegang in en uit de oostelijke Sovjetsector.	
+1066	De ontmoeting met Vogel staat gepland voor morgenmiddag.	
+1067	Er leiden maar 'n paar routes naar het oosten.	
+1068	Neem de S-Bahn, het station dat we bij aankomst lieten zien.	
+1069	Je stapt uit op station Friedrichstrasse, hier. En loopt naar de Sovjetambassade op Unter den Linden,	
+1070	hier Kijk nu op de kaart,	
+1071	want die mag niet mee.	
+1072	Als je naar een kaart kijkt, ben je een Amerikaan, dus een spion.	
+1073	Je kan worden gearresteerd.	
+1074	Vermijd interactie met mensen in het algemeen.	
+1075	[NO TRANSLATION]	missing translation
+1076	Je bent een buitenlander, discreet zijn dus.	
+1077	Het voedsel is schaars en dingen beginnen uit elkaar te vallen.	
+1078	Er zijn bendes en de rechtsstaat is niet stevig gevestigd.	
+1079	En blijf uit de buurt van de muur.	
+1080	Aan hun kant loopt een grens langs de muur.	
+1081	Ze noemen het: dode grens.	
+1082	Ze schieten bij overschrijden.	
+1083	Is er geen andere manier, waarbij ik niet word gearresteerd of neergeschoten?	
+1084	Maak je niet te veel zorgen over wat Michener zei.	
+1085	Nee, ik maak me zorgen over wat jij zegt.	
+1086	Deze jongen, Pryor, die gepakt werd door de Oost-Duitsers, hoe oud is hij?	
+1087	25,	
+1088	waarom?	
+1089	Dezelfde leeftijd als Dougie.	
+1090	Wie?	
+1091	Mijn assistent.	
+1092	Frederic Pryor. <Het spijt me. Ik kan u niet verder helpen. Ik kan u niets zeggen. Hij is hier niet? Of kunt u me niet zeggen waar hij is? Waar is hij? Ik kan u niets zeggen. Zeg het me, alstublieft. Ik moet het weten. Kan ik met iemand anders spreken? Zeg het me, alstublieft. Waar is hij?/>	missing English
+1093	[NO TRANSLATION]	
+1094	<Terug in de rij, alstublieft. Meteen terug in de rij. Ik heb een vergunning. Terug in de rij. Ik ben een Amerikaan. Hoort u me niet? Ik heb hier zaken te doen. Laat uw paspoort zien. Hier is mijn boekje. Alstublieft. Amerikaan? Paspoort is in orde. Het visum is correct. U mag doorgaan./> Bedankt. <Opschieten. Doorlopen./>	missing English
+1095	<Ben je verdwaald? Of je verdwaald bent? Verdwaald, ja. Unter den Linden? Dat is een illegaal. Een illegale Amerikaan. Spreek je Duits?/> Een beetje. Sorry als we je beledigd hebben.	missing English
+1096	<Ik wil ook graag zo'n mooie jas.>	missing English
+1097	Jas. <Mag ik hem aantrekken? Trek die jas uit, dan kan hij hem passen. Hij geeft hem terug. Beloofd. />	missing English
+1098	<We kunnen het geld uit je portemonnee halen of je geeft ons de jas. Dat kost je niets. Waar is Unter den Linden? Dan komt het wel goed. Rechtdoor dan naar rechts en de tweede links./>	missing English
+1099	Spreekt u Engels?	
+1100	Ja, meneer.	
+1101	Ik ben James Donovan.	
+1102	Ik kom voor Mr Vogel.	
+1103	[NO TRANSLATION]	missing translation
+1104	Hij werkt hier niet,	
+1105	ik moest 'm hier ontmoeten.	
+1106	Dat is alles wat ik weet.	
+1107	[NO TRANSLATION]	missing translation
+1108	Eindelijk ontmoeten we u.	
+1109	Ik ben Helen Abel.	
+1110	Hoe gaat het met onze echtgenoot?	
+1111	[NO TRANSLATION]	missing translation
+1112	Prima.	
+1113	Hoe gaat het met mijn Rudolf?	
+1114	Zo goed als te verwachten is.	
+1115	En we zullen hem terug krijgen, ja?	
+1116	Dit is onze dochter.	
+1117	Hoe gaat het?	
+1118	Lydia.	
+1119	Bent u Mr Vogel?	
+1120	Nee, ik ben Vogel niet.	
+1121	ik ben Vogel niet.	
+1122	Ik ben neef Drews.	
+1123	Dit neef Drews.	
+1124	[NO TRANSLATION]	missing translation
+1125	Ik ben neef Drews.	
+1126	[NO TRANSLATION]	
+1127	Ik ben Helen Abel.	
+1128	Wanneer ziet u hem?	
+1129	Wanneer zal uw regering hem vrijlaten?	
+1130	Ik ben nu een beetje de weg kwijt.	
+1131	Ik kwam hier voor Mr Vogel.	
+1132	Mr Vogel is onze advocaat.	
+1133	We zouden over de uitwisseling onderhandelen.	
+1134	Om Rudolf terug te brengen?	
+1135	Ja, inderdaad.	
+1136	Het gebeurt niet eenzijdig, snapt u?	
+1137	Het moet een uitwisseling zijn.	
+1138	Is hij niet hier?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Mr Donovan?	
+1143	Mr Vogel.	
+1144	Nee.	
+1145	[NO TRANSLATION]	missing translation
+1146	Mijn naam is Schischkin,	
+1147	Ivan Schischkin.	
+1148	Ik ben de tweede secretaris van de Sovjetambassade.	
+1149	Het zou niet passend zijn als Mr Vogel ons zou vergezellen.	
+1150	Hij is een Duits staatsburger.	
+1151	Dus u bent niet hier om...	
+1152	Om deze vergadering te vergemakkelijken.	
+1153	Misschien wil Mrs Abel zich even terugtrekken?	
+1154	Zodat ik en Mr Donovan even kunnen praten.	
+1155	Dank u.	
+1156	Ik ben in de war.	
+1157	[NO TRANSLATION]	missing translation
+1158	Het maakt me niet uit met wie ik praat als er een personeelswisseling is geweest.	
+1159	Moet ik dan bij u zijn?	
+1160	Ja, natuurlijk,	
+1161	we moeten praten.	
+1162	Gaat u zitten, Mr Donovan.	
+1163	Hoe heeft u de oostelijke sector bereikt?	
+1164	Per trein,	
+1165	de S-Bahn.	
+1166	En u was alleen?	
+1167	[NO TRANSLATION]	
+1168	U heeft geloofsbrieven?	
+1169	U weet vast wel wie ik ben.	
+1170	Ik ben een gewone burger.	
+1171	Ik ben een advocaat in Brooklyn, in de Verenigde Staten... en nam de tijd in mijn drukke schema om mijn cliënt, Rudolf Abel, te helpen.	
+1172	Ik ben bevoegd om de uitwisseling te arrangeren van Abel... voor Francis Gary Powers.	
+1173	Dit is een volledig pardon voor Abel... dat wordt ondertekend wanneer de ruil daadwerkelijk plaatsvindt.	
+1174	Dat is de enige reden waarom ik hier ben.	
+1175	Hopelijk kunnen deze onderhandelingen snel worden afgehandeld.	
+1176	Abel voor Francis Gary Powers en Frederic Pryor.	
+1177	Pryor hebben we niet.	
+1178	Oh nee?	
+1179	[NO TRANSLATION]	missing translation
+1180	Ik heb over Pryor gehoord. Maar hij werd gearresteerd door Oost-Duitsland. En niet door de Unie van Socialistische Sovjet Republieken.	
+1181	Ik zal u het eerste probleem vertellen.	
+1182	De namen van uw land zijn te lang.	
+1183	[NO TRANSLATION]	missing translation
+1184	Als Powers wordt vrijgelaten zal het alleen zijn om de goodwill tussen onze landen te bevorderen.	
+1185	Het kan dus geen uitwisseling zijn.	
+1186	[NO TRANSLATION]	missing translation
+1187	Misschien kunt u Abel vrijlaten... als bewijs van goede wil voor onze Duitse vrienden. En dan een paar maanden later zullen wij Powers vrijlaten.	
+1188	Het is 'n optie.	
+1189	Nee,	
+1190	dat werkt niet voor ons.	
+1191	Het moet een uitwisseling zijn.	
+1192	Noem het wat je wilt. Er wordt uitgewisseld.	
+1193	Abel kan hier binnen 48 uur zijn.	
+1194	We willen Powers op hetzelfde moment dat we Abel geven.	
+1195	[NO TRANSLATION]	missing translation
+1196	Dat is...	
+1197	We noemen het: ongeduldige plan.	
+1198	Noem het wat u wil.	
+1199	Ik kan uw ongeduldige plannen overdragen aan Moskou om te zien wat ze zeggen.	
+1200	Maar ze zullen zich afvragen waarom u zo ongeduldig bent.	
+1201	Omdat ik verkouden ben.	
+1202	En ik woon niet in Berlijn en wil graag naar huis.	
+1203	Zij zullen denken, dat de Amerikanen alle informatie hebben die Abel wist.	
+1204	En nu staan ze te popelen om te ruilen. Hopelijk in ruil voor, Powers. Die misschien nog niet alle informatie heeft gegeven die hij kent.	
+1205	Deze uitwisseling is niet eerlijk.	
+1206	Maar u zegt dat als Powers alles verteld heeft wat hij weet dat Moskou zou ruilen?	
+1207	Waarom zouden ze dat niet doen?	
+1208	Als Abel sterft in een Amerikaanse gevangenis... zal de volgende Russische spion die gevangen wordt wel twee keer nadenken voor hij zwijgt.	
+1209	Je weet maar nooit,	
+1210	misschien wil Abel de lucht weer zien en besluit om Russische geheimen te ruilen voor kleine Amerikaanse gunsten.	
+1211	Hoe weten we dat?	
+1212	Wij kleine mannetjes doen ons werk.	
+1213	Net zoals luitenant Powers.	
+1214	Hij is gewoon een piloot.	
+1215	Hij maakte foto's, op 70.000 voet, toen hij uit de lucht werd geschoten.	
+1216	De mensen in mijn land beschouwen dat als een oorlogsdaad.	
+1217	We moeten uit deze carrousel, meneer.	
+1218	De volgende fout die onze landen maken, kan de laatste zijn.	
+1219	We moeten de dialoog gebruiken die onze regeringen niet heeft.	
+1220	Ik zal het Moskou vragen.	
+1221	Wie weet wat ze zeggen?	
+1222	Er zijn veel mensen, die willen dat deze uitwisseling nooit plaatsvindt.	
+1223	Kunt u morgen terugkomen, om hun reactie te bespreken?	
+1224	Powers voor Abel.	
+1225	En Frederic Pryor.	
+1226	Zoals ik al zei, Pryor is in handen van de Staatsveiligheidsorganen van de Duitse Democratische Republiek.	
+1227	Ik ben er zeker van dat u afspraken kunt maken.	
+1228	Ik ben gewoon een secretaris, van de buitenlandse ambassade.	
+1229	[NO TRANSLATION]	missing translation
+1230	Ga naar Mr Vogel.	
+1231	Ik geef u zijn adres.	
+1232	Is er echt een Mr Vogel?	
+1233	Waarom zou hij dat anders zeggen?	
+1234	Het is maar een klein stukje rijden.	
+1235	En trek alstublieft een jas aan met dit weer, Mr Donovan.	
+1236	Mijn jas was gestolen.	
+1237	Wat had u dan verwacht?	
+1238	Hij was van Saks Fifth Avenue.	
+1239	Toch?	
+1240	[NO TRANSLATION]	missing translation
+1241	[NO TRANSLATION]	missing translation
+1242	Kom binnen.	
+1243	[NO TRANSLATION]	missing translation
+1244	Het spijt me van de ambassade.	
+1245	Maar de Sovjets besloten me niet te ontvangen.	
+1246	Dat is heel irritant.	
+1247	Ik probeer nog steeds de positie te achterhalen van elke...	
+1248	Status?	
+1249	Ja,	
+1250	en interessante procedures.	
+1251	[NO TRANSLATION]	missing translation
+1252	Het is een nieuwe wereld,	
+1253	geheel gedesoriënteerd, toch?	
+1254	Ik zal vertellen wat ik te bieden heb.	
+1255	Ik ben een goede vriend...	
+1256	Vriend'.	
+1257	Nee, hij is ouder.	
+1258	Beschermeling'?	
+1259	Van de procureur-generaal van de Duitse Democratische Republiek.	
+1260	Ga zitten, alstublieft.	
+1261	Die ongelukkige... Frederic Pryor. Hij was op de verkeerde plaats op de verkeerde tijd.	
+1262	Maar ieder ongeluk, goed bekeken, is een kans, toch, Mr Donovan?	
+1263	[NO TRANSLATION]	missing translation
+1264	Uw land weigert de Duitse Democratische Republiek te erkennen.	
+1265	Ze willen liever verhalen verzinnen dat hun DDR, bijvoorbeeld, niet bestaat.	
+1266	Sorry.	
+1267	Als middel om uw regering te dwingen deze echte plaats te erkennen... waar u nu bent, de DDR. De procureur-generaal wil graag onderhandelen met een afgevaardigde van uw regering... over de terugkeer van Mr Pryor.	
+1268	Ik ben hier niet als afgevaardigde.	
+1269	[NO TRANSLATION]	missing translation
+1270	Dat is kinderachtig, Mr Donovan.	
+1271	[NO TRANSLATION]	missing translation
+1272	Ik heb geen officiële status.	
+1273	Prima.	
+1274	U vertegenwoordigt de USA niet, ik de DDR niet.	
+1275	Mijn cliënt is Lydia Abel, Rudolfs vrouw.	
+1276	Ik heb ook...	
+1277	Lydia is de dochter,	
+1278	Helen de vrouw.	
+1279	[NO TRANSLATION]	missing translation
+1280	Ik ben bereid Frederic Pryor te ruilen voor Rudolf Abel.	
+1281	[NO TRANSLATION]	missing translation
+1282	Wij leveren Rudolf Abel.	
+1283	Jullie leveren gelijktijdig student Pryor.	
+1284	Gelijkertijd.	
+1285	Absoluut.	
+1286	De ruil betreft een Rus, die aan het einde van zijn leven is. Voor een Amerikaanse student die net aan zijn leven begint.	
+1287	Schischkin?	
+1288	Hij is geen ambassade secretaris.	
+1289	Ivan Schischkin is hoofd van de KGB in West Europa.	
+1290	Waar hij ook is, hij legt ons voorstel aan Moskou voor. En zij beslissen.	
+1291	Kan ik een jas lenen?	
+1292	Ik ben de mijne kwijt.	
+1293	Hoe ben jij je jas kwijtgeraakt?	
+1294	Je weet wel. Spionnen spul.	
+1295	Ik zorg wel voor een andere jas.	
+1296	Goed, omdat...	
+1297	Wie is die Vogel?	
+1298	Dat weten we niet.	
+1299	Hij mag dan zijn wat u zei dat hij is,	
+1300	een vriend van de procureur-generaal.	
+1301	Gewoon een jongen die de DDR heeft aangesteld om dit af te handelen.	
+1302	Blijkbaar vechten de Oost Duitsers om een plek aan onze tafel.	
+1303	De DDR krijgt Abel terug van de Russen, verdienen hun respect...	
+1304	en komen dan breeduit in het nieuws door hun zaak.	
+1305	Daardoor komt Oost Duitsland natuurlijk op de kaart te staan.	
+1306	Hun kaart kan ons niets schelen.	
+1307	Blijf bij de Russen.	
+1308	Blijf bij de Russen.	
+1309	Het wordt Powers voor Abel.	
+1310	Dit alles kan dus misschien gebeuren?	
+1311	Dat vertel je me blijkbaar.	
+1312	We zetten Abel in een vliegtuig, dat hier vrijdag aankomt.	
+1313	Als Schischkin groen licht krijgt, moeten we alleen onderhandelen over de ruil.	
+1314	Hoe we onze jongen voor die van hen ruilen.	
+1315	Onze jongens.	
+1316	Twee jongens,	
+1317	Powers en Pryor.	
+1318	Nu niet sentimenteel gaan doen.	
+1319	Alles draait om Powers.	
+1320	Vergeet die playboy die duidelijk dacht dat dit een goed idee was... om Sovjet economie te studeren in Berlijn te midden van de Koude Oorlog.	
+1321	We hebben Powers nodig.	
+1322	Je mag Powers niet eens.	
+1323	Iedereen haat Powers.	
+1324	Hij pleegde geen zelfmoord en liet de communisten hem bewieroken op tv.	
+1325	Hij is de meeste gehate man in Amerika.	
+1326	Na Rudolf Abel, misschien.	
+1327	En ik.	
+1328	Wakker worden.	
+1329	Ik moet slapen.	
+1330	[NO TRANSLATION]	missing translation
+1331	Je kunt slapen nadat we gepraat hebben.	
+1332	Focus je op mij.	
+1333	Jouw regering geeft niets om je.	
+1334	Dat weet je.	
+1335	Om niemand van jullie.	
+1336	Weet je dat 12 U-2 piloten hersenbeschadiging hebben opgelopen?	
+1337	Ze zijn in vegetatieve staat door de hoogte en onvoldoende zuurstof.	
+1338	Ze houden je in de lucht, Gary.	
+1339	Jij en je vrienden.	
+1340	Ze gaven je dit.	
+1341	Een scheermes.	
+1342	Kalium cyanide.	
+1343	Denk je dat ze om je geven?	
+1344	Wat is de constructie van de vernietigingsunit?	
+1345	Waarom is deze in bedrijf?	
+1346	Met wat voor explosieven is hij geladen? En waartoe is hij in staat?	
+1347	Ik weet het niet.	
+1348	De piloten kregen die uitrusting nooit te zien.	
+1349	Welke afstand kan de rader meten als er overgevlogen wordt?	
+1350	Ik weet het niet. Ik weet het niet.	
+1351	Jij vloog over op 9 april. Over het industriegebied en de MIG basis in Baranovichi.	
+1352	Nee,	
+1353	toen vloog ik voor de eerste keer.	
+1354	Ik moet de glijhoek van de motor weten.	
+1355	Hoe het vliegtuig zo hoog kan komen.	
+1356	We weten dat hij een hoogte van 21.000 meter kan bereiken.	
+1357	Gary, dat weten we.	
+1358	En ik moet weten waar de vliegtuigen hebben gevlogen.	
+1359	Waar ze hebben gevlogen, Gary.	
+1360	Dat gesprek moeten we nu voeren.	
+1361	Nu.	
+1362	Daarna kun je wat gaan slapen.	
+1363	Wakker worden, sir.	
+1364	Wakker worden, sir.	
+1365	Kunt u met mij meegaan.	
+1366	[NO TRANSLATION]	
+1367	We moeten gaan.	
+1368	Ja, natuurlijk.	
+1369	Kunt u met mij meegaan?	
+1370	[NO TRANSLATION]	missing translation
+1371	[NO TRANSLATION]	missing translation
+1372	Wilt u uw bril?	
+1373	[NO TRANSLATION]	
+1374	Hoe laat is het?	
+1375	Het is laat, maar we moeten praten en een vliegtuig halen.	
+1376	[NO TRANSLATION]	missing translation
+1377	[NO TRANSLATION]	missing translation
+1378	[NO TRANSLATION]	missing translation
+1379	[NO TRANSLATION]	missing translation
+1380	[NO TRANSLATION]	missing translation
+1381	Sta maar op.	
+1382	Doorlopen maar.	
+1383	Bedankt.	
+1384	De andere kant op.	
+1385	[NO TRANSLATION]	missing translation
+1386	Zei u nu vliegtuig?	
+1387	Deze kant op.	
+1388	Doorlopen.	
+1389	Er is een gunstige beslissing uit Moskou betreffende uw voorstel. Dat we onze vrienden helpen in de DDR... door Mr Powers voor Mr Abels te ruilen.	
+1390	Geweldig.	
+1391	Mag ik de Glienicke Bridge voorstellen als uitwisselingsplaats?	
+1392	Waarom Checkpoint Charlie niet?	
+1393	We zijn niet op zoek naar publiciteit.	
+1394	Het is heel rustig op de Glienicke Bridge. Zeker 's ochtends vroeg.	
+1395	De Glienicke Bridge,	
+1396	ik geef dat door aan onze kant.	
+1397	Abel kan hier vrijdag zijn,	
+1398	dus zaterdagochtend?	
+1399	Altijd ongeduldig, niet?	
+1400	Ik wil naar bed.	
+1401	Zaterdagochtend dus?	
+1402	5:30?	
+1403	Goed.	
+1404	We zijn klaar.	
+1405	Dit is het nummer, voor als er problemen zijn.	
+1406	[NO TRANSLATION]	missing translation
+1407	Er wordt altijd opgenomen.	
+1408	Ik verwacht niet dat te gebruiken.	
+1409	Zullen we proosten op de overeenkomst?	
+1410	Waarom niet.	
+1411	Armeense brandy.	
+1412	Goed voor uw verkoudheid.	
+1413	Bedankt.	
+1414	Zou u het erg vinden...	
+1415	Dit maakt geen deel uit van de zaken, maar ik wil graag wat vragen stellen.	
+1416	U hoeft niet te antwoorden.	
+1417	Ik zal antwoord geven op wat ik weet.	
+1418	Ik mag die cliënt. Uw cliënt.	
+1419	Wat gebeurt er met uw cliënt als hij thuiskomt?	
+1420	We moeten besluiten of onze cliënt nu uw cliënt is.	
+1421	Ik zei al eerder dat hij zich eervol gedraagt.	
+1422	Hij is nog steeds uw cliënt.	
+1423	Natuurlijk zou u dat zeggen als het waar was. En als het niet waar was.	
+1424	Daar komt het blijkbaar op neer.	
+1425	Vergeef me dat ik aandring. Is hij in gevaar als de beslissing genomen is?	
+1426	[NO TRANSLATION]	missing translation
+1427	Zoals de zaken er nu voorstaan, is iedereen in gevaar.	
+1428	Proost.	
+1429	[NO TRANSLATION]	missing translation
+1430	Er zal geen uitwisseling plaatsvinden op de Glienicke bridge.	
+1431	Sorry, sir?	
+1432	Er vindt geen uitwisseling plaats.	
+1433	Niet voor Frederic Pryor.	
+1434	Mr Vogel, dat waren we gisteren toch overeengekomen?	
+1435	We waren een uitwisseling overeengekomen. Abel voor Pryor.	
+1436	Ik heb gehoord dat u de zaak beduvelt. U verkoopt hetzelfde product aan twee klanten.	
+1437	U verkoopt Abel voor Pryor aan ons.	
+1438	[NO TRANSLATION]	missing translation
+1439	En Abel voor Powers, aan de Sovjet Unie.	
+1440	Ik snap het probleem niet. Als de overeenkomst twee partijen tevredenstelt...	
+1441	Wat voor verschil maakt het dan?	
+1442	De overeenkomst stelt ons niet tevreden.	
+1443	[NO TRANSLATION]	missing translation
+1444	U weet duidelijk niet met wie u te maken heeft.	
+1445	Dit is het belang van de DDR.	
+1446	Onderhandelen en blijkbaar onderhandelen met een andere soevereine macht. De VS.	
+1447	Een gelijkwaardige macht.	
+1448	In plaats daarvan behandelt u ons als stromannen van de USSR.	
+1449	Zullen we hen de Russen noemen?	
+1450	Dat bespaart tijd.	
+1451	Ik heb een afspraak, sir.	
+1452	U verspilt tijd.	
+1453	Vertel me of ik dit verkeerd beschrijf.	
+1454	U heeft een student. U weet dat hij geen spion is, dus u wordt niet bedreigd.	
+1455	En in ruil voor die persoon, die geen waarde heeft voor u... speelt u een gelijkwaardige rol in de uitwisseling tussen de Russen en de Amerikanen.	
+1456	En dit is één transactie tussen ons en jullie twee.	
+1457	We willen geen twee dingen doen.	
+1458	We doen één ding.	
+1459	[NO TRANSLATION]	missing translation
+1460	Ik vind het moeilijk te zien dat de GDR wordt verdeeld.	
+1461	U ging akkoord met de Sovjets zonder mij te raadplegen.	
+1462	Is dit een onderhandeling of een complot?	
+1463	Als het een complot was, zou u schade berokkend zijn.	
+1464	Hier zijn alleen maar voordelen.	
+1465	Gemeenschappelijke belangen.	
+1466	Nee, u besloot toe te stemmen.	
+1467	Waar is uw afspraak, sir?	
+1468	In het westen.	
+1469	Kuhdamm.	
+1470	[NO TRANSLATION]	missing translation
+1471	Kijk om u heen.	
+1472	Hoe verhoudt het Oostelijke deel zich met de rest?	
+1473	[NO TRANSLATION]	missing translation
+1474	Onze Russische vrienden besloten dat wij onze hoofdstad niet moesten herbouwen.	
+1475	Maar we leven in deze ruïne gemaakt door onze Russische vrienden.	
+1476	Ga uw gang en sluit die overeenkomst met die Russen.	
+1477	Wij maken er geen deel van uit.	
+1478	Er is geen overeenkomst zonder Pryor.	
+1479	We laten hem hier niet achter.	
+1480	Is dat uw positie of die van uw regering?	
+1481	[NO TRANSLATION]	missing translation
+1482	Ik ben degene hier die met u praat.	
+1483	U vertegenwoordigt uw regering niet.	
+1484	U weet niet wie u bent.	
+1485	Wij ook niet.	
+1486	Wees voorzichtig.	
+1487	Dit is Brooklyn niet, Mr Donovan.	
+1488	[NO TRANSLATION]	missing translation
+1489	U weet dat ik in elk belangrijk aspect mijn regering vertegenwoordig.	
+1490	U weet wie ik ben.	
+1491	Is dat zo?	
+1492	[NO TRANSLATION]	missing translation
+1493	Heeft u de juiste papieren?	
+1494	Natuurlijk niet.	
+1495	Dat maakt niets uit.	
+1496	Een Amerikaanse advocaat zoals u praat zich toch overal uit,	
+1497	niet?	
+1498	U gaat met hem mee.	
+1499	Waarom?	
+1500	Paspoort probleem.	
+1501	[NO TRANSLATION]	missing translation
+1502	[NO TRANSLATION]	missing translation
+1503	Wat is het probleem?	
+1504	Ga met hem mee.	
+1505	Deze kant op. Denk eraan, wij bepalen het lot van Frederic Pryor.	
+1506	Ik begin met koffie,	
+1507	Ik begin met koffie,	
+1508	en dan de Hilton Combo. En dan dat Amerikaanse ontbijt zonder koffie.	
+1509	[NO TRANSLATION]	missing translation
+1510	Beide ontbijten?	
+1511	[NO TRANSLATION]	missing translation
+1512	Eentje eerst?	
+1513	Beiden als ze klaar zijn.	
+1514	Beiden als ze klaar zijn.	
+1515	En koffie.	
+1516	[NO TRANSLATION]	missing translation
+1517	Je zou hier niet moeten zijn.	
+1518	Soms wil je in Duitsland een goed Amerikaans ontbijt.	
+1519	Wat is er gebeurd?	
+1520	Waar was je gisteravond?	
+1521	Vogel had ervoor gezorgd dat ik even aan de Oostkant werd ondergebracht.	
+1522	[NO TRANSLATION]	missing translation
+1523	Eigenlijk is het niet veel erger dan waar jij me in het Westen onderbrengt.	
+1524	De Russen stemmen in met de uitwisseling. Nu zegt Vogel dat de Oost-Duitsers niet meer akkoord zijn.	
+1525	We krijgen Pryor niet.	
+1526	Geweldig.	
+1527	De Sovjets gaan dus akkoord.	
+1528	Wij krijgen Powers.	
+1529	Wij krijgen Powers.	
+1530	Goed gedaan.	
+1531	De Oost-Duisters gaan niet akkoord.	
+1532	We krijgen Pryor niet. Dat joch is belangrijk.	
+1533	Iedereen is belangrijk.	
+1534	Daarom heb je het ook geprobeerd.	
+1535	[NO TRANSLATION]	missing translation
+1536	Abel is onderweg. We zijn dus klaar voor morgenochtend.	
+1537	Wacht eens even.	
+1538	Dat maakt de dingen makkelijk.	
+1539	Dat maakt de dingen makkelijk.	
+1540	We krijgen de jongen niet.	
+1541	Ik begrijp het.	
+1542	We zijn klaar.	
+1543	We kunnen het bericht van vanmorgen negeren.	
+1544	Wat voor bericht?	
+1545	Van de Oost-Duitsers.	
+1546	Ze hebben het nummer dat ik jou gegeven had gebeld.	
+1547	Ze zeiden dat ze je vandaag wilde spreken.	
+1548	Heeft Vogel gebeld?	
+1549	Nee,	
+1550	Harald Ott, de Duitse procureur-generaal.	
+1551	Wat wil hij?	
+1552	Wat wil hij?	
+1553	Jou spreken.	
+1554	Ik kan niet vragen of je weer terug wil gaan.	
+1555	Voor sommigen individuen ben jij persona non grata. Ik kan niet vragen of je weer terug wil gaan.	
+1556	Hij wil met me praten.	
+1557	Hoe laat?	
+1558	[NO TRANSLATION]	missing translation
+1559	Luister, jij...	
+1560	Jij hoeft niet te gaan.	
+1561	Je moet ook niet gaan.	
+1562	Je kan niet gaan.	
+1563	We hebben een akkoord met de Sovjets.	
+1564	Dat willen we niet verkloten.	
+1565	Ik verkloot het niet.	
+1566	Je gaat niet.	
+1567	Wees geen lastpost.	
+1568	Dat heb ik besteld.	
+1569	Geniet van je grote Amerikaanse ontbijt.	
+1570	Ik dacht dat er op het hoogste niveau onderhandeld moest worden als gunst voor jou.	
+1571	Bedankt, sir.	
+1572	Ik begrijp niet waarom de dingen zo verwarrend zijn geworden.	
+1573	Soms gaat dat gewoon zo.	
+1574	Ter verduidelijking, we zijn volledig voorbereid... op de uitwisseling van de zogenaamde student, Pryor, voor Rudolf Abel.	
+1575	Ik begrijp dat Pryor heel belangrijk voor u is.	
+1576	Ja, maar...	
+1577	Dat feit zullen we memoreren.	
+1578	Een memorandum.	
+1579	We leggen ons toe op een bilaterale uitwisseling.	
+1580	Natuurlijk.	
+1581	Ik weet niet zeker wat dat betekent.	
+1582	Mijn land dringt ook aan op Francis Gary Powers.	
+1583	[NO TRANSLATION]	missing translation
+1584	Daarom zijn de dingen zo verwarrend geworden.	
+1585	Powers,	
+1586	wat voor nut heeft hij?	
+1587	Wilt u strafmaatregelen?	
+1588	Wat gedaan is is gedaan.	
+1589	Hij onthulde, wat hij wilde onthullen. En Abel deed dat ook.	
+1590	Wij daarentegen bieden iemand aan, en u beweert dat diegene onschuldig is.	
+1591	[NO TRANSLATION]	missing translation
+1592	[NO TRANSLATION]	missing translation
+1593	Kijk naar de toekomst.	
+1594	Hoezo moet ik me daarom bekommeren?	
+1595	[NO TRANSLATION]	missing translation
+1596	[NO TRANSLATION]	missing translation
+1597	Het referentievermogen. Waar is hij? Ik kom er zo aan.	
+1598	Mag ik even, sir?	
+1599	Sorry,	
+1600	spijtig genoeg had de procureur-generaal een dringende zaak.	
+1601	Is hij weggegaan.	
+1602	Ja,	
+1603	excuses.	
+1604	Ik wacht al meer dan een uur.	
+1605	Sorry, sir.	
+1606	Jongeman.	
+1607	Kom hier.	
+1608	[NO TRANSLATION]	missing translation
+1609	Kom maar hier.	
+1610	[NO TRANSLATION]	missing translation
+1611	Ga zitten.	
+1612	Kom op.	
+1613	Ga zitten.	
+1614	Hou je van je werk?	
+1615	Het is een hele goeie baan.	
+1616	[NO TRANSLATION]	missing translation
+1617	Vast een interessante baan.	
+1618	[NO TRANSLATION]	missing translation
+1619	En ook belangrijk.	
+1620	Je spreekt uitstekend Engels.	
+1621	Niet uitstekend, maar ik red me wel.	
+1622	[NO TRANSLATION]	missing translation
+1623	Goed. Goed.	
+1624	Goed.	
+1625	Mijn onderhandelingspartner is er niet meer. Ik wil met iemand praten. En jij lijkt me een redelijke jonge man.	
+1626	Mag ik met jou praten?	
+1627	[NO TRANSLATION]	missing translation
+1628	Het is goed.	
+1629	[NO TRANSLATION]	missing translation
+1630	[NO TRANSLATION]	missing translation
+1631	Je moet alleen iets doorgeven aan je baas.	
+1632	Maar het moet wel heel duidelijk zijn.	
+1633	Begrijp je dat?	
+1634	[NO TRANSLATION]	missing translation
+1635	Misschien moet u wachten totdat...	
+1636	Nee,	
+1637	ik ben verkouden en wil naar huis. Naar bed.	
+1638	Kan jij de boodschap doorgeven?	
+1639	Natuurlijk.	
+1640	Dit is de boodschap.	
+1641	Er komt geen overeenkomst voor Abel tenzij we Powers en Pryor krijgen.'	
+1642	Begrijp je dat?	
+1643	[NO TRANSLATION]	missing translation
+1644	Het moet morgenochtend plaatsvinden.	
+1645	En het gaat niet door, tenzij wij die twee mannen krijgen.	
+1646	[NO TRANSLATION]	missing translation
+1647	Twee.	
+1648	[NO TRANSLATION]	missing translation
+1649	Als er geen overeenkomst komt, moet jouw baas dat aan de Sovjetten vertellen.	
+1650	Hij moet aan de Sovjetten vertellen dat ze Rudolf Abel niet krijgen.	
+1651	[NO TRANSLATION]	missing translation
+1652	Vertel hem dit ook.	
+1653	Tot dusverre was Abel een goede soldaat. Maar hij denkt dat hij naar huis gaat.	
+1654	Als we hem moeten vertellen dat hij niet naar huis gaat... dat de Sovjetten hem niet willen, dat hij nooit meer naar huis gaat...	
+1655	kan ik me indenken dat zijn gedrag verandert.	
+1656	En wie wordt daar verantwoordelijk voor gehouden?'	
+1657	Dat is een lange boodschap.	
+1658	Heb je dat allemaal begrepen?	
+1659	Ja, sir.	
+1660	[NO TRANSLATION]	missing translation
+1661	Goed.	
+1662	Jij bent een goeie vent.	
+1663	[NO TRANSLATION]	missing translation
+1664	Vertel hem ook dat er geen overeenkomst is... tenzij we elkaar voor het einde van deze werkdag gesproken hebben.	
+1665	Hij heeft mijn nummer.	
+1666	Als de uitwisseling niet plaatsvindt... dan hoeft niemand morgenochtend vroeg op te staan.	
+1667	Nee, sir. Dat zou nutteloos zijn.	
+1668	Dat meen je niet.	
+1669	Dat meen je niet.	
+1670	Niet echt.	
+1671	Ik heb kleingeld nodig.	
+1672	Dit is nu juist wat je niet had moeten doen.	
+1673	Mijn instructies waren de zaak op te lossen.	
+1674	Jouw instructies waren Powers in bezit te krijgen, niet Pryor.	
+1675	Dat was de originele overeenkomst niet.	
+1676	Je hebt het verkloot.	
+1677	Hoe weet jij dat?	
+1678	Ik heb er een goed gevoel over.	
+1679	Je hebt alles verkloot.	
+1680	Maak je geen zorgen.	
+1681	Volgens mij komt het allemaal wel goed.	
+1682	Hoe weet je dat?	
+1683	Dat weet je niet.	
+1684	Verenigde Staten.	
+1685	New York.	
+1686	Bedankt.	
+1687	Deze hele zaak was om mij te testen.	
+1688	Zou ik er één voor één ruilen, en welke dan?	
+1689	Maar ik zei: 'Nee, twee voor één,	
+1690	dus ze kennen ons standpunt.	
+1691	Als ze er nu over nadenken en zeggen	
+1692	[NO TRANSLATION]	missing translation
+1693	Hou onze jongen maar, wij houden die van jullie'?	
+1694	Dan heb ik alles verkloot.	
+1695	Schat,	
+1696	met mij.	
+1697	[NO TRANSLATION]	missing translation
+1698	Ik heb heerlijk gevist.	
+1699	Ik ben in Londen. Nog één vergadering dan kom ik naar huis.	
+1700	Ja, ik herinner me die marmelade nog.	
+1701	Die winkel bij Regent's Park.	
+1702	Dat zal ik doen als ik er tijd voor heb.	
+1703	Kan ik Roger gedag zeggen?	
+1704	Mag ik de meisjes spreken?	
+1705	Heeft iedereen wat te doen?	
+1706	Hebben ze wel gemerkt dat ik niet in de buurt ben?	
+1707	Het gaat door.	
+1708	Twee voor één.	
+1709	Verdikkeme.	
+1710	We nemen er eentje.	
+1711	Eén uit de weg.	
+1712	Wat dan?	
+1713	Ze laten Pryor alleen vrij als Powers er is. Niet op de brug,	
+1714	maar tegelijkertijd.	
+1715	Als de Russen Powers op de brug overhandigen... dan dragen ze Pryor over bij Checkpoint Charlie.	
+1716	Wat betekent dat?	
+1717	Ik denk: Wij hebben het laatste woord'.	
+1718	Maar ze doen het wel.	
+1719	Zeg het maar,	
+1720	jij hebt het geregeld.	
+1721	Waar zijn ze?	
+1722	Onze jongen.	
+1723	Onze jongen.	
+1724	Ze zijn laat.	
+1725	Niemand is laat.	
+1726	Wij zijn vroeg.	
+1727	Mag ik?	
+1728	[NO TRANSLATION]	missing translation
+1729	Hoffman,	
+1730	[NO TRANSLATION]	missing translation
+1731	ik denk dat ze...	
+1732	Wat?	
+1733	sluipschutters hebben.	
+1734	Vast wel.	
+1735	Hoezo?	
+1736	Omdat wij sluipschutters hebben.	
+1737	Stap uit, sir.	
+1738	Jim.	
+1739	Beste Jim.	
+1740	Hoe gaat het met je?	
+1741	Blij jou te zien.	
+1742	Heb je dit alles voor mij gearrangeerd?	
+1743	Eerst kijken wat dit is, voordat ik de eer opeis.	
+1744	Nog nieuws over Pryor bij Checkpoint Charlie?	
+1745	Er gebeurt nog niets.	
+1746	Sorry, sir.	
+1747	Dit is luitenant Joe Murphy van de US Air Force. We komen Powers identificeren.	
+1748	[NO TRANSLATION]	missing translation
+1749	[NO TRANSLATION]	missing translation
+1750	Er kan een klein probleempje zijn.	
+1751	Ik was een jonge man toen ik wegging.	
+1752	Wie moeten ze vinden om mij te identificeren?	
+1753	Ik hoop niet jouw familie uit Oost-Duitsland.	
+1754	Die kunnen elkaar niet eens identificeren.	
+1755	Daar zijn ze blijkbaar.	
+1756	Kom op maar.	
+1757	Blijft u maar hier, Donovan.	
+1758	Geen denken aan.	
+1759	Doe de slagboom omhoog.	
+1760	Wat gaat er volgens jou gebeuren als je thuiskomt?	
+1761	Ik denk...	
+1762	dat ik een wodka neem.	
+1763	[NO TRANSLATION]	missing translation
+1764	[NO TRANSLATION]	missing translation
+1765	Maar, Rudolf, is er geen mogelijkheid...	
+1766	Dat mijn mensen me neerschieten?	
+1767	[NO TRANSLATION]	missing translation
+1768	Je maakt je geen zorgen?	
+1769	Zou dat helpen?	
+1770	Om je vraag te beantwoorden, mijn vriend... Ik handelde met eer,	
+1771	volgens mij weten ze dat...	
+1772	Maar soms denken mensen verkeerd.	
+1773	Mensen zijn mensen.	
+1774	Laten we afwachten hoe ze me begroeten.	
+1775	Hoe kan ik het weten?	
+1776	Ofwel word ik omhelsd ofwel tonen ze me de achterbank.	
+1777	[NO TRANSLATION]	missing translation
+1778	Doe de hoed af.	
+1779	Hé, Powers.	
+1780	Hé, Murph.	
+1781	Ja, dat is Powers.	
+1782	Goed, Mr Donovan,	
+1783	we gaan nu.	
+1784	Wacht even.	
+1785	Geloof me, ik zal het je zeggen.	
+1786	Er is niemand.	
+1787	Ze laten nog 'n man vrij op Checkpoint Charlie.	
+1788	Eerst op bevestiging wachten.	
+1789	Nu.	
+1790	Zoals afgesproken.	
+1791	Kom op.	
+1792	Pryor daagt wel of niet op.	
+1793	Kom op.	
+1794	Ze wachten om te kijken of we het zonder hem zouden doen.	
+1795	We moeten hier gewoon staan en tonen dat we dat niet willen.	
+1796	Het kan me niet schelen wat ze willen.	
+1797	Wij hebben ons doelwit.	
+1798	Ga je gang, Abel.	
+1799	Doe maar, meneer.	
+1800	Vooruit.	
+1801	[NO TRANSLATION]	
+1802	De uitwisseling vindt nu plaats, en anders niet.	
+1803	Wachten we op een andere man?	
+1804	[NO TRANSLATION]	missing translation
+1805	Zij willen hem ook.	
+1806	Ik wil 'm.	
+1807	Boeit niet.	
+1808	Ik heb het bevel.	
+1809	Ga alsjeblieft.	
+1810	Ga naar de overkant.	
+1811	Ik kan wel wachten.	
+1812	Het is iets.	
+1813	Ik ben nog niet zeker.	
+1814	Wacht.	
+1815	[NO TRANSLATION]	missing translation
+1816	We hebben hem.	
+1817	[NO TRANSLATION]	missing translation
+1818	Ik heb je een geschenk gestuurd, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Het is een schilderij.	
+1821	Met hopelijk een betekenis voor jou.	
+1822	Het spijt me,	
+1823	ik heb niets voor jou.	
+1824	Dit is jouw geschenk.	
+1825	Dit is jouw geschenk.	
+1826	[NO TRANSLATION]	missing translation
+1827	Ga.	
+1828	Mr Donovan...	
+1829	ik moest dit van kolonel Abel aan u geven.	
+1830	Pardon, meneer.	
+1831	Had u het bevel van dit gebeuren, meneer?	
+1832	[NO TRANSLATION]	missing translation
+1833	Dan moet ik u bedanken.	
+1834	Alleszins iemand.	
+1835	Ik heb ze niets gezegd.	
+1836	Ik heb ze niets gezegd.	
+1837	[NO TRANSLATION]	missing translation
+1838	Het maakt niet uit wat mensen denken.	
+1839	Jij weet wat je hebt gedaan.	
+1840	Welkom thuis.	
+1841	Wat een reis.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Alles in orde?	
+1845	Ja.	
+1846	Heb je de marmelade bij je?	
+1847	Ja, natuurlijk.	
+1848	[NO TRANSLATION]	missing translation
+1849	[NO TRANSLATION]	missing translation
+1850	Ik heb 't bij me.	
+1851	Zoals bevolen.	
+1852	Jim...	
+1853	dit is Arno.	
+1854	En dan?	
+1855	Van om de hoek.	
+1856	Schat, ik had het zo druk.	
+1857	Sorry.	
+1858	[NO TRANSLATION]	missing translation
+1859	[NO TRANSLATION]	missing translation
+1860	[NO TRANSLATION]	missing translation
+1861	Is Roger thuis?	
+1862	Ja,	
+1863	Carol en Peggy ook.	
+1864	[NO TRANSLATION]	missing translation
+1865	Mama,	
+1866	kom snel kijken.	
+1867	[NO TRANSLATION]	missing translation
+1868	Mama, kom eens kijken.	
+1869	Mama, kom eens kijken.	
+1870	Kom eens kijken.	
+1871	[NO TRANSLATION]	missing translation
+1872	[NO TRANSLATION]	missing translation
+1873	[NO TRANSLATION]	missing translation
+1874	Francis Gary Powers werd vrijgelaten uit de gevangenis in de Sovjet Unie... en deze morgen in Berlijn overhandigd aan Amerikaanse autoriteiten.	
+1875	De President heeft Rudolf Abel's straf omgezet.	
+1876	Mr Abel werd gedeporteerd en vrijgelaten in Berlijn.	
+1877	Er werd al meerdere keren geprobeerd om Mr Powers vrij te krijgen.	
+1878	Bij recente pogingen kreeg de regering de hulp van Mr James B. Donovan... een advocaat uit New York.	
+1879	Frederic L. Pryor, een Amerikaanse student... aangehouden door Oost Duitsland sinds Augustus 1961...	
+1880	Papa ging toch vissen?	
+1881	Op zalm.	
+1882	Abel verscheen nu in de communistische wereld.	
+1883	Powers is hier om vragen te beantwoorden	
+1884	en Donovan gaat verder als advocaat.	
+1885	En nu praat George Fenneman namens Douglas Fir.	

@@ -1,0 +1,1769 @@
+1	Ég trúi á Bandaríkin.	
+2	Bandaríkin gerðu mig að efnuðum manni.	
+3	Ég ól dóttur mína upp á bandaríska vísu.	
+4	Ég veitti henni frelsi en kenndi henni að verða fjölskyldunni aldrei til vansæmdar.	
+5	Hún eignaðist vin. Ekki ítalskan.	
+6	Hún fer í bíó með honum.	
+7	Hún kom seint heim.	
+8	Ég mótmælti ekki.	
+9	Fyrir nokkru bauð hann henni í bíltúr með öðrum kunningja.	
+10	Þeir létu hana drekka viskí og reyndu síðan að komast yfir hana.	
+11	Hún veitti mótspyrnu, varðveitti sæmd sína.	
+12	Þá börðu þeir hana til óbóta.	
+13	Þegar ég kom á spítalann var hún nefbrotin, kjálkinn var í molum; haldið saman með vír.	
+14	Hún gat ekki einu sinni grátið vegna þrautanna.	
+15	En ég grét.	
+16	Af hverju grét ég?	
+17	Hún var ljós lífs míns.	
+18	Gullfalleg stúlka.	
+19	Nú verður hún aldrei falleg framar.	
+20	Afsakið.	
+21	Sem góður Bandaríkjamaður leitaði ég til lögreglunnar.	
+22	Piltarnir voru færðir fyrir rétt.	
+23	Dómarinn dæmdi þá í þriggja ára fangelsi og frestaði afplánun.	
+24	Frestaði afplánun!	
+25	Þeim var sleppt samdægurs.	
+26	Ég stóð eins og flón í réttarsalnum og úrþvættin glottu til mín.	
+27	Þá sagði ég við konuna:	
+28	Til að fá réttlæti leitum við til Don Corleones.	
+29	Því fórstu til lögreglunnar?	
+30	Því komstu ekki strax til mín?	
+31	Hvað viltu að ég geri?	
+32	Segðu mér hvað sem er en vertu við bón minni.	
+33	Hver er hún?	
+34	Ég vil þá dauða.	
+35	Við því get ég ekki orðið.	
+36	Ég geri hvaðeina sem þú ferð fram á.	
+37	Við höfum þekkst árum saman en nú leitarðu fyrst til mín.	
+38	Ekki man ég hvenær þú bauðst mér heim til þín í kaffisopa	
+39	þótt konan mín sé guðmóðir einkadóttur þinnar.	
+40	Við skulum vera hreinskilnir.	
+41	Þú kærðir þig ekki um vináttu mína;	
+42	óttaðist að verða mér skuldbundinn.	
+43	Ég vildi ekki lenda í vandræðum.	
+44	Ég skil.	
+45	Þú fannst paradís í Bandaríkjunum.	
+46	Viðskiptin gengu vel, þér vegnaði vel. Lögreglan verndaði þig auk dómstólanna	
+47	og þú þurftir ekki vin eins og mig.	
+48	Nú leitarðu til mín og segir:	
+49	Veittu mér réttlæti, Don Corleone.	
+50	En þú baðst ekki með virðingu,	
+51	þú bauðst ekki fram vináttu.	
+52	Þér dettur ekki í hug að kalla mig guðföður.	
+53	Þess í stað kemurðu á brúðkaupsdegi dóttur minnar og biður mig um að myrða fyrir borgun.	
+54	Ég bið þig um réttlæti.	
+55	Það er ekki réttlæti.	
+56	Dóttir þín er á lífi.	
+57	Látum þá þjást eins og hún þjáist.	
+58	Hve mikið á ég að borga þér?	
+59	Bonasera.	
+60	Vann ég til þess að þú kemur fram við mig með slíkri óvirðingu?	
+61	Hefðirðu leitað til mín með vináttu myndu úrþvættin sem smánuðu dóttur þína þjást núna.	
+62	Ef heiðursmaður eins og þú eignaðist óvin þá væri sá einnig óvinur minn.	
+63	Og þá myndu menn óttast þig.	
+64	Vertu vinur minn,	
+65	guðfaðir.	
+66	Ágætt.	
+67	Kannski kemur sá dagur aldrei að ég þurfi að leita til þín.	
+68	En þar til sá dagur rennur þá þiggðu þetta réttlæti sem gjöf á brúðkaupsdegi dóttur minnar.	
+69	Ég þakka, guðfaðir.	
+70	Ekkert að þakka.	
+71	Láttu Clemenza um þetta.	
+72	Ég vil ábyggilega menn sem ganga ekki of langt.	
+73	Við erum ekki morðingjar þótt útfararstjórinn hafi sagt það.	
+74	Hvar er Michael?	
+75	Kvíddu engu. Hann kemur.	
+76	Við tökum engar myndir án Michaels.	
+77	Hvað er að?	
+78	Michael..	
+79	Don Barzini. <Þú þekkir Santino./>	missing English
+80	[NO TRANSLATION]	missing translation
+81	Gefðu mér vín, Paulie.	
+82	[NO TRANSLATION]	missing translation
+83	Meira vín.	
+84	Þú ert stórfenglegur á dansgólfinu.	
+85	Ertu dansdómari eða hvað?	
+86	Kannaðu nágrennið. Sinntu starfi þínu.	
+87	Hafðu auga með börnunum.	
+88	Ekki láta þau ólmast.	
+89	Gættu þess að ólmast ekki sjálfur.	
+90	Tuttugu, þrjátíu þúsund	
+91	í reiðufé	
+92	í þessu litla silkiveski.	
+93	Ef einhver annar væri að halda brúðkaup..	
+94	[NO TRANSLATION]	missing translation
+95	Sæll, Paulie.	
+96	[NO TRANSLATION]	missing translation
+97	Fífl.	
+98	Hvað er að?	
+99	Ég þarf að vinna.	
+100	[NO TRANSLATION]	missing translation
+101	Það er hluti af brúðkaupinu.	
+102	Sikileyingur synjar engri bón á brúðkaupsdegi dóttur sinnar.	
+103	Don Corleone. Mér er það Heiður að vera boðinn á heimili þitt..	
+104	Hvað á þetta að þýða? Burt með ykkur.	
+105	Þetta er einkasamkvæmi.	
+106	[NO TRANSLATION]	missing translation
+107	[NO TRANSLATION]	missing translation
+108	Þetta er brúðkaup systur minnar.	
+109	Þessum FBI-mönnum er ekkert heilagt.	
+110	Burt með ykkur.	
+111	En að lokum fékk hann reynslulausn til að leggja sitt af mörkum til stríðsins. Í hálft ár hefur hann unnið í bakaríinu mínu.	
+112	Hvað get ég gert fyrir þig, Nazorine, vinur minn?	
+113	Nú er stríðinu lokið og það á að standa piltinn aftur til Ítalíu.	
+114	Ég á dóttur, guðfaðir.	
+115	Hún og Enzo..	
+116	Þú vilt að Enzo sé kyrr og dóttir þín giftist.	
+117	Þú skilur allt.	
+118	[NO TRANSLATION]	missing translation
+119	<Ekkert að þakka./> Þakka þér fyrir, Hagen.	missing English
+120	Bíðið þar til þið sjáið brúðkaupstertuna frá mér.	
+121	Brúðurin, brúðguminn og engillinn..	
+122	Hverjum á ég að fela þetta verk?	
+123	Ekki löndum okkar.	
+124	Láttu gyðingaþingmann í öðru kjördæmi um þetta.	
+125	Hver annar er á listanum?	
+126	[NO TRANSLATION]	missing translation
+127	Luca Brasi er ekki á listanum en vill hafa tal af þér.	
+128	Er það nauðsynlegt?	
+129	Hann bjóst ekki við boði. Hann vill fá að þakka þér.	
+130	Don Corleone. Ég er heiðraður og þakklátur að þú bauðst mér á heimili þitt á brúðkaupsdegi dóttur þinnar.	
+131	Megi frumburður þeirra verða sveinbarn. Don Corleone..	
+132	[NO TRANSLATION]	missing translation
+133	Maðurinn þarna er að tala við sjálfan sig.	
+134	Sérðu óttalega náungann þarna?	
+135	Hann er vissulega óttalegur.	
+136	Hver er hann? Hvað heitir hann?	
+137	Hann heitir Luca Brasi.	
+138	Hann hjálpar föður mínum við og við.	
+139	Bíddu hægur. Hann stefnir hingað.	
+140	Þú lítur prýðilega út.	
+141	Tom Hagen, bróðir minn. Ungfrú Kay Adams.	
+142	<Komdu sæl. Komdu sæll./> Faðir þinn var að spyrja eftir þér.	missing English
+143	Gaman að hitta þig.	
+144	Sömuleiðis.	
+145	Því heitir hann öðru nafni en er samt bróðir þinn?	
+146	Þegar Sonny, bróðir minn, var strákur, fann hann Tom Hagen á götunni,	
+147	heimilislausan. Faðir minn tók hann að sér.	
+148	Hann hefur verið hjá okkur æ síðan.	
+149	Hann er góður lögmaður.	
+150	Ekki Sikileyingur.	
+151	Ég held hann verði consigliere.	
+152	Hvað er það?	
+153	Eins konar ráðgjafi.	
+154	Afar mikilvægt fyrir fjölskylduna.	
+155	Hvernig smakkast lasagnan?	
+156	Don Corleone.	
+157	Ég er heiðraður og þakklátur fyrir að þú bauðst mér í brúðkaup dóttur þinnar.	
+158	Í brúðkaup dóttur þinnar.	
+159	Megi frumburður þeirra verða sveinbarn.	
+160	Ég sver eilífa hollustu mína.	
+161	Fyrir brúðkaupspyngju dóttur þinnar.	
+162	Þakka þér fyrir, Luca,	
+163	virti vinur.	
+164	Ég yfirgef þig nú því að ég veit að þú ert önnum kafinn.	
+165	[NO TRANSLATION]	missing translation
+166	[NO TRANSLATION]	missing translation
+167	[NO TRANSLATION]	missing translation
+168	Caulay öldungadeildarmaður harmar að komast ekki en kvað þig skilja það.	
+169	Sama á við um nokkra dómara.	
+170	Allir sendu þeir gjafir. <Skál./>	missing English
+171	Hvað gengur á úti?	
+172	[NO TRANSLATION]	missing translation
+173	[NO TRANSLATION]	missing translation
+174	Ég elska þig, Johnny!	
+175	Hann kom frá Kaliforníu í brúðkaupið.	
+176	Ég sagði þér að hann kæmi.	
+177	<Það eru tvö ár síðan./> Hann er aftur í klípu.	missing English
+178	Hann er vænn guðsonur.	
+179	[NO TRANSLATION]	missing translation
+180	Syngdu fyrir okkur.	
+181	Þú gast þess aldrei að þú þekktir Johnny Fontane.	
+182	[NO TRANSLATION]	missing translation
+183	Langar þig að hitta hann?	
+184	Frábært.	
+185	Vitaskuld.	
+186	Faðir minn hjálpaði honum á framabrautinni.	
+187	Jæja?	
+188	Hvernig?	
+189	Hlustum á lagið.	
+190	[NO TRANSLATION]	missing translation
+191	[NO TRANSLATION]	missing translation
+192	Segðu mér það, Michael.	
+193	Í byrjun skrifaði Johnny undir ráðningarsamning hjá frægum hljómsveitarstjóra.	
+194	Þegar honum voru allir vegir færir vildi hann rifta samningnum.	
+195	Johnny er guðsonur föður míns.	
+196	Faðir minn talaði við hljómsveitarstjórann.	
+197	Hann bauð honum 10.000 dali fyrir að sleppa Johnny. Hljómsveitarstjórinn neitaði því.	
+198	Daginn eftir fór faðir minn aftur til fundar við hann en nú hafði hann Luca Brasi með sér.	
+199	Innan klukkutíma skrifaði hann undir gegn 1.000 dala Tékka.	
+200	Hvernig fór hann að því?	
+201	Faðir minn gerði honum tilboð sem hann gat ekki hafnað.	
+202	Hvað áttu við?	
+203	Luca Brasi hélt byssu við höfuðið á honum en pabbi fullvissaði hann um að annaðhvort lenti heili hans eða undirskrift á samningnum.	
+204	Þetta er sönn saga.	
+205	Fjölskyldan er svona.	
+206	Ég er ekki svona.	
+207	[NO TRANSLATION]	missing translation
+208	Ég sé um það.	
+209	[NO TRANSLATION]	missing translation
+210	Finndu Santino.	
+211	Segðu honum að koma á skrifstofuna.	
+212	Hvernig líður þér, Fredo?	
+213	Fredo, bróðir minn. Kay Adams.	
+214	Sæll.	
+215	Komdu sæl.	
+216	Þetta er Mike, bróðir minn.	
+217	Skemmtirðu þér?	
+218	Já.	
+219	Er þetta vinkona þín?	
+220	Ég er alveg ráðþrota.	
+221	Röddin er.. veik.	
+222	[NO TRANSLATION]	missing translation
+223	Fengi ég hlutverkið í kvikmyndinni væru mér allir vegir færir.	
+224	En forstjóri kvikmyndaversins vill ekki láta mig fá það.	
+225	Hvað heitir hann?	
+226	Woltz.	
+227	Hann segir að það komi ekki til mála.	
+228	Sonny?	
+229	Sonny?	
+230	Sonny?	
+231	Ertu þarna inni?	
+232	Hvað?	
+233	Sá gamli vill hafa tal af þér.	
+234	Já, eftir andartak.	
+235	Fyrir mánuði keypti hann kvik- myndaréttinn að metsölubók.	
+236	Aðalpersónan er alveg eins og ég.	
+237	Ég þyrfti ekki að leika. Væri bara ég sjálfur.	
+238	Ég er ráðþrota, guðfaðir. Hvað get ég gert?	
+239	Vertu eins og maður!	
+240	Hvað gengur að þér?	
+241	Ertu orðinn Hollywood-gauð sem skælir eins og kona?	forced duplication
+242	Ertu orðinn Hollywood-gauð sem skælir eins og kona?	forced duplication
+243	Hvað get ég gert?	
+244	Hvað get ég gert?	
+245	Hvaða bull er þetta?	
+246	Þetta er fáránlegt.	
+247	Verðu tíma með fjölskyldunni?	
+248	Vitanlega.	
+249	Ágætt.	
+250	Sá sem ekki ver tíma hjá fjölskyldu sinni verður aldrei sannur maður.	
+251	Það er hörmung að sjá þig.	
+252	Ég vil að þú borðir.	
+253	Að þú hvílist vel og eftir mánuð lætur Hollywood-stórlaxinn þig fá allt sem þú vilt.	
+254	Það er um seinan. Tökurnar hefjast eftir viku.	
+255	Ég geri honum tilboð sem hann getur ekki hafnað.	
+256	Farðu nú út og skemmtu þér..	
+257	Láttu mig um þetta.	
+258	[NO TRANSLATION]	missing translation
+259	Hvenær fer dóttir mín með brúðgumanum?	
+260	Strax eftir að þau skera tertuna.	
+261	Fær tengdasonurinn eitthvað mikilvægt að gera?	
+262	Aldrei.	
+263	Láttu hann fá nóg en ræddu aldrei fjölskyldumál við hann.	
+264	Nokkuð fleira?	
+265	Virgil Sollozzo hringdi.	
+266	Við þurfum að gefa honum tíma í næstu viku.	
+267	Við ræðum hann þegar þú kemur frá Kaliforníu.	
+268	Hvenær fer ég til Kaliforníu?	
+269	Ég vil að þú farir í kvöld.	
+270	Ég vil að þú talir við kvikmyndastórlaxinn og gangir frá málinu fyrir Johnny.	
+271	Sé það ekki fleira langar mig í brúðkaup dóttur minnar.	
+272	Nú tökum við myndina, Carlo.	
+273	Andartak.	
+274	[NO TRANSLATION]	missing translation
+275	Ekki ég, Michael.	
+276	Þetta er lagið.	
+277	Verið kyrr svona.	
+278	[NO TRANSLATION]	missing translation
+279	[NO TRANSLATION]	missing translation
+280	Út með það.	
+281	Vinur Johnnys Fontanes sendi mig hingað.	
+282	Hann er skjólstæðingur minn og vill veita Woltz ævarandi vináttu sína ef Woltz gerir okkur smágreiða.	
+283	Woltz hlustar.	
+284	Láttu Johnny fá hlutverkið í nýju stríðsmyndinni.	
+285	Hvaða greiða gerir vinurinn fyrir Woltz?	
+286	Vandamál með verkalýðsfélögin. Skjólstæðingur minn gæti látið þau hverfa.	
+287	Svo fór stórstjarna hjá þér úr marijúana í heróín.	
+288	Ertu að beita mig þvingunum? <Síður en svo. Ég bið um greiða fyrir vin./>	missing English
+289	Taktu nú eftir, úrþvætti.	
+290	Ég lét þig og þennan stjóra Þinn fá það óþvegið.	
+291	Johnny Fontane fær aldrei hlutverk í myndinni.	
+292	Mér er sama hve margar Ítalalýs gefa sig fram.	
+293	Ég er þýsk-írskur.	
+294	Þá skal ég segja þér dálítið, Þýskarafífl.	
+295	Ég geng þannig frá þér að þú verður kolringlaður.	
+296	Ég er lögmaður.	
+297	Ég hafði ekki í hótunum.	
+298	Ég þekki flesta aðallögmennina í New York.	
+299	Hver ertu?	
+300	[NO TRANSLATION]	missing translation
+301	Ég sé bara um mál eins skjólstæðings.	
+302	<Þú þefur númerið mitt./> Ég heyri frá þér.	missing English
+303	Raunar dáist ég mjög að myndunum þínum.	
+304	Kannaðu kauða.	
+305	Þetta er stórfallegt.	
+306	Sjáðu þetta.	
+307	Á sínum tíma skreytti þetta konungshöll.	
+308	Indælt.	
+309	Því sagðirðu ekki að þú ynnir fyrir Corleone, Tom?	
+310	Ég taldi þig aula sem Johnny reyndi að blekkja mig með.	
+311	Ég nota ekki nafn hans nema nauðsyn beri til.	
+312	Er í lagi með drykkinn?	
+313	Allt í lagi.	
+314	Komdu hingað. Mig langar að sýna þér sanna fegurð.	
+315	Kanntu ekki að meta það sem fagurt er?	
+316	[NO TRANSLATION]	missing translation
+317	Sex hundruð þúsund dalir á fjórum hófum.	
+318	Rússakeisarar borguðu aldrei slíka fjárhæð fyrir hest.	
+319	Khartoum.	
+320	Khartoum.	
+321	Ég læt hann ekki keppa.	
+322	Ég nota hann aðeins til undaneldis.	
+323	Þakka þér fyrir, Tony.	
+324	Nú skulum við fá okkur matarbita.	
+325	Corleone er guðfaðir Johnnys.	
+326	Ítalar telja það trúarlegt, heilagt og náið samband.	
+327	Ég virði það.	
+328	Segðu honum að biðja mig um allt nema þetta.	
+329	En þennan greiða get ég ekki gert honum.	
+330	Hann biður aldrei um annan sé þeim fyrsta hafnað. <Skilurðu það?/>	missing English
+331	Þú skilur ekki.	
+332	Johnny Fontane fær aldrei hlutverkið.	
+333	Það hentar honum að öllu leyti.	
+334	Með því yrði hann að stórstjörnu.	
+335	Ég ætla að hrekja hann úr bransanum. Og ég skal segja þér hvers vegna.	
+336	Johnny Fontane eyðilagði mestu eign kvikmyndaversins.	
+337	Í fimm ár var hún í námi;	
+338	lærði söng, leiklist, Dans.	
+339	Ég eyddi hundruðum þúsunda dala í hana. Ég ætlaði að gera hana að stórstjörnu.	
+340	Og ég skal vera enn hreinskilnari.	
+341	Til að sýna að ég er ekki harðbrjósta maður;	
+342	málið snýst ekki bara um peninga.	
+343	Hún var gullfalleg.	
+344	Hún var ung, hún var saklaus.	
+345	Hún gaf þá bestu og ég hef gert það um allan heim.	
+346	Þá kemur Johnny Fontane með mjúku röddina og ítalska fasið	
+347	og hún stingur af.	
+348	Hún gaf skít í allt til að ég yrði að athlægi.	
+349	Maður í minni stöðu getur ekki orðið að athlægi.	
+350	Hunskastu héðan út!	
+351	Reyni sá ítalski einhvern hrottaskap þá segðu honum að ég sé enginn hljómsveitarstjóri.	
+352	Já, ég heyrði söguna.	
+353	Ég þakka kvöldverðinn og þægilegt viðmót.	
+354	Þú gætir kannski látið aka mér á flugvöllinn.	
+355	Corleone vill heyra slæm tíðindi tafarlaust.	
+356	Ertu of þreyttur, Tom?	
+357	Nei, ég svaf í flugvélinni.	
+358	Ég er með Solozzo-gögnin hérna.	
+359	[NO TRANSLATION]	missing translation
+360	Solozzo gengur undir nafninu Tyrkinn.	
+361	Hann er sagður mjög fær með kutann en aðeins í viðskiptum ef eitthvað fer úrskeiðis.	
+362	Hann fæst við fíkniefni.	
+363	Hann á valmúaakra í Tyrklandi	
+364	og verksmiðjur sem vinna það í heróín á Sikiley.	
+365	Hann þarf fé, vernd lögreglunnar	
+366	sem fær sinn hluta.	
+367	Hve mikið veit ég ekki.	
+368	Tattaglia-fjölskyldan styður hann í New York.	
+369	Eitthvað fá þeir fyrir sinn snúð.	
+370	Hefur hann setið inni?	
+371	Tvisvar. Á Ítalíu og hér.	
+372	Hann er höfuðpaurinn í fíkniefnunum.	
+373	Hvað finnst þér, Santino?	
+374	Það er stórfé í hvíta duftinu.	
+375	[NO TRANSLATION]	missing translation
+376	[NO TRANSLATION]	missing translation
+377	Það er meira upp úr fíkniefnum að hafa en nokkru öðru.	
+378	Ef við látum þau eiga sig skerast aðrir í leikinn. Kannski ein fjölskyldnanna, kannski allar.	
+379	Þá kaupa þær meiri lögreglu- vernd og pólitísk áhrif.	
+380	Síðan ráðast þær til atlögu við okkur.	
+381	Við eigum verkalýðsfélögin og spilavítin. Þau eru best en framtíðin er í fíkniefnunum.	
+382	Skerumst við úr leik þá hættum við öllu. Ég meina ekki núna, að tíu árum liðnum.	
+383	Jæja?	
+384	Hvert verður svar þitt, pabbi?	
+385	Jæja, Don Corleone.	
+386	Ég þarfnast manns sem á volduga vini.	
+387	Ég þarf miljón dala í reiðufé.	
+388	Ég þarf pólitíkusana sem þú hefur í vasanum eins og smámyntina.	
+389	Hvað fær fjölskylda mín fyrir vikið?	
+390	Þrjátíu prósent.	
+391	Að ári liðnu fáið þið 3-4 miljónir dala	
+392	og upphæðin fer hækkandi.	
+393	Hvað fær Tattaglia-fjölskyldan?	
+394	Þakklæti mitt.	
+395	Ég umbuna Tattaglia af mínum hluta.	
+396	Ég fæ þrjátíu prósent fyrir fjármögnun, pólitísk áhrif og lögverndina.	
+397	[NO TRANSLATION]	missing translation
+398	Því leitarðu til mín?	
+399	Verðskulda ég þessa rausn?	
+400	Ef þú telur miljón dala í reiðufé bara fjármögnun.. Skál, Don Corleone.	
+401	Ég kvaðst hitta þig að máli því mér var sagt að þú værir alvörumaður sem sýna ætti virðingu.	
+402	En ég verð að neita þér.	
+403	Ég skal segja þér ástæður mínar.	
+404	Það er rétt. Ég á marga vini í pólitík	
+405	en þeir yrðu ekki vinir ýkja lengi ef þeir vissu að ég fengist við fíkniefni en ekki fjárhættuspil sem þeir álíta meinlausan löst. En fíkniefni eru óþverraviðskipti.	
+406	Mig skiptir engu hvernig maður vinnur fyrir sér.	
+407	En þín starfsgrein er dálítið áhættusöm.	
+408	Vanti þig tryggingu fyrir þessari miljón mun Tattaglia-fjölskyldan ábyrgjast hana.	
+409	Ábyrgjast þeir fjárfestingu okkar?	
+410	Bíddu nú hægur.	
+411	Ég er veikgeðja gagnvart börnum mínum og hef spillt þeim eins og þú sérð.	
+412	Þau tala þegar þau eiga að hlusta.	
+413	Hvað um það?	
+414	Synjun mín er endanleg, Sollozzo.	
+415	Ég óska þér velgengni með nýju viðskiptin,	
+416	[NO TRANSLATION]	missing translation
+417	einkum þar sem þau rekast ekki á mín.	
+418	Þakka þér fyrir.	
+419	Santino.	
+420	Komdu hérna.	
+421	Hvað gengur að þér?	
+422	Ég held að þér sé farið að förlast af leikjum þínum við stelpuna.	
+423	Segðu aldrei neinum utan fjöl- skyldunnar hvað þú hugsar.	
+424	Áfram með þig.	
+425	Hvaða vitleysa er þetta?	
+426	Þau eru frá Johnny.	
+427	Hann er stjarnan í nýju kvikmyndinni.	
+428	Fjarlægðu þetta.	
+429	Burt með þetta.	
+430	Segðu Luca Brasi að koma inn.	
+431	Ég hef dálitlar áhyggjur af þessum Sollozzo-dela.	
+432	Ég vil að þú komist að hvað hann er að bralla.	
+433	Farðu til Tattaglia-manna,	
+434	gefðu í skyn að þú sért ekki ánægður með okkur og viltu komast að því sem þú getur.	
+435	Ég er með pakka handa móður þinni og Sonny, bindi handa Freddy og penna handa Tom Hagen.	
+436	Hvað vilt þú í jólagjöf?	
+437	Bara þig.	
+438	[NO TRANSLATION]	missing translation
+439	Segðu Paulie að koma með bílinn. Við förum.	
+440	Allt í lagi, pabbi.	
+441	Ég sæki hann sjálfur.	
+442	Paulie tilkynnti veikindi í morgun.	
+443	Paulie er ágætur strákur.	
+444	Mér er alveg sama.	
+445	Gleðileg jól.	
+446	Ég þakka.	
+447	[NO TRANSLATION]	missing translation
+448	Ég heiti Bruno Tattaglia.	
+449	Ég veit það. <Viltu gamalt viskí? Ég drekk ekki./>	missing English
+450	Veistu hver ég er?	
+451	Ég þekki þig.	
+452	Þú varst að ræða við menn Tattaglia.	
+453	Ég tel að við getum átt Viðskipti.	
+454	Mig vantar kraftakarl eins og þig.	
+455	Þú ert ekki sérlega ánægður með Corleone-fjölskylduna.	
+456	Viltu koma til mín?	
+457	Hvað fæ ég í staðinn?	
+458	50.000 dali til að byrja með.	
+459	Ekki sem verst.	
+460	Samþykkt?	
+461	[NO TRANSLATION]	missing translation
+462	Tom Hagen,	
+463	Gleðileg jól. <Þakka þér fyrir./>	missing English
+464	Gott að rekast á þig.	
+465	Ég á vantalað við þig.	
+466	Ég hef engan tíma.	
+467	Gefðu þér tíma, consigliere.	
+468	Sestu inn í bílinn.	
+469	Hvað er að angra þig?	
+470	Vildi ég drepa þig værirðu þegar dauður.	
+471	[NO TRANSLATION]	missing translation
+472	Bíddu andartak, Fredo. Ég ætla að kaupa nokkra ávexti.	
+473	[NO TRANSLATION]	missing translation
+474	Gleðileg jól.	
+475	Mig vantar ávexti. <Láttu mig fá þessa. Pabbi!/>	missing English
+476	Kynnirðu betur við mig ef ég væri nunna?	
+477	Eins og í sögunni.	
+478	Nei.	
+479	Kynnirðu betur við mig ef ég væri Ingrid Bergman?	
+480	Það er íhugandi.	
+481	[NO TRANSLATION]	missing translation
+482	Ég kynni ekki betur við þig þótt þú værir Ingrid Bergman.	
+483	<Michael../> Hvað er að?	missing English
+484	Hér stendur ekki hvort hann er lífs eða liðinn.	
+485	Þetta er Michael.	
+486	Hvar hefurðu verið?	
+487	Er hann á lífi?	
+488	Það er ekki vitað ennþá.	
+489	Sögusagnir eru á kreiki.	
+490	Hann er illa særður, Michael.	
+491	Ertu þarna?	
+492	Já.	
+493	Hvar varstu?	
+494	Ég var kvíðinn.	
+495	Gat Tom þess ekki að ég hefði hringt?	
+496	Nei.	
+497	Komdu heim.	
+498	Þú átt að vera hjá mömmu, heyrirðu það? <Allt í lagi./>	missing English
+499	Guð minn góður.	
+500	[NO TRANSLATION]	missing translation
+501	Bíddu hérna.	
+502	Hver er þetta?	
+503	Opnaðu dyrnar. Þetta er Clemenza.	
+504	Meiri tíðindi af föður þínum.	
+505	Sögusagnir herma að hann sé dáinn.	
+506	Hvað gengur að þér?	
+507	Stilltu þig, í guðanna bænum.	
+508	Hvar var Paulie?	
+509	[NO TRANSLATION]	missing translation
+510	Hann hefur oft verið lasinn í vetur.	
+511	Hve oft hefur hann verið lasinn?	
+512	Bara þrisvar, fjórum sinnum.	
+513	Freddy taldi óþarft að ég útvegaði annan lífvörð.	
+514	Gerðu mér nú greiða. Sæktu hann í hvelli.	
+515	Mér er sama hversu veikur hann er.	
+516	Komdu með hann.	
+517	Viltu að ég sendi fleiri menn?	
+518	Nei, bara við.	
+519	[NO TRANSLATION]	missing translation
+520	Ég læt nokkra menn koma hingað.	
+521	[NO TRANSLATION]	missing translation
+522	Santino Corleone?	
+523	Já.	
+524	Við höfum Tom Hagen.	
+525	Eftir þrjá tíma verður honum sleppt með tilboð okkar.	
+526	Hlustaðu á hvað hann segir áður en þú gerir nokkuð.	
+527	Það sem gert er er gert.	
+528	Misstu nú ekki stjórn á skapsmunum þínum.	
+529	Ég stilli mig.	
+530	Húsbóndi þinn er dáinn.	
+531	Ég veit að þú ert ekki í vöðvadeildinni, Tom. Því vil ég ekki að þú sért kvíðinn.	
+532	Ég vil að þú hjálpir Corleone-fjölskyldunni og ég vil að þú hjálpir mér.	
+533	Við drápum hann klukkutíma eftir að við gómuðum þig.	
+534	Drekktu þetta.	
+535	Nú hvílir á þér að semja frið milli okkar Sonnys.	
+536	Hafði Sonny ekki áhuga á tilboði mínu?	
+537	Hann vissi að það var viturlegt.	
+538	Sonny lætur einskis ófreistað að negla þig.	
+539	Vissulega verða það fyrstu viðbrögð hans.	
+540	Því þarftu að koma vitinu fyrir hann.	
+541	Tattaglia-fjölskyldan styður mig af alefli.	
+542	Hinar fjölskyldurnar í New York sættast á þetta til að hindra styrjöld.	
+543	Með allri virðingu, Tom. Doninum, hvíli hann í friði, var farið að förlast.	
+544	Hefði ég komist að honum fyrir tíu árum?	
+545	Nú er hann dáinn. Hann er dáinn og ekkert fær því breytt.	
+546	Þú verður því að tala við Sonny. Þú verður að tala við liðsforingjana; þennan Tessio og feita Clemenza.	
+547	Þetta eru ábatasöm viðskipti, Tom.	
+548	Ég skal reyna.	
+549	En jafnvel Sonny fær ekki haldið aftur af Luca Brasi.	
+550	[NO TRANSLATION]	missing translation
+551	Láttu mig um Luca.	
+552	Talaðu bara við Sonny.	
+553	Og hina bræðurna.	
+554	Ég geri, mitt besta.	
+555	Ágætt.	
+556	Nú máttu fara.	
+557	Mér er illa við ofbeldi, Tom.	
+558	Ég er kaupsýslumaður.	
+559	Blóð er afar kostnaðarsamt.	
+560	Hann er enn á lífi.	
+561	Hann varð fyrir fimm skotum og er enn á lífi.	
+562	Það boðar mér ógæfu og þér ógæfu ef þú gengur ekki frá þessu.	
+563	Móðir þín er á spítalanum hjá föður þínum.	
+564	Hann ætlar að tóra, Guði sé lof.	
+565	<Hvernig líst þér á, lagsi?/> Það er mikið blóð.	missing English
+566	Sollozzo, Philip Tattaglia..	
+567	Ætlarðu að drepa alla þessa menn?	
+568	Gerðu mér greiða og skiptu þér ekki af þessu, Mikey.	
+569	Sollozzo er lykilmaðurinn. Losaðu þig við hann.	
+570	En hvað um Luca?	
+571	Sollozzo telur..	
+572	Hafi Luca svikið er okkur mikill vandi á höndum.	
+573	Hefur tekist að ná sambandi við Luca?	
+574	Ég reyndi í alla nótt. <Hann gæti verið hjá kvensu./>	missing English
+575	Hringdu til Luca..	
+576	<Hann sefur aldrei hjá kvenmanni. Hann fer heim þegar hann hefur lokið sér af./>	missing English
+577	Þú ert ráðgjafinn, Tom.	
+578	Hvað ef sá gamli deyr?	
+579	Ef við missum gamla manninn töpum við pólitísku sambönd- unum og miklum styrk.	
+580	Hinar fjölskyldurnar gætu snúist á sveif með Sollozzo til að forðast löng og mannskæð átök.	
+581	Nú er næstum 1946.	
+582	Enginn vill meira blóðbað.	
+583	Ef faðir þinn deyr gengurðu til samninga, Sonny.	
+584	Þú getur trútt um talað.	
+585	Hann er ekki faðir þinn.	
+586	Ég var honum sonur ekki síður en þið Mike.	
+587	Hvað er nú?	
+588	Ég sagði þér að vera kyrr, Paulie.	
+589	Strákarnir við hliðið fengu einhvern pakka.	
+590	<Allt í lagi./> Kannaðu málið, Tessio.	missing English
+591	Viltu að ég hinkri?	
+592	Já.	
+593	Er allt í lagi?	
+594	Mér líður prýðilega.	
+595	Það er matur í ísskápnum.	
+596	Ertu svangur?	
+597	Nei.	
+598	Fáðu þér koníak.	
+599	Þá svitnarðu.	
+600	[NO TRANSLATION]	missing translation
+601	Það er kannski skynsamlegt.	
+602	Sjáðu um þrjótinn umsvifalaust.	
+603	Paulie brást þeim gamla. <Það er á hreinu. Ég vil ekki sjá hann framar./>	missing English
+604	El' það skilið?	
+605	Já.	
+606	Farðu til Luca á morgun og bíddu þar átekta.	
+607	Það er óráðlegt að blanda Mike of mikið í málið.	
+608	Hinkraðu hérna og svaraðu í símann.	
+609	Reyndu Luca aftur. Drífðu í því.	
+610	Hver fjárinn er þetta?	
+611	Sikileysk skilaboð.	
+612	Nú sefur Luca Brasi hjá fiskunum.	
+613	Ég er farinn.	
+614	Hvenær kemurðu heim?	
+615	Ég veit það ekki. Sennilega seint.	
+616	Gleymdu ekki kökunum.	
+617	[NO TRANSLATION]	missing translation
+618	Sittu hinum megin, Rocco.	
+619	Þú skyggir á spegilinn.	
+620	Sonny er alveg að sleppa sér.	
+621	Hann er að íhuga að fara í flatsængina strax.	
+622	Við þurfum að finna stað í Vesturbænum.	
+623	Reyndu Vestur 309, 42. stræti.	
+624	Veistu um góða staði í Vesturbænum?	
+625	Ég skal íhuga það.	
+626	Aktu þá á meðan.	
+627	Ég vil komast til New York í þessum mánuði.	
+628	Fylgstu með börnunum þegar þú bakkar út.	
+629	Aktu niður á 39. stræti. Þar sækirðu átján dýnur og færir mér reikninginn. <Já, þeir hljóta að vita../>	missing English
+630	[NO TRANSLATION]	missing translation
+631	Sjáðu um að þær séu hreinar. Strákarnir híma þar ansi lengi.	
+632	Þær eru hreinar. Óværu var útrýmt.	
+633	Óheppilega að orði komist.	
+634	Óværu útrýmt.	
+635	Við gætum útrýmt þér. <Þessi var góður./>	missing English
+636	Stansaðu hérna smástund.	
+637	Ég þarf að spræna.	
+638	Skildu byssuna eftir.	
+639	Taktu kökurnar.	
+640	[NO TRANSLATION]	missing translation
+641	Heyrðu, Mikey.	
+642	Já.	
+643	Síminn til þín.	
+644	Hver er í símanum?	
+645	Einhver stúlka.	
+646	[NO TRANSLATION]	missing translation
+647	[NO TRANSLATION]	missing translation
+648	Hvernig líður föður þínum?	
+649	Honum líður vel. Hann lifir þetta af.	
+650	Ég elska þig.	
+651	Ég elska þig, Michael.	
+652	[NO TRANSLATION]	missing translation
+653	Já, ég veit.	
+654	Segðu að þú elskir mig.	
+655	Ég get ekki talað hér.	
+656	Geturðu ekki sagt það?	
+657	Við sjáumst í kvöld.	
+658	Því segirðu stúlkunni ekki að þú elskir hana?	
+659	Ég elska þig af öllu hjarta..	
+660	Ég dey sjái ég þig ekki fljótlega.	
+661	Komdu hingað, strákur. Lærðu nú til verka.	
+662	Þú gætir einhvern tíma þurft að elda handa 20 manns.	
+663	Maður byrjar með ofurlítilli olíu. Síðan steikir maður hvítlauk.	
+664	Síðan bætirðu tómötum og tómatsósu í, steikir og gætir þess að það klessist ekki.	
+665	Maður lætur það sjóða og bætir svo pylsunum og kjötbollunum út í.	
+666	Örlítil sletta af víni	
+667	og ofurlítið af sykri.	
+668	Það er galdurinn.	
+669	Hættu þessu bulli.	
+670	Ég hef þarfari verk handa þér.	
+671	Hvernig líður Paulie?	
+672	Þú sérð ekki meira af Paulie.	
+673	Hvert, ertu að fara?	
+674	Í bæinn.	
+675	Sendu lífverði með honum.	
+676	Ég ætla bara á spítalann.. <Það skiptir engu. Sendu menn með honum./>	missing English
+677	Honum er óhætt.	
+678	Sollozzo veit að hann er borgari.	
+679	Vertu varkár.	
+680	Já, herra.	
+681	Sendu samt menn með honum.	
+682	Ég verð að fara.	
+683	Get ég komið með þér?	
+684	Nei.	
+685	Þarna verða rannsóknarlögreglumenn og blaðamenn.	
+686	Ég fer í leigubílnum.	
+687	Ég vil ekki að þú blandist í þetta.	
+688	Hvenær hittumst við aftur?	
+689	Farðu til New Hampshire. Ég hringi til þín hjá foreldrum þínum.	
+690	Hvenær hittumst við aftur?	
+691	Ég veit það ekki.	
+692	Hvað ertu að gera hér?	
+693	Þú átt ekki að vera hér.	
+694	Ég heiti Michael Corleone	
+695	og hann er faðir minn.	
+696	<Hér er enginn./> Hvað varð um verðina?	missing English
+697	Það var of mikill gesta- gangur hjá föður þínum.	
+698	Hann truflaði störfin á spítalanum.	
+699	Lögreglan sendi þá í burt fyrir tíu mínútum.	
+700	Long Beach 45620, takk.	
+701	[NO TRANSLATION]	missing translation
+702	Bíddu andartak.	
+703	Vertu kyrr hér.	
+704	Þetta er Michael. Ég er á spítalanum.	
+705	Ég kom hingað seint. Hér er enginn.	
+706	Engir manna Tessios. Engir lögreglumenn.	
+707	Pabbi er aleinn.	
+708	Rólegur. <Ég sendi menn./>	missing English
+709	Ég er rólegur.	
+710	Nú verðurðu að fara, því miður.	
+711	Við flytjum föður minn á aðra stofu.	
+712	Geturðu aftengt leiðslurnar svo að færa megi rúmið?	
+713	Það kemur ekki til mála.	
+714	Þekkirðu föður minn?	
+715	Hingað koma menn til að drepa hann.	
+716	Skilurðu það?	
+717	Hjálpaðu mér, gerðu það.	
+718	Hver ert þú?	
+719	Enzo bakari.	
+720	Manstu eftir mér?	
+721	Enzo?	
+722	Komdu héðan út, Enzo. Það kemur til vandræða.	
+723	Komi til vandræða vil ég hjálpa þér.	
+724	Vegna föður þíns.	
+725	[NO TRANSLATION]	missing translation
+726	Bíddu þá eftir mér fyrir utan spítalann.	
+727	Ég kem út rétt strax. Drífðu í því.	
+728	Liggðu hérna, pabbi.	
+729	Nú sé ég um þig.	
+730	Nú er ég hjá Þér -	
+731	Ég er hjá þér.	
+732	Fleygðu þessu.	
+733	[NO TRANSLATION]	missing translation
+734	Settu höndina í vasann eins og þú sért með byssu.	
+735	Þetta verður allt í lagi.	
+736	Þú spjarar þig. Þú stóðst þig vel.	
+737	Stakk ég bófunum ekki inn? <Hvað ertu að gera hér?/>	missing English
+738	Hvað varð um mennina sem gættu föður míns?	
+739	Úrþvættið þitt.	
+740	Hvað ertu að segja mér fyrir verkum?	
+741	Ég rak þá héðan.	
+742	Komdu þér í burtu frá spítalanum.	
+743	Ég fer ekki fyrr en þú setur vörð um föður minn.	
+744	Stingdu þeim inn, Phil.	
+745	Hann er óvopnaður.	
+746	Hann er stríðshetja.	
+747	Hann er ekki í bransanum.	
+748	Stingdu þeim inn, sagði ég.	
+749	Hvað borgar Tyrkinn þér fyrir að drepa föður minn?	
+750	[NO TRANSLATION]	missing translation
+751	Haldið honum.	
+752	Haldið honum uppréttum.	
+753	Ég er lögmaður Corleone- fjölskyldunnar.	
+754	Þetta eru einkaspæjarar sem vernda eiga Vito Corleone.	
+755	Þeir hafa leyfi til vopnaburðar.	
+756	Skiptirðu þér af því kemurðu fyrir dómara í fyrramálið og greinir frá ástæðum.	
+757	Sleppið honum.	
+758	Hvaða nýju menn eru þetta?	
+759	Við þurfum þeirra með.	
+760	Sonny gekk af göflunum eftir atvikið á spítalanum.	
+761	Við skutum Bruno Tattaglia klukkan fjögur í nótt.	
+762	Guð minn góður.	
+763	Þetta minnir á virki.	
+764	[NO TRANSLATION]	missing translation
+765	Hundrað menn á götunum allan sólarhringinn.	
+766	Sýni Tyrkinn sig er hann dauðans matur.	
+767	Komdu hingað, Mike. Leyfðu mér að sjá þig.	
+768	Þú ert fallegur.	
+769	[NO TRANSLATION]	missing translation
+770	<Takið nú eftir./> Tyrkinn vill tala.	missing English
+771	Hugsið ykkur ósvífnina í hundingjanum.	
+772	Skríður í felur í gær og vill fund í dag.	
+773	Hvað sagði hann?	
+774	Hvað sagði hann?	
+775	Hann vill að við sendum Michael að heyra tillögu	
+776	og segir tilboðið svo gott að við getum ekki hafnað því.	
+777	Hvað um Bruno Tattaglia?	
+778	Það hangir allt saman.	
+779	Bruno fellur óbættur vegna árásarinnar á pabba.	
+780	Við ættum að heyra hvað þeir hafa að segja.	
+781	Kemur ekki til mála.	
+782	Ekki núna, consigliere.	
+783	Engir fundir, umræður og Sollozzo-brellur.	
+784	<Þeir fá ein skilaboð./> Ég vil Sollozzo. Annars er allsherjarstríð.	missing English
+785	Því una hinir ekki.	
+786	Þá framselja þeir Sollozzo.	
+787	<Þetta vill faðir þinn ekki./> Þetta eru viðskipti, ekki persónudeilur.	missing English
+788	Þeir skutu föður minn.	
+789	Það voru líka Viðskipti.	
+790	Þá verða viðskiptin að gjalda fyrir það.	
+791	[NO TRANSLATION]	missing translation
+792	Engar ráðleggingar um að hjálpa upp á sakirnar.	
+793	Hjálpaðu mér bara að sigra.	
+794	Ég frétti um McCluskey sem kjálkabraut Mike. <Hvað um hann?/>	missing English
+795	Hann er á mála hjá Sollozzo. Og fær stórfé fyrir.	
+796	McCluskey féllst á að verða lífvörður Tyrkjans.	
+797	Þú verður að láta þér skiljast að Sollozzo er ósæranlegar í slíkri gæslu.	
+798	Enginn hefur nokkru sinni skotið aðalvarðstjóra hér.	
+799	Það væri hroðalegt. Fjölskyldurnar fimm yrðu á hælunum á þér;	
+800	Corleone-fjölskyldunni yrði útskúfað.	
+801	Pólitískir verndarar gamla mannsins láta sig hverfa.	
+802	Gerðu mér þann greiða	
+803	að íhuga þetta.	
+804	Þá það. Við bíðum.	
+805	Við getum ekki beðið.	
+806	<Hvað?/> Við getum ekki beðið.	missing English
+807	Einu gildir hvað Sollozzo býður. Hann drepur pabba.	
+808	Það skiptir öllu fyrir hann.	
+809	Það verður að drepa Sollozzo.	
+810	Mike hefur rétt fyrir sér.	
+811	Má ég spyrja þig að dálitlu?	
+812	Hvað um þennan McCluskey?	
+813	Hvað á að gera við lögguna?	
+814	Þeir vilja halda fund með mér.	
+815	Þar verð ég, McCluskey og Sollozzo.	
+816	Komdu fundinum í kring.	
+817	Láttu snuðrara okkar grafa upp hvar hann verður.	
+818	Við heimtum bar eða veitingastað	forced duplication
+819	Við heimtum bar eða veitingastað	forced duplication
+820	þar sem fólk er á ferð og ég tel mig óhultan.	
+821	Þeir leita á mér þegar ég hitti þá.	
+822	Því verð ég að vera óvopnaður.	
+823	En komi Clemenza auga á leið til að koma byssu fyrir handa mér drep ég þá báða.	
+824	<Hvað hyggstu fyrir?/> Háskólapiltur.	missing English
+825	Þú vildir engin afskipti af fjölskyldumálunum.	
+826	Þú vilt drepa yfirvarðstjóra fyrir að slá þig utan undir.	
+827	Heldurðu að þetta sé herinn þar sem skotið er af færi?	
+828	Þú skýtur þá í návígi. Heilaslettur á háskólafötin.	
+829	Þú tekur þetta afar persónulega.	
+830	Þetta eru Viðskipti en hann tekur þetta mjög persónulega.	
+831	Hvar er bannað að drepa löggu?	
+832	[NO TRANSLATION]	missing translation
+833	<Bíddu hægur, Tom./> Ég tala um löggu sem blönduð er í eiturlyfjasölu. Ég á við óheiðarlega löggu,	missing English
+834	gerspillta löggu, sem er á kafi í bransanum og fær það sem hún á skilið.	
+835	Þetta er stórfrétt.	
+836	Höfum við ekki menn á mála á blöðunum, Tom?	
+837	Þeir gætu gert sér mat úr slíkri frétt.	
+838	Það gætu þeir.	
+839	Þetta er ekki persónulegt.	
+840	Þetta eru hrein Viðskipti.	
+841	Það eru alls engin auðkenni á henni.	
+842	Útilokað að rekja hana. Hafðu engar áhyggjur af fingraförum, Mike.	
+843	Ég setti sérstakt límband á skeftið og gikkinn.	
+844	[NO TRANSLATION]	missing translation
+845	Hvað er að? Er gikkurinn of stífur?	
+846	Þvílíkur hávaði.	
+847	Já, ég vil hana þannig. Þá verða allir skíthræddir.	
+848	Þú hefur skotið þá báða.	
+849	Hvað gerirðu síðan?	
+850	Lýk við málsverðinn.	
+851	Enga vitleysu.	
+852	Þú lætur höndina síga með síðunni og lætur byssuna falla úr hendi þér.	
+853	Allir telja að þú sért enn með hana.	
+854	Það verður einblínt á andlitið á þér. Því gengurðu út, hröðum skrefum, en hleypur ekki.	
+855	Horfist ekki í augu við neinn en lítur samt ekki undan.	
+856	Allir verða skíthræddir. Þú hefur ekkert að óttast.	
+857	Það verður allt í lagi með þig.	
+858	Þú ferð í langt frí. Enginn veit hvar. Við leiðum þetta til lykta.	
+859	Hversu slæmt verður það?	
+860	Skratti slæmt.	
+861	Sennilega rísa hinar fjölskyldurnar gegn okkur.	
+862	Það er í lagi. Slíkt gerist á fimm, tíu ára fresti.	
+863	Menn gera upp sakirnar.	
+864	Það eru tíu ár síðan.	
+865	Það verður að stöðva þá í byrjun	
+866	eins og stöðva átti Hitler í München. Hann átti aldrei að komast upp með það.	
+867	Þá var skrattinn laus.	
+868	Við vorum hreyknir af þér.	
+869	Þú varst hetja og allt það.	
+870	Faðir þinn líka.	
+871	Ekkert.	
+872	Ekki orð.	
+873	Hreint ekki neitt.	
+874	Jafnvel menn Sollozzos vita ekki um fundarstaðinn.	
+875	Hvað höfum við mikinn tíma?	
+876	Þeir taka þig upp í hjá bar Jacks Dempsey eftir hálfan annan tíma.	
+877	Við gætum reynt að veita þeim eftirför.	
+878	Sollozzo stingur af í grænum hvelli.	
+879	Hvað um samningamanninn?	
+880	Hann situr að spilum heima hjá mér.	
+881	Hann er ánægður.	
+882	Þeir láta hann vinna.	
+883	Áhættan er of mikil fyrir Mike.	
+884	Hættum við þetta.	
+885	Samningamaðurinn spilar uns Mike snýr aftur heill á húfi.	
+886	Því skýtur hann ekki alla sem í bílnum eru?	
+887	Of hættulegt. Þeir búast við því.	
+888	Það er óvíst að Sollozzo sé í bílnum.	
+889	Ég svara. <Já. Já. Takk fyrir./>	missing English
+890	Veitingahús Louis í Bronx.	
+891	Er það ábyggilegt?	
+892	Þetta var minn maður á stöð McCluskeys.	
+893	Aðalvarðstjórinn er á vakt allan sólarhringinn.	
+894	Hann fer af stöðinni milli átta og tíu.	
+895	Kannist þið við staðinn?	
+896	Já, það geri ég.	
+897	Hann hentar okkur mjög vel.	
+898	Lítill fjölskyldustaður, góður matur.	
+899	Menn eru látnir í friði.	
+900	Alveg kjörinn.	
+901	Þar er gamaldags klósett.	
+902	Kassi og keðja.	
+903	Við gætum límt byssuna á bak við hann.	
+904	Þá það.	
+905	Mike fer á veitingastaðinn, borðar, spjallar og slakar á.	
+906	Lætur þá slaka á.	
+907	Síðan stendurðu upp og þarft að spræna.	
+908	Nei, enn betra.. Þú biður um leyfi til að fara.	
+909	Þegar þú kemur aftur læturðu þá fá það og hættu ekki á neitt.	
+910	Tvo skot í hausinn á hvorum um sig.	
+911	Stálábyggilegur maður kemur byssunni fyrir.	
+912	Ég vil ekki að bróðir minn komi tómhentur af kamrinum.	
+913	Byssan verður þar.	
+914	Þú ekur honum á staðinn og sækir hann á eftir.	
+915	Drífum þá í þessu.	
+916	Sagði hann þér að fleygja byssunni strax?	
+917	Margoft.	
+918	Gleymdu þessu ekki.	
+919	Tvo skot í hausinn á hvorum um sig þegar þú kemur út.	
+920	Hvað verður langt þar til ég get snúið heim?	
+921	Ár að minnsta kosti, Mike.	
+922	Ég geng frá þessu við mömmu. Þú hittir hana ekki.	
+923	Ég kem boðum til stúlkunnar þegar ég tel það tímabært.	
+924	Vertu varkár.	
+925	Farðu varlega, Mike.	
+926	Gott að þú komst, Mike.	
+927	Ég vona að við getum greitt úr flækjunni.	
+928	Þetta er óttalegt. Þetta vildi ég aldrei.	
+929	Þetta átti aldrei að gerast.	
+930	Ég ætla að greiða úr öllu í kvöld.	
+931	Ég vil ekki láta ónáða pabba framar.	
+932	Það verður ekki. Ég sver við börn mín að svo verður ekki.	
+933	En við þurfum að sýna lipurð í samningum.	
+934	Vonandi ertu ekki bráður eins og Sonny, bróðir þinn.	
+935	Það er ómögulegt að ræða Viðskipti við hann.	
+936	Hann er vænn strákur.	
+937	Mér þykir fyrir þessu um kvöldið.	
+938	Ég þarf að leita á þér. Snúðu þér við.	
+939	Farðu á hnén. Snúðu að mér.	
+940	Ég er víst orðinn of gamall í hettunni.	
+941	Geðillur.	
+942	Ég þoli ekki álagið.	
+943	Þú skilur það.	
+944	Hann er óvopnaður.	
+945	Er ferðinni heitið til Jersey?	
+946	Ef til vill.	
+947	Vel af sér vikið, Lou.	
+948	Hvernig er ítalski maturinn hérna?	
+949	Ágætur. Smakkaðu kálfakjötið.	
+950	Það besta í bænum.	
+951	Ég fæ mér það. Kálfakjötið.	
+952	Ég tala ítölsku við Mike.	
+953	Endilega.	
+954	Það sem ég vil,	
+955	það sem skiptir mig öllu máli, er að mér sé ábyrgst	
+956	að föður mínum verði ekki sýnt banatilræði framar.	
+957	Hvernig get ég ábyrgst það, Mike?	
+958	Ég er hundeltur.	
+959	Ég missti af tækifærinu.	
+960	Þú hefur of mikið álit á mér, væni.	
+961	Svo snjall er ég ekki.	
+962	Ég fer bara fram á vopnahlé.	
+963	Ég þarf að fara á snyrtinguna.	
+964	Er það í lagi?	
+965	Sé þér mál er þér mál.	
+966	Ég leitaði á honum.	
+967	Hann er óvopnaður.	
+968	Vertu ekki lengi.	
+969	Ég hef leitað á ótal strákhvolpum.	
+970	Taktu við.	
+971	Ég elska þig, afi.	
+972	Fyrirgefðu, pabbi.	
+973	Hann þekkir þig ekki ennþá.	
+974	[NO TRANSLATION]	missing translation
+975	Gefðu afa þetta.	
+976	[NO TRANSLATION]	missing translation
+977	Ég vona að þér batni, afi. Ég vona að við sjáum þig bráðlega.	
+978	Ástarkveðja. Þinn sonarsonur, Frank.	
+979	Farðu með mömmu þinni.	
+980	Farðu með þau niður.	
+981	Þú líka, Carlo.	
+982	[NO TRANSLATION]	missing translation
+983	Hvað er að þér, Carlo?	
+984	Þegiðu og sestu.	
+985	Síðan McCluskey var drepinn hefur lögreglan hindrað flest umsvif okkar.	
+986	Og hinna fjölskyldnanna.	
+987	Allt logar í ósætti.	
+988	Sé ráðist á okkur gjöldum við í sömu mynt.	
+989	Með samböndum okkar hjá dagblöðunum komum við miklu efni á framfæri um tengsl McCluskeys við Sollozzo-eiturlyfjasalana.	
+990	Það er að slakna á spennunni.	
+991	Ég sendi Fredo til Las Vegas undir vernd Don Francesco í L.A.	
+992	Ég vil að hann hvílist.	
+993	Ég ætla að læra spilavítareksturinn.	
+994	Hvar er Michael?	
+995	Það var Michael sem drap Sollozzo.	
+996	Hann er óhultur.	
+997	Unnið er að því að kalla hann heim.	
+998	Grófstu upp hvar sá gamli melludólgur Tattaglia er?	
+999	Ég vil ganga frá honum umsvifalaust.	
+1000	Spennan fer minnkandi, Sonny.	
+1001	Drepirðu Tattaglia fer allt í háaloft.	
+1002	<Látum mökkinn hverfa./> Pabbi getur samið.	missing English
+1003	Nei. Pabbi getur ekkert núna.	
+1004	Ég ákveð hvað gera skal.	
+1005	En stríð þitt kostar stórfé. Ekkert kemur inn.	
+1006	Viðskiptin eru lömuð.	
+1007	Þeim er eins farið.	
+1008	Kvíddu engu.	
+1009	Við höfum ekki efni á jafntefli.	
+1010	Það verður ekkert jafntefli.	
+1011	Ég drep gamla skúrkinn.	
+1012	Þú ert orðinn alræmdur. Vonandi nýturðu þess.	
+1013	Gerðu bara það sem ég segi þér.	
+1014	Hefði ég stríðsráðgjafa, Sikileying.	
+1015	Pabbi átti Genco.	
+1016	Hvað á ég?	
+1017	Fyrirgefðu.	
+1018	Ég meinti þetta ekki.	
+1019	Mamma útbjó málsverð.	
+1020	Það er sunnudagur.	
+1021	Negrarnir njóta lífsins þarna í Harlem.	
+1022	Aka á nýjum Cadillac-bílum og borga 50% í veðmálin.	
+1023	Ég átti von á því þegar þeir færu að stórgræða.	
+1024	Pabbi ræddi aldrei Viðskipti að börnunum áheyrandi.	
+1025	Þegiðu meðan Sonny talar.	
+1026	Henni segirðu ekki að þegja. Skilurðu það?	
+1027	Enga afskiptasemi.	
+1028	Mig langar að ræða við ykkur eftir matinn.	
+1029	Við gætum gert mun meira..	
+1030	Engin Viðskipti við borðið.	
+1031	Ég kyssi hönd þína, Don Tommasino.	
+1032	Því eruð þið svona fjarri húsinu?	
+1033	Ég ber ábyrgð á lífi þínu gagnvart föður þínum.	
+1034	Lífverðirnir eru hérna.	
+1035	Það er samt hættulegt.	
+1036	Við heyrðum frá Santino í New York.	
+1037	Óvinir þínir vita af þér hér.	
+1038	Gat Santino þess hvenær ég gæti snúið heim?	
+1039	Ekki strax.	
+1040	Það er útilokað.	
+1041	Hvert ætlarðu núna?	
+1042	Til Corleones.	
+1043	Taktu bílinn minn.	
+1044	Nei. Ég vil ganga.	
+1045	Vertu varkár.	
+1046	<Michael. Corleone./> Hvað varð um karlmennina?	missing English
+1047	Þeir eru dauðir. Blóðhefndir.	
+1048	Þarna eru nöfn hinna dauðu.	
+1049	Taktu mig með til Bandaríkjanna.	
+1050	Taktu mig með, hermaður.	
+1051	[NO TRANSLATION]	missing translation
+1052	Bandaríkin.	
+1053	Taktu mig með.	
+1054	[NO TRANSLATION]	missing translation
+1055	Hvílík fegurð.	
+1056	Þú varðst fyrir þrumu, held ég.	
+1057	Á Sikiley eru konur hættulegri en byssur.	
+1058	Veidduð þið vel?	
+1059	Þekkirðu allar stúlkurnar hérna?	
+1060	Við sáum nokkrar fegurðardísir.	
+1061	Ein þeirra hitti vin okkar eins og þruma.	
+1062	Hún gæti leitt Kölska sjálfan í freistni.	
+1063	Vöxturinn var svona.	
+1064	[NO TRANSLATION]	missing translation
+1065	Þvílíkt hár, þvílíkur munnur.	
+1066	Stúlkurnar hérna eru fagrar en dyggar.	
+1067	Þessi var í rauðum kjól.	
+1068	Með rauðan borða í hárinu.	
+1069	Hún var grísk í útliti fremur en ítölsk.	
+1070	Þekkirðu hana?	
+1071	Nei! Engin slík stúlka er hér í bænum.	
+1072	Nú skil ég.	
+1073	Hvað er að?	
+1074	Drífum okkur.	
+1075	Hún er dóttir hans.	
+1076	Segðu honum að koma.	
+1077	Kallaðu á hann.	
+1078	Þú túlkar, Fabrizio.	
+1079	Ég biðst afsökunar hafi ég móðgað þig.	
+1080	Ég er aðkomumaður í landinu.	
+1081	Ég vildi hvorki sýna þér né dóttur þinni vanvirðu.	
+1082	Ég er Bandaríkjamaður í felum á Sikiley.	
+1083	Ég heiti Michael Corleone.	
+1084	Sumir greiddu offjár fyrir slíkar upplýsingar.	
+1085	En þá missti dóttir þín föður í stað eiginmanns.	
+1086	Ég vil hitta dóttur þína	
+1087	með þínu leyfi og undir stjórn fjölskyldu þinnar.	
+1088	Með allri virðingu.	
+1089	Komdu heim til mín á sunnudag.	
+1090	[NO TRANSLATION]	missing translation
+1091	Hvað heitir hún? <Apollonia. Þetta er dóttir mín. Þetta er Michael Corleone./>	missing English
+1092	Ég geng af þér dauðri.	
+1093	Gerðu þetta á bókasafninu.	
+1094	Við þurfum að sækja systur mína. Af stað.	
+1095	Hvað er að?	
+1096	Hvað er að?	
+1097	Það var mín sök.	
+1098	Hvar er hann?	
+1099	Það var mín sök.	
+1100	Ég lamdi hann.	
+1101	Ég byrjaði að rífast.	
+1102	Ég barði hann fyrst.	
+1103	Ég næ í lækni og læt hann líta á þig.	
+1104	Ekki gera neitt. Gerðu ekki neitt.	
+1105	Hvað er að þér?	
+1106	Hvað ætti ég að gera?	
+1107	Geri ég barnið munaðarlaust áður en það fæðist?	
+1108	[NO TRANSLATION]	missing translation
+1109	Segðu þeim að hætta.	
+1110	Við töpuðum nógu um daginn.	
+1111	Komdu, Carlo.	
+1112	Skepnan þín. Ef þú snertir systur mína aftur þá drep ég þig.	
+1113	[NO TRANSLATION]	missing translation
+1114	Við bjuggumst ekki við þér.	
+1115	Þú áttir að hringja.	
+1116	Já, ég gerði það.	
+1117	Ég hef reynt að skrifa og hringja.	
+1118	Ég þarf að ná til Michaels.	
+1119	Enginn veit hvar hann er.	
+1120	Við vitum að hann er óhultur og ekki meira.	
+1121	Hvað var þetta?	
+1122	Þetta var slys. Enginn meiddist.	
+1123	Viltu afhenda Michael þetta bréf, Tom?	
+1124	[NO TRANSLATION]	missing translation
+1125	Ef ég veitti því viðtöku væri hægt að sanna fyrir rétti að ég vissi dvalarstað hans.	
+1126	<Sýndu þolinmæði, Kay./> Hann hefur samband við þig.	missing English
+1127	Ég lét leigubílinn fara. Má ég hringja á annan?	
+1128	Gerðu svo vel. Gakktu í bæinn.	
+1129	[NO TRANSLATION]	missing translation
+1130	Halló?	
+1131	Er Carlo þarna?	
+1132	Hver er þetta?	
+1133	Ég er vinkona Carlos.	
+1134	Viltu segja honum að ég verði sein fyrir í kvöld?	
+1135	[NO TRANSLATION]	missing translation
+1136	Maturinn er á borðinu.	
+1137	Ég er ekki svangur.	
+1138	Hann kólnar.	
+1139	Ég borða úti á eftir.	
+1140	Þú sagðir mér að elda.	
+1141	Hættu þessu nöldri.	
+1142	[NO TRANSLATION]	missing translation
+1143	Helvítis Ítalatæfan þín.	
+1144	Brjóttu allt og bramlaðu, fordekraða tæfa.	
+1145	[NO TRANSLATION]	missing translation
+1146	Því býðurðu ekki hórunni heim í málsverð?	
+1147	Kannski geri ég það.	
+1148	Hreinsaðu allt upp.	
+1149	Ég held nú síður.	
+1150	Hreinsaðu allt upp, dekurrófan þín.	
+1151	Hreinsaðu allt upp.	
+1152	[NO TRANSLATION]	missing translation
+1153	[NO TRANSLATION]	missing translation
+1154	[NO TRANSLATION]	missing translation
+1155	[NO TRANSLATION]	missing translation
+1156	[NO TRANSLATION]	missing translation
+1157	[NO TRANSLATION]	missing translation
+1158	[NO TRANSLATION]	missing translation
+1159	[NO TRANSLATION]	missing translation
+1160	Dreptu.	
+1161	Vertu morðingi eins og faðir þinn.	
+1162	Corleone eru morðingjar.	
+1163	Ég hata þig.	
+1164	[NO TRANSLATION]	missing translation
+1165	Komdu út.	
+1166	Ég hata þig.	
+1167	Gerðu það bara. Nú drep ég þig.	
+1168	Ítalatæfa.	
+1169	Út með þig.	
+1170	Hvað er að, Connie?	
+1171	Ég heyri ekki til þín. Hvað er að?	
+1172	Talaðu hærra.	
+1173	Barnið grætur.	
+1174	Ég skil þetta ekki, Santino.	
+1175	[NO TRANSLATION]	missing translation
+1176	Já, Connie.	
+1177	Bíddu þarna.	
+1178	Nei, bíddu þarna.	
+1179	Helvískur hundinginn!	
+1180	Helvískur hundinginn!	
+1181	Hvað er að, Sonny? <Hundinginn. Hvað er að?/>	missing English
+1182	Opnaðu hliðskrattann.	
+1183	Fljótur nú.	
+1184	[NO TRANSLATION]	missing translation
+1185	[NO TRANSLATION]	missing translation
+1186	Komdu út úr bílnum, Sonny.	
+1187	Eltið hann.	
+1188	Hundingi.	
+1189	Komdu þér af stað.	
+1190	Gefðu mér dropa.	
+1191	Konan mín grætur uppi.	
+1192	Ég heyri bíla renna í hlað.	
+1193	Ráðgjafi minn.. Segðu Don þínum það sem allir virðast vita.	
+1194	Ég sagði mömmu ekki neitt.	
+1195	Ég ætlaði að fara að vekja þig og segja þér einum.	
+1196	En þurftir drykk fyrst.	
+1197	Já.	
+1198	Nú hefurðu fengið þinn drykk..	
+1199	Þeir skutu Sonny. Á hraðbrautinni.	
+1200	Hann er dáinn.	
+1201	Ég vil enga rannsókn.	
+1202	Ég vil engar hefndir.	
+1203	Ég vil að þú komir á fundi með fjölskyldufeðrunum fimm.	
+1204	Nú hættir þetta stríð.	
+1205	Hringdu í Bonasera.	
+1206	Ég þarfnast hans núna.	
+1207	Þetta er Tom Hagen.	
+1208	Ég hringi að beiðni Vitos Corleone.	
+1209	Doninn á inni hjá þér greiða.	
+1210	Hann efast ekki um að þú greiðir hann.	
+1211	Hann kemur til útfarar- stofunnar eftir klukkutíma.	
+1212	Vertu þar að heilsa honum.	
+1213	Jæja, vinur minn. Geturðu endurgoldið mér greiðann?	
+1214	Já,	
+1215	hvers óskarðu?	
+1216	Ég vil að þú beitir öllum kröftum þínum og hæfni.	
+1217	Ég vil ekki að móðir hans sjái hann svona útleikinn.	
+1218	Sjáðu hvernig sonur minn var leikinn.	
+1219	Það þarf að kenna þér ensku.	
+1220	Ég kann ensku.	
+1221	Mánudagur, þriðjudagur, fimmtudagur, miðvikudagur, föstudagur, sunnudagur, laugardagur..	
+1222	Komdu sæll, Don Tommasino.	
+1223	Hvernig gengur í Palermo?	
+1224	Michael kennir mér á bíl.	
+1225	Ég skal sýna þér.	
+1226	Hvernig gengur í Palermo?	
+1227	Unga fólkið virðir ekkert lengur.	
+1228	Allt breytist til hins verra.	
+1229	Þessi staður er orðinn of hættulegur fyrir þig.	
+1230	Ég vil að þú flytjir í hús nærri Sýrakúsu. Þegar í stað. Umsvifalaust.	
+1231	Hvað er að?	
+1232	Slæmar fréttir frá Bandaríkjunum.	
+1233	Þeir drápu Santino, bróður þinn.	
+1234	Drífum okkur nú.	
+1235	Þú lofaðir því.	
+1236	[NO TRANSLATION]	missing translation
+1237	Komdu með bílinn.	
+1238	Ekurðu sjálfur, húsbóndi? <Já./>	missing English
+1239	Kemur konan þín með þér?	
+1240	Nei. Farðu með hana til föður hennar þar sem hún er óhult.	
+1241	Eins og þú vilt, húsbóndi.	
+1242	Hvar er Apollonia?	
+1243	Hún vill koma þér á óvart.	
+1244	Hún ætlar að aka.	
+1245	Hún verður góð, bandarísk kona.	
+1246	Ég sæki farangurinn.	
+1247	Fabrizio.	
+1248	Hvert ertu að fara?	
+1249	Bíddu þarna, Michael.	
+1250	Ég ek til þín.	
+1251	Ekki, Apollonia..	
+1252	Ég þakka þér fyrir að undirbúa þennan fund í dag, Don Barzini. Og leiðtogum fjölskyldna í New York, New Jersey..	
+1253	Carmen Coleano frá Bronx og Brooklyn. Philip Tattaglia.	
+1254	Og frá Staten Island er hér meðal vor Victor Strachi.	
+1255	Og öðrum félögum sem komu frá Kaliforníu, Kansas City og öðrum landshlutum.	
+1256	[NO TRANSLATION]	missing translation
+1257	Hvernig gat þetta gengið svona langt?	
+1258	Það veit ég ekki.	
+1259	Það var svo hörmulegt og óþarft.	
+1260	Tattaglia missti son, ég missti son.	
+1261	Við erum jafnir.	
+1262	Ef Tattaglia er sammála er ég fús til að láta allt standa óhaggað.	
+1263	Við þökkum Don Corleone fyrir að boða til fundarins.	
+1264	Allir þekkjum við hann að orðheldni.	
+1265	Hann er hógvær maður sem lætur skynsemina ráða.	
+1266	Já, Don Barzini.	
+1267	Hann er of hógvær.	
+1268	Hann hafði alla dómara og pólitíkusa í vasanum.	
+1269	Hann neitaði að deila þeim.	
+1270	Hvenær neitaði ég manni um greiða?	
+1271	Þið þekkið mig allir.	
+1272	Hvenær hef ég neitað nema einu sinni?	
+1273	Og hvers vegna?	
+1274	Ég tel að fíkniefnasalan tortími okkur með tímanum.	
+1275	Þau eru ólík fjárhættuspili, sprútti, jafnvel kvenfólki. Eftir slíku sækja flestir en kirkjan forbýður slíkt.	
+1276	Jafnvel lögreglan aðstoðaði við spilavítin en neitar um hjálp þegar um fíkniefni er að ræða.	
+1277	Ég trúði því þá og ég trúi því enn.	
+1278	Tímarnir eru breyttir.	
+1279	Þeir eru ekki eins og forðum þegar maður gat allt.	
+1280	Synjun er ekki viðbrögð vinar.	
+1281	Hafi Don Corleone átt dómara og pólitíkusa í New York þá bar honum að láta aðra njóta þess.	
+1282	Hann verður að hleypa okkur að brunninum.	
+1283	Vissulega getur hann lagt fram reikning fyrir slíkt,	
+1284	enda erum við ekki kommúnistar.	
+1285	Ég er líka á móti eiturlyfjum.	
+1286	Árum saman borgaði ég mönnum mínum aukalega fyrir að forðast slík Viðskipti.	
+1287	Síðan kom einhver og sagði. Ég býð duft.	
+1288	Þú leggur fram 3-4.000 dali og við græðum 50.000 dali á dreifingunni.	
+1289	Slíkt standast þeir ekki.	
+1290	Ég vil stjórna þessu eins og fyrirtæki. Halda þessu virðulegu.	
+1291	Halda því fjarri skólum og börnum.	
+1292	Slíkt er svívirða.	
+1293	Í minni borg yrði dreift til þeldökkra, svertingja.	
+1294	Það eru skepnur hvort sem er. Þeir mega glata sálu sinni.	
+1295	Ég var að vona að við gætum rætt málin af sanngirni.	
+1296	Sem sanngjarn maður geri ég það sem nauðsyn krefur til að finna friðsamlega lausn á þessu vandamáli.	
+1297	Þá erum við sammála.	
+1298	Sala fíkniefna skal leyfð undir eftirliti.	
+1299	Don Corleone veitir vernd á Austurströndinni og þar með er friður tryggður.	
+1300	En ég þarf öruggt loforð Corleones.	
+1301	Þegar frá líður og staða hans styrkist, reynir hann þá eigin blóðhefndir?	
+1302	Við erum allir sanngjarnir menn.	
+1303	Við þurfum ekki að veita tryggingu eins og lögmenn.	
+1304	Þú talar um hefnd.	
+1305	Færir hefndin þér son þinn aftur?	
+1306	Eða mér son minn?	
+1307	Ég afneita hefndum fyrir son minn.	
+1308	En ástæður mínar eru eigingjarnar.	
+1309	Yngsti sonur minn hrökklaðist úr landi vegna þessa Sollozzo-máls.	
+1310	Ég þarf að gera ráðstafanir til að fá hann til baka, heilan á húfi,	
+1311	hreinsaðan af öllum falsákærum.	
+1312	En ég er hjátrúarfullur	
+1313	og ef hann yrði fyrir slysi, ef lögreglumaður skyti hann í höfuðið, ef hann hengdi sig í fangaklefa eða yrði fyrir eldingu, þá kenni ég einhverjum hér inni um slíkt.	
+1314	Slíkt fyrirgef ég ekki.	
+1315	Að því frátöldu þá sver ég við sálir barnabarna minna að ég rýf ekki þann frið sem við sömdum um í dag.	
+1316	Á ég að krefjast af Tattaglia að eiturlyfjasalarnir séu ekki á sakaskrá?	
+1317	Nefndu það,	
+1318	ekki krefjast þess.	
+1319	Barzini veit þetta þótt það sé ekki nefnt.	
+1320	Þú meinar Tattaglia.	
+1321	Hann er melludólgur.	
+1322	Hann hefði aldrei snúið á Santino.	
+1323	En ég vissi ekki fyrr en í dag að Barzini stóð á bak við þetta.	
+1324	Komdu nú, Nancy.	
+1325	Haldið hópinn.	
+1326	[NO TRANSLATION]	missing translation
+1327	[NO TRANSLATION]	missing translation
+1328	Hvað er langt síðan þú komst?	
+1329	Ég kom fyrir ári.	
+1330	Mér þótti það lengra.	
+1331	Gaman að sjá þig, Kay.	
+1332	Nú starfa ég hjá föður mínum.	
+1333	Hann hefur verið veikur.	
+1334	Mjög veikur.	
+1335	Þú ert ólíkur honum.	
+1336	Þú ætlaðir ekki að feta í fótspor hans.	
+1337	Faðir minn er eins og aðrir valdamenn.	
+1338	Allir þeir sem ábyrgð bera á öðrum,	
+1339	öldungadeildarmenn, forsetar.	
+1340	Mikið ertu barnalegur.	
+1341	Nú?	
+1342	Þingmenn og forsetar láta ekki drepa menn.	
+1343	Hver er nú barnalegur?	
+1344	Aðferðir föður míns eru úreltar.	
+1345	Hann gerir sér grein fyrir því.	
+1346	Að fimm árum liðnum verður Corleone-fjölskyldan lögmæt.	
+1347	[NO TRANSLATION]	missing translation
+1348	Meira segi ég þér ekki um umsvif mín.	
+1349	[NO TRANSLATION]	missing translation
+1350	Af hverju komstu hingað, Michael?	
+1351	[NO TRANSLATION]	missing translation
+1352	Hvað viltu mér eftir allan þennan tíma?	
+1353	Ég hringdi og skrifaði..	
+1354	Ég kom vegna þess að ég þarfnast þín.	
+1355	Mér er annt um þig.	
+1356	Hættu þessu, Michael.	
+1357	Af því...	
+1358	að ég vil giftast þér.	
+1359	Það er um seinan.	
+1360	[NO TRANSLATION]	missing translation
+1361	Ég geri hvaðeina til að bæta fyrir það sem henti okkur.	
+1362	Það skiptir sköpum, Kay.	
+1363	Það sem máli skiptir er að eiga hvort annað að.	
+1364	Að við eyðum lífinu saman.	
+1365	Að við eignumst börn.	
+1366	Börnin okkar.	
+1367	Ég þarfnast þín, Kay.	
+1368	Og ég elska þig.	
+1369	Menn Barzinis laumast inn á mitt svæði óátalið.	
+1370	Brátt get ég hvergi hengt hatt minn í Brooklyn.	
+1371	Vertu þolinmóður.	
+1372	Ég bið ekki um aðstoð.	
+1373	Losaðu bara handjárnin.	
+1374	Vertu þolinmóður.	
+1375	Við verðum að snúast til varnar.	
+1376	Má ég fá mér liðsauka?	
+1377	Nei.	
+1378	Ég vil ekki gefa Barzini átyllu til að berjast.	
+1379	Þú hefur rangt fyrir þér, Mike.	
+1380	Don Corleone.	
+1381	Þú sagðir að sá dagur kæmi að við Tessio mynduðum fjölskyldur.	
+1382	Fram að þessu trúði ég því ekki.	
+1383	Nú bið ég um heimild þína.	
+1384	Michael leiðir fjölskylduna.	
+1385	Veiti hann heimild fylgir því mín blessun.	
+1386	Þegar við erum fluttir til Nevada getið þið starfað upp á eigin spýtur. <Þegar við erum fluttir til Nevada./>	missing English
+1387	Hvenær verður það?	
+1388	Eftir hálft ár.	
+1389	Þegar þú hverfur, guðfaðir, lendum við Pete undir hælnum á Barzini.	
+1390	Ég hata þennan skrattans Barzini.	
+1391	Eftir hálft ár verður ekkert til að byggja á.	
+1392	Treystirðu dómgreind minni?	
+1393	Já.	
+1394	Nýt ég hollustu þinnar?	
+1395	Já, ævinlega, guðfaðir.	
+1396	Verið þá vinir Michaels	
+1397	og gerið eins og hann segir.	
+1398	Það er samið um atriði núna sem leysa allan vanda okkar og svara spurningum ykkar.	
+1399	Meira segi ég ekki núna.	
+1400	Þú ólst upp í Nevada, Carlo.	
+1401	Þegar við flytjum verður þú mín hægri hönd.	
+1402	Tom Hagen er ekki ráðgjafi lengur.	
+1403	Hann verður lögmaður okkar í Vegas.	
+1404	Þetta er ekki sneið til Toms en svona verður það.	
+1405	Hver er betri ráðgjafi en faðir minn?	
+1406	Fleira er það ekki.	
+1407	Þakka þér fyrir, pabbi.	
+1408	Ég gleðst fyrir þína hönd.	
+1409	Mike,	
+1410	af hverju er ég úr leik?	
+1411	Þú ert ekki stríðsráðgjafi, Tom.	
+1412	Það hitnar í kolunum þegar við flytjum.	
+1413	[NO TRANSLATION]	missing translation
+1414	Ég gaf Michael ráð.	
+1415	Ég áleit þig aldrei slæman ráðgjafa.	
+1416	Ég taldi Santino sáluga slæman Don.	
+1417	Michael nýtur fyllsta trausts míns eins og þú.	
+1418	Af vissum ástæðum máttu ekki blandast í það sem gerist.	
+1419	Ég gæti kannski hjálpað.	
+1420	Þú ert úr leik, Tom.	
+1421	Ég jafna mig ekki á því hvernig þú lítur út.	
+1422	Andlitið er ágætt.	
+1423	Lækninum tókst bærilega upp.	
+1424	Fékk Kay þig til þess?	
+1425	[NO TRANSLATION]	missing translation
+1426	Skiljið þær eftir hérna. <Við sinnum þeim seinna./>	missing English
+1427	Hann er þreyttur. Hann þarf hressingu.	
+1428	Ég skal opna dyrnar.	
+1429	[NO TRANSLATION]	missing translation
+1430	Velkomnir til Las Vegas.	
+1431	Þetta er allt fyrir þig.	
+1432	Hann stakk upp á því.	
+1433	Nú, Freddy, bróðir þinn..	
+1434	[NO TRANSLATION]	missing translation
+1435	Ég kem að vörmu spori.	
+1436	Allt Í lagi. Hafið ofan af fyrir þeim.	
+1437	Allt sem þú vilt, drengur.	
+1438	Hvaða stúlkur eru þetta?	
+1439	Þitt er að komast að því.	
+1440	Vísaðu þeim út, Fredo.	
+1441	[NO TRANSLATION]	missing translation
+1442	Ég er í viðskiptaerindum. <Fer á morgun./>	missing English
+1443	Rektu þær út.	
+1444	Ég er þreyttur.	
+1445	Losaðu okkur líka við hljómsveitina.	
+1446	Burt með ykkur.	
+1447	Svona nú.	
+1448	Út með ykkur!	
+1449	[NO TRANSLATION]	missing translation
+1450	[NO TRANSLATION]	missing translation
+1451	[NO TRANSLATION]	missing translation
+1452	[NO TRANSLATION]	missing translation
+1453	Komdu nú, elskan. Drífum okkur.	
+1454	Ég veit ekki hver skrattinn er að honum.	
+1455	Fyrirgefðu, elskan.	
+1456	[NO TRANSLATION]	missing translation
+1457	Hann er þreyttur..	
+1458	Hvað varð um Moe Greene?	
+1459	Hann þurfti að sinna einhverju.	
+1460	Það á að hringja í hann þegar ballið byrjar.	
+1461	Hringdu þá í hann.	
+1462	Hvernig líður þér, Johnny?	
+1463	Vel. Gaman að sjá þig.	
+1464	Við erum hreykin af þér.	
+1465	Þakka þér fyrir, Mike.	
+1466	Sestu niður, Johnny. Ég vil tala við þig.	
+1467	Doninn er einnig hreykinn af þér.	
+1468	Ég á honum allt að þakka.	
+1469	Hann veit vel hve þakklátur þú ert.	
+1470	Því vill hann biðja þig um greiða.	
+1471	Hvað get ég gert, Mike?	
+1472	Corleone-fjölskyldan hyggst hætta í ólífuviðskiptunum og setjast að hérna.	
+1473	Moe Greene vill selja okkur spilavítið og hótelið og það yrði þá með öllu í eigu fjölskyldunnar.	
+1474	[NO TRANSLATION]	missing translation
+1475	Ertu viss um það, Mike?	
+1476	Moe ann fyrirtækinu	
+1477	og hefur ekki minnst á neina sölu.	
+1478	Ég geri honum tilboð sem hann getur ekki hafnað.	
+1479	[NO TRANSLATION]	missing translation
+1480	Við teljum að skemmtiatriði laði gesti að spilavítinu.	
+1481	Við vonum að þú komir fram fimm sinnum á ári	
+1482	og fáir vini í kvikmynda- heiminum til þess líka.	
+1483	Við treystum á þig.	
+1484	Vitaskuld, Mike.	
+1485	Ég geri allt fyrir guðföður minn. <Þú veist það./>	missing English
+1486	Ágætt.	
+1487	[NO TRANSLATION]	missing translation
+1488	Sælir, strákar.	
+1489	Eru allir hérna?	
+1490	[NO TRANSLATION]	missing translation
+1491	Gott að sjá þig, Mike.	
+1492	Komdu sæll, Moe.	
+1493	Hefurðu allt sem þig vantar?	
+1494	Matsveinninn eldaði sérrétt. Lánstraustið er í lagi.	
+1495	Láttu alla fá spilapeninga í boði hússins.	
+1496	Er lánstraustið nógu gott til að kaupa þig út?	
+1497	Kaupa mig út?	
+1498	Spilavítið. Hótelið.	
+1499	Corleone-fjölskyldan vill kaupa þig út.	
+1500	Vill Corleone-fjölskyldan kaupa mig út?	
+1501	Nei, ég kaupi þig út. Þú kaupir mig ekki út.	
+1502	Spilavítið tapar fé.	
+1503	Við gætum lagfært það.	
+1504	Heldurðu að ég dragi mér fé, Mike?	
+1505	Þú ert óheppinn.	
+1506	Þið Ítalaskrattar eruð fáránlegir.	
+1507	Ég tók við Freddie þegar þið voruð í basli og síðan reynirðu að bola mér frá.	
+1508	Þú tókst við Freddie því að við fjármögnuðum spilavítið. Því Molinari-fjölskyldan ábyrgðist öryggi hans.	
+1509	Sé rætt um viðskipti, ræðum þá um Viðskipti.	
+1510	Já, við skulum ræða Viðskipti.	
+1511	Þið eruð búnir að vera.	
+1512	Corleone-fjölskyldan er búin.	
+1513	Guðfaðirinn er veikur.	
+1514	Barzini og fjölskyldurnar hrekja ykkur frá New York.	
+1515	Hvað heldurðu að hér sé á seyði? Heldurðu að þú komir hingað og takir hótelið frá mér?	
+1516	Ég talaði við Barzini.	
+1517	Ég get samið við hann og samt haldið hótelinu.	
+1518	Og því slóstu bróður minn utan undir á almannafæri?	
+1519	Það voru smámunir, Mike.	
+1520	Moe meinti ekkert með því.	
+1521	Hann rýkur upp á nef sér öðru hverju. En við Moe erum aldavinir. Er ekki svo, Moe?	
+1522	Ég rek fyrirtæki.	
+1523	Ég þarf stundum að grípa til harkalegra ráða.	
+1524	Okkur Freddie lenti saman. Ég þurfti að tuska hann til.	
+1525	Tuskaðirðu bróður minn til?	
+1526	Hann riðlast á tveimur þernum samtímis.	
+1527	Spilamenn fengu ekki drykkjarföng á borðin.	
+1528	Hvað gengur að þér?	
+1529	Ég fer til New York í fyrramálið.	
+1530	Hugleiddu verðið.	
+1531	Fjandinn hafi það.	
+1532	<Veistu hver ég er?/> Ég er Moe Greene.	missing English
+1533	Ég skoraði meðan þú fórst út með klappstýrum.	
+1534	Bíddu andartak, Moe.	
+1535	Mér datt dálítið í hug.	
+1536	Þú ert ráðgjafi, Tom.	
+1537	Talaðu við doninn..	
+1538	Bíðið nú hægir.	
+1539	Doninn er eiginlega hættur og Michael tekinn við.	
+1540	Viljirðu segja eitthvað þá segðu það við Michael.	
+1541	Þú talar ekki við Moe Greene á þennan hátt!	
+1542	[NO TRANSLATION]	missing translation
+1543	Þú ert eldri bróðir minn og mér þykir vænt um þig.	
+1544	Styddu aldrei neinn gegn fjölskyldunni framar.	
+1545	[NO TRANSLATION]	missing translation
+1546	Ég þarf að hitta föður minn og fólkið hans. Borðið því án mín.	
+1547	Við förum út um helgina.	
+1548	Við förum í bæinn. Sjáum leiksýningu og borðum. <Ég kafa því./>	missing English
+1549	Systir þín vill biðja þig um dálítið.	
+1550	Hún má biðja.	
+1551	Nei, hún er hrædd við það.	
+1552	Þau Carlo vilja að þú verðir guðfaðir drengsins þeirra.	
+1553	Við sjáum til.	
+1554	Viltu gera það?	
+1555	Ég skal hugleiða málið. Við sjáum til.	
+1556	[NO TRANSLATION]	missing translation
+1557	Barzini leggur fyrst til atlögu við þig.	
+1558	Hann boðar fund með manni sem þú treystir algerlega.	
+1559	Sem ábyrgist öryggi þitt.	
+1560	Á þeim fundi verðurðu ráðinn af dögum.	
+1561	Mér þykir vín betra en áður fyrr.	
+1562	Ég drekk meira af því.	
+1563	Það gerir þér gott, pabbi.	
+1564	Ég skal ekki segja.	
+1565	Ertu sæll með konuna þína og börnin?	
+1566	Alsæll.	
+1567	Ágætt.	
+1568	Fyrirgefðu að ég klifa á þessu Barzini-máli.	
+1569	Allt í lagi.	
+1570	Það er gamall Vani.	
+1571	Ég reyndi alltaf að forðast kæruleysi.	
+1572	Konur og börn mega vera kærulaus. Ekki karlarnir.	
+1573	Hvernig hefur drengurinn þinn það?	
+1574	Alveg ágætt.	
+1575	Hann líkist þér meira með degi hverjum.	
+1576	Hann slær mig út.	
+1577	Þriggja ára og getur lesið teiknimyndablöðin.	
+1578	Les teiknimyndablöðin.	
+1579	Láttu símamann fara yfir öll símtöl hingað og héðan.	
+1580	Ég er búinn að því. <Það gæti verið hver sem er./>	missing English
+1581	Ég sá um það.	
+1582	Alveg rétt.	
+1583	Ég gleymdi því.	
+1584	Hvað er að?	
+1585	Hvað er að angra þig?	
+1586	Ég sé um þetta.	
+1587	Ég sagðist sjá um þetta og ég sé um þetta.	
+1588	Ég vissi að Santino þurfti að stússast í þessu..	
+1589	Og Fredo.. jæja.	
+1590	Fredo var..	
+1591	En ég ætlaði þér aldrei þetta hlutskipti.	
+1592	Ég vann alla ævi til að sjá fjölskyldu minni farborða	
+1593	[NO TRANSLATION]	missing translation
+1594	og ég neitaði að vera eitthvert flón sem dansaði eftir nótum stórlaxanna.	
+1595	Ég afsaka ekkert.	
+1596	Þannig var líf mitt. Ég hélt að í fyllingu tímans héldir þú um strengina.	
+1597	Corleone öldungadeildarmaður.	
+1598	Corleone fylkisstjóri..	
+1599	Uppskafningur.	
+1600	[NO TRANSLATION]	missing translation
+1601	[NO TRANSLATION]	missing translation
+1602	En tíminn var ekki nægur.	
+1603	Ekki nægur tími.	
+1604	Við náum þangað, pabbi.	
+1605	Við náum þangað.	
+1606	Sá sem boðar þig á fundinn með Barzini, hann er svikarinn.	
+1607	Gleymdu því ekki.	
+1608	Má ég halda á henni?	
+1609	Má ég vökva þessa?	
+1610	Já, gerðu það.	
+1611	Vökvaðu þessa.	
+1612	Vertu varkár.	
+1613	Þú úðar því.	
+1614	Anthony,	
+1615	komdu hingað.	
+1616	Þetta er lagið.	
+1617	Setjum hana þarna.	
+1618	[NO TRANSLATION]	missing translation
+1619	[NO TRANSLATION]	missing translation
+1620	Stattu nú þarna.	
+1621	Gefðu mér appelsínu.	
+1622	Þetta er ný brella.	
+1623	[NO TRANSLATION]	missing translation
+1624	[NO TRANSLATION]	missing translation
+1625	Hvar ertu?	
+1626	<Leggstu niður./> Má ég segja við þig orð?	missing English
+1627	Barzini vill koma á fundi.	
+1628	Hann telur að við getum leyst ágreiningsmálin.	
+1629	Talaðirðu við hann?	
+1630	Já.	
+1631	Ég sé um öryggishliðina.	
+1632	Á mínu svæði.	
+1633	[NO TRANSLATION]	missing translation
+1634	Allt í lagi.	
+1635	Veistu hvernig þeir leggja til atlögu?	
+1636	Þeir koma á fundi í Brooklyn.	
+1637	Á svæði Tessios.	
+1638	Þar sem ég verð óhultur.	
+1639	Ég hélt að það yrði Clemenza, ekki Tessio.	
+1640	Þetta var snjall leikur.	
+1641	Tessio var snjallari.	
+1642	En ég bíð.	
+1643	Eftir skírnarathöfnina.	
+1644	Ég ákvað að verða guðfaðir barnsins hennar Conniear.	
+1645	Síðan hitti ég Don Barzini og Tattaglia	
+1646	og leiðtoga fjölskyldnanna.	
+1647	Trúirðu á Guð föður almáttugan, skapara himins og jarðar?	
+1648	Já.	
+1649	Trúirðu á Drottin vorn, Jesúm Krist?	
+1650	Já.	
+1651	Trúirðu á heilagan anda, heilaga kaþólska kirkju?	
+1652	Já.	
+1653	Michael Francis Rizzi. Afneitarðu djöflinum?	
+1654	Ég afneita honum.	
+1655	Og öllum verkum hans?	
+1656	Ég afneita þeim.	
+1657	[NO TRANSLATION]	missing translation
+1658	Og glysi hans?	
+1659	Ég afneita því.	
+1660	Michael Rizzi. Viltu skírast?	
+1661	Já.	
+1662	Í nafni föðurins, sonarins og hins heilaga anda. Farðu í friði og megi Drottinn vera með þér.	
+1663	[NO TRANSLATION]	missing translation
+1664	[NO TRANSLATION]	missing translation
+1665	Kysstu guðföður þinn.	
+1666	Ég kemst ekki til Vegas.	
+1667	Það kom dálítið upp á.	
+1668	Þið eigið öll að fara án okkar.	
+1669	Þetta er fyrsta fríið okkar saman, Michael.	
+1670	[NO TRANSLATION]	missing translation
+1671	Farðu heim og bíddu eftir að ég hringi.	
+1672	[NO TRANSLATION]	missing translation
+1673	Ég verð bara nokkra daga.	
+1674	Við erum að leggja af stað til Brooklyn.	
+1675	Vonandi nær Mike góðum samningi.	
+1676	Það efa ég ekki.	
+1677	Húsbóndinn kemur í sérstökum bíl. Þið eigið að fara á undan.	
+1678	Það gengur ekki. Þá fer allt úr skorðum.	
+1679	Nú, þetta sagði hann.	
+1680	Ég kemst ekki heldur.	
+1681	Segðu Mike að þetta hafi bara verið Viðskipti.	
+1682	Ég kunni alltaf vel við hann.	
+1683	Hann skilur það.	
+1684	Fyrirgefðu, Sal.	
+1685	Geturðu losað mig úr klípunni, Tom?	
+1686	Út á gamla, góða daga?	
+1687	Það get ég ekki, Sally.	
+1688	Þú þarft að svara fyrir Santino, Carlo.	
+1689	Þetta er vitleysa, Mike.	
+1690	Þú ginntir hann í hendur Barzini-liðsins.	
+1691	Þessi skrípaleikur við systur mína..	
+1692	Hélstu að hann blekkti mann af Corleone-ættinni?	
+1693	Ég er saklaus, Mike.	
+1694	Ég sver við börnin mín..	
+1695	Gerðu mér þetta ekki.	
+1696	Sestu niður.	
+1697	Gerðu mér þetta ekki, Mike.	
+1698	Barzini er dauður.	
+1699	Philip Tattaglia líka.	
+1700	Moe Greene.	
+1701	Strachi.	
+1702	Guneo.	
+1703	Í dag geri ég upp sakirnar. Haltu ekki fram sakleysi þínu.	
+1704	Viðurkenndu sekt þína.	
+1705	Gefið honum sjúss.	
+1706	[NO TRANSLATION]	missing translation
+1707	Vertu óhræddur, Carlo.	
+1708	Heldurðu að ég geri systur mína að ekkju?	
+1709	Ég er guðfaðir sonar þíns, Carlo.	
+1710	Drífðu þetta í þig.	
+1711	Þú hættir í fyrirtækinu.	
+1712	Það er þín refsing.	
+1713	Þú ert búinn að vera.	
+1714	Þú ferð með vél til Vegas.	
+1715	[NO TRANSLATION]	missing translation
+1716	Ég vil að þú verðir þar.	
+1717	El' það skilið?	
+1718	Haltu bara ekki fram sakleysi þínu.	
+1719	Það er ögrun við gáfur mínar	
+1720	og gerir mig öskureiðan.	
+1721	Hvor talaði við þig?	
+1722	Tattaglia eða Barzini?	
+1723	Það var Barzini.	
+1724	Ágætt.	
+1725	Það bíður bíll úti sem ekur þér á flugvöllinn.	
+1726	Ég hringi í konuna þína og segi henni frá fluginu.	
+1727	[NO TRANSLATION]	missing translation
+1728	Snáfaðu úr augsýn minni.	
+1729	Sæll, Carlo.	
+1730	Ég er að segja þér..	
+1731	Svona, mamma.	
+1732	[NO TRANSLATION]	missing translation
+1733	[NO TRANSLATION]	missing translation
+1734	Hvar er hann?	
+1735	Hann Michael? Óþokkinn þinn.	
+1736	Þú drapst manninn minn.	
+1737	Þú beiðst eftir því að pabbi dæi og drapst hann svo.	
+1738	Þú kenndir honum um dauða Sonnys.	
+1739	Það gerðu allir.	
+1740	En þér varð aldrei hugsað til mín, þér var skítsama um mig.	
+1741	Hvað geri ég núna?	
+1742	[NO TRANSLATION]	missing translation
+1743	Af hverju lét hann Carlo vinna í klasanum?	
+1744	Allan tímann ætlaði hann að drepa hann.	
+1745	Og þú varst guðfaðir barnsins okkar.	
+1746	Tilfinningalausi óþokki.	
+1747	Veistu hvað hann drap marga með Carlo?	
+1748	Lestu blöðin.	
+1749	Svona er maðurinn þinn.	
+1750	[NO TRANSLATION]	missing translation
+1751	[NO TRANSLATION]	missing translation
+1752	Farðu með hana upp.	
+1753	Náðu í lækni.	
+1754	Hún er móðursjúk.	
+1755	Móðursjúk.	
+1756	Er þetta satt, Michael?	
+1757	Ekki spyrja um umsvif mín, Kay.	
+1758	Er þetta satt?	
+1759	Spyrðu mig aldrei um umsvif mín!	
+1760	[NO TRANSLATION]	missing translation
+1761	Þá það.	
+1762	[NO TRANSLATION]	missing translation
+1763	Í þetta eina skipti leyfi ég þér að spyrja um umsvif mín.	
+1764	Er þetta satt?	
+1765	[NO TRANSLATION]	missing translation
+1766	Nei.	
+1767	Við þurfum víst bæði á drykk að halda.	
+1768	[NO TRANSLATION]	missing translation
+1769	Don Corleone.	

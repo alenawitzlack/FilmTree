@@ -1,0 +1,1885 @@
+1	Järgmine peatus - Broad Street.	
+2	Broad Street on järgmine peatus.	
+3	Üles,	
+4	sinna.	
+5	Kas ta siia ei tulnud?	
+6	[NO TRANSLATION]	missing translation
+7	Üles ta ei tulnud.	
+8	Mine tagasi alla.	
+9	Vabandust.	
+10	[NO TRANSLATION]	missing translation
+11	Sõida otse ja peatu nurgal.	
+12	Külalised.	
+13	Kas tohin oma hambad võtta?	
+14	Kolonel, pöörake ümber, palun.	
+15	Istuge voodile.	
+16	Lähme.	
+17	[NO TRANSLATION]	missing translation
+18	Proteesid on kraanikausil.	
+19	Vaadake mulle otsa.	
+20	Oleme FBI agendid.	
+21	Vaadake siia!	
+22	Ma räägin teiega.	
+23	Meil on andmeid, et te tegelete spionaazhiga.	
+24	Kas hakkate meiega koostööd tegema, või lähete vanglasse.	
+25	Kas saite aru, söör?	
+26	Mitte päris.	
+27	Miks te mind koloneliks kutsute?	
+28	Pange riided selga.	
+29	Otsime teie toa läbi.	
+30	Ega te vastu pole, kui oma paleti ära puhastan?	
+31	Muidu kuivab värv ära.	
+32	See on teie selja taga.	
+33	Mul on seal kalts pühkimiseks.	
+34	Tänan teid.	
+35	Alustage läbiotsimist.	
+36	Tänan.	
+37	Vaadake läbi madrats, voodi, põrand, tool.	
+38	Ehk paneksite selle tuhatoosi. See on aknalaual.	
+39	[NO TRANSLATION]	missing translation
+40	Vaatame laua üle.	
+41	Ma ei tahaks seda ära rikkuda.	
+42	Ärge kutsuge teda minu poisiks.	
+43	Ta pole minu poiss.	
+44	Muidugi on ta teie poiss.	
+45	Kellest me siis veel räägime?	
+46	Me räägime mehest, kes tegeles minu kliendiga.	
+47	Nii et ta pole minu poiss.	
+48	Hea küll.	
+49	Asi on selles, et kutt, kes tegeles teie kliendiga, ei eita ühtki juhtunud sündmust.	
+50	[NO TRANSLATION]	missing translation
+51	Ühtki sündmust?	
+52	Jah, viit juhtumit.	
+53	Pidage kinni.	
+54	Kust neid viis sai,	
+55	kui oli ainult üks?	
+56	Selge see, et viis.	
+57	Vabandage, aga mulle küll selge pole.	
+58	Viis juhtumit?	
+59	Palun selgitage.	
+60	Kõik on ilmselge.	
+61	Hea küll. Rääkige siis mulle, mis teie arvates juhtus	
+62	ja miks just viis juhtumit.	
+63	Muidugi.	
+64	Teie poiss...	
+65	Ta pole minu poiss.	
+66	Ta tegeles minu kliendiga.	
+67	Kutt, kes tegeles teie kliendiga, sõitis mööda State Roadi, kaotas kontrolli auto üle ja sõitis otsa viiele minu kliendile, kes palkasid mind endid esindama, sest teie ei taha kompensatsiooni maksta.	
+68	See tähendab, et kindlustuskompanii, minu klient, ei taha maksta kompensatsiooni.	
+69	Mr Donovan, niigi selge, kes siin kes on.	
+70	Välja arvatud see, et minu klient peab kõik nõuded tasuma.	
+71	Nad maksavad, mr Bates,	
+72	kõik seaduslikud nõuded oma vastutuse piirini, mis on 100 000 dollarit juhtumi kohta, see on ka poliisil kirjas.	
+73	See on kompensatsioon.	
+74	Vastavalt teie kirjeldusele sõitis otsa viiele minu kliendile.	
+75	Minu kliendiga tegelenud mees sooritas ühe avarii.	
+76	Ainult ühe.	
+77	Kaotas kontrolli ja sõitis otsa viiele mootorratturile.	
+78	Nende vaatepunktist oli viis avariid.	
+79	Kuulake, Bob,	
+80	kas tohin teid Bobiks kutsuda?	forced duplication
+81	kas tohin teid Bobiks kutsuda?	forced duplication
+82	Jim.	
+83	Kui ma mängin keeglit ja löön ühe viskega platsi puhtaks, siis oli see üks vise.	
+84	Ja mitte 10 viset.	
+85	Jim, minu kliendid pole keeglikurikad, kuigi teie klient neid sellistena kohtles.	
+86	[NO TRANSLATION]	missing translation
+87	Lubage mul lõpetada.	
+88	Lubage mul lõpetada.	
+89	Kui kindlustate oma kodu 100 000 dollari eest ja tornaado selle hävitab, siis hävitab ta kogu maja korraga,	
+90	mitte ei võta iga seina eraldi ette ja lammuta seda erineva õnnetusega.	
+91	Kui teie kinnitate vastupidist, siis tähendab see, et vastutuspiiri polegi, mis omakorda tähendab kindlustuskompaniide lõppu.	
+92	Siis, Bob, pole enam keegi kindlustatud.	
+93	Watters, Cowan ja Donovan,	
+94	kas tohin rääkida?	
+95	Tere hommikust, mr Donovan.	
+96	Tere hommikust, Alison.	
+97	Kandsin teie taotluse edasi, söör.	
+98	Miks te seda tegite?	
+99	Mina palusin teda.	
+100	Kas juhtus midagi, Tom?	
+101	Jäta oma paberid Alisonile.	
+102	Lähme minu juurde.	
+103	Juhtus midagi tähtsat.	
+104	Meil on külastaja.	
+105	Natalie teeb talle kohvi.	
+106	Nescafe koorega, kaks tükki suhkrut, oli nii?	
+107	Just,	
+108	tänan.	
+109	Lynn!	
+110	Jim!	
+111	Tore sind näha.	
+112	Kuidas pere elab?	
+113	Hästi,	
+114	tänan.	
+115	Ja Annie?	
+116	Tapvalt,	
+117	kutsusime tema vanemad nädalalõpule.	
+118	Kui kuriteo toime paned, siis on sul hea advokaat.	
+119	Mis siis juhtus?	
+120	Asi on selline.	
+121	Võtsime kinni nõukogude spiooni, tahame, et kaitseksid teda.	
+122	Siin on süüdistus.	
+123	[NO TRANSLATION]	missing translation
+124	Ma pole kindel, kas tahan seda.	
+125	Süüdistataval pole oma advokaati.	
+126	Föderaalkohus viskas selle meile.	
+127	Kolleegidekogu hääletas	
+128	selle ühehäälselt sulle.	
+129	Meile on see väga tähtis,	
+130	see on tähtis meie riigile, Jim, et kohus oleks õiglane.	
+131	Ameerika õiglust hinnatakse.	
+132	Muidugi, kui asja niimoodi valgustad, siis on mul au.	
+133	Kuid Lynn,	
+134	ma pole enam ammu kriminaalasjadega tegelnud.	
+135	See on nagu jalgrattasõit, eks ole?	
+136	Sa esinesid Nürnbergis hiilgavalt.	
+137	Ma olin süüdistuse meeskonnas.	
+138	Sellel pole vahet,	
+139	sa tunned kriminaalseadustikku.	
+140	Jim, mõtle olukorra üle,	
+141	seda meest on avalikult solvatud.	
+142	Ja ka mind võidakse.	
+143	Jah, pole tähtis, kui asjatundmatud inimesed on,	
+144	kuid just seepärast tuleb seda teha, ja kompetentselt.	
+145	See ei tohi nii välja näha, nagu heidaks meie õiguskord inimese üle parda.	
+146	Kui võtan asja, kas süütõendid on vettpidavad?	
+147	Need on muljetavaldavad.	
+148	Väga hea.	
+149	Väga hea.	
+150	Kõik vihkavad mind ja pealegi ma kaotan.	
+151	Mida sina arvad, Tom?	
+152	Firma kannatab,	
+153	ma töötan siin.	
+154	Arvan, et see on isamaaline kohustus.	
+155	See on tähtis missioon.	
+156	Ütlesin Lynnile, et firma ei saa ei öelda ja oleksin hädas, kui sina ei ütled.	
+157	Arvan, et tuleb seda tõbrast kaitsta.	
+158	Te siis teete seda?	
+159	Teen mida?	
+160	Kaitsete Abelit, nõukogude spiooni?	
+161	Teen seda,	
+162	pean rääkima...	
+163	Kuidas te seda teate?	
+164	Kas teadetetahvlilt?	
+165	Ei,	
+166	ma rääkisin Richard Earliga...	
+167	Kuule, kui võtan selle asja, siis vajan sinu abi.	
+168	Kas saad täna õhtul tööl olla?	
+169	Mul on eriline õhtusöök, söör.	
+170	kas täna on teisipäev?	
+171	Olen täiesti vaba, söör.	
+172	Tänan, söör.	
+173	Mulle osutati au,	
+174	ja advokaatide kolleegium palus mind, sest nad tahavad näidata, et isegi spioonidele on tagatud asjatundlik kaitse.	
+175	See on selline au, millest me võiksime loobuda.	
+176	Tere, tütar, miks sa kodus oled?	
+177	Mul on kook ahjus.	
+178	See on kohutav.	
+179	Kes see tõhk on?	
+180	Ma parem ei ütle.	
+181	Istu,	
+182	me just alustasime.	
+183	Inimesed on hirmul.	
+184	Nad valmistavad pomme, et kaitsta endid selliste eest, nagu tema.	
+185	Kui poes käin, näen inimesi ostmas konserve ja kaaliumitablette.	
+186	Kõik räägivad sellest mehest ja mida ta tähendab.	
+187	Ta reetis meid kõiki,	
+188	ta on reetur.	
+189	Kes on reetur?	
+190	Rosenbergid olid reeturid.	
+191	Kes need on?	
+192	Nad müüsid venelastele aatompommi saladusi.	
+193	Olid ameeriklased,	
+194	reetsid oma riigi.	
+195	Sa ei saa Abelit reetmises süüdistada.	
+196	Tema pole ameeriklane.	
+197	Kuula nüüd ennast.	
+198	Juba kaitsed teda.	
+199	Esitad mulle üksikasju,	
+200	kuid ise kahtlesid, kas võtad selle asja.	
+201	Ma kahtlengi,	
+202	kuid tegelikult väärib igaüks kaitset.	
+203	Iga isik on tähtis.	
+204	Jim, mida meie väärime?	
+205	Kuidas inimesed meid vaatama hakkavad?	
+206	Selle mehe perekonda, kes püüab vabastada reeturit?	
+207	Ta pole reetur, Mary.	
+208	Jajah.	
+209	Roger, tee uks lahti.	
+210	[NO TRANSLATION]	missing translation
+211	Miks pean mina alati minema?	
+212	[NO TRANSLATION]	missing translation
+213	Oota, kuni palvetame.	
+214	Tahan süüa.	
+215	Ta on selle linna kõige ebapopulaarsem mees, sina aga tahad teise koha võtta.	
+216	Jah, ja mina olen kolmas.	
+217	Carol, sa kohtasid lihtsalt vale meest.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, ära võta asja üles, me ei räägi sellest.	
+220	Mis sul selle vastu on, kui ma teda toetan?	
+221	[NO TRANSLATION]	missing translation
+222	Olen selle vastu, et venelased meie järele luuravad.	
+223	Olen selle poolt, et tal oleks kohtus kaitsja. Seepärast seda kohtuks kutsutaksegi.	
+224	Ma ei tahtnud teie õhtusööki segada.	
+225	[NO TRANSLATION]	missing translation
+226	Tere, Doug.	
+227	Pole midagi.	
+228	Tere, Doug.	
+229	Jim just rääkis sellest.	
+230	Ma mitte ainult, et räägin, Doug.	
+231	Õhtusta koos meiega.	
+232	Meil on täna pikkpoiss.	
+233	Kas tulite Jimile appi otsustama, kas ta võtab või ei selle asja?	
+234	Me juba võtsime.	
+235	Vahva, eks ole?	
+236	Jumal, me täname õnnistuse eest,	
+237	et saame olla koos Jeesuse Kristuse, meie issandaga.	
+238	Aamen.	
+239	Tere päevast, söör.	
+240	Minu nimi on Jim Donovan.	
+241	Seal on minu volikiri.	
+242	Olen Watters, Cowan ja Donovani partner.	
+243	Olen advokatuuris 1941. aastast.	
+244	Teid süüdistatakse 3 kriminaalasjas 19 episoodi põhjal.	
+245	Vandenõus edastada USA aatomi- ja kaitsesaladusi NSVL-ile, vandenõus saladuste kogumiseks ja enda mitteregistreerimist välismaise agendina.	
+246	Kas paljud välismaa agendid registreerivad end?	
+247	Kui lubate küsida, söör, siis kus te olie arreteerimishetkel?	
+248	Ma ei saa täpselt öelda.	
+249	Kas te ei tea?	
+250	Mind viidi lennuväljale, torgati lennukisse, siis toodi tagasi välja.	
+251	Seal oli palav.	
+252	Nagu ka siin.	
+253	Kuum ja väga niiske.	
+254	Nad viisid mu tuppa.	
+255	Kas teid peksti?	
+256	Ei.	
+257	Nad rääkisid minuga.	
+258	Tehti ettepanek.	
+259	Mida te silmas peate?	
+260	Tööettepanek, nende riigi heaks.	
+261	Nemad nimetasid seda koostööks, et siis ei esitata mulle süüdistust.	
+262	Ja et nad maksavad mulle.	
+263	[NO TRANSLATION]	missing translation
+264	Teie ütlesite ära?	
+265	Nagu näete.	
+266	Muidugi ei saa ma seda heaks kiita.	
+267	Pean enda kohuseks veenda teid minu valitsuse heaks töötama.	
+268	Ma ütlesin ei.	
+269	Võite oma CIA sõpradele öelda, et keeldumine on lõplik.	
+270	Ei, ei.	
+271	[NO TRANSLATION]	missing translation
+272	Ma ei tööta CIA heaks.	
+273	Ma ei tööta riigi heaks.	
+274	Olen siin selleks, et pakkuda oma teenuseid teie advokaadina.	
+275	Kui te olete sellega nõus, siis kaitsen teid. <Kas nõustute sellega?/>	missing English
+276	Kui ma nõustun?	
+277	[NO TRANSLATION]	missing translation
+278	Jah,	
+279	ma olen väga hea.	
+280	Kas teil on tulnud kaitsta süüdistatavaid spioone?	
+281	Ei, siiani mitte.	
+282	See on meie mõlema jaoks esimest korda.	
+283	Jah.	
+284	Hea küll.	
+285	Hea küll?	
+286	Te siis nõustute?	
+287	Hea küll, ma nõustun.	
+288	Suurepärane.	
+289	Hakkame siis pihta.	
+290	Kui te tõepoolest ei kavatse minu valitsusega koostööd teha...	
+291	Ei kavatse.	
+292	Jah.	
+293	Siis ärge mitte kellegagi enam sel teemal rääkige,	
+294	välja arvatud mina ja oma usalduse piires.	
+295	Minul on volitatud teid kaitsta.	
+296	Mitte kellelgi teisel.	
+297	Ütlen ausalt, teid tahetakse saata elektritoolile.	
+298	Pole midagi.	
+299	Te ei muretse selle pärast üldse?	
+300	Kas see aitaks?	
+301	[NO TRANSLATION]	missing translation
+302	Ma tahaksin joonistamisvahendeid.	
+303	See pole võimalik.	
+304	Pliiats, paber.	
+305	Sigarette.	
+306	Palun.	
+307	Mr Donovan, on olemas inimesed, kes teevad sedasama teie riigi heaks.	
+308	Kui nad kinni võetakse, olen kindel, et tahaksite, et nendega väärikalt ümber käidaks.	
+309	Kuidas teie nimi on?	
+310	Francis Gary Powers.	
+311	Auaste ja väeliik?	
+312	USA õhujõudude nooremleitnant.	
+313	Kas teid seob miski Nõukogude Liiduga, leitnant Powers?	
+314	Kas naljatate?	
+315	Vastake küsimusele, leitnant.	
+316	Jah, ei, vastake võimalikult lihtsalt.	
+317	Kas teid seob miski Nõukogude Liiduga?	
+318	Muidugi mitte.	
+319	Kas teate, miks te siin olete?	
+320	[NO TRANSLATION]	missing translation
+321	Kas see oli ei?	
+322	Jah,	
+323	ma mõtlen...	
+324	Ei, see oli ei.	
+325	Jah, mul pole aimugi, miks ma siin olen.	
+326	Vaadake otse, leitnant.	
+327	Jah, söör.	
+328	Kuidas läks, Gary?	
+329	Väga hästi,	
+330	arvan, et ütlesin oma nime õigesti.	
+331	Siis said kindlasti läbi.	
+332	Kes võidab?	
+333	Mina muidugi.	
+334	[NO TRANSLATION]	missing translation
+335	Tahan ka mängida.	
+336	See on kõik minu.	
+337	Ma ju ütlesin, et ära temaga mängi.	
+338	Olukord on selline, poisid.	
+339	Teid on välja valitud missioonile, millest ei tohi te väljapool neid seinu mitte kellegagi arutada.	
+340	Mitte kellegagi.	
+341	Pole tähtis, keda te usaldate.	
+342	Naisega, emaga, pruudiga,	
+343	Jumalaga, kui enne und palvetate.	
+344	Te ei räägi mitte kellelegi sellest, mida ma nüüd ütlen.	
+345	Igaüks teist vastab teatud tingimustele.	
+346	Kõrgtasemeline juurdepääs salajastele andmetele.	
+347	Suurepärased piloodivõimed, ühekohaliste lennukite lennutundide suur arv.	
+348	Me oleme tõmmatud sõtta.	
+349	Selles sõjas pole seni väed kaasatud,	
+350	see sisaldab informatsiooni.	
+351	Teie hakkate seda informatsiooni koguma.	
+352	Te hakkate koguma andmeid vaenlase kohta.	
+353	Need luureandmed annavad meile eelise termotuuma vastasseisus Nõukogude liiduga,	
+354	või vältida seda.	
+355	Ükskõik, kellele, olgu see siis naine, ema, pruut või armas Jumal, pole seda missiooni olemas.	
+356	Kui seda pole, siis pole ka teid.	
+357	Teid ei tohi alla lasta,	
+358	te ei tohi vangi kukkuda.	
+359	Nüüd töötate te CIA heaks.	
+360	Nii, Jim, kas tõesti sinu poiss räägib vene aktsendiga?	
+361	Ta lihtsalt räägib kogu aeg?	
+362	Tegelikult räägib ta samuti, kui meie teiega.	
+363	Tal on vene nimi, kuid Briti pass.	
+364	Ma kahtlen, kas see on õige.	
+365	Nii, Jim, kuhu me jäime?	
+366	Vaata, siin...	
+367	Jah, härra kohtunik, te teate, arvan, et kolmest nädalast ei piisa.	
+368	[NO TRANSLATION]	missing translation
+369	Meil on suur hulk asitõendeid, nagu teate.	
+370	Sa tahad pikendust?	
+371	Kuus nädalat.	
+372	Selle kallal töötame ainult meie kahekesi.	
+373	Jim, kas räägid tõsiselt?	
+374	Mister?	
+375	Kas räägid tõsiselt?	
+376	[NO TRANSLATION]	missing translation
+377	Tegelikult jah, tõsiselt.	
+378	Kõik on taotluses kirjas.	
+379	Jim, see mees on Nõukogude spioon.	
+380	Oletatavasti.	
+381	Jäta, nõunik.	
+382	Teie ausus.	
+383	Muidugi ma austan sind,	
+384	me kõik austame sind selle eest, et võtsid selle tänamatu töö.	
+385	See vajab nõuetekohast menetlust,	
+386	kuid ärgem petkem ennast.	
+387	Me võimaldame talle asjatundliku kaitse	
+388	ja Jumala abiga mõistame ta süüdi.	
+389	Palun, nõunik,	
+390	me ei hakka temaga venitama.	
+391	Mitte minu kohtusaalis.	
+392	Kuupäev on määratud ja me mõistame kohut.	
+393	Takso!	
+394	Takso!	
+395	Ma nägin, et sa oled vaba.	
+396	Tõbras.	
+397	Ei jõua ära oodata, millal tagasi Manhattanile saan.	
+398	Tuli ju põles, eks ole?	
+399	Tõbras.	
+400	Võrreldes nende mugavustasemega	
+401	pole seadust muudetud.	
+402	Vabandage mind, söör.	
+403	Vabandage.	
+404	[NO TRANSLATION]	missing translation
+405	[NO TRANSLATION]	missing translation
+406	Mr Donovan.	
+407	Mis oli?	
+408	Mis oli?	
+409	CIA.	
+410	Jah.	
+411	Tahan ainult lobiseda.	
+412	Kuidas asi läheb?	
+413	Suurepäraselt,	
+414	parem ei saa ollagi.	
+415	[NO TRANSLATION]	missing translation
+416	Kas klient hakkas rääkima?	
+417	Mida te ütlesite?	
+418	[NO TRANSLATION]	missing translation
+419	Teie klient, kas ta räägib?	
+420	Kas ta on midagi öelnud?	
+421	See jääb meie vahele.	
+422	Kindlasti.	
+423	Tõsiselt, seda vestlust pole toimunudki.	
+424	Te palusite mul rikkuda ametialast saladuse hoidmist.	
+425	Oh, palun, nõunik.	
+426	Mind on ära tüüdanud kuulda: Oh, palun, nõunik.	
+427	Juba siis ei meeldinud see mulle, kui täna esimest korda kuulsin.	
+428	Kohtunik ütles seda teist korda.	
+429	Mida rohkem seda kuulen, seda vähem see mulle meeldib.	
+430	Olgu, kuulake, ma saan aru ametialasest vaikimiskohustusest,	
+431	ma saan aru kõigist neist seadusetrikkidest	
+432	ja ma saan aru, et peate omale elatist teenima,	
+433	kuid ma räägin millestki muust.	
+434	Meie riigi ohutusest.	
+435	Andke andeks, kui mu sõnad teid riivasid,	
+436	kuid me peame teadma, mida Abel teile rääkinud on.	
+437	Kas mõistate mind, Donovan?	
+438	Me peame teadma.	
+439	Pole tarvis mulle moraali lugeda.	
+440	Unustage reeglid.	
+441	Teie nimi on Hoffman?	
+442	On.	
+443	Saksa aktsent.	
+444	Jah, mis siis?	
+445	Minu nimi on Donovan,	
+446	iirlane.	
+447	Nagu ka minu vanemad, isa ja ema.	
+448	Mina olen iirlane, teie sakslane,	
+449	kuid mis meid ameeriklasteks teeb?	
+450	Ainult üks asi.	
+451	Ainult üks,	
+452	reeglid.	
+453	Me nimetame seda konstitutsiooniks, me nõustume reeglitega ja see teeb meid ameeriklasteks.	
+454	See kõik teeb meid ameeriklasteks, nii et ära räägi mulle, mida ma tegema pean, sina värdjas.	
+455	Kas peame teie pärast muretsema?	
+456	Ei, kui minu tööd segama ei hakata.	
+457	Sellest hetkest alates ei nimeta te U-2. spioonilennukiks ega ka luurelennukiks.	
+458	Te nimetate seda tooteks.	
+459	Toote tiivaulatus on 24 meetrit.	
+460	Sellele on paigaldatud mootor Pratt & Whitney J57-P 37.	
+461	Tõmbejõud 4500 kg. Lõppkiirus 374 m/h.	
+462	Jah, see pole eriti kiire, kuid selle lennulagi on 21 km, kus sinu lähedal pole mitte midagi.	
+463	21 km?	
+464	Oletatakse, et vaenlane isegi ei aima teie sealolekust.	
+465	Mulle tundub see haprana.	
+466	Iga liigne kilo läheb kõrguses meetreid maksma ja me peame kaamerad ära mahutama.	
+467	Kolm kaamerat 4500mm läätsedega.	
+468	Panoraamne luurekaamera. 4 korda võimsam nendest kaameratest, mida seni kasutanud oleme.	
+469	Te hakkate pilte tegema, palju pilte.	
+470	21 tuhande meetri kõrguselt võib toode pildistada 5000 km2 suurust territooriumi ühe ülelennuga.	
+471	Nüüd, lendurid, pöörake tähelepanu agent Summerile.	
+472	Teie lahingvarustus on siin.	
+473	Töökindel 8 mm kaamera 40 filmiga. Keystone Capri K-25, silver,	
+474	Õõnsa käepidemega habemeajamise vahupintsel.	
+475	Täielik kogu Vigenčre shifritabeleid söödaval paberil.	
+476	Erifotovarustus.	
+477	Jah,	
+478	arusaadav,	
+479	tänan.	
+480	Vabandage, agent Bosco,	
+481	Blasco.	
+482	Mister?	
+483	Näen, et sellel nimekirjal on alajaotus.	
+484	Enamus asju võeti tema korterist, kuid ülejäänu hotelli numbritoast, kus ta end varjas.	
+485	Seal me ta kinni pidasimegi.	
+486	Numbrituba otsiti läbi?	
+487	No jah.	
+488	Kas võiksin orderit näha?	
+489	Näha mida?	
+490	Jah, selgitage mulle.	
+491	Kas oli order?	
+492	Order oli olemas.	
+493	Arreteerimisorder võõramaalasele, kuid polnud orderit läbiotsimise kohta.	
+494	Nii et selle läbiotsimise tulemusel saadud asitõendid on saastatud ja ei vasta nõuetele.	
+495	Millest ta räägib, teie ausus?	
+496	See kutt ei...	
+497	Kes see subjekt on?	
+498	Rudolf Ivanovich Abel	
+499	on nõukogude kodanik.	
+500	Ta pole ameeriklane.	
+501	1886 Yick Wo vs Hopkins,	
+502	kohus otsustas, et isegi välismaalane, antud juhul hiina migrant, ei saa vastutusele võtta ilma kohtuta, mis laieneb igale illegaalile.	
+503	Kohtuministeerium on ustav eelkõige USA valitsusele.	
+504	Ma ei saa aru, kuidas välismaalane, kui ta viibib siin ebaseaduslikult, võib kannatada õiguste äravõtmise pärast.	
+505	Milliste õiguste?	
+506	Ameeriklase?	
+507	Mis õigused, nõunik?	
+508	Oleme lahingus tsivilisatsiooni pärast.	
+509	See venelane tuli siia meie elustiili ähvardama.	
+510	Inimesed ootavad mind kohtusaalis,	
+511	minge ja istuge venelase kõrvale.	
+512	Lõpetame selle asja juba rutem.	
+513	Teie taotlus on tagasi lükatud.	
+514	Ta peaks omale elukindlustuse võtma.	
+515	Kuidas kõik läks?	
+516	Seal?	
+517	[NO TRANSLATION]	missing translation
+518	Mitte eriti hästi.	
+519	Muidugi, mister, te pole ju ameerika kodanik.	
+520	See on tõsi.	
+521	Teie ülemused väidavad, et te pole ka nõukogude kodanik.	
+522	Ülemustel pole mitte alati õigus, kuid nad jäävad ikkagi ülemusteks.	
+523	Kas te ei muretse kunagi?	
+524	Kas see aitaks?	
+525	Kõigil tõusta!	
+526	Tõotan jääda ustavaks lipule, Ameerika Ühendriikidele ja suurele vabariigile, mida see esindab, ühtsele Jumala ees, vabale ja õiglasele kõigi jaoks.	
+527	Kõigepealt peate teadma, mis juhtub, kui aatomipomm plahvatab.	
+528	Tekib valgusesähvatus, eredam, kui päike.	
+529	Plahvatus purustab hooned, aknad purunevad kogu linnas.	
+530	Kuid kui sa varjud ja kaitsed end, nagu Bert, oled sa enam kaitstud.	
+531	On võimalikud kahte tüüpi rünnakud: hoiatusega või ilma hoiatuseta.	
+532	[NO TRANSLATION]	missing translation
+533	Mis siin toimub?	
+534	Kuula, isa, see on väga tähtis.	
+535	Kui algab sõda, siis on esimene asi, mida pead teadma see, et nad lülitavad vee ja elektri välja.	
+536	Seepärast peame kõigepealt vanni vett täis laskma, dusshi kasuta oma toas, kasuta kraanikaussi ja aiavoolikut.	
+537	Suurepärane idee,	
+538	kuid Roger, ma ei usu, et sul on mõtet sellepärast muretseda.	
+539	Jah, kuid kui sireeni kuuleme, siis võib vanni ja kraanikausi täitmiseks aega väheks jääda.	
+540	Ei tule mingeid sireene.	
+541	Mis see on?	
+542	Pommi visates hakkavad punased sihtima Empire State Buildingit,	
+543	kuid pomm plahvatab kilomeetri kõrgusel.	
+544	Ajakirja Life andmetel ulatub 50 megatonnise pommi lõhkemõju siit kuni siiani, pühkides kõik oma teelt.	
+545	Kaasa arvatud koht, kus meie elame,	
+546	siin.	
+547	Jah, otse siin.	
+548	Kuid tead, Roger, mitte keegi ei taha meile aatomipommi visata.	
+549	Kuid venelased tahavad seda teha.	
+550	See venelane, keda sa kaitsed.	
+551	Ta on siin selleks, et välja valida koht, kuhu nad pommi viskavad.	
+552	Ei,	
+553	ta pole selleks siin.	
+554	Ta pole isegi mitte venelane.	
+555	Arvame, et ta on sündinud Põhja-Inglismaal.	
+556	Võib-olla, kuid ta luurab venelaste kasuks.	
+557	Ma ei saa aru, mida sa teed.	
+558	Sa pole kommunist, miks sa teda siis kaitsed?	
+559	Sest see on mu töö.	
+560	Kuid varem see polnud.	
+561	Ameerika Ühendriigid Rudolf Abeli vastu. Millisele otsusele jõudsid vandekohtunikud esimese punkti osas?	
+562	Süüdi või süütu?	
+563	Süüdi.	
+564	Teises punktis?	
+565	Süüdi.	
+566	Kolmandas punktis?	
+567	Süüdi.	
+568	Teie ausus, palun kustutada kohtuotsus asitõendite puudumise tõttu.	
+569	Tagasi lükatud.	
+570	Vandekohus on vaba.	
+571	Tänan teid kõiki.	
+572	Tahaksin lisada, et kui oleksin olnud üks teie seast, oleksin teinud samasuguse otsuse.	
+573	Kohtuotsus kuulutatakse välja 15. novembril.	
+574	Surmanuhtlus pole veel otsustatud.	
+575	Ärge muretsege.	
+576	Ma ei karda surma, mr Donovan.	
+577	Kuigi eelistaksin seda vältida.	
+578	Te unustasite midagi.	
+579	Tänan.	
+580	Palju tänu.	
+581	Te pole küsinud, kas kohtuotsus on õiglane,	
+582	kas ma olen tõepoolest spioon.	
+583	Nii on meil kombeks.	
+584	Kohtuasi teie vastu on tähtis,	
+585	asitõendid on tähtsad.	
+586	[NO TRANSLATION]	missing translation
+587	Arutlused sel teemal, miks te seda tegite või ei teinud, pole tähtsad.	
+588	Riik peab tõestama, et olete spioon.	
+589	Kas te ei tunne uudishimu?	
+590	Tegelikult mitte,	
+591	olen alati arvanud, et olete kunstnik.	
+592	Minu naine on kunstnik.	
+593	Ta on muusik, mängib Moskva Lasteorkestris.	
+594	Millist instrumenti?	
+595	Harfi.	
+596	[NO TRANSLATION]	missing translation
+597	Siis on ta ingel.	
+598	Siin seistes meenutate mulle meest, kes käis meil külas, kui olin veel noor.	
+599	Mu isa ütles siis: Jälgi seda meest.	
+600	Seda ma tegingi, kui ta jälle tuli,	
+601	kuid mitte kunagi ei teinud ta midagi erilist.	
+602	Kas mina meenutan teile teda?	
+603	Ükskord, kui olin teie poja ealine,	
+604	tungisid meie majja rühm relvastatud inimesi.	
+605	Kümmekond neist peksid läbi mu isa ja mu ema ja see mees, minu isa sõber, peksti ka läbi.	
+606	Kümmekond neist peksid läbi mu isa ja mu ema ja see mees, minu isa sõber, peksti ka läbi.	
+607	Ma jälgisin teda.	
+608	Iga kord, kui ta pikali löödi, tõusis ta jälle üles.	
+609	Siis löödi teda tugevamini,	
+610	kuid ikka tõusis ta üles.	
+611	Arvan, et seepärast lõpetasid nad tema peksmise	
+612	ja jätsid ta ellu.	
+613	<Vastupidav mees./> Ma mäletan, et nad ütlesid nii.	missing English
+614	<Vastupidav mees./> Nii nimetavad nad seda, kes alla ei vannu.	missing English
+615	Vastupidav mees.	
+616	Tere, Jim!	
+617	Millie, te olete silmipimestav.	
+618	Mortie lõpetab kohe riietumise.	
+619	Kuid astuge sisse.	
+620	Viski, Jim?	
+621	Jah, palun.	
+622	Tänan teid.	
+623	Tilga veega.	
+624	Teie ausus.	
+625	Tere, Jim!	
+626	Olen lahkumas.	
+627	Kuid mul on mõni minut.	
+628	Heategevuslik õhtusöök.	
+629	Millie on vabatahtlik.	
+630	Tänan, et lubate oma aega kulutada.	
+631	Tahtsin vaid jagada oma mõtteid kohtuotsuse kohta	
+632	ja arvasin, et on parem teha seda teie juures kodus, sest mitte kõik minu argumendid pole päris seaduslikud.	
+633	Jah, selline see juhtum juba on.	
+634	Ma ei olnud kohtus just väga norija, sest saan sellest aru.	
+635	Mitte miski selles juhtumis pole päris seaduslik.	
+636	Siin on palju tähtsamaid asju.	
+637	Palju tähtsamaid!	
+638	Tänan.	
+639	[NO TRANSLATION]	missing translation
+640	Mister.	
+641	Arvan, et on parem, seda esmajoones Ühendriikide jaoks, kui Abel jääb ellu.	
+642	Miks?	
+643	Ma ei ütle, et olen juba otsustanud, kuid kui ta oleks tahtnud teha koostööd, siis oleks ta seda juba ammu teinud.	
+644	See on tõsi, kuid asi on selles...	
+645	[NO TRANSLATION]	missing translation
+646	Ma pole lõpetanud.	
+647	Kuidas te saate öelda, et see on Ühendriikide huvides, kui ta veedab oma ülejäänud elu trellide taga?	
+648	Kas see on rahvuslik huvi?	
+649	Mitte vabadusekaotus ise, söör.	
+650	On võimalik, et lähemas tulevikus võetakse mõni samaväärne USA agent kinni Nõukogude Venemaal.	
+651	Meil võib olla vajalik keegi vahetuseks.	
+652	[NO TRANSLATION]	missing translation
+653	See näeks välja, nagu võimalik samm, mille võiksin astuda Püha Mittekunagi-päeva nimel.	forced duplication
+654	See näeks välja, nagu võimalik samm, mille võiksin astuda Püha Mittekunagi-päeva nimel.	forced duplication
+655	Minu asi on hoiatada.	
+656	Olen kindlustusadvokaat.	
+657	Sellises võimaluses pole midagi ebareaalset.	
+658	See on täielikult kõik võib juhtuda meelevallas.	
+659	Just seepärast ostavadki inimesed kindlustuspoliise.	
+660	Kui mõistame kuti surma, asetame endid löögi alla.	
+661	Jääme ilma kindlustuspoliisita, kui maru lahti läheb.	
+662	Kena kõne.	
+663	Söör, on ka veel humaansuse aspekt.	
+664	Kas peab ta surema, sest tegi oma tööd?	
+665	Hea küll, nõunik.	
+666	Pean minema.	
+667	Oli tore sind näha, Jim.	
+668	Ma saadan teda.	
+669	Kõigil tõusta!	
+670	New Yorki Idapiirkonna kohus alustab istungit Tema Ekstsellentsi kohtunik Mortimer Byersi juhtimisel.	forced duplication
+671	New Yorki Idapiirkonna kohus alustab istungit Tema Ekstsellentsi kohtunik Mortimer Byersi juhtimisel.	forced duplication
+672	Palun istuda.	
+673	Süüdistataval palun tõusta.	
+674	Selle kohtu otsus on kaalutletud ja põhineb vandekohtu poolt vastuvõetud otsusel, mis mõistis kohtualuse süüdi kõigis punktides.	
+675	Võttes arvesse vandekohtu otsust, volitab kohus USA täievolilisel riiklikul prokuröril rakendada kostja suhtes vanglakaristust pikkusega 30 aastat.	
+676	Valve võib kohtualuse vanglasse toimetada.	
+677	[NO TRANSLATION]	missing translation
+678	Kas elektritool?	
+679	Ei.	
+680	[NO TRANSLATION]	missing translation
+681	Miks te teda üles ei riputa?	
+682	Jumala pärast, miks te teda üles ei poo?	
+683	Istuge, söör.	
+684	Ta on spioon.	
+685	Te tapate meid oma valedega.	
+686	Jumala armu nimel, miks teda ei pooda?	
+687	Õigus!	
+688	Ta on spioon.	
+689	Mr Donovan!	
+690	Mr Donovan!	
+691	[NO TRANSLATION]	missing translation
+692	Ainult üks küsimus, söör.	
+693	Minu kaabu.	
+694	Minu kaabu.	
+695	Minu kaabu.	
+696	Keegi ei ütle midagi.	
+697	Mr ja mrs Donovan ei vasta küsimustele.	
+698	Kuidas te end tunnete, kui see rahvuslik õudusunenägu möödas on?	
+699	Mr Donovan, kas olete otsusega rahul?	
+700	[NO TRANSLATION]	missing translation
+701	Meil on kaalukaid põhjusi asi edasi kaevata.	
+702	Edasi kaevata?	
+703	Jah.	
+704	Jim, tegid hea töö.	
+705	Täitsid oma ülesande ja rohkemgi veel.	
+706	Kuid see mees on spioon.	
+707	Otsus on õiglane ja pole põhjust seda edasi kaevata.	
+708	On olemas protsessuaalne põhjus,	
+709	teame, et läbiotsimine oli ebaseaduslik.	
+710	Toetudes neljandale parandusele on põhjust pöörduda teise instantsi,	
+711	meil oleks hea võimalus.	
+712	Kuid millest sa räägid?	
+713	Me pidime näitama, et talle osutatakse professionaalset kaitset.	
+714	Miks sa topid seda neetud konstitutsiooni mulle nina alla?	
+715	Tom, kui sa vaatad mulle silma ja ütled, et meil pole põhjust apellatsiooniks, siis loobun otsekohe.	
+716	Ma ei ütle seda.	
+717	Sa tead, millest jutt käib.	
+718	Tom ütleb, et neil asjadel on oma hind.	
+719	Täpselt.	
+720	Tagajärjed nii sinule kui ka sinu perele.	
+721	Tundsin muusikast puudust.	
+722	Nad uurisid raadiot, kas see mitte saatja pole.	
+723	Muidugi nad uurisid.	
+724	Shostakovich.	
+725	[NO TRANSLATION]	missing translation
+726	Shostakovich on suurepärane kunstnik.	
+727	Ma arvan, et tugevaim põhjus otsuse muutmiseks oleks konstitutsiooniline.	
+728	Meie parim võimalus, kui Ülemkohus nõustub asja arutama.	
+729	Jim,	
+730	te peaksite ettevaatlik olema.	
+731	Ettevaatlik.	
+732	[NO TRANSLATION]	missing translation
+733	[NO TRANSLATION]	missing translation
+734	[NO TRANSLATION]	missing translation
+735	[NO TRANSLATION]	missing translation
+736	[NO TRANSLATION]	missing translation
+737	[NO TRANSLATION]	missing translation
+738	[NO TRANSLATION]	missing translation
+739	[NO TRANSLATION]	missing translation
+740	Ema!	
+741	Jumal, mis juhtus?	
+742	Kullake, kas oled terve?	
+743	Ema!	
+744	Kas said pihta?	
+745	Ma hoolitsen tema eest.	
+746	[NO TRANSLATION]	missing translation
+747	[NO TRANSLATION]	missing translation
+748	[NO TRANSLATION]	missing translation
+749	Kas olete korras?	
+750	Kas oled terve?	
+751	Isa, ma istusin, selg vastu seina!	
+752	[NO TRANSLATION]	missing translation
+753	Eemale aknast!	
+754	Tubli, tubli...	
+755	Väga hea.	
+756	[NO TRANSLATION]	missing translation
+757	Kõik on hästi.	
+758	Nad on läinud.	
+759	Nad on argpüksid,	
+760	nad on läinud.	
+761	Meie uurijad küsitlesid naabreid.	
+762	Võib-olla saame auto kirjelduse, kuid ma ei usu eriti.	
+763	Meile on vaja kaitset.	
+764	Mul on juhised jätta siia kaks autot.	
+765	Võin garanteerida...	
+766	Kui kauaks?	
+767	Pean nädalalõpul Washingtoni sõitma.	
+768	Mida te teete?	
+769	Miks riskeerite oma perekonnaga?	
+770	Vabandust, ohvitser?	
+771	Te kaitsete seda kutti.	
+772	Miks te seda teete?	
+773	Hea küll, aitab.	
+774	Ei lõpeta ma midagi.	
+775	Olin 3. rühmas Omaha rannal.	
+776	Tegin läbi sõjaväeteenistuse.	
+777	Me võitleme nende kuttidega ja teie kaitsete neid?	
+778	Miks te oma tööd seaduse kaitsjana ei tee?	
+779	Olgu, vabandust,	
+780	läheme välja.	
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	Unusta ta.	
+784	Millest ma aru ei saa?	
+785	Välja, ohvitser,	
+786	vabandage meid.	
+787	Kaitsete spioone.	
+788	Mis see olgu.	
+789	Kas te ei arva, et olete selle ära teeninud, söör?	
+790	Juhul, kui piloodil tuleb lennukist lahkuda Nõukogude territooriumil, on paigaldatud iga lennuki kabiini kilogramm lõhkeainet.	
+791	Kõigepealt peate lõhkeaine aktiveerima.	
+792	Et lülitada sisse 70 sekundiline aegrelee, peate lüliti seadma asendisse Lõhkamine.	
+793	On äärmiselt vajalik, et need lennud jääksid saladuseks ja et need seadmed ei satuks vaenlase kätte.	
+794	Aga kuidas meiega on?	
+795	Kui tahtsite nalja teha, leitnant Powers,	
+796	siis mina mitte.	
+797	Teie teadmised lennukist on samasugune saladus, kui lennukki.	
+798	Kui teie kinnivõtmine on tõesti vältimatu, siis jääge lennukisse.	
+799	Kui te aga suudate peitu pugeda ja olete piirile küllalt ligidal,	
+800	siis teate, kuidas katapulteeruda.	
+801	Kuid seda tehes ärge unustage dollarit.	
+802	Selle sees on nõel.	
+803	Üks kriimustus sellega ja surm on vältimatu.	
+804	Kui on risk, et teid kinni võetakse, siis kasutage seda.	
+805	Lendurid, kas saite aru?	
+806	Kasutage dollarit.	
+807	Härra eesistuja, teie lahkel loal.	
+808	Külm sõda pole lihtsalt fraas, teie ausus.	
+809	See pole lihtsalt väljend.	
+810	Tegelikult käib praegu lahing kahe vastandliku arusaama vahel maailmas.	
+811	Väidan, et Rudolf Ivanovitđ Abel, kolonel Abel, nagu kutsus teda mees, kes ta arreteeris, on meie vaenlane selles lahingus.	
+812	Täiendav jõud?	
+813	Sisse lülitatud ja töötab.	
+814	Hapnikuvarustus?	
+815	Etteanne 1800 psi.	
+816	Voolumuundi?	
+817	Kõik töötab.	
+818	Temaga käidi ümber, nagu professionaalse sõduriga, kuni saa rahuldas meie valitsust.	
+819	Vastavalt sellele jäeti ta ilma õigustest, mis on meie kodanikel.	
+820	Tema kohtlemine, kui oletatavat vaenlast, pole asjakohane väidetava kurjategija korral.	
+821	Kütuse etteanne?	
+822	Sisse lülitatud.	
+823	Lõhkeseadeldis?	
+824	Kaitseriivis.	
+825	Andmete kaart?	
+826	Paigaldatud.	
+827	Ma tunnen seda meest.	
+828	Kui süüdistus on õige, siis teenis ta võõrvõimu, kuid ustavalt.	
+829	Kui ta on vaenlase sõdur, siis on ta hea sõdur.	
+830	Ta ei jätnud lahinguvälja, et ennast päästa.	
+831	Ta keeldus teenimast neid, kes ta tabasid	
+832	ja ei reetnud oma üritust.	
+833	Ta keeldus käitumast, nagu argpüks.	
+834	Argpüks peab unustama oma väärikuse, kui ta lahinguväljalt põgeneb.	
+835	Rudolf Abel ei teinud seda.	
+836	Me peaksime andma talle kõik õigused, mida võimaldab meie riigikorraldus, näidates niimoodi, kes oleme meie.	
+837	Kes oleme meie.	
+838	Kas mitte see pole meie kõige võimsam relv selles külmas sõjas?	
+839	Kas siis meie ei seisa oma ürituse eest sama kindlalt, kui nemad?	
+840	President teatas, et NASA meteolennuk kadus neli päeva tagasi Põhja-Türgi kohal.	
+841	SA kardab, et piloot hukkus õnnetuses.	
+842	Radar näitas, et lennuk kaotas kursi ja sisenes enne kontakti kadumist Venemaa territooriumile, mis raskendab lennukivraki ja piloodi surnukeha leidmist.	
+843	Nüüd aga Washingtoni uudised.	
+844	Tänasel raskel hääletusel jättis Ülemkohus otsuse vene spiooni Rudolf Ivanovich Abeli kohta muutmata, häältega viis nelja vastu.	
+845	Juhtumit käsitletakse isikuvabaduste seisukohast, kui tsiteerida venelase advokaadi, James B. Donovani sõnu.	
+846	Kui temalt küsiti, kuidas ta tänasesse kaotusesse suhtub, siis vastas mr Donovan vaid: Ära on tüüdanud.	
+847	Olen uute uudistega tagasi peale reklaami.	
+848	[NO TRANSLATION]	missing translation
+849	Ongi kõik.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	Ma ei suuda leida edasikaebuse toimikut.	
+853	Mr Watters käskis mul selle Jack Elwesi tuppa viia koos esimese kaebuse eelnõuga.	
+854	Tema käskis?	
+855	Jah, ta kirjutas alla ja saatis selle kohtusse, kui te Washingtonis olite.	
+856	Kui kaua me partnerid oleme?	
+857	Tegutseb nii, et ma ei saa iialgi toimikut sulgeda.	
+858	Organiseeri mulle kohtumine	
+859	korralikus kohas.	
+860	Vean kihla, mr Young hindab esmaklassilist restorani New Yorkis.	
+861	Tahan, et teeksid mulle kokkuvõtte...	
+862	Kas tunnete kedagi Leipzigist?	
+863	Leipzig,	
+864	kas nüüd saan juba vihakirju Saksamaalt?	
+865	Ida-Saksamaalt.	
+866	Kas see on teie naine?	
+867	Ei ole.	
+868	Ei, ei...	
+869	Ta teeskleb seda, kuid see ei õnnestu eriti.	
+870	Võtsin vabaduse teile kirjutada peale seda, kui kuulsin uudistest teie inimlikkuseaktist minu mehe, Rudolf Abeli suhtes.	
+871	Kas peaksin vastama?	
+872	Jah, jah...	
+873	Kuidas kavatseksite tegutseda, kui ei tea, mis mäng on?	
+874	Francis Gary Powers,	
+875	põhinedes Nõukogude seaduse artiklile kaks, mõistetakse kurjategijale kuriteo eest riigi vastu 10 aastat vabadusekaotust koos inimõiguste äravõtmisega, millest kolm esimest aastat peetakse teid kinni vanglaasutuses.	
+876	Karistustähtaega, kaasa arvatud esmane arest, hakatakse arvestama 1. maist 1960. a. Otsus on lõplik ja edasikaebamisele ei kuulu.	
+877	Mr Donovan, tänan, et tulite.	
+878	Rõõm kohtuda, mr Dulles.	
+879	See on mulle auks, söör.	
+880	Nescafe, koore ja kahe suhkruga.	
+881	Tänan.	
+882	Kiri, mille te saite.	
+883	On ilmne, et nõukogud kompavad siin pinnast.	
+884	Nad kasutavad Ida-Saksamaad, sest siis ei pea nad Abelit Nõukogude kodanikuks tunnistama, sead enam Nõukogude spiooniks.	
+885	[NO TRANSLATION]	missing translation
+886	Siin on palju valeinformatsiooni.	
+887	Jah, söör, kuid milline on eesmärk?	
+888	Nende käes on meie mees, luurepiloot.	
+889	Meie käes nende oma.	
+890	Vangide vahetust. Arvan, et seda nad tahavad.	
+891	Oletan, et see ei üllata teid.	
+892	Seda võimalust te nägite minu arvates ette.	
+893	Jah, muidugi ma nägin ja tabasin märki.	
+894	Minu õnnitlused,	
+895	unustamatu päev.	
+896	Nende käes on meie piloot,	
+897	Powers.	
+898	Tubli mees, kuid teab liiga palju salajast informatsiooni	
+899	Abel teab samuti salajast informatsiooni, kuid ei räägi meile midagi.	
+900	Ega ei räägigi, niipalju kui mina teda tunnen.	
+901	Jah, meie teame seda, kuid venelased ei tea.	
+902	Abelit tahetakse tagasi, enne kui ta rääkima hakkab	
+903	ja meie tahame tagasi Powersit samal põhjusel.	
+904	Arvan, et tahate öelda, söör, et see võib veel kõigile hästi lõppeda.	
+905	Jah, kui me mängime nende mängu.	
+906	Tahame, et teie peaksite läbirääkimisi, sest olete eraisik ja siis ei osale riigid läbirääkimistes.	
+907	Nad ei tunnista Abelit Nõukogude kodanikuks ja meie ei tunnusta Ida-Saksamaad sõltumatu riigina.	
+908	Me ei tunnusta Ida-Berliini alates selle annekteerimisest 45. aastal.	
+909	Nii et ma astun välja läbirääkijana, esindan...	
+910	Te ei esinda mitte kedagi.	
+911	Te pole valitsuse ametnik,	
+912	teil pole ametlikku positsiooni.	
+913	Nii et see on ka meie poolt mäng?	
+914	Täpselt.	
+915	Te ei saa arvestada mingi toetuse ega abiga, kui midagi peaks viltu minema.	
+916	CIA ei saa vastutust võtta.	
+917	Me ei tohi valguse kätte tulla.	
+918	Kus nad tahavad neid läbirääkimisi pidada?	
+919	Seal.	
+920	Seal?	
+921	Ida-Berliinis.	
+922	Kuid olukord Ida-Berliinis ei luba...	
+923	Jah, olukord seal on keeruline.	
+924	See on keeruline.	
+925	Nõukogude poolel on kontrollpunktid juba mõned kuud üleval, et peatada inimeste vool lääne sektorisse, kuid see ei aita.	
+926	CIA usub, et nad on valmis järgmiseks sammuks. Müür ümber idasektori.	
+927	See oleks lühidalt kõik.	
+928	Otsus on teie teha.	
+929	Vajate aega selle üle otsustamiseks.	
+930	Ei.	
+931	Ei vaja.	
+932	Tore on.	
+933	Tore on.	
+934	Seda tuleb rangelt salajas hoida.	
+935	Ärge arutlege selle üle ei Mary ega kellegi teisega.	
+936	Jagage meiega kirjade sisu	
+937	ja rääkige meile, mida nad tahavad ja millal.	
+938	Mul pole ei klienti, naist ega riiki.	
+939	Ma ei tea, mida ma teen või millal või kellega.	
+940	Ta teeb seda oma riigi heaks, kuid riik ei tea seda veel.	
+941	Mis saab minu kliendist, teisest mehest võrrandis?	
+942	[NO TRANSLATION]	missing translation
+943	[NO TRANSLATION]	missing translation
+944	Kas peate venelast silmas?	
+945	Ta pole rohkem teie klient, nõunik.	
+946	Teie klient on nüüd Francis Gary Powers.	
+947	Mida ma Rudolf Abelile ütlen?	
+948	Et ta ära surra ei mõtleks.	
+949	Professor?	
+950	Professor?	
+951	Isa läks ülikooli.	
+952	Sa ei tohiks siia tulla, Frederic,	
+953	Kas täna on loengud?	
+954	Ta läks vaatama.	
+955	Selline ta on.	
+956	Mida sa siin teed?	
+957	Tulin sulle ja isale järele.	
+958	Peate kohe kaasa tulema,	
+959	homme võib juba hilja olla.	
+960	[NO TRANSLATION]	missing translation
+961	Kaasa tulema?	
+962	Jah,	
+963	[NO TRANSLATION]	missing translation
+964	lähme kohe.	
+965	Mine tagasi.	
+966	Mine tagasi.	
+967	Minuga ei juhtu midagi, olen ameeriklane.	
+968	[NO TRANSLATION]	missing translation
+969	Mine tagasi isa juurde,	
+970	otsime teise tee.	
+971	[NO TRANSLATION]	missing translation
+972	[NO TRANSLATION]	missing translation
+973	Nii, tere.	
+974	Dokumendid, palun.	
+975	Olen üliõpilane Frederic Pryor.	
+976	Jah, üliõpilane.	
+977	Minu nimi on Frederic Pryor,	
+978	õpin majandust.	
+979	Näete?	
+980	See on minu väitekiri.	
+981	[NO TRANSLATION]	missing translation
+982	[NO TRANSLATION]	missing translation
+983	Vaadake.	
+984	Euroopa kommunistlike riikide majanduspoliitika.	
+985	[NO TRANSLATION]	missing translation
+986	Palju tööd.	
+987	Ei, see on mu ainus koopia.	
+988	Ei!	
+989	Ütle mulle midagi.	
+990	Viimase minuti pakkumine.	
+991	Neil on Londonis kontor.	
+992	Klientide idee pole minu oma.	forced duplication
+993	Klientide idee pole minu oma.	forced duplication
+994	Kalastusretk Shotimaale.	
+995	Mis sorti kalastusretk, Jim?	
+996	Lõhepüük.	
+997	Ütle mulle, et sind ei ähvarda miski. Ütle mulle, et see on ainult tavaline ärireis ja ma ei muretse.	
+998	Mulle on passi vaja.	
+999	Anna mulle mingitki lootust,	
+1000	pole tähtis, kas see tõsi on.	
+1001	Teen seda meie pärast.	
+1002	Mr Michener on teie giid Berliinis.	
+1003	Ta on Ameerika saatkonna atashee.	
+1004	Siis läheb asi tõesti keeruliseks.	
+1005	[NO TRANSLATION]	missing translation
+1006	Viimases kirjas mrs Abelilt, ükskõik, kes ta siis ka on, räägib ta Ida-Berliini advokaadist, mr Vogelist, kes esindab nende huve.	
+1007	Jah, Vogel läks Nõukogude saatkonda Ida-Berliinis ja võib-olla on nad valmis Abelit Powersi vastu vahetama.	
+1008	Keegi ei tea, kes on kes, kuid põhiliselt peaksid nad venelased olema?	
+1009	Noh, Nõukogude omad.	
+1010	Nii me arvame.	
+1011	Mida te silmas peate?	
+1012	Keerake palun kütet juurde.	
+1013	Siin on üks probleem.	
+1014	Nad võivad üritada meid üle kavaldada.	
+1015	Võivad Powersi asemel teise vangi toppida.	
+1016	Teise ameeriklase?	
+1017	Ida-Saksamaa Stasi võttis kinni ameerika üliõpilase	
+1018	Frederic Pryori.	
+1019	Poiss osutus valel pool müüri olevat.	
+1020	Yale´i lõpetamise järel	
+1021	tuleme siia ökonoomikat õppima.	
+1022	[NO TRANSLATION]	missing translation
+1023	Nii et talle võib olla esitatud süüdistus spionaazhis.	
+1024	Tõsiste kuritegude eest on ette nähtud surmanuhtlus.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel võttis meiega ühendust ja ütles, et see on Pryor.	
+1027	Oodake,	
+1028	Vogel esindab mrs Abelit ja seda poissi?	
+1029	Jah, tal on kiire, kell 10 hommikul.	
+1030	Kes ta siis on?	
+1031	Vogel, ida-sakslane või venelane?	
+1032	Saate aru, kui kohtute temaga.	
+1033	Vene saatkond. Ida-Berliin. Homme keskpäeval.	
+1034	Hoffman näitab teile, kuidas sinna pääseb.	
+1035	Näitab, kuidas sinna saab?	
+1036	Mul juba on giid.	
+1037	Õigus?	
+1038	Selline plaan oli, kuid ma ütlesin, et siin on üks probleem.	
+1039	Ma ei sõida teiega,	
+1040	see on juba otsustatud.	
+1041	Ühendriikide ametnikul on keelatud piiri ületada.	
+1042	Miks?	
+1043	See on väga ohtlik.	
+1044	Ida-sakslased võtsid selle poisi kinni.	
+1045	Neil on karistamatuse tunne, mida me ei osanud ette näha.	
+1046	Asi on selles, et Ida-Saksamaa ja Venemaa eesmärgid võivad olla hoopis erinevad.	
+1047	Tegutsege vastavalt olukorrale	
+1048	ja püüdke vahetada Powers Abeli vastu.	forced duplication
+1049	ja püüdke vahetada Powers Abeli vastu.	forced duplication
+1050	Mis sellest üliõpilasest, Pryorist saab?	
+1051	[NO TRANSLATION]	missing translation
+1052	Ärge isegi mõelge mitte.	
+1053	Me tirime ta hiljem välja,	
+1054	Powers on meie eesmärk.	
+1055	Kus teie tuba on?	
+1056	Ma jään Hiltonisse.	
+1057	See pole kaugel.	
+1058	See on Lääne-Berliini number.	
+1059	Jätke meelde ja andke mulle tagasi.	
+1060	Ei,	
+1061	[NO TRANSLATION]	missing translation
+1062	mõtlesin, et kohe.	
+1063	Nõukogud kuulavad rahvusvahelisi liine pealt, kuid kohalikud on puhtad.	
+1064	Igaüks võib igal ajal helistada.	
+1065	See lisa teie passis on sisse- ja väljapääsuloaks Nõukogude idasektorisse.	
+1066	Kohtumine Vogeliga toimub homme keskpäeval.	
+1067	On jäänud ainult mõned läbipääsud itta.	
+1068	Minge linnarongiga, jaama näitasime teel siia.	
+1069	Maha tulete siin, Friedrichstrasse jaamas ja kõnnite Nõukogude saatkonnani Unter den Lindenil.	
+1070	Vaadake kaarti,	
+1071	kaasa te seda ei saa.	
+1072	Kui ameeriklane uurib kaarti, siis on ta spioon.	
+1073	Ta arreteeritakse.	
+1074	Vältige suhtlemist inimestega.	
+1075	[NO TRANSLATION]	missing translation
+1076	Olete välismaalane, siis olete ohtlik.	
+1077	Toitu seal ei jätku ja asjad hakkavad käest ära minema.	
+1078	Seal on jõugud, seadustest ei peeta alati kinni.	
+1079	Ja hoidke müürist eemale.	
+1080	Nende poolel on müüri ääres vaba tsoon,	
+1081	nad kutsuvad seda Surmaribaks.	
+1082	Ületad selle ja sind tulistatakse.	
+1083	Kas on midagi, mille eest ei arreteerita ega lasta maha?	
+1084	Ärge muretsege liiga palju selle pärast, mida Michener ütles.	
+1085	Ei, ma muretsen selle pärast, mida teie ütlesite.	
+1086	See nooruk, Pryor, ida-sakslane, kui vana ta on?	
+1087	Kakskümmend viis,	
+1088	mis siis?	
+1089	Sama vana, kui Dougie.	
+1090	Kes?	
+1091	Minu sekretär.	
+1092	Frederic Pryor.	
+1093	Olgu, olgu.	
+1094	[NO TRANSLATION]	missing translation
+1095	Niisiis, ma vabandan, kui see solvab.	
+1096	[NO TRANSLATION]	missing translation
+1097	Mantel?	
+1098	Hea küll.	
+1099	Kas räägite minu keelt?	
+1100	Jah, söör.	
+1101	Olen James Donovan,	
+1102	tulin kohtuma mr Vogeliga.	
+1103	Mr Vogel.	
+1104	Ta ei tööta siin,	
+1105	kuid kohtumine oli määratud saatkonda.	
+1106	[NO TRANSLATION]	missing translation
+1107	Mr Donovan!	
+1108	Lõpuks ometi kohtusime.	
+1109	Olen Helen Abel.	
+1110	Kas mu mees on terve?	
+1111	[NO TRANSLATION]	missing translation
+1112	Ta on korras.	
+1113	Kuidas Rudolfil läheb?	
+1114	Nii hästi, kui võimalik.	
+1115	Ja me saame ta tagasi?	
+1116	See on meie tütar.	
+1117	Kuidas läheb?	
+1118	Lydia.	
+1119	Teie olete mr Vogel?	
+1120	Ei, ei.	
+1121	Mina ei ole Vogel.	
+1122	Olen Drewsi nõbu.	
+1123	See on Rudolfi nõbu.	
+1124	Jah, Drewsi nõbu.	
+1125	Mina olen Drewsi nõbu.	
+1126	Drewsi, jah.	
+1127	Mina olen Helen Abel.	
+1128	Millal me teda näha saame?	
+1129	Millal teie valitsus ta vabastab?	
+1130	Olen pisut segaduses.	
+1131	Tulin kohtuma mr Vogeliga.	
+1132	Mr Vogel on meie advokaat.	
+1133	Pidime pidama läbirääkimisi vahetuse osas.	
+1134	Et Rudolf siia tuua?	
+1135	Jah, jah, siia tuua.	
+1136	Kuid kõik pole nii lihtne, saate aru?	
+1137	See peab olema vahetus.	
+1138	Teda pole siin?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Mr Donovan?	
+1143	Mr Vogel.	
+1144	Ei, ei,	
+1145	mis te nüüd.	
+1146	Minu nimi on Schischkin,	
+1147	Ivan Schischkin.	
+1148	Olen Nõukogude saatkonna teine sekretär.	
+1149	Oleks olnud kohatu mr Vogel siia kutsuda,	
+1150	ta on Saksamaa kodanik.	
+1151	Niisiis olete te siin selleks, et...	
+1152	Et kohtumisele kaasa aidata.	
+1153	Võib-olla peaks mrs Abel mõnes kõrvalises kohas maha rahunema?	
+1154	[NO TRANSLATION]	missing translation
+1155	Tänan.	
+1156	Olen pisut segaduses.	
+1157	Jah.	
+1158	Mulle pole tähtis, kellega ma räägin, kui asi puudutab vahetust.	
+1159	Kas teiega saan sellest rääkida?	
+1160	Jah, muidugi.	
+1161	Me võime rääkida.	
+1162	Palun, võtke istet, mr Donovan.	
+1163	Kuidas te idasektorisse tulite?	
+1164	Rongiga,	
+1165	S-Bahniga.	
+1166	Te olite üksi?	
+1167	Jah.	
+1168	Kas teil on mandaat?	
+1169	Võib-olla juba teate minust,	
+1170	olen tavakodanik.	
+1171	Olen Brooklyni advokaat Ameerika Ühendriikidest ja ma leidsin tihedast graafikust aega, et aidata oma klienti, Rudolf Abelit.	
+1172	Olen volitatud läbi viima Abeli vahetust Francis Gary Powersiga.	
+1173	Siin on armuandmiskiri Abelile, mis allkirjastatakse kohe peale vahetust.	
+1174	See on ainus põhjus, miks siin olen.	
+1175	Loodetavasti otsustatakse läbirääkimistel kiiresti.	
+1176	Abel Francis Gary Powersi ja Frederic Pryori vastu.	
+1177	Pryor pole meie käes.	
+1178	Ei?	
+1179	Ta pole teie käes?	
+1180	Ma tean Pryorist, kuid ta arreteeriti Ida-Saksamaal ja mitte Nõukogude Sotsialistlike Vabariikide Liidus.	
+1181	Selles siis on põhiline probleem.	
+1182	Teie riigi nimi on liiga pikk.	
+1183	Ja-jah.	
+1184	Kui vabastame Powersi, siis ainult meie riikidevahelise heasoovlikkuse edendamiseks.	
+1185	Siis ei tule vahetusest midagi välja.	
+1186	[NO TRANSLATION]	missing translation
+1187	Aga võib-olla vabastate Abeli, kui hea tahte sümboli meie saksa sõprade vastu ja siis, mõni kuu hiljem, vabastame meie Powersi.	
+1188	See oleks võimalus.	
+1189	Ei,	
+1190	see on meile vastuvõetamatu,	
+1191	vajame, et see oleks vahetus.	
+1192	Võite nimetada seda, kuidas tahate, kuid see peab olema vahetus.	
+1193	Võime Abeli 48 tunniga siia tuua.	
+1194	Powers peab olema siin samal ajal, kui Abeli üle anname.	
+1195	[NO TRANSLATION]	missing translation
+1196	See on...	
+1197	Võime seda kutsuda kärsituks plaaniks.	
+1198	Kutsuge, kuidas tahate.	
+1199	Ma võin teie kärsitu plaani Moskvasse edasi anda,	
+1200	kuid võib üles kerkida küsimus, millest selline kiirustamine.	
+1201	Seepärast, et olen külma saanud.	
+1202	Ma ei ela Berliinis, tahan koju minna.	
+1203	Nad võivad arvata: Ameeriklased said Abelilt kätte kogu info	
+1204	ja nüüd neil on vahetusega kiire, lootes Powersi enne kätte saada, enne kui see meile kogu info välja ladunud on.	
+1205	See pole võrdväärne vahetus, söör.	
+1206	Tahate öelda, et siis, kui Powers on kõik välja ladunud, siis tahab Moskva vahetada?	
+1207	Miks ei tahaks?	
+1208	Mis sest Abelist, kui ta ka sureb Ameerika vanglas, järgmine vene spioon mõtleb enne, kui ta vahele jääb, kas ikka tasub suu lahti teha.	
+1209	Te ei tea iial,	
+1210	kas äkki ei taha Abel veelkord sinist taevast näha ja on valmis vene saladusi ameeriklastele vastutasuks väikeste soodustuste eest andma.	
+1211	Kust meie seda teame?	
+1212	Oleme väikesed inimesed, kes teevad ainult oma tööd.	
+1213	Nagu leitnant Powerski,	
+1214	ta on ainult piloot.	
+1215	Ta tegi pilte 20 km kõrguselt, kui ta alla lasti.	
+1216	Minu riigi inimesed võtavad seda, kui sõjategevust.	
+1217	Peame sellelt karussellilt maha ronima, söör.	
+1218	Järgmine viga, mis meie riigid teevad, võib jääda üldse viimaseks.	
+1219	Läbi rääkima hakkame meie, kui meie riigid seda ei suuda.	
+1220	Ma küsin Moskvast.	
+1221	Kes teab, mis nad ütlevad.	
+1222	Seal on paljud, kes ei taha, et see vahetus kunagi toimuks.	
+1223	Kas saate homme tagasi tulla, et nende vastust arutada?	
+1224	Powers Abeli	
+1225	ja Frederic Pryori vastu.	
+1226	Nagu ma ütlesin, on Pryor Saksa Demokraatliku Vabariigi julgeolekuorganite käes.	
+1227	Olen kindel, et saate abinõud tarvitusele võtta.	
+1228	Olen ainult võõrriigi saatkonna sekretär.	
+1229	Olgu, olgu.	
+1230	Peaksite selle mr Vogeliga kohtuma,	
+1231	annan teile aadressi.	
+1232	Siis mr Vogel on ikkagi olemas?	
+1233	Miks te arvate, et ei ole?	
+1234	Takso pole kaugel.	
+1235	Ja palun, mr Donovan, pange mantel sellise ilmaga selga.	
+1236	Minu mantel varastati.	
+1237	Mida teie siis ootasite?	
+1238	Viienda avenüü kauplusi?	
+1239	Kas nii?	
+1240	Mr Donovan.	
+1241	Mr Vogel.	
+1242	Palun tulge sisse.	
+1243	[NO TRANSLATION]	missing translation
+1244	Vabandage, et saatkonda ei tulnud.	
+1245	Nõukogulased on minu läbirääkimistel osalemise vastu.	
+1246	See on tüütu.	
+1247	Püüan ikka aru saada, millisel positsioonil keegi on.	
+1248	Positsioonil?	
+1249	Jah,	
+1250	ja millised huvid neil on.	
+1251	[NO TRANSLATION]	missing translation
+1252	See on uus maailm.	
+1253	Kõik on väga ebakindel, eks ole?	
+1254	Siin on minu ettepanek.	
+1255	Ma olen hea sõber.	
+1256	Sõber,	
+1257	ei, tema on vanem.	
+1258	Protezhee?	
+1259	Saksa Demokraatliku Vabariigi peaprokurör.	
+1260	Palun istuge.	
+1261	See õnnetuke, Frederic Pryor, ta oli vales kohas valel ajal.	
+1262	Kuid iga õnnetus võib õigetel asjaoludel muutuda eduks, mr Donovan, mis te arvate?	
+1263	[NO TRANSLATION]	missing translation
+1264	Teie riik keeldub tunnustamast Saksa Demokraatlikku Vabariiki.	
+1265	Nad eelistavad mõelda, et SDV ei eksisteeri üldse.	
+1266	Vabandust.	
+1267	Eesmärgi nimel on teie valitsus valmis tunnustama seda kohta, kus te olete, nagu SDV. Peaprokurör on valmis teiega, kui oma riigi esindajaga, läbirääkimisi pidama mr Pryori tagastamise üle.	
+1268	Mr Vogel, ma ei ole siin oma riigi esindajana.	
+1269	Selge.	
+1270	Milleks siis need mängud, mr Donovan?	
+1271	[NO TRANSLATION]	missing translation
+1272	Mul pole ametlikku positsiooni.	
+1273	Tore.	
+1274	Teie ei esinda USA-d, mina ei esinda SDV-d.	
+1275	Minu klient on Lydia, Rudolfi naine.	
+1276	Mul on samuti...	
+1277	Lydia on tema tütar,	
+1278	Helen on naine.	
+1279	[NO TRANSLATION]	missing translation
+1280	Olen valmis pakkuma Frederic Pryori vahetuseks Rudolf Abeliga.	
+1281	Et kõik oleks selge:	
+1282	meie toome Rudolf Abeli,	
+1283	teie toote samal ajal üliõpilase Pryori.	
+1284	Samal ajal.	
+1285	Tingimata.	
+1286	Pakume teile vahetust oma elu lõpul oleva venelase ja elu alustava ameerika üliõpilase vahel.	
+1287	Schischkin?	
+1288	Ta pole saatkonna sekretär.	
+1289	Ivan Schischkin on KGB ülemus Ida-Euroopas.	
+1290	Pole tähtis, kes ta on, ta annab meie ettepaneku Moskvasse edasi ja need otsustavad.	
+1291	Kas võin mantlit laenata?	
+1292	Oma jao ma kaotasin.	
+1293	Kuidas te mantli kaotasite?	
+1294	No teate, see spiooni värk.	
+1295	Ma annan teile teise.	
+1296	Tore, sest...	
+1297	Kes see Vogel on?	
+1298	Teda me ei tunne.	
+1299	Võib tõesti olla see, mida ta ütles,	
+1300	peaprokuröri sõber.	
+1301	Mees, kelle SDV saatis läbirääkimisi pidama.	
+1302	Tundub, nagu püüaksid ida-sakslased omale laua ääres kohta leida.	
+1303	SDV tagastab Abeli venelastele, teenides nende tänu	
+1304	ja satub kõigisse ajalehtede pealkirjadesse,	
+1305	mis tugevdab Ida-Saksamaa positsioone.	
+1306	Kuid nende soovid meid ei huvita.	
+1307	Minge venelaste juurde,	
+1308	minge venelaste juurde,	
+1309	ja leppige kokku Powersi vahetus Abeli vastu.	
+1310	See tähendab, et vahetus on tõepoolest võimalik?	
+1311	Jah, te ju ise rääkisite sellest.	
+1312	Abel pannakse lennuki peale, see lendab reedel ära.	
+1313	Kui Schischkin saab rohelise tule, jääb üle ainult üksikasjades kokku leppida.	
+1314	Meie poisi nende oma vastu vahetamine.	
+1315	Meie poiste,	
+1316	kahe poisi,	
+1317	Powersi ja Pryori vastu.	
+1318	Ei, ärge isegi mitte püüdke mind odava sentimentaalsusega ära osta.	
+1319	Ainult Powers on tähtis.	
+1320	Unustage see uljaspea, kes leidis hea mõtte olevat õppida nõukogude majandust Berliinis keset külma sõda.	
+1321	Powers on see, keda tahame.	
+1322	Teile isegi ei meeldi Powers.	
+1323	Kõik vihkavad Powersit.	
+1324	Ta ei tapnud ennast ja kommud vedasid ta TV-sse kõigile vaatamiseks.	
+1325	Ta on kõige enam vihatud mees Ameerikas	
+1326	peale Rudolf Abelit,	
+1327	võib-olla ka peale mind.	
+1328	Ärka üles!	
+1329	Ma tahan magada.	
+1330	Tahan magada.	
+1331	Ma ütlesin, et saate magada peale meie jutuajamist.	
+1332	Pange nüüd mind tähele.	
+1333	Teie valitsus ei hooli teist,	
+1334	te teate seda.	
+1335	Mitte kellestki teist.	
+1336	Ma tean 12 U-2 pilooti, kes said ajukahjustuse.	
+1337	Nad on abitus seisundis kõrguse ja hapnikupuuduse pärast.	
+1338	Kuid nad sunnivad teid ja teie sõpru lendama, Gary.	forced duplication
+1339	Kuid nad sunnivad teid ja teie sõpru lendama, Gary.	forced duplication
+1340	Nad andsid teile selle.	
+1341	[NO TRANSLATION]	missing translation
+1342	Kaaliumtsüaniid.	
+1343	Kas see on hoolitsuse moodi?	
+1344	Milline on seadme hävitamise seadeldise struktuur?	
+1345	Kuidas see seade töötab?	
+1346	Kuidas seda kasutatakse ja milline on seadme löögiulatus?	
+1347	Ma ei tea.	
+1348	Pilootidele ei näidata kunagi varustust.	
+1349	Kui suur on territoorium, mida pildistate ühe ülelennuga?	
+1350	Ma ei tea.	
+1351	Kas teie juhtisite lennukit 9. aprillil Baranovichi majanduspiirkonnas ja lennuvälja kohal?	
+1352	Mitte mina,	
+1353	see oli minu esimene ülelend.	
+1354	Pean teada saama, milline on lennuki vabalennu kaugus.	
+1355	Kuna see lendab nii kõrgel.	
+1356	Oleme kursis, et see saavutab lennulae 21 km.	
+1357	Gary, me teame seda	
+1358	ja me tahame teada, kust need lennukid üle lendasid.	
+1359	Kus toimusid lennud, Gary.	
+1360	Tahame, et kohe rääkima hakkaksite.	
+1361	Kohe.	
+1362	Siis saate magada.	
+1363	Söör, ärgake.	
+1364	Ärgake üles, söör.	
+1365	Kas saaksite minuga tulla, palun?	
+1366	Jah.	
+1367	Me peame minema.	
+1368	Jah, muidugi.	
+1369	Kas suudate üles tõusta?	
+1370	Jah.	
+1371	Hästi.	
+1372	Kas prillid võtsite?	
+1373	[NO TRANSLATION]	missing translation
+1374	Mis kell on?	
+1375	On juba hilja, kuid me peame rääkima ja siis peate lennukile jõudma.	
+1376	Olgu.	
+1377	Olgu.	
+1378	Tõuske üles.	
+1379	Tõuske üles.	
+1380	[NO TRANSLATION]	missing translation
+1381	Tasakene.	
+1382	Tulge.	
+1383	Tänan.	
+1384	Teisele poole.	
+1385	Lähme.	
+1386	Te ütlesite lennuki peale?	
+1387	Siitkaudu, palun.	
+1388	[NO TRANSLATION]	missing translation
+1389	Siis saime Moskvast positiivse vastuse oma ettepanekule. Me aitame oma sõpradel Saksa Demokraatlikust Vabariigist vahetada mr Powersi mr Abeli vastu.	
+1390	Suurepärane.	
+1391	Kas tohin pakkuda Glienicke silda vahetuskohana?	
+1392	Miks mitte Charli kontrollpunkt?	
+1393	Me ei vaja publikut.	
+1394	Glienicke sild on väga vaikne koht, eriti varahommikul.	
+1395	Glienicke sild,	
+1396	ma hoolitsen meie poole eest.	
+1397	Abel jõuab siia reedel,	
+1398	niisiis laupäeva hommikul?	
+1399	Alati kannatamatu?	
+1400	Tahan rutem koju jõuda.	
+1401	Niisiis laupäeva hommikul?	
+1402	5:30?	
+1403	Hästi.	
+1404	Oleme kokku leppinud.	
+1405	Helistage sel numbril ettenägematutel asjaoludel.	
+1406	Hea küll.	
+1407	Keegi võtab alati vastu.	
+1408	Ma ei kavatse seda kasutada.	
+1409	Kas võtame toosti meie kokkuleppe terviseks?	
+1410	Miks ei?	
+1411	Armeenia brändi.	
+1412	Hea naps teie külmetuse puhul.	
+1413	Tänan.	
+1414	Mis te arvate, kui...	
+1415	See küll asjasse ei puutu, kuid tahaksin teile esitada paar küsimust.	
+1416	Te ei pea vastama.	
+1417	Vastan, kui oskan.	
+1418	Mulle meeldib see teie agent.	
+1419	Mis temaga juhtub, kui ta tagasi kodus on?	
+1420	Kõigepealt peame veenduma, et meie agendist ei saanud teie oma.	
+1421	Ma juba ütlesin teile, et ta käitus väärikalt.	
+1422	Ta on ikka veel teie oma, uskuge mind.	
+1423	Muidugi te ütlete seda, kuid kas see ka tõsi on, või pole see tõsi.	
+1424	Arvan, et see tuleb välja.	
+1425	Andestage, et peale käin, kuid kas teda ähvardab oht, kui vahetus on toimunud?	
+1426	Mida ma öelda oskan?	
+1427	On selline aeg, meid kõiki ähvardab oht.	
+1428	Terviseks.	
+1429	[NO TRANSLATION]	missing translation
+1430	<Palun vabandust. Mul on teade mr Donovanile./> Glienicke sillal vahetust ei tule.	missing English
+1431	Mida te ütlesite, söör?	
+1432	Vahetust ei toimu.	
+1433	Unustage Frederic Pryor.	
+1434	Mr Vogel, arvasin, et leppisime eile kokku.	
+1435	Me leppisime kokku Abeli vahetamise Pryori vastu.	
+1436	Nüüd ma kuulen, et olete petis, kes müüb sama kaupa kahele kundele.	
+1437	Abel Pryori vastu müüte meile.	
+1438	Jah.	
+1439	Ja Abel Powersi vastu müüte nõukogulastele.	
+1440	Ma ei mõista, milles siin probleem, kui kokkuleppes on kaks, kolm või neli osalist.	
+1441	Mis vahet seal on?	
+1442	Teie kokkulepe ei rahulda meie poolt.	
+1443	Kuulake, mr Vogel...	
+1444	Ilmselt te ei tea, kellega teil tegu on.	
+1445	Siin on Saksa Demokraatliku Vabariigi huvid mängus.	
+1446	Pidada dialoogi ja läbirääkimisi teise suveräänse riigiga, Ameerika Ühendriikidega,	
+1447	nagu võrdsega,	
+1448	selle asemel, et teha meid NSVL-i klounideks.	
+1449	Meie kutsume neid venelasteks.	
+1450	Ärge raisake aega.	
+1451	Mul on kohtumine, söör.	
+1452	Teie raiskate minu aega.	
+1453	Parandage mind, kui ma eksin milleski.	
+1454	Teil on poiss, üliõpilane, te teate, et ta pole spioon ja ei kujuta teile ohtu.	
+1455	Selle isiku tagastamisega muutute võrdväärseks partneriks Nõukogude-Ameerika läbirääkimistel	
+1456	ja need on läbirääkimised meie ja teie kahe vahel.	
+1457	Me ei ürita kahte tehingut teha,	
+1458	me teeme ainult ühe.	
+1459	Ühe.	
+1460	Mul on kurb vaadata, kuidas Ida-Saksa Vabariik jäetakse tähelepanuta.	
+1461	Te leppisite nõukogudelastega kokku ilma minuga konsulteerimata.	
+1462	Kas need on läbirääkimised või salasepitsus?	
+1463	Kui oleks salasepitsus, siis teeksin teile kahju.	
+1464	Siit saavad kõik kasu.	
+1465	Meil on samad eesmärgid.	
+1466	Ei, see on teie arvamus.	
+1467	Kus on teie kohtumine, söör?	
+1468	Läänetsoonis,	
+1469	Ku'dammis.	
+1470	Tore.	
+1471	Vaadake ringi.	
+1472	Kuidas idasektor läänesektoriga võrreldes välja näeb?	
+1473	[NO TRANSLATION]	missing translation
+1474	Meie vene sõbrad otsustasid, et me ei peaks meie pealinna üles ehitama,	
+1475	kuid me elame meie vene sõprade tekitatud varemete keskel.	
+1476	Laske käia, kaitske neid venelasi.	
+1477	Meie ei hakka selles osalema.	
+1478	Ilma Pryorita tehingut ei tule.	
+1479	Me ei jäta teda.	
+1480	Kas see on teie või teie riigi positsioon?	
+1481	Söör, ma olen siin,	
+1482	ma räägin teiega.	
+1483	Kuid te ei esinda oma valitsust.	
+1484	Te ei tea isegi, kes te olete	
+1485	ja meie samuti mitte.	
+1486	Olge ettevaatlik,	
+1487	mr Donovan, see pole Brooklyn.	
+1488	Kuulake, söör,	
+1489	Te peaksite teadma, et asja huvides esindan ma oma valitsust.	
+1490	Te teate, kes ma olen.	
+1491	Kas tean?	
+1492	[NO TRANSLATION]	missing translation
+1493	Kas teil dokumendid on korras?	
+1494	Muidugi mitte,	
+1495	vahet pole.	
+1496	Teiesugune ameerika advokaat võib kelle tahes surnuks rääkida.	
+1497	Kas ei suuda?	
+1498	Minge temaga.	
+1499	Miks?	
+1500	Passiga on probleem.	
+1501	[NO TRANSLATION]	missing translation
+1502	Milline probleem?	
+1503	Milles on probleem?	
+1504	Minge kaasa.	
+1505	Ja pidage meeles, Frederic Pryori saatus on meie kätes.	
+1506	Jumal!	
+1507	Alustan vististi kohvist, palun.	
+1508	Siis tahaksin Hiltoni kombot ja ameerika eine,	
+1509	ja kohvi.	
+1510	Kaks hommikueinet?	
+1511	Jah.	
+1512	Kõigepealt üks, või...	
+1513	Kaks koos,	
+1514	kohe kui valmis saavad.	
+1515	Ja kohvi.	
+1516	[NO TRANSLATION]	missing translation
+1517	Mida te siin teete?	
+1518	Mõnikord tahaks Saksamaal head ameerika toitu saada.	
+1519	Mis juhtus?	
+1520	Kus te viimasel ööl olite?	
+1521	Vogel leidis tee, kuidas saaksin trellide taga aega veeta.	
+1522	Oh Jumal!	
+1523	Ausalt öeldes, ega see polnudki palju hullem kohast, kuhu teie mu toppisite.	
+1524	Venelased on vahetusega nõus, kuid Vogel ütles, et ida-sakslased ei lähe sellele	
+1525	ja ei vabasta Pryori.	
+1526	Tore. See on hea.	
+1527	Tähendab, et nõukogulased on nõus Powersit välja vahetama.	
+1528	Meil on Powers.	
+1529	Meil on Powers.	
+1530	Väga hea.	
+1531	Ei, ida-sakslased pole sellega nõus.	
+1532	Me ei saa Pryorit ja see on tähtis.	
+1533	Iga inimene on tähtis.	
+1534	Muidugi.	
+1535	Te üritasite.	
+1536	Abel on tulemas. Homme hommikul ajame kõik korda.	
+1537	Oodake üks hetk.	
+1538	Nii on lihtsam.	
+1539	Nii on lihtsam.	
+1540	Me ei saa poissi.	
+1541	Jah, ma saan aru,	
+1542	kõik on otsustatud.	
+1543	Võime eirata teadet, mille hommikul saime.	
+1544	Mis teadet?	
+1545	Ida-sakslastelt.	
+1546	Helistati numbrile, mille teile andsin.	
+1547	Nad ütlesid, et tahavad teiega täna rääkida.	
+1548	Kas Vogel helistas?	
+1549	Ei.	
+1550	Harald Otti, Ida-Saksamaa peaprokuröri kabinetist.	
+1551	[NO TRANSLATION]	missing translation
+1552	Mida ta tahtis?	
+1553	Teiega rääkida.	
+1554	Kuid kõik on hästi, ma ei saa paluda teil sinna tagasi minna.	
+1555	Te olete seal mõneks ajaks soovimatu isik, nii et ärge mängige oma õnnega.	
+1556	Nii et ta tahab minuga kohtuda.	
+1557	Mis ajal?	
+1558	Ei,	
+1559	kuulake,	
+1560	te ei pea minema,	
+1561	tegelikult ei peaks te minema.	
+1562	Tegelikult ei tohi te minna.	
+1563	Me leppisime nõukogulastega kokku,	
+1564	seda ei tohi ära rikkuda.	
+1565	Ma ei riku seda.	
+1566	Te ei lähe!	
+1567	Ärge olge idioot.	
+1568	Ma paluksin...	
+1569	Nautige oma ameerika einet.	
+1570	Ma otsustasin viia meie vestluse kõrgemale tasemele, austusest teie vastu.	
+1571	Tänan teid, söör.	
+1572	Ma ei tea, miks asjad nii keeruliseks läksid.	
+1573	Arvan, et elus juhtub nii mõndagi.	
+1574	Et asi selgem oleks, siis ütlen, et oleme täielikult valmis vahetama üliõpilase Pryori Rudolf Abeli vastu.	
+1575	Ma tean, mr Vogel, et Pryor on teie jaoks väga tähtis.	
+1576	Jah, kuid...	
+1577	Me valmistasime sel puhul memorandumi.	
+1578	Aa, memorandumi.	
+1579	Muidugi teeme me kahepoolse vahetuse.	
+1580	Jah, muidugi.	
+1581	Ma pole küll kindel, mida see tähendab,	
+1582	kuid minu riigile on sama tähtis ka Francis Gary Powers,	
+1583	Ei!	
+1584	Vaat, miks kõik nii keeruliseks läks.	
+1585	Powers,	
+1586	mis kasu temast on?	
+1587	Nad tahavad teda karistamiseks tagasi.	
+1588	Mis tehtud, see tehtud.	
+1589	Tema teadis, millele ta läks ja ma ei kahtlegi, et Abel samuti.	
+1590	Meie pakume tema asemele isikut, kelle süütuses te kindel olete.	
+1591	Ja see on õige.	
+1592	Tema peaksitegi tagasi viima.	
+1593	Tulevik,	
+1594	mõelge tulevikule.	
+1595	Ott.	
+1596	Ott.	
+1597	Vabandage,	
+1598	kas saaksite minuti oodata, söör?	
+1599	Andke andeks, söör.	
+1600	Peaprokurör pidi kiire asjatoimetuse tõttu ära sõitma.	
+1601	Ta lahkus?	
+1602	Jah,	
+1603	ma oletan.	
+1604	Olen üle tunni oodanud.	
+1605	Vabandust, söör.	
+1606	Noormees.	
+1607	Tulge siia.	
+1608	Kõik on hästi,	
+1609	astuge lähemale.	
+1610	[NO TRANSLATION]	missing translation
+1611	Istuge.	
+1612	Laske käia,	
+1613	istuge.	
+1614	Kas teile meeldib siin töötada?	
+1615	See on hea töö, söör.	
+1616	[NO TRANSLATION]	missing translation
+1617	Peaks olema huvitav.	
+1618	Jah, söör.	
+1619	Tähtis samuti.	
+1620	Te räägite hästi minu keelt.	
+1621	Jah, kardan et mitte väga hästi,	
+1622	kuid hästi küll, söör.	
+1623	Tore.	
+1624	Tore.	
+1625	Teate, ma kaotasin just oma läbirääkimispartneri ja ma vajan kedagi, kellega saaksin rääkida ja te tundute mulle sobiv noormees olevat.	
+1626	Kas saan teiega rääkida?	
+1627	[NO TRANSLATION]	missing translation
+1628	Kõik on hästi.	
+1629	Pole probleemi.	
+1630	[NO TRANSLATION]	missing translation
+1631	Tahan ainult, et annaksite oma ülemusele teate edasi.	
+1632	Kuid väga, väga täpselt.	
+1633	Kas saite aru?	
+1634	Jah, söör,	
+1635	kuid võib-olla ootaksite, kuni...	
+1636	Ei,	
+1637	asi on selles, et olen külmetanud ja tahan minna tagasi koju ja voodisse heita.	
+1638	Kas annate teate edasi?	
+1639	Muidugi.	
+1640	Teade on järgmine:	
+1641	Tehingut ei tule, kui me ei saa Powersit ja Pryorit.	
+1642	Kas saite aru?	
+1643	Jah, söör.	
+1644	Vahetus on määratud homme hommikuks,	
+1645	kuid seda ei tule, kui me ei saa mõlemaid.	
+1646	Neid kahte meest.	
+1647	Kaks, kaks.	
+1648	Jah, söör.	
+1649	Kui tehingut ei toimu, peab teie ülemus venelastele teatama.	
+1650	Ta peab neile ütlema, miks nõukogulased Abelit ei saanud.	
+1651	Jah, söör.	
+1652	Öelge talle veel:	
+1653	Seni on Abel hea sõdur olnud, kuid ta arvab, et saab koju.	
+1654	Kui ütleme talle, et ta ei saa koju, et nõukogulased ei taha teda, et ta ei saa iialgi koju,	
+1655	siis oletan, et tema käitumine võib muutuda.	
+1656	Kes saakski teda selle eest süüdistada?	
+1657	See on pikk teade.	
+1658	Kas peate meeles?	
+1659	Jah, söör,	
+1660	pean küll.	
+1661	Tore.	
+1662	Olete hea poiss.	
+1663	[NO TRANSLATION]	missing translation
+1664	Öelge talle seda, et vahetust ei tule, kui ta minuga enne tööpäeva lõppu ühendust ei võta.	
+1665	Tal on minu number.	
+1666	Kui vahetust ei toimu, siis miks peaksime homme kõik nii vara tõusma?	
+1667	Ei, söör, see oleks kasutu.	
+1668	Kas teete nalja?	
+1669	Te teete nalja!	
+1670	Ei tee.	
+1671	Mul on peenraha vaja.	
+1672	Tegite kõik täpselt vastuoksa.	
+1673	Minu instruktsioonid käskisid mul olukorda kompida.	
+1674	Teie ülesanne oli Powers välja tirida, mitte Pryor.	
+1675	Seda polnud esialgses lepingus.	
+1676	Te lasite selle õhku.	
+1677	Kust te võtate?	
+1678	Mina olen selles osas optimistlikum.	
+1679	Te lasite selle õhku!	
+1680	Ärge muretsege.	
+1681	Usun, et kõik läheb hästi.	
+1682	Kuidas te teate?	
+1683	Te ei tea seda.	
+1684	USA.	
+1685	New York.	
+1686	Tänan.	
+1687	Kuulake, nende peamine eesmärk oli mind testida.	
+1688	Kas nõustun ühe vahetusega ja kummaga?	
+1689	Kuid ma ütlesin: Ei, kaks ühe vastu.	
+1690	Nüüd nad teavad, milline meie positsioon on.	
+1691	Jah, aga mis siis, kui nad ütlevad:	
+1692	Unustage ära!	
+1693	Jätke ta omale, tehingut ei tule?	
+1694	Siis lasin ma kõik õhku.	
+1695	Tere, kallis,	
+1696	see olen mina.	
+1697	Jah,	
+1698	kalaretk oli tore.	
+1699	Olen Londonis, üksainus kohtumine on jäänud ja siis tulen koju.	
+1700	Jah, mul on marmelaad meeles.	
+1701	Selles poes Regent Parki kõrval.	
+1702	Hästi, lähen, kui aega saan.	
+1703	Armas, kas saaksin Rogeriga rääkida?	
+1704	Aga tüdrukutega?	
+1705	Kas on kedagi, kes hõivatud pole?	
+1706	Kas nad vähemalt märkasid, et mind kodus pole?	
+1707	Nad on nõus.	
+1708	Kaks ühe vastu.	
+1709	Hiilgav!	
+1710	Võtame selle peale.	
+1711	Üks probleem.	
+1712	Milline?	
+1713	Nad ei vabasta Pryorit koos Powersiga, mitte samal sillal.	
+1714	Sakslased vabastavad ta samal ajal,	
+1715	kui venelased annavad Powersi sillal meile üle. Nad vabastavad Pryori Charlie kontrollpunktis.	
+1716	Mida see tähendada võib?	
+1717	Arvan, et see tähendab: Viimane sõna jääb neile.	
+1718	Kuid nad vabastavad Pryori.	
+1719	<Ma ei tea seda./> Öelge teie mulle.	missing English
+1720	[NO TRANSLATION]	missing translation
+1721	Kus nad on?	
+1722	Ja Powers?	
+1723	Kus ta on?	
+1724	Nad jäävad hiljaks.	
+1725	Ei,	
+1726	meie tulime liiga vara.	
+1727	Kas tohin?	
+1728	Jah.	
+1729	Hoffman.	
+1730	Jah?	
+1731	Arvan, et neil on...	
+1732	Mida?	
+1733	snaiprid.	
+1734	Olen kindel, et on.	
+1735	Miks te kindel olete?	
+1736	Sest et meil on snaiprid.	
+1737	Astuge välja, söör.	
+1738	Jim.	
+1739	Kallis Jim.	
+1740	Kuidas läheb?	
+1741	Tore näha teid.	
+1742	Organiseerisite selle kõik minu jaoks?	
+1743	Vaatame kõigepealt, kuidas läheb.	
+1744	Kas on uudiseid Pryori kohta Charlie kontrollpunktist?	
+1745	Veel pole midagi juhtunud.	
+1746	Vabandage, söör.	
+1747	See on leitnant Joe Murphy USA Õhujõududest. Ta on siin tuvastamaks Powersit.	
+1748	Leitnant Murphy.	
+1749	Söör.	
+1750	Võivad tekkida probleemid.	
+1751	Olin noor mees, kui lahkusin.	
+1752	Kelle nad saadavad mind ära tundma?	
+1753	Loodan, et mitte teie valeperekonda Ida-Saksast.	
+1754	Nad ei suutnud teineteistki ära tunda.	
+1755	Tundub, et nad saabusid.	
+1756	Mis siis ikka, lähme.	
+1757	Jääge siia, mr Donovan.	
+1758	Mitte mingil juhul.	
+1759	Tehke värav lahti.	
+1760	Mis saab, kui kodus tagasi olete?	
+1761	Ma arvan,	
+1762	et joon viina.	
+1763	[NO TRANSLATION]	missing translation
+1764	[NO TRANSLATION]	missing translation
+1765	Kuid, Rudolf, kas pole võimalik...	
+1766	Et mind lastakse maha?	
+1767	Nii jah.	
+1768	Te ei muretse?	
+1769	Kas see aitaks?	
+1770	Vastuseks teie küsimusele, mu sõber, ma käitusin austusväärselt,	
+1771	arvan, et nad teavad seda.	
+1772	Kuid mõnikord arvavad inimesed valesti.	
+1773	Nad on ainult inimesed.	
+1774	Vaatame, kuidas nad mind kohtavad.	
+1775	Mida ma peaksin ootama?	
+1776	Mind kas emmatakse, või osutatakse ainult tagaistmele.	
+1777	<Võtke kaabu ja prillid peast. Kas teie naisel on sünnimärk?/> Jah. <Kus? Paremal rinnal./>	missing English
+1778	Võtke müts peast.	
+1779	Tere, Powers.	
+1780	Tere, Murph.	
+1781	Jah, see on Powers.	
+1782	Hea küll, mr Donovan,	
+1783	me tuleme nüüd.	
+1784	Oodake.	
+1785	Uskuge mind, ma tean.	
+1786	Seni pole siin kedagi.	
+1787	Nad lasevad Charlie kontrollpunktis veel ühe mehe lahti,	
+1788	peame kindlad olema, et ta sinna jõuab.	
+1789	Nüüd!	
+1790	Nagu kokku lepitud, palun.	
+1791	Lähme.	
+1792	Pryor kas vabastatakse või mitte,	
+1793	lähme.	
+1794	Seda nad loodavadki, et me nii käitume.	
+1795	Meie anname neile mõista, et me seda ei tee.	
+1796	Ma sülitan selle peale, mida nemad tahavad,	
+1797	meil on oma eesmärk.	
+1798	Minge, Abel.	
+1799	Minge, söör.	
+1800	Te võite minna.	
+1801	Tegutseme plaani järgi, või kõik muudetakse ära.	
+1802	Alustame vahetust või me lahkume.	
+1803	Me ootame veel ühte meest?	
+1804	Jah.	
+1805	Tahate teda tagasi saada.	
+1806	Tahan.	
+1807	Pole tähtsust, mida tema tahab.	
+1808	Mina olen ülemus ja te võite minna.	
+1809	Palun, minge.	
+1810	Minge üle piiri.	
+1811	Ma ootan.	
+1812	Ma näen midagi.	
+1813	Veel pole kindel.	
+1814	Oodake!	
+1815	[NO TRANSLATION]	missing translation
+1816	Ta on meie käes!	
+1817	[NO TRANSLATION]	missing translation
+1818	Jätsin teile kingituse, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Ühe pildi.	
+1821	Loodan, et see meeldib teile.	
+1822	Vabandage,	
+1823	minul pole teile kingitust.	
+1824	See on teie kingitus.	
+1825	See on teie kingitus.	
+1826	[NO TRANSLATION]	missing translation
+1827	Lähme, lähme.	
+1828	Mr Donovan.	
+1829	Kolonel Abel palus selle teile üle anda.	
+1830	Vabandage, söör.	
+1831	Kas teie olete siin ülemus, söör?	
+1832	Jah.	
+1833	Tahan teid tänada.	
+1834	Tahan kedagi tänada.	
+1835	Ma ei öelnud midagi.	
+1836	Ma ei öelnud midagi.	
+1837	[NO TRANSLATION]	missing translation
+1838	Sellel pole tähtsust, mida inimesed mõtlevad.	
+1839	Teie ju teate, mida te tegite.	
+1840	Tere tulemast koju.	
+1841	Reis läbi.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Oled korras?	
+1845	Jah, olen küll.	
+1846	Kas marmelaadi tõid?	
+1847	Tõin muidugi.	
+1848	Jah!	
+1849	Jah!	
+1850	Ma tõin.	
+1851	Nagu tahtsid.	
+1852	Jim.	
+1853	See on ju Arno oma.	
+1854	Mis siis?	
+1855	See on siinsamas nurga taga.	
+1856	Kallis, mul oli kiire,	
+1857	anna andeks.	
+1858	[NO TRANSLATION]	missing translation
+1859	Ma ei suuda uskuda.	
+1860	Ja Roger?	
+1861	On ta kodus?	
+1862	On,	
+1863	Carol ja Peggy samuti.	
+1864	Kõik on kodus.	
+1865	Emm!	
+1866	Tule ruttu!	
+1867	Vaata!	
+1868	Ema, tule siia.	
+1869	Ema, tule siia.	
+1870	Tule, vaata seda!	
+1871	Vaata!	
+1872	[NO TRANSLATION]	missing translation
+1873	Tule nüüd!	
+1874	Francis Gary Powers vabastati Nõukogude liidu vanglast ja anti üle Ühendriikide esindajale täna hommikul Berliinis.	
+1875	President kergendas Rudolf Abeli karistust.	
+1876	Mr Abel saadeti välja ja vabastati Berliinis.	
+1877	Mr Powersi vabastamise läbirääkimised kestsid pikka aega.	
+1878	Vältimatut abi ja koostööd USA valitsusele osutas mr James B. Donovan, New Yorki advokaat.	
+1879	Frederic L. Pryor, Ameerika üliõpilane, keda peeti kinni Ida-Saksamaal, augustist 1961...	
+1880	Arvasin, et isa on kalal.	
+1881	Lõhet püüdmas.	
+1882	Abel on nüüd kadunud kommunistlikku maailma.	
+1883	Powers on siin, vastamas küsimustele.	
+1884	Donovan pöördub tagasi advokatuuri.	
+1885	Ja nüüd räägib George Fenneman ebatsuuga istutamisest...	

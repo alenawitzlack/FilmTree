@@ -1,0 +1,6598 @@
+13
+00:03:44,682 --> 00:03:48,019
+<i>Następny przystanek:</i>
+<i>Broad Street.</i>
+
+14
+00:04:59,298 --> 00:05:01,216
+Do góry.
+
+15
+00:05:10,310 --> 00:05:11,685
+Przechodził tędy?
+
+16
+00:05:11,810 --> 00:05:13,687
+Nie ma go.
+Wracaj.
+
+17
+00:05:16,106 --> 00:05:17,483
+Przepraszam.
+
+18
+00:05:36,586 --> 00:05:39,088
+Proszę zaparkować za rogiem.
+
+19
+00:08:51,405 --> 00:08:52,782
+Goście.
+
+20
+00:08:53,615 --> 00:08:57,703
+– Mogę założyć szczękę?
+– Proszę się obrócić, pułkowniku.
+
+21
+00:09:00,581 --> 00:09:02,792
+Proszę usiąść na łóżku.
+
+22
+00:09:11,301 --> 00:09:14,303
+Szczęka leży na zlewie.
+
+23
+00:09:14,511 --> 00:09:18,307
+Proszę na mnie spojrzeć.
+Jesteśmy agentami FBI.
+
+24
+00:09:18,515 --> 00:09:21,186
+Proszę spojrzeć.
+Mówię do pana.
+
+25
+00:09:21,311 --> 00:09:25,190
+Poinformowano nas,
+że jest pan szpiegiem.
+
+26
+00:09:25,315 --> 00:09:28,485
+Albo będzie pan współpracował,
+albo pana aresztujemy.
+
+27
+00:09:28,692 --> 00:09:31,488
+– Rozumie pan, pułkowniku?
+– Nie bardzo.
+
+28
+00:09:31,613 --> 00:09:34,407
+Dlaczego nazywacie mnie
+pułkownikiem?
+
+29
+00:09:35,200 --> 00:09:38,912
+– Niech się pan ubierze.
+– Przeszukamy lokal.
+
+30
+00:09:38,995 --> 00:09:45,918
+Mógłbym wyczyścić paletę?
+Inaczej farby zaschną.
+
+31
+00:09:46,001 --> 00:09:48,087
+Leży tuż za panem.
+
+32
+00:09:49,380 --> 00:09:52,716
+Mam szmatkę.
+Dziękuję.
+
+33
+00:09:52,884 --> 00:09:55,220
+– Zaczynajcie.
+– Dziękuję.
+
+34
+00:09:55,386 --> 00:09:57,681
+Sprawdźcie materac,
+łóżko, podłogę...
+
+35
+00:09:57,806 --> 00:10:02,601
+Odłoży pan do popielniczki?
+Tej na parapecie.
+
+36
+00:10:05,312 --> 00:10:06,815
+Sprawdźcie biurko.
+
+37
+00:10:13,613 --> 00:10:15,407
+Nie może się zniszczyć.
+
+38
+00:10:29,504 --> 00:10:33,591
+<i>Proszę go nie nazywać</i>
+<i>„moim człowiekiem”, bo nim nie jest.</i>
+
+39
+00:10:34,717 --> 00:10:37,678
+<i>To pana człowiek.</i>
+<i>O kim mówimy?</i>
+
+40
+00:10:37,803 --> 00:10:41,807
+O osobie ubezpieczonej
+przez mojego klienta.
+
+41
+00:10:42,017 --> 00:10:44,811
+To nie czyni z niego
+„mojego człowieka”.
+
+42
+00:10:44,894 --> 00:10:46,479
+W porządku.
+
+43
+00:10:46,687 --> 00:10:49,816
+Lecz osoba ubezpieczona
+przez pańskiego klienta
+
+44
+00:10:49,982 --> 00:10:52,693
+nie zaprzecza,
+że te zdarzenia miały miejsce.
+
+45
+00:10:52,902 --> 00:10:55,404
+„Te zdarzenia”?
+
+46
+00:10:55,613 --> 00:10:59,616
+– Tak, tych pięć zdarzeń.
+– Chwila moment.
+
+47
+00:10:59,783 --> 00:11:04,581
+– Nie pięć, tylko jedno.
+– To jasne, że pięć.
+
+48
+00:11:04,706 --> 00:11:08,293
+Nie dla mnie. Pięć?
+Proszę wyjaśnić.
+
+49
+00:11:08,418 --> 00:11:10,211
+Sprawa jest oczywista.
+
+50
+00:11:10,294 --> 00:11:15,591
+Proszę to wytłumaczyć tak,
+bym dostrzegł pięć zdarzeń.
+
+51
+00:11:15,716 --> 00:11:19,511
+– Dobrze. Pana człowiek...
+– To nie mój człowiek.
+
+52
+00:11:19,596 --> 00:11:21,389
+Osoba ubezpieczona
+przez pańskiego klienta
+
+53
+00:11:21,514 --> 00:11:24,893
+traci kontrolę nad autem
+i wjeżdża w pięciu ludzi,
+
+54
+00:11:25,018 --> 00:11:28,812
+których reprezentuję,
+bo nie uznajecie ich roszczeń.
+
+55
+00:11:28,897 --> 00:11:32,317
+Mowa o moim kliencie,
+czyli o ubezpieczalni?
+
+56
+00:11:32,399 --> 00:11:35,110
+Panie Donovan,
+wiadomo, o kim mowa.
+
+57
+00:11:35,195 --> 00:11:37,489
+Mój klient uznaje roszczenia.
+
+58
+00:11:37,989 --> 00:11:42,201
+Każde zasadne roszczenie
+poniżej sumy gwarancyjnej,
+
+59
+00:11:42,284 --> 00:11:46,498
+która wynosi tutaj
+100 tysięcy za wypadek.
+
+60
+00:11:46,706 --> 00:11:51,418
+Mamy jedno roszczenie.
+„Wjeżdża w pięciu ludzi”.
+
+61
+00:11:51,586 --> 00:11:55,590
+Klient ubezpieczalni
+miał tylko jeden wypadek.
+
+62
+00:11:55,715 --> 00:11:59,094
+Stracił panowanie nad pojazdem,
+wjechał w pięciu motocyklistów.
+
+63
+00:11:59,219 --> 00:12:02,013
+Z ich punktu widzenia
+doszło do pięciu potrąceń.
+
+64
+00:12:02,806 --> 00:12:05,683
+Słuchaj, Bob.
+Przejdziemy na ty?
+
+65
+00:12:06,518 --> 00:12:07,601
+Jestem Jim.
+
+66
+00:12:08,519 --> 00:12:10,688
+Jeśli zbiję jednym ruchem
+wszystkie kręgle,
+
+67
+00:12:10,813 --> 00:12:12,606
+będzie to jedno zdarzenie,
+a nie dziesięć.
+
+68
+00:12:12,691 --> 00:12:16,695
+Moi klienci to nie kręgle,
+chociaż ich tak potraktowano.
+
+69
+00:12:16,820 --> 00:12:17,778
+Pozwól mi skończyć.
+
+70
+00:12:17,903 --> 00:12:20,907
+Jeśli ubezpieczyłeś dom
+na 100 tysięcy
+
+71
+00:12:20,990 --> 00:12:24,119
+i tornado go porwie,
+porwie jeden dom.
+
+72
+00:12:24,201 --> 00:12:28,206
+Nie niszczy każdego mebla
+w osobnym zdarzeniu.
+
+73
+00:12:28,414 --> 00:12:30,417
+Gdyby byłoby tak,
+jak mówisz,
+
+74
+00:12:31,000 --> 00:12:34,294
+nasza suma gwarancyjna
+byłaby nieskończona
+
+75
+00:12:34,504 --> 00:12:37,298
+i nastąpiłby upadek
+branży ubezpieczeń.
+
+76
+00:12:37,506 --> 00:12:40,092
+Wówczas nikt nie byłby
+bezpieczny.
+
+77
+00:12:45,097 --> 00:12:47,600
+Kancelaria Watters, Cowan
+i Donovan, z kim połączyć?
+
+78
+00:12:47,683 --> 00:12:50,311
+– Dzień dobry, panie Donovan.
+– Dzień dobry, Alison.
+
+79
+00:12:50,394 --> 00:12:52,605
+Przełożyłam rozmowę
+z Prudential.
+
+80
+00:12:52,688 --> 00:12:55,607
+– Dlaczego?
+– Bo o to prosiłem.
+
+81
+00:12:55,984 --> 00:12:57,317
+Wszystko dobrze, Tom?
+
+82
+00:12:57,402 --> 00:13:00,279
+Zostaw rzeczy
+i chodź do nas.
+
+83
+00:13:01,197 --> 00:13:04,283
+Jest pewna ważna sprawa
+i mamy gościa.
+
+84
+00:13:04,491 --> 00:13:05,994
+Natalie zrobi ci kawę.
+
+85
+00:13:06,201 --> 00:13:08,705
+Nescafe, śmietanka
+i dwie kostki cukru?
+
+86
+00:13:08,913 --> 00:13:10,414
+Zgadza się, dziękuję.
+
+87
+00:13:12,500 --> 00:13:13,500
+– Lynn!
+– Jim!
+
+88
+00:13:13,585 --> 00:13:17,004
+– Miło cię widzieć. Jak rodzinka?
+– Świetnie. Co u Annie?
+
+89
+00:13:17,087 --> 00:13:19,506
+Gościliśmy teściów.
+Chętnie by kogoś zabiła.
+
+90
+00:13:19,591 --> 00:13:22,802
+W razie czego
+będzie mieć dobrego obrońcę.
+
+91
+00:13:23,010 --> 00:13:24,303
+Co się stało?
+
+92
+00:13:30,809 --> 00:13:35,606
+Chcemy, byś bronił
+tego sowieckiego szpiega.
+
+93
+00:13:35,690 --> 00:13:37,817
+Oto akt oskarżenia.
+
+94
+00:13:43,405 --> 00:13:45,408
+Nie wiem,
+czy powinienem to brać.
+
+95
+00:13:45,616 --> 00:13:47,409
+Nie zna żadnego prawnika.
+
+96
+00:13:47,494 --> 00:13:49,995
+Sąd federalny zrzucił go
+na nasze barki.
+
+97
+00:13:50,788 --> 00:13:54,417
+Zostałeś jednogłośnie
+wybrany przez palestrę.
+
+98
+00:13:54,584 --> 00:13:59,380
+To ważne dla nas i kraju,
+żeby proces był uczciwy.
+
+99
+00:13:59,505 --> 00:14:01,799
+Sprawdzian dla naszego
+wymiaru sprawiedliwości.
+
+100
+00:14:01,883 --> 00:14:04,594
+W takim razie to zaszczyt.
+
+101
+00:14:04,719 --> 00:14:09,182
+Ale siedzę w ubezpieczeniach,
+lata nie tykałem prawa karnego.
+
+102
+00:14:09,307 --> 00:14:13,311
+To jak z jazdą na rowerze.
+Wyróżniłeś się w Norymberdze.
+
+103
+00:14:13,519 --> 00:14:16,105
+– Byłem oskarżycielem.
+– Nie o to chodzi.
+
+104
+00:14:16,313 --> 00:14:20,317
+Znasz się na prawie karnym.
+Jim, zastanów się.
+
+105
+00:14:20,485 --> 00:14:22,778
+Ludzie już potępili
+tego człowieka.
+
+106
+00:14:22,903 --> 00:14:25,490
+– Mnie też potępią.
+– Tylko ignoranci.
+
+107
+00:14:25,698 --> 00:14:29,119
+Dlatego należy się tym zająć
+w kompetentny sposób.
+
+108
+00:14:29,284 --> 00:14:33,498
+Inaczej wyjdzie na to,
+że skazujemy ludzi bez procesu.
+
+109
+00:14:37,918 --> 00:14:40,504
+Powiedzmy, że się zgodzę.
+Co z dowodami?
+
+110
+00:14:41,798 --> 00:14:45,719
+– Są wręcz przytłaczające.
+– Świetnie.
+
+111
+00:14:45,802 --> 00:14:48,804
+Wszyscy mnie znienawidzą,
+ale przynajmniej przegram.
+
+112
+00:14:50,597 --> 00:14:55,019
+Co myślisz, Tom?
+Kancelaria ucierpi.
+
+113
+00:14:55,186 --> 00:14:58,981
+To obywatelski obowiązek
+i bardzo ważne zadanie.
+
+114
+00:14:59,190 --> 00:15:01,900
+Powiedziałem Lynnowi,
+że kancelaria nie może odmówić.
+
+115
+00:15:01,985 --> 00:15:04,278
+Tobie też przyjdzie to
+z trudem.
+
+116
+00:15:05,113 --> 00:15:07,990
+Powinieneś bronić
+tego sukinsyna.
+
+117
+00:15:08,198 --> 00:15:11,201
+– Podejmie się pan tego?
+– Czego?
+
+118
+00:15:11,702 --> 00:15:14,581
+Obrony Abla,
+sowieckiego szpiega.
+
+119
+00:15:14,788 --> 00:15:18,585
+Być może. Skąd wiesz?
+Wywiesili to na tablicy?
+
+120
+00:15:18,793 --> 00:15:20,711
+Rozmawiałem
+z Richardem Earlem i...
+
+121
+00:15:20,879 --> 00:15:23,881
+Jeśli się zdecyduję,
+będziesz mi potrzebny.
+
+122
+00:15:26,009 --> 00:15:27,719
+Zostaniesz dłużej?
+
+123
+00:15:29,178 --> 00:15:31,096
+Umówiłem się na kolację.
+
+124
+00:15:34,017 --> 00:15:36,394
+Dziś wtorek?
+Nie mam żadnych planów.
+
+125
+00:15:36,602 --> 00:15:38,104
+Dziękuję panu.
+
+126
+00:15:41,691 --> 00:15:43,192
+Ale to też zaszczyt.
+
+127
+00:15:43,317 --> 00:15:46,696
+Rada adwokacka wybrała mnie,
+bo chce pokazać,
+
+128
+00:15:46,779 --> 00:15:49,198
+że nawet szpieg otrzymuje
+kompetentnego obrońcę.
+
+129
+00:15:49,282 --> 00:15:53,620
+– Obędziemy się bez tych zaszczytów.
+– Kochanie, jesteś w domu?
+
+130
+00:15:54,120 --> 00:15:55,788
+Wystawił mnie.
+
+131
+00:15:57,206 --> 00:15:58,582
+To oburzające.
+
+132
+00:15:58,917 --> 00:16:01,794
+– Kim jest ten dupek?
+– Wolę nie mówić.
+
+133
+00:16:01,919 --> 00:16:03,879
+Usiądź, dopiero zaczynamy.
+
+134
+00:16:04,089 --> 00:16:08,884
+W obawie przed takimi szpiegami
+ludzie budują schrony.
+
+135
+00:16:09,009 --> 00:16:13,597
+Kupują konserwy
+i potas w tabletkach.
+
+136
+00:16:14,099 --> 00:16:18,602
+Co on sobą reprezentuje?
+Stanowi zagrożenie, to zdrajca.
+
+137
+00:16:18,687 --> 00:16:21,188
+– Kto to „zdrajca”?
+– Na przykład Rosenbergowie.
+
+138
+00:16:21,313 --> 00:16:23,482
+Wyjawili Rosjanom sekrety
+bomby atomowej.
+
+139
+00:16:23,607 --> 00:16:25,610
+To Amerykanie,
+którzy zdradzili swój kraj.
+
+140
+00:16:25,693 --> 00:16:29,197
+Nie nazywaj Abla zdrajcą.
+Nie jest Amerykaninem.
+
+141
+00:16:29,279 --> 00:16:31,990
+Posłuchaj, co mówisz.
+Już go bronisz.
+
+142
+00:16:32,116 --> 00:16:35,202
+Ćwiczysz mowę obrończą,
+a miałeś się tylko zastanowić.
+
+143
+00:16:35,286 --> 00:16:38,081
+Zastanawiam się,
+ale bardzo poważnie.
+
+144
+00:16:38,206 --> 00:16:41,084
+Każdy zasługuje na obronę.
+Każdy ma znaczenie.
+
+145
+00:16:41,209 --> 00:16:44,379
+A na co my zasługujemy?
+Co ludzie powiedzą?
+
+146
+00:16:44,504 --> 00:16:47,090
+Rodzina człowieka,
+który broni zdrajcy?
+
+147
+00:16:47,215 --> 00:16:49,884
+– On nie jest zdrajcą.
+– Roger, otwórz.
+
+148
+00:16:50,009 --> 00:16:51,219
+Dlaczego znowu ja?
+
+149
+00:16:51,302 --> 00:16:53,388
+– Poczekaj do modlitwy.
+– Jestem głodna!
+
+150
+00:16:53,513 --> 00:16:56,682
+To wróg publiczny numer jeden,
+a ty będziesz drugi!
+
+151
+00:16:56,807 --> 00:16:58,100
+A ja trzecia.
+
+152
+00:16:58,183 --> 00:17:02,688
+Carol, to był po prostu buc.
+Mary, nie szukaj na siłę zaczepki.
+
+153
+00:17:02,813 --> 00:17:06,608
+Również nie jestem po stronie
+rosyjskich szpiegów,
+
+154
+00:17:06,692 --> 00:17:11,905
+ale zasługuje na proces,
+nazywają to prawem.
+
+155
+00:17:11,990 --> 00:17:14,784
+– Nie chciałem przeszkadzać.
+– Witaj, Doug.
+
+156
+00:17:14,909 --> 00:17:18,788
+Nie przeszkadzasz.
+Jim tylko młóci jęzorem.
+
+157
+00:17:18,913 --> 00:17:20,414
+Nie młócę.
+
+158
+00:17:20,498 --> 00:17:23,417
+Dołącz do nas.
+Dzisiaj mamy klopsiki.
+
+159
+00:17:26,211 --> 00:17:29,715
+Pomożesz Jimowi zdecydować,
+czy powinien wziąć tę sprawę?
+
+160
+00:17:29,798 --> 00:17:33,385
+Przecież ją bierzemy.
+To takie ekscytujące.
+
+161
+00:17:40,894 --> 00:17:43,980
+Panie, dziękujemy za dary,
+które nam dajesz.
+
+162
+00:17:44,105 --> 00:17:46,816
+Przez Chrystusa,
+Pana naszego.
+
+163
+00:17:53,990 --> 00:17:54,782
+Witam.
+
+164
+00:17:54,907 --> 00:17:57,493
+Nazywam się Jim Donovan.
+Oto moje referencje.
+
+165
+00:17:58,118 --> 00:18:00,288
+Jestem partnerem
+w Watters, Cowan i Donovan.
+
+166
+00:18:00,413 --> 00:18:03,916
+W 1941 roku zostałem członkiem
+Rady Adwokackiej.
+
+167
+00:18:07,796 --> 00:18:11,799
+Oskarżono pana o trzy przestępstwa
+i 19 jawnych działań.
+
+168
+00:18:11,883 --> 00:18:16,387
+Przekazywanie ZSRR
+nuklearnych sekretów USA,
+
+169
+00:18:16,512 --> 00:18:18,013
+wykradanie tajemnic państwowych
+
+170
+00:18:18,097 --> 00:18:20,517
+oraz niezarejestrowanie się
+jako obcy agent.
+
+171
+00:18:25,689 --> 00:18:28,817
+Wielu się rejestruje?
+
+172
+00:18:33,195 --> 00:18:36,199
+Mam pytanie.
+
+173
+00:18:36,281 --> 00:18:40,202
+Gdzie przebywał pan
+od czasu aresztowania?
+
+174
+00:18:43,205 --> 00:18:45,208
+Nie jestem pewien.
+
+175
+00:18:47,210 --> 00:18:48,420
+Nie wie pan?
+
+176
+00:18:49,712 --> 00:18:51,714
+Zawieźli mnie na lotnisko.
+
+177
+00:18:51,798 --> 00:18:54,384
+Wsadzili do samolotu,
+potem wysadzili.
+
+178
+00:18:55,801 --> 00:18:57,804
+W jakimś gorącym miejscu.
+
+179
+00:18:58,805 --> 00:19:01,807
+– To może tu.
+– Było goręcej i wilgotniej.
+
+180
+00:19:02,683 --> 00:19:05,519
+Zamknięto mnie
+w jakimś pomieszczeniu.
+
+181
+00:19:06,479 --> 00:19:07,896
+Był pan bity?
+
+182
+00:19:08,815 --> 00:19:09,816
+Nie.
+
+183
+00:19:09,898 --> 00:19:13,694
+Rozmawiali ze mną
+i przedstawiali oferty.
+
+184
+00:19:14,194 --> 00:19:15,279
+To znaczy?
+
+185
+00:19:15,404 --> 00:19:19,200
+Chcieli, bym pracował
+dla pańskiego rządu.
+
+186
+00:19:21,118 --> 00:19:26,708
+Gdybym się zgodził,
+wycofaliby wszystkie zarzuty
+
+187
+00:19:27,208 --> 00:19:30,295
+i dostałbym pieniądze.
+
+188
+00:19:31,296 --> 00:19:33,381
+Odmówił pan?
+
+189
+00:19:34,214 --> 00:19:35,717
+Jak widać.
+
+190
+00:19:36,300 --> 00:19:38,802
+Oczywiście nie mogę
+tego popierać.
+
+191
+00:19:38,886 --> 00:19:43,098
+Muszę pana zachęcić
+do współpracy z rządem.
+
+192
+00:19:43,182 --> 00:19:44,517
+Powiedziałem nie.
+
+193
+00:19:44,601 --> 00:19:48,104
+Proszę przekazać kolegom z CIA,
+że nie zmienię zdania.
+
+194
+00:19:49,605 --> 00:19:54,818
+Nie jestem ani z CIA,
+ani z rządu.
+
+195
+00:19:55,694 --> 00:19:58,906
+Chcę zostać pana prawnikiem.
+
+196
+00:19:58,990 --> 00:20:04,703
+Jeśli się pan zgodzi,
+będę dla pana pracować.
+
+197
+00:20:05,497 --> 00:20:06,998
+Jeśli się zgodzę?
+
+198
+00:20:13,797 --> 00:20:16,215
+Jest pan dobrym prawnikiem?
+
+199
+00:20:17,092 --> 00:20:19,885
+Tak, jestem całkiem niezły.
+
+200
+00:20:22,180 --> 00:20:26,393
+Reprezentował pan wielu ludzi
+oskarżonych o szpiegostwo?
+
+201
+00:20:28,686 --> 00:20:30,896
+Nie, jeszcze nie.
+
+202
+00:20:31,980 --> 00:20:34,317
+To dla nas obu
+pierwszy raz.
+
+203
+00:20:42,116 --> 00:20:46,788
+– W porządku.
+– Zatem zgadza się pan?
+
+204
+00:20:47,788 --> 00:20:49,499
+Tak, zgadzam się.
+
+205
+00:20:49,582 --> 00:20:52,919
+Dobrze.
+Możemy zaczynać.
+
+206
+00:20:53,002 --> 00:20:55,797
+Jeśli nadal nie chce pan
+współpracować z rządem USA...
+
+207
+00:20:55,880 --> 00:20:57,507
+– Nie chcę.
+– Dobrze.
+
+208
+00:20:57,589 --> 00:21:04,388
+Nie licząc mnie, proszę z nikim
+nie rozmawiać o sprawie.
+
+209
+00:21:04,681 --> 00:21:06,891
+Tylko ja mogę panu pomóc.
+
+210
+00:21:07,017 --> 00:21:10,686
+Wszyscy inni chcieliby
+pana egzekucji.
+
+211
+00:21:10,811 --> 00:21:12,188
+Rozumiem.
+
+212
+00:21:15,316 --> 00:21:18,611
+Nie przejmuje się pan?
+
+213
+00:21:22,281 --> 00:21:24,909
+A miałoby to pomóc?
+
+214
+00:21:34,001 --> 00:21:38,006
+Chciałbym przybory do rysowania.
+
+215
+00:21:38,213 --> 00:21:39,798
+To niemożliwe.
+
+216
+00:21:40,592 --> 00:21:44,179
+Ołówek, kawałek papieru,
+papierosy.
+
+217
+00:21:46,388 --> 00:21:48,016
+Proszę.
+
+218
+00:21:55,190 --> 00:22:00,987
+Macie ludzi, którzy robią
+to samo dla waszego kraju.
+
+219
+00:22:01,779 --> 00:22:04,115
+Gdyby ich złapano,
+
+220
+00:22:04,199 --> 00:22:08,118
+pewnie chciałby pan,
+aby ich dobrze traktowano.
+
+221
+00:22:11,705 --> 00:22:14,709
+<i>– Nazwisko?</i>
+– Francis Gary Powers.
+
+222
+00:22:16,920 --> 00:22:18,380
+Stopień i przydział?
+
+223
+00:22:18,505 --> 00:22:21,799
+Porucznik,
+Siły Powietrzne USA.
+
+224
+00:22:23,009 --> 00:22:26,805
+Jakieś powiązania
+ze Związkiem Radzieckim?
+
+225
+00:22:26,887 --> 00:22:27,681
+Żartujecie?
+
+226
+00:22:27,806 --> 00:22:31,684
+Odpowiedzcie, poruczniku.
+Tak albo nie.
+
+227
+00:22:31,809 --> 00:22:34,186
+Jakieś powiązania
+ze Związkiem Radzieckim?
+
+228
+00:22:34,311 --> 00:22:35,396
+Nie, w życiu.
+
+229
+00:22:37,398 --> 00:22:39,692
+Wiecie, po co tu jesteście?
+
+230
+00:22:40,818 --> 00:22:42,403
+Czy to znaczy „nie”?
+
+231
+00:22:42,987 --> 00:22:45,406
+Tak, to znaczy...
+
+232
+00:22:45,490 --> 00:22:47,616
+Nie.
+Po prostu „nie”.
+
+233
+00:22:47,701 --> 00:22:49,911
+Nie mam pojęcia,
+dlaczego tu jestem.
+
+234
+00:22:49,993 --> 00:22:52,497
+– Patrzcie na wprost.
+– Tak jest.
+
+235
+00:23:09,681 --> 00:23:12,099
+Jak ci poszło, Gary?
+
+236
+00:23:12,683 --> 00:23:15,894
+Nieźle.
+Chyba zapamiętałem nazwisko.
+
+237
+00:23:16,479 --> 00:23:19,398
+Czyli poszło ci
+lepiej niż Shinnowi.
+
+238
+00:23:20,482 --> 00:23:21,817
+Kto wygrywa?
+
+239
+00:23:21,901 --> 00:23:24,487
+– Chyba ja.
+– Wchodzę.
+
+240
+00:23:24,612 --> 00:23:29,116
+– Te są moje?
+– Mówiłem, żeby z nim nie grać.
+
+241
+00:23:56,102 --> 00:23:58,688
+Prosto do sedna.
+
+242
+00:23:59,480 --> 00:24:01,482
+Przydzielono was do misji,
+
+243
+00:24:01,607 --> 00:24:06,488
+o której nie wolno wam
+z nikim rozmawiać.
+
+244
+00:24:06,613 --> 00:24:08,615
+Bez względu na to,
+komu ufacie.
+
+245
+00:24:08,990 --> 00:24:12,911
+Żonie, matce, dziewczynie,
+Bogu podczas modlitwy.
+
+246
+00:24:12,993 --> 00:24:16,789
+Nikomu nie powtórzycie tego,
+co zaraz wam powiem.
+
+247
+00:24:19,084 --> 00:24:22,711
+Każdy z was spełnił
+określone wymagania.
+
+248
+00:24:22,796 --> 00:24:26,799
+Wysoki poziom zaufania.
+Wybitne osiągnięcia lotnicze.
+
+249
+00:24:26,883 --> 00:24:30,511
+Więcej godzin w samolocie
+niż to wymagane.
+
+250
+00:24:30,804 --> 00:24:33,181
+Jesteśmy w trakcie wojny.
+
+251
+00:24:33,515 --> 00:24:37,894
+Ta wojna nie dotyczy wojska,
+tylko informacji.
+
+252
+00:24:38,019 --> 00:24:43,191
+Zrobicie rozpoznanie
+na terytorium wroga.
+
+253
+00:24:43,316 --> 00:24:50,115
+Zyskamy dzięki temu przewagę
+w wojnie nuklearnej z ZSRR.
+
+254
+00:24:51,407 --> 00:24:53,410
+Albo jej zapobiegniemy.
+
+255
+00:24:53,992 --> 00:25:00,290
+Dla społeczeństwa, waszych żon,
+matek, dziewczyn i Boga
+
+256
+00:25:00,416 --> 00:25:02,419
+ta misja nie istnieje.
+
+257
+00:25:02,501 --> 00:25:05,087
+Skoro nie istnieje,
+was też nie ma.
+
+258
+00:25:05,212 --> 00:25:09,009
+Nie mogą was
+zestrzelić ani schwytać.
+
+259
+00:25:14,681 --> 00:25:17,307
+Od teraz pracujecie dla CIA.
+
+260
+00:25:28,987 --> 00:25:33,199
+Twój klient mówi
+z udawanym akcentem.
+
+261
+00:25:33,991 --> 00:25:38,413
+– Tak cały czas?
+– Raczej nie udaje.
+
+262
+00:25:38,704 --> 00:25:41,790
+Ma rosyjskie nazwisko,
+ale brytyjski paszport.
+
+263
+00:25:41,915 --> 00:25:46,712
+– Pewnie fałszywka.
+– Co tutaj mamy?
+
+264
+00:25:47,087 --> 00:25:54,887
+Trzy tygodnie nie wystarczą.
+Jest sporo dowodów.
+
+265
+00:25:55,012 --> 00:25:58,016
+– Ubiegasz się o wydłużenie?
+– Do sześciu tygodni.
+
+266
+00:25:58,098 --> 00:26:02,686
+– Jestem sam z moim pracownikiem.
+– Mówisz poważnie?
+
+267
+00:26:02,895 --> 00:26:04,189
+Słucham?
+
+268
+00:26:06,398 --> 00:26:11,403
+– Mówisz poważnie?
+– Jak widać we wniosku.
+
+269
+00:26:11,488 --> 00:26:13,906
+To sowiecki szpieg.
+
+270
+00:26:14,199 --> 00:26:17,701
+– Rzekomo.
+– Ależ, mecenasie!
+
+271
+00:26:18,494 --> 00:26:20,204
+Panie sędzio...
+
+272
+00:26:20,288 --> 00:26:24,084
+Podziwiamy, że podjąłeś się
+tego niewdzięcznego zadania.
+
+273
+00:26:24,209 --> 00:26:27,586
+Odbędzie się uczciwy proces,
+ale nie oszukujmy się.
+
+274
+00:26:28,505 --> 00:26:34,594
+Będzie miał dobrą obronę.
+A jak Bóg da, zostanie skazany.
+
+275
+00:26:34,802 --> 00:26:39,516
+I żadnych gierek, mecenasie.
+Nie na mojej sali.
+
+276
+00:26:40,182 --> 00:26:44,104
+Wyznaczyliśmy datę procesu
+i trzymamy się jej.
+
+277
+00:26:56,782 --> 00:27:00,119
+Jechałeś sam!
+Sukinsyn.
+
+278
+00:27:00,912 --> 00:27:03,498
+Nie mogę się doczekać
+powrotu na Manhattan.
+
+279
+00:27:03,998 --> 00:27:05,916
+Był wolny, prawda?
+
+280
+00:27:06,710 --> 00:27:08,211
+Sukinsyn.
+
+281
+00:28:32,503 --> 00:28:34,713
+Panie Donovan.
+
+282
+00:28:37,008 --> 00:28:38,384
+Co?
+
+283
+00:28:42,012 --> 00:28:43,306
+Co?!
+
+284
+00:28:55,984 --> 00:28:58,488
+– CIA.
+– Tak.
+
+285
+00:28:59,405 --> 00:29:01,199
+Chciałem pogadać.
+
+286
+00:29:04,702 --> 00:29:06,413
+Jak tam sprawa?
+
+287
+00:29:06,496 --> 00:29:09,082
+Świetnie.
+Nie mogło być lepiej.
+
+288
+00:29:11,291 --> 00:29:13,086
+Powiedział coś?
+
+289
+00:29:17,007 --> 00:29:18,508
+Proszę?
+
+290
+00:29:19,092 --> 00:29:22,511
+Widział się pan z nim.
+Czy coś już powiedział?
+
+291
+00:29:24,180 --> 00:29:26,182
+Nie ma tej rozmowy.
+
+292
+00:29:26,307 --> 00:29:30,103
+– Oczywiście, że nie.
+– Mówię poważnie.
+
+293
+00:29:30,185 --> 00:29:33,815
+Chce pan, żebym naruszył
+tajemnicę adwokacką?
+
+294
+00:29:34,190 --> 00:29:38,318
+– Ależ, mecenasie.
+– Skończcie z tym „ależ, mecenasie”.
+
+295
+00:29:38,403 --> 00:29:41,280
+Już jak sędzia tak powiedział,
+było to denerwujące.
+
+296
+00:29:41,405 --> 00:29:44,200
+Tylko coraz bardziej
+mnie to wkurza.
+
+297
+00:29:46,493 --> 00:29:49,413
+Jestem świadomy
+tajemnicy adwokackiej.
+
+298
+00:29:49,497 --> 00:29:54,919
+Rozumiem te prawnicze sztuczki.
+Wiem, że z tego pan żyje.
+
+299
+00:29:55,002 --> 00:30:02,009
+Ale mówię o czymś innym.
+O bezpieczeństwie kraju.
+
+300
+00:30:02,093 --> 00:30:08,892
+Przepraszam, jeśli pana obraziłem,
+ale musimy wiedzieć, co mówi Abel.
+
+301
+00:30:09,017 --> 00:30:12,811
+Rozumie pan?
+Musimy wiedzieć.
+
+302
+00:30:13,313 --> 00:30:19,109
+Proszę nie zgrywać harcerzyka.
+Nie obowiązuje nas regulamin.
+
+303
+00:30:19,486 --> 00:30:23,198
+– Pan się nazywa Hoffman?
+– Zgadza się.
+
+304
+00:30:23,698 --> 00:30:26,785
+– Niemieckie pochodzenie.
+– I co z tego?
+
+305
+00:30:26,992 --> 00:30:30,997
+Nazywam się Donovan.
+Moi rodzicie są z Irlandii.
+
+306
+00:30:31,580 --> 00:30:34,291
+Jestem Irlandczykiem,
+pan zaś Niemcem.
+
+307
+00:30:34,792 --> 00:30:41,383
+Ale co czyni z nas Amerykanów?
+Jest tylko jedna rzecz.
+
+308
+00:30:42,384 --> 00:30:46,512
+Regulamin.
+Nazywamy go „konstytucją”.
+
+309
+00:30:46,596 --> 00:30:50,016
+Zgodziliśmy się przestrzegać zasad
+i to czyni nas Amerykanami.
+
+310
+00:30:50,099 --> 00:30:55,689
+Więc nie chrzań o braku
+regulaminu, skurczybyku.
+
+311
+00:31:05,990 --> 00:31:08,492
+Powinniśmy się o pana martwić?
+
+312
+00:31:09,118 --> 00:31:12,579
+Nie, jeśli pozwolicie mi
+robić swoje.
+
+313
+00:31:23,383 --> 00:31:26,885
+BAZA LOTNICTWA
+PESZAWAR, PAKISTAN
+
+314
+00:31:27,011 --> 00:31:31,098
+Nie nazywacie już U-2
+samolotem szpiegowskim
+
+315
+00:31:31,182 --> 00:31:32,892
+czy jednostką zwiadowczą.
+
+316
+00:31:33,018 --> 00:31:38,189
+Od teraz będzie to „obiekt”.
+Rozpiętość skrzydeł: 25 m.
+
+317
+00:31:38,690 --> 00:31:43,903
+Silnik: pojedynczy Pratt
+& Whitney J57 P-37.
+
+318
+00:31:44,278 --> 00:31:50,492
+Ciąg silnika: 4500 kg.
+Maksymalna prędkość: 700 km/h.
+
+319
+00:31:50,617 --> 00:31:52,287
+Może nie jest szybki,
+
+320
+00:31:52,412 --> 00:31:57,083
+ale na wysokości 21 km
+nic się do was nie zbliży.
+
+321
+00:31:57,208 --> 00:31:58,292
+21?
+
+322
+00:31:58,417 --> 00:32:03,213
+– Wróg was nawet nie zauważy.
+– Wydaje się lichy.
+
+323
+00:32:06,009 --> 00:32:10,096
+Każdy dodatkowy kilogram
+kradnie metr wysokości.
+
+324
+00:32:10,180 --> 00:32:12,307
+A musimy założyć aparaty.
+
+325
+00:32:14,017 --> 00:32:17,895
+Trzy soczewki
+o ogniskowej 4500 mm.
+
+326
+00:32:17,979 --> 00:32:20,397
+Niezwykle ostry
+aparat panoramiczny.
+
+327
+00:32:20,481 --> 00:32:24,903
+Cztery razy mocniejszy
+od używanych do tej pory.
+
+328
+00:32:24,986 --> 00:32:29,907
+Będziecie robić mnóstwo zdjęć.
+Na wysokości 20 tysięcy metrów
+
+329
+00:32:29,990 --> 00:32:35,079
+„obiekt” potrafi zmieścić
+w jednym kadrze 5000 km2 terenu.
+
+330
+00:32:35,204 --> 00:32:39,084
+A teraz posłuchajcie uważnie
+agenta Sumnera.
+
+331
+00:32:39,584 --> 00:32:43,003
+Znajdziecie tu wszystko,
+co będzie wam potrzebne.
+
+332
+00:32:44,088 --> 00:32:49,094
+Minikamera Revere 8, model 40,
+Keystone Capri K-25, srebrna.
+
+333
+00:32:49,219 --> 00:32:51,011
+Pędzel do golenia
+ze skrytką.
+
+334
+00:32:51,096 --> 00:32:54,598
+Zestaw tabel szyfrowych
+na jadalnej folii aluminiowej.
+
+335
+00:32:54,682 --> 00:32:56,684
+Specjalistyczny
+sprzęt fotograficzny.
+
+336
+00:32:58,394 --> 00:33:01,605
+Myślę, że mamy zarys.
+Dziękuję.
+
+337
+00:33:13,284 --> 00:33:17,579
+– Agencie Blasco.
+– Tak?
+
+338
+00:33:18,498 --> 00:33:22,419
+Na tej liście
+jest osobna sekcja.
+
+339
+00:33:23,002 --> 00:33:25,587
+Większość rzeczy
+znaleźliśmy w pracowni,
+
+340
+00:33:25,713 --> 00:33:30,093
+reszta jest z hotelu,
+w którym go dopadliśmy.
+
+341
+00:33:30,719 --> 00:33:33,096
+Z przeszukanego
+pokoju hotelowego?
+
+342
+00:33:33,179 --> 00:33:34,513
+Tak.
+
+343
+00:33:34,806 --> 00:33:38,101
+– Mogę zobaczyć nakaz?
+– Że co?
+
+344
+00:33:39,685 --> 00:33:42,188
+Wyjaśnij.
+Przecież był nakaz.
+
+345
+00:33:42,313 --> 00:33:47,609
+Nakaz aresztowania obcokrajowca,
+ale nie nakaz przeszukania
+
+346
+00:33:47,902 --> 00:33:49,612
+na okoliczność
+podejrzenia przestępstwa.
+
+347
+00:33:49,695 --> 00:33:54,616
+Dowody z przeszukania
+zostały uzyskane nielegalnie.
+
+348
+00:33:54,701 --> 00:33:57,202
+Jaka ochrona mu przysługuje?
+Ten człowiek nie jest...
+
+349
+00:33:57,287 --> 00:34:00,080
+Co to za jeden?
+Rudolf Iwanowicz Abel.
+
+350
+00:34:00,205 --> 00:34:03,417
+Obywatel ZSRR.
+Nie jest Amerykaninem.
+
+351
+00:34:03,500 --> 00:34:07,588
+Rok 1886,
+sprawa Yick Wo kontra Hopkins.
+
+352
+00:34:07,713 --> 00:34:11,009
+Sąd postanowił, że nawet obcych,
+w tym przypadku Chińczyków,
+
+353
+00:34:11,092 --> 00:34:14,179
+nie można karać
+bez sprawiedliwego procesu,
+
+354
+00:34:14,304 --> 00:34:16,681
+wliczając tych,
+którzy dostali się tu nielegalnie.
+
+355
+00:34:16,806 --> 00:34:21,311
+Departament Sprawiedliwości
+ma służyć głównie USA.
+
+356
+00:34:21,393 --> 00:34:26,608
+Jak nielegalny imigrant
+może być pozbawiony praw?
+
+357
+00:34:26,815 --> 00:34:29,985
+Praw jako kto?
+Amerykanin?
+
+358
+00:34:30,320 --> 00:34:33,114
+Jako kto, mecenasie?
+
+359
+00:34:33,197 --> 00:34:34,907
+Walczymy o cywilizację.
+
+360
+00:34:34,990 --> 00:34:38,619
+Ten szpieg przybył tu,
+by zagrozić naszej kulturze.
+
+361
+00:34:38,702 --> 00:34:43,083
+Ludzie na nas czekają.
+Proszę usiąść obok Rosjanina.
+
+362
+00:34:43,208 --> 00:34:47,003
+Miejmy to już za sobą.
+Odrzucam pański wniosek.
+
+363
+00:34:49,880 --> 00:34:52,717
+Powinien sam się ubezpieczyć.
+
+364
+00:34:53,009 --> 00:34:55,804
+– Jak poszło?
+– Tam?
+
+365
+00:34:58,097 --> 00:35:00,016
+Nie za dobrze.
+
+366
+00:35:00,099 --> 00:35:03,894
+– Nie jest pan obywatelem USA.
+– Zgadza się.
+
+367
+00:35:04,019 --> 00:35:07,690
+Według pana szefa
+obywatelem ZSRR też nie.
+
+368
+00:35:08,400 --> 00:35:14,280
+Szef nie zawsze ma rację,
+ale to jednak jest szef.
+
+369
+00:35:19,119 --> 00:35:22,914
+– Nigdy się pan nie martwi?
+– A miałoby to pomóc?
+
+370
+00:35:30,213 --> 00:35:31,715
+Proszę wstać.
+
+371
+00:35:34,009 --> 00:35:41,016
+Ślubuję wierność fladze
+Stanów Zjednoczonych Ameryki
+
+372
+00:35:41,099 --> 00:35:45,019
+i republice,
+którą symbolizuje.
+
+373
+00:35:45,103 --> 00:35:49,898
+Jeden naród, a nad nim Bóg,
+niepodzielny,
+
+374
+00:35:49,983 --> 00:35:52,610
+z wolnością i sprawiedliwością
+dla wszystkich.
+
+375
+00:35:55,697 --> 00:36:00,201
+<i>Oto, co się dzieje,</i>
+<i>gdy wybucha bomba atomowa.</i>
+
+376
+00:36:02,411 --> 00:36:05,998
+<i>Widzimy jasny błysk,</i>
+<i>jaśniejszy od słońca.</i>
+
+377
+00:36:06,081 --> 00:36:09,210
+<i>Może zmieść budynki,</i>
+<i>wybić wszystkie okna.</i>
+
+378
+00:36:11,795 --> 00:36:17,217
+<i>Ale jeśli ukryjecie się jak Bert,</i>
+<i>będziecie dużo bezpieczniejsi.</i>
+
+379
+00:36:17,302 --> 00:36:21,889
+<i>Są dwa rodzaje ataku.</i>
+<i>Z ostrzeżeniem i bez ostrzeżenia.</i>
+
+380
+00:36:26,518 --> 00:36:29,313
+– Co robisz?
+– To bardzo ważne.
+
+381
+00:36:29,481 --> 00:36:34,318
+Kiedy wybuchnie wojna,
+najpierw odetną wodę i prąd.
+
+382
+00:36:34,402 --> 00:36:36,780
+Dlatego wanna
+musi być napełniona.
+
+383
+00:36:36,905 --> 00:36:40,492
+Możemy wykorzystać prysznic,
+umywalkę i węża ogrodowego...
+
+384
+00:36:40,699 --> 00:36:46,998
+To dobre pomysły,
+ale nie musisz się tym martwić.
+
+385
+00:36:47,998 --> 00:36:52,795
+Gdy zawyją syreny,
+możemy ze wszystkim nie zdążyć.
+
+386
+00:36:53,380 --> 00:36:56,007
+Nie będzie syren.
+
+387
+00:36:56,382 --> 00:36:57,800
+Co to?
+
+388
+00:36:57,884 --> 00:37:01,887
+Gdy rozpocznie się atak,
+czerwoni uderzą w Empire State Building.
+
+389
+00:37:02,012 --> 00:37:04,516
+Bomba wybuchnie
+3000 metrów nad ziemią.
+
+390
+00:37:04,599 --> 00:37:08,686
+To się nazywa wybuch powietrzny,
+a jeśli bomba ma 50 megaton,
+
+391
+00:37:08,811 --> 00:37:13,983
+eksplozja się rozejdzie
+i stopi wszystko odtąd dotąd.
+
+392
+00:37:14,108 --> 00:37:17,320
+Łącznie z naszym mieszkaniem.
+
+393
+00:37:18,905 --> 00:37:22,117
+Nikt nie zrzuca na nas
+bomb atomowych.
+
+394
+00:37:22,199 --> 00:37:23,784
+Rosjanie chcą.
+
+395
+00:37:23,909 --> 00:37:28,914
+Rosjanin, którego bronisz,
+przygotowuje ich na zrzut bomby.
+
+396
+00:37:29,081 --> 00:37:30,916
+To nieprawda.
+
+397
+00:37:31,001 --> 00:37:34,378
+I nie jest Rosjaninem.
+Urodził się w północnej Anglii.
+
+398
+00:37:34,503 --> 00:37:39,092
+Ale szpieguje dla ZSRR.
+Nie rozumiem, co robisz.
+
+399
+00:37:39,217 --> 00:37:41,385
+Nie jesteś komunistą.
+Czemu go bronisz?
+
+400
+00:37:41,510 --> 00:37:45,306
+– Taką mam pracę.
+– Kiedyś wyglądała inaczej.
+
+401
+00:37:46,016 --> 00:37:50,103
+PO 10 DNIACH OD ZEZNANIA
+SPRAWA SZPIEGA BĘDZIE ROZPOZNANA
+
+402
+00:37:54,983 --> 00:37:58,318
+LOS SZPIEGA W RĘKACH
+ŁAWY SĘDZIOWSKIEJ
+
+403
+00:38:15,295 --> 00:38:19,798
+<i>Stany Zjednoczone Ameryki</i>
+przeciwko Rudolfowi Ablowi.
+
+404
+00:38:19,882 --> 00:38:24,179
+Oskarżony dopuścił się
+pierwszego z przestępstw?
+
+405
+00:38:24,387 --> 00:38:27,097
+Jest winny czy niewinny?
+
+406
+00:38:27,181 --> 00:38:28,182
+Winny.
+
+407
+00:38:29,309 --> 00:38:31,101
+Winny drugiego przestępstwa?
+
+408
+00:38:31,393 --> 00:38:32,686
+Winny.
+
+409
+00:38:33,188 --> 00:38:35,190
+Trzeciego?
+
+410
+00:38:35,690 --> 00:38:36,398
+Winny.
+
+411
+00:38:36,483 --> 00:38:40,487
+Wnoszę o oddalenie werdyktu
+ze względu na brak dowodów.
+
+412
+00:38:40,612 --> 00:38:42,197
+Odrzucam.
+
+413
+00:38:42,405 --> 00:38:45,992
+Rozprawa zakończona.
+Dziękuję wszystkim.
+
+414
+00:38:46,492 --> 00:38:50,579
+Dodam, że na waszym miejscu
+zrobiłbym to samo.
+
+415
+00:38:51,498 --> 00:38:54,583
+Wykonanie wyroku:
+
+416
+00:38:55,918 --> 00:38:57,711
+<i>15 listopada.</i>
+
+417
+00:39:06,304 --> 00:39:10,391
+Wyrok śmierci to nie koniec.
+Proszę się nie martwić.
+
+418
+00:39:11,016 --> 00:39:13,519
+Nie boję się śmierci.
+
+419
+00:39:16,106 --> 00:39:17,815
+Chociaż...
+
+420
+00:39:18,108 --> 00:39:20,193
+wolałbym jej uniknąć.
+
+421
+00:39:24,114 --> 00:39:26,615
+Zostawił pan.
+
+422
+00:39:27,992 --> 00:39:29,284
+Dziękuję.
+
+423
+00:39:31,413 --> 00:39:33,914
+Bardzo dziękuję.
+
+424
+00:39:53,393 --> 00:39:57,313
+Nie pytał pan,
+czy zarzuty były słuszne.
+
+425
+00:39:58,481 --> 00:40:02,818
+Czy jestem szpiegiem.
+
+426
+00:40:03,610 --> 00:40:08,992
+Najważniejsza jest sprawa,
+udowodnienie, że się mylą.
+
+427
+00:40:09,117 --> 00:40:13,079
+Nie interesuje mnie,
+czy pan to zrobił.
+
+428
+00:40:13,204 --> 00:40:15,998
+To oni mają udowodnić,
+że jest pan szpiegiem.
+
+429
+00:40:16,206 --> 00:40:19,418
+– Nie jest pan ciekawy?
+– Niezbyt.
+
+430
+00:40:19,501 --> 00:40:24,382
+– Zakładałem, że jest pan artystą.
+– Moja żona jest artystką.
+
+431
+00:40:24,507 --> 00:40:30,179
+Gra w Moskiewskiej
+Orkiestrze Dziecięcej.
+
+432
+00:40:30,597 --> 00:40:34,684
+– Na jakim instrumencie?
+– Na harfie.
+
+433
+00:40:36,186 --> 00:40:38,480
+Jest więc aniołem.
+
+434
+00:40:48,114 --> 00:40:50,617
+Przypomina mi pan mężczyznę,
+
+435
+00:40:50,699 --> 00:40:53,702
+który nas odwiedzał,
+gdy byłem młody.
+
+436
+00:40:54,579 --> 00:40:58,083
+Ojciec powtarzał,
+żebym go obserwował.
+
+437
+00:40:59,083 --> 00:41:02,295
+I tak czyniłem zawsze,
+gdy przychodził.
+
+438
+00:41:02,795 --> 00:41:09,719
+Ale nigdy nie zrobił
+nic niezwykłego.
+
+439
+00:41:10,594 --> 00:41:12,889
+I ja go przypominam?
+
+440
+00:41:16,016 --> 00:41:19,688
+Kiedyś, byłem pewnie
+w wieku pana syna,
+
+441
+00:41:19,813 --> 00:41:23,315
+zostaliśmy napadnięci
+przez oddział graniczny.
+
+442
+00:41:26,985 --> 00:41:29,114
+Było ich wielu.
+
+443
+00:41:29,280 --> 00:41:35,202
+Pobili mojego ojca i matkę.
+Tego mężczyznę również.
+
+444
+00:41:36,788 --> 00:41:47,590
+A ja przyglądałem się,
+jak wstawał po każdym ciosie.
+
+445
+00:41:49,217 --> 00:41:55,389
+Bili go mocniej,
+a on znowu wstawał.
+
+446
+00:41:58,684 --> 00:42:02,896
+Pewnie dlatego przestali
+i uszedł z życiem.
+
+447
+00:42:11,114 --> 00:42:13,615
+Pamiętam, jak to mówili.
+
+448
+00:42:20,789 --> 00:42:23,083
+W tłumaczeniu to...
+
+449
+00:42:25,210 --> 00:42:27,505
+niezłomny człowiek.
+
+450
+00:42:30,717 --> 00:42:33,594
+Niezłomny człowiek.
+
+451
+00:42:43,188 --> 00:42:45,690
+– Witaj, Jim.
+– Millie, wyglądasz pięknie.
+
+452
+00:42:45,898 --> 00:42:50,110
+Mortie się szykuje,
+ale zapraszam.
+
+453
+00:42:51,278 --> 00:42:54,282
+– Whisky?
+– Poproszę.
+
+454
+00:42:54,407 --> 00:42:56,409
+Z odrobiną wody.
+
+455
+00:42:56,909 --> 00:42:59,411
+– Panie sędzio.
+– Witaj, Jim.
+
+456
+00:42:59,496 --> 00:43:02,414
+Wychodzimy, ale znajdę chwilę.
+
+457
+00:43:02,998 --> 00:43:06,210
+Idziemy na March of Dimes,
+Millie się udziela.
+
+458
+00:43:07,711 --> 00:43:12,884
+Dziękuję za spotkanie.
+Chciałem pomówić o wyroku.
+
+459
+00:43:13,385 --> 00:43:19,599
+Przyszedłem do pana domu,
+bo moje uwagi są mało legalne.
+
+460
+00:43:19,682 --> 00:43:22,309
+Już taka sprawa.
+
+461
+00:43:22,518 --> 00:43:26,398
+Chyba nie byłem zbyt szorstki,
+ale masz wiele racji.
+
+462
+00:43:26,981 --> 00:43:29,900
+Nie do końca
+chodzi tutaj o prawo.
+
+463
+00:43:30,818 --> 00:43:35,280
+Są ważniejsze problemy.
+Ważniejsze!
+
+464
+00:43:37,492 --> 00:43:38,909
+Dziękuję.
+
+465
+00:43:43,998 --> 00:43:48,711
+Dla dobra Stanów Zjednoczonych
+warto się zastanowić
+
+466
+00:43:48,795 --> 00:43:52,215
+nad pozostawieniem
+Abla przy życiu.
+
+467
+00:43:52,715 --> 00:43:54,009
+Dlaczego?
+
+468
+00:43:54,217 --> 00:43:55,885
+Jeszcze nie zdecydowałem,
+
+469
+00:43:56,010 --> 00:43:59,014
+ale gdyby chciał współpracować,
+już by to zrobił.
+
+470
+00:43:59,304 --> 00:44:02,684
+– Prawda, ale...
+– Moment.
+
+471
+00:44:06,813 --> 00:44:13,902
+W interesie kraju nie leży
+trzymanie go w celi.
+
+472
+00:44:14,195 --> 00:44:16,280
+Bo niby jak?
+
+473
+00:44:16,405 --> 00:44:21,286
+Nie chodzi o areszt,
+jest jednak możliwe,
+
+474
+00:44:21,411 --> 00:44:28,083
+że jakiś nasz szpieg
+zostanie złapany przez ZSRR.
+
+475
+00:44:28,208 --> 00:44:30,586
+Warto będzie mieć
+kogoś na wymianę.
+
+476
+00:44:32,297 --> 00:44:36,092
+Sporo niepewności.
+Gdybać możemy do końca świata.
+
+477
+00:44:36,217 --> 00:44:39,094
+Gdybanie to moja praca.
+Zajmuję się ubezpieczeniami.
+
+478
+00:44:39,179 --> 00:44:44,099
+Taki scenariusz jest
+wysoce prawdopodobny.
+
+479
+00:44:44,893 --> 00:44:48,188
+Przy takich szansach
+kupuje się ubezpieczenia.
+
+480
+00:44:48,396 --> 00:44:52,400
+Jeśli wykonamy wyrok,
+wszystko się może stać.
+
+481
+00:44:52,608 --> 00:44:57,405
+W „godzinie zero”
+zostaniemy bez niczego.
+
+482
+00:44:59,282 --> 00:45:00,909
+Piękna przemowa.
+
+483
+00:45:01,701 --> 00:45:06,206
+Jest również argument
+humanitaryzmu.
+
+484
+00:45:06,706 --> 00:45:10,710
+Powinien umrzeć za to,
+co kazali mu zrobić?
+
+485
+00:45:12,586 --> 00:45:15,090
+W porządku, mecenasie.
+
+486
+00:45:16,298 --> 00:45:18,385
+Muszę lecieć.
+
+487
+00:45:21,304 --> 00:45:23,597
+Miło było cię zobaczyć.
+
+488
+00:45:26,809 --> 00:45:29,396
+Odprowadzę cię.
+
+489
+00:45:31,398 --> 00:45:32,690
+Proszę wstać.
+
+490
+00:45:34,192 --> 00:45:38,112
+Sąd okręgowy dla wschodniej części
+Nowego Jorku zaczyna obrady.
+
+491
+00:45:38,278 --> 00:45:40,782
+Przewodniczy sędzia
+Mortimer Byers.
+
+492
+00:45:45,119 --> 00:45:47,288
+Proszę usiąść.
+
+493
+00:45:58,298 --> 00:46:00,385
+Niech oskarżony wstanie.
+
+494
+00:46:14,815 --> 00:46:19,278
+W ocenie sądu wyrok wydany
+na podstawie decyzji przysięgłych
+
+495
+00:46:19,403 --> 00:46:26,994
+odnośnie winy oskarżonego
+spełnia wymagane przesłanki.
+
+496
+00:46:27,119 --> 00:46:30,498
+Winny wszystkich
+zarzucanych mu czynów
+
+497
+00:46:32,916 --> 00:46:37,588
+zostanie oddany w ręce
+prokuratora generalnego,
+
+498
+00:46:38,882 --> 00:46:45,096
+aby wskazał mu zakład karny,
+w którym spędzi 30 lat.
+
+499
+00:46:45,804 --> 00:46:48,099
+Proszę odprowadzić oskarżonego.
+
+500
+00:46:48,182 --> 00:46:50,518
+– Bez krzesła elektrycznego?
+– Bez.
+
+501
+00:46:51,018 --> 00:46:53,980
+Dlaczego, na miłość boską,
+nie zawiśnie?
+
+502
+00:46:54,188 --> 00:46:55,481
+Proszę usiąść!
+
+503
+00:46:55,815 --> 00:46:58,610
+To szpieg!
+Giniemy przez jego kłamstwa!
+
+504
+00:46:59,402 --> 00:47:01,112
+Dlaczego nie zawiśnie?
+
+505
+00:47:01,278 --> 00:47:02,280
+Dokładnie!
+
+506
+00:47:03,989 --> 00:47:05,699
+To szpieg!
+
+507
+00:47:09,913 --> 00:47:11,414
+Panie Donovan!
+
+508
+00:47:11,789 --> 00:47:14,708
+Tylko jedno pytanie!
+
+509
+00:47:21,507 --> 00:47:23,592
+Mój kapelusz.
+
+510
+00:47:25,719 --> 00:47:26,887
+Bez komentarza.
+
+511
+00:47:27,097 --> 00:47:28,806
+Państwo Donovan
+nie będą odpowiadać.
+
+512
+00:47:29,014 --> 00:47:32,811
+– Jak samopoczucie?
+– Czy jest pan zadowolony?
+
+513
+00:47:33,186 --> 00:47:36,188
+Możemy złożyć apelację.
+
+514
+00:47:36,313 --> 00:47:37,690
+– Apelację?
+– Tak.
+
+515
+00:47:51,996 --> 00:47:53,706
+Świetna robota.
+
+516
+00:47:53,914 --> 00:47:58,293
+Wykonałeś swój obowiązek,
+ale to szpieg.
+
+517
+00:47:58,420 --> 00:48:00,880
+Wyrok jest dobry
+i nie ma o co apelować.
+
+518
+00:48:01,088 --> 00:48:02,798
+Jest powód proceduralny.
+
+519
+00:48:02,882 --> 00:48:07,387
+Przeszukanie było nielegalne,
+czwarta poprawka zrobi swoje.
+
+520
+00:48:07,512 --> 00:48:11,682
+– Mamy niezłe szanse.
+– O czym mówisz?
+
+521
+00:48:11,807 --> 00:48:15,311
+Mieliśmy go bronić
+i to zrobiliśmy,
+
+522
+00:48:15,519 --> 00:48:17,981
+a ty strzelasz we mnie
+konstytucją?
+
+523
+00:48:18,106 --> 00:48:22,402
+Powiedz, patrząc mi w oczy,
+że nie mamy podstaw,
+
+524
+00:48:22,485 --> 00:48:25,112
+– to odpuszczę.
+– Nie w tym rzecz.
+
+525
+00:48:25,195 --> 00:48:28,782
+– Sporo ryzykujesz.
+– Dokładnie.
+
+526
+00:48:28,992 --> 00:48:31,702
+Kosztem rodziny i kancelarii.
+
+527
+00:49:06,278 --> 00:49:08,614
+Brakowało mi muzyki.
+
+528
+00:49:08,782 --> 00:49:11,909
+Sprawdzali, czy radio
+nie jest przekaźnikiem.
+
+529
+00:49:12,409 --> 00:49:14,411
+No jasne.
+
+530
+00:49:15,704 --> 00:49:17,081
+Szostakowicz.
+
+531
+00:49:19,583 --> 00:49:22,503
+To dopiero artysta.
+
+532
+00:49:37,893 --> 00:49:39,813
+Tak sobie myślę.
+
+533
+00:49:40,896 --> 00:49:46,820
+Jeśli chcemy uchylić wyrok,
+powołajmy się na konstytucję.
+
+534
+00:49:48,780 --> 00:49:52,701
+Najlepiej, gdyby sprawę
+rozpatrzył Sąd Najwyższy.
+
+535
+00:50:06,213 --> 00:50:08,007
+Proszę uważać.
+
+536
+00:50:13,304 --> 00:50:14,681
+Uważaj.
+
+537
+00:50:44,710 --> 00:50:45,586
+Mamo!
+
+538
+00:50:47,380 --> 00:50:50,884
+Jezu, co się stało?
+Nic ci nie jest?
+
+539
+00:50:51,092 --> 00:50:54,012
+– Zranili cię?
+– Są na górze!
+
+540
+00:50:57,014 --> 00:50:59,893
+Nic wam nie jest?
+
+541
+00:51:00,101 --> 00:51:03,813
+Siadłem przy ścianie.
+Z dala od okien.
+
+542
+00:51:03,896 --> 00:51:06,483
+Brawo.
+
+543
+00:51:07,108 --> 00:51:10,320
+Wszystko dobrze.
+Poszli sobie.
+
+544
+00:51:10,402 --> 00:51:12,112
+To tchórze.
+
+545
+00:51:12,280 --> 00:51:16,701
+Detektywi sprawdzają okolicę,
+może ktoś opisze auto,
+
+546
+00:51:16,784 --> 00:51:20,079
+– chociaż wątpię.
+– Potrzebujemy ochrony.
+
+547
+00:51:20,288 --> 00:51:22,916
+Zostawimy dwa auta.
+
+548
+00:51:22,998 --> 00:51:25,085
+– Będzie wiadomo, że...
+– Na jak długo?
+
+549
+00:51:25,210 --> 00:51:27,295
+Wyjeżdżam do Waszyngtonu.
+
+550
+00:51:27,420 --> 00:51:30,005
+Jak może pan to robić
+swojej rodzinie?
+
+551
+00:51:30,090 --> 00:51:33,717
+– Słucham?
+– Po co nadal go pan broni?
+
+552
+00:51:34,510 --> 00:51:36,887
+– Przestań.
+– Nie zamierzam.
+
+553
+00:51:37,012 --> 00:51:39,807
+– Walczyłem na plaży Omaha.
+– Też byłem w wojsku.
+
+554
+00:51:39,891 --> 00:51:44,103
+– Bronisz pan wroga?
+– Niech pan wraca do pracy.
+
+555
+00:51:44,478 --> 00:51:47,398
+– Przepraszam, wyjdźmy.
+– Zapomnij o tym.
+
+556
+00:51:47,481 --> 00:51:48,692
+Czego nie rozumiem?
+
+557
+00:51:48,900 --> 00:51:51,695
+Wychodzimy, oficerze.
+Przepraszam.
+
+558
+00:52:37,489 --> 00:52:42,202
+Jeśli zajdzie potrzeba
+opuszczenia samolotu nad ZSRR,
+
+559
+00:52:42,286 --> 00:52:46,916
+w kadłubie znajdziecie
+kilogramowy ładunek wybuchowy.
+
+560
+00:52:47,208 --> 00:52:50,878
+Najpierw aktywujecie obwody.
+
+561
+00:52:52,297 --> 00:52:58,094
+Aby rozpocząć odliczanie 70 sekund,
+należy wcisnąć „ZNISZCZ”.
+
+562
+00:53:00,679 --> 00:53:05,018
+Te loty pozostają tajemnicą,
+
+563
+00:53:05,184 --> 00:53:08,313
+a sprzęt nie może
+dostać się w ręce wroga.
+
+564
+00:53:08,480 --> 00:53:10,315
+A co z nami?
+
+565
+00:53:10,481 --> 00:53:14,693
+Nie wiem, czy żartujecie,
+poruczniku Powers, bo ja nie.
+
+566
+00:53:16,695 --> 00:53:21,201
+Wasza wiedza na temat
+samolotu jest poufna.
+
+567
+00:53:22,284 --> 00:53:27,998
+Jeśli mają was złapać,
+to lepiej się rozbijcie.
+
+568
+00:53:28,083 --> 00:53:32,586
+Jeśli jednak możecie uciec,
+bo jesteście przy granicy,
+
+569
+00:53:32,711 --> 00:53:35,507
+to się katapultujcie.
+
+570
+00:53:36,590 --> 00:53:41,096
+Ale w takim wypadku
+weźcie ze sobą dolara.
+
+571
+00:53:41,304 --> 00:53:43,889
+W środku jest szpilka.
+
+572
+00:53:45,684 --> 00:53:48,894
+Zadrapcie się.
+Działa natychmiast.
+
+573
+00:53:49,103 --> 00:53:53,900
+Jeśli mogą was schwytać,
+użyjcie jej.
+
+574
+00:53:57,195 --> 00:53:59,989
+Rozumiecie?
+
+575
+00:54:00,907 --> 00:54:02,617
+Wydajcie dolara.
+
+576
+00:54:20,510 --> 00:54:24,889
+SĄD NAJWYŻSZY
+STANÓW ZJEDNOCZONYCH
+
+577
+00:54:57,088 --> 00:55:03,302
+Panie przewodniczący, wysoki sądzie,
+„zimna wojna” to nie tylko wyrażenie.
+
+578
+00:55:03,385 --> 00:55:05,679
+To nie tylko przenośnia.
+
+579
+00:55:05,804 --> 00:55:11,603
+Prawdą jest, że toczy się walka
+między dwiema wizjami świata.
+
+580
+00:55:11,686 --> 00:55:15,190
+Podtrzymuję,
+że Rudolf Iwanowicz Abel,
+
+581
+00:55:15,315 --> 00:55:19,402
+pułkownik Abel, jak nazwano go
+podczas aresztowania,
+
+582
+00:55:19,485 --> 00:55:22,697
+jest w tej walce
+naszym wrogiem.
+
+583
+00:55:23,114 --> 00:55:26,409
+– Moc pomocnicza?
+– Podłączona i włączona.
+
+584
+00:55:26,617 --> 00:55:30,288
+– Zapas tlenu?
+– 12 000 Pa.
+
+585
+00:55:30,496 --> 00:55:33,208
+– Inwertor?
+– Włączony.
+
+586
+00:55:33,291 --> 00:55:36,418
+Był traktowany
+jak uczestnik tej wojny,
+
+587
+00:55:36,503 --> 00:55:40,382
+dopóki naszemu rządowi
+przestało to odpowiadać.
+
+588
+00:55:40,507 --> 00:55:46,179
+Dlatego nie otrzymał ochrony
+przysługującej naszym obywatelom.
+
+589
+00:55:46,304 --> 00:55:50,516
+Sposób, w jaki go potraktowano,
+choć odpowiedni dla wroga,
+
+590
+00:55:50,599 --> 00:55:53,519
+nie był odpowiedni
+dla podejrzanego o zbrodnię.
+
+591
+00:55:53,603 --> 00:55:55,688
+– Pompa paliwowa?
+– Wyłączona.
+
+592
+00:55:55,896 --> 00:55:58,190
+– Niszczyciel?
+– Odbezpieczony.
+
+593
+00:55:58,400 --> 00:56:00,985
+– Ładunek?
+– Zamontowany.
+
+594
+00:56:15,083 --> 00:56:16,710
+Znam tego człowieka.
+
+595
+00:56:16,793 --> 00:56:20,380
+Jeśli faktycznie służy
+obcemu mocarstwu, jest mu oddany.
+
+596
+00:56:20,588 --> 00:56:24,384
+Jeśli jest żołnierzem wroga,
+jest dobrym żołnierzem.
+
+597
+00:56:24,509 --> 00:56:27,387
+Nie uciekł z pola walki,
+by się ocalić.
+
+598
+00:56:27,594 --> 00:56:32,391
+Odmówił służenia wrogowi.
+Zdradzenia swojej misji.
+
+599
+00:56:32,516 --> 00:56:35,019
+Odmówił tchórzostwa.
+
+600
+00:56:35,186 --> 00:56:39,398
+Tchórz musi zrezygnować z dumy,
+zanim zrezygnuje z walki.
+
+601
+00:56:39,898 --> 00:56:42,485
+Tego Rudolf Abel nie zrobił.
+
+602
+00:56:42,610 --> 00:56:43,987
+Czy nie powinniśmy,
+
+603
+00:56:44,112 --> 00:56:48,699
+przypisując mu pełne prawa,
+które definiują nasz system,
+
+604
+00:56:48,782 --> 00:56:53,788
+pokazać, jacy jesteśmy?
+
+605
+00:56:53,996 --> 00:56:58,293
+Czy to nie najpotężniejsza broń,
+jaką dysponujemy w tej wojnie?
+
+606
+00:56:58,501 --> 00:57:03,797
+Czy będziemy słabiej niż Abel
+bronić własnych przekonań?
+
+607
+00:59:47,003 --> 00:59:48,380
+<i>Prezydent ogłosił,</i>
+
+608
+00:59:48,505 --> 00:59:52,592
+<i>że samolot NASA zaginął</i>
+<i>cztery dni temu nad północną Turcją.</i>
+
+609
+00:59:52,717 --> 00:59:56,679
+<i>NASA obawia się,</i>
+<i>że pilot mógł zginąć.</i>
+
+610
+00:59:57,097 --> 01:00:00,016
+<i>Na radarze widać,</i>
+<i>jak samolot zbacza z kursu</i>
+
+611
+01:00:00,099 --> 01:00:04,019
+<i>i wlatuje na sowieckie terytorium</i>
+<i>przed utraceniem kontaktu.</i>
+
+612
+01:00:04,186 --> 01:00:08,190
+<i>Utrudnia to odzyskanie samolotu</i>
+<i>i ciała pilota.</i>
+
+613
+01:00:08,400 --> 01:00:10,485
+<i>Teraz wiadomości z Waszyngtonu.</i>
+
+614
+01:00:10,693 --> 01:00:14,280
+<i>Sąd Najwyższy na podstawie głosów</i>
+<i>podtrzymał skazujący wyrok</i>
+
+615
+01:00:14,405 --> 01:00:17,282
+<i>wobec rosyjskiego szpiega</i>
+<i>Rudolfa Iwanowicza Abla.</i>
+
+616
+01:00:17,409 --> 01:00:19,119
+<i>Pięć głosów za,</i>
+<i>cztery przeciw.</i>
+
+617
+01:00:19,202 --> 01:00:21,704
+<i>Sprawa traktowała</i>
+<i>o wolnościach obywatelskich,</i>
+
+618
+01:00:21,788 --> 01:00:24,791
+<i>jak mówi obrońca Abla,</i>
+<i>James B. Donovan.</i>
+
+619
+01:00:25,208 --> 01:00:31,213
+<i>Zapytany, jak się czuje po porażce,</i>
+<i>odpowiedział, że jest zmęczony.</i>
+
+620
+01:00:31,380 --> 01:00:34,384
+<i>Więcej wiadomości po przerwie.</i>
+
+621
+01:00:36,302 --> 01:00:37,887
+To koniec.
+
+622
+01:00:42,391 --> 01:00:47,480
+Marty, nie potrafię znaleźć
+akt sprawy Prudential.
+
+623
+01:00:47,896 --> 01:00:50,692
+Pan Watters kazał
+zanieść je do Jacka Elwesa.
+
+624
+01:00:50,817 --> 01:00:53,402
+– Razem z apelacją.
+– Naprawdę?
+
+625
+01:00:53,485 --> 01:00:57,614
+Poprawił ją i wysłał,
+gdy był pan w Waszyngtonie.
+
+626
+01:01:00,201 --> 01:01:03,704
+Jak długo jesteśmy partnerami?
+Czy kiedyś nie zamknąłem sprawy?
+
+627
+01:01:03,913 --> 01:01:06,708
+Umówmy się
+w eleganckim miejscu.
+
+628
+01:01:06,791 --> 01:01:10,795
+Panu Youngowi spodobają się
+nowojorskie przysmaki.
+
+629
+01:01:10,878 --> 01:01:13,005
+Teraz podam streszczenie...
+
+630
+01:01:31,190 --> 01:01:33,108
+Znasz kogoś z Lipska?
+
+631
+01:01:33,193 --> 01:01:37,280
+Lipska?
+Listy z groźbami z Niemiec?
+
+632
+01:01:37,905 --> 01:01:39,699
+Z NRD.
+
+633
+01:01:48,291 --> 01:01:53,713
+– To pańska żona?
+– Nie, nie.
+
+634
+01:01:54,380 --> 01:01:58,717
+Ktoś nieudolnie
+pod nią się podszywa.
+
+635
+01:01:59,719 --> 01:02:04,516
+„Piszę do Pana,
+gdyż przeczytałam w gazetach
+
+636
+01:02:04,682 --> 01:02:11,398
+o pańskim humanitarnym podejściu
+do mojego męża, Rudolfa Abla”.
+
+637
+01:02:12,606 --> 01:02:15,485
+Powinienem odpisać?
+
+638
+01:02:17,695 --> 01:02:19,405
+Tak, tak.
+
+639
+01:02:22,701 --> 01:02:26,996
+Jaki należy wykonać ruch,
+gdy nie zna się zasad gry?
+
+640
+01:02:28,206 --> 01:02:30,208
+<i>Francis Gary Powers,</i>
+
+641
+01:02:31,918 --> 01:02:36,715
+na podstawie art. 2
+prawa karnego ZSSR,
+
+642
+01:02:36,797 --> 01:02:40,592
+dotyczącego zbrodni
+przeciwko państwu,
+
+643
+01:02:40,719 --> 01:02:43,096
+zostaje skazany na 10 lat
+odosobnienia,
+
+644
+01:02:43,179 --> 01:02:46,807
+z czego trzy pierwsze lata
+spędzi w więzieniu.
+
+645
+01:02:48,018 --> 01:02:52,688
+Okres odbycia kary,
+wraz ze wstępnym aresztem,
+
+646
+01:02:52,813 --> 01:02:57,193
+będzie liczony
+od 1 maja 1960 roku.
+
+647
+01:03:23,094 --> 01:03:25,597
+Panie Donovan,
+dziękuję za przybycie.
+
+648
+01:03:25,804 --> 01:03:29,893
+Miło poznać, panie Dulles.
+To prawdziwy zaszczyt.
+
+649
+01:03:30,809 --> 01:03:34,396
+Nescafe, śmietanka,
+dwie kostki.
+
+650
+01:03:35,106 --> 01:03:36,315
+Dziękuję.
+
+651
+01:03:37,108 --> 01:03:39,193
+Ten list, który pan dostał.
+
+652
+01:03:39,402 --> 01:03:42,280
+Wychodzi na to,
+że Sowieci chcą się dogadać.
+
+653
+01:03:43,197 --> 01:03:47,494
+Robią to przez NRD,
+by nie potwierdzać narodowości Abla
+
+654
+01:03:47,619 --> 01:03:52,414
+ani tego, że jest szpiegiem.
+Sporo tu krętactw.
+
+655
+01:03:52,581 --> 01:03:54,708
+Tak.
+Ale co teraz?
+
+656
+01:03:54,918 --> 01:03:59,005
+Mają naszego pilota,
+a my ich szpiega.
+
+657
+01:04:01,090 --> 01:04:04,719
+Wymiana jeńców,
+chyba o to chodzi.
+
+658
+01:04:04,802 --> 01:04:10,016
+Dla pana to żadna niespodzianka.
+Przewidział to pan.
+
+659
+01:04:10,182 --> 01:04:13,186
+Zgadza się,
+ale rzadko mam rację.
+
+660
+01:04:13,603 --> 01:04:20,610
+Gratulacje, to niezwykły dzień.
+Mają naszego pilota, Powersa.
+
+661
+01:04:20,693 --> 01:04:24,697
+Dobry człowiek.
+Zna wiele tajnych informacji.
+
+662
+01:04:24,905 --> 01:04:29,202
+Tak samo jak Abel,
+ale ten nic nie zdradził.
+
+663
+01:04:29,411 --> 01:04:30,994
+I nie zdradzi.
+
+664
+01:04:31,204 --> 01:04:33,581
+Tak, ale Rosjanie
+o tym nie wiedzą.
+
+665
+01:04:33,789 --> 01:04:36,291
+Chcą go z powrotem,
+zanim zacznie gadać,
+
+666
+01:04:36,501 --> 01:04:40,505
+a my chcemy Powersa
+z tych samych powodów.
+
+667
+01:04:42,882 --> 01:04:44,509
+Próbuje pan powiedzieć,
+
+668
+01:04:44,592 --> 01:04:47,512
+że możemy liczyć na szczęśliwe
+zakończenie dla wszystkich?
+
+669
+01:04:47,594 --> 01:04:51,682
+Tak, jeśli dogodzimy
+ich wymysłom.
+
+670
+01:04:58,690 --> 01:05:00,983
+Zająłby się pan negocjacjami.
+
+671
+01:05:01,108 --> 01:05:04,112
+Jest pan niezależny,
+niepowiązany z rządem.
+
+672
+01:05:04,778 --> 01:05:07,489
+Oni nie uznają Abla
+za Sowieta,
+
+673
+01:05:07,614 --> 01:05:10,909
+a my nie uznajemy NRD
+za suwerenne państwo.
+
+674
+01:05:10,994 --> 01:05:15,206
+Nie są nim od czasu
+sowieckiej aneksji z 1945.
+
+675
+01:05:15,289 --> 01:05:18,293
+Byłbym negocjatorem
+reprezentującym...
+
+676
+01:05:18,418 --> 01:05:20,085
+Nikogo.
+
+677
+01:05:20,210 --> 01:05:23,715
+Nie jest pan urzędnikiem,
+nie ma pan oficjalnego statusu.
+
+678
+01:05:23,797 --> 01:05:26,800
+– Zatem my też wymyślamy.
+– Owszem.
+
+679
+01:05:27,010 --> 01:05:32,891
+Jeśli coś pójdzie nie tak,
+zostanie pan sam.
+
+680
+01:05:33,099 --> 01:05:37,686
+CIA odcina się od sprawy.
+Nie możemy okryć się hańbą.
+
+681
+01:05:39,313 --> 01:05:41,900
+Gdzie odbędą się negocjacje?
+
+682
+01:05:41,983 --> 01:05:44,402
+– Tam.
+– „Tam”?
+
+683
+01:05:44,693 --> 01:05:46,612
+Berlin Wschodni.
+
+684
+01:05:48,197 --> 01:05:53,202
+– A czy w Berlinie Wschodnim...
+– Sprawy się komplikują.
+
+685
+01:05:54,704 --> 01:05:56,414
+Zgadza się.
+
+686
+01:05:58,708 --> 01:06:02,211
+Sowieci od paru miesięcy
+stawiają posterunki,
+
+687
+01:06:02,295 --> 01:06:06,215
+by ludzie nie uciekali
+na zachodnią stronę.
+
+688
+01:06:06,507 --> 01:06:13,681
+Mogą nawet obmurować
+cały Berlin Wschodni.
+
+689
+01:06:18,394 --> 01:06:20,896
+To tak w skrócie.
+
+690
+01:06:20,980 --> 01:06:26,902
+Decyzja należy do pana.
+Jeśli potrzebuje pan czasu...
+
+691
+01:06:32,409 --> 01:06:34,119
+Nie.
+
+692
+01:06:34,911 --> 01:06:38,914
+– Nie potrzebuję.
+– Wspaniale.
+
+693
+01:06:38,998 --> 01:06:41,001
+To ściśle tajne.
+
+694
+01:06:41,083 --> 01:06:46,297
+Proszę nie rozmawiać o tym z Mary
+ani z nikim innym.
+
+695
+01:06:46,505 --> 01:06:50,510
+Kontaktuje się pan tylko z nami,
+informując nas na bieżąco.
+
+696
+01:06:50,719 --> 01:06:53,304
+Nie mam klienta, żony
+ani kraju.
+
+697
+01:06:53,512 --> 01:06:56,599
+Nie wiem, co robię,
+kiedy ani dla kogo.
+
+698
+01:06:56,807 --> 01:07:00,103
+Robi to pan dla kraju,
+tylko kraj jeszcze o tym nie wie.
+
+699
+01:07:00,186 --> 01:07:03,313
+A co z moim klientem,
+drugą osobą w tym równaniu?
+
+700
+01:07:03,481 --> 01:07:05,315
+Z tym Rosjaninem?
+
+701
+01:07:05,400 --> 01:07:09,987
+Nie jest już pana klientem.
+Teraz jest nim Powers.
+
+702
+01:07:10,487 --> 01:07:15,409
+– A co mam powiedzieć Ablowi?
+– Żeby nie umierał.
+
+703
+01:07:20,581 --> 01:07:25,085
+BERLIN, NIEMCY
+
+704
+01:08:47,292 --> 01:08:51,588
+BERLIN WSCHODNI
+
+705
+01:09:07,814 --> 01:09:09,314
+Profesorze?
+
+706
+01:09:14,904 --> 01:09:15,904
+Profesorze?
+
+707
+01:09:16,698 --> 01:09:20,618
+Tata poszedł na uczelnię.
+Nie powinno cię tu być, Frederic.
+
+708
+01:09:20,993 --> 01:09:22,787
+Są dziś zajęcia?
+
+709
+01:09:22,912 --> 01:09:25,081
+Poszedł zobaczyć,
+często tak robi.
+
+710
+01:09:25,289 --> 01:09:28,292
+– Czego chciałeś?
+– Przyszedłem was zabrać.
+
+711
+01:09:28,417 --> 01:09:30,878
+Musicie iść ze mną.
+Jutro może być za późno.
+
+712
+01:09:31,003 --> 01:09:34,298
+– Mamy się wyprowadzić?
+– Tak, i to teraz.
+
+713
+01:10:05,997 --> 01:10:07,414
+Wracaj.
+
+714
+01:10:07,916 --> 01:10:10,292
+Poradzę sobie.
+Jestem Amerykaninem.
+
+715
+01:10:10,417 --> 01:10:12,878
+Wracaj do taty.
+Znajdziemy inny sposób.
+
+716
+01:10:13,003 --> 01:10:15,215
+Stój.
+Coś za jeden?
+
+717
+01:10:15,297 --> 01:10:19,802
+– Właśnie wracałam.
+– Nie ruszaj się.
+
+718
+01:10:20,095 --> 01:10:21,887
+Dzień dobry.
+
+719
+01:10:25,015 --> 01:10:26,518
+Dokumenty.
+
+720
+01:10:26,810 --> 01:10:29,186
+Jestem studentem.
+Frederic Pryor.
+
+721
+01:10:29,311 --> 01:10:31,398
+– Student?
+– Tak.
+
+722
+01:10:31,480 --> 01:10:33,899
+A to co?
+
+723
+01:10:34,984 --> 01:10:37,404
+Żadnych zdjęć.
+
+724
+01:10:42,117 --> 01:10:44,618
+Nazywam się Frederic Pryor,
+studiuję ekonomię.
+
+725
+01:10:45,119 --> 01:10:46,496
+Ekonomia.
+
+726
+01:10:46,578 --> 01:10:52,585
+To moja praca dyplomowa.
+
+727
+01:10:53,920 --> 01:10:58,298
+„Handel międzynarodowy
+w komunistycznej Europie”.
+
+728
+01:10:58,382 --> 01:11:00,010
+Komunistycznej?
+
+729
+01:11:03,304 --> 01:11:05,515
+Dużo się napracowałem.
+
+730
+01:11:10,020 --> 01:11:11,186
+Komunistycznej?
+
+731
+01:11:12,104 --> 01:11:14,106
+To jedyny egzemplarz.
+
+732
+01:11:16,317 --> 01:11:17,484
+Nie!
+
+733
+01:11:19,988 --> 01:11:21,488
+<i>Powiedz cokolwiek.</i>
+
+734
+01:11:21,698 --> 01:11:25,784
+Wypadło w ostatniej chwili.
+Mają biura w Londynie.
+
+735
+01:11:26,286 --> 01:11:28,997
+Klienci!
+To nie mój pomysł.
+
+736
+01:11:29,204 --> 01:11:31,707
+Szkocja, rybołówstwo.
+
+737
+01:11:31,916 --> 01:11:36,003
+– Jakie ryby?
+– Łososie.
+
+738
+01:11:36,378 --> 01:11:38,590
+Powiedz, że będziesz bezpieczny
+
+739
+01:11:38,715 --> 01:11:42,510
+i że to zwykły wyjazd służbowy,
+a nie będę się martwić.
+
+740
+01:11:42,594 --> 01:11:44,386
+Potrzebny mi paszport.
+
+741
+01:11:48,515 --> 01:11:52,979
+Daj mi jakąś nadzieję.
+Nie obchodzi mnie prawda.
+
+742
+01:11:54,396 --> 01:11:56,106
+Robię to dla nas.
+
+743
+01:12:19,005 --> 01:12:24,219
+Pan Michener się tobą zajmie.
+Jest attaché w ambasadzie USA.
+
+744
+01:12:24,386 --> 01:12:26,680
+Sprawy się skomplikowały.
+
+745
+01:12:26,805 --> 01:12:32,810
+W ostatnim liście „pani Angel”
+pisze o Voglu, swoim prawniku.
+
+746
+01:12:32,894 --> 01:12:39,109
+Vogel jest w ambasadzie ZSRR,
+są gotowi na wymianę.
+
+747
+01:12:39,317 --> 01:12:41,985
+Nie wiemy, kto jest kim,
+ale to Rosjanie.
+
+748
+01:12:42,112 --> 01:12:44,405
+– Sowieci.
+– Tak przypuszczamy.
+
+749
+01:12:44,613 --> 01:12:47,408
+To znaczy?
+Podkręcimy ogrzewanie?
+
+750
+01:12:49,786 --> 01:12:53,497
+Jest pewien problem,
+mogą złożyć inną propozycję.
+
+751
+01:12:53,581 --> 01:12:56,583
+Zaproponować kogoś
+innego niż Powers.
+
+752
+01:12:56,710 --> 01:12:58,211
+Innego Amerykanina?
+
+753
+01:12:58,420 --> 01:13:02,716
+Bezpieka złapała studenta,
+Frederica Pryora.
+
+754
+01:13:03,507 --> 01:13:05,092
+Był po złej stronie muru.
+
+755
+01:13:05,217 --> 01:13:08,595
+Absolwent Yale.
+Studiuje tutaj ekonomię.
+
+756
+01:13:08,805 --> 01:13:12,600
+Teraz oskarżają go
+o szpiegostwo.
+
+757
+01:13:12,684 --> 01:13:15,520
+Poważne przestępstwo
+zagrożone karą śmierci.
+
+758
+01:13:15,603 --> 01:13:19,899
+Vogel powiedział nam,
+że reprezentuje Pryora.
+
+759
+01:13:20,817 --> 01:13:25,279
+Reprezentuje „panią Abel”
+i tego dzieciaka?
+
+760
+01:13:25,779 --> 01:13:28,908
+– Zajęty jest.
+– Kim jest?
+
+761
+01:13:28,992 --> 01:13:31,618
+Niemcem?
+Rosjaninem?
+
+762
+01:13:31,786 --> 01:13:33,496
+Dowie się pan jutro.
+
+763
+01:13:33,579 --> 01:13:36,416
+Ambasada ZSRR, Berlin Wschodni.
+Godzina dwunasta.
+
+764
+01:13:36,498 --> 01:13:38,792
+Hoffman pokaże panu,
+jak tam dotrzeć.
+
+765
+01:13:38,917 --> 01:13:41,796
+Jak to „pokaże”?
+Miał mi pan towarzyszyć.
+
+766
+01:13:41,880 --> 01:13:45,216
+– Mylę się?
+– Sprawy się skomplikowały.
+
+767
+01:13:45,382 --> 01:13:47,510
+Nie zaprowadzę pana,
+postanowione.
+
+768
+01:13:47,594 --> 01:13:50,596
+Urzędnik USA nie może
+przekroczyć granicy do odwołania.
+
+769
+01:13:50,680 --> 01:13:52,015
+– Jak to?
+– Zbyt niebezpieczne.
+
+770
+01:13:52,097 --> 01:13:53,682
+Niemcy zgarnęli dzieciaka.
+
+771
+01:13:53,807 --> 01:13:57,186
+To samowolka,
+której się nie spodziewaliśmy.
+
+772
+01:13:57,311 --> 01:14:02,399
+Plany Niemców i Rosjan
+mogą się różnić.
+
+773
+01:14:02,484 --> 01:14:05,319
+Proszę to sprawdzić
+i dostosować się do sytuacji.
+
+774
+01:14:05,403 --> 01:14:09,407
+– Powers za Abla.
+– A co z Pryorem?
+
+775
+01:14:09,783 --> 01:14:11,618
+Nie idźmy w to.
+
+776
+01:14:11,701 --> 01:14:14,578
+Odbijemy go innym razem.
+Teraz liczy się Powers.
+
+777
+01:14:37,185 --> 01:14:42,106
+– Gdzie twój pokój?
+– Zatrzymam się w Hiltonie.
+
+778
+01:14:43,399 --> 01:14:45,109
+To niedaleko.
+
+779
+01:14:46,485 --> 01:14:50,782
+Numer do Berlina Zachodniego.
+Zapamiętaj i oddaj.
+
+780
+01:14:51,990 --> 01:14:54,118
+Teraz.
+
+781
+01:14:55,703 --> 01:15:00,291
+Odcinają linie międzynarodowe,
+ale lokalne połączenia działają.
+
+782
+01:15:00,417 --> 01:15:03,086
+Cały czas ktoś jest
+pod telefonem.
+
+783
+01:15:10,719 --> 01:15:17,307
+Ten dokument umożliwi
+przejście sowieckiej granicy.
+
+784
+01:15:18,018 --> 01:15:21,311
+Spotkanie z Voglem
+odbędzie się jutro w południe.
+
+785
+01:15:26,400 --> 01:15:28,403
+Na wschód prowadzi kilka dróg.
+
+786
+01:15:28,610 --> 01:15:33,283
+Pojedziesz S-Bahnem
+i wysiądziesz na Friedrichstraße.
+
+787
+01:15:33,408 --> 01:15:36,618
+Potem trzeba przejść
+do ambasady na Unter den Linden.
+
+788
+01:15:36,703 --> 01:15:38,912
+Przyjrzyj się mapie.
+Zostanie ze mną.
+
+789
+01:15:38,997 --> 01:15:41,207
+Ten, kto ma mapę,
+jest szpiegiem.
+
+790
+01:15:41,416 --> 01:15:43,208
+Mogą cię aresztować.
+
+791
+01:15:43,292 --> 01:15:47,713
+Zero kontaktów z ludźmi,
+lepiej się nie wychylać.
+
+792
+01:15:47,881 --> 01:15:50,591
+Zaczyna brakować tam jedzenia,
+sytuacja się pogarsza.
+
+793
+01:15:50,716 --> 01:15:56,805
+Gangi, nikt nie szanuje prawa.
+Unikaj muru.
+
+794
+01:15:56,890 --> 01:16:00,894
+Po jego drugiej stronie
+jest tak zwana „linia śmierci”.
+
+795
+01:16:01,019 --> 01:16:02,311
+Zastrzelą cię tam.
+
+796
+01:16:02,395 --> 01:16:05,314
+A można uniknąć aresztu
+lub kulki w głowie?
+
+797
+01:16:05,398 --> 01:16:07,692
+Nie przejmuj się
+słowami Michenera.
+
+798
+01:16:07,817 --> 01:16:10,110
+To twoimi się przejmuję.
+
+799
+01:16:10,194 --> 01:16:15,699
+– A ten Pryor ile ma lat?
+– 25, a co?
+
+800
+01:16:15,908 --> 01:16:17,493
+Tyle, co Dougie.
+
+801
+01:16:19,496 --> 01:16:22,707
+– Kto?
+– Mój asystent.
+
+802
+01:16:24,583 --> 01:16:26,795
+Frederic Pryor.
+
+803
+01:16:28,087 --> 01:16:31,882
+Przykro mi, nie pomogę.
+
+804
+01:16:34,886 --> 01:16:39,099
+Nie ma go tutaj
+czy nie może pan powiedzieć?
+
+805
+01:16:39,181 --> 01:16:42,018
+<i>– Gdzie on jest?</i>
+<i>– Nie mogę powiedzieć.</i>
+
+806
+01:16:42,101 --> 01:16:46,689
+<i>Proszę.</i>
+<i>Muszę wiedzieć.</i>
+
+807
+01:16:46,814 --> 01:16:51,403
+<i>Ktoś na pewno wie,</i>
+<i>gdzie on jest.</i>
+
+808
+01:17:07,502 --> 01:17:10,087
+FRIEDRICHSTRAßE
+
+809
+01:17:58,386 --> 01:18:02,015
+Co to ma być?
+Wracaj do kolejki!
+
+810
+01:18:03,390 --> 01:18:04,516
+W porządku.
+
+811
+01:18:05,100 --> 01:18:08,896
+– Za kogo się uważasz?
+– Idę do sowieckiej ambasady.
+
+812
+01:18:08,979 --> 01:18:12,108
+– Wracać do kolejki!
+– Głuchyś?
+
+813
+01:18:12,192 --> 01:18:14,903
+– Jestem Amerykaninem.
+– Co się dzieje?
+
+814
+01:18:14,985 --> 01:18:16,904
+Proszę do kolejki!
+
+815
+01:18:16,988 --> 01:18:21,493
+W południe muszę być
+w sowieckiej ambasadzie.
+
+816
+01:18:22,118 --> 01:18:32,002
+To mój paszport,
+a tutaj mam wizę.
+
+817
+01:18:33,712 --> 01:18:37,091
+Południe, proszę was.
+
+818
+01:18:37,300 --> 01:18:40,804
+– Amerykanin?
+– Tak.
+
+819
+01:18:47,018 --> 01:18:51,898
+Paszport w porządku.
+Wiza aktualna.
+
+820
+01:18:52,189 --> 01:18:54,900
+– Możecie iść.
+– Dziękuję.
+
+821
+01:18:57,112 --> 01:18:58,697
+Następny!
+
+822
+01:19:26,390 --> 01:19:27,516
+Zgubiłeś się?
+
+823
+01:19:28,184 --> 01:19:30,811
+– Dzień dobry.
+– Zgubiłeś się?
+
+824
+01:19:31,479 --> 01:19:34,314
+Zgubiłem się.
+Dokładnie.
+
+825
+01:19:34,399 --> 01:19:36,900
+– Unter den Linden?
+– To nie włóczęga.
+
+826
+01:19:37,318 --> 01:19:39,904
+Amerykański tramp.
+
+827
+01:19:44,408 --> 01:19:50,081
+– Gadasz po niemiecku?
+– Tak, trochę tak.
+
+828
+01:19:50,206 --> 01:19:56,503
+Przepraszamy,
+jeśli cię to uraziło.
+
+829
+01:19:57,212 --> 01:20:01,717
+Masz drogi płaszcz.
+
+830
+01:20:03,011 --> 01:20:03,802
+Płaszcz?
+
+831
+01:20:04,304 --> 01:20:09,309
+– Mogę przymierzyć?
+– Chcemy przymierzyć płaszcz.
+
+832
+01:20:10,018 --> 01:20:12,979
+Na pewno zwrócimy.
+
+833
+01:20:15,981 --> 01:20:18,693
+Możesz dać nam pieniądze
+
+834
+01:20:18,902 --> 01:20:24,114
+albo oddasz nam płaszcz
+i nie stracisz ani grosza.
+
+835
+01:20:25,283 --> 01:20:27,409
+Unter den Linden.
+
+836
+01:20:27,493 --> 01:20:31,288
+Powiedzcie, gdzie jest,
+a dostaniecie płaszcz.
+
+837
+01:20:33,707 --> 01:20:40,506
+Prosto, potem w prawo,
+a następnie w lewo.
+
+838
+01:21:16,583 --> 01:21:19,295
+– Mówi pan po angielsku?
+– Tak.
+
+839
+01:21:19,796 --> 01:21:22,297
+Jestem James Donovan.
+Byłem umówiony z panem Voglem.
+
+840
+01:21:22,381 --> 01:21:23,298
+Z panem Voglem?
+
+841
+01:21:23,382 --> 01:21:26,594
+Mieliśmy się tutaj spotkać.
+
+842
+01:21:50,201 --> 01:21:51,786
+Pan Donovan!
+
+843
+01:21:51,994 --> 01:21:53,997
+Nareszcie się spotykamy.
+
+844
+01:21:55,914 --> 01:21:57,792
+Jestem Helen Abel.
+
+845
+01:21:57,917 --> 01:22:02,588
+– Co u mojego Rudolfa?
+– W porządku.
+
+846
+01:22:02,713 --> 01:22:05,091
+Wróci, tak?
+
+847
+01:22:05,216 --> 01:22:08,886
+To nasza córka, Lydia.
+
+848
+01:22:09,179 --> 01:22:13,099
+– Pan Vogel?
+– Nie.
+
+849
+01:22:13,182 --> 01:22:16,101
+Jestem kuzyn Drews.
+
+850
+01:22:16,895 --> 01:22:19,898
+To ulubiony kuzyn
+Rudolfa – Drews.
+
+851
+01:22:19,980 --> 01:22:23,318
+– Tak, kuzyn Drews.
+– To ja!
+
+852
+01:22:23,484 --> 01:22:24,985
+Jestem Helen Abel.
+
+853
+01:22:28,698 --> 01:22:33,912
+Kiedy go zobaczymy?
+Kiedy pański rząd go wyda?
+
+854
+01:22:33,994 --> 01:22:35,913
+Nie rozumiem.
+
+855
+01:22:35,997 --> 01:22:37,791
+Miałem się spotkać
+z panem Voglem.
+
+856
+01:22:37,916 --> 01:22:39,917
+To nasz prawnik.
+
+857
+01:22:40,001 --> 01:22:43,880
+Mieliśmy uzgodnić
+warunki wymiany.
+
+858
+01:22:44,005 --> 01:22:46,716
+– Aby sprowadzić Rudolfa?
+– Tak.
+
+859
+01:22:46,800 --> 01:22:51,179
+To nie jest jednostronny układ.
+Musi dojść do wymiany.
+
+860
+01:22:52,305 --> 01:22:55,809
+– Mamo, jego tutaj nie ma.
+– Nie ma?
+
+861
+01:22:59,020 --> 01:23:05,402
+Nie płacz, mamo.
+Uspokój się.
+
+862
+01:23:15,994 --> 01:23:18,997
+– Panie Donovan.
+– Panie Vogel.
+
+863
+01:23:19,082 --> 01:23:23,086
+Nie, nie.
+Jestem Iwan Szyszkin.
+
+864
+01:23:23,211 --> 01:23:25,212
+Drugi sekretarz
+sowieckiej ambasady.
+
+865
+01:23:26,381 --> 01:23:29,717
+Pojawienie się pana Vogla
+byłoby niestosowne.
+
+866
+01:23:29,801 --> 01:23:31,886
+Jest Niemcem.
+
+867
+01:23:32,011 --> 01:23:37,684
+– Jest pan tutaj, aby...
+– Ułatwić spotkanie.
+
+868
+01:23:37,809 --> 01:23:43,105
+Niech pani Abel
+postara się uspokoić.
+
+869
+01:23:43,189 --> 01:23:47,318
+Chciałbym porozmawiać
+z panem Donovanem.
+
+870
+01:23:47,902 --> 01:23:49,194
+Dziękuję.
+
+871
+01:23:58,704 --> 01:24:01,791
+Jestem zmieszany.
+
+872
+01:24:01,916 --> 01:24:06,712
+Mogę mówić z każdym,
+ważne, żeby o wymianie.
+
+873
+01:24:06,796 --> 01:24:11,717
+– Jest pan odpowiednią osobą?
+– Tak.
+
+874
+01:24:11,801 --> 01:24:14,011
+Proszę usiąść,
+panie Donovan.
+
+875
+01:24:14,804 --> 01:24:17,515
+Jak pan dotarł
+na wschodnią stronę?
+
+876
+01:24:17,681 --> 01:24:18,891
+Pociągiem.
+
+877
+01:24:19,016 --> 01:24:21,810
+– Przybył pan sam?
+– Tak.
+
+878
+01:24:22,311 --> 01:24:27,484
+– Jest pan upoważniony do rozmów?
+– Muszę coś zaznaczyć.
+
+879
+01:24:27,609 --> 01:24:31,195
+Jestem zwykłym obywatelem,
+prawnikiem z Brooklynu.
+
+880
+01:24:31,279 --> 01:24:34,783
+Udało mi się znaleźć chwilę,
+aby pomóc klientowi,
+
+881
+01:24:34,908 --> 01:24:35,992
+Rudolfowi Ablowi.
+
+882
+01:24:36,283 --> 01:24:40,412
+Jestem upoważniony
+do zorganizowania wymiany Abla
+
+883
+01:24:40,497 --> 01:24:43,207
+za Francisa Gary’ego Powersa.
+
+884
+01:24:43,291 --> 01:24:48,712
+Ułaskawienie Abla zostanie
+podpisane w momencie wymiany.
+
+885
+01:24:49,296 --> 01:24:54,010
+Po to tutaj jestem.
+Obyśmy szybko to załatwili.
+
+886
+01:24:54,719 --> 01:25:00,809
+Abel za Francisa Gary’ego Powersa
+oraz Frederica Pryora.
+
+887
+01:25:03,103 --> 01:25:07,106
+– Nie mamy Pryora.
+– Czyżby?
+
+888
+01:25:08,983 --> 01:25:14,988
+Słyszałem o nim, ale przetrzymuje go
+Niemiecka Republika Demokratyczna,
+
+889
+01:25:15,114 --> 01:25:18,909
+a nie Związek Socjalistycznych
+Republik Radzieckich.
+
+890
+01:25:18,993 --> 01:25:21,287
+Wyjawię panu główny problem.
+
+891
+01:25:21,496 --> 01:25:25,000
+Nazwy waszych państw
+są za długie.
+
+892
+01:25:25,917 --> 01:25:27,210
+Tak, tak.
+
+893
+01:25:28,795 --> 01:25:30,880
+Jeśli wydamy Powersa,
+
+894
+01:25:31,006 --> 01:25:35,301
+to wyłącznie w ramach
+naszej dobrej woli.
+
+895
+01:25:35,510 --> 01:25:38,805
+Zatem wymiana odpada.
+
+896
+01:25:41,515 --> 01:25:45,520
+Być może moglibyście
+wypuścić Abla,
+
+897
+01:25:45,603 --> 01:25:48,105
+by okazać życzliwość
+przyjaciołom w Niemczech,
+
+898
+01:25:48,189 --> 01:25:52,193
+a kilka miesięcy później
+wypuścilibyśmy Powersa.
+
+899
+01:25:52,694 --> 01:25:53,903
+Niezły pomysł.
+
+900
+01:25:54,112 --> 01:25:58,198
+Nie zgadzamy się.
+To ma być wymiana.
+
+901
+01:25:58,283 --> 01:26:01,786
+Jakkolwiek pan to nazwie,
+musi dojść do wymiany.
+
+902
+01:26:01,911 --> 01:26:04,413
+Sprowadzimy tutaj Abla
+w ciągu 48 godzin.
+
+903
+01:26:04,497 --> 01:26:08,292
+W tej samej chwili
+ma zostać wydany Powers.
+
+904
+01:26:10,502 --> 01:26:13,213
+To jest...
+
+905
+01:26:13,297 --> 01:26:17,092
+Może nazwiemy to
+„planem niecierpliwych”?
+
+906
+01:26:17,217 --> 01:26:19,011
+Jak panu się podoba.
+
+907
+01:26:20,805 --> 01:26:24,893
+Mogę przekazać wasz plan
+Moskwie,
+
+908
+01:26:25,810 --> 01:26:28,813
+ale będą zaskoczeni,
+skąd ten pośpiech.
+
+909
+01:26:29,189 --> 01:26:30,689
+Bo jestem przeziębiony.
+
+910
+01:26:30,814 --> 01:26:33,818
+Nie mieszkam w Berlinie
+i chcę wrócić do domu.
+
+911
+01:26:33,902 --> 01:26:35,612
+Pomyślą sobie,
+
+912
+01:26:36,112 --> 01:26:40,699
+że Amerykanie zdobyli
+wszystkie informacje Abla,
+
+913
+01:26:40,783 --> 01:26:47,414
+więc chcą go szybko
+przehandlować za Powersa,
+
+914
+01:26:47,498 --> 01:26:52,212
+który jeszcze nie zdradził
+wszystkich informacji.
+
+915
+01:26:53,296 --> 01:26:56,216
+To nie jest uczciwy układ.
+
+916
+01:26:57,007 --> 01:27:03,097
+Gdyby Powers się wygadał,
+Moskwa dokonałaby wymiany?
+
+917
+01:27:03,180 --> 01:27:05,100
+Niby dlaczego?
+
+918
+01:27:05,600 --> 01:27:08,895
+Jeśli Abel umrze
+w amerykańskim więzieniu,
+
+919
+01:27:09,020 --> 01:27:11,814
+następny rosyjski szpieg,
+który zostanie złapany,
+
+920
+01:27:11,898 --> 01:27:13,983
+zastanowi się,
+czy powinien milczeć.
+
+921
+01:27:14,109 --> 01:27:18,779
+I nie wiadomo, może Abel
+zechce wyjść na wolność,
+
+922
+01:27:18,904 --> 01:27:23,493
+więc ujawni tajemnice,
+by zyskać przychylność USA.
+
+923
+01:27:25,787 --> 01:27:27,913
+Skąd możemy to wiedzieć?
+
+924
+01:27:27,997 --> 01:27:31,583
+Jesteśmy pionkami
+wykonującymi swoją pracę.
+
+925
+01:27:31,710 --> 01:27:35,380
+Tak jak porucznik Powers.
+To tylko pilot.
+
+926
+01:27:37,006 --> 01:27:42,302
+Został zestrzelony,
+robiąc zdjęcia z samolotu.
+
+927
+01:27:43,012 --> 01:27:47,182
+Dla obywateli mojego kraju
+to działanie wojenne.
+
+928
+01:27:49,019 --> 01:27:51,395
+Musimy zejść z tej karuzeli.
+
+929
+01:27:51,895 --> 01:27:55,899
+Następny błąd naszych krajów
+może być ostatnim.
+
+930
+01:27:56,609 --> 01:28:02,114
+Rozmawiajmy w taki sposób,
+w jaki rządy nie potrafią.
+
+931
+01:28:05,993 --> 01:28:10,789
+Zapytam Moskwę.
+Kto wie, co odpowie.
+
+932
+01:28:12,292 --> 01:28:18,506
+Wiele osób
+jest przeciwnych tej wymianie.
+
+933
+01:28:21,009 --> 01:28:24,304
+Wróci pan jutro,
+aby omówić odpowiedź?
+
+934
+01:28:24,386 --> 01:28:27,181
+– Powers za Abla.
+– I Frederica Pryora.
+
+935
+01:28:27,306 --> 01:28:33,395
+Pryor znajduje się
+w rękach rządowej ochrony NRD.
+
+936
+01:28:33,479 --> 01:28:35,981
+Jakoś sobie pan poradzi.
+
+937
+01:28:36,106 --> 01:28:40,319
+Jestem tylko sekretarzem
+w ambasadzie obcego kraju.
+
+938
+01:28:40,904 --> 01:28:42,780
+Musi się pan spotkać
+z panem Voglem.
+
+939
+01:28:42,905 --> 01:28:44,908
+Podam jego adres.
+
+940
+01:28:44,990 --> 01:28:49,412
+– Pan Vogel naprawdę istnieje?
+– Dlaczego miałoby być inaczej?
+
+941
+01:28:49,912 --> 01:28:51,413
+To bardzo blisko.
+
+942
+01:28:52,207 --> 01:28:56,920
+I proszę założyć płaszcz
+przy takiej pogodzie.
+
+943
+01:28:58,296 --> 01:29:02,716
+– Ukradziono mi go.
+– Czego się pan spodziewał?
+
+944
+01:29:02,801 --> 01:29:07,389
+Czyż nie został kupiony
+w Saks Fifth Avenue?
+
+945
+01:29:15,689 --> 01:29:16,980
+Panie Donovan.
+
+946
+01:29:17,606 --> 01:29:20,984
+– Panie Vogel.
+– Zapraszam.
+
+947
+01:29:25,114 --> 01:29:31,287
+Przepraszam za ambasadę.
+Sowieci nie chcieli mnie przyjąć.
+
+948
+01:29:32,706 --> 01:29:37,418
+– Coś irytującego.
+– Nadal próbuję ogarnąć wasze...
+
+949
+01:29:38,002 --> 01:29:43,507
+– Stanowiska?
+– Tak. I zamiary.
+
+950
+01:29:43,882 --> 01:29:48,387
+Nowy świat.
+Można się pogubić.
+
+951
+01:29:57,980 --> 01:30:00,399
+Przedstawię panu ofertę.
+
+952
+01:30:02,694 --> 01:30:04,279
+Jestem przyjacielem...
+
+953
+01:30:04,404 --> 01:30:06,405
+Przyjacielem.
+Nie, jest starszy.
+
+954
+01:30:06,698 --> 01:30:08,198
+Protegowanym?
+
+955
+01:30:08,283 --> 01:30:11,493
+Protegowanym
+prokuratora generalnego NRD.
+
+956
+01:30:11,618 --> 01:30:13,078
+Proszę usiąść.
+
+957
+01:30:15,707 --> 01:30:18,792
+Ten pechowiec,
+Frederic Pryor,
+
+958
+01:30:19,711 --> 01:30:22,881
+był w nieodpowiednim miejscu,
+w nieodpowiednim czasie.
+
+959
+01:30:23,381 --> 01:30:26,384
+Jednak każdy wypadek,
+w zależności od perspektywy,
+
+960
+01:30:26,509 --> 01:30:28,511
+może stać się szansą.
+
+961
+01:30:29,095 --> 01:30:33,099
+Pański rząd nie chce uznać
+Niemieckiej Republiki Demokratycznej.
+
+962
+01:30:33,600 --> 01:30:38,479
+Woli wymyślać historie,
+że NRD nie istnieje.
+
+963
+01:30:39,814 --> 01:30:41,190
+Przepraszam.
+
+964
+01:30:41,690 --> 01:30:49,783
+Aby USA uznało państwo,
+w którym się pan znalazł, NRD,
+
+965
+01:30:50,199 --> 01:30:53,118
+prokurator generalny
+będzie z panem negocjował
+
+966
+01:30:53,203 --> 01:30:56,706
+uwolnienie pana Pryora,
+jako że reprezentuje pan rząd.
+
+967
+01:30:56,789 --> 01:31:00,417
+Nie reprezentuję rządu.
+
+968
+01:31:03,087 --> 01:31:04,506
+W porządku.
+
+969
+01:31:07,216 --> 01:31:12,180
+– To dziecinada.
+– Nie jestem funkcjonariuszem.
+
+970
+01:31:12,889 --> 01:31:16,518
+Pan nie reprezentuje USA,
+ja nie reprezentuję NRD.
+
+971
+01:31:16,600 --> 01:31:18,811
+Moją klientką jest Lydia Abel,
+żona Rudolfa.
+
+972
+01:31:19,020 --> 01:31:23,315
+Lydia to córka.
+Żoną jest Helen.
+
+973
+01:31:30,698 --> 01:31:35,494
+Mogę zaproponować wymianę
+Frederica Pryora za Rudolfa Abla.
+
+974
+01:31:36,912 --> 01:31:38,081
+Uściślijmy więc.
+
+975
+01:31:38,206 --> 01:31:43,712
+Dostarczymy Rudolfa Abla,
+wy zaś wydacie Pryora.
+
+976
+01:31:44,212 --> 01:31:47,590
+– Ale jednocześnie.
+– Oczywiście.
+
+977
+01:31:47,716 --> 01:31:52,302
+Wymienimy Rosjanina,
+który jest u kresu życia,
+
+978
+01:31:54,096 --> 01:31:58,100
+na amerykańskiego studenta,
+którego życie się rozpoczyna.
+
+979
+01:32:03,314 --> 01:32:06,109
+Szyszkin nie jest
+sekretarzem ambasady.
+
+980
+01:32:06,192 --> 01:32:10,195
+To szef KGB
+w zachodniej Europie.
+
+981
+01:32:10,279 --> 01:32:14,492
+Kimkolwiek jest,
+przedstawi Moskwie naszą propozycję.
+
+982
+01:32:15,493 --> 01:32:17,119
+Zobaczymy, co postanowią.
+
+983
+01:32:17,203 --> 01:32:19,497
+Mogę pożyczyć płaszcz?
+Zgubiłem swój.
+
+984
+01:32:19,913 --> 01:32:23,710
+– Jakim cudem?
+– Szpiegowskie interesy.
+
+985
+01:32:25,295 --> 01:32:28,006
+– Dam ci płaszcz.
+– Dobrze.
+
+986
+01:32:28,715 --> 01:32:33,595
+– Kim jest Vogel?
+– Nie wiemy.
+
+987
+01:32:33,802 --> 01:32:37,681
+Może tym, za kogo się podaje.
+Przyjacielem prokuratora.
+
+988
+01:32:37,806 --> 01:32:41,185
+Facetem wyznaczonym przez NRD
+do negocjacji.
+
+989
+01:32:41,310 --> 01:32:45,606
+Najwidoczniej NRD walczy
+o miejsce przy naszym stole.
+
+990
+01:32:45,814 --> 01:32:50,110
+Zdobędą Abla dla Rosjan,
+zyskując ich szacunek
+
+991
+01:32:50,194 --> 01:32:52,488
+i przychylne
+nagłówki w gazetach.
+
+992
+01:32:52,905 --> 01:32:55,492
+NRD zacznie liczyć się
+na mapie świata.
+
+993
+01:32:55,617 --> 01:32:57,493
+Ale to ich sprawa.
+
+994
+01:32:57,618 --> 01:33:01,914
+Trzymaj się Rosjan.
+Powers za Abla.
+
+995
+01:33:01,997 --> 01:33:05,502
+Czyli wymiana
+może dojść do skutku?
+
+996
+01:33:05,585 --> 01:33:07,420
+Na podstawie tego,
+co mówisz – tak.
+
+997
+01:33:07,503 --> 01:33:10,506
+Wsadzimy Abla do samolotu,
+zjawi się w piątek.
+
+998
+01:33:10,590 --> 01:33:14,802
+Jeśli Szyszkin dostanie zgodę,
+dogadamy szczegóły wymiany
+
+999
+01:33:14,886 --> 01:33:16,805
+naszego faceta za ich.
+
+1000
+01:33:17,389 --> 01:33:20,182
+Naszych „facetów”.
+Powersa i Pryora.
+
+1001
+01:33:20,307 --> 01:33:24,104
+Nie próbuj pokazywać,
+że masz miękkie serce.
+
+1002
+01:33:24,186 --> 01:33:25,689
+Liczy się tylko Powers.
+
+1003
+01:33:26,105 --> 01:33:29,609
+Zapomnij o tym wykształciuchu,
+który wpadł na pomysł,
+
+1004
+01:33:29,693 --> 01:33:34,613
+by studiować sowiecką ekonomię
+w Berlinie podczas zimnej wojny.
+
+1005
+01:33:35,782 --> 01:33:40,494
+– Zależy nam na Powersie.
+– Nawet go nie lubisz.
+
+1006
+01:33:41,496 --> 01:33:43,581
+Wszyscy go nienawidzą.
+
+1007
+01:33:43,707 --> 01:33:47,711
+Ponieważ się nie zabił,
+stał się trofeum komuchów.
+
+1008
+01:33:48,420 --> 01:33:51,213
+Jest najbardziej znienawidzonym
+człowiekiem w Ameryce.
+
+1009
+01:33:51,296 --> 01:33:53,591
+Zaraz po Rudolfie Ablu.
+
+1010
+01:33:53,716 --> 01:33:55,510
+I po mnie.
+
+1011
+01:34:04,310 --> 01:34:05,603
+Wstawaj!
+
+1012
+01:34:14,612 --> 01:34:17,907
+Chcę spać.
+
+1013
+01:34:20,909 --> 01:34:24,497
+Pójdziesz spać,
+dopiero jak porozmawiamy.
+
+1014
+01:34:24,581 --> 01:34:26,498
+Skup się.
+
+1015
+01:34:26,582 --> 01:34:31,003
+Rząd ma cię gdzieś.
+Was wszystkich.
+
+1016
+01:34:31,087 --> 01:34:34,090
+U 12 pilotów U-2 wykryto
+uszkodzenie mózgu.
+
+1017
+01:34:34,215 --> 01:34:37,385
+Są warzywami
+z powodu niedotlenienia.
+
+1018
+01:34:37,510 --> 01:34:41,514
+A jednak każą ci latać.
+Tobie i twoim przyjaciołom.
+
+1019
+01:34:41,805 --> 01:34:45,894
+Dali ci to.
+Szpilkę.
+
+1020
+01:34:46,019 --> 01:34:48,688
+Z cyjankiem potasu.
+
+1021
+01:34:48,813 --> 01:34:51,690
+Czy to dowodzi,
+że się o ciebie troszczą?
+
+1022
+01:35:20,804 --> 01:35:23,597
+Z czego jest zbudowana
+jednostka niszcząca?
+
+1023
+01:35:23,681 --> 01:35:26,184
+Czym jest napędzana?
+
+1024
+01:35:26,309 --> 01:35:31,480
+Jaki wbudowano materiał wybuchowy
+i do czego jest zdolna?
+
+1025
+01:35:31,814 --> 01:35:32,981
+Nie wiem.
+
+1026
+01:35:33,399 --> 01:35:36,403
+Pilotom nie pokazuje się
+żadnego wyposażenia.
+
+1027
+01:35:36,485 --> 01:35:40,614
+Jak duży obszar radar może
+wyznaczyć podczas przelotu?
+
+1028
+01:35:40,698 --> 01:35:41,615
+Nie wiem.
+
+1029
+01:35:41,699 --> 01:35:49,498
+Czy 9 kwietnia leciałeś
+nad bazą MiG-ów w Baranowicach?
+
+1030
+01:35:49,582 --> 01:35:52,793
+Nie.
+To był mój pierwszy lot.
+
+1031
+01:35:52,918 --> 01:35:56,797
+Jaki jest stosunek
+mocy silnika do ślizgu?
+
+1032
+01:35:56,881 --> 01:35:58,882
+Jak samolot wzlatuje
+tak wysoko?
+
+1033
+01:35:59,509 --> 01:36:04,514
+Wiemy, że wznosi się
+na wysokość 21 kilometrów.
+
+1034
+01:36:04,596 --> 01:36:06,515
+Gary, wiemy to.
+
+1035
+01:36:06,599 --> 01:36:11,395
+Dokąd zmierzały te samoloty?
+Dokąd, Gary?
+
+1036
+01:36:11,479 --> 01:36:13,814
+Musisz odpowiedzieć.
+
+1037
+01:36:16,400 --> 01:36:17,819
+Natychmiast.
+
+1038
+01:36:18,403 --> 01:36:20,904
+Później możesz się zdrzemnąć.
+
+1039
+01:36:25,284 --> 01:36:27,119
+<i>Proszę wstać.</i>
+
+1040
+01:36:28,496 --> 01:36:29,913
+Proszę się obudzić.
+
+1041
+01:36:32,082 --> 01:36:34,502
+– Wstaje pan?
+– Tak.
+
+1042
+01:36:34,586 --> 01:36:35,878
+– Musimy iść.
+– Pewnie.
+
+1043
+01:36:36,003 --> 01:36:39,716
+– Pójdzie pan ze mną?
+– Tak.
+
+1044
+01:36:40,716 --> 01:36:41,717
+Ma pan okulary?
+
+1045
+01:36:41,801 --> 01:36:43,386
+– Która godzina?
+– Jest późno.
+
+1046
+01:36:43,511 --> 01:36:47,097
+Musimy porozmawiać,
+a potem wsiądziemy do samolotu.
+
+1047
+01:36:50,810 --> 01:36:52,604
+Właśnie tak.
+
+1048
+01:36:52,686 --> 01:36:55,481
+Wychodzimy stąd.
+Dziękuję.
+
+1049
+01:36:57,192 --> 01:36:58,609
+W drugą stronę.
+
+1050
+01:36:58,902 --> 01:36:59,903
+Tamtędy.
+
+1051
+01:36:59,985 --> 01:37:03,698
+– Mówiłeś coś o samolocie?
+– Idziemy tędy.
+
+1052
+01:37:03,782 --> 01:37:08,494
+<i>Otrzymałem pozytywną odpowiedź</i>
+<i>na państwa propozycję,</i>
+
+1053
+01:37:08,619 --> 01:37:11,706
+byśmy pomogli
+przyjaciołom z NRD
+
+1054
+01:37:11,997 --> 01:37:15,918
+poprzez wymianę
+pana Powersa za pana Abla.
+
+1055
+01:37:17,420 --> 01:37:18,796
+To świetnie.
+
+1056
+01:37:18,880 --> 01:37:22,716
+Miejscem wymiany może być
+most Glienicke?
+
+1057
+01:37:23,092 --> 01:37:27,012
+– Dlaczego nie Checkpoint Charlie?
+– Nie szukamy rozgłosu.
+
+1058
+01:37:27,096 --> 01:37:30,891
+Most Glienickie to ciche miejsce,
+zwłaszcza wcześnie rano.
+
+1059
+01:37:31,016 --> 01:37:33,019
+Powiadomię władze.
+
+1060
+01:37:33,103 --> 01:37:36,898
+Sprowadzimy Abla w piątek.
+Sobotni poranek pasuje?
+
+1061
+01:37:36,980 --> 01:37:40,609
+– Wiecznie niecierpliwy.
+– Chcę wrócić do domu.
+
+1062
+01:37:40,694 --> 01:37:44,197
+– Sobota rano?
+– 5.30?
+
+1063
+01:37:44,279 --> 01:37:45,782
+Dobrze.
+
+1064
+01:37:45,907 --> 01:37:47,492
+Zatem ustalone.
+
+1065
+01:37:47,617 --> 01:37:52,079
+Gdyby coś się zmieniło,
+podaję numer telefonu.
+
+1066
+01:37:52,204 --> 01:37:53,288
+W porządku.
+
+1067
+01:37:53,414 --> 01:37:55,792
+Ktoś odbierze,
+niezależnie od pory.
+
+1068
+01:37:56,792 --> 01:38:01,881
+Raczej nie skorzystam.
+Wzniesiemy toast za umowę?
+
+1069
+01:38:02,006 --> 01:38:06,094
+– Dlaczego nie?
+– Ormiańska brandy.
+
+1070
+01:38:06,219 --> 01:38:08,887
+– Dobra na przeziębienie.
+– Dziękuję.
+
+1071
+01:38:09,180 --> 01:38:10,806
+Miałby pan coś przeciwko...
+
+1072
+01:38:10,890 --> 01:38:15,020
+To nie pański interes,
+ale chciałbym zadać kilka pytań.
+
+1073
+01:38:15,103 --> 01:38:16,479
+Nie musi pan odpowiadać.
+
+1074
+01:38:16,604 --> 01:38:20,984
+– Odpowiem, jeśli znam odpowiedzi.
+– Lubię waszego faceta.
+
+1075
+01:38:21,484 --> 01:38:24,904
+Co się z nim stanie,
+gdy wróci do domu?
+
+1076
+01:38:24,988 --> 01:38:29,617
+Będziemy musieli ustalić,
+czy nasz facet nie jest wasz.
+
+1077
+01:38:29,701 --> 01:38:33,997
+Zachował się honorowo.
+To ciągle wasz człowiek.
+
+1078
+01:38:34,204 --> 01:38:39,793
+Powiedziałby pan tak
+bez względu na prawdę.
+
+1079
+01:38:39,918 --> 01:38:43,881
+Więc do tego doszło?
+Przepraszam, że drążę temat,
+
+1080
+01:38:44,716 --> 01:38:49,095
+ale będzie zagrożony,
+jeśli dojdzie do wymiany?
+
+1081
+01:38:49,679 --> 01:38:50,889
+Boże.
+
+1082
+01:38:51,014 --> 01:38:53,807
+W obecnej sytuacji
+każdy jest zagrożony.
+
+1083
+01:38:54,100 --> 01:38:57,020
+– Zdrowie.
+– Na zdorovie.
+
+1084
+01:39:01,106 --> 01:39:03,484
+Wiadomość do pana Donovana.
+
+1085
+01:39:08,989 --> 01:39:11,909
+Nie dojdzie do wymiany
+na moście Glienickie.
+
+1086
+01:39:12,786 --> 01:39:16,997
+– Słucham?
+– Nie dojdzie do wymiany.
+
+1087
+01:39:17,414 --> 01:39:22,796
+– Nie za Frederica Pryora.
+– Przecież się dogadaliśmy.
+
+1088
+01:39:22,878 --> 01:39:25,590
+Mieliśmy oddać Abla
+w zamian za Pryora.
+
+1089
+01:39:26,382 --> 01:39:29,594
+Teraz się dowiaduję,
+że jesteś pan sprzedawcą,
+
+1090
+01:39:29,719 --> 01:39:32,514
+który sprzedaje ten sam
+towar dwóm klientom.
+
+1091
+01:39:32,596 --> 01:39:38,019
+Nam pan wydaje Abla za Pryora,
+a Sowietom Abla za Powersa.
+
+1092
+01:39:38,103 --> 01:39:44,317
+W czym problem, skoro umowa
+satysfakcjonuje kilka stron?
+
+1093
+01:39:44,400 --> 01:39:47,112
+Ale nie naszej.
+
+1094
+01:39:50,989 --> 01:39:52,992
+Panie Vogel, proszę...
+
+1095
+01:39:53,118 --> 01:39:55,994
+Nie ma pan pojęcia,
+z kim ma do czynienia.
+
+1096
+01:39:57,497 --> 01:40:00,417
+Tego chcą władze NRD.
+
+1097
+01:40:01,501 --> 01:40:06,006
+Otwarcie współpracować
+z innym niepodległym państwem,
+
+1098
+01:40:06,088 --> 01:40:07,716
+Stanami Zjednoczonymi.
+
+1099
+01:40:07,798 --> 01:40:08,882
+Jak równi sobie.
+
+1100
+01:40:09,384 --> 01:40:12,886
+Ale macie nas za marionetki
+Związku Radzieckiego.
+
+1101
+01:40:13,012 --> 01:40:16,599
+Nazywajmy ich Rosjanami.
+Oszczędzimy czas.
+
+1102
+01:40:16,890 --> 01:40:20,395
+Jestem umówiony.
+I to pan marnuje czas.
+
+1103
+01:40:20,520 --> 01:40:22,604
+Proszę powiedzieć,
+jeśli się mylę.
+
+1104
+01:40:22,689 --> 01:40:27,109
+Ma pan niegroźnego studenta,
+który nie jest szpiegiem.
+
+1105
+01:40:27,193 --> 01:40:30,904
+Nie macie z niego pożytku,
+ale wydając go,
+
+1106
+01:40:30,988 --> 01:40:34,908
+skorzystacie na wymianie
+między Rosjanami i Amerykanami.
+
+1107
+01:40:35,284 --> 01:40:39,079
+To transakcja między nami
+i waszymi państwami.
+
+1108
+01:40:39,204 --> 01:40:42,917
+To nie dwie osobne sprawy,
+tylko jedna.
+
+1109
+01:40:43,001 --> 01:40:47,588
+Nie dostrzegam
+afrontu względem NRD.
+
+1110
+01:40:47,713 --> 01:40:50,300
+Dogadał się pan z Sowietami
+za moimi plecami.
+
+1111
+01:40:50,382 --> 01:40:52,385
+To negocjacje
+czy konspiracja?
+
+1112
+01:40:52,510 --> 01:40:55,095
+Gdyby to była konspiracja,
+ucierpielibyście na tym,
+
+1113
+01:40:55,180 --> 01:41:00,518
+– a tu wszyscy skorzystają.
+– Nie, według pana.
+
+1114
+01:41:00,601 --> 01:41:03,104
+– Gdzie to spotkanie?
+– Na zachód stąd.
+
+1115
+01:41:03,313 --> 01:41:05,689
+– Przy ulicy Ku’damm.
+– Dobrze.
+
+1116
+01:41:15,992 --> 01:41:21,081
+Proszę spojrzeć, jak wschodnia
+strona różni się od zachodniej.
+
+1117
+01:41:22,498 --> 01:41:27,002
+Rosyjscy przyjaciele uznali,
+że lepiej nie odbudowywać stolicy.
+
+1118
+01:41:28,712 --> 01:41:32,216
+Żyjemy w ruinie stworzonej
+przez przyjaciół z Rosji.
+
+1119
+01:41:32,300 --> 01:41:36,011
+Proszę zawrzeć z nimi układ.
+Nie weźmiemy w tym udziału.
+
+1120
+01:41:37,514 --> 01:41:40,391
+Nie będzie transakcji bez Pryora.
+Nie zostawimy go.
+
+1121
+01:41:40,516 --> 01:41:43,520
+To pańskie zdanie
+czy pańskiego rządu?
+
+1122
+01:41:43,603 --> 01:41:46,105
+To ja tu jestem
+i ja z panem rozmawiam.
+
+1123
+01:41:46,189 --> 01:41:49,984
+Nie reprezentuje pan rządu.
+Nie wie pan, kim jest, my też.
+
+1124
+01:41:50,109 --> 01:41:53,279
+Proszę uważać.
+To nie Brooklyn.
+
+1125
+01:42:00,787 --> 01:42:02,287
+Proszę posłuchać.
+
+1126
+01:42:02,413 --> 01:42:05,792
+W każdej ważnej sprawie
+przemawiam w imieniu rządu.
+
+1127
+01:42:06,083 --> 01:42:09,503
+– Wie pan, kim jestem.
+– Czyżby?
+
+1128
+01:42:31,900 --> 01:42:33,610
+Ma pan dokumenty?
+
+1129
+01:42:34,112 --> 01:42:36,989
+Oczywiście, że nie.
+Zresztą to bez znaczenia.
+
+1130
+01:42:37,198 --> 01:42:41,786
+Taki amerykański prawnik
+wywinie się z każdej sytuacji.
+
+1131
+01:42:48,417 --> 01:42:51,587
+– Szybko pan pędził.
+– Ma pan rację.
+
+1132
+01:42:53,006 --> 01:42:54,591
+Dokumenty, szybko.
+
+1133
+01:42:54,716 --> 01:42:57,510
+Nie mówi po niemiecku.
+Kolega jest z Ameryki.
+
+1134
+01:42:57,594 --> 01:42:59,511
+Z Ameryki?
+
+1135
+01:42:59,679 --> 01:43:02,681
+Proszę wysiąść.
+
+1136
+01:43:06,101 --> 01:43:08,395
+Pańskie dokumenty.
+
+1137
+01:43:15,487 --> 01:43:19,282
+– Panie Vogel, miłej podróży.
+– Dziękuję za zrozumienie.
+
+1138
+01:43:24,578 --> 01:43:27,498
+– Pójdzie pan z nim.
+– Dlaczego?
+
+1139
+01:43:27,582 --> 01:43:30,793
+– Problem z paszportem.
+– Jaki?
+
+1140
+01:43:30,918 --> 01:43:32,087
+Pójdzie pan z nim.
+
+1141
+01:43:34,797 --> 01:43:38,385
+Los Frederica Pryora
+jest w naszych rękach.
+
+1142
+01:44:23,387 --> 01:44:24,389
+Wstajemy.
+
+1143
+01:44:24,889 --> 01:44:26,306
+Proszę za mną.
+
+1144
+01:45:23,113 --> 01:45:24,282
+Boże.
+
+1145
+01:45:58,190 --> 01:46:02,319
+– Słucham.
+– Zacznę od kawy.
+
+1146
+01:46:02,987 --> 01:46:05,989
+Później wezmę zestaw Hiltona
+i amerykańskie śniadanie.
+
+1147
+01:46:06,115 --> 01:46:07,408
+I kawę.
+
+1148
+01:46:07,492 --> 01:46:09,618
+– Podwójne śniadanie?
+– Owszem.
+
+1149
+01:46:09,703 --> 01:46:10,994
+Wpierw jedno?
+
+1150
+01:46:11,078 --> 01:46:13,497
+Oba jednocześnie.
+Kiedy tylko będą gotowe.
+
+1151
+01:46:13,581 --> 01:46:14,498
+I kawa.
+
+1152
+01:46:32,516 --> 01:46:34,519
+Nie powinieneś tu być.
+
+1153
+01:46:34,601 --> 01:46:38,189
+Czasem w Niemczech przychodzi
+ochota na amerykańskie śniadanie.
+
+1154
+01:46:41,192 --> 01:46:43,610
+Co się stało?
+Gdzie byłeś zeszłej nocy?
+
+1155
+01:46:43,694 --> 01:46:46,698
+Vogel załatwił mi
+wycieczkę po NRD.
+
+1156
+01:46:46,780 --> 01:46:47,489
+Jezu.
+
+1157
+01:46:47,614 --> 01:46:51,618
+Nie było wiele gorzej
+niż u was w RFN.
+
+1158
+01:46:53,078 --> 01:46:56,498
+Rosjanie chcą dokonać
+wymiany,
+
+1159
+01:46:56,582 --> 01:46:59,711
+ale Vogel twierdzi,
+że NRD zmieniło zdanie.
+
+1160
+01:46:59,793 --> 01:47:03,088
+– Nie dostaniemy Pryora.
+– To świetnie.
+
+1161
+01:47:03,297 --> 01:47:08,219
+Sowieci wydadzą Powersa.
+Odzyskamy go, brawo.
+
+1162
+01:47:09,095 --> 01:47:12,181
+Ale NRD się wycofuje.
+Nie dostaniemy Pryora.
+
+1163
+01:47:12,306 --> 01:47:15,018
+On też się liczy.
+Tak jak każdy człowiek.
+
+1164
+01:47:15,100 --> 01:47:17,895
+I dlatego próbowałeś.
+
+1165
+01:47:17,979 --> 01:47:20,105
+Abel jest w drodze.
+Rano wymiana.
+
+1166
+01:47:20,189 --> 01:47:22,900
+– Chwileczkę.
+– Sprawa jest prosta.
+
+1167
+01:47:22,984 --> 01:47:25,487
+Nie dostaniemy chłopaka.
+
+1168
+01:47:25,612 --> 01:47:27,697
+Tak, rozumiem.
+Jesteśmy gotowi.
+
+1169
+01:47:27,780 --> 01:47:30,699
+Możemy zignorować
+poranną wiadomość.
+
+1170
+01:47:30,783 --> 01:47:33,494
+– Jaką wiadomość?
+– Ze wschodnich Niemiec.
+
+1171
+01:47:33,619 --> 01:47:35,079
+Zadzwonili pod numer,
+który ci dałem.
+
+1172
+01:47:35,204 --> 01:47:37,289
+Chcieli z tobą mówić.
+
+1173
+01:47:37,582 --> 01:47:40,210
+– Vogel dzwonił?
+– Nie.
+
+1174
+01:47:40,292 --> 01:47:43,505
+Biuro Haralda Otta,
+prokuratora generalnego NRD.
+
+1175
+01:47:43,712 --> 01:47:47,300
+– Czego chciał?
+– Porozmawiać.
+
+1176
+01:47:47,384 --> 01:47:50,095
+Wszystko w porządku,
+nie musisz tam wracać.
+
+1177
+01:47:50,220 --> 01:47:52,389
+Dla niektórych jesteś
+persona non grata.
+
+1178
+01:47:52,514 --> 01:47:56,518
+– Lepiej nie kusić losu.
+– O której chce się spotkać?
+
+1179
+01:47:57,310 --> 01:48:02,815
+Nie musisz iść,
+nawet nie powinieneś.
+
+1180
+01:48:02,899 --> 01:48:04,192
+Wręcz ci nie wolno.
+
+1181
+01:48:04,484 --> 01:48:07,404
+Mamy umowę z Sowietami.
+Nie chcemy tego spieprzyć.
+
+1182
+01:48:07,487 --> 01:48:09,613
+– Niczego nie spieprzę.
+– Nie pójdziesz tam.
+
+1183
+01:48:09,698 --> 01:48:12,617
+– Nie bądź upierdliwy.
+– Moje zamówienie.
+
+1184
+01:48:12,701 --> 01:48:14,993
+Smacznego śniadania.
+
+1185
+01:48:23,795 --> 01:48:28,591
+Chcąc pana uhonorować,
+negocjujemy na najwyższym szczeblu.
+
+1186
+01:48:28,716 --> 01:48:30,510
+Dziękuję.
+
+1187
+01:48:32,220 --> 01:48:35,015
+Dlaczego sprawy
+się tak skomplikowały?
+
+1188
+01:48:35,097 --> 01:48:38,393
+Czasami tak bywa.
+
+1189
+01:48:42,396 --> 01:48:50,988
+Jesteśmy gotowi wymienić
+„studenta” Pryora za Rudolfa Abla.
+
+1190
+01:48:51,113 --> 01:48:54,408
+Pan Vogel mówił, że Pryor
+jest dla pana bardzo ważny.
+
+1191
+01:48:54,492 --> 01:48:58,579
+– Tak, ale...
+– Przygotujemy memorandum.
+
+1192
+01:48:59,413 --> 01:49:00,914
+Memorandum.
+
+1193
+01:49:01,498 --> 01:49:05,295
+Zgadzamy się
+na obustronną wymianę?
+
+1194
+01:49:06,296 --> 01:49:10,300
+Tak, choć nie jestem pewny,
+co to znaczy.
+
+1195
+01:49:10,591 --> 01:49:15,095
+Władze mojego kraju
+chcą również Powersa.
+
+1196
+01:49:15,387 --> 01:49:16,890
+Nie!
+
+1197
+01:49:18,891 --> 01:49:20,393
+Przepraszam.
+
+1198
+01:49:21,519 --> 01:49:25,606
+Tutaj sprawa się komplikuje.
+
+1199
+01:49:25,689 --> 01:49:29,819
+Po co wam Powers?
+Chcecie go ukarać?
+
+1200
+01:49:29,903 --> 01:49:31,279
+Co się stało,
+to się nie odstanie.
+
+1201
+01:49:31,404 --> 01:49:34,783
+Wyjawił, co wiedział.
+Na pewno Abel zrobił to samo.
+
+1202
+01:49:35,199 --> 01:49:40,412
+Zamiast niego oferujemy kogoś,
+kto według pana jest niewinny.
+
+1203
+01:49:40,497 --> 01:49:43,500
+I ma pan rację.
+To jego powinniście odzyskać.
+
+1204
+01:49:43,792 --> 01:49:46,920
+Przyszłość.
+Niech pan o niej pomyśli.
+
+1205
+01:49:49,881 --> 01:49:51,006
+Mówi Ott.
+
+1206
+01:49:54,010 --> 01:49:54,886
+Ott.
+
+1207
+01:49:55,595 --> 01:49:57,389
+Dlaczego? Też mam.
+
+1208
+01:49:57,514 --> 01:49:59,807
+To nie znaczy,
+że dziennikarze...
+
+1209
+01:49:59,890 --> 01:50:01,184
+Gdzie jest?
+
+1210
+01:50:01,393 --> 01:50:04,604
+Proszę mu podziękować,
+długo to nie potrwa.
+
+1211
+01:50:04,688 --> 01:50:06,898
+Przepraszam.
+Da mi pan chwilę?
+
+1212
+01:50:26,417 --> 01:50:31,213
+Prokurator musiał wyjechać
+w celach służbowych.
+
+1213
+01:50:31,296 --> 01:50:34,884
+– Wyjechał?
+– Bardzo przepraszam.
+
+1214
+01:50:35,010 --> 01:50:38,012
+– Czekam od godziny.
+– Przykro mi.
+
+1215
+01:50:40,681 --> 01:50:42,516
+Młody człowieku.
+
+1216
+01:50:44,101 --> 01:50:45,520
+Podejdź tu.
+
+1217
+01:50:46,813 --> 01:50:48,814
+Nie bój się.
+Podejdź.
+
+1218
+01:50:53,987 --> 01:50:56,405
+Usiądź sobie.
+
+1219
+01:50:58,115 --> 01:51:00,284
+Śmiało, siadaj.
+
+1220
+01:51:04,581 --> 01:51:06,707
+Lubisz swoją pracę?
+
+1221
+01:51:07,082 --> 01:51:11,003
+– To bardzo dobre zajęcie.
+– Zapewne, musi być ciekawe.
+
+1222
+01:51:11,087 --> 01:51:13,881
+– Zgadza się.
+– Odpowiedzialne zadanie.
+
+1223
+01:51:14,006 --> 01:51:16,801
+Twój angielski
+jest całkiem dobry.
+
+1224
+01:51:17,010 --> 01:51:20,805
+Wolę się nie przechwalać,
+ale jest bardzo dobry.
+
+1225
+01:51:20,889 --> 01:51:22,015
+Dobrze.
+
+1226
+01:51:22,097 --> 01:51:27,186
+Straciłem partnera do negocjacji
+i muszę z kimś porozmawiać,
+
+1227
+01:51:27,311 --> 01:51:29,814
+a sprawiasz wrażenie
+odpowiedzialnej osoby.
+
+1228
+01:51:30,481 --> 01:51:32,609
+Możemy porozmawiać?
+
+1229
+01:51:35,194 --> 01:51:36,488
+W porządku.
+
+1230
+01:51:37,113 --> 01:51:38,782
+Wszystko w porządku.
+
+1231
+01:51:40,283 --> 01:51:44,287
+Chcę, byś przekazał szefowi
+wiadomość.
+
+1232
+01:51:44,703 --> 01:51:47,082
+Musisz ją dokładnie
+zapamiętać.
+
+1233
+01:51:47,791 --> 01:51:51,211
+– Rozumiesz?
+– Tak.
+
+1234
+01:51:51,293 --> 01:51:53,880
+Może lepiej zaczekać,
+aż on...
+
+1235
+01:51:54,005 --> 01:51:59,094
+Nie, przeziębiłem się
+i chcę wrócić do domu.
+
+1236
+01:52:01,179 --> 01:52:04,515
+– Przekażesz mu wiadomość?
+– Oczywiście.
+
+1237
+01:52:05,809 --> 01:52:07,519
+To słuchaj.
+
+1238
+01:52:09,104 --> 01:52:12,981
+Wypuścimy Abla,
+ale w zamian za Powersa i Pryora.
+
+1239
+01:52:13,483 --> 01:52:15,484
+– Zrozumiałeś?
+– Tak.
+
+1240
+01:52:15,609 --> 01:52:17,404
+Wymiana odbędzie się
+jutro rano.
+
+1241
+01:52:17,487 --> 01:52:20,198
+Nie dojdzie do niej,
+jeśli nie dostaniemy dwóch osób.
+
+1242
+01:52:20,280 --> 01:52:23,283
+– Dwóch.
+– Rozumiem.
+
+1243
+01:52:23,618 --> 01:52:25,412
+Jeśli nie dojdzie
+do wymiany,
+
+1244
+01:52:26,203 --> 01:52:28,789
+twój szef będzie musiał
+powiedzieć Sowietom,
+
+1245
+01:52:29,707 --> 01:52:33,920
+że nie dostaną
+Rudolfa Abla.
+
+1246
+01:52:36,006 --> 01:52:37,798
+Dobrze, proszę pana.
+
+1247
+01:52:40,801 --> 01:52:42,886
+I przekaż jeszcze jedno.
+
+1248
+01:52:43,095 --> 01:52:47,809
+Abel jest dobrym żołnierzem,
+który sądzi, że wraca do domu.
+
+1249
+01:52:50,520 --> 01:52:53,314
+Gdyby się dowiedział,
+że jest inaczej,
+
+1250
+01:52:53,398 --> 01:52:56,400
+że Sowieci go nie chcą,
+że nie wróci do domu,
+
+1251
+01:52:56,484 --> 01:52:58,694
+może zmienić zachowanie.
+
+1252
+01:53:00,488 --> 01:53:03,490
+Kto będzie
+za to odpowiedzialny?
+
+1253
+01:53:06,786 --> 01:53:10,206
+To długa wiadomość.
+Zapamiętałeś?
+
+1254
+01:53:10,414 --> 01:53:13,083
+– Tak, proszę pana.
+– Dobrze.
+
+1255
+01:53:14,210 --> 01:53:15,878
+Zuch chłopak.
+
+1256
+01:53:18,381 --> 01:53:19,591
+Powiedz mu też,
+
+1257
+01:53:19,716 --> 01:53:23,011
+że do wymiany nie dojdzie,
+jeśli dziś nie zadzwoni.
+
+1258
+01:53:23,094 --> 01:53:24,386
+Ma mój numer.
+
+1259
+01:53:24,595 --> 01:53:29,016
+Jeśli mieliby zrezygnować,
+nie ma sensu wcześnie wstawać.
+
+1260
+01:53:29,184 --> 01:53:32,020
+To byłoby bezcelowe.
+
+1261
+01:53:32,186 --> 01:53:35,314
+Żartujesz sobie.
+
+1262
+01:53:35,398 --> 01:53:37,692
+Wcale nie.
+Potrzebuję drobnych.
+
+1263
+01:53:37,817 --> 01:53:42,613
+– Nie powinieneś był tego robić.
+– Miałem wybadać sytuację.
+
+1264
+01:53:42,697 --> 01:53:45,283
+Celem był Powers,
+nie Pryor.
+
+1265
+01:53:45,408 --> 01:53:47,618
+Nie taka była umowa.
+Wszystko zepsułeś.
+
+1266
+01:53:47,702 --> 01:53:50,497
+Skąd wiesz?
+Mam dobre przeczucie.
+
+1267
+01:53:50,579 --> 01:53:51,997
+Wszystko spierdoliłeś!
+
+1268
+01:53:52,082 --> 01:53:55,417
+Spokojnie.
+Będzie dobrze.
+
+1269
+01:53:55,585 --> 01:53:58,296
+Nie możesz tego wiedzieć.
+
+1270
+01:53:59,296 --> 01:54:01,091
+Połączenie międzynarodowe.
+
+1271
+01:54:01,216 --> 01:54:03,592
+Stany Zjednoczone.
+Nowy Jork.
+
+1272
+01:54:03,717 --> 01:54:05,595
+Dziękuję.
+
+1273
+01:54:06,095 --> 01:54:11,184
+Chcieli mnie wybadać.
+
+1274
+01:54:11,810 --> 01:54:15,604
+Czy wezmę tylko jednego
+i w ogóle którego.
+
+1275
+01:54:15,689 --> 01:54:17,899
+Powiedziałem,
+że wezmę dwóch.
+
+1276
+01:54:17,981 --> 01:54:19,609
+Poznali nasze stanowisko.
+
+1277
+01:54:19,693 --> 01:54:24,780
+A jeśli stwierdzą,
+że rezygnują z wymiany?
+
+1278
+01:54:26,615 --> 01:54:28,909
+Wtedy rzeczywiście
+spierdoliłem sprawę.
+
+1279
+01:54:28,993 --> 01:54:31,203
+Kochanie, to ja.
+
+1280
+01:54:31,287 --> 01:54:34,289
+Tak, udane połowy.
+
+1281
+01:54:35,917 --> 01:54:37,292
+Jestem w Londynie.
+
+1282
+01:54:37,502 --> 01:54:40,005
+Jeszcze jedno spotkanie
+i wracam do domu.
+
+1283
+01:54:40,880 --> 01:54:44,009
+Pamiętam tamtą marmoladę.
+
+1284
+01:54:44,091 --> 01:54:46,802
+Była ze sklepu
+obok Regent’s Park.
+
+1285
+01:54:47,804 --> 01:54:51,890
+Kupię, jak znajdę chwilę.
+Możesz podać Rogera?
+
+1286
+01:54:52,809 --> 01:54:54,685
+A dziewczynki?
+
+1287
+01:54:55,103 --> 01:54:56,895
+Wszyscy zajęci?
+
+1288
+01:54:57,689 --> 01:55:00,315
+W ogóle zauważyli,
+że mnie nie ma?
+
+1289
+01:55:56,288 --> 01:55:57,707
+Udało się.
+
+1290
+01:55:58,792 --> 01:56:00,210
+Dwóch za jednego.
+
+1291
+01:56:01,211 --> 01:56:02,420
+Super.
+
+1292
+01:56:03,296 --> 01:56:05,881
+Wypijmy za to.
+
+1293
+01:56:06,006 --> 01:56:07,716
+– Jeden problem.
+– Jaki?
+
+1294
+01:56:08,009 --> 01:56:12,514
+Uwolnią ich jednocześnie,
+ale nie na tym samym moście.
+
+1295
+01:56:12,596 --> 01:56:14,515
+Gdy Rosjanie wydadzą
+Powersa na moście,
+
+1296
+01:56:14,599 --> 01:56:17,185
+Pryor zostanie wypuszczony
+na Checkpoint Charlie.
+
+1297
+01:56:17,310 --> 01:56:22,690
+– Co to ma znaczyć?
+– Że chcą mieć ostatnie słowo.
+
+1298
+01:56:22,815 --> 01:56:24,484
+I uwolnią go?
+
+1299
+01:56:25,318 --> 01:56:27,319
+Ty mi powiedz.
+
+1300
+01:56:33,118 --> 01:56:37,913
+MOST GLIENICKE
+
+1301
+01:56:47,881 --> 01:56:49,801
+Gdzie oni są?
+
+1302
+01:56:49,884 --> 01:56:52,011
+Gdzie nasz człowiek?
+Spóźniają się.
+
+1303
+01:56:52,095 --> 01:56:54,096
+Nie spóźniają się.
+Jesteśmy przed czasem.
+
+1304
+01:56:54,305 --> 01:56:56,181
+Mogę?
+
+1305
+01:57:02,896 --> 01:57:05,108
+– Hoffman.
+– Tak.
+
+1306
+01:57:05,483 --> 01:57:07,902
+– Chyba mają...
+– Co?
+
+1307
+01:57:08,819 --> 01:57:12,198
+– Snajperów.
+– Zapewne.
+
+1308
+01:57:12,990 --> 01:57:17,203
+– Skąd wiesz?
+– Też ich mamy.
+
+1309
+01:57:35,012 --> 01:57:36,180
+Proszę wysiąść.
+
+1310
+01:57:49,694 --> 01:57:51,112
+Drogi Jim.
+
+1311
+01:57:53,907 --> 01:57:56,784
+– Jak się miewasz?
+– Miło cię widzieć.
+
+1312
+01:57:57,284 --> 01:57:59,496
+Zrobiłeś to dla mnie?
+
+1313
+01:57:59,578 --> 01:58:02,707
+Sprawdźmy, czy wszystko gra,
+zanim zbiorę pochwały.
+
+1314
+01:58:03,500 --> 01:58:06,502
+Jakieś wieści od Pryora
+z Checkpoint Charlie?
+
+1315
+01:58:08,296 --> 01:58:11,507
+CHECKPOINT CHARLIE
+
+1316
+01:58:30,109 --> 01:58:32,194
+Póki co cisza.
+
+1317
+01:58:38,118 --> 01:58:39,202
+Proszę wybaczyć.
+
+1318
+01:58:39,493 --> 01:58:42,287
+To porucznik Joe Murphy,
+Siły Powietrzne USA.
+
+1319
+01:58:42,413 --> 01:58:47,793
+– Ma zidentyfikować Powersa.
+– Porucznik Murphy.
+
+1320
+01:58:50,505 --> 01:58:52,506
+Mogą być małe kłopoty.
+
+1321
+01:58:52,590 --> 01:58:57,220
+Wyjechałem za młodu.
+Kto mnie zidentyfikuje?
+
+1322
+01:58:58,095 --> 01:59:00,180
+Oby nie rodzina z NRD.
+
+1323
+01:59:00,305 --> 01:59:03,184
+Mieliby problem,
+żeby poznać siebie nawzajem.
+
+1324
+01:59:37,886 --> 01:59:39,386
+Przyjechali.
+
+1325
+01:59:46,810 --> 01:59:48,479
+Do dzieła.
+
+1326
+01:59:49,189 --> 01:59:53,318
+– Możesz zostać, Donovan.
+– Nie zamierzam.
+
+1327
+01:59:55,694 --> 01:59:57,197
+Podnieście szlaban.
+
+1328
+02:00:11,293 --> 02:00:14,213
+Co się stanie,
+gdy wrócisz do domu?
+
+1329
+02:00:15,006 --> 02:00:16,298
+Chyba...
+
+1330
+02:00:17,091 --> 02:00:19,301
+napiję się wódki.
+
+1331
+02:00:23,597 --> 02:00:24,682
+Tak.
+
+1332
+02:00:25,391 --> 02:00:30,313
+– Ale czy jest możliwość...
+– Że moi ludzie mnie zastrzelą?
+
+1333
+02:00:30,979 --> 02:00:32,481
+Tak.
+
+1334
+02:00:33,899 --> 02:00:36,985
+– Nie przejmujesz się?
+– A miałoby to pomóc?
+
+1335
+02:00:48,206 --> 02:00:51,001
+Odpowiadając na pytanie,
+przyjacielu,
+
+1336
+02:00:51,083 --> 02:00:54,295
+zachowałem się honorowo
+i mają tego świadomość.
+
+1337
+02:00:55,005 --> 02:00:58,507
+Ale czasami ludzie się mylą.
+
+1338
+02:00:59,717 --> 02:01:01,594
+Zobaczmy, jak mnie powitają.
+
+1339
+02:01:03,095 --> 02:01:05,097
+Czego się spodziewać?
+
+1340
+02:01:07,307 --> 02:01:11,604
+Albo mnie uścisną,
+albo wskażą tylne siedzenie.
+
+1341
+02:01:37,881 --> 02:01:40,216
+Ściągnijcie kapelusz
+i okulary!
+
+1342
+02:01:48,390 --> 02:01:52,895
+– Wasza żona ma znamię?
+– Tak.
+
+1343
+02:01:52,979 --> 02:01:56,106
+– Gdzie?
+– Na prawej piersi.
+
+1344
+02:02:05,783 --> 02:02:07,618
+Ściągnij czapkę!
+
+1345
+02:02:13,582 --> 02:02:18,505
+– Witaj, Powers.
+– Cześć, Murph.
+
+1346
+02:02:19,797 --> 02:02:21,591
+To Powers.
+
+1347
+02:02:23,592 --> 02:02:26,512
+Dobrze, panie Donovan.
+Wymiana.
+
+1348
+02:02:26,595 --> 02:02:28,097
+Chwila.
+
+1349
+02:02:34,979 --> 02:02:36,689
+Przecież dałbym znać.
+
+1350
+02:02:38,399 --> 02:02:40,318
+Nikogo nie ma.
+
+1351
+02:02:42,987 --> 02:02:45,614
+Mają uwolnić jeszcze kogoś
+na Checkpoint Charlie.
+
+1352
+02:02:45,698 --> 02:02:47,408
+Czekamy na potwierdzenie.
+
+1353
+02:02:47,492 --> 02:02:48,702
+No już!
+
+1354
+02:02:48,993 --> 02:02:50,703
+Zgodnie z planem.
+
+1355
+02:02:52,413 --> 02:02:53,206
+Idziemy.
+
+1356
+02:02:53,288 --> 02:02:56,208
+Pryor się pojawi albo nie.
+Idziemy.
+
+1357
+02:02:56,292 --> 02:02:59,003
+Sprawdzają, czy dokonamy
+wymiany bez niego.
+
+1358
+02:02:59,087 --> 02:03:01,381
+Musimy pokazać, że nie.
+
+1359
+02:03:02,590 --> 02:03:04,300
+Mam to gdzieś.
+
+1360
+02:03:04,384 --> 02:03:10,515
+Mamy nasz cel.
+Może pan iść, panie Abel.
+
+1361
+02:03:10,890 --> 02:03:15,520
+Jeśli nie podejdzie,
+wracamy do siebie!
+
+1362
+02:03:17,604 --> 02:03:20,483
+– Czekacie na jeszcze kogoś?
+– Tak.
+
+1363
+02:03:21,192 --> 02:03:25,613
+– Zależy ci na nim?
+– Tak.
+
+1364
+02:03:25,904 --> 02:03:27,614
+To bez znaczenia.
+
+1365
+02:03:27,698 --> 02:03:32,203
+Dowodzę tutaj.
+Niech pan idzie.
+
+1366
+02:03:33,912 --> 02:03:35,914
+„Niezłomny człowiek”.
+
+1367
+02:03:43,381 --> 02:03:45,216
+Mogę poczekać.
+
+1368
+02:04:09,282 --> 02:04:13,203
+Coś się dzieje,
+ale to nic pewnego.
+
+1369
+02:04:14,703 --> 02:04:15,788
+Zaczekajcie!
+
+1370
+02:05:00,417 --> 02:05:01,583
+Chodźmy.
+
+1371
+02:05:08,007 --> 02:05:09,509
+Mamy go!
+
+1372
+02:05:14,096 --> 02:05:18,810
+Wysłałem ci prezent, Jim.
+To obraz.
+
+1373
+02:05:20,020 --> 02:05:22,604
+Oby ci się spodobał.
+
+1374
+02:05:24,314 --> 02:05:26,818
+Przepraszam.
+Też dałbym ci prezent.
+
+1375
+02:05:30,195 --> 02:05:32,489
+Już mi go dałeś.
+
+1376
+02:05:35,409 --> 02:05:37,287
+Już mi go dałeś.
+
+1377
+02:06:12,697 --> 02:06:13,614
+Wszystko dobrze?
+
+1378
+02:06:15,617 --> 02:06:16,618
+Chodźcie.
+
+1379
+02:07:36,280 --> 02:07:40,618
+Pułkownik Abel prosił,
+aby to panu przekazać.
+
+1380
+02:07:42,996 --> 02:07:44,706
+Przepraszam.
+
+1381
+02:07:45,789 --> 02:07:49,502
+– Dowodzi pan tutaj?
+– Tak.
+
+1382
+02:07:49,586 --> 02:07:53,715
+To muszę podziękować.
+Komuś muszę.
+
+1383
+02:08:10,899 --> 02:08:13,818
+Nic im nie powiedziałem.
+
+1384
+02:08:14,694 --> 02:08:20,992
+Nieważne, co ludzie myślą.
+Wiesz, co zrobiłeś.
+
+1385
+02:09:11,083 --> 02:09:12,793
+Witaj w domu.
+
+1386
+02:09:15,005 --> 02:09:16,588
+Cóż za podróż.
+
+1387
+02:09:27,600 --> 02:09:31,813
+– W porządku?
+– Tak.
+
+1388
+02:09:33,105 --> 02:09:36,192
+– Kupiłeś marmoladę?
+– Tak.
+
+1389
+02:09:36,693 --> 02:09:39,279
+Tak, kupiłem.
+
+1390
+02:09:40,904 --> 02:09:42,782
+Wedle zamówienia.
+
+1391
+02:09:46,994 --> 02:09:52,000
+Jim, przecież to z Arno’s.
+Sklepu za rogiem.
+
+1392
+02:09:52,082 --> 02:09:55,587
+– Byłem zajęty, przepraszam.
+– Na miłość boską.
+
+1393
+02:09:55,712 --> 02:09:57,005
+– Jest Roger w domu?
+– Tak.
+
+1394
+02:09:57,087 --> 02:09:59,591
+Carol i Peggy również.
+Wszyscy są.
+
+1395
+02:09:59,716 --> 02:10:01,801
+<i>Mamo, chodź szybko!</i>
+
+1396
+02:10:02,719 --> 02:10:06,680
+<i>Chodź zobaczyć!</i>
+
+1397
+02:10:07,181 --> 02:10:12,895
+<i>Francis Gary Powers opuścił</i>
+<i>więzienie Związku Radzieckiego</i>
+
+1398
+02:10:13,395 --> 02:10:17,984
+<i>i dzisiaj rano, w Berlinie,</i>
+<i>został wydany amerykańskim władzom.</i>
+
+1399
+02:10:18,400 --> 02:10:22,905
+<i>Prezydent ułaskawił</i>
+<i>Rudolfa Abla.</i>
+
+1400
+02:10:23,280 --> 02:10:28,411
+<i>Pan Abel został deportowany</i>
+<i>i uwolniony w Berlinie.</i>
+
+1401
+02:10:28,787 --> 02:10:34,583
+<i>Od dawna usiłowano</i>
+<i>odzyskać pana Powersa.</i>
+
+1402
+02:10:34,917 --> 02:10:38,380
+<i>W ostatnich próbach</i>
+<i>rząd Stanów Zjednoczonych</i>
+
+1403
+02:10:38,505 --> 02:10:42,884
+<i>polegał na działaniach</i>
+<i>pana Jamesa B. Donovana,</i>
+
+1404
+02:10:43,009 --> 02:10:45,220
+<i>adwokata z Nowego Jorku.</i>
+
+1405
+02:10:46,095 --> 02:10:49,599
+<i>Frederic L. Pryor,</i>
+<i>amerykański student,</i>
+
+1406
+02:10:49,682 --> 02:10:54,311
+<i>był przetrzymywany przez NRD</i>
+<i>od września 1961 roku.</i>
+
+1407
+02:10:54,479 --> 02:10:58,315
+Tatuś miał łowić łososie.
+
+1408
+02:10:59,109 --> 02:11:01,985
+<i>Abel zniknął</i>
+<i>w komunistycznym świecie.</i>
+
+1409
+02:11:02,112 --> 02:11:04,905
+<i>Jest z nami Powers</i>
+<i>i udzieli nam odpowiedzi.</i>
+
+1410
+02:11:04,988 --> 02:11:07,783
+<i>Donovan wrócił</i>
+<i>do swojej kancelarii.</i>
+
+1411
+02:12:15,601 --> 02:12:19,104
+POWERS UWOLNIONY W ZAMIAN
+ZA SOWIECKIEGO SZPIEGA
+
+1412
+02:12:22,609 --> 02:12:25,694
+PILOT WRÓCIŁ DO DOMU
+
+1413
+02:13:27,881 --> 02:13:31,219
+<i>Po powrocie do ZSRR</i>
+<i>Rudolf Abel wrócił do żony i córki.</i>
+
+1414
+02:13:31,301 --> 02:13:35,305
+<i>Nie został publicznie uznany</i>
+<i>przez Związek Radziecki za szpiega.</i>
+
+1415
+02:13:36,181 --> 02:13:40,895
+<i>Gary Powers zginął w wypadku w 1977,</i>
+<i>gdy pracował dla kanału KNBC.</i>
+
+1416
+02:13:40,979 --> 02:13:45,315
+<i>Po śmieci przyznano mu</i>
+<i>trzy odznaczenia.</i>
+
+1417
+02:13:46,400 --> 02:13:50,113
+<i>W 1962 roku Frederic L. Pryor</i>
+<i>uzyskał tytuł doktora ekonomii.</i>
+
+1418
+02:13:50,279 --> 02:13:54,117
+<i>Jest zasłużonym profesorem ekonomii</i>
+<i>i naukowcem na Swarthmore College.</i>
+
+1419
+02:13:54,701 --> 02:13:58,412
+<i>Po udanej wymianie Powers-Abel</i>
+<i>prezydent Kennedy poprosił Donovana,</i>
+
+1420
+02:13:58,496 --> 02:14:02,500
+<i>aby ten przeprowadzał negocjacje</i>
+<i>w imieniu Stanów Zjednoczonych.</i>
+
+1421
+02:14:03,208 --> 02:14:07,296
+<i>W 1962 roku uzgadniał</i>
+<i>z Fidelem Castro warunki zwolnienia</i>
+
+1422
+02:14:07,380 --> 02:14:10,507
+<i>1113 jeńców przetrzymywanych</i>
+<i>po inwazji w Zatoce Świń.</i>
+
+1423
+02:14:10,591 --> 02:14:16,597
+<i>Dzięki negocjacjom Donovana</i>
+<i>zwolniono 9703 osoby.</i>
+

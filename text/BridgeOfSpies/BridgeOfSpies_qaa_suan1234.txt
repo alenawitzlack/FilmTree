@@ -1,0 +1,1885 @@
+1	Next khamme di Broad Street.	
+2	Broad Street di next se.	
+3	Upstairs.	
+4	Hai yahn.	
+5	Hai yahn nahn kia ma ska?	
+6	Miszu ska?	
+7	Hanahn thai ma.	
+8	Kohn diga.	
+9	Yoan raga.	
+10	Thai ma lehn da.	
+11	E chacha nahn khamma dai.	
+12	Visitors.	
+13	I Ivai khe luari ke?	
+14	Colonel, asui yahn lairia?	
+15	Bik nahn mazwehn na.	
+16	Thai thai.	
+17	Uh, maga nahn...	
+18	Khe di maga nahn... Gae mathak gase nahn.	
+19	I nahn yoan.	
+20	Hai di Federal Bureau of Investigationvai agent ne.	
+21	I nahn yoan!	
+22	Nahn nahn byan ganan laiha.	
+23	Nahn mok rue nahn dhohnle revai hai pao ruate.	
+24	Nahn hai nan runge the mate ragu, nahn di choklua rahnte.	
+25	Phabta lai dima Colonel?	
+26	Szurai phabta ma.	
+27	Mwethe da colonel, colonel re thyi ganan laiha la?	
+28	Thera thohn lua dai.	
+29	Hai nahn rui di kapiu rahnte.	
+30	I machu mix the gase khohn di thechua rige?	
+31	Re magu magu rha machupha di thya rahnte.	
+32	Di di, nahn suivai di.	
+33	Ivai phzza dinahn wile.	
+34	Szukhyate.	
+35	Kapiu matha dai.	
+36	Szukhyate.	
+37	Szuraire kapiu, mattress pha lai, bik pha lai, floorboards pha lai, chokey pha lai.	
+38	Nahn thi ashtray nahn thohnmi gala, tye window nahn wye nahn di?	
+39	Tye desk nahn di szuraire yoan.	
+40	Tye desk di szuraire yoan.	
+41	Thi thya mu ma rahn.	
+42	I miszu re mai.	
+43	Bai di I miszu garhe.	
+44	Bai di nahn miszu garhe gu.	
+45	Nahn thuza di rung nan laiha la?	
+46	I nan rung ganan lai di tye miszu, Ivai client nahn insurance la miszu di rung ganan laiha.	
+47	Rerai renan, I miszu re rung ma geraha.	
+48	Ragwenan kaima.	
+49	I nan runge point dinan, tye miszu nahnvai client nahn insurance la, bai li hai thathokpha di thai redi me rema, reha.	
+50	Pha...	
+51	Thathokpha?	
+52	Uhg hai thathok phange dai.	
+53	Chari, chari...	
+54	Phange ma.	
+55	Ska daichwe.	
+56	Phange le.	
+57	Gare lehnda, I la nan phabta ma.	
+58	Phange le?	
+59	I la rung thayoan.	
+60	Rung ma laili drekhalai lehnda li phabtale wi.	
+61	Ok, mwethe reha la ragu rung dai.	
+62	Dahtham di za hai thathok phange nahn di woanda khakhahn nan rung.	
+63	Ay, ay. Hreha, thika.	
+64	Nahn miszu...	
+65	I miszu garhe.	
+66	Ivai client nahn insurance la reha.	
+67	Tye miszu nahnvai clientvai da Insurance luwe redi State Highway 19 nahn thathai ga, ranan control thengam ma ganan miszu phange nahn thunge ga. Bu byahn thungmi ra re I di wai miszu phange. Renan nahn thema ga nahn nan makhwa da runghapha dai.	
+68	Nahn nan runge di Ivai client bai nan makhwa da runghapha di the ma ga rehala? Tye insurance company?	
+69	Mr. Donovan, nahn I phabta szurele hai maram nahn thuza di thula re.	
+70	Ivai client bai nan the rahnre rungha mazohn di bai thele wi...	
+71	Gathathahn, Mr. Bates.	
+72	Ain nan ay re ganan ru thithi mazohn, rate ragu buvai themi ngamme maka tye $100, 000 per accident, ragu hai nyavai maram di di di laidigu.	
+73	Ranan thi claim ska...	
+74	Nahn nan runge di bai miszu phange nahn thunge.	
+75	Tye miszu Ivai client nahn insurance lai di accident ska thaiha...	
+76	Ska.	
+77	Car skavai control ngam ma ganan cycle thathai miszu phange nahn katakke reha.	
+78	Re, thi, buvai thaila suisuinan thathok phange thai hate.	
+79	Wi, yoan, Bob.	
+80	I nan ska rungge?	
+81	Bob?	
+82	Jim.	
+83	I bowling ve the ganan, khlahn ka sza da ten pins mazohn thephuia da nan, di di strike ska dai.	
+84	Ten strikes garhe dai.	
+85	Jim, nahn miszu nan Ivai miszupha di bowling pin dai re lua lailai, I nan thungmi ganan laipha di bowling pin garhe.	
+86	Dre da nan...	
+87	Chari, Ivai di kappa rige.	
+88	Chari. Chari Ivai di kappa rige.	
+89	Nahn rhui hadi insurance policy $100,000 lai ganan, tornado nahn thekhia danan, di di rhui ska daichu thekhiaha dai.	
+90	Insurance company rhuivai daichu phrei laigu, rhui nahn mu mwe wi la revai mugali phrei gase lai ma laigu.	
+91	Nahn nan rung ganan lai di di di rungha regwenan, insurance companyvai limit lai lehn maha rai renan, insurance business zha rahnte.	
+92	Rate ragu, Bob, miszu mazohn thezwa rahnte.	
+93	Watters, Cowan and Donovan.	
+94	Thuza di bahn rahn?	
+95	Morning, Mr. Donovan.	
+96	Good morning, Alison.	
+97	I nan nahnvai 9:00 a.m. vai meeting Prudential nahn khayeate.	
+98	Gare lehn da dre khayeaha la?	
+99	I nan runga.	
+100	Rigatratrahn lailai la, Tom?	
+101	Nahnvai gooke di Alison la wisza.	
+102	Ranan hanahn dhohn.	
+103	Bathanahn thokke ska lai laite.	
+104	Miszu ska nahn di ru rahnre laile...	
+105	Natalie nan nahnvai coffee sam ganan lai laite.	
+106	Nescafe, cream, sugar bam khanika, mathung laite min?	
+107	Mathung laite.	
+108	Szukhiate.	
+109	Lynn!	
+110	Jim!	
+111	[NO TRANSLATION]	missing translation
+112	Rhuikha gare lailai?	
+113	Nungai nan laiszu rele.	
+114	Szukhiate.	
+115	Annie gare lailai?	
+116	Miszu mathai mu thatham re laile.	
+117	I biwi rhuikha bu holiday re kare re.	
+118	Wi, bai thethi khakhahn nan thyate ragwenan, bai lawyer lai nan lai rahnte.	
+119	Gare khanahn nahn?	
+120	Hre ha...	
+121	Bu nan Soviet spy choklaha, nahn nan bai di defend the rahn reha.	
+122	This bai di phehnne maram.	
+123	Wow.	
+124	Shennan lakai mu ma.	
+125	Phehnne lawyer ska li thai ma ga.	
+126	Federal Court hai gae nahn fi thohnmya hate.	
+127	Bar Committee nan vote thohn ru ganan.	
+128	Nahn di kapra hate.	
+129	Thi hai byahn kanale...	
+130	Hai nya di szuraire thai ganan szuraire la di, Jim, haivai yur byahn bathanahn kanale.	
+131	American justice system di mazohnne yoan ganan laiha.	
+132	Nahn nan dre lehn da rung gwenan, matikza gathukhia arunge byahn.	
+133	Riri, Lynn, I di insurance lawyer re.	
+134	I laigumme da hatrahnpha criminal nahn the mate.	
+135	Bike tha thale, garhe la?	
+136	Chatha di nahn szu mahn yah re the Nuremberg da lai.	
+137	Ame, I prosecution team nahn dhohn...	
+138	Di di rungha garhe.	
+139	Nahn criminal law nahn katha garhe reha.	
+140	Jim, hai thathok di yoan.	
+141	Hai neo hadi miszu mazohn nan matrahn ganan laiha.	
+142	Ragu I di li matrahn rahnte we.	
+143	Matrahn rahnte. Katrahnpha ga phabta Khama, mathet Khama miszu nan.	
+144	Relaili thi thongmahn khakhanan the phrungke re thai.	
+145	Haivai justice system miszu di mugali garhe re fi cha szuma ganan.	
+146	Evidence di gare lai, I la nanym da nan?	
+147	Matikza drungle.	
+148	Szuate.	
+149	Szuate.	
+150	Kaima. Mazohn nan matrahnne nan matrahn dige nahn, riri I tha nan tha ma ge nahn.	
+151	Nahn gare phanung lai Tom?	
+152	Hai ma rahnte.	
+153	Hai thaivai da.	
+154	Thi athi lai byahn themi ge re thai.	
+155	Thi bathanahn thokly la ge re thai.	
+156	I nan Lynn di, hai me re rungam ma rahn re tha re, nahn li me re runge redi matikza thok rahn.	
+157	Hai hai neo kaphe byahn thung miye nahn dale.	
+158	Re, nahn the rahnte?	
+159	Mwe the nan?	
+160	Abel byahn thung mye, tye Soviet spy rethwa.	
+161	Phabta prye.	
+162	I bahn ri rahn...	
+163	Chari, nahn la thuza nan rung nahn thai?	
+164	Bu notice board nahn thaiwi laila?	
+165	Garhe, I...	
+166	I Richard Earl nue athahn...	
+167	I thi the nyanym laite ragu, I nahnvai mating kanale.	
+168	Nahn za aszaszu gu thaithe mai?	
+169	I phethe raiga re rung wile, sir.	
+170	Asza Tuesday, min?	
+171	Ah, garhe, I phahnle, phahn shehnle.	
+172	Szukhiate, sir.	
+173	Relaili thi li khaya ke ska.	
+174	Bar Association nan I di runge maram di bu spy la thai mu lega spy la li thengamme advocate mile re dai.	
+175	Wi, haitrahnpha khaya dyenan shehnnan kahao ma.	
+176	Ala, neorai nahn gare la?	
+177	Bai re ma.	
+178	Wi, di di ay re mu phemate.	
+179	Tye galhwa pui ma di thuza nahn?	
+180	Uh, rung Khama szu mahnne.	
+181	Re mazwehnna.	
+182	Hai li athoo chu matha.	
+183	Miszu mazohn bathanahn tra ganan laiha.	
+184	Miszu mazohn szuka bomb shelter sam ru ganan laile, haitranpha miszuvai lohn da.	
+185	Dukan nahn ve laite ragu, miszu mazohn canned food rate ragu potassium tablets lu rai ganan laile.	
+186	Haitrahnpha miszuvai lohn da.	
+187	Hai miszu nan hai mazohn di thetra ganan laiha.	
+188	The yikke miszu.	
+189	Thuza di the yikke miszu reha?	
+190	Rosenbergs wi di the yikke reha.	
+191	Bu di mwe nahn?	
+192	Bu nan atomicvai secrets Russian la miaha.	
+193	Bu li American miszu.	
+194	Bu nan haivai yur di phlee laidigu.	
+195	Abel di the yikke re phehn szu ma laigu.	
+196	Bai di American garhe dai.	
+197	Thika, nahn li nahn nan runge di lhung dai.	
+198	Nahn bai byahn thungmi mathwate.	
+199	Nahn I da katam sza ganan lai laite.	
+200	Ay ra gama re phanungle re nahn athan runge.	
+201	Ame, I dre phanung laire, bathanahn thokle.	
+202	Miszu mazohn szuka legal representation nahn right laiszu re laigu.	
+203	Miszu di amahn thok laigu.	
+204	Jim, ragu hai di miszu garhe la?	
+205	Ba nan hai di gare mazok gala?	
+206	Rhuikha ska nan the yikke, phlee gathyee miszu di phacha gase the ganan lai dai?	
+207	Bai di the yikke, phlee gathyee miszu garhe, Mary.	
+208	Ame, ame.	
+209	Roger, khorohn di shamma mia!	
+210	Bai di the yikke, phlee gathyee miszu garhe...	
+211	Mwethe da I di thai mazohn di the tha rehala?	
+212	Oh!	
+213	Chari, khurum prye.	
+214	Mathi laite!	
+215	Bai di yur da matrahn laili matrahn mahnne miszu ska the ganan laile, ranan nahn nan khanye da gase the ganan lai di za ma!	
+216	Uhg, ranan I nan kathamme.	
+217	Carol, nahnvai di nahn nan mathoong khama miszu nahn laithiaha.	
+218	The mu laite.	
+219	Mary, hai maram nahn jaa ngaphat gase the ma rahn. Thi jaa zakha.	
+220	Nahn bai di ay re ma, regu I bai di ay re laima?	
+221	I li bai di ay re ma.	
+222	I li Russian hai nahn mokrwe di ha ma, ay re ma.	
+223	I dre bai byahn courtvai nyum, miszu ska di case ban laite ragu thungmye di di the ganan laiha. Re da court of law ra.	
+224	Nai phethe nahn thekhamzate.	
+225	court of law...	
+226	Hey, Doug.	
+227	Thekham za ma, mugali the ma.	
+228	Hello, Doug.	
+229	Jim dre thai lailai nyam ganan laiha.	
+230	I thai lailai nyam ganan laima.	
+231	Mazwehn, Doug, hada phethe ga.	
+232	Meatloaf tharahn the wile.	
+233	Re, Jim case di la gama la ma gama re byahn mazok rai rahnre re ma nahn?	
+234	Garhe, la szate wi!	
+235	Pao gaswwe, garhela?	
+236	Athaimai, szukhiate nahn nan pheza miye di the digera lai byahn.	
+237	Haithaimai, Jesu Christa mung da khurumha.	
+238	Amen.	
+239	Good morning, sir.	
+240	I mung di Jim Donovan rele.	
+241	Thi Ivai credentials the.	
+242	I Watters, Cowan and Donovanvai partner ska.	
+243	1941 da I di New York Bar members nahn kappra thohn.	
+244	Nahn di 3 counts ragwenan 19 overt acts da phehn ganan laile.	
+245	United States defense and atomic secrets Soviet Union la miye byahn, secrets zhuinan la byahn, rate ragu amung register the ma byahn.	
+246	Foreign agents register theszu re laila?	
+247	Nahn I nan nue di kaima laite ragu, sir, nahn kuku nahn vya dai nahn di choklaha suida?	
+248	I zapza re mazokla ma.	
+249	Nahn thai ma?	
+250	Airport nahn zhahnve, plane katohn mu, plane da kohn mu.	
+251	Atra thahn kanahn li la ve.	
+252	Ha di li trale.	
+253	Tra mahnne, bathanahn huppe.	
+254	Room nahn li dhohn lai mu.	
+255	Nahn di kajahn la?	
+256	Kajahn ma.	
+257	I di question nue.	
+258	Offerpha li the.	
+259	Renan dinan?	
+260	Naivai government byahn thaithe tha re offer li the.	
+261	Offer di lwa ganan thaithe rai rahn regu, I mathak nahn case ban ma rahn re...	
+262	Raganan bya li mi rahn re.	
+263	Hmm.	
+264	Ranan nahn me rate?	
+265	Re da hanahn lai hate.	
+266	Ame wi, di di nan I nan li katom szu male.	
+267	Riri nahn di US government thri nahn thaire rai tha re runge dyenan Ivai duty.	
+268	Me rahate.	
+269	Nahn nan la za nahn baswe CIA nahn dhohnpha la I nan runge di kathathahn re runga mi raga.	
+270	Dreha garhe.	
+271	I...	
+272	I CIA nahn thaithe ma.	
+273	I government byahn thaithe ma.	
+274	I hanahn nahn la lawyer ska thenan legal counsel mi gase byahn reha.	
+275	Nahn nan ay re ganan di di dre la laite ragu, I nahn byahn thai themi geraha.	
+276	I nan ay regu?	
+277	Nahn nahn nan the thai nahn szu laila?	
+278	Ame.	
+279	Ame, I matikaza szule.	
+280	Nahn spy buidungre la case thung mya di la?	
+281	Thung mi kasza prye.	
+282	Thi nahn byahn li I byahn li makhwa.	
+283	Mathoongle.	
+284	Kaima.	
+285	Kaima?	
+286	Nahn ay reha dila?	
+287	Ame. Ay re hate.	
+288	szuate.	
+289	Ha da matha ga.	
+290	Nahn US government byahn thaithe rahn redi myate rate ragu...	
+291	myate.	
+292	Ay.	
+293	Ragu nahn thuza nahn gali nahnvai casevai tatham the maite, government miszu ma government miszu garhe ma.	
+294	I nahn daichu, nahn nan I nahn kaszuka henthohn laila re maga.	
+295	I di daichu nahn la thungmi gase byahn khamaya miha.	
+296	Thuza la gali mi ma.	
+297	Shing khakhahn nan rungha, miszu mazohn nahn di electric chair nahn phathohnte re ganan laiha.	
+298	Ay, kaima.	
+299	Nahn pokkhanahn nan thai ma.	
+300	Pokkhanahn riri kanmi gala?	
+301	I...	
+302	I rigatratrahn raksza gase manungle.	
+303	Di di ay re male.	
+304	Pencil ska, paper ska re.	
+305	Churi re.	
+306	Prehn mi nan?	
+307	Mr. Donovan, naivai yur miszu li I thare the ganan laiha.	
+308	Bu li choklua da nan. Nahn li bu di szuraire treatthe di manung rahn.	
+309	Nahn mung gare lai?	
+310	Francis Gary Powers.	
+311	Rank, service?	
+312	First Lieutenant. United States Air Force.	
+313	Nahn Soviet Union nahn mari lailai mai, Lieutenant Powers?	
+314	Gatheha mle?	
+315	Nue ganan lai di rung kai, Lieutenant.	
+316	laile, lai ma re khehn khakhahn nan rung kai.	
+317	Nahn Soviet Union rigatratrahn mari lai laile?	
+318	Lai ma.	
+319	Nahn di mwethe da hanahn thyiha la phabta mai?	
+320	Mmm-mmm.	
+321	Di di phabta ma reha ma?	
+322	Ame.	
+323	I mugali...	
+324	Phabta ma, ska li phabta ma.	
+325	Ame, I skali phabta ma, mwethe da I di hanahn thyi re maram dai.	
+326	Athi, Lieutenant nahn yoan.	
+327	Yes, sir.	
+328	Gare themya dila, Gary?	
+329	Batha szunan thyate.	
+330	Mugali theszyuia madi mle.	
+331	Ragu Shinn di nahn szu mahnnan thya nan lai rahnte.	
+332	Thuza nan tha lai?	
+333	Uh, di di nan I te.	
+334	Oh.	
+335	Szuate, I la li tha mi.	
+336	hai mazohn di I gaete ragu.	
+337	I nan rungate nai la bai di teta re maite re.	
+338	Okay, drivers, hre rahnte.	
+339	Nai di thai ska byahn kapra hate, nai thi thuza nahn gali rung szuma rahn hai room da chehn sahn ganan.	
+340	Thuza nahn galai.	
+341	Nahn thuza di hehn Laila, I thai ma.	
+342	Biwi, athi, laigathyi.	
+343	Haithaimai nahn szulehn gu khuramme matam da lai.	
+344	Nahn thuza nahn gali rung szuma rahn athoo I nahn rungge re dai.	
+345	Nai driver ska thenan hai thai di thengam ge re quality laiszu rele.	
+346	High level security clearance.	
+347	Nai mazohn single-seat aircraft matam kana nahn di shehn mahnnan tha ngammevai batha szu pilot ratings laile.	
+348	Hai rhii the ganan laile.	
+349	Athoo-athoo hai rhii hadi miszu dhohn ganan khutlai da rhii theru ma ga relaili,	
+350	this pao da theru ganan laiha.	
+351	Nai pao la rahn.	
+352	Nai ve ganan haivai yoan gathye vai tharahn, pao, buvai the ngamme, khangazan, etc verhoo rahn.	
+353	Nai nan haitrahnpha pao vela hadi hai la bathanahn drung ngachon geraha, hai chugu Soviet Union nahn nuclear rhii the matam da.	
+354	Or rhii li khamma mu szwe.	
+355	Nahn biwi, the, laigathye byahn da renan hai thai hadi thuza la li runga szu ma.	
+356	Hai thai hadi lai ma da nan, nai li lai ma geraha re mazok tha.	
+357	Nahn di phret lhye mu szu ma.	
+358	Nahn di choklwa mu szu ma.	
+359	Nai athwenan CIA byahn thai the di gerahate.	
+360	Re Jim, nahn miszu di akhwehn chanan theyik ganan bahnle re.	
+361	Bai dre akhwehn chanan theyik ngam laila?	
+362	Di di bai bahnne lehnte redi I mingmong ma rahn.	
+363	Bai mung di Russianne riri baivai passport di Britishvai.	
+364	Di di mathoong rahn redi I hehn ma.	
+365	Re, Jim, kanahn thai lai thai?	
+366	Hanahn...	
+367	Ame, uh, Judge, hai, Hatta katham ha di thurahn redi I hehn ma.	
+368	Hai...	
+369	Hai evidence bathanahn drung ruate.	
+370	Nahn kathia mu laila?	
+371	Hatta thok.	
+372	I nan I chu rate ragu ivai associate ska, haithai daichu ganan.	
+373	Jim, thi gathathahn la?	
+374	Sir?	
+375	thi gathathahn la?	
+376	Ame.	
+377	Ame, gathathahn.	
+378	File nahn yoan laite ragu thai rahn...	
+379	Jim, hai miszu di Soviet mok rhwe pha.	
+380	Dre rungle.	
+381	Garhe hala, Counselor!	
+382	Your Honor.	
+383	Ame, I nungszwa woanle.	
+384	Hai mazohn nungszwa woanle nahn dai hai thai di la bayhn.	
+385	I li thaile, baivai mashun di khayashi geraha.	
+386	Riri gathe nganao ru maiga.	
+387	Bai la thungmi gase byahn lawyer gaswu mi rahn.	
+388	Riri bai tha ma rahn.	
+389	Za, Counselor.	
+390	Gathe rum aiga hai nya maram nahn.	
+391	Thi kada gali ay rema, Ivai courtroom da.	
+392	Date set thya hate di niku baivai case lakai babam rahn.	
+393	Taxi!	
+394	Taxi!	
+395	Nahnvai light on thephule!	
+396	Hui zazu.	
+397	Manhattan woan mu ria ganan khahnla mate.	
+398	Baivai light on thephwe, min?	
+399	Hui zazu.	
+400	Buvai the gaswe nahn ay rem alai lai.	
+401	Ain di tria mele.	
+402	Oh, yoan raga, sir.	
+403	Thai ma lehnda.	
+404	Szuiate.	
+405	Oh!	
+406	Mr. Donovan.	
+407	Mwe?	
+408	Mwe?	
+409	CIA.	
+410	Ame.	
+411	Hai thehnga bahn muha.	
+412	Case di gare thai lai dai?	
+413	Case di szurai thaile.	
+414	Matikza szu thaile.	
+415	Mmm-hmm.	
+416	Bai nahn la tatham the-the pri?	
+417	Mwe la I thai ma.	
+418	Nahn bai di ruwa hate.	
+419	Bai nahn nan tatham the-the pri laga?	
+420	Bai rigatratrahnpha rung pri?	
+421	Hai maram nahn zak ma rahn.	
+422	Ame, amewi.	
+423	I nan runge nan hai nyavai maram nahn zak phema rahn reha.	
+424	Nahnvai di Ivai attorney-client privilege thekhi ganan laiha.	
+425	Oh, nahn li, Counselor.	
+426	You know, ranan za Oh, nahn li, Counselor re runge di dre rung mai mira.	
+427	Athan da dre chu makhwa da lhung mu mahate,	
+428	judge nan li khani sza dre.	
+429	Drung mahnnan chu la, lhung mu ma mahnle.	
+430	Ame, I li phabtale attorney-client privilege.	
+431	I li phabta szu rele legal gamesmanship.	
+432	Nahn thi the ganan batha gase byahn bya thelale redi I li phabtale.	
+433	Riri I nan bahn ganan lai maram di chale.	
+434	Yur byahn szwu mahn gase, chingri mahn gase.	
+435	I nan runge lehn da nahn nahn thezugu I szuiate.	
+436	Riri Abel nan mwe rung ganan lai laila redi hai thai tarkar thele.	
+437	Nahn phabta mai, Donovan?	
+438	I thai tarkar thele.	
+439	I di chaya relaigu re khan maite.	
+440	Hanahn rule book dhohn ma.	
+441	Nahn di Agent Hoffman, min?	
+442	Ame.	
+443	Nahnva nahnpe di germane min?.	
+444	Ame, gare?	
+445	I mung di Donovan.	
+446	Irish.	
+447	Khanika dradrung yahn, athe abe.	
+448	I di Irish, nahn di German.	
+449	Mwe nan athai dradrung di American the muha la?	
+450	Maram skavai da.	
+451	Maram skavai daichu da.	
+452	Tye rule bookvai da.	
+453	Hai di di Constitution re thyile, ranan hai ain di di mayonle, ranan di di nan hai di American the muha laidigu.	
+454	Di di daichu nan hai di American the muha laidigu, rerai renan rule book lai ma re rung mai raga, ranan dre ganam mai, hui zazu.	
+455	Hai nahn byahn pokhanahn mimi ma gala?	
+456	I thai nahn thekhamza ma gwenan.	
+457	Athoo matam da matha nan U-2 di mokrhu gasevai plane ne or yoangathie phavai zhuinan pao la gase aircraft fe re thyi lehn szu ma rahnte.	
+458	The Article renan thyi rahnte.	
+459	The Articlevai ashu di 80-foot shale.	
+460	Hai engine di Pratt and Whitney J57 P-37 engine nan thai mu mule mule.	
+461	Hai nya engine nan 10,000 pounds power generate the ngamle, rate ragu 430 miles kapung ska da thai ngamle.	
+462	Hai nya di kaszuka thu ma szwe, riri nai nan thai gere atra 70,000 feet nahn chatha ska li bandam ngamma rahn.	
+463	70,000?	
+464	I nan runge jaa dinan yoangathye pha nai thaile redi li thai ngamma rahn reha.	
+465	Shehnnan trenan thai ma.	
+466	Pound sza-sza extra thohn laite ragu baivai tra pri ngamme capacity nahn thezule, athoo li cameras thohn ri geraha.	
+467	Di di 4,500-millimeter lens, three nan matai geraha.	
+468	Matikza shing ganan batha athahn tai cover the ngamme camera, hai nan makhwa da zorehn nahn shijin ganan yoangathie phavai pao la gase nahn di 4 times thre mahnle.	
+469	Nai moksa la geraha, moksa puidung re.	
+470	70,000 feet atra da, lhaipha ska di vepri chehnne matam da The Article nan 2,000 square miles manung nahn laivai picture la ngamle.	
+471	Athwenan, drivers, Agent Sumner nan rungge re di szurai renan lhungtha.	
+472	Nai nan thai nahn lave gere mazakpha di hanahn wile.	
+473	B camera, Revere 8 model 40 magazine, Keystone Capri K-25, silver.	
+474	Gae maithung gase nahn bat ganan kaszwahe thie nahn shijinne brush,	
+475	cipher tablets rakzhahn wisza laite theszu gere foil nahn.	
+476	Photo kap gase mazak.	
+477	Ay, hai, uh...	
+478	Hai phabta laite.	
+479	Szukhiate.	
+480	Uh, thi, Agent, uh, Bosco, reha ma.	
+481	Blasco reha nahn.	
+482	Sir.	
+483	Hai nyavai list nahn section chatha lai lairi wile.	
+484	Gooke adrunge di baivai flat da lareha, riri chatha mazohn di bai nan hotel lai thahnvai da lareha.	
+485	Bai di chokla thahn da.	
+486	Tye nahn nan hotel room kapuie tha?	
+487	Ame.	
+488	Choklua ditha re khamaya mie lairak di yoan ge?	
+489	Mwe dai?	
+490	I la thi khlaithai thayoan.	
+491	Choklua ditha re khamaya mie lairak wie.	
+492	Choklua ditha re khamaya mie lairak wie.	
+493	Court nan choklua ditha re khamaya mie di di baivai immigrationvai maram da, riri ain nan ayre khama thai thele rerai renan chokluatha re khamaya mievai lairak garhe reha.	
+494	Rerai renan, evidence athoo-thoo lai ganan lai di searchthe da ruha, di di ay re ma geraha.	
+495	Mwe protection bai ru gala ain suisuinan, Your Honor?	
+496	Tye miszu di...	
+497	Tye miszu di mwe?	
+498	Bai di Rudolf Ivanovich Abel.	
+499	Bai di Soviet miszu.	
+500	Bai di American garhe.	
+501	1886, Yick Wo v. Hopkinsvai da.	
+502	Tye nyavai case da Chinese immigrant nahn, riri ba di lai, rate ragu chatha miszu haivai country nahn zhuinan re dhohnpha li dhohn nan, ainvai nium suisuinan the ma ganan, choklua ganan bichar the szuma rahn renan Court nan decision la.	
+503	The Department of Justicevai khamataiya thai di United Statesvai beat interests mayonne die.	
+504	I la phabta ma, gare lehn da yurzat chatha miszu, ain da ay re ma ganan hanahn laile regu, baivai mashun la tha miate rehala.	
+505	Kie nyavai Mashun?	
+506	Americanvai mah?	
+507	Kie nyavai Mashun, Counselor?	
+508	Hai mathaithohnvai rhii sha ganan laile.	
+509	Hai Russian mokrhu di hanahn re ganan haivai kharing khrak nahn thetra ganan laiha.	
+510	Esahn nahn miszu phyahn ganan laile I dai.	
+511	Sahn dai ranan szuraire tye Russian thrinahn sahn mazwehn.	
+512	Thi vare kapthohn rahnte.	
+513	Nahn nan request the di ay re ma.	
+514	Bai insurance za lathai gereha.	
+515	Hai gara dai?	
+516	E athoonge da la?	
+517	Uh...	
+518	Shehnnan woanta ma.	
+519	Nahn American garhe liaga.	
+520	Mathungle.	
+521	Ranan navai boss nahn runge suisuinan nahn hadi Soviet citizen li garhe liaga.	
+522	Wi, boss li matam raraehn mathung ma laigu,riri bai di matam rarehn da boss se.	
+523	Nahn pokhanahn re laima laila?	
+524	Pokhanahn riri ngachon gala?	
+525	Mazohn thathungtha.	
+526	I Flag nahn allegiance the rahnre wasak ganan laile United States of America vai, Ragwenan bainan thunge Republic nahn. Yur ska Haithaimaivai alhohn nahn, thekhia szu khama, with liberty and justice for all.	
+527	Makhwa mahnnan, nahn nan thaige renan mwethe la atomic bomb pakhiye matam da.	
+528	Bathanahn ya ganan, thamok nahn li ya mahn ganan hette.	
+529	Town nahn lai mazohn buildingpha windowpha di li thekhi thohn ngam gere.	
+530	Riri Bert tha renan dhohnganna ha matam da da nahn nahn thezu ma mahn rahn geraha.	
+531	Attack the hadi alam khanikale, warning mia ganan the regwenan warning mima ganan the.	
+532	Mmm.	
+533	Mwethe ganan lailai hanahn?	
+534	Thi, ba, this bathanahn tarkar thele.	
+535	Rhii mathaha matam da, bu nan makhwa mahnnan the di rhui gali electricity khamma laiga.	
+536	Rerai renan, makhwa mahnnan Hainan thege redi hadi thepui wie. Naivai roomvai shower di li shijin, alhohnvai gae mathakke di li shijin rate ragu khasza nahn rhui laimi gase di li shijin...	
+537	Tye idea di di szule.	
+538	Riri, Roger, thi nahn nan pokhanahn ganan the gere thai re I thai ma.	
+539	Ame, riri chugu siren chu mathwate rate ragu, hai bucketpha, gae mathak gasepha di thepuie matam lai ma ganan liaszu.	
+540	Sirens khohn masza...	
+541	Thi mwe la?	
+542	Ahuhnpha nan bomb thohn matam da, bu Empire State Building nahn target therahn.	
+543	Riri bomb di 10,000 feet atra da pakhi rahn.	
+544	Life magazine da, di di airburst re thyile, ra ganan bomb di 50 megatons rhet laite rate ragu, tye pakhievai wave di tai mahn, tai mahn, tai mamahn ganan hainyavai gali hainyavai marak nahn laipha mu rarehn mazohn lhe re cha geraha.	
+545	Hai rhui li dhohnnan.	
+546	Ha dai.	
+547	Ame, dinahn.	
+548	Riri, Roger, hai la thuzanan gali atomic bomb filhemi marahn.	
+549	Russian nan bathohnmi sza.	
+550	Tye nahn nan thungmi ganan lai Russian miszu?	
+551	Bai bomb bathohnmipha la tharahn themi ganan relaiha ga.	
+552	Garhe, garhe, bai...	
+553	Hanahn dyenya byahn laiha garhe.	
+554	Bai di Russian li garhe.	
+555	Bai di Northern England nahn manieya thohn ganan lairahn.	
+556	Ame, riri bai di Russiavai mokrhwepha ganan.	
+557	I la phab li phabta ma, nahn mwethe ganan laiha la.	
+558	Nahn Communist li garhe, ranan nahn mwethe da nahn Communist la thungmi ganan laiha la?	
+559	Wi, miszu la thungmie redi I thai.	
+560	Makhwa da dre ma.	
+561	United States of America versus Rudolf Abelvai case hanahn di, Rudolf Abel di phehn ganan lai first count di, nahn gare laile?	
+562	Szui lai ma szui ma lai?	
+563	Szui ma.	
+564	Second count di?	
+565	Szui ma.	
+566	Third count di?	
+567	Szui ma.	
+568	Your Honor, evidence la re di daichu da thu ma rairenan, athoo guilty verdicts laha di di wiami thirira renan request thele.	
+569	Meate.	
+570	Jury di phate.	
+571	Szukhiate nai mazohn dai.	
+572	I nan li hre rungthohn mule, I li nai da nan athoo verdict phreiha di zapzare lwa rahnte.	
+573	Sentencing hadi November 15 nigu.	
+574	Nahnvai death sentence hadi guaranty garhe.	
+575	Pokhanahn maite.	
+576	Zha ge re nahn I pokhanahn ma, Mr. Donovan.	
+577	Rega relaili di di Ivai makhwa choice garhe.	
+578	Thi nahn malai wie.	
+579	Oh, szukhiate.	
+580	Oh, bathanahn szukhiate!	
+581	Nahn nu kasza ma, tye phehn ganan lai pha di mathoong maila renan.	
+582	I kathathahn da spy la re.	
+583	Hai rhe thele.	
+584	Nahn di phehn ganan lai di mathoongu.	
+585	Bu di prove themue di kanale.	
+586	Tatham di di...	
+587	Nahn di spy ma spy garhe la re di kanaha garhe.	
+588	Nahn di spy regu State di prove themu diraga.	
+589	Re nahn thai mu ma hate?	
+590	Ame, thai mu mahate.	
+591	I nahn di artistse re lale.	
+592	I biwi, bai di artistse.	
+593	Bai di Children's Orchestra of Moscowvai Musicianne.	
+594	Mwe instrument?	
+595	Harp.	
+596	Oh.	
+597	Ragu, bai di kathungya liaga.	
+598	Nahn dre dinahn thathung ganan laigu, I nah lairizohn miszu ska hai rhui nahn re-re re mazok woanle.	
+599	Hai miszu di yoantha re hai ba nan rung-rung re.	
+600	Re I yoan, ba re rarehn.	
+601	Ranan kani gali gaszu thai ska li the ma.	
+602	Ranan I di bai thrwaha?	
+603	Nika, I di nahn neobe shua thaite.	
+604	Hai rhui di parisan border gaurdpha nan luamie.	
+605	Bu di puidung re.	
+606	Hai ba di kajahn, hai the di kajahn, ranan tye miszu, hai ba baswe, bai di li kajahn.	
+607	I hai miszu di yoan.	
+608	Bai di kaszu rarehn bai thathung lehn-lehn re.	
+609	Ragu bai di tre mahnnan kaszwe.	
+610	Bai thathung lehn.	
+611	Hai nyavai maram da nan lairahn bai di kajahn ma ganan lia.	
+612	Bai di phacha.	
+613	I athoo li mazok woan laire.	
+614	Di di, dre, uh, thathunge miszu reha thrathrahn.	
+615	Thathunge miszu.	
+616	Hello, Jim!	
+617	Millie, nahn asza matikza le szule.	
+618	Mortie tharahn thele re za ganan laile.	
+619	Relaili dhohn.	
+620	Scotch, Jim?	
+621	Oh, ay.	
+622	Szukhiate.	
+623	Uh, rhui za thohn rahn.	
+624	Your Honor.	
+625	Hello, Jim!	
+626	Sahn rahnte re laile.	
+627	Re laili matam dika lai laire.	
+628	March of Dimes thing.	
+629	Millie bathanahn marek laire.	
+630	Szukhiate I di rumie byahn.	
+631	Sentencingvai maram hanahn di ivai phanunge za rung mua nan.	
+632	Rate ragu, I nan rung mue mazohn hadi legal yahn nahn li relate the khama li dhohnha rairenan, nahn la rhui da zha lalanan rung rahnre reha.	
+633	Ame, hai di diyapha case te.	
+634	I li hai case di kaszuka zazule re la ma trial matam da lai, riri nahn nan rung ganan lai dyenan dre re rung ganan lai laite.	
+635	Hai case hadi mu gali chuchu ma.	
+636	Hai marahn nahn di maram tai mahnne laile.	
+637	Maram tai mahnne!	
+638	Szukhiate, szukhiate.	
+639	Uh...	
+640	Sir...	
+641	Abel di mathia ma ganan wie nan United States byahn szumahn rahn re I nan mazokle.	
+642	Mwethe da?	
+643	I decision luate reha garhe, riri bai cooperate the ganan government thri nahn thaithe rai rahn reda nan, bai di di thya rahnte.	
+644	Mathoongle, riri tye hai nyavai issue di...	
+645	Nahn...	
+646	Hai thehnga.	
+647	United States byahn szu mahn gase,bai di bai mirin pei nan jail nahn thohn rahn re nahn rung szu ma laigu.	
+648	Gare lehnda thi yurvai manunge nan?	
+649	Jail nahn thohnhe di daichu garhe, sir.	
+650	Neo lehnda, Americanvai rank zapzare Soviet Russia nahn choklua szwe reha.	
+651	Chugu neo lehnda hai tri gase byahn kana rahn.	
+652	Wow.	
+653	Tye nan dre nyanym laite ragu re nahn mazokka rehate.	
+654	Uhg, di di nan kapha re lai lehn ma rahnte.	
+655	Dre nyanym laite ragu re di I thai.	
+656	I insurance nahn thaithele.	
+657	Thi mugali rethai ma gase lai ma.	
+658	Thaiszu szu rele hai mazohn dai.	
+659	Thai gaszwe lai byahn da miszu insurance lu laidigu.	
+660	Hai hai nya di mathiete rate ragu, hai hai khlai byahn khohnron batha tai shamma laite.	
+661	Asuida haitrahnpha thathok thai byahn hai mugali tharahn lai thewi ma laite.	
+662	Batha szu majwate.	
+663	Sir, athoo li, za lai ma za ma Laila re li mazokke darker the laire.	
+664	Bai di thai vethaitha re pha ganan vethe matam da hai nan mathai chaha di za gala?	
+665	Ay, Counselor.	
+666	I thai rahnte.	
+667	Szukhiate, Jim.	
+668	I nan tha mi ge.	
+669	Thathung szu retha.	
+670	The United States District Court for the Eastern District of New York di athwenan mathwate.	
+671	Honorable Mortimer Byers nan lakai rahn.	
+672	Mazwehnna ditha.	
+673	Defendant nan thathung mi ra.	
+674	Jury nan count mazohn nahn guilty verdict taha nahn di Court nahn mazok rai ganan, alhohnvai sentence hadi zale re ay re ruate.	
+675	Phehnne mazohn da guilty taha raire, defendant hadi Attorney General of the United Statesvai gae nahn thohnmi laite kum 30 jail nahn thohn gase byahn, kie nya jail nahn thohn gala redi bai nan kata rahn.	
+676	Marshal nan defendant di choklua szu rahnte.	
+677	No...	
+678	Electric da mathapthai ma gigala?	
+679	Mathapthai ma rahnte.	
+680	Mathapthai ma rahnte.	
+681	Bai di mwethe da hangthe ma gala?	
+682	Haithaimai mung da, mwethe da bai di hangthe ma gala?	
+683	Mazwehnna mira, sir!	
+684	Bai di mokrhu miszu!	
+685	Bai nan hai di mathai ganan laiha!	
+686	Haithaimai mung da, mwethe da bai di hangthe ma gala?	
+687	Di di mathoongle!	
+688	Bai di spy!	
+689	Mr. Donovan!	
+690	Mr. Donovan!	
+691	Question ska chu.	
+692	Question ska daichu, sir.	
+693	Ivai galup!	
+694	Ivai galup!	
+695	Ivai galup!	
+696	Thuza gali rung mwe lai ma.	
+697	Mr. and Mrs. Donovan question nue di rungkai ma.	
+698	Nahn gare mazok lai, haivai yur nan tra ganan lai di kappa di la?	
+699	Mr. Donovan, nahn verdict di di ay re mu laila?	
+700	Hai...	
+701	Hai case di appeal the gase byahn, uh, hai arung bathanahn thre nan laile.	
+702	Appeal?	
+703	Uhg, appeal.	
+704	Jim, nahn bathanahn szunan thiate.	
+705	Nahn mwe di kana lai la redi daichu the ma ganan shehn mahnnan thiate.	
+706	Riri tye miszu di spy ye.	
+707	Tye verdict di di mathoong laite, appeal the gase maram lai mate we.	
+708	Procedural maram nahn batha appeal theszu gere laile.	
+709	Bai rhui kapuie di mathoong ma redi thaile.	
+710	Rate ragu Fourth Amendment yahn da li bathanahn appeal the gaswe maram laile appellate forum da.	
+711	The szuge re maran bathanahn laile.	
+712	Nahn mwe maram nahn rung ganan laiha la?	
+713	Hai nan the gere di bai li the ngamme lawyer ruwe redi thai gase byahn, re hai di di thiahate.	
+714	Nahn mwethe da I la constitution rungthai ganan laiha la?	
+715	Tom, gathathahn da nahn I nahn yoan ganan appeal the gase maram lai ma regu, I athoo ngalang da hai case di phacha rahn.	
+716	I dre rungha garhe.	
+717	Nahn I nan runge di phabtale wi.	
+718	Tom nan runge di szu khama gathie thaiszu reha.	
+719	Uhn, dreha.	
+720	Szu Khama nahn rhuikha nahn li rate ragu nahnvai thai nahn lai.	
+721	Batha sahn laite music lhung khama.	
+722	Bu radio di checkthe, pao pharu szu gase dhohn lai mle renan.	
+723	I li di di khanne.	
+724	Shostakovich.	
+725	Mmm.	
+726	Bathanahn pha, lhehn the thethai miszu, Shostakovich.	
+727	Uh, kadai, hai nan appeal the gaswe maram kapwi di ain nan ay rele.	
+728	Haivai sham gaswe hadi Supreme Court nan ay re ganan yoan lehnne dite.	
+729	Jim...	
+730	Nahn nung mathung tha.	
+731	nung mathung tha.	
+732	77 Sunset Strip	
+733	Edward Byrnes.	
+734	77 Sunset Strip	
+735	And Richard Long.	
+736	Good morning, Suzanne.	
+737	Good morning, Dick.	
+738	Nahn la hanahn special delivery letter wi szale.	
+739	Oh, bai la.	
+740	Athe!	
+741	Mwetheha la?	
+742	Neorai, nahn nahn thezu ma ma?	
+743	Athe!	
+744	Nahn nahn thezu la?	
+745	I nahn bai di yoan rahnte.	
+746	Upstair nahn!	
+747	Thezu-zu ma?	
+748	Aba, I akahn nahn mazwehnna ganan zhui ganan liaha!	
+749	Nahn nahn thezu ma?	
+750	Thezu-zu ma?	
+751	Aba, I akahn nahn mazwehnna ganan zhui ganan liaha!	
+752	Szuate, szuate.	
+753	Window yahn nahn garhe nan!	
+754	Szuate, szuate, szuate.	
+755	Szuate neorai, szuate.	
+756	Mugali thema.	
+757	Mugali the mate...	
+758	Mugali the mate. Bu thate, bu lai mate.	
+759	Malung dhohn khama pha.	
+760	Thate.	
+761	Detective kika rhui khuniya nahn ngathing thaile.	
+762	Garivai details ru szwe, riri batha ningmongle.	
+763	Hai di nya ganan yoan kana rahnle.	
+764	Oh, I di gari khanika hanahn khle wiate re runge.	
+765	Hai di...	
+766	Kathehnka sahn?	
+767	I Washington nahn ve sza asza hata.	
+768	Mwethe ganan laiha la?	
+769	Nahn nahn rhuikha nahn mwethemi ganan laiha la?	
+770	Gare nan, Officer?	
+771	Nahn athooli hai miszu la di thungmi ganan lai di?	
+772	Nahn mwethe da bai byahn nungthi ganan laiha la?	
+773	Wia dai, di dai, Officer.	
+774	Mugali wia gase lai ma.	
+775	I Omaha Beachvai third wave pha nahn dhohn.	
+776	Hey, I li yur byahn chikat ganan thaithe.	
+777	Haitrahnpha miszu nahn rhii the, raganan nahn nan athoo haitrahnpha miszu la nung thri ganan laiha la?	
+778	Nahn gare lehnda officer skavai thaithe ma lai?	
+779	Ame, I szuiate.	
+780	Kha sahn diga.	
+781	Kha.	
+782	You know what?	
+783	Dre wia.	
+784	I hanahn mwe phabta maha la?	
+785	Asahn nahn, Officer.	
+786	Szuiate.	
+787	Commie spy la thungmi ha.	
+788	Athe!	
+789	Nahn hai thathok di thethile re la laila, sir?	
+790	Hai aircraft hadi Soviet lhai nahn phacha rahnte re matam da, thepakhi gase two-and-a-half pound explosive charge dhohnle main body nahn fuselage.	
+791	Makhwa mahn nan, circuits di on thia ganan.	
+792	Riri hai 70-second timer hadi matha gase the gase, hai Destruct re switch di activate the geraha.	
+793	Hai flights hadi thia mu khama, choklua mu khamaa, rate ragu khutlai hadi yoangathie gae nahn vedhohn mu khama matika darker thele.	
+794	Ragu hai diga?	
+795	Nahnvai di ka ma kathahn la, Lieutenant Powers.	
+796	I karithe ganan laiha garhe.	
+797	Nahn hai planevai maram thai di di hai plane di thaiha zapzale.	
+798	Choklua phrung rahnte redi thiate ragu, plane thrinahn dre kohntham matha.	
+799	Ragu kada ka, nahn di border nahn matikaza khunia ganan emergency da khlia ganan szamtha ngam rahn regu, kaima.	
+800	Nahn ejection protocol thai laite.	
+801	Riri kada ka, emergency landing the matam da, nahn dollar hadi laphu geraha.	
+802	Athoonge nahn pin ska dhohnle.	
+803	Di di lathia ganan nahnvai awui nahn kathra gereha. Hadi ngalang da the geraha.	
+804	Nahn di choklua phrang rahnte re matam da, hadi shijin geraha.	
+805	Drivers, phabta lai dima?	
+806	Dollar di the niatha tha.	
+807	Mr. Katha thiye Chief Justice ragwenan Court.	
+808	Cold War re hadi jaa da daichu garhe, Your Honor.	
+809	Jaa thum li garhe.	
+810	Kathathahn da, rhii sha ganan laile.	
+811	I Rudolf Ivanovich Abel byahn thung mi ganan laile, Colonel Abel, re bai di chokla miszupha nan li thyi rai renan, di haivai yoan gathia.	
+812	Auxiliary power?	
+813	Khanikate raganan on.	
+814	Oxygen seat-pack supply?	
+815	Supply at 1,800 psi.	
+816	Inverter?	
+817	On thia, hettate.	
+818	Bai di tye rhii nahn di sha ganan lai miszu ska re tha ganan treatthe, havai government byahn advandage lai mate re laini mazokla maga.	
+819	I nan chue di mathoong laite rate ragu, haivai miszu la hai nan protection mie tha renan, bai la mi ma.	
+820	Bai di mingmong ganan chokla criminal tha renan yoan ma ganan, rhii sha ganan lai matam da yoangathia di chokla ganan treat the lehnda treatthe.	
+821	Fuel transfer?	
+822	Transfer switch off.	
+823	Destructor?	
+824	Destructor safety.	
+825	Climb data card.	
+826	Aircraft nahn thohnte.	
+827	I bai di mathetle.	
+828	Bai di phehn ganan lai di mathoong laite ragu, bai foreign government byahn thaithe laga relaili bai faithfully the ganan laiha.	
+829	Bai hadi yoangathie yahnvai spe ga relaili, bai hadi spe gaswe.	
+830	Bai bai mirin kan gase rhii sha ganan lai thahn da szam tha ma.	
+831	Bai bai di chokla miszu byahn thaithe meyate.	
+832	Bai bai khalai lehn di betray the mu mate.	
+833	Bai malung dhohn khama laipui la meyate.	
+834	Malung dhohn khama miszu da nan rhiithe thahn da szam pri lairi da, baivai khaya di phacha ganan szamtha di geraha.	
+835	Hadi, Rudolf Abel thephe masza.	
+836	Hai, bai la baivai mashun mazohn di mi ganan haivai government nan mashun wasakke di, thai mai ga rehala, Hai di thu la re dai.?	
+837	Hai di thu la re dai.	
+838	Hre haivai mashun hadi, haivai governmentvai amahn value lai di thethai hadinan hai Cold War vai szu mahnne khi-mari garhela?	
+839	Buvai nung mazokke di haivai nung mazokke khan mahnna ma gala?	
+840	President nan, NASAvai weather plane ska Turkeyvai atra yahn nahn thai ganan phelama ganan liate re phungmiate.	
+841	Dye nyevai pilot li plane akye nahn zhathohn swehnna di mle re Space Administration nan rung ganan laile.	
+842	Radar nan runge suisuinan: pao pharuwe di za pri lairi da plane di di Soviet lhai nahn dhohn khakhahn nan thathai redi shing khakhahn nan thiate re rungle. Miszu phathohn ganan khamohn di di vegahn la ge redi bathanahn thokle re rung ganan laile.	
+843	Athwenan Washington news lhung diga.	
+844	Asza, Supreme Courtda Russian spy Rudolf Ivanovich Abelvai case hanahn di judgepha nan vote thohnru ganan, bathanahn khuni khakhahn nan four votes guilty garhe re di five votes nan guilty re nan thawate.	
+845	Case hadi civil liberties maram nahn la reha, Russianvai lawyer, James B. Donovan nan.	
+846	Nahn aszavai case tha khama nahn di gare mazok laila re nue matam da, Mr. Donovan nan khehn khakhahn nan runge, Mah laite re.	
+847	Pao drung mahnnan lai laire hai nya suida.	
+848	[NO TRANSLATION]	missing translation
+849	Kappate.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	I, tye Prudential casevai file di kapiu la ma maila.	
+853	I, uh, Mr. Watters nan Jack Elwesvai office nahn lathohnte re, rate ragu tye appeal thevai first draft lai re nan.	
+854	Bai nan runge?	
+855	Uhg, thahe hatta, bai nan draft the lehnnate, nahn Washington nahn lai matam da.	
+856	Kathehnka lai dai hai thaithe raiha?	
+857	I deal ska li the ngamma re nahn la maila.	
+858	Meeting tharahn thia.	
+859	Athahn gaswu ska nahn.	
+860	I thaile Mr. Young li bathanahn manung rahn athahn gaswu-swu New York nahn lai pha dai.	
+861	Ranan tye nahnvai summary pha di I la mi...	
+862	Nahn thuthuka mathet laila, Leipzig miszu?	
+863	Leipzig.	
+864	Athwenan Germany da I di matrehnnevai mail ru matha lai dila?	
+865	East Germany da.	
+866	Nahn biwi la?	
+867	Garhe.	
+868	I biwi garhe.	
+869	I biwi theyik ganan laiha riri bai theyik li theyik thai ma ganan.	
+870	Letter hadi katrehnphak renan rak ganan laile newspaper da phre la ganan nahn nan kathaiprai, laikathie, prehnne lai khakhahn ganan I biye, Rudolf Abel byahn themiha mazohn bayhn.	
+871	Ragu I rak pwetta gala?	
+872	Ame, kaima...	
+873	Athwenan nahn gare the rahnte re lai lai tye kari di di mwe kari la re thai ma ganan?	
+874	Francis Gary Powers...	
+875	U.S.S.R. lawvai Article Two Thuthuka nan yurvai ain ki ganan ay re khama thai the hadi kum 10 chok lalanan wi rahn, ranan kum 10 vai da makhwa kum katham di jail nahn lai rahn re rakwie suisuinan.	
+876	Tye punishmentvai matam ragwenan choklua ganan court nahn lakai prievai matam hadi May 1 1960 da phre matha rahn.	
+877	Mr. Donovan, bathanahn szukhiate re bayhn.	
+878	Bathanahn nungaile ru mie byahn, Mr. Dulles.	
+879	Bathanahn szukhiate, sir.	
+880	Nescafe, cream, abam khanika.	
+881	Szukhiate.	
+882	Hai letter nahn la phwette.	
+883	Hadi Soviets rigatrahntrahn rung mu lai wile.	
+884	Bu East Germany yahn da the ganan laile, renan bu athooli Abel hadi Soviet spy redi wiya ra ganan bu miszu redi phapha li acknowledge the me laire.	
+885	Re...	
+886	Bathanahn garhe-rhe rung ganan laile.	
+887	Ame, sir, riri mwethe nahn bu dre rungha la?	
+888	Bu gae nahn hai miszu chok wile, haivai spy pilot.	
+889	Hai gae nahn bu miszu chok wi.	
+890	Tri ruwe, di di the ga reha rahn.	
+891	Nahn li hai maram nahn di phanunga nan lai rahnte, Counselor.	
+892	Thi asuida theszu redi I phanungle nahn thiathi nan lai rahnte.	
+893	Ame, I thiathite, I di phakthe szuiaa male.	
+894	Szuate, nahnvai phanunge mathoongate.	
+895	Red letter day.	
+896	Hai miszu dinahn alile.	
+897	Powers.	
+898	Miszu gaszue, riri ga nahn information matikza thokke pui nan laphule.	
+899	Abel li bai ga nahn bathanahn thokke information puidung re laphule, riri bai hai la hai raka li rung ma.	
+900	Sir, I nan runge di mathoongle, bai kada gali runphe ma sza.	
+901	Ame, hai mazhohn thaile, bu Russian di rungphe male.	
+902	Bu bu miszu hadi nan classified information share thiaga redi tra ganan athwe da lohnha di di manung.	
+903	Rate ragu hai li Powers di maram zapzarevai lohn da thunan lohnha di manung.	
+904	Nahn nan rung ganan lai di, sir, hai byhan li bu byahn li gaszu da kapthohn alam laile reha mala min.	
+905	Uhg laile, hai, um, bunan runge di ay re gu.	
+906	Hai, nahn di prisoner exchange maram hadi vezak mu mule, renan nahn di private citizenne, hanahn di gaszuka government di dhohn mu muprie.	
+907	Bu abel di Soviet citizenne re di ay re ma, rate ragu hai li East Germany di sovereign country re di ay re ma.	
+908	East Berlin di Soviets nan 1945 da makei laha suida, hai East Berlin di sovereign country re la mala.	
+909	Re, I di zakmie theta reha, thuza byahn thungmi...	
+910	Nahn thuza byahn gali thungmi ma.	
+911	Nahn government official garhe.	
+912	Nahn government nahn mugali mari lai ma.	
+913	Haivai yahn nahn li tatham za sam lalanan runszu ma rahn.	
+914	Rungszu ma rahn.	
+915	Rung ganan lai dinan, ame, nahn thuzavai da gali ay re khamie rate ragu mating laszu ma hai thai di thaiszu ma lai lai.	
+916	Thai di woanthai ma laili CIA nahn matham or phehn szu ma.	
+917	Hai di gatha mu szuma.	
+918	Hai jaa zakka redi kada zakka reha la?	
+919	Di da.	
+920	Di da?	
+921	East Berlin.	
+922	Wi, re East Berlin thathok athoo-thoo...	
+923	Uhg, tye thahn di athoo-thoo matikaza thetthi ganan laile.	
+924	Ame, thetthi ganan laile.	
+925	Soviet side yahn checkpoint lungkai ganan lai hate, miszu Western sector yahn nahn szam thahe di kham gase, ranan di di li woanta ma re ganan laihate.	
+926	Intelligence nan pao ruwe suisuinan, bu hai miszu szam thahe di kham gase, athoo the ganan lai nahn di li shehn mahn nan the rahnre, Eastern sector mazohn di wall samkhamma rahnre pao chule.	
+927	Re, di dite haiphek nan.	
+928	Decision di nahn mathak nahn lai hate.	
+929	Nahn matam za la mu laila.	
+930	La mu ma.	
+931	La mu ma, I la ma rahn.	
+932	Kaima. Szuate.	
+933	Szuate.	
+934	This ba thai mu mai li zhuinan wiga.	
+935	Hadi, uh, Mary nahn li rate ragu thuza nahn gali zakmai ga.	
+936	Hai maramvai pao di hai la daichu phara.	
+937	Hai la bu mwe the mu laila, rate ragu kanigu redi rung ra.	
+938	Thuza byahn themi gala re li thai ma, biwi la li rung mu me, yur nan li thung tri ma rahnre.	
+939	Phabta mate I mwethe ganan laiha la, thuza byahn, or kanigu.	
+940	Nahn nan the ganan lai di nahnvai country byahn, riri nahnvai country thai prye.	
+941	Ragu Ivai client, I nan thungmi gere phabta lai dila?	
+942	I miszu?	
+943	Nahn miszu?	
+944	Tye russian la?	
+945	Bai di nahn miszu garhete, Counselor.	
+946	Nahn miszu di Francis Gary Powers te athwenan.	
+947	I gare runga gala Rudolf Abel?	
+948	Zha maitha re runga.	
+949	Professor?	
+950	Professor?	
+951	Hai ba university nahn thae.	
+952	Nahn hanahn re ma geraha, Frederic.	
+953	Bu asza class lai laila?	
+954	Bai lai lai maila re thae.	
+955	Di di veyoan rahnre thae.	
+956	Nahn hanahn mwethe da reha la?	
+957	Nahn gali nai ba di re zhehnla rahnre re.	
+958	Nahn I thrinahn re dai.	
+959	Nahn chugu di sahn lehn szu ma rahnte.	
+960	Dre...	
+961	Dre tha ditha reha la?	
+962	Uhg.	
+963	Uhg, tha ditha reha.	
+964	Athoo.	
+965	Woan dai.	
+966	Woan dai.	
+967	I mugali the ma rahn, I di Americanne.	
+968	Woan dai.	
+969	Nai ba thrinahn woan dai.	
+970	I laipui kapiu lwa rahn.	
+971	Woan dai.	
+972	Hey!	
+973	So, hi.	
+974	lairak, thahnka.	
+975	I Frederic Pryor, lairak katamma neo.	
+976	Ame, lairak katamma neo.	
+977	I mung di Frederic Pryor rele.	
+978	I economics katamma neo.	
+979	This?	
+980	Thi I nan katam ganan lai subject maram nahn rakha.	
+981	Ivai thesis se.	
+982	[NO TRANSLATION]	missing translation
+983	Thi, thi.	
+984	Yoan European Communist nationsvai ari nahn thaikhalai lahn.	
+985	Huh?	
+986	Matikaza thok nahn rakha.	
+987	Di di daichwe, lua szu ma rahn.	
+988	Frederic!	
+989	Runge ra.	
+990	Akhai da rungha.	
+991	London nahn li buvai office laile ga.	
+992	Hai clientpha.	
+993	I nan drega reha garhe.	
+994	Hai Scotland nahn khithe kapiu ga redai.	
+995	Katrahnpha khithe kapiu ve rahn rehala, Jim?	
+996	Salmon khithe.	
+997	Thi, mahosa, thaivai lohn da ve rahn reha, mugali sham kathie laima re rung, rate ragu I bokkhanahn ma geraha.	
+998	I, Ivai passport kanale rahn.	
+999	Zaka za rung khanahn ra, i bokhanahn la ma.	
+1000	I mathoonge mathoong khama di thai muha garhe.	
+1001	I nan thi the ganan lai di hai byahn.	
+1002	Mr. Michener, nan Berlin nahn, nahn di zhanve-zhanwoan ganan mating bang rahn.	
+1003	Bai hadi US embassy byahn thai themi ganan laile.	
+1004	Re, hadi matika thok laite.	
+1005	Uh-huh.	
+1006	Nahn li thaile, tye laini Mrs. Abel, rele reha ma, ruwe nahn di East Berlin nahn lai lawyer, Mr. Vogel, rele reha ma, bai bayhn thungmile re, bai nan runge.	
+1007	Uhg, Vogel Berlin nahn lai Russian embassy nahn veate, bu abel byahn power di tri mu phaphe gamle re runge ga.	
+1008	Riri thuza di thuza la re thuza gali mathet ma, riri bu mazohn szuka Russian szu re rahn, garhe la?	
+1009	Soviet.	
+1010	Dre szue nan lai rahn.	
+1011	Renan?	
+1012	Heat di za karhai kaiga rela?	
+1013	Bathanahn athokke lairahn mai.	
+1014	Nahn thala szu khama li bathanahn themi rahn mai bu.	
+1015	Powers di garhe nan chatha prisoner lua mu gase li the rahn.	
+1016	Chatha American la?	
+1017	American lairak katamma neo ska East German Stasi nan chokluate ga.	
+1018	Frederic Pryor.	
+1019	Uh, neo ska Wall da eyahn nahn thai ga.	
+1020	Yale da graduate kapthohnha.	
+1021	Hanahn re ga economics katam rahn re.	
+1022	Mmm-hmm.	
+1023	Re, bu hai neo di espionage nahn phehn rahnre laile.	
+1024	Matiza thokke offense se, capital punishment li mi gaswe crime me.	
+1025	Reda.	
+1026	Vogel nan hai nahn bahn ru ganan bai Pryor byahn thungmile re runge.	
+1027	Chari.	
+1028	Vogel nan thungmiha Mrs. Abel rate ragu hai... Hai neo lai redai?	
+1029	Uhg, bai matikaza zale.	
+1030	Wi, rate ragu, bai di mwela?	
+1031	Vogel, bai di, uh, East German ma Russian la?	
+1032	Bai nahn nue latha, bai di ruwe matam da.	
+1033	Chugu lhunglehngu, Russian embassy, East Berlin nahn lai da.	
+1034	Gare ve gala redi Hoffman nan rung rahn.	
+1035	Chari, rung gare lehn da ve gala?	
+1036	I di zhahnphu rahn.	
+1037	Min?	
+1038	Wi, dre rahnre lai, riri I nan runge tha renan bathanahn thokke laile.	
+1039	I nahn di zhahn re ma sza.	
+1040	Decision katate.	
+1041	U.S. government miszu thuza di gali karha chehn szu ma sza, chehn szute rema kasahn.	
+1042	Gare lehnda?	
+1043	Bathanahn dangerous thele.	
+1044	East Germans nan hai neo di choklua hate.	
+1045	Bu nan bu nahn thezuwe lai lai mai la re mazok ma ganan hre the rahn re hai ska li mazok ma.	
+1046	Rung nan lai dinan East Germanvai agenda gali Russianvai agenda hadi zapza malai wile, reha.	
+1047	Buvai charuwe di thia ganan dyenya suisuinan theve tha.	
+1048	Ranan jaa di kapthohn tha.	
+1049	Powers di Abel byahn.	
+1050	Regu, hai college katamma neo, Pryor di ga?	
+1051	Mmm-mmm.	
+1052	Di di nan mazok li mazok mai.	
+1053	Bai dyenan nika nigu lathia rahn.	
+1054	Powers di daichwe haivai kharin dai.	
+1055	Nahnvai room kadi la?	
+1056	I Hilton nahn lai sza.	
+1057	Chu mah.	
+1058	Thi West Berlinvai number te.	
+1059	Mazok wia ranan mi lahn I la.	
+1060	Garhe, garhe.	
+1061	I...	
+1062	I nan runge di athu reha.	
+1063	Soviets nan internationalvai linepha di kacha-cha rale, riri local callpha dyenan mugali thema.	
+1064	Miszu ska nan lhunglehn szulehn rephung lala re rahn.	
+1065	Hai docket nahnvai passport nahn thezhahn wisza hadi Eastern Soviet sector nahn dhohnhe sahnhevai nahnvai tickette.	
+1066	Vogel nan ru gase meeting hadi chugu lhunglehn nahn khayei wi laite.	
+1067	East yahn nahn ve gase laipui drungka pat mate.	
+1068	Nahn S-Bahn la geraha, tye station, laipui dhohn lhehn da hai nan nahn la thaitha.	
+1069	Nahn Friedrichstrasse station hada kohn geraha, ranan Soviet embassy, Unter den Linden hanahn nahn zang da ve geraha.	
+1070	Map di szuraire yoan laite athoo.	
+1071	Nahn map hadi laphu ma geraha.	
+1072	Nahn map yoan ganan thai, ranan nahn di American thepa re laite ragu, spy re renan.	
+1073	Nahn di choklua geraha.	
+1074	Ba nahn bahn maite.	
+1075	Nahn...	
+1076	Nahn hada garhe, rerai renan nahn di ningmong mu szu phema.	
+1077	Pheza diyahn da tangle, ra ganan batha lehn matikza woan tama ganan laihate.	
+1078	Miszu kathiepha li kangpu da laile, ranan ain parre di li diyahn da free the mahnle.	
+1079	Wall nahn khanik li khanik maitha.	
+1080	Bu yahn, Wall ririvai rhuipha li lacha szu rate.	
+1081	Bu hai line di Death Line re thyile.	
+1082	Thi chehnna susunan mjepung da kap di geraha.	
+1083	Kadaka teida ra laili, choklua ma gere pha rate ragu mjepung da kap ma gere pha alam lai lai mai?	
+1084	Michener nan runge di pokhanahn shehnria mai.	
+1085	Garhe, I nahn nan rung ganan lai nahn di pokkhanahn ha.	
+1086	Hai neo, Pryor, tye East Germans nan chokla wie di, gum kaszuka lai dai?	
+1087	Maguia ganan phange.	
+1088	Gare nahn?	
+1089	Dougie shua lia ga.	
+1090	Thuza?	
+1091	Eh, Ivai associate.	
+1092	Frederic Pryor.	
+1093	Ame, ame.	
+1094	Danke.	
+1095	Szuiate re rung mule, thi runge da nahn nungai khama thia gu.	
+1096	Uh...	
+1097	Coat?	
+1098	Okay.	
+1099	Nahn English phabta-ta mai?	
+1100	Phabtale, sir.	
+1101	I James Donovanne.	
+1102	I Mr. Vogel di ru rahn renan hanahn reha.	
+1103	Mr. Vogel.	
+1104	Bai hanahn thaithe ma.	
+1105	I dre bai di ru gereha.	
+1106	Di di daichu I thaile.	
+1107	Mr. Donovan!	
+1108	Akhai lehnda ruwa kathathahn la.	
+1109	I Helen Abel.	
+1110	Hai biye gare lai lai?	
+1111	Oh.	
+1112	Bai mugali thema.	
+1113	Ivai Rudolf gare lai lai?	
+1114	Thai ganan lai maramvai da bai shehnnan nungai ma ganan laile.	
+1115	Bai hai trinahn woan khlai rahnte min?	
+1116	Thi hai neo lewi.	
+1117	[NO TRANSLATION]	missing translation
+1118	Lydia.	
+1119	Nahn Mr. Vogel la?	
+1120	Garhe, garhe.	
+1121	I Vogel garhe.	
+1122	I cousin Drews.	
+1123	Thi Rudolfvai khunie mahnne cousin Drews.	
+1124	Ame, cousin Drews.	
+1125	I cousin Drews.	
+1126	Cousin Drews, ame.	
+1127	I Helen Abel.	
+1128	Nahn kanigu bai di ru ganan?	
+1129	Kanigu naivai government bai di pha ganan?	
+1130	I, uh, szuraire phabta ma.	
+1131	I Mr. Vogel di ru ga renan reha.	
+1132	Oh, Mr. Vogel di haivai lawyerre.	
+1133	Exchange maram nahn hai uh, zakri geraha.	
+1134	Rudolf di hanahn la woan gase byahn la?	
+1135	Uhg, ame, hanahn la woan gase.	
+1136	Riri didi ska yahnvai da daichu theszu male, di di phabta-ta mai?	
+1137	Exchange the geraha.	
+1138	Hanahn thaima rehala?	
+1139	Shh.	
+1140	Shh.	
+1141	Shh.	
+1142	Mr. Donovan?	
+1143	Mr. Vogel.	
+1144	Garhe, garhe, bai garhe.	
+1145	Szuate.	
+1146	I mung di Schischkin rele.	
+1147	Ivan Schischkin.	
+1148	I Soviet embassy secretary khanie.	
+1149	Di di shehnnan za ma rahnte Mr. Vogel di dhohn ra re dai.	
+1150	Bai di German miszu.	
+1151	Re nahn hanahn maga the gase garhe nan...	
+1152	Meeting hadi mapungpha mahn nan lave gase byahn.	
+1153	Uh, re Mrs. Abel athahn ska nahn haithehnga sahn liari gala?	
+1154	Hai Mr. Donovan gali I bahn lairi da?	
+1155	Szukhiate.	
+1156	Re, I szuraire phabta ma.	
+1157	Gare nan.	
+1158	Uh, personnel exchange maram nahn zak kasahnnan I thuza nahn zak gala re di I byahn mugali the ma.	
+1159	Zak gere miszu di nahn di la?	
+1160	Ame, ame, amewi.	
+1161	Uh, hai zakga.	
+1162	Mazwehn szu, Mr. Donovan.	
+1163	Uh, nahn Eastern sector nahn gare re nahn?	
+1164	Train da.	
+1165	S-Bahn da.	
+1166	Ah, nahn chu re ma?	
+1167	Ame. I chu re.	
+1168	Re, nahn di hai thai byahn phaha dila?	
+1169	Nahn Ivai maram thiathi laite sir.	
+1170	I private citizenne.	
+1171	I lawyerre, Brooklyn re United States nahn lai thahnvai, Ivai thaiza mazohn di khlewia ganan I, Ivai client Rudolf Abel la mating pang gase thaile.	
+1172	I la, Abel di Francis Gary Powers tri gase tharahn the gase byahn ay re miate.	
+1173	Thi Abel la full pardon themihavai exchange the matam da sign the gere lairak.	
+1174	Hai neo maram da I hanahn re.	
+1175	Hai tharahn di thunan thia rahnre I mazokle.	
+1176	Francis Gary Powers byahn Abel, rate ragu Frederic Pryor.	
+1177	Mmm, Pryor haivai nahn lai ma.	
+1178	Lai ma?	
+1179	Naivai nahn lai ma?	
+1180	I Pryor redi chuwate, riri bai di German Democratic Republic nan chokla wiha, Union of Soviet Socialist Republics nan garhe.	
+1181	Inan runge tye first problem dai.	
+1182	Naivai yur amungpha di sahn riale.	
+1183	Ame, ame.	
+1184	Powers di release the hadi, haivai yur marak nahn gaswe lare gase byahn.	
+1185	Exchange the gase byahn garhe.	
+1186	Magula...	
+1187	Magula, nai Abel di pha makhwa hai baswe Germany nahn laipha la gaswe thai ska themie thenan, ra ganan, lhe zaka lia ganan, Powers di pha re dya.	
+1188	Hai idea hadi szule.	
+1189	Ma.	
+1190	Thi kada gali the szu ma hai byahn.	
+1191	Haivai manunge hadi, thi exchange the dye.	
+1192	Nahn nan thyi mumu thyitha, riri tri ruwe the babam rahn.	
+1193	Hai Abel di 48 hours manung da hanahn lare ngam rahn.	
+1194	Hai Abel di mie matam da Powers di li matam zapzare manungle.	
+1195	Hmm.	
+1196	Thi...	
+1197	Hadi impatient plan re thyi szu-szu ma rahn?	
+1198	Dre nahn nan thyi mumu thyi szue.	
+1199	I hai nahnvai impatient plan di Moscow la runga rige, bu mwe rung gala yoanga...	
+1200	Relaili bu li wahnthok rahn mwethe da hai szuka kathoitha la re.	
+1201	I khengam zuvai da.	
+1202	Rate ragu I Berlin nahn batha ma, ranan I rhui nahn woan mu laite.	
+1203	Bu mazok szue, American Abelvai da pao la gere di la szu reha rai renan.	
+1204	Athwenan bu thu khakhahn nan tria muha rahnte, Renan bu nan miszu ru gere, Powers, Pao mazohn mi thia pri rahn re mazok ganan athuwe da tria muha rahnte re.	
+1205	Thi mathoonge thaikhlai lehn garhe, sir.	
+1206	Regu, nahn nan rung ganan lai di, Powers nan thai mazohn di rungate ragu, Moscow tri neo rahn rehate?	
+1207	Garhe la?	
+1208	Abel di, American prison da zha nyanym ma laili, neo lehnda Russian spy choklapha, bu pao rungthai mu magu mazok lehnne darkar the ma gala.	
+1209	Thuza nan rungam laila.	
+1210	Abel li nungairai re batha mu lehn rai renan, bai nan Russianvai secrets zaka thai di baivai katohn gase byahn share the szue.	
+1211	Thi gare lehnda hai thaiha la?	
+1212	Hai di pangkahn lai khama miszu, hai dre haivai thai di theha.	
+1213	Lieutenant Powers tha re.	
+1214	Bai di pilot.	
+1215	Bai 70,000 feet atra da photo kap ganan thai bai di phret lhe matam da.	
+1216	Hrephret lhe hadi haivai country miszupha rhii re batha thoknan lale.	
+1217	Hai merry-go-round di khamet gase the diga, sir.	
+1218	Haivai countries aszui skasza the lehn nate ragu bathanahn the mathoong la thok rahnte.	
+1219	Haivai government nan zak ngam khama jaa zakke darkar thele.	
+1220	I li Moscow la rung rahn.	
+1221	Bu mwe thetha re gala.	
+1222	Miszu drung kakhahn nan, Mr. Donovan, hai tri ruwe di thaimu mu ma.	
+1223	Nahn chugu re phaphehn ma rahn, bu nan runge di zak gase byahn?	
+1224	Powers byahn Abel.	
+1225	Rate ragu Frederic Pryor.	
+1226	Inan rungha tha re nan, Pryor di State Security of the German Democratic Republic gae nahn wile.	
+1227	I thaile, nahn tharahn thengam rahnre.	
+1228	I dyenan embassy nahn lai foreign powervai secretary daichwe.	
+1229	Ay, ay.	
+1230	Nahn Mr. Vogel di rutha.	
+1231	Inan baivai address mige.	
+1232	Mr. Vogel re lai babam liaga?	
+1233	Lai ma da nan nahn mwethe da mazokli mazok gala?	
+1234	Uh, taxi da chunan ve male.	
+1235	Rate ragu phrehn mi nan, Mr. Donovan, overcoat thohnte hai kathung nahn dai.	
+1236	Ivai li luamia.	
+1237	Dre hen phrungte.	
+1238	Tye coat di Saks Fifth Avenuevai.	
+1239	Min?	
+1240	Mr. Donovan.	
+1241	Mr. Vogel.	
+1242	Dhohn szu.	
+1243	Thank you.	
+1244	Embassyvai maram nahn szuiate.	
+1245	Soviets I di host thema lu rahnte ga.	
+1246	Malungphz rai ganan.	
+1247	I thaimu laire bu yahn gare...	
+1248	Kanahn thai laila re di la?	
+1249	Uhg.	
+1250	Rate ragu jaa zakka re nahn di kaszuka nungthohn laila re di lai.	
+1251	Oh.	
+1252	Chaya rate.	
+1253	Mazohn szuka the kazham szurate, garhe la?	
+1254	Inan runge mwe thega rela.	
+1255	I baivai baswe...	
+1256	Baswe.	
+1257	Garhe, bai mathai mahn rahn.	
+1258	Katamma neo?	
+1259	German Democratic Republicvai attorney general baswe neo.	
+1260	Mazwehn natha, prehn minan.	
+1261	Hai sham gathiwi, Frederic Pryor, bai di athahn aszui nan matam za ma ganan thaiha.	
+1262	Riri thathok mazohn szuka hadi gaswe khohnron sham miha szuraire yoan matam da, garhe la, Mr. Donovan?	
+1263	Wi...	
+1264	German Democratic Republic laile re di naivai country nan ay re lathohnmi ma.	
+1265	Bu nan tatham garhe-rhe sam lalanan GDR di lai ma ra, mong ska da.	
+1266	Szuiate.	
+1267	Naivai government di namphu the ganan hai athahn hadi laile re ay re lathohn mu gase byahn, sir, rate ragu nahn li athoo-thoo GDR nahn jaa zak gase byahn lai rai renan, nahn hadi naivai government nan phaha re la ganan attorney general nahn trinahn Mr. Pryor di phawoan gase byahn jaa zak mule.	
+1268	Mr. Vogel, I haivai government nan pha ganan hanahn thaiha garhe.	
+1269	Wi.	
+1270	Neo thai riale re I khanle, Mr. Donovan.	
+1271	Wi, I...	
+1272	I nahn ay re khamie lai ma.	
+1273	Kai mate.	
+1274	Nahn USA byahn thung ma regu, I li GDR byahn thung ma.	
+1275	Ivai client di Lydia Abel re, Rudolf biwi.	
+1276	Rate ragu...	
+1277	Lydia di neo lewie.	
+1278	Biwi di Helen ne.	
+1279	Wi...	
+1280	I Rudolf Abel di tri gase byahn Frederic Pryor di mi laite.	
+1281	Ragu shingkakhahn nan rungru rahnte.	
+1282	Hai Rudolf Abel di lathai matam da.	
+1283	Nai li Pryor, tye katamma neo di matam zapza reda lathai rahn.	
+1284	Matam zapza renan min?	
+1285	Ung, matam zapza renan.	
+1286	Tye miszu tri gere di Russian ne tah laite, bai di American lairak katamma neo minatha nahn tri geraha.	
+1287	Schischkin?	
+1288	Bai di embassyvai secretary garhe.	
+1289	Ivan Schischkin di KGB western Europe nahn laivai chief fe.	
+1290	Bai di mwe miszu la thai ma, riri, bai nan Moscow la haivai proposal di zakmi ganan laile, ranan bu kata neo sza.	
+1291	Coat ska mithohn thi szu-szu ma rahn?	
+1292	Ivai di chate.	
+1293	Nahn gare lehnda coat chaha laga?	
+1294	Spy theha rahnte.	
+1295	Inan coat katha mi rahn.	
+1296	Szuate, renan...	
+1297	Re hai, uh... Hai Vogel di thuza la?	
+1298	Bai di, thuzala hai thai ma.	
+1299	Bai di nahn nan runge tha renan nahn la runge redi mathoong nan lai rahnte.	
+1300	Attorney generalvai baswua.	
+1301	Dre GDR nan hai thathok nahn di yoanthohn mu gase byahn lathohnha rahn.	
+1302	East Germans hai nan recognize themie di bathanahn manung ganan lai skale we.	
+1303	GDR nan Abel di lawoan ngamma ganan Russian la mie matam da, bu Russianvai da thaimie bathanahn ru...	
+1304	Rate ragu di di news headlines nahn matikza rak ganan.	
+1305	Di da di, East German mibatha nan thai ganan map lathohn ru.	
+1306	Relaili hai buvai map di mugali thai mi gase lai ma.	
+1307	Russian di khamataiya the nan latha.	
+1308	Russian di khamataiya the nan latha.	
+1309	Powers di Abel byahn.	
+1310	Re, nahn nan rung ganan lai di hadi kathathahn thaiszue rehala?	
+1311	Ame, nahn runge di lhung laite rate ragu.	
+1312	Hai Abel di plane da la re rahnte, bai di Friday da hanahn la re ngam rahn.	
+1313	Kada ka Schischkin nan ay re di la ngam laite ragu, tri ruwe di gare tri ru ga rela re daichu wahate.	
+1314	Gare lehnda haivai miszu gali buvai miszu di tri ru gala re chu.	
+1315	Haivai miszu.	
+1316	Miszu khanika.	
+1317	Powers gali Pryor.	
+1318	Prehne laigathie nan thawa mu maite.	
+1319	Hai kharin di Powers daichue.	
+1320	Tye Ivy League neo, asiyahn hre Cold War thai lung da Sovietvai economics Berlin nahn katamme di gaswe re khan ganan thai neovai maram di malia.	
+1321	Powers di daichu manungha.	
+1322	Nahn Powers di li manung ma.	
+1323	Mazohn nan Powers di matrehnlewi.	
+1324	Bai baikhalai lehn da mathia ganan commies di television da thaitha re nan rung ma.	
+1325	Bai di America da matrehn laili matrehn mahnne miszu garhe la?	
+1326	Rudolf Abel suida garhe gu.	
+1327	I la mle.	
+1328	Thwa!	
+1329	I za thappia rige.	
+1330	I zaka thappia rige.	
+1331	I nan rungate, hai nan zakke redi zakha suida thappe szue re.	
+1332	Lhungtha.	
+1333	Naivai government nahnvai maram nahn care thema.	
+1334	Nahn di di thaile.	
+1335	Nai thuza di gali.	
+1336	Nai trei-nan-khaniyahn U-2 pilots galhwa nahn thezuate re min?	
+1337	Tra rai pri ganan rate ragu maruh khasuithohn di thuma lohn da, bu di galhwa nahn matikza trenan thezuate re.	
+1338	Dralaili bu nahn di pri mu laire, Gary.	
+1339	Nahn rate ragu nahn baswepha di lai.	
+1340	Bunan thi nahn la miha.	
+1341	Mathra gase, min?	
+1342	Potassium cyanide.	
+1343	Dralaili nahn athooli bu nahn di care thele re la lairi la?	
+1344	Tye destructor unit di gare lehnda sam lai?	
+1345	Di di gare lehnda operate the lai?	
+1346	Mwe explosive da tye unit di charge the lai, rate ragu mwe-mwe thekhi ngam lai?	
+1347	I thai ma.	
+1348	Pilotpha la mu-mu da samha la repha mugali thai ma.	
+1349	Radar nahn kaszuka tainan chunan area mapthe ngam lai prichehnne matam da?	
+1350	I thai ma, I ska li thai ma!	
+1351	Tye April 9th ni Baranovichi nahn lai industrial area rate ragu MiG bomber base di prichehnne di nahn la?	
+1352	I garhe.	
+1353	Thi Ivai prichehn makhwa.	
+1354	Aircraftvai engine-out to glide ratio gathehnka ve ngam lai re di I thai mule.	
+1355	Gare lehn da plane di diszuka tra pri ngamhala.	
+1356	Hai thaile, tye plane di 70,000 feet tranan pri ngamle re dai.	
+1357	Gary, hai thi thaile.	
+1358	Rate ragu hai planepha di gugu nahn pria dila re di.	
+1359	Gugu nahn pria dila, Gary.	
+1360	Hai maram hadi athoo zak prungrahn.	
+1361	Athoo.	
+1362	Ra ganan dasuida nahn za thappe la szue.	
+1363	Sir, thua.	
+1364	Thuatha, sir.	
+1365	Sir, nahn I trinahn prehnmi nan re gala?	
+1366	Ay.	
+1367	Thai rahnte.	
+1368	Ay, ay.	
+1369	Nahn I trinahn prehnmi nan re gala?	
+1370	Ay.	
+1371	Okay.	
+1372	Ne, nahnvai moktrwehnne?	
+1373	Uh-huh.	
+1374	Kapung gaszuka ta lai di nahn?	
+1375	Chi laite, relaili hai thehnka jaa bahnna ganan plane da thai rahnte, mai?	
+1376	Ay.	
+1377	Uhg dre.	
+1378	Lehnthe!	
+1379	Lehnthe.	
+1380	Mathoong laite.	
+1381	Uhg, drenan.	
+1382	Uhg dre thai.	
+1383	Szukhiate.	
+1384	Hai yahn, ska yahn.	
+1385	uhg, drenan.	
+1386	Nahn nan runge tha plane reha la?	
+1387	Hai yahn.	
+1388	Dre thai.	
+1389	Nahn nan propose the nahn di Moscow nan hai hai baswe German Democratic Republic di Mr. Powers di Mr Abel byahn tri ruwe nahn di mating pang rahn re ay re pao ruate.	
+1390	Matikaza szuate.	
+1391	Trie thahn di Glienicke Bridge da tri ga rema?	
+1392	Checkpoint Charlie da trie szu mahn rahn?	
+1393	Ba di thai mu ma rahn.	
+1394	Glienicke Bridge di bathanahn bzthathakle, zhwalehn gu.	
+1395	Glienicke Bridge.	
+1396	I havai side yahn nahn li runga rahnte.	
+1397	Hai Abel di hanahn Friday nigu la re ngam rahn.	
+1398	Re, Saturday zhwalehn gu gare lai?	
+1399	Matam rarehn da katoitle, garhela?	
+1400	Rhui nahn woan ganan szuraire thappe la mule.	
+1401	Re, Saturday zhwalehn gu?	
+1402	5:30?	
+1403	Batha za laite.	
+1404	Re, di dite.	
+1405	Hai number hadi, kadaga rigatrathrahn thai gu.	
+1406	Kai ma, ay.	
+1407	Matam rarehn da lakai miszu lai rahn.	
+1408	Kaszuka li kana ma di gamle.	
+1409	Arrangement theha byahn toast thega rema?	
+1410	Amewi?	
+1411	Armenian brandy.	
+1412	Magunge nahn szule.	
+1413	Szukhiate.	
+1414	Nahn dahn gala...	
+1415	Thi haivai business maram garhe relaili I nahn nahn question dika the nu mule.	
+1416	Nahn rung mu ma gu rung ma laili kai ma.	
+1417	I nan thai di I rungrahn.	
+1418	I hai miszu di ay re mule, nai miszu dai.	
+1419	Bai nahn mwethe ganan bai rhui nahn woan matam da?	
+1420	Wi, yoan rahnte tye hai miszu di athwenan nai miszu wehnna di ma re dai.	
+1421	Athan Inan rungha tha renan, bai khaya lai kakhahn nan re miahate.	
+1422	Bai di nai miszu laire. Shingnan rungha.	
+1423	Amewi, di di mathoong laili mathoong ma laili nahn nan dre rung rahn digu.	
+1424	Hai szuka thokke nahn thahate mahn?	
+1425	Rungra re namphu the mu ma, riri bai mathak nahn sham gathie lai gala bai di hai miszu thia nynym da nan?	
+1426	Wi.	
+1427	Athoo-thwenan miszu mazohn danger nahn laiszu rehala.	
+1428	Cheers.	
+1429	Na zdorovie.	
+1430	Glienicke Bridge da mugali triru ma sza.	
+1431	Gare re nan, sir.	
+1432	Triru ma sza.	
+1433	Frederic Pryor di tri ma sza.	
+1434	Mr. Vogel, ashu hai ay re ruate wi.	
+1435	Ashu, Pryor di Abel byahn triga re ay re ruwe.	
+1436	Athwenan nahn di phak aszwa miszu, phak ska di miszu khanika la szwa ganan laile redi thai laite.	
+1437	Nahn Pryor di Abel byahn hai nahn szwa...	
+1438	Ame.	
+1439	Ra ganan nahn Powers di Abel byahn Soviets nahn szwa.	
+1440	I szuraire phabta ma hanahn di mwe problem laiha la, hai arrangement di party khani, or katham, or mache byahn katohn laite ragu.	
+1441	Mwe cha ruwe lai lai?	
+1442	Hai arrangement di hai party byahn nungszwa woan ma.	
+1443	Hreha, Mr. Vogel, prehnmi nan...	
+1444	Nahn thuza nahn zak ganan laiha la re thaima laiwile.	
+1445	German Democratic Republicvai manunge di.	
+1446	Jaa zakke nahn dhohn, rate ragu sovereign power, United States tri nahn jaa zakke di li thai mue dye.	
+1447	Hai di li sovereign state ska re thai mie di manungle.	
+1448	Sovereign state ska re la gere mahut da nai hai di Union of Soviet Socialist Republicsvai hui zazue re lale.	
+1449	Khehnk kakhahn nan Russians re thyi szu-szu ma rahn?	
+1450	Matam mang ma gase byahn?	
+1451	I miszu ru gere laile, sir.	
+1452	Matam the mang mi ganan la di nahn nye.	
+1453	Thi I mathoong ma ganan rung ganan laigu rahnra.	
+1454	University katamma neo, tye nai nan choklala wie di spy garhe, threat mugali mi ma redi nai li thaile.	
+1455	Ra ganan hai miszu mugali amehn lai khama di tri gase, americans gali Russians trie nahn pangahn gaszezam re manungha.	
+1456	Rate ragu hadi ska sza triha, hai gali naiya khani ska the ganan.	
+1457	Khanika sza tri gere laiha garhe, sir.	
+1458	Thi ska sza tri gerevai tharahn.	
+1459	Ska daichue.	
+1460	I la phabta ma hada di gare lehn da East German Democrats di mszle reha la.	
+1461	Nahn I nahn rung ma ganan Soviets nahn ay ra laidigu.	
+1462	Thi jaa zakha ma jaa thapha la?	
+1463	Jaa thapha da nan, nahn nahn li thezwe lai rahn, sir.	
+1464	Thi benefit byahn daichwe.	
+1465	[NO TRANSLATION]	missing translation
+1466	[NO TRANSLATION]	missing translation
+1467	Nahnvai miszu ru gere di kada la, sir?	
+1468	West nahn.	
+1469	Ku'damm.	
+1470	Szuate.	
+1471	Yoan-yoan dai ri ri di yoan-yoan dai.	
+1472	Eastern sector di West da gare lehn da pandam lai?	
+1473	Hmm?	
+1474	Hai baswe Russian nan haivai capital city di samkai lehn szu ma rahnte re katate.	
+1475	Riri hai hai baswe Russian nan thekhi miha nahn batha laire.	
+1476	Ve ditha, ve ganan hai Russianpha nahn jaa vezak ditha.	
+1477	Hai nan dhohn maige.	
+1478	Pryor dhohn ma laite ragu jaa zakke di kapthohn marahn.	
+1479	Hai bai di hanahn khle wia marahn.	
+1480	Thi nahnvai phanunge ma naivai governmentvai phanunge la?	
+1481	Sir, I hanahn thai laidigu.	
+1482	I nahn nan bahn ganan lai laidigu.	
+1483	Relaili nahn di naivai government nan phaha garhe ganan.	
+1484	Nahn thuzala redi li nahn thaima ganan.	
+1485	Hai li thai ma.	
+1486	Ning ngasharle.	
+1487	Thi Brooklyn garhe, Mr. Donovan.	
+1488	Thika, sir.	
+1489	Rigatratrahn athokke maram I nan zakthai hanahn di I, haivai government byahn thethaile redi thai geraha.	
+1490	Nahn I di thuzala thaile wi.	
+1491	I thai liaga?	
+1492	Uh-oh.	
+1493	Nahn lairak dhohn ganan lai rahn?	
+1494	Dhohn ma.	
+1495	Mugali thema.	
+1496	Nai tha re nan American lawyerpha nan prilaisak re bahnna rahn.	
+1497	Garhela?	
+1498	Nahn bai trinahn ve.	
+1499	Mwethe da?	
+1500	Passport maramme.	
+1501	Mwe...	
+1502	Mwe maram?	
+1503	Mwe maram da?	
+1504	Dre bai tri da ve.	
+1505	Ranan, Frederic Pryorvai mirin di hai gae nahn laile redi malia maitha.	
+1506	Athaimai!	
+1507	I coffee mohn makhwa riga.	
+1508	Ra ganan, tye neo suida Hilton combo rate ragu American breakfast.	
+1509	Ragu coffee re.	
+1510	Tye breakfast khani dradung la?	
+1511	Uhg.	
+1512	Akhwa mahn nan ska, rema...	
+1513	Khani dradrung, khani dradrung prapre nan.	
+1514	Sam kappate ragu.	
+1515	Ranan coffee.	
+1516	Hmm.	
+1517	Nahn hanahn thai ma geraha.	
+1518	Chathakada Germany da lai, American breakfast matikza drung thai mule.	
+1519	Mwethe la?	
+1520	Nahn asza szu kanahn ve nahn?	
+1521	Vogel nan East nahn lai gase byahn I la matam za tharahn themie.	
+1522	Athaimai.	
+1523	Nai nan I di lai muwe hai West yahnvai da kaszuka cha ma.	
+1524	Russian nan exchange the ga re nahn di ay rele, riri East Germans, Vogel nan thema rahn re rung ganan lai maila.	
+1525	Pryor di ru ma rahn re rungle.	
+1526	Szuate, batha szuate.	
+1527	Sovietvai di kappa hate.	
+1528	Hai Powers ru rahnte.	
+1529	Hai Powers ru rahnte.	
+1530	Matikza szuate.	
+1531	Garhe, East Germans tri ma rahn ga.	
+1532	Hai Pryor ru ma rahn ga, tye neo li miszu dai.	
+1533	Mazohn di miszu dai.	
+1534	Didwa, reda nahn hotna laidigu.	
+1535	Reda nahn hotna laidigu...	
+1536	Abel li laipui nahn thai laite, re mazohn szuka chugu zhwalehnvai nahn tharahn thiahate.	
+1537	Haithehnka chari.	
+1538	Thai pri mahnna rahnte.	
+1539	Thai pri mahnna rahnte.	
+1540	Hai tye neo di ru ma sza.	
+1541	Ame, I phabtale.	
+1542	Tharahn kappahate.	
+1543	Athoo zhwalehn pao rue di li dre wia szu rahnte.	
+1544	Mwe pao?	
+1545	East Germanvai da.	
+1546	Tye number I nan nahn la mie nahn di call the.	
+1547	Bu nahn nahn asza bahn mule re.	
+1548	Vogel nan thela?	
+1549	Garhe, um...	
+1550	Office of, uh, Harald Ott, East German attorney general.	
+1551	Mwe manungha?	
+1552	Bai mwe manungha?	
+1553	Ai, dre nahn nahn bahn muha.	
+1554	Relaili mugali themate, dinahn ve lehntha re rung ma rahnte.	
+1555	Ranan, bu miszu gika nahn nahn di shehn nan re mu ma laiwile, rerai renan hai haivai sham hotna lehn ma rahnte.	
+1556	Re I di bai ru muha.	
+1557	Kapung kaszuka da?	
+1558	Oh, garhe, garhe.	
+1559	Lhungtha.	
+1560	Nahn ve kana mate.	
+1561	Kathathahn da, nahn ve ma geraha.	
+1562	Kathathahn da, nahn ve szu ma.	
+1563	Sovietvai di kappahate.	
+1564	Hai thi teta ra mu ma rahnte.	
+1565	I thi teta ra mu ma rahn.	
+1566	Ve szu ma rahn!	
+1567	Arunge di ki maite.	
+1568	Oh, I nan order the.	
+1569	American breakfast di szuraire thelua.	
+1570	Hai jaa zakke hadi khayashie thenan atra level da zakka re mazokle.	
+1571	Bathanahn szukhiate, sir.	
+1572	I la phabta ma gare lehnda hadi diszuka pangapa la.	
+1573	Chathaka da dre, phabta ma ganan liale.	
+1574	Phabta mahn szu gase byahn, Hai, tye katmma neo Pryor di Rudolf Abel da tri gase byahn ay re laite redi I nan rungle.	
+1575	I la Mr. Vogel nan runge, Pryor di nahn bathanahn kanale re.	
+1576	Ame, riri...	
+1577	Ah, hai hainyavai hanahn di lairak rak rahn.	
+1578	Oh, lairak rakke.	
+1579	Amewi, hai bi-lateral exchange hanahn di ay rele.	
+1580	Amwei, amewi.	
+1581	I tye nyavai aratha szuraire phabta ma riri...	
+1582	Francis Gary Powers di li haivai country bathanahn trenan rung ganan laile.	
+1583	Theszu ma rahn!	
+1584	Hainyavai da hai maram hadi bathanahn phabta ma ganan lialia ga.	
+1585	Powers.	
+1586	Mwethe nan bai dai, sir?	
+1587	Bai di manunge di bai la punishment mi gase manungha ma?	
+1588	Thaiha di thaihate.	
+1589	Bai nan pao mi gerapha misu ranan lai rahnte, Abel li dra nan lai rahnte.	
+1590	Reda hai bai di mi gere mahut da chatha nahn nan runge tha re aszuie lai khama di mi laidigu.	
+1591	Hai mathoong mahnle.	
+1592	Thi nahn lwa geraha.	
+1593	Neolehn byahn.	
+1594	Neolehn byahn mazok raga.	
+1595	Ott.	
+1596	Ott.	
+1597	I szuiate.	
+1598	Nahn I la matam hathehnka rhehn szu-szu ma rahn, sir.	
+1599	Batha nungai ma rahnte, sir.	
+1600	Riri attorney general bai thai athokke ska byahn thate.	
+1601	Bai thate?	
+1602	Uhg.	
+1603	Kathie themi maitha.	
+1604	I kapung ska yahn nan phyahn ganan laihate.	
+1605	Batha szuiate, sir.	
+1606	Neorai.	
+1607	Hanahn re raga.	
+1608	Mugali thema.	
+1609	Hanahn re.	
+1610	Uh...	
+1611	Mazwehn szu.	
+1612	Oh, mugali thema, mugali thema.	
+1613	Mazwehnna.	
+1614	Nahn hai thai di manung laila?	
+1615	Bathanahn thai kaszwe, sir.	
+1616	Drenan lairahn.	
+1617	Nungai nan lairahn.	
+1618	Oh, ame, sir.	
+1619	Ranan kana ganan li lairahn.	
+1620	Ranan nahnvai English dili... Dili szule.	
+1621	Ame, bathanahn szule re rung dahnle.	
+1622	Riri bathanahn szue nan szule, sir.	
+1623	Szule, szule.	
+1624	Szule.	
+1625	Inan zakke re miszu nan tha mia, ra ganan I ba nahn bahn mu, ra ganan nahn di aneoshu jaabahn szu gre tha thai.	
+1626	I haithehnka nahn nahn jaa bahn szu ma rahn?	
+1627	Uh...	
+1628	Mugali thema.	
+1629	Mugali thema.	
+1630	I...	
+1631	Nahnvai atai la pao ska miami ra re rungga reha.	
+1632	Riri thi bathanahn shingnan rungge re thai.	
+1633	Phabta mai?	
+1634	Phabtale, sir.	
+1635	Riri bai woan di phyahnha szu mahn gamle...	
+1636	Garhe, garhe.	
+1637	Hreha, I makhai ganan thaile reda rhui nahn woan ganan bik nahn laiha szu mahn rahn.	
+1638	Nahn bai la pao hadi mia szu-szu ma rahn?	
+1639	Miaszu khlairahn.	
+1640	Szuate, tye message hadi.	
+1641	Hai Powers gali Pryor di ruma kasahn Abelvai jaa di kapthohn ma rahn.	
+1642	Phabta lai dima?	
+1643	Phabta laite, sir.	
+1644	Chugu zhwalehngu nahn tharahn thiate.	
+1645	Hai khanika di ruma laite rate ragu, exchange thema rahn re.	
+1646	Tye miszu khanika dai.	
+1647	Khanika, khanika, khanika.	
+1648	Phabta laite, sir.	
+1649	Khanika di thema rahn re laite rate ragu, Soviets la di nahnvai boss nan rung gereha.	
+1650	Soviets la Rudolf Abel di bu ru ma rahn redi bai nan rung geraha ra.	
+1651	Ay, sir.	
+1652	Oh, ranan thi li runga.	
+1653	Athoo maga, Abel cooperate the kakhahn nahn laile, bai di rhuinahn pha woan rahn redi bai phanung thungle.	
+1654	Ra ganan hainan bai la nahn rhui woan ma szate, Soviets nahn di manung mate, nahn rhui yok thai lehn ma szate ragu...	
+1655	Wi, baivai athe-are lehn tria szue re I phanungle.	
+1656	Rate ragu dyeneovai tai di thuza nan phung gala?	
+1657	Pao di sahnka laite.	
+1658	Uh, relaili nahn phabta szu re lai dima?	
+1659	Ame, sir.	
+1660	Phabta szu re laite.	
+1661	Szuate.	
+1662	Nahn hadi miszu kaszue.	
+1663	Oh...	
+1664	Rate ragu thi li runga asza thamok dhohn pri lairi da hai la pao mi ma laite ragu tri ma sza ra.	
+1665	Bai gae nahn number wile.	
+1666	Tri ma rahn re laite ragu, thuza gali zhwa-tha tarkar thema ganan, garhe la?	
+1667	Drele, sir, di di nan aratha laima rahnte.	
+1668	Kathathahn la!	
+1669	Kathathahn la!	
+1670	Karitheha garhe.	
+1671	Anakke za kanale.	
+1672	Thi nahn nan thema prung gere ha.	
+1673	I la runge nan tye thathok di yoantha reha.	
+1674	Nahn la runge di Powers di la tha reha, Pryor di latha reha garhe.	
+1675	Di di original deal garhe.	
+1676	Nahn nan theszuiszu rate!	
+1677	Nahn garelehnda thai lai?	
+1678	I nan matikza hehnle.	
+1679	Nahn nan thekhi szurate!	
+1680	Oh, pokkhanahn mai.	
+1681	Mugali thema rahn.	
+1682	Nahn garelehnda thai lai?	
+1683	Nahn di di thai ma.	
+1684	United States.	
+1685	New York, New York.	
+1686	Danke.	
+1687	Thi I di bu nan chang katam ganan laiha.	
+1688	I one for one awapthe gala, rate ragu thuza the rahn ragu?	
+1689	Reda I nan Gaehe, khanika byahn ska.	
+1690	Bu haivai manunge di thaile.	
+1691	Uhg, kada ka ranan bu nan mazokka ganan, uh...	
+1692	Ai cha dai!	
+1693	Haivai miszu di nai nahn dre wia dai, naivai di haivai nahn dre wia rahnte re rung da nan?	
+1694	Wi, drada nan I nan theszuisu ra laidigu.	
+1695	Hey, honey!	
+1696	I.	
+1697	Ame.	
+1698	Thai li batha szunan thaile.	
+1699	I London nahn laile, meeting ska lai laire di di dhohnte rate ragu, rhui nahn woan rahnte.	
+1700	Ame, ame, mazokwoan laire marmalade dai.	
+1701	Regent's Park lia nahn tye dukan di lai laite.	
+1702	Ay, ay, I matam ru laite rate ragu.	
+1703	Hey, Roger di haithehnka bahn szu-szu ma rahn?	
+1704	Tye neo lewipha nahn bahn szu-szu ma rahn?	
+1705	Za ma ganan alpha lai lai mai?	
+1706	I lai ma re zang dyenan bu thai lai mlia?	
+1707	Ay rate.	
+1708	Khanika byahn ska.	
+1709	Szuate.	
+1710	Mohn diga.	
+1711	Problem ska.	
+1712	Mwe nahn?	
+1713	Bu Pryor di Powers trinahn tye matrii da pha ma rahn ga.	
+1714	Bu li matam zapza re pha rahnga.	
+1715	Russians nan Powers di matrii da mie matam da, bu li Pryor di Checkpoint Charlie da pha rahn ga.	
+1716	Re di di mwe reha?	
+1717	Di di Ivai mazokke da, Hainan pha khai rahn re hate.	
+1718	Riri bu li thenan the rahn wi.	
+1719	Nahn nan rung mala.	
+1720	Nahn buvai phanunge thaite re.	
+1721	Bu kadi la?	
+1722	Hai miszu di kadi la?	
+1723	Hai miszu di kadi la?	
+1724	Bu nwate.	
+1725	Thuza gali nya ma.	
+1726	Hai zhwa raiha da.	
+1727	I li ska sza?	
+1728	Nei.	
+1729	Hoffman.	
+1730	Uhg?	
+1731	Bu di...	
+1732	Mwe?...	
+1733	Snipers laphuha mle wi.	
+1734	Bu laphu babam rahn, I thaile.	
+1735	Bu laphu babam rahn re nahn gare lehnda thaiha?	
+1736	Renan hai li snipers laphule.	
+1737	Sahn ditha, sir.	
+1738	Jim.	
+1739	Laigathie Jim.	
+1740	Nung ngangai maila?	
+1741	Nahn di thai di bathanahn nungngaile.	
+1742	Hai mazohn szuka hadi Ivai lohn da re nahn nan tharahn the hala?	
+1743	Thayoan riga thai, I... I nugszwa di lapri lairi da.	
+1744	Checkpoint Charlie da Pyorvai maram nahn pao ru-ru mai?	
+1745	Athoo-thwenan mugali pao ru prie.	
+1746	Ska sza, sir.	
+1747	Thi Lieutenant Joe Murphy, United States Air Force, bainan Powers di mathuhn thai rahn.	
+1748	Lieutenant Murphy.	
+1749	Sir.	
+1750	Problem za liadi gumle.	
+1751	Na kakhahn nan thairie, I thahe matam dai.	
+1752	Bu I di thuza di mathuhnthai mu gala?	
+1753	Nahnvai East German rhuikha di dhohn mu rahn redi I hehn ma.	
+1754	Bu mathuhnthai ngam ru rahnte redi I ningmong laite.	
+1755	Hai party tha laite.	
+1756	Re, ve diga.	
+1757	Nahn hanahn laithi, Donovan.	
+1758	Marahn marahn.	
+1759	Gate di shammaate.	
+1760	Nahn rhui nahn woanhe matam da mwethe thi lai?	
+1761	Uh, I...	
+1762	I vodka mohn rahn.	
+1763	Amewi.	
+1764	Amewi.	
+1765	Riri, Rudolf, dre rigatratrahn laima laila thai gaswe...	
+1766	Hai miszu nan I di phret gase?	
+1767	Uhg.	
+1768	Nahn pokkhanahn ma?	
+1769	Pokkhanahn nan ngachon gala?	
+1770	Baswe, tye nahnvai questionvai answer di, I khaya lai kakhahn nan riate.	
+1771	Bu di di thai nan lairahn re I phanungle.	
+1772	Riri matam ska da miszu redi phanung szuiale.	
+1773	Miszu di miszu.	
+1774	Thayoan ga bu gare I di rula gala.	
+1775	I mwe nahn yoan gala?	
+1776	I di thahnla rahn di di garhe gu asuiyahn nahn mazwehnne thahn mi rahn.	
+1777	Ame.	
+1778	Galup di lathiate.	
+1779	Hey, Powers.	
+1780	Hey, Murph.	
+1781	Powers te.	
+1782	Athwenan Mr. Donovan.	
+1783	Mathwa ditha!	
+1784	Charitha.	
+1785	Hehnthohn mi ra, Inan rung rahn.	
+1786	Thuza gali lai ma.	
+1787	Miszu chatha li pha ganan lai laire Checkpoint Charlie da.	
+1788	Bai dinahn re-re prila re pao la ganan lairiha.	
+1789	Athwenan!	
+1790	Zakha suisuinan, prehnmi nan la riami dira.	
+1791	Kha.	
+1792	Bu Pryor di la re gama la re ma gala, thaima ganan.	
+1793	Kha.	
+1794	Bu dre phyahn ganan laiha, Pyor di dhohn ma gu tri-ti ma gala re.	
+1795	Hanahn di dre thung rirahn, bai dhohn ma laite rate ragu tri ma rahn redi thai mu rahn.	
+1796	Bu mwe manung laila redi I thaimiha garhe.	
+1797	Hai haivai kharin laiha.	
+1798	Ve dai, Abel.	
+1799	Ve dai, sir.	
+1800	Nahn veszu rahnte.	
+1801	Nai nan tharahn the di woanta ma ragu hai woan rahnte.	
+1802	Hai athoo tria rahnte didi garhe gu hai woan rahnte!	
+1803	Nahn miszu chatha li phyahn ganan laiha?	
+1804	Uhg.	
+1805	Nahn bai li manung ha.	
+1806	I bai di li manungle.	
+1807	Bai mwe manung laila re nahn di mugali lhung gase laima, sir.	
+1808	I di in charge chie, nahn ve szu rahnte.	
+1809	Prehnmi nan vemi dira.	
+1810	Chuhn ditha.	
+1811	I phyahn ngam rahn.	
+1812	Re laiwi laite.	
+1813	Sure the pri.	
+1814	Chari tha!	
+1815	Kha.	
+1816	Bai the, luate!	
+1817	Uh, I, uh...	
+1818	I nan nahn la gooke zazu ska phae, Jim.	
+1819	Uh...	
+1820	Painting nge.	
+1821	Aratha lai gooke ska the rahnre I mazokle.	
+1822	I szuiate.	
+1823	I nahn la gooke mugali luphumi mate.	
+1824	Thi I la nahn nan gooke mihate.	
+1825	Thi I la nahn nan gooke mihate.	
+1826	[NO TRANSLATION]	missing translation
+1827	Kha, kha, kha!	
+1828	Mr. Donovan.	
+1829	Colonel Abel nan nahn la miatha re thai.	
+1830	Haithehnka, sir.	
+1831	Nahn nan in charge laha la hainyavai dai, sir?	
+1832	Ame.	
+1833	Bathanahn szukhiate.	
+1834	Bathanahn szukhiate.	
+1835	I bu la mugali mia ma.	
+1836	I bu la mugali mia ma.	
+1837	Mugali thema.	
+1838	Ba nan mu khan laila re nahn di mugali khan gase laima.	
+1839	Nahn nan theha di nahn thiate ragu.	
+1840	Rhui nahn woan dira.	
+1841	Aszaravai merehn ve lehntha.	
+1842	Mmm.	
+1843	Mmm.	
+1844	[NO TRANSLATION]	missing translation
+1845	Ame, I mugali the ma.	
+1846	Nahn marmalade di la ma dai?	
+1847	Uhg, la.	
+1848	la.	
+1849	la.	
+1850	Lawoan.	
+1851	Lawoan ra re runge suisuinan	
+1852	Jim.	
+1853	Thi Arnovai wi.	
+1854	Re?	
+1855	Tye corner vai da!	
+1856	Uh, I bathanahn za.	
+1857	I szuiate.	
+1858	Hai matikza thai za.	
+1859	Gareha la.	
+1860	Roger gare lailai?	
+1861	Bai rhui nahn lailai ma?	
+1862	Rhui nahn laile.	
+1863	Carol li, Peggy l.	
+1864	Mazohn rhui nahn laile.	
+1865	Athe!	
+1866	Thunan dhohn!	
+1867	Yoan!	
+1868	Athe, hanahn woanra!	
+1869	Athe, hanahn woanra!	
+1870	Woan thi woanyoan!	
+1871	Yoan!	
+1872	Yoan!	
+1873	Thai!	
+1874	Francis Gary Powers di Soviet Unionvai jail da lathia ganan Americanvai authorities la mi thohnte, athan zhwalehn nahn Berlin da.	
+1875	President nahn Rudolf Abelvai sentence hadi thekhehn thohnte.	
+1876	Mr. Abel di country da phathiate, ra ganan Berlin phachate.	
+1877	Mr. Powersvai release the gase tharahn the hadi matam haithehnka the riahate.	
+1878	Aszaravai United States government nan tharahn the nahn di Mr. James B. Donovan, New York attorneyvai mating la.	
+1879	Frederic L. Pryor, American katamma neo East German authorities nan August 1961 da choklala wie tha...	
+1880	I uhba khiwa tha re mazokke wi.	
+1881	Salmon.	
+1882	Abel di athwenan communist mibatha nahn pha woanhate.	
+1883	Powers hanahn lai laite, questions rungkai ganan.	
+1884	Rate ragu Donovan baivai law thai nahn di woan babam mate.	
+1885	Rate ragu athwenan, thi George Fenneman, Douglas Fir Plywood Associationvai mahut da majaa rahnre laiha.	

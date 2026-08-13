@@ -1,0 +1,1769 @@
+1	Věřím v Ameriku.	
+2	Amerika mi dala bohatství.	
+3	A vychoval jsem dceru poamericku.	
+4	Dal jsem jí volnost, ale naučil ji nikdy nezostudit rodinu.	
+5	Našla si přítele, není to Ital.	
+6	Šla s ním do kina.	
+7	Přišla pozdě.	
+8	Nic jsem neříkal.	
+9	Před dvěma měsíci ji vzal na projížďku s dalším přítelem.	
+10	Přinutili ji pít whisky a pak se ji pokusili znásilnit.	
+11	Vzdorovala, uhájila svou čest.	
+12	Tak ji zmlátili jako zvíře.	
+13	Když jsem přijel do nemocnice, měla zlomený nos, roztříštěnou čelist, kterou museli sdrátovat.	
+14	Kvůli bolesti nemohla ani plakat.	
+15	Ale já plakal.	
+16	Proč jsem plakal?	
+17	Byla světlem mého života.	
+18	Krásné děvče.	
+19	Teď už nebude nikdy krásná.	
+20	Promiňte.	
+21	Šel jsem na policii jako správný Američan.	
+22	Ti dva kluci se dostali před soud.	
+23	Soud je odsoudil ke třem letům vězení, ale podmíněně.	
+24	Podmíněný rozsudek!	
+25	Ještě toho dne byli volní!	
+26	Stál jsem v soudní síni jako hlupák.	
+27	Ti dva bastardi se mi vysmáli.	
+28	Řekl jsem své ženě: Pro spravedlnost musíme za Donem Corleonem.	
+29	Proč jste šel na policii?	
+30	Proč jste nepřišel za mnou?	
+31	Co žádáte?	
+32	Žádejte cokoliv, ale udělejte, oč vás prosím.	
+33	A to je co?	
+34	Chci jejich smrt.	
+35	To nemohu udělat.	
+36	Dám vám cokoliv budete žádat.	
+37	Znám vás mnoho let, ale je to prvně, co jste přišel pro radu či pomoc.	
+38	Nevzpomínám si, kdy jste mě naposledy pozval na šálek kávy.	
+39	Přestože je moje žena kmotrou vašeho dítěte.	
+40	Buďme upřímní.	
+41	Nestál jste o mé přátelství.	
+42	Nechtěl jste být nic dlužen.	
+43	Nechtěl jsem se dostat do potíží.	
+44	Chápu.	
+45	Našel jste v Americe ráj.	
+46	Měl jste slušné živobytí, policie vás chránila, byly tu soudy.	
+47	Nepotřeboval jste přítele jako já.	
+48	Ale teď přijdete a řeknete:	
+49	Done Corleone, dejte mi spravedlnost.	
+50	Ale nežádáte to s úctou.	
+51	Nenabízíte přátelství.	
+52	Ani mi neříkáte Kmotře.	
+53	Přijdete v den svatby mé dcery a žádáte mě o vraždu za peníze.	
+54	Žádám o spravedlnost.	
+55	To není spravedlnost.	
+56	Vaše dcera žije.	
+57	Ať tedy oni trpí stejně jako ona.	
+58	Kolik mám zaplatit?	
+59	Bonasera. Bonasera.	
+60	Co jsem vám udělal, že se ke mně chováte tak neuctivě?	
+61	Kdybyste přišel jako přítel, pak ten, co ublížil vaší dceři, by trpěl tentýž den.	
+62	A kdyby měl tak čestný muž jako vy nepřátele, byli by i mými.	
+63	A pak by se vás báli.	
+64	Budeme přáteli?	
+65	Kmotře?	
+66	Dobře.	
+67	Jednoho dne, který možná ani nepřijde, tě požádám o službu.	
+68	Ale do té doby přijmi ode mne spravedlnost jako dar v den svatby mé dcery.	
+69	Grazie, Kmotře.	
+70	Prego.	
+71	Dej to Clemenzovi.	
+72	Chci lidi, kteří se dokážou ovládat.	
+73	My nejsme vrahové, i když si to ten funebrák myslí.	
+74	Kde je Michael?	
+75	Neboj, přijde.	
+76	Bez Michaela žádné focení nebude.	
+77	Co se děje?	
+78	To Michael.	
+79	Done Barzini.	
+80	Hej, Paulie!	
+81	Dej mi trochu vína.	
+82	Paulie!	
+83	Ještě víno.	
+84	Moc ti to na parketu sluší.	
+85	Jsi snad taneční rozhodčí?	
+86	Hleď si své práce.	
+87	Sandro, dej pozor na děti.	
+88	Ať tu nedivočí.	
+89	Ty pohlídáš sám sebe, že?	
+90	20, 30 táců.	
+91	V malých bankovkách.	
+92	V té malé hedvábné kabelce.	
+93	Kdyby to byla svatba někoho jiného,	
+94	nešťastníku!	
+95	Hej, Paulie!	
+96	[NO TRANSLATION]	missing translation
+97	Pitomče!	
+98	Co se děje?	
+99	Musím zpátky do práce.	
+100	Tome.	
+101	[NO TRANSLATION]	missing translation
+102	Sicilan nikoho neodmítne ve svatební den své dcery.	
+103	Done Corleone, jsem poctěn a vděčen, že jste mě pozval.	
+104	Vypadněte!	
+105	Soukromá oslava.	
+106	Jděte!	
+107	Co je?	
+108	Moje sestra se vdává.	
+109	Zatracená FBI nerespektuje nic!	
+110	Pojď sem, pojď sem, pojď sem!	
+111	ale ke konci byl propuštěn, aby pomohl ve válce Američanům, takže šest měsíců pracoval v mé pekárně.	
+112	Nazorine, co pro vás mohu udělat?	
+113	Teď, když válka skončila, ten kluk Enzo, chtějí ho vrátit zpět do ltálie.	
+114	Kmotře, mám dceru.	
+115	Víte, ona a Enzo...	
+116	Chcete, aby tady Enzo zůstal a vaše dcera se provdala.	
+117	Vy chápete všechno.	
+118	Pane Hagene.	
+119	Děkuji.	
+120	Počkejte, až uvidíte svatební dort pro vaši dceru!	
+121	Nevěsta, ženich a anděl...	
+122	Komu mám dát tohle?	
+123	Nikomu z našich.	
+124	Dej to nějakému Židovi z jiného okrsku.	
+125	Kdo další je na seznamu?	
+126	Ahoj, Michaele!	
+127	Není na seznamu, ale Luca Brasi chce s tebou mluvit.	
+128	Je to nezbytné?	
+129	Nečekal pozvání na svatbu, tak chce poděkovat.	
+130	Done Corleone, jsem poctěn a vděčen, že jste mě pozval na svatbu vaší dcery.	
+131	Ať je jejich první dítě mužského rodu.	
+132	Michaele...	
+133	Ten muž mluví sám se sebou.	
+134	Vidíš, jak z něho jde strach?	
+135	Opravdu z něho jde strach.	
+136	Jak se jmenuje?	
+137	Je to Luca Brasi.	
+138	Občas mému otci vypomáhá.	
+139	Michaele, on jde sem!	
+140	Vypadáš úžasně!	
+141	Můj bratr Tom Hagen, slečna Kay Adamsová.	
+142	Tvůj otec tě shání.	
+143	Těšilo mě.	
+144	Mě taky.	
+145	Proč se tvůj bratr jmenuje jinak?	
+146	Můj bratr Sonny našel Toma Hagena na ulici.	
+147	Neměl domov, tak ho vzal můj otec k sobě.	
+148	Od té doby žije s námi.	
+149	Je to dobrý právník.	
+150	Není Sicilan.	
+151	Myslím, že bude consigliere.	
+152	Co je to?	
+153	To je jako advokát, poradce.	
+154	Velmi důležitý pro rodinu.	
+155	Chutnají ti lasagne?	
+156	Done Corleone.	
+157	Jsem poctěn a vděčen, že jste mě pozval na svatbu vaší dcery.	
+158	Ve svatební den své dcery.	
+159	A doufám, že první dítě bude mužského rodu.	
+160	Přísahám svou nekonečnou loajalitu.	
+161	Svatební dar pro nevěstu.	
+162	Děkuji, Luco,	
+163	nejcennější příteli.	
+164	Done Corleone, já vás teď opustím, protože vím, že jste zaneprázdněn.	
+165	Děkuji.	
+166	Signora Corleone!	
+167	Ne!	
+168	Senátor Cauley se omlouvá, že nepřišel, ale prý to pochopíš.	
+169	Taky někteří soudci.	
+170	Všichni poslali dary.	
+171	Co se to tam děje?	
+172	Johnny!	
+173	Johnny!	
+174	Miluju tě!	
+175	Přijel až z Kalifornie.	
+176	Říkal jsem to!	
+177	Zase má určitě malér.	
+178	Je to dobrý kmotřenec.	
+179	Johnny, Johnny!	
+180	Zazpívej!	
+181	Nikdy jsi neřekl, že znáš Johnnyho Fontana!	
+182	Jistě.	
+183	Chceš s ním seznámit?	
+184	Skvělé!	
+185	Jistě.	
+186	Můj otec mu pomohl s kariérou.	
+187	Pomohl?	
+188	Jak?	
+189	Pojďme poslouchat píseň.	
+190	Michaele...	
+191	Prosím, Michaele.	
+192	Povídej.	
+193	Když Johnny začínal, podepsal takový osobní kontrakt s velkým kapelníkem.	
+194	A jak jeho kariéra stoupala, chtěl z toho ven.	
+195	Johnny je otcův kmotřenec.	
+196	Otec šel za tím kapelníkem.	
+197	Nabídl mu 10000 dolarů, aby Johnnyho pustil. Ale kapelník řekl ne.	
+198	Takže druhý den za ním šel otec znovu, ale s Lucou Brasim.	
+199	Do hodiny podepsal uvolnění za ověřený šek na 1000 dolarů.	
+200	Jak to dokázal?	
+201	Nabídka, kterou nelze odmítnout.	
+202	Ale jaká?	
+203	Luca Brasi mu držel pistoli u hlavy a otec řekl, že buď jeho mozek nebo podpis bude na tom kontraktu.	
+204	Je to pravda.	
+205	To je moje rodina, Kay.	
+206	Ne já.	
+207	Nádhera!	
+208	Postarám se o to.	
+209	Tome...	
+210	Najdi Santina.	
+211	Řekni mu, ať přijde do kanceláře.	
+212	Jak se vede, Fredo?	
+213	Můj bratr Fredo, tohle je Kay Adamsová.	
+214	Ahoj.	
+215	Jak se máš?	
+216	Tohle je můj bratr Mike.	
+217	Bavíš se dobře?	
+218	Jo.	
+219	To je tvoje přítelkyně?	
+220	Nevím, co mám dělat.	
+221	Můj hlas je slabý.	
+222	Slabý.	
+223	Víš, kdybych dostal tu roli ve filmu, zase bych se dostal nahoru.	
+224	Ale ten... muž mi ji nedá, ten, co šéfuje studiu.	
+225	Jak se jmenuje?	
+226	Woltz.	
+227	On mi ji nedá a říká, že nemám šanci.	
+228	Sonny?	
+229	Sonny?	
+230	Sonny?	
+231	Sonny, seš tam?	
+232	Co je?	
+233	Otec tě shání.	
+234	Za minutku.	
+235	Před měsícem koupil práva na zfilmování té knihy, toho bestselleru.	
+236	Hlavní hrdina je chlap jako já.	
+237	Nemusel bych ani hrát.	
+238	Kmotře, nevím, co mám dělat.	
+239	Chovej se jako muž!	
+240	Co je to s tebou?	
+241	Je z tebe hollywoodský fracek, co brečí jako ženská?	forced duplication
+242	Je z tebe hollywoodský fracek, co brečí jako ženská?	forced duplication
+243	Co mám dělat?	
+244	Co mám dělat?	
+245	Co je to za nesmysl?	
+246	Směšné.	
+247	Býváš se svojí rodinou?	
+248	Jistě.	
+249	Dobře.	
+250	Protože muž, co netráví čas se svou rodinou, nikdy není mužem.	
+251	Vypadáš hrozně.	
+252	Musíš jíst.	
+253	Odpočiň si a za měsíc ti ten šéf v Hollywoodu dá, co budeš chtít.	
+254	To je pozdě, začnou točit za týden.	
+255	Udělám mu nabídku, kterou neodmítne.	
+256	Jdi ven a bav se. Na všechno zapomeň.	
+257	Nech to všechno na mně.	
+258	Dobře.	
+259	V kolik moje dcera odjíždí?	
+260	Brzy, až rozkrojí dort.	
+261	Dáme tvému zeti něco důležitého?	
+262	Nikdy.	
+263	Dáme mu živobytí, ale nikdy s ním nemluv o rodině.	
+264	Co dál?	
+265	Virgil Sollozzo volal.	
+266	Setkáme se s ním příští týden.	
+267	Až se vrátíš z Kalifornie.	
+268	Já jedu do Kalifornie?	
+269	Dnes večer.	
+270	Chci, abys promluvil s tím šéfem od filmu a vyřídil to pro Johnnyho.	
+271	Jestli už nic nemáš, půjdu na svatbu.	
+272	Carlo, budeme se fotografovat.	
+273	Počkat.	
+274	Ne, Michaele.	
+275	Já ne.	
+276	Dobře, to je ono.	
+277	Takhle vydržte!	
+278	[NO TRANSLATION]	missing translation
+279	Chce to větší zápal.	
+280	Mluvte.	
+281	Posílá mě přítel Johnnyho Fontana.	
+282	Ten přítel nabízí přátelství panu Woltzovi, pokud nám udělá laskavost.	
+283	Woltz poslouchá.	
+284	Dejte Johnnymu roli v tom válečném filmu, co začínáte točit.	
+285	A jakou laskavost by váš přítel dal panu Woltzovi?	
+286	Mohl by odstranit vaše budoucí problémy s odbory.	
+287	Taky jedna z vašich hvězd přešla z marihuany na heroin.	
+288	Snažíte se mi vyhrožovat?	
+289	Poslouchej, ty parchante!	
+290	Povím ti to na rovinu.	
+291	Johnny Fontane tu roli nedostane!	
+292	Je mi jedno, kolik umaštěných taliánů si na mě vyskakuje!	
+293	Jsem napůl Němec a Ir.	
+294	Tak poslouchej, německý Ire.	
+295	Já ti to zavařím!	
+296	Jsem právník.	
+297	Nevyhrožoval jsem...	
+298	Znám velký právníky v New Yorku.	
+299	Kdo jsi?	
+300	Mám zvláštní praxi.	
+301	Mám jednoho klienta.	
+302	Počkám na váš telefon.	
+303	Mimochodem, vaše filmy obdivuju.	
+304	Omrkni ho.	
+305	Je to vážně krása.	
+306	Podívej.	
+307	Kdysi to krášlilo královský palác.	
+308	Moc hezký.	
+309	Proč jsi neřekl, že pracuješ pro Corleona?	
+310	Já myslel, že seš šmejd, kterýho na mě poslal Johnny.	
+311	Používám jeho jméno jen v nutnosti.	
+312	Chutná ti drink?	
+313	Dobrý.	
+314	Ukážu ti něco nádhernýho.	
+315	Určitě oceníš krásu, že?	
+316	Tady je.	
+317	600000 dolarů na čtyřech kopytech.	
+318	Vsadím se, že ruský car nikdy tolik nezaplatil za koně.	
+319	Khartoum.	
+320	Khartoum.	
+321	Nenechám ho závodit.	
+322	Nechám ho pouze na chov.	
+323	Díky, Tony.	
+324	Dáme si něco k jídlu.	
+325	Corleone je Johnnyho kmotr.	
+326	Pro Italy je to velmi zbožný a těsný vztah.	
+327	To respektuji.	
+328	Řekni mu, ať žádá o něco jiného.	
+329	Tohle udělat nemohu.	
+330	Po prvním odmítnutí nikdy nežádá o druhou laskavost.	
+331	Ty mi nerozumíš.	
+332	Johnny Fontane ten film nikdy nedostane.	
+333	Ta role je pro něho perfektní.	
+334	Udělala by z něho hvězdu.	
+335	Já ho hodlám zničit a řeknu ti proč.	
+336	Johnny Fontane zničil studiu Woltz International nejcennější talent.	
+337	Učili jsme ji pět let.	
+338	Zpívat, hrát, tancovat.	
+339	Utratil jsem za ni statisíce dolarů, abych z ní udělal hvězdu.	
+340	Budu ještě otevřenější.	
+341	Abych ti ukázal, že nejsem muž bez srdce.	
+342	Že nejde jen o peníze.	
+343	Byla krásná.	
+344	Byla mladá a nevinná!	
+345	Byl to ten nejkrásnější kus, co jsem měl, a já jich měl hodně.	
+346	Pak Johnny Fontane přijde se svým hlasem a taliánským šarmem.	
+347	A ona utekla.	
+348	Zahodila to všechno, jen aby mě zesměšnila!	
+349	A muž v mém postavení si nikdy nemůže dovolit vypadat směšně!	
+350	Teď odsud koukej vypadnout!	
+351	A jestli si ten talián něco zkusí, tak já nejsem žádnej kapelník.	
+352	Jo, ten příběh znám.	
+353	Děkuji za večeři a příjemný večer.	
+354	Snad by mě mohl tvůj řidič odvézt.	
+355	Pan Corleone chce znát špatné zprávy ihned.	
+356	Nejsi moc unavený, Tome?	
+357	Ne, spal jsem v letadle.	
+358	Mám tady něco o Sollozzovi.	
+359	Takže...	
+360	Sollozzo je známý jako Turek.	
+361	Je prý dobrý s nožem, ale jen v obchodních záležitostech při větších potížích.	
+362	Obchoduje s narkotiky.	
+363	Má pole v Turecku, kde pěstují mák.	
+364	Na Sicílii z něho dělají heroin.	
+365	Potřebuje peníze a ochranu před policií.	
+366	Za to nabízí podíl.	
+367	Nevím kolik.	
+368	Stojí za ním rodina Tattagliů.	
+369	Kvůli něčemu v tom být musí.	
+370	Co jeho trestní rejstřík?	
+371	Jednou seděl v ltálii, jednou tady.	
+372	Je to prý hlava přes narkotika.	
+373	Santino, co myslíš?	
+374	V tom prášku je spousta peněz.	
+375	Tome?	
+376	Ano.	
+377	V narkotikách je víc peněz než v čemkoliv jiném.	
+378	Když do toho nepůjdeme, tak někdo jiný, možná všech pět rodin.	
+379	Za ty peníze si koupí policii a politickou moc.	
+380	Pak se pustí do nás.	
+381	Máme odbory a hazardní hry, ale narkotika jsou budoucnost.	
+382	Když nezískáme podíl, můžeme vše ztratit do deseti let.	
+383	Takže?	
+384	Jak zní tvá odpověď, otče?	
+385	Done Corleone.	
+386	Potřebuji někoho s mocnými přáteli.	
+387	Potřebuji milion dolarů.	
+388	Potřebuji ty politiky, co máte v kapse jako drobné.	
+389	Jaký podíl dostane moje rodina?	
+390	30 procent.	
+391	První rok by to mělo dělat tři čtyři miliony dolarů.	
+392	A pak ještě víc.	
+393	A jaký podíl dostane rodina Tattagliů?	
+394	Moje poklona.	
+395	Já se o ně postarám z mého podílu.	
+396	Takže já dostanu 30 procent za finance, politický vliv a ochranu před zákonem?	
+397	Přesně tak.	
+398	Proč jsi přišel za mnou?	
+399	Zasloužím si tu štědrost?	
+400	Jestli považujete milion dolarů v hotovosti jen za finance, tak gratuluji, Done Corleone.	
+401	Setkal jsem se s tebou, protože jsem slyšel, že jsi seriózní muž, který si zasluhuje úctu.	
+402	Ale musím ti odpovědět ne.	
+403	A řeknu ti své důvody.	
+404	Je pravda, že mám spoustu přátel v politice.	
+405	Dlouho by jimi nebyli při vědomí, že podnikám v drogách místo v hazardu, který považují za neškodnou neřest, ale drogy ne.	
+406	Mně je jedno, jak si člověk vydělává na živobytí.	
+407	Ale tvůj obchod je... trochu nebezpečný.	
+408	Jestli vám jde o bezpečnost, Tattagliové ji zaručí.	
+409	Tattagliové zaručí naši...	
+410	Počkej.	
+411	Mám sentimentální slabost pro své děti a rozmazlil jsem je.	
+412	Mluví, když mají poslouchat.	
+413	Ale stejně...	
+414	Signore Sollozzo, moje ne je konečné.	
+415	Chci ti gratulovat k novému obchodu.	
+416	Vím, že si povedeš dobře, a přeji ti štěstí.	
+417	Zvláště, když se tvé zájmy nekříží s mými.	
+418	Děkuji.	
+419	Santino.	
+420	Pojď sem.	
+421	Co je s tebou?	
+422	Tobě snad měkne mozek z toho hraní s tou holkou.	
+423	Nikdy neříkej nikomu mimo rodinu, co si myslíš.	
+424	Běž.	
+425	Tome, co je to za nesmysl?	
+426	To je od Johnnyho.	
+427	Hraje v tom novém filmu.	
+428	Dej to odnést.	
+429	Odneste to.	
+430	A řekni, ať sem přijde Luca Brasi.	
+431	Mám trochu starost o toho Sollozzu.	
+432	Zjisti, co má za lubem.	
+433	Jdi za Tattagliovými.	
+434	Ať si myslí, že nejsi s naší rodinou příliš šťastný, a zjisti, co se dá.	
+435	Koupila jsem něco pro tvou matku a pro Sonnyho, kravatu pro Freddyho a pro Toma Hagena pero Reynolds.	
+436	Co chceš ty k Vánocům?	
+437	Jen tebe.	
+438	Andiamo, Fredo.	
+439	Ať Paulie přistaví auto.	
+440	Dobře, otče.	
+441	Budu muset řídit sám.	
+442	Paulie volal, že je nemocný.	
+443	Paulie je dobrej kluk.	
+444	Mně to nevadí.	
+445	Hezké svátky.	
+446	Grazie.	
+447	Luco!	
+448	Jsem Bruno Tattaglia.	
+449	Já vím.	
+450	Ty víš, kdo jsem já?	
+451	Znám tě.	
+452	Mluvil jsi s rodinou Tattagliů, že?	
+453	Myslím, že bychom spolu mohli podnikat.	
+454	Potřebuji někoho silného jako ty.	
+455	Slyšel jsem, že nejsi moc šťastný v rodině Corleonových.	
+456	Chceš se ke mně přidat?	
+457	Kolik by mi to káplo?	
+458	50000 dolarů pro začátek.	
+459	To není špatný!	
+460	Domluveno?	
+461	Tome!	
+462	Tome Hagene.	
+463	Veselé Vánoce.	
+464	Rád tě vidím.	
+465	Chci s tebou mluvit.	
+466	Já nemám čas.	
+467	Udělej si čas, consigliere.	
+468	Nastup.	
+469	Čeho se bojíš?	
+470	Kdybych tě chtěl zabít, už bych to udělal.	
+471	Nastup si.	
+472	Fredo, koupím nějaké ovoce.	
+473	Dobře, tati.	
+474	Veselé Vánoce.	
+475	Chci nějaké ovoce.	
+476	Líbila bych se ti jako jeptiška?	
+477	Jako v tom filmu.	
+478	Ne.	
+479	A jako Ingrid Bergmanová?	
+480	To je teda nápad.	
+481	Michaele.	
+482	Ne, nelíbila by ses mi jako Ingrid Bergmanová.	
+483	Co se děje?	
+484	Nepíšou, jestli to přežil.	
+485	Sonny, tady Michael.	
+486	Kde jsi?	
+487	Je v pořádku?	
+488	Ještě nevíme.	
+489	Kolují různé zvěsti.	
+490	Dostal to ošklivě, Mikey.	
+491	Jsi tam?	
+492	Jo, jsem tady.	
+493	Kde jsi byl?	
+494	Měl jsem starost.	
+495	Tom ti neříkal, že jsem volal?	
+496	Ne.	
+497	Přijeď domů.	
+498	Měl bys být u mámy, slyšíš?	
+499	Panebože.	
+500	Sonny!	
+501	Zůstaň tam.	
+502	Kdo je to?	
+503	Otevři, tady Clemenza.	
+504	Mám zprávy o tvém otci.	
+505	Povídá se, že je po smrti.	
+506	Co je to s tebou?	
+507	Jen klid!	
+508	Kde byl Paulie?	
+509	Je nemocný.	
+510	Už celou zimu.	
+511	Kolikrát?	
+512	Třikrát, čtyřikrát.	
+513	Freddy nechtěl novou ochranku.	
+514	Zajeď pro něho.	
+515	Je mi jedno, jak je nemocný.	
+516	Přivez ho do otcova domu.	
+517	Chceš někoho poslat sem?	
+518	Ne.	
+519	Jdi.	
+520	Zavolám pár lidí, aby sem přišli.	
+521	Haló?	
+522	Santino Corleone?	
+523	Jo.	
+524	Máme Toma Hagena.	
+525	Asi za tři hodiny ho propustíme s návrhem.	
+526	Poslechni si, co řekne, než něco uděláš.	
+527	Co se stalo, stalo se.	
+528	Nezačni hned vyvádět, Sonny.	
+529	Já počkám.	
+530	Tvůj šéf je mrtvý.	
+531	Vím, že nepatříš k zabijákům v rodině, proto nechci, abys měl strach.	
+532	Chci, abys pomohl Corleonovým a mně.	
+533	Dostali jsme ho před kanceláří hodinu potom, co jsme tě sebrali.	
+534	Vypij to.	
+535	Teď je na tobě, abys mě usmířil se Sonnym.	
+536	Sonny byl žhavej do toho obchodu, ne?	
+537	A tys věděl, že je to správný.	
+538	Sonny po tobě půjde.	
+539	To bude jistě jeho první reakce.	
+540	Proto mu musíš domluvit.	
+541	Rodina Tattagliů stojí za mnou.	
+542	Ostatní newyorské rodiny přistoupí na vše, aby zabránily válce.	
+543	Přiznejme si, ve vší úctě, že Don, ať odpočívá v pokoji, dělal chyby.	
+544	Před deseti lety bych se k němu dostal?	
+545	Teď je mrtvej, Tome, a nic ho nevrátí zpátky.	
+546	Promluv se Sonnym, s Caporegimovými, s Tessiem, s Clemenzou.	
+547	Je to dobrý obchod, Tome.	
+548	Pokusím se.	
+549	Ale ani Sonny neumí odvolat Lucu Brasiho.	
+550	Jo, dobře...	
+551	Já se o Lucu postarám.	
+552	Ty promluv se Sonnym.	
+553	A s ostatními syny.	
+554	Budu se snažit.	
+555	Dobře.	
+556	Teď můžeš jít.	
+557	Nemám rád násilí, Tome.	
+558	Jsem podnikatel.	
+559	Krev je drahá.	
+560	Je stále naživu.	
+561	Trefí ho pěti kulkami a on stále žije!	
+562	To je smůla pro mě a smůla pro tebe, jestli ten obchod nevyjde.	
+563	Tvoje matka je v nemocnici u otce.	
+564	Zdá se, že se z toho dostane.	
+565	Hodně zlý krve.	
+566	Sollozzo, Philip Tattaglia, Bruno Tattaglia, Ramon...	
+567	Tyhle všechny zabiješ?	
+568	Nepleť se do toho.	
+569	Když se zbavíte Sollozza, všechno se srovná.	
+570	A co s Lucou?	
+571	Sollozzo myslí, že ho zvládne.	
+572	Jestli Luca zradil, jsme v maléru.	
+573	Podařilo se někomu spojit se s Lucou?	
+574	Zkouším to celou noc.	
+575	Udělej mi laskavost...	
+576	Luca nikdy u kurvy nespí.	
+577	Tome, ty jsi consigliere.	
+578	Co uděláme, když otec zemře?	
+579	Jestli zemře, ztratíme politické kontakty a polovinu moci.	
+580	Newyorské rodiny budou asi podporovat Sollozzu, aby se vyhly válce.	
+581	Je skoro rok 1946.	
+582	Nikdo už nechce krev.	
+583	Jestli tvůj otec zemře, uzavři ten obchod.	
+584	To se ti řekne.	
+585	Tvůj otec to není.	
+586	Jsem syn jako ty a Mike.	
+587	Co je?	
+588	Paulie, říkal jsem ti, ať jsi venku.	
+589	Ten chlap nechal u brány balíček.	
+590	Tessio, podívej, co je to.	
+591	Mohu zůstat?	
+592	Jo.	
+593	Jsi v pořádku?	
+594	Je mi fajn.	
+595	Je tu jídlo.	
+596	Nemáš hlad?	
+597	Ne.	
+598	Něco k pití?	
+599	Brandy tě vypotí.	
+600	Tak jdi.	
+601	To je dobrý nápad.	
+602	Postarej se o toho hajzla.	
+603	Paulie zradil otce.	
+604	Vyřiď ho jako prvního.	
+605	Rozumím.	
+606	Mickey, zítra vezmi pár chlapů a jděte do bytu Lucy.	
+607	Možná bychom do toho neměli Mika tahat přímo.	
+608	Zůstaň v domě na telefonu.	
+609	Zkus ještě zavolat Lucovi.	
+610	Co je to?	
+611	Sicilský vzkaz.	
+612	Znamená to, že Luca Brasi spí s rybama.	
+613	Tak já jdu.	
+614	V kolik přijdeš?	
+615	Asi pozdě.	
+616	Nezapomeň koupit trubičky!	
+617	Jo, jo, jo.	
+618	Rocco, sedni si na druhou stranu.	
+619	Zacláníš mi v zrcátku.	
+620	Sonny zešílel.	
+621	Chce už zalehnout na matrace.	
+622	Musíme něco najít na West Side.	
+623	Zkus 309 West 43.ulici.	
+624	Znáš něco na West Side?	
+625	Budu o tom přemýšlet.	
+626	Přemýšlej při řízení.	
+627	Chci dojet do New Yorku ještě letos.	
+628	Pozor na děti.	
+629	Paulie, jeď dolů po 39.ulici, vyzvedni 18 matrací a přines účet.	
+630	Ano, dobře.	
+631	Ať jsou čistý, protože chlapi tam budou dlouho.	
+632	Jsou čistý a odblešený.	
+633	To je šeredný slovo.	
+634	Odblešený!	
+635	Pozor, ať tě nemusíme odblešit!	
+636	Zastav.	
+637	Musím se vyčurat.	
+638	Nech tady zbraň.	
+639	Vezmi trubičky.	
+640	Hej, Miku!	
+641	Hej, Mikey!	
+642	Jo.	
+643	Někdo volá!	
+644	Kdo je to?	
+645	Nějaká holka.	
+646	Haló.	
+647	Kay?	
+648	Jak je tvému otci?	
+649	Dostane se z toho.	
+650	Miluju tě.	
+651	Miluju tě!	
+652	Michaele?	
+653	Jo, já vím.	
+654	Řekni, že mě miluješ.	
+655	Nemůžu mluvit.	
+656	Nemůžeš mi to říci?	
+657	Uvidíme se večer.	
+658	Proč neřekneš té dívce, že ji miluješ?	
+659	Miluju tě z celého srdce.	
+660	Jestli tě brzy nespatřím, zemřu!	
+661	Pojď se přiučit.	
+662	Jednou třeba budeš muset vařit pro 20 chlapů.	
+663	Začneš trochou oleje, pak osmažíš trochu česneku.	
+664	Přidáš rajčata, protlak, osmažíš to, ale nesmí se to připálit.	
+665	Přivedeš to k varu, přidáš salám a masový kuličky.	
+666	Kapku vína.	
+667	A trochu cukru.	
+668	To je můj trik.	
+669	Přestaň.	
+670	Mám pro tebe důležitější věci.	
+671	Co Paulie?	
+672	Už ho neuvidíš.	
+673	Kam jdeš?	
+674	Do města.	
+675	Pošli s ním ochranku.	
+676	Jedu do nemocnice...	
+677	Bude v pořádku.	
+678	Sollozzo ví, že je to civil.	
+679	Buď opatrný.	
+680	Ano, pane.	
+681	Stejně s ním někoho pošli.	
+682	Musím jít.	
+683	Mohu jít s tebou?	
+684	Ne, Kay.	
+685	Budou tam detektivové a lidi od tisku.	
+686	Tak pojedeme taxíkem.	
+687	Nechci tě do toho zaplést.	
+688	Kdy tě zase uvidím?	
+689	Vrať se do New Hampshire, já ti zavolám k rodičům.	
+690	Kdy tě zase uvidím, Michaele?	
+691	Já nevím.	
+692	Co tady děláte?	
+693	Tady nemáte co dělat.	
+694	Jsem Michael Corleone.	
+695	To je můj otec.	
+696	Co se stalo s ochrankou?	
+697	Váš otec měl moc návštěv.	
+698	Narušovali provoz nemocnice.	
+699	Policie je před deseti minutami vyhodila.	
+700	Dejte mi Long Beach 45620, prosím.	
+701	Sestro.	
+702	Počkejte.	
+703	Zůstaňte.	
+704	Sonny, jsem v nemocnici.	
+705	Přišel jsem až teď, nikdo tu není.	
+706	Žádný z Tessiových mužů, ani detektiv, nikdo.	
+707	Táta je tu sám.	
+708	Nepanikař.	
+709	Nepanikařím.	
+710	Promiňte, ale musíte odejít.	
+711	Musíme přesunout otce do jiného pokoje.	
+712	Můžete odpojit ty hadičky?	
+713	To je vyloučeno!	
+714	Znáte mého otce?	
+715	Přijdou ho sem zabít.	
+716	Chápete?	
+717	Pomozte mi, prosím.	
+718	Kdo jste?	
+719	Jsem pekař Enzo.	
+720	Pamatuješ si na mě?	
+721	Enzo.	
+722	Raději běž, budou tady potíže.	
+723	Pokud budou, zůstanu a pomůžu ti.	
+724	Kvůli tvému otci.	
+725	Poslouchej.	
+726	Počkej na mě venku před nemocnicí, ano?	
+727	Za minutku přijdu.	
+728	Hezky lež, tati.	
+729	Já se o tebe postarám.	
+730	Teď jsem s tebou.	
+731	Jsem s tebou.	
+732	Zahoď ty kytky.	
+733	Pojď sem.	
+734	Dej si ruku do kapsy, jako bys měl zbraň.	
+735	To zvládneš.	
+736	Zvládl jsi to dobře.	
+737	Myslel jsem, že všichni taliáni jsou v base!	
+738	Proč nikdo nehlídá mého otce?	
+739	Ty malej všiváku!	
+740	Nekecej mi do mojí práce!	
+741	Odvolal jsem je.	
+742	Drž se dál od nemocnice!	
+743	Nehnu se, dokud otec nedostane stráž.	
+744	Phile, seber ho!	
+745	Je čistej, kapitáne.	
+746	Je válečnej hrdina.	
+747	Nikdy...	
+748	Řekl jsem to jasně!	
+749	Kolik vám Turek platí?	
+750	Držte ho.	
+751	Ksichtem ke mně.	
+752	Držte ho.	
+753	Jsem advokát Corleonových.	
+754	Tito muži jsou najati na ochranu Vita Corleona.	
+755	Mají povolení nosit zbraně.	
+756	Pokud zasáhnete, budete to muset před soudcem odůvodnit.	
+757	Nechte ho jít.	
+758	Proč tolik nových ksichtů?	
+759	Budeme je potřebovat.	
+760	Po tý nemocnici dostal Sonny vztek.	
+761	Ráno jsme oddělali Bruna Tattagliu.	
+762	Panebože.	
+763	Vypadá to tu jako pevnost.	
+764	Nádhera!	
+765	Hej... 100 pochopů na ulici 24 hodin denně.	
+766	Turek vystrčí jedinej chlup na zadku a je po něm.	
+767	Mike, ukaž se.	
+768	Seš krásný, krásný.	
+769	Seš nádherný.	
+770	Turek si chce promluvit!	
+771	Ten hajzl má ale nervy.	
+772	Dnes chce schůzku.	
+773	Co říkal?	
+774	[NO TRANSLATION]	missing translation
+775	Chce, abychom poslali Michaela, aby si vyslechl návrh.	
+776	Prý je ten obchod takovej, že se nedá odmítnout.	
+777	A Bruno Tattaglia?	
+778	To je součást obchodu.	
+779	On smaže to, co udělali mému otci.	
+780	Měli bychom si je poslechnout.	
+781	Už ne!	
+782	Teď ne, consigliere.	
+783	Žádné schůzky, diskuse ani Sollozzovy triky.	
+784	Chci Sollozzu nebo bude válka...	
+785	Ostatní rodiny...	
+786	Ať mi dají Sollozzu!	
+787	Je to obchod, ne osobní věc!	
+788	Postřelili mého otce...	
+789	I to byl obchod, ne nic osobního.	
+790	Tak obchod utrpí.	
+791	Udělej mi laskavost.	
+792	Neraď mi, jak to mám udělat.	
+793	Jen mi pomoz vyhrát.	
+794	Mám něco o kapitánovi McCluskeym, co zlomil Mikovi čelist.	
+795	Je na Sollozzově výplatním seznamu, jde o velký prachy.	
+796	McCluskey souhlasil, že bude dělat ochranku Turkovi.	
+797	Když je Sollozzo střežený, je nezranitelný.	
+798	Nikdo nikdy nezastřelil kapitána newyorské policie.	
+799	Všechny rodiny by šly po tobě.	
+800	Z Corleonových by byli psanci!	
+801	I otcova politická ochrana by se stáhla.	
+802	Udělej mi laskavost.	
+803	Uvažuj o tom.	
+804	Dobře, počkáme.	
+805	Nemůžeme čekat.	
+806	Nemůžeme čekat.	
+807	Je jedno, co Sollozzo říká, zabije našeho otce.	
+808	Je pro něho klíčový.	
+809	Musíme dostat Sollozza.	
+810	Mike má pravdu.	
+811	Něco se tě zeptám.	
+812	Co ten McCluskey?	
+813	Co uděláme s tím poldou?	
+814	Chtějí se se mnou setkat, že?	
+815	Budu tam já, McCluskey a Sollozzo.	
+816	Připravíme se na tu schůzku.	
+817	Ať informátoři zjistí, kde se to bude konat.	
+818	Budeme trvat na veřejném místě.	
+819	V baru nebo restauraci.	
+820	Někde, kde je hodně lidí, abych byl v bezpečí.	
+821	Až tam přijdu, tak mě hned prošacují, že?	
+822	Takže nemůžu mít zbraň.	
+823	Když Clemenza vymyslí, kam mi tu zbraň schovat, tak je oba zabiju.	
+824	Náš studentík.	
+825	Nechtěl se zaplétat do rodinného obchodu.	
+826	Teď chceš zastřelit kapitána policie, protože ti jednu vrazil?	
+827	To není jako v armádě!	
+828	Musíš se dostat blízko a jejich mozek se rozprskne.	
+829	Bereš to moc osobně.	
+830	Tome, tohle je obchod a on to bere osobně.	
+831	Kde je psáno, že nemůžu zabít poldu?	
+832	Mikey...	
+833	Já mluvím o poldovi, co je zapletený do drog, o nečestným poldovi.	
+834	O poldovi, co se zapletl, a dostane, co mu patří.	
+835	To bude skvělý příběh.	
+836	My máme na výplatnici lidi od novin, že?	
+837	Takový příběh by se jim líbil.	
+838	Možná jo.	
+839	Není to osobní, Sonny.	
+840	Je to obchod.	
+841	Není registrovaná.	
+842	Nedá se vystopovat, takže si nedělej starost o otisky.	
+843	Dal jsem speciální pásku na spoušť a pažbu.	
+844	Zkus to.	
+845	Je spoušť moc tuhá?	
+846	Moje uši!	
+847	Nechal jsem to tak, aby to odstrašilo náhodné kolemjdoucí.	
+848	Oba jsi je zastřelil.	
+849	Co potom?	
+850	Posadím se a dojím večeři.	
+851	Neblbni.	
+852	Spustíš ruku podél těla a upustíš pistoli.	
+853	Každý si bude myslet, že ji máš.	
+854	Budou ti zírat do obličeje, tak vyjdi rychle, ale neutíkej.	
+855	Nedívej se nikomu do očí, ale ani kolem.	
+856	Budou vyděšení, tak se ničeho neboj.	
+857	Budeš v pořádku.	
+858	Odjedeš na dovolenou neznámo kam a my budeme snášet to peklo.	
+859	Jak moc zlý to bude?	
+860	Sakra zlý.	
+861	Nejspíš se všechny rodiny spojí proti nám.	
+862	Stává se to každých pět deset let.	
+863	Čistí to zlou krev.	
+864	Už je to deset let od minula.	
+865	Musíš je zastavit na začátku.	
+866	Jako měli zastavit Hitlera v Mnichově, nemělo mu to tak projít.	
+867	[NO TRANSLATION]	missing translation
+868	Víš, Miku, byli jsme na tebe hrdí.	
+869	Že jsi hrdina.	
+870	I tvůj otec.	
+871	Nic.	
+872	Ani ťuk.	
+873	Absolutně nic.	
+874	Ani Sollozzovi lidé nevědí, kde bude ta schůzka.	
+875	Kolik máme času?	
+876	Vyzvednou tě před Jack Dempseys za hodinu a půl.	
+877	Mohli bychom se na ně pověsit.	
+878	Sollozzo tě setřese.	
+879	A co vyjednavač?	
+880	Hraje karty s mými muži.	
+881	Je rád,	
+882	že ho nechávají vyhrávat.	
+883	Je to riskantní.	
+884	Odvoláme to.	
+885	Vyjednavač bude hrát karty, dokud se Mike nevrátí.	
+886	Mohl by odprásknout toho v autě.	
+887	To budou čekat.	
+888	Sollozzo v autě ani nemusí být, Sonny!	
+889	Já to vezmu.	
+890	Restaurace Louis v Bronxu.	
+891	Je to jistý?	
+892	To byl muž od McCluskeyho.	
+893	Kapitán policie musí být na telefonu 24 hodin.	
+894	Bude tam mezi 8 a 10.	
+895	Zná někdo ten lokál?	
+896	Jasně.	
+897	Je pro nás perfektní.	
+898	Rodinné prostředí, dobré jídlo.	
+899	Každý si hledí svýho.	
+900	Perfektní.	
+901	Je tam staromódní záchod.	
+902	Víš, ta krabička s řetízkem.	
+903	Možná bychom za ni mohli přilepit pistoli.	
+904	Dobře.	
+905	Miku, půjdeš do restaurace, budeš jíst, chvíli mluvit, odpočívat.	
+906	Uvolníš je.	
+907	Pak odejdeš na záchod.	
+908	Ne, ještě líp, požádáš je o povolení.	
+909	Pak se vrátíš a začneš pálit.	
+910	Dvě rány každýmu do hlavy.	
+911	Chci, aby někdo dobrej připravil tu zbraň.	
+912	Nechci, aby vylezl ven jen s ptákem v ruce.	
+913	Ta zbraň tam bude.	
+914	Ty ho odvezeš a pak přivezeš.	
+915	Jdeme na to.	
+916	Řekl ti, že máš tu zbraň hned zahodit?	
+917	Jo, milionkrát.	
+918	Nezapomeň.	
+919	Dvě rány každýmu do hlavy, jakmile projdeš dveřmi.	
+920	Kdy myslíš, že se budu moci vrátit?	
+921	Nejdříve za rok.	
+922	Já mámě vysvětlím, že ses před odjezdem nerozloučil,	
+923	a dám vědět tvojí přítelkyni, až nastane čas.	
+924	Opatruj se.	
+925	Opatruj se, Miku.	
+926	Jsem rád, žes přišel.	
+927	Doufám, že všechno urovnáme.	
+928	Nechtěl jsem, aby to takhle dopadlo.	
+929	To se nemělo stát.	
+930	Chci všechno urovnat.	
+931	Chci, aby můj otec měl pokoj.	
+932	Přísahám na své děti, že bude, Miku.	
+933	Ale musíš mít otevřenou mysl, až budeme mluvit.	
+934	Doufám, že nejsi horká hlava jako Sonny.	
+935	S ním se nedá jednat.	
+936	Je to dobrej kluk.	
+937	Omlouvám se za ten večer, Miku.	
+938	Musím tě prošacovat, tak se otoč.	
+939	Na kolena, čelem ke mně.	
+940	Asi už jsem na to moc starej.	
+941	Moc nevrlej.	
+942	Nesnáším mrzutosti.	
+943	Víš, jak to chodí.	
+944	Je čistej.	
+945	Jedeme do Jersey?	
+946	Možná.	
+947	Hezká práce, Lou.	
+948	Jaká tu vaří italská jídla?	
+949	Zkus telecí.	
+950	Je nejlepší ve městě.	
+951	Dám si ho.	
+952	Budu s Mikeym mluvit italsky.	
+953	Do toho.	
+954	Chci jen...	
+955	Pro mě je nejdůležitější mít záruky.	
+956	Už žádný pokusy zabít mého otce.	
+957	Jaký záruky ti můžu dát?	
+958	Já jsem pronásledovaný!	
+959	Promeškal jsem šanci.	
+960	Moc si o mně myslíš.	
+961	Nejsem tak chytrý.	
+962	Chci jen příměří.	
+963	Musím na záchod.	
+964	Můžu?	
+965	Když musíš, tak musíš.	
+966	[NO TRANSLATION]	missing translation
+967	Je čistej.	
+968	Ať ti to moc netrvá.	
+969	Šacoval jsem tisíce všiváků.	
+970	Dobře, vem to.	
+971	Miluju tě, dědečku.	
+972	Promiň, tati.	
+973	On tě ještě nezná.	
+974	Hej, chlapče.	
+975	Dej to dědečkovi.	
+976	Dobře.	
+977	Doufám, že se uzdravíš, dědo, a přeju si tě brzy vidět.	
+978	Tvůj vnuk Frank.	
+979	Jdi za svou matkou.	
+980	Odveď je dolů.	
+981	Běž, Carlo, ty taky.	
+982	Jdi.	
+983	Co je s tebou, Carlo?	
+984	Mlč a připrav stůl.	
+985	Od vraždy McCluskeyho jde policie po většině našich operací.	
+986	A taky ostatní rodiny.	
+987	Je hodně zlé krve.	
+988	Jdou po nás a my po nich.	
+989	Díky našim kontaktům v novinách jsme zveřejnili materiály o McCluskeyho propojení se Sollozzou a s drogami.	
+990	Věci se začínají zklidňovat.	
+991	Já posílám Freda do Las Vegas pod ochranu Dona Francesca z L.A.	
+992	Chci, aby si odpočinul.	
+993	Přiučím se něco o kasinech.	
+994	Kde je Michael?	
+995	To Michael zabil Sollozzu.	
+996	Je v bezpečí.	
+997	Pracujeme na tom, aby se mohl vrátit.	
+998	Zjistils, kde se ukrývá ten pasák Tattaglia?	
+999	Chci ho hned.	
+1000	Sonny, věci se začínají zklidňovat.	
+1001	Když půjdeš po Tattagliovi, rozpoutá se peklo.	
+1002	Otec může vyjednávat.	
+1003	Musí se uzdravit.	
+1004	Já rozhodnu...	
+1005	Válka je drahá.	
+1006	Nemůžeme obchodovat.	
+1007	To ani oni.	
+1008	O to se nestarej!	
+1009	Nemůžeme si dovolit pat.	
+1010	Už žádný pat.	
+1011	Zabiju toho bastarda!	
+1012	Budeš mít skvělou pověst!	
+1013	Udělej, co říkám!	
+1014	Mít sicilskýho consigliera, nebyl bych ve srabu!	
+1015	Otec měl Genca.	
+1016	A co mám já?	
+1017	Promiň.	
+1018	Nemyslel jsem to tak.	
+1019	Máma něco uvařila.	
+1020	Je neděle.	
+1021	Negři v Harlemu se dobře baví na náš účet.	
+1022	Jezdí v Cadillacích, vyplácejí 50 procent ze sázek.	
+1023	Protože začali vydělávat velký prachy.	
+1024	Otec o obchodech u stolu nikdy nemluvil.	
+1025	Drž hubu, Connie...	
+1026	Nikdy jí neříkej, že má držet hubu.	
+1027	Nepleť se do toho.	
+1028	Rád bych si s vámi promluvil.	
+1029	Mohl bych pro rodinu dělat víc...	
+1030	U stolu o kšeftech nemluvíme.	
+1031	Ruku líbám, Done Tommasino.	
+1032	Proč jsi tak daleko od domu?	
+1033	Víš, že zodpovídám za tvůj život.	
+1034	Mám Cala a Fabrizia.	
+1035	Je to dost nebezpečné.	
+1036	Slyšeli jsme to od Santina z New Yorku.	
+1037	Nepřátelé vědí, kde jsi.	
+1038	Řekl Santino, kdy se mohu vrátit?	
+1039	Ještě ne.	
+1040	Zatím v žádném případě.	
+1041	Kam jdeš?	
+1042	Do Corleone.	
+1043	Vem si moje auto.	
+1044	Ne, chci jít pěšky.	
+1045	Buď opatrný!	
+1046	Kde jsou všichni muži?	
+1047	Vendeta je všechny zabila.	
+1048	Tady jsou jména mrtvých.	
+1049	Hej, hej, vem mě do Ameriky, vojáku!	
+1050	Hej, hej, vem mě do Ameriky, vojáku!	
+1051	Clark Gable!	
+1052	Amerika!	
+1053	Vem mě do Ameriky, vojáku!	
+1054	Clark Gable, Rita Hayworthová!	
+1055	Mamma mia, to je nádhera!	
+1056	Myslím, že tě zasáhl blesk.	
+1057	Na Sicílii jsou ženy nebezpečnější než zbraně.	
+1058	Měli jste dobrý lov?	
+1059	Musíš znát všechny holky z okolí.	
+1060	Viděli jsme pár krásek.	
+1061	Jedna zasáhla našeho přítele jako blesk.	
+1062	Ta by dokázala svést i ďábla.	
+1063	Dali by to dohromady.	
+1064	Co, Calo?	
+1065	Ty vlasy, ta pusa!	
+1066	Holky tady jsou krásný, ale ctnostný.	
+1067	Měla fialové šaty.	
+1068	A fialovou mašli ve vlasech.	
+1069	Vypadala spíš jako Řekyně než Italka.	
+1070	Znáš ji?	
+1071	Taková holka tady ve městě není.	
+1072	Panebože, chápu!	
+1073	Co se děje?	
+1074	Jdeme.	
+1075	To je jeho dcera.	
+1076	Ať sem jde.	
+1077	Zavolej ho.	
+1078	Fabrizio, překládej.	
+1079	Omlouvám se, jestli jsem vás urazil.	
+1080	Jsem tady cizinec.	
+1081	Nechtěl jsem urazit vás ani vaši dceru.	
+1082	Jsem Američan, ukrývám se tady.	
+1083	Jmenuji se Michael Corleone.	
+1084	Spousta lidí by za tuhle informaci zaplatila.	
+1085	Ale pak by vaše dcera ztratila otce, místo aby získala manžela.	
+1086	Chci poznat vaší dceru.	
+1087	S vaším dovolením a pod dohledem vaší rodiny.	
+1088	Se vší úctou.	
+1089	Přijďte nás v neděli navštívit.	
+1090	Jmenuji se Vitelli.	
+1091	Jak se jmenuje?	
+1092	Jednou tě zničím.	
+1093	Nech si to do knihovny.	
+1094	Musíme vyzvednout sestru.	
+1095	Co se děje?	
+1096	Co se děje?	
+1097	Byla to moje chyba!	
+1098	Kde je?	
+1099	Byla to moje chyba.	
+1100	Já ho uhodila.	
+1101	Já začala.	
+1102	Já ho uhodila, on mi to vrátil...	
+1103	Jenom zavolám doktora, aby se na tebe podíval.	
+1104	Sonny, prosím, nic nedělej.	
+1105	Co se s tebou děje?	
+1106	Co udělám?	
+1107	Chceš sirotka ještě dříve, než se narodí?	
+1108	Pořád ještě sázíte na Yankees?	
+1109	Řekni jim, ať to stopnou.	
+1110	Už jsme přišli o dost peněz.	
+1111	Pojď sem, pojď sem!	
+1112	Jestli na ni ještě sáhneš, zabiju tě.	
+1113	Hej!	
+1114	Nečekali jsme tě, Kay.	
+1115	Měla jsi zavolat.	
+1116	Ano, volala jsem.	
+1117	Zkoušela jsem psát a volat.	
+1118	Chci se spojit s Michaelem.	
+1119	Nikdo neví, kde je.	
+1120	Víme jen, že je v pořádku.	
+1121	Co to bylo?	
+1122	Nehoda, ale nikdo nebyl zraněn.	
+1123	Tome, dej tenhle dopis Michaelovi.	
+1124	Prosím.	
+1125	Kdybych to přijal, mohli by u soudu prokázat, že vím, kde je.	
+1126	On se s tebou spojí.	
+1127	Nechala jsem odjet taxík, zavoláš mi jiný?	
+1128	Pojď.	
+1129	Promiň.	
+1130	Haló?	
+1131	Je tam Carlo?	
+1132	Kdo je to?	
+1133	Carlova přítelkyně.	
+1134	Řekněte mu, že dnes můžu až pozdě večer.	
+1135	Děvka!	
+1136	Večeře je na stole.	
+1137	Nemám hlad.	
+1138	Jídlo bude studený.	
+1139	Najím se venku.	
+1140	Říkal jsi, že chceš večeři!	
+1141	[NO TRANSLATION]	missing translation
+1142	[NO TRANSLATION]	missing translation
+1143	Ty špinavej taliánskej fakane.	
+1144	To je ono, rozbij to všechno, ty rozmazlená taliánko.	
+1145	Všechno!	
+1146	Proč tu děvku nepřivedeš na večeři?	
+1147	Možná přivedu.	
+1148	Ukliď to!	
+1149	To určitě!	
+1150	Ty rozmazlenej fakane.	
+1151	Ukliď to!	
+1152	Ukliď to!	
+1153	Ukliď to!	
+1154	Řekl jsem, ukliď to!	
+1155	Ukliď to!	
+1156	Ukliď to.	
+1157	Ukliď to, ty...	
+1158	Ukliď to!	
+1159	Ukliď to!	
+1160	Jo, zabij mě.	
+1161	Buď vrah jako tvůj otec!	
+1162	Všichni Corleonové jsou vrazi!	
+1163	Nenávidím tě!	
+1164	Dělej, zabij mě!	
+1165	Vypadni odsud!	
+1166	Nenávidím tě!	
+1167	Teď zabiju já tebe.	
+1168	Ty taliánskej fakane.	
+1169	Vypadni!	
+1170	Connie, co se děje?	
+1171	Neslyším tě.	
+1172	Connie, mluv hlasitěji.	
+1173	Dítě pláče.	
+1174	Santino, já nerozumím.	
+1175	Já nevím.	
+1176	Ano, Connie.	
+1177	Počkej tam.	
+1178	Ne, počkej tam.	
+1179	Ten parchant.	
+1180	Parchant!	
+1181	Co se děje?	
+1182	Otevřete tu bránu!	
+1183	Hněte sebou.	
+1184	Sonny!	
+1185	Sonny.	
+1186	Uhni!	
+1187	Jeďte za ním!	
+1188	Parchant.	
+1189	Dělej!	
+1190	Dej mi kapku.	
+1191	Moje žena nahoře pláče.	
+1192	Slyším přijíždět auta.	
+1193	Consigliere můj, řekni svému Donovi, co všichni vědí.	
+1194	Mámě jsem nic neřekl.	
+1195	Chtěl jsem tě probudit a říci ti to.	
+1196	Ale potřeboval jsi drink.	
+1197	Jo.	
+1198	Tak už sis dal svůj drink.	
+1199	Zastřelili Sonnyho na dálnici.	
+1200	Je mrtvý.	
+1201	Nechci žádné vyšetřování.	
+1202	Nechci žádnou pomstu.	
+1203	Chci, abys dojednal schůzku všech pěti rodin.	
+1204	Válka skončila.	
+1205	Zavolej Bonaseru.	
+1206	Potřebuju ho teď.	
+1207	Tady Tom Hagen.	
+1208	Volám jménem Vita Corleona na jeho žádost.	
+1209	Dlužíte Donovi službu.	
+1210	Vy mu ji bezpochyby splatíte.	
+1211	Bude ve vašem pohřebním ústavu za hodinu.	
+1212	Buďte tam.	
+1213	Příteli, jsi připraven prokázat mi službu?	
+1214	Ano.	
+1215	Co si přejete, abych udělal?	
+1216	Využij všech svých schopností a dovedností.	
+1217	Nechci, aby ho matka viděla takhle.	
+1218	Takhle mi zmasakrovali syna.	
+1219	Je bezpečnější tě učit anglicky.	
+1220	Umím anglicky.	
+1221	Monday, Tuesday, Thursday, Wednesday, Friday, Sunday, Saturday.	
+1222	Zdravím vás, Done Tommasino.	
+1223	Co nového v Palermu?	
+1224	Michael mě učí řídit.	
+1225	Ukážu vám to.	
+1226	Jak je v Palermu?	
+1227	Mládež si dnes už ničeho neváží.	
+1228	Časy se horší.	
+1229	Tohle místo začíná být pro tebe nebezpečný.	
+1230	Chci, aby ses přestěhoval do jedné vily poblíž Syrakus. Hned.	
+1231	Co se děje?	
+1232	Špatné zprávy z Ameriky.	
+1233	Tvého bratra Santina... Zastřelili ho.	
+1234	Jedeme.	
+1235	Slíbil jsi mi to.	
+1236	Fabrizio!	
+1237	Připrav auto.	
+1238	Pojedete sám, šéfe?	
+1239	Vaše paní nejede?	
+1240	Ne, zavez ji k otci, než pomine nebezpečí.	
+1241	Dobře, jak si přejete.	
+1242	Calo, kde je Apollonia?	
+1243	Hodlá vás překvapit.	
+1244	Chce řídit.	
+1245	Bude dobrá americká manželka.	
+1246	Donesu vám kufry.	
+1247	Fabrizio!	
+1248	Kam jdeš?	
+1249	Počkej tam!	
+1250	Já tam přijedu.	
+1251	Ne, Apollonia!	
+1252	Done Barzini, chci vám poděkovat za pomoc při svolání dnešní schůzky a ostatním hlavám pěti rodin z New Yorku a New Jersey.	
+1253	Carmine Cuneo z Bronxu a z Brooklynu Philip Tattaglia.	
+1254	A ze Staten lsland je tu s námi Victor Strachi.	
+1255	A ostatní společníci přijeli dokonce až z Kalifornie a Kansasu a z dalších míst z celé země.	
+1256	Děkuji.	
+1257	Jak vše mohlo dojít tak daleko?	
+1258	Já nevím.	
+1259	Bylo to tak nešťastné a zbytečné.	
+1260	Tattaglia ztratil syna, já ztratil syna.	
+1261	Jsme vyrovnáni.	
+1262	A pokud Tattaglia souhlasí, jsme ochotni vrátit se k našim bývalým vztahům.	
+1263	Jsme vděční Donu Corleonovi za dnešní schůzku.	
+1264	Víme, že umí držet slovo.	
+1265	Je skromný a řídí se rozumem.	
+1266	Ano, Done Barzini.	
+1267	Je příliš skromný.	
+1268	Měl všechny soudce a politiky v kapse.	
+1269	Nechtěl se o ně podělit.	
+1270	Kdy jsem odmítl pomocnou ruku?	
+1271	Všichni mě znáte.	
+1272	Kdy jsem odmítl pomoc s jedinou výjimkou?	
+1273	A proč?	
+1274	Protože si myslím, že obchod s drogami nás za pár let zničí.	
+1275	To není jako hazard, alkohol nebo ženské, tyto věci většina lidí chce, ale zakazuje to církev.	
+1276	Dokonce i policie, která nám v minulosti pomáhala s hazardem, nám odmítne pomoc, když půjde o narkotika.	
+1277	Tvrdil jsem to dřív... a tvrdím to i teď.	
+1278	Časy se změnily.	
+1279	Není to jako dřív, kdy jsme si dělali, co jsme chtěli.	
+1280	Odmítnutí není gesto přítele.	
+1281	Má-li Don Corleone pod rukou soudce a politiky, musí se o ně podělit, nebo umožnit k nim přístup.	
+1282	Musí nám dovolit čerpat vodu ze studny.	
+1283	Jistě, že nám může předkládat účet za služby.	
+1284	Konečně nejsme komunisti.	
+1285	Také nevěřím na drogy.	
+1286	Léta připlácím svým lidem, aby se do takovýho obchodu nepouštěli.	
+1287	Někdo jim řekne: Mám bílý prášek.	
+1288	Dáte-li 3-4 tisíce dolarů, můžete vydělat 50000 distribucí.	
+1289	Nedokážou odolat.	
+1290	Musíme ten obchod ovládat, aby se nevymkl z rukou.	
+1291	Nechci to blízko u škol, nechci to prodávat dětem.	
+1292	To by byla hanba.	
+1293	V našem městě bychom se zaměřili na barevný.	
+1294	Jsou to zvířata, tak ať ztratí svou duši.	
+1295	Doufal jsem, že budeme rozumně hledat řešení.	
+1296	Jsem ochotný udělat cokoliv pro mírové řešení.	
+1297	Souhlasíme.	
+1298	Obchod s drogami bude povolen, ale regulován.	
+1299	Don Corleone nám zajistí ochranu na východě a tím potvrdí mír.	
+1300	Já trvám na pevné záruce od Corleona.	
+1301	Až uplyne nějaký čas a jeho pozice zesílí, nepokusí se o pomstu?	
+1302	Všichni jsme rozumní muži.	
+1303	Nemusíme dávat záruky.	
+1304	Mluvíte o pomstě.	
+1305	Vrátí vám pomsta vašeho syna?	
+1306	Nebo mého mně?	
+1307	Nebudu se mstít za svého syna.	
+1308	Mám zištné důvody.	
+1309	Můj nejmladší syn byl přinucen opustit zemi kvůli Sollozzovi.	
+1310	A já teď musím zajistit jeho bezpečný návrat.	
+1311	Očistit ho od falešných obvinění.	
+1312	Ale jsem pověrčivý.	
+1313	Kdyby se mu přihodila nehoda, nebo byl zastřelen policistou, nebo kdyby se oběsil ve vězeňské cele, nebo kdyby ho zasáhl blesk, pak bych obvinil někoho v této místnosti.	
+1314	Tak moc zase neodpouštím.	
+1315	Ale na druhé straně vám tady přísahám na život svých vnoučat, že neporuším nikdy mír, který jsme tady uzavřeli.	
+1316	Mám trvat na tom, aby měli Tattagliovi překupníci čistý rejstřík?	
+1317	Zmiň se o tom.	
+1318	Netrvej na tom.	
+1319	Barzini to pochopí, když to naznačíš.	
+1320	Myslíš Tattagliu.	
+1321	Tattaglia je kuplíř.	
+1322	Ten by na Santina nestačil.	
+1323	Až dneska jsem se ujistil, že to byl Barzini a nikdo jiný.	
+1324	Pojď, Nancy.	
+1325	Držte se všichni za ruce.	
+1326	Briane.	
+1327	Dobře.	
+1328	Jak dlouho jsi zpátky?	
+1329	Asi rok.	
+1330	Možná déle.	
+1331	Rád tě vidím, Kay.	
+1332	Pracuji teď pro svého otce, Kay.	
+1333	Je nemocný.	
+1334	Těžce.	
+1335	Ale ty nejsi jako on.	
+1336	Říkal jsi, že nebudeš jako tvůj otec.	
+1337	Můj otec se neliší od jiných mocných lidí.	
+1338	Od těch, co jsou odpovědní za jiné lidi.	
+1339	Jako senátor nebo prezident.	
+1340	Zní to tak naivně.	
+1341	Proč?	
+1342	Senátoři a prezidenti nezabíjejí lidi.	
+1343	Kdo je naivní, Kay?	
+1344	Způsob, jak to dělal otec, je pryč.	
+1345	I on to ví.	
+1346	Do pěti let bude rodina Corleonů úplně čistá.	
+1347	Věř mi.	
+1348	To jediné ti mohu říci.	
+1349	Kay...	
+1350	Michaele, proč jsi sem přišel?	
+1351	Proč?	
+1352	Co ode mě chceš po všech těch letech?	
+1353	Volala jsem ti a psala.	
+1354	Potřebuju tě.	
+1355	Záleží mně na tobě.	
+1356	Přestaň, Michaele.	
+1357	Protože...	
+1358	chci si tě vzít.	
+1359	Je pozdě.	
+1360	Prosím, Kay...	
+1361	Udělám cokoliv, abych odčinil vše, co se nám stalo.	
+1362	Protože je to důležité, Kay.	
+1363	Protože důležité je, že máme jeden druhého.	
+1364	Že máme společný život.	
+1365	Budeme mít děti.	
+1366	Naše děti.	
+1367	Kay, potřebuju tě.	
+1368	A miluju tě.	
+1369	Barziniho lidi se vetřeli do mého teritoria a my nic neděláme!	
+1370	Brzy si ani neodložím klobouk!	
+1371	Buď trpělivý.	
+1372	Nežádám o pomoc.	
+1373	Chci jen trochu svobody.	
+1374	Buď trpělivý.	
+1375	Musíme se bránit.	
+1376	Nech mě najmout nový chlapy.	
+1377	Ne.	
+1378	Barzini by měl důvod k zahájení boje.	
+1379	Miku, mýlíš se.	
+1380	Done Corleone,	
+1381	jednou jste říkal, že přijde den, kdy si Tessio a já pořídíme rodinu.	
+1382	Dodnes jsem na to ani nepomyslel.	
+1383	Chci vaše svolení.	
+1384	Michael je teď hlavou rodiny.	
+1385	Když vám dá svolení, tak máte mé požehnání.	
+1386	Až se přesuneme do Nevady, můžete opustit rodinu Corleonových a jít vlastní cestou.	
+1387	Za jak dlouho?	
+1388	Za šest měsíců.	
+1389	Odpusťte, ale když budete pryč, já a Pete se dostaneme Barzinimu pod palec.	
+1390	Nenávidím Barziniho.	
+1391	Za šest měsíců už nebude na čem stavět.	
+1392	Důvěřujete mému úsudku?	
+1393	Ano.	
+1394	Mám vaši loajalitu?	
+1395	Vždycky, Kmotře.	
+1396	Pak věřte Michaelovi.	
+1397	Dělejte, co chce.	
+1398	Teď se vyjednávají věci, které vyřeší vaše problémy a zodpoví vaše otázky.	
+1399	Víc vám říci nemůžu.	
+1400	Carlo, ty jsi vyrostl v Nevadě.	
+1401	Až tam budeme, budeš moje pravá ruka.	
+1402	Tom Hagen už není náš consigliere.	
+1403	Bude náš právník ve Vegas.	
+1404	Není to znevážení Toma, ale chci to.	
+1405	A navíc nikdo není lepší consigliere než můj otec.	
+1406	[NO TRANSLATION]	missing translation
+1407	Děkuji, otče.	
+1408	Jsem šťastný za tebe, Carlo.	
+1409	Miku...	
+1410	Proč jsem venku?	
+1411	Nejsi válečný consigliere, Tome.	
+1412	Věci by se mohly přitvrdit.	
+1413	Tome.	
+1414	Poradil jsem to Michaelovi.	
+1415	Nikdy jsi nebyl špatný consigliere.	
+1416	Myslím, že Santino byl špatný Don, ať mi promine.	
+1417	Michael má moji důvěru, stejně jako ty.	
+1418	Ale jsou důvody, proč se nesmíš podílet na tom, k čemu dojde.	
+1419	Třeba bych mohl pomoci.	
+1420	Jsi ze hry, Tome.	
+1421	Nemůžu se vzpamatovat, jak vypadáš.	
+1422	Tak dobře!	
+1423	Ten doktor udělal dobrou práci.	
+1424	Kay tě přemluvila?	
+1425	Hej, hej, hej!	
+1426	Nechte je tady.	
+1427	Je unavený, chce se umýt.	
+1428	Otevřu dveře, ano?	
+1429	Ahoj, Miku!	
+1430	Vítej v Las Vegas!	
+1431	Jen kvůli tobě!	
+1432	Byl to jeho nápad.	
+1433	Tvůj bratr Freddy.	
+1434	Co holky?	
+1435	Hned se vrátím.	
+1436	Věnuj se jim.	
+1437	Cokoliv budeš chtít.	
+1438	Co je to za holky?	
+1439	Je na tobě to zjistit.	
+1440	Zbav se jich, Fredo.	
+1441	Hej, Miku...	
+1442	Jsme tu pracovně.	
+1443	Vyhoď je.	
+1444	Jsem unavený.	
+1445	Tu kapelu vyhoď taky.	
+1446	Hej, zvedáme se.	
+1447	Jdeme.	
+1448	Jdeme.	
+1449	Hej, zmizte.	
+1450	Hej, Angelo.	
+1451	No tak!	
+1452	Zmizte!	
+1453	Pojď, zlato.	
+1454	Já nevím, co to s ním je, Johnny.	
+1455	Promiň.	
+1456	Já nevím.	
+1457	Je unavený.	
+1458	Co se stalo s Moe Greenem?	
+1459	Má nějakou práci.	
+1460	Mám mu zavolat, až večírek začne.	
+1461	Tak mu zavolej.	
+1462	Johnny, jak se máš?	
+1463	Rád tě vidím, Miku.	
+1464	Jsme na tebe pyšní.	
+1465	Díky.	
+1466	Posaď se, chci si promluvit.	
+1467	Don je také pyšný.	
+1468	Vděčím za to jemu.	
+1469	On ví, že jsi mu vděčný.	
+1470	Proto tě chce požádat o laskavost.	
+1471	Miku, co můžu udělat?	
+1472	Přemýšlíme, že zanecháme obchodu s olivovým olejem a usídlíme se tady.	
+1473	Moe nám prodá svůj podíl na kasinu a hotelu a bude nám to patřit.	
+1474	Tome!	
+1475	Určitě?	
+1476	Moe miluje tenhle podnik.	
+1477	Neříkal, že ho prodá.	
+1478	Udělám mu nabídku, kterou neodmítne.	
+1479	Víš, Johnny...	
+1480	Víme, že zábava přiláká hráče do kasina.	
+1481	Doufáme, že podepíšeš dohodu na pět vystoupení ročně.	
+1482	Možná, že přesvědčíš taky některé přátele od filmu.	
+1483	Počítáme s tebou.	
+1484	Jistě, Miku.	
+1485	Pro Kmotra udělám cokoliv.	
+1486	Dobře.	
+1487	Ahoj, Miku!	
+1488	Ahoj, hoši.	
+1489	Všichni jsou tady.	
+1490	Freddy, Tome.	
+1491	Rád tě vidím.	
+1492	Jak se máš, Moe?	
+1493	Dáte si něco?	
+1494	Připravili jsme specialitu k jídlu a tanečnice.	
+1495	Dejte všem žetony, ať si zahrají na účet podniku.	
+1496	Myslíš, že mám dost, abych tě vykoupil?	
+1497	Vykoupit mě?	
+1498	Kasino, hotel.	
+1499	Corleonovi tě chtějí vykoupit.	
+1500	Rodina Corleonových mě chce vykoupit?	
+1501	Ne, já vás vykoupím.	
+1502	Kasino prodělává.	
+1503	My budeme lepší.	
+1504	Myslíte, že si něco stahuju?	
+1505	Nemáš štěstí.	
+1506	Vy taliáni mě dokážete rozesmát.	
+1507	Vzal jsem Freddyho, když jste potřebovali, a teď mě vystrkujete!	
+1508	Udělal jsi to, protože jsme ti financovali kasino a rodina Molinariů zaručila jeho bezpečnost.	
+1509	Bavme se obchodně.	
+1510	Ano.	
+1511	Za prvé, s vámi je konec.	
+1512	Už nemáte takovou moc.	
+1513	Kmotr je nemocný.	
+1514	Z New Yorku vás vyhánějí ostatní rodiny.	
+1515	Myslíte, že můžeš přijít do hotelu a převzít ho?	
+1516	Mluvil jsem s Barzinim.	
+1517	Můžu uzavřít obchod s ním a hotel mi zůstane!	
+1518	Proto jsi nafackoval mému bratrovi?	
+1519	To nic nebylo, Miku.	
+1520	Moe to tak nemyslel.	
+1521	Někdy se rozzlobí, ale jsme dobří přátelé.	
+1522	Řídím podnik.	
+1523	Občas je musím srovnat.	
+1524	Trochu jsme si nerozuměli, tak jsem ho srovnal.	
+1525	Ty jsi srovnal mýho bratra?	
+1526	Šukal mi tady servírky!	
+1527	Hráče nikdo neobsluhoval.	
+1528	Co je to s tebou?	
+1529	Zítra se vracím do New Yorku.	
+1530	Přemýšlej o ceně.	
+1531	Ty hajzle!	
+1532	Jsem Moe Greene!	
+1533	Já jsem se dřel, když tys chodil za holkama.	
+1534	Moment, Moe.	
+1535	Mám nápad.	
+1536	Tome, ty jsi consigliere.	
+1537	Promluv s Donem...	
+1538	Moment.	
+1539	Don je na odpočinku a Mike teď řídí rodinný podnik.	
+1540	Když chcete něco říci, řekněte to Michaelovi.	
+1541	Miku, nemůžeš přijet do Las Vegas a mluvit takhle s někým jako Moe Greene!	
+1542	Fredo...	
+1543	Jsi můj starší bratr a mám tě rád.	
+1544	Ale nikdy se nepřidávej na stranu, co stojí proti rodině.	
+1545	[NO TRANSLATION]	missing translation
+1546	Musím promluvit s otcem a jeho lidmi, najezte se beze mne.	
+1547	O víkendu si vyjedeme.	
+1548	Pojedeme do města, do divadla a na večeři.	
+1549	Tvoje sestra tě o něco chce požádat.	
+1550	Ať mě požádá.	
+1551	Bojí se.	
+1552	Chtějí tě za kmotra jejich chlapečka.	
+1553	Uvidíme.	
+1554	Uděláš to?	
+1555	Budu o tom přemýšlet.	
+1556	[NO TRANSLATION]	missing translation
+1557	Barzini udělá první krok proti tobě.	
+1558	Zařídí schůzku s někým, komu bezmezně důvěřuješ.	
+1559	Zajistí tvoji bezpečnost.	
+1560	A na té schůzce tě zastřelí.	
+1561	Víno mi teď chutná víc než dřív.	
+1562	Prostě ho piju víc.	
+1563	Dělá ti dobře, tati.	
+1564	Já nevím.	
+1565	Jsi šťastný se ženou a dětmi?	
+1566	Velmi šťastný.	
+1567	To je dobře.	
+1568	Doufám, že ti nevadí, že pořád mluvím o Barzinim.	
+1569	Ne, vůbec ne.	
+1570	Je to starý zvyk.	
+1571	Celý život jsem se snažil být opatrný.	
+1572	Ženy a děti mohou být neopatrné, ale muži ne.	
+1573	Co tvůj syn?	
+1574	Je fajn.	
+1575	Podobá se ti stále víc.	
+1576	Je chytřejší než já.	
+1577	Jsou mu tři a už umí číst komiksy.	
+1578	Umí číst komiksy.	
+1579	Zajisti, aby někdo od spojařů kontroloval všechny hovory.	
+1580	Už jsem to udělal, tati.	
+1581	[NO TRANSLATION]	missing translation
+1582	Správně.	
+1583	Zapomněl jsem.	
+1584	Co je?	
+1585	Co tě trápí?	
+1586	Zvládnu to.	
+1587	Říkal jsem, že to zvládnu, tak to zvládnu.	
+1588	Věděl jsem, že Santino tím vším bude muset projít.	
+1589	A Fredo...	
+1590	Fredo byl, víš...	
+1591	Ale nikdy jsem to nechtěl pro tebe.	
+1592	Pracoval jsem celý život.	
+1593	Neomlouvám se, postaral jsem se o rodinu.	
+1594	A odmítal jsem být hlupák, tančit podle toho, jak vrchnost tahá za nitky.	
+1595	Neomlouvám se.	
+1596	Je to můj život, ale myslel jsem, že až přijde tvůj čas, tak ty budeš ten, kdo bude tahat za nitky.	
+1597	Senátor Corleone.	
+1598	Guvernér Corleone.	
+1599	Někdo.	
+1600	Další vrchnost.	
+1601	No...	
+1602	Bylo málo času, Michaele.	
+1603	Nebylo ho dost.	
+1604	Dostaneme se tam, tati.	
+1605	Dostaneme.	
+1606	Poslyš, ten, kdo za tebou přijde kvůli schůzce s Barzinim, je zrádce.	
+1607	Nezapomeň na to.	
+1608	Můžu to podržet, prosím?	
+1609	Můžu je zalít?	
+1610	Ano, do toho.	
+1611	Tady, tady.	
+1612	Opatrně.	
+1613	Stříkáš vedle.	
+1614	Antony!	
+1615	Pojď sem, pojď sem.	
+1616	Tak.	
+1617	Dáme to sem.	
+1618	Něco ti ukážu.	
+1619	Pojď sem.	
+1620	Postav se tady.	
+1621	Dej mi pomeranč!	
+1622	To je nový trik.	
+1623	Tak běž.	
+1624	Utíkej.	
+1625	Kde jsi?	
+1626	Miku, můžeš na minutku?	
+1627	Barzini chce svolat schůzku.	
+1628	Tvrdí, že můžeme urovnat všechny problémy.	
+1629	Tys s ním mluvil?	
+1630	Jo.	
+1631	Můžu zajistit bezpečnost.	
+1632	Na mém území.	
+1633	Souhlasíš?	
+1634	Dobře.	
+1635	Máš ponětí, o co jde?	
+1636	Svolávají schůzku v Brooklynu.	
+1637	Na území Tessiových.	
+1638	Kde budu v bezpečí.	
+1639	Vždycky jsem myslel, že to bude Clemenza, ne Tessio.	
+1640	Je to chytrý tah.	
+1641	Tessio byl vždy chytřejší.	
+1642	Ale já počkám.	
+1643	Po křtinách.	
+1644	Budu kmotrem syna Connie.	
+1645	A pak se setkám s Donem Barzinim a Tattagliovými.	
+1646	Se všemi hlavami pěti rodin.	
+1647	Michaele, věříš v Boha, Otce, Stvořitele nebes a země?	
+1648	Ano.	
+1649	Věříš v Ježíše Krista, eho jediného syna, našeho Pána?	
+1650	Ano.	
+1651	Věříš v Ducha Svatého, ve svatou katolickou víru?	
+1652	Ano.	
+1653	Michaele Francisi Rizzi, zříkáš se Satana?	
+1654	Zříkám se ho.	
+1655	A všeho jeho konání?	
+1656	Zříkám se jich.	
+1657	Bože!	
+1658	A veškeré jeho pýchy?	
+1659	Zříkám se jí.	
+1660	Michaele Rizzi, dáš se pokřtít?	
+1661	Ano.	
+1662	Michaele Rizzi, jdi v míru a Bůh buď s tebou.	
+1663	Amen.	
+1664	Kay!	
+1665	Polib svého kmotra.	
+1666	Nemůžu do Vegas.	
+1667	Něco se přihodilo.	
+1668	Všichni musí odjet bez nás.	
+1669	Miku, naše první dovolená!	
+1670	Connie, prosím.	
+1671	Jeď domů a čekej, až zavolám.	
+1672	Je to důležitý.	
+1673	Bude to jen na pár dní.	
+1674	Jsme na cestě do Brooklynu.	
+1675	Snad nám Mike nabídne dobrý obchod.	
+1676	Tomu věř.	
+1677	Sale, Tome, šéf říká, že pojede v jiným autě, máte jet napřed.	
+1678	To naruší všechny plány.	
+1679	Tak to říkal.	
+1680	Taky nemůžu, Sale.	
+1681	Řekni Mikovi, že šlo o obchod.	
+1682	Měl jsem ho vždy rád.	
+1683	On to tak chápe.	
+1684	Promiň, Sale.	
+1685	Tome, můžeš mě z toho dostat?	
+1686	Vzpomeň na staré časy.	
+1687	Nemůžu, Sally.	
+1688	Musíš pykat za Santina, Carlo.	
+1689	Mike, mýlíš se.	
+1690	Vytipoval jsi Sonnyho Barzinimu.	
+1691	Ta fraška, co jsi sehrál s mojí sestrou.	
+1692	Myslels, že oblafneš Corleona?	
+1693	Jsem nevinný.	
+1694	Přísahám na děti.	
+1695	Prosím, nedělej to.	
+1696	Sedni si.	
+1697	Nedělej to, prosím.	
+1698	Barzini je mrtvý.	
+1699	Taky Philip Tattaglia.	
+1700	Moe Greene.	
+1701	Strachi.	
+1702	Cuneo.	
+1703	Dnes vyřídím rodinné záležitosti, tak neříkej, že jsi nevinný, Carlo.	
+1704	Přiznej, žes to udělal.	
+1705	Dej mu napít.	
+1706	No tak.	
+1707	Neboj, Carlo.	
+1708	Myslíš, že bych udělal ze sestry vdovu?	
+1709	Jsem kmotrem tvého syna, Carlo.	
+1710	Napij se, pij.	
+1711	Ne, v rodinném podniku už nejedeš.	
+1712	To je tvůj trest.	
+1713	Skončil jsi.	
+1714	Posadím tě do letadla do Vegas.	
+1715	Tome.	
+1716	Chci, abys tam zůstal.	
+1717	Rozumíš?	
+1718	Jen mi neříkej, že jsi nevinný.	
+1719	Tím urážíš moji inteligenci.	
+1720	To mě moc hněvá.	
+1721	Kdo tě oslovil?	
+1722	Tattaglia nebo Barzini?	
+1723	Byl to Barzini.	
+1724	Dobře.	
+1725	Venku čeká auto, co tě odveze na letiště.	
+1726	Zavolám tvé ženě a řeknu jí, kdy přiletíš.	
+1727	Miku...	
+1728	Jdi mi z očí.	
+1729	Ahoj, Carlo.	
+1730	Snažím se ti říci...	
+1731	Mami, prosím!	
+1732	Michaele!	
+1733	Co je?	
+1734	Kde je?	
+1735	Michaele, ty mizernej bastarde!	
+1736	Zabil jsi mého muže.	
+1737	Počkal jsi, až táta umře, aby ti nikdo nebránil.	
+1738	Vinil jsi ho ze smrti Sonnyho.	
+1739	Jako všichni.	
+1740	Ale nikdy jsi nemyslel na mě!	
+1741	Co uděláš teď?	
+1742	Connie.	
+1743	Proč myslíš, že držel Carla v obchoďáku?	
+1744	Věděl, že ho zabije.	
+1745	A tos šel za kmotra našemu synovi.	
+1746	Ty mizernej zlej bastarde!	
+1747	Chceš vědět, kolik mužů ještě kromě Carla zabil?	
+1748	Přečti si noviny!	
+1749	To je tvůj manžel, to je tvůj manžel!	
+1750	Ne!	
+1751	Ne, ne...	
+1752	Odveď ji nahoru.	
+1753	Zavolej doktora.	
+1754	Je hysterická.	
+1755	Hysterická.	
+1756	Michaele, je to pravda?	
+1757	Neptej se mě na obchod, Kay.	
+1758	Je to pravda?	
+1759	Neptej se mě prostě na obchod.	
+1760	Dost!	
+1761	Dobře.	
+1762	Pro tentokrát.	
+1763	Tentokrát se mě můžeš zeptat.	
+1764	Je to pravda?	
+1765	Je?	
+1766	Ne.	
+1767	Asi se oba potřebujeme napít.	
+1768	Pojď.	
+1769	Done Corleone.	

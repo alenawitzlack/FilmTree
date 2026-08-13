@@ -1,0 +1,1885 @@
+1	Seuraava pysäkki Broad Street.	
+2	Broad Street seuraavaksi.	
+3	Yläkertaan,	
+4	täältä.	
+5	Eikö hän tullut tänne?	
+6	[NO TRANSLATION]	missing translation
+7	Ei ole täällä.	
+8	Takaisin alas.	
+9	Anteeksi.	
+10	Anteeksi.	
+11	Pysäköi kulman taakse.	
+12	Vieraita.	
+13	Saanko hakea hampaani?	
+14	Eversti, voisitteko kääntyä?	
+15	Istuutukaa sängylle.	
+16	[NO TRANSLATION]	missing translation
+17	Ne ovat...	
+18	Hampaat ovat lavuaarin reunalla.	
+19	Katsokaa minua.	
+20	Olemme FBI:n agentteja.	
+21	Katsokaa minua!	
+22	Puhun teille.	
+23	Saimme tietoa osallisuudestanne vakoiluun.	
+24	Voitte tehdä yhteistyötä tai tulla pidätetyksi.	
+25	Ymmärrättekö, eversti?	
+26	En oikeastaan.	
+27	Miksi sanotte minua everstiksi?	
+28	Teidän pitää pukeutua.	
+29	Tutkimme asuntonne.	
+30	Saisinko puhdistaa palettini?	
+31	Muuten maalit menevät pilalle.	
+32	Se on siinä takananne.	
+33	Minulla on liina.	
+34	Kiitos.	
+35	Alkakaa tutkia paikkaa.	
+36	Kiitos.	
+37	Tutkikaa patja, sänky, lattia, tuoli. Tutkikaa tuoli.	
+38	Laittaisitteko tuhkakuppiin... ikkunalaudalla.	
+39	[NO TRANSLATION]	missing translation
+40	Katsotaanpa työpöytää.	
+41	En haluaisi pilata tätä.	
+42	Älkää sanoko minun kaverini.	
+43	Hän ei ole kaverini.	
+44	Kyllä on.	
+45	Kenestä puhumme?	
+46	Kaverista, jonka asiakkaani on vakuuttanut.	
+47	Joten älkää puhuko kaveristani.	
+48	Hyvä on.	
+49	Asiakkaanne vakuuttama kaveri ei kiistä mitään näistä tapahtumista.	
+50	[NO TRANSLATION]	missing translation
+51	Näistä tapahtumista?	
+52	Näistä viidestä tapahtumasta.	
+53	Hetkinen vain.	
+54	Ei viittä tapahtumaa.	
+55	Yksi tapahtuma.	
+56	Selvästi viisi tapahtumaa.	
+57	Valitan, ei selvää minulle.	
+58	Viisi tapahtumaa?	
+59	Selittäkää se.	
+60	Itsestäänselvyys.	
+61	Kertokaa mitä tapahtui.	
+62	Siten, että viidessä tapahtumassa on järkeä.	
+63	Ilman muuta.	
+64	Kaverinne...	
+65	Ei kaverini.	
+66	Asiakkaani vakuuttama.	
+67	Asiakkaanne vakuuttama kaveri ajoi tie 19:ää törmäten autollaan minun viiteen kaveriini, jotka palkkasivat minut edustamaan heitä, koska ette hyväksy vaadetta.	
+68	Siis vakuutusyhtiö ei hyväksy vaadetta?	
+69	Herra Donovan, tiedämme kuka kukin on.	
+70	Mutta asiakkaani hyväksyy kaikki vaateet.	
+71	Kyllä, herra Bates.	
+72	Jokaisen laillisen vaateen vastuurajaan asti, joka on 100 000 dollaria onnettomuutta kohti miehen vakuutuksessa.	
+73	Tämä on yksi vaade.	
+74	Sanoitte hänen törmänneen viiteen kaveriin.	
+75	Asiakkaani vakuuttamalle kaverille sattui yksi kolari.	
+76	Yksi, yksi.	
+77	Hän törmäsi autollaan viiteen motoristiin.	
+78	Heidän kannaltaan tapahtui viisi asiaa.	
+79	Kuulehan, Bob.	
+80	Saanko sanoa Bob?	forced duplication
+81	Saanko sanoa Bob?	forced duplication
+82	Jim.	
+83	Jos teen keilauksessa kaadon, se on yksi asia.	
+84	Ei 10 asiaa.	
+85	Kaverini eivät ole keiloja, vaikka kaverisi kohteli heitä keiloina.	
+86	[NO TRANSLATION]	missing translation
+87	Saanko jatkaa?	
+88	Saanko jatkaa?	
+89	Jos talo on vakuutettu 100 000 dollarista ja tornado vie sen, se vei yhden talon.	
+90	Ei jokaista huonekalua ja tuhonnut niitä erikseen.	
+91	Jos tarkoitat sitä, niin silloin vastuissa ei ole mitään rajaa, ja se on vakuutusyhtiöiden loppu.	
+92	Silloin, Bob, kukaan ei ole turvassa.	
+93	Watters, Cowan & Donovan,	
+94	kenelle yhdistän?	
+95	Huomenta, herra Donovan.	
+96	Huomenta, Alison.	
+97	Siirsin tapaamistanne Prudentialin kanssa.	
+98	Miksi?	
+99	Minä pyysin.	
+100	Onko kaikki hyvin, Tom?	
+101	Jätä tavarasi Alisonille.	
+102	Mennään sisään.	
+103	On tapahtunutjotain tärkeää.	
+104	Meillä on vieras.	
+105	Natalie tuo kahvisi.	
+106	Nescaféta, kermaa, kaksi sokeripalaa?	
+107	Aivan.	
+108	Kiitos.	
+109	Lynn!	
+110	Jim!	
+111	Mukava nähdä.	
+112	Mitenkäs perhe?	
+113	Hienosti,	
+114	kiitos.	
+115	Entä Annie?	
+116	Murhanhimoinen.	
+117	Oli appivanhemmat kylässä.	
+118	Jos hän murhaa jonkun, saa hyvän asianajajan.	
+119	Mistä on kyse?	
+120	Juttu menee näin.	
+121	Haluamme, että puolustat sitä neuvostovakoojaa.	
+122	Tässä syytekirjelmä.	
+123	[NO TRANSLATION]	missing translation
+124	En ole varma haluanko ottaa sen.	
+125	Syytetty ei tunne juristeja.	
+126	Liittovaltion tuomioistuin heitti jutun meille.	
+127	Lakimiesneuvosto äänesti.	
+128	Olet yksimielinen valinta.	
+129	Oli tärkeää meille...	
+130	Tärkeää maallemme, että hän saa reilun kohtelun.	
+131	USA:n oikeusjärjestelmää koetellaan.	
+132	Kun sen sanoo noin, on kunnia tulla pyydetyksi.	
+133	Mutta olen vakuutusjuristi.	
+134	En ole hoitanut rikosjuttuja vuosiin.	
+135	Sehän on kuin pyörällä ajoa?	
+136	Sinä kunnostauduit Nürnbergissä.	
+137	Olin syyttäjäryhmässä.	
+138	Se ei ole oleellista.	
+139	Tunnet rikoslain.	
+140	Jim, mieti tilannetta.	
+141	Häntä solvataan julkisesti.	
+142	Samoin minua.	
+143	Oppimattomissa piireissä.	
+144	Juuri siksi tämä pitää tehdä, pätevästi.	
+145	Ei saa näyttää siltä, että oikeuslaitos kohtelee ihmisiä kaltoin.	
+146	Jos suostuisin, millaista on todistusaineisto?	
+147	Melko musertavaa.	
+148	Hienoa.	
+149	Hienoa.	
+150	Minua vihataan, mutta sentään häviän.	
+151	Mitä ajattelet, Tom?	
+152	Firma kärsii.	
+153	Minulla on töitä täällä.	
+154	Se on isänmaallinen velvollisuus.	
+155	Tärkeä tehtävä.	
+156	Sanoin Lynnille, ettei firma voi kieltäytyä. Sinunkin on vaikea kieltäytyä.	
+157	Luulen, että joudut puolustamaan sitä perhanaa.	
+158	Suostutteko siis?	
+159	Mihin?	
+160	Puolustamaan Abelia, neuvostovakoojaa.	
+161	Ehkä.	
+162	Täytyy puhua...	
+163	Mistä tiesit?	
+164	Oliko ilmoitustaululla?	
+165	Ei,	
+166	mutta Richard Earl...	
+167	Jos suostun, tarvitsen apuasi.	
+168	Voitko jäädä töihin illalla?	
+169	Minulla on illallistapaaminen.	
+170	Onko tiistai?	
+171	Olen aivan vapaa.	
+172	Kiitos vain.	
+173	Se on myös kunnia.	
+174	Lakimiesyhdistys pyysi minua, jotta nähdään, että vakoojakin saa hyvän asianajajan.	
+175	Ehkä pärjäisimme ilman sitä kunniaa.	
+176	Kulta, mitä teet kotona?	
+177	Seuralainen ei tullut.	
+178	Sehän on viheliäistä.	
+179	Kuka se typerys on?	
+180	En viitsi sanoa.	
+181	Istu alas,	
+182	aloitimme juuri.	
+183	Ihmisiä pelottaa.	
+184	Rakentavat pommisuojia turvaksi sellaisilta.	
+185	Näen kaupassa miten ostetaan purkkiruokaa ja joditabletteja.	
+186	Johtuu siitä miehestä ja siitä mitä edustaa.	
+187	Hän on uhka meille.	
+188	Maanpetturi.	
+189	Kuka?	
+190	Rosenbergit olivat.	
+191	Ketkä?	
+192	Luovuttivat atomisalaisuuksia venäläisille.	
+193	Amerikkalaisia.	
+194	Pettivät maansa.	
+195	Abelia ei voi syyttää maanpetturiksi.	
+196	Ei ole amerikkalainen.	
+197	Kuuntele itseäsi.	
+198	Puolustat häntä jo.	
+199	Harjoittelet minulla.	
+200	Sanoit vain harkitsevasi.	
+201	Niin harkitsenkin, hankalajuttu.	
+202	Jokainen ansaitsee puolustuksen,	
+203	on tärkeä.	
+204	Mitä me ansaitsemme?	
+205	Tiedätkö miten meitä katsotaan?	
+206	Petturin vapautusta yrittävän miehen perhettä.	
+207	Hän ei ole petturi.	
+208	Aivan.	
+209	Roger, avaa ovi.	
+210	[NO TRANSLATION]	missing translation
+211	Miksi minä?	
+212	[NO TRANSLATION]	missing translation
+213	Ruokarukouksen jälkeen.	
+214	On nälkä!	
+215	Hän on maan epäsuosituin mies, ja sinä yrität olla kakkonen!	
+216	Minä olen kolmonen.	
+217	Tapailit vain väärää miestä.	
+218	[NO TRANSLATION]	missing translation
+219	Mary, älä tee tästä riitaa.	
+220	Olet häntä vastaan.	
+221	[NO TRANSLATION]	missing translation
+222	En minä ole venäläisten vakoojien puolella.	
+223	Kannatan oikeutta puolustukseen lakituvassa, siksi sitä kutsutaan lakituvaksi.	
+224	Ei ollut tarkoitus häiritä.	
+225	[NO TRANSLATION]	missing translation
+226	Hei, Doug.	
+227	Et häiritse.	
+228	Hei, Doug.	
+229	Jim vain huitoi.	
+230	En huido.	
+231	Liity seuraan, Doug.	
+232	Meillä on lihamureketta.	
+233	Tulitko auttamaan Jimiä miettimään, ottaako hän jutun?	
+234	Otamme sen!	
+235	Jännittävä juttu, eikö vain?	
+236	Herra, kiitämme sinua pöydän antimista.	
+237	Lahjasi Herramme Kristuksen nimeen.	
+238	Aamen.	
+239	Huomenta.	
+240	Nimeni on Jim Donovan.	
+241	Tässä henkilöllisyyspaperini.	
+242	Olen osakkaana Watters, Cowan & Donovanilla.	
+243	Valmistuin juristiksi New Yorkissa vuonna 1941.	
+244	Teitä syytetään kolmesta rikoksesta ja 19 rikosaikomuksesta.	
+245	Aikeesta luovuttaa USA:n puolustusja atomisalaisuuksia Neuvostoliitolle, aikeesta haalia salaisuuksia ja rekisteröimättömyydestä ulkomaiseksi toimijaksi.	
+246	Rekisteröityvätkö monet ulkomaiset toimijat?	
+247	Jos sopii kysyä, missä olette ollut pidätyksestänne lähtien?	
+248	En osaa sanoa varmuudella.	
+249	Ette siis tiedä?	
+250	Minut vietiin lentokentälle, lentokoneeseen ja lentokoneesta pois.	
+251	Kuumaan paikkaan.	
+252	Täällä on kuuma.	
+253	Kuumaan ja kosteaan paikkaan.	
+254	Minut laitettiin huoneeseen.	
+255	Lyötiinkö teitä?	
+256	Ei.	
+257	Minulle puhuttiin.	
+258	Tarjouksia tehtiin.	
+259	Mitä tarkoitatte?	
+260	Työtarjouksia, hallituksenne palvelukseen.	
+261	Jos tekisin yhteistyötä, minulle ei tulisi enää syytteitä.	
+262	Ja minulle annettaisiin rahaa.	
+263	[NO TRANSLATION]	missing translation
+264	Ja te kieltäydyitte?	
+265	Kuten huomaatte.	
+266	En tietenkään voi vahvistaa sitä.	
+267	Velvollisuuteni on kehottaa tekemään yhteistyötä hallituksemme kanssa.	
+268	Sanoin ei.	
+269	Voisitte toistaa sen ystävillenne CIA:ssa.	
+270	Ei, ei.	
+271	[NO TRANSLATION]	missing translation
+272	En ole töissä CIA:ssa.	
+273	En ole hallituksen töissä.	
+274	Tarjoan palveluksiani oikeusavustajananne.	
+275	Jos hyväksytte sen, teen töitä teille.	
+276	Jos hyväksyn teidät?	
+277	Oletteko hyvä työssänne?	
+278	Olen.	
+279	Olen aika hyvä.	
+280	Oletteko edustanut monia syytettyjä vakoojia?	
+281	Ei, en vielä.	
+282	Tämä on ensimmäinen kerta molemmille.	
+283	Niin.	
+284	Hyvä on.	
+285	Hyvä on?	
+286	Te siis hyväksytte?	
+287	Kyllä.	
+288	Hyvä juttu.	
+289	Aloitetaan.	
+290	Jos päätätte vakaasti luopua yhteistyöstä...	
+291	Kyllä.	
+292	Selvä.	
+293	Älkää siis puhuko kellekään jutustanne.	
+294	Paitsi minulle, jos luotatte minuun.	
+295	Olen ainoa, joka voi auttaa teitä.	forced duplication
+296	Olen ainoa, joka voi auttaa teitä.	forced duplication
+297	Muut haluavat lähettää teidät sähkötuoliin.	
+298	Selvä.	
+299	Ette vaikuta huolestuneelta.	
+300	Auttaisiko se?	
+301	[NO TRANSLATION]	missing translation
+302	Haluaisin piirustusmateriaaleja.	
+303	Se ei ole mahdollista.	
+304	Kynän, paperinpalan.	
+305	Savukkeita.	
+306	Pyydän.	
+307	Herra Donovan, teillä on minunlaisia miehiä tekemässä samaa teidän maallenne.	
+308	Jos he jäisivät kiinni, haluaisitte varmaan heitä kohdeltavan hyvin.	
+309	Mikä on nimenne?	
+310	Francis Gary Powers.	
+311	Sotilasarvo, aselaji?	
+312	Luutnantti, Yhdysvaltain ilmavoimat.	
+313	Onko teillä yhteyksiä Neuvostoliittoon?	
+314	Lasketteko leikkiä?	
+315	Vastatkaa kysymyksiin.	
+316	Kyllä, ei, yksinkertaisesti.	
+317	Onko teillä yhteyksiä Neuvostoliittoon?	
+318	Ei hitossa.	
+319	Tiedättekö tulonne syyn?	
+320	[NO TRANSLATION]	missing translation
+321	Tarkoittiko tuo ei?	
+322	Kyllä.	
+323	Siis...	
+324	Ei, vain ei.	
+325	En tiedä yhtään miksi tulin.	
+326	Katse eteen, luutnantti.	
+327	Käskystä.	
+328	Miten pärjäsit, Gary?	
+329	Aika hyvin.	
+330	Sanoin nimeni oikein.	
+331	Päihitit sitten varmaan Shinnin.	
+332	Kuka on voitolla?	
+333	Minä.	
+334	[NO TRANSLATION]	missing translation
+335	Jakakaa minullekin.	
+336	Nämä siis ovat minun?	
+337	Kielsin pelaamasta hänen kanssaan.	
+338	Lentäjät, juttu menee näin.	
+339	Teidät on valittu tehtävään, josta ette saa puhua kellekään ulkopuoliselle.	
+340	Ette kellekään.	
+341	Yhdentekevää, kehen luotatte.	
+342	Vaimoon, äitiin, kultaan.	
+343	Jumalaan rukoillessa.	
+344	Ette kerro kellekään siitä, mitä kerron teille.	
+345	Kukin teistä on täyttänyt tietyt vaatimukset.	
+346	Korkea turvaluokitus.	
+347	Loistava lentotaito, vaaditun lentotuntimäärän ylitys pienkoneella.	
+348	Me käymme sotaa.	
+349	Tätä sotaa ei käydä taistelujoukoin,	
+350	vaan tiedolla.	
+351	Te haalitte tietoa.	
+352	Te keräätte tietoa vihollisesta.	
+353	Keräämänne tieto voi antaa etulyöntiaseman täydessä ydinsodassa Neuvostoliiton kanssa.	
+354	Tai estää sen.	
+355	Julkisesti... vaimolle, äidille, kullalle tai Jumalalle, tehtäväänne ei ole.	
+356	Jos sitä ei ole, teitäkään ei ole.	
+357	Teitä ei voi ampua alas,	
+358	ottaa kiinni.	
+359	Olette nyt CIA:n palveluksessa.	
+360	Jim, kuulin kaverisi puhuvan valekorostuksella.	
+361	Puhuuko hän jatkuvasti niin?	
+362	Olen aika varma, että se on hänen puhetapansa.	
+363	Venäläinen nimi, mutta brittipassi.	
+364	No, tuskin aito.	
+365	Mikä on tilanteemme, Jim?	
+366	Näen, että...	
+367	Aivan, herra tuomari. En usko kolmen viikon riittävän tässä.	
+368	[NO TRANSLATION]	missing translation
+369	Paljon todistusaineistoa.	
+370	Haluatko lykkäystä?	
+371	Kuusi viikkoa.	
+372	Hoidan tätä kollegani kanssa kahden.	
+373	Onko tämä vakavaa?	
+374	Anteeksi?	
+375	Onko tämä vakavaa?	
+376	[NO TRANSLATION]	missing translation
+377	On todellakin.	
+378	Näette siitä...	
+379	Se mies on neuvostovakooja.	
+380	Väitetysti.	
+381	Älähän nyt!	
+382	Herra tuomari.	
+383	[NO TRANSLATION]	missing translation
+384	Ylistämme sinua epäkiitollisen tehtävän ottamisesta.	
+385	Hän saa reilun oikeudenkäynnin.	
+386	Mutta myönnetään faktat.	
+387	Hän saa pätevän puolustuksen.	
+388	Jos Luoja suo, hänet tuomitaan.	
+389	No niin...	
+390	Ei leikitä nyt.	
+391	Ei oikeussalissani.	
+392	Meillä on päivämäärä, ja me käymme oikeutta.	
+393	Taksi!	
+394	Taksi!	
+395	Valosi palaa!	
+396	Ryökäle.	
+397	Kova kiire takaisin Manhattanille.	
+398	Taksin valohan paloi?	
+399	Senkin ryökäle.	
+400	[NO TRANSLATION]	missing translation
+401	Asetus ei ole muuttunut.	
+402	Anteeksi.	
+403	Anteeksi...	
+404	[NO TRANSLATION]	missing translation
+405	[NO TRANSLATION]	missing translation
+406	Herra Donovan.	
+407	Mitä?	
+408	Mitä?	
+409	CIA.	
+410	Niin.	
+411	Halusin vain rupatella.	
+412	Miten juttu etenee?	
+413	Hienosti.	
+414	Ei voisi mennä paremmin.	
+415	[NO TRANSLATION]	missing translation
+416	Onko kaverinne puhunut?	
+417	Anteeksi?	
+418	Tapasitte hänet.	
+419	[NO TRANSLATION]	missing translation
+420	Onko sanonut mitään vielä?	
+421	Emme käy tätä keskustelua.	
+422	Emme tietenkään.	
+423	En aio puhua tästä.	
+424	Pyydätte rikkomaan vaitiolovelvollisuuteni.	
+425	Älkäähän nyt.	
+426	Kunpa minulle ei sanottaisi: Älkäähän nyt.	
+427	En pitänyt siitä aiemminkaan.	
+428	Tuomari sanoi sen kahdesti.	
+429	Mitä enemmän kuulen sitä, sitä enemmän ärsyttää.	
+430	Ymmärrän vaitiolovelvollisuutenne.	
+431	Ymmärrän lakitaktikoinnin.	
+432	Ja sen, että tienaatte sillä leipänne.	
+433	Mutta puhun nytjostain muusta.	
+434	Maanne turvallisuudesta.	
+435	Pahoittelen, jos puheeni loukkasi.	
+436	Mutta haluamme tietää, mitä Abel kertoo teille.	
+437	Ymmärrättekö, Donovan?	
+438	Meidän täytyy saada tietää.	
+439	Turha leikkiä partiopoikaa.	
+440	Ei täällä ole sääntökirjaa.	
+441	Tehän olette agentti Hoffman?	
+442	Niin.	
+443	Saksalainen nimi.	
+444	Entä sitten?	
+445	Olen Donovan,	
+446	irlantilainen.	
+447	Sekä isän että äidin puolelta.	
+448	Olen irlantilainen, te saksalainen.	
+449	Mikä tekee molemmista amerikkalaisia?	
+450	Ainoastaan yksi asia.	
+451	Vain yksi.	
+452	Sääntökirja.	
+453	Sanomme sitä perustuslaiksi. Hyväksymme sen säännöt. Se tekee meistä amerikkalaisia.	
+454	Vain se. Turha sanoa, ettei sääntökirjaa ole. Älkääkä nyökkäilkö minulle noin, ryökäle.	
+455	Aiheutatteko huolta meille?	
+456	En, jos saan tehdä työni rauhassa.	
+457	Tästä eteenpäin ette puhu U-2:sta vakoojakoneena tai tiedustelukoneena.	
+458	Sanotte sitä esineeksi.	
+459	Esineen siipien kärkiväli on 24 metriä.	
+460	Moottorina on Pratt & Whitney J57-P37.	
+461	Työntövoima 4500 kg ja huippunopeus 690 km/h.	
+462	Se ei ehkä ole nopea, mutta kun lentokorkeus on 20 000 m, mikään ei pääse lähellekään.	
+463	20 000?	
+464	Vihollinen ei edes huomaa teitä.	
+465	Näyttää aika huteralta.	
+466	Joka liikakilo vähentää puoli metriä korkeutta ja kamerat pitää saada mukaan.	
+467	Kolme 4500-millistä linssiä.	
+468	Neulanterävä panoraamakamera, neljä kertaa voimakkaampi kuin aiemmin käytetyt ilmatiedustelukamerat.	
+469	Te otatte kuvia, paljon kuvia.	
+470	20 000 metristä esine voi kuvata 5000 neliökilometriä maata yhdellä ylilennolla.	
+471	Lentäjät, kuunnelkaa tarkkaan agentti Sumneria.	
+472	Tehtävässänne tarvittava varustus on täällä.	
+473	B-kamera Revere 8 Model 40 kasetilla, hopeanvärinen Keystone Capri K 25.	
+474	Onttokahvainen partasuti.	
+475	Salakirjoitusavaimia syötävässä hopeapaperissa.	
+476	Erikoisvalokuvausvarusteita.	
+477	[NO TRANSLATION]	missing translation
+478	Ymmärrämme kyllä.	
+479	Kiitos.	
+480	Anteeksi, agentti Bosco.	
+481	Blasco.	
+482	Niin?	
+483	Tässä luettelossa näyttäisi olevan liite.	
+484	Enin osa kamasta on ateljeesta. Loput hotellihuoneesta, missä hän piileksi.	
+485	Mistä löysimme hänet.	
+486	Huoneesta, jonka tutkitte?	
+487	Niin.	
+488	Saanko nähdä etsintäluvan?	
+489	Minkä?	
+490	Pyydän selitystä.	
+491	Etsintälupa oli.	
+492	Etsintälupa oli.	
+493	Haaste ulkomaalaisen pidättämiseksi, mutta ei etsintälupaa ri kostoimintaepäilystä.	
+494	Etsintä ja etsinnässä saatu todistusaineisto on kelvoton eikä hyväksyttävissä.	
+495	Mitä oikeuksia hänelle kuuluu?	
+496	Hän ei ole...	
+497	Hän on mikä?	
+498	Rudolf Ivanovich Abel.	
+499	Neuvostokansalainen.	
+500	Ei amerikkalainen.	
+501	1886, Yick Wo vastaan Hopkins.	
+502	Oikeus päätti, ettei ulkomaalaisiakaan voi syyttää rikoksesta ilman oikeudenkäyntiä, mukaan lukien maahan laittomasti tulleet.	
+503	Oikeusministeriö on ensi sijassa uskollinen Yhdysvalloille.	
+504	En käsitä, miten laittomasti maahan tulleelta olisi riistetty oikeuksia.	
+505	Oikeuksia minä?	
+506	Amerikkalaisena?	
+507	Oikeuksia minä, asianajaja?	
+508	Taistelemme sivistyksen puolesta.	
+509	Tämä venäläisvakooja uhkaa elämäntapaamme.	
+510	Minua odotetaan oikeussalissa.	
+511	Mene istumaan venäläisen viereen.	
+512	Hoidetaan tämä loppuun nyt.	
+513	Ehdotus hylätään.	
+514	Hänen pitäisi ottaa vakuutus itselleen.	
+515	Miten sujui?	
+516	Tuollako?	
+517	[NO TRANSLATION]	missing translation
+518	Ei kehumista.	
+519	Ette ole Yhdysvaltain kansalainen.	
+520	Pitää paikkansa.	
+521	Pomonne mukaan ette ole neuvostokansalainenkaan.	
+522	Pomo ei ole aina oikeassa, mutta hän on aina pomo.	
+523	Ettekö koskaan huolestu?	
+524	Auttaisiko se?	
+525	Pyydän nousemaan.	
+526	Vannon uskollisuutta Yhdysvaltain lipulle ja sen edustamalle tasavallalle, yhdelle kansakunnalle, Jumalan alaiselle, jakamattomalle, joka antaa vapauden ja oikeuden kaikille.	
+527	Ensin täytyy tietää, mitä tapahtuu, kun atomipommi räjähtää.	
+528	Seuraa kirkas välähdys, aurinkoa kirkkaampi.	
+529	Se voi murskata taloja, rikkoa ikkunoita ympäri kaupunkia.	
+530	Mutta jos suojautuu kuten Bert, on paljon paremmassa tuNassa.	
+531	On kahdenlaisia hyökkäyksiä. Varoituksen kanssa ja varoittamatta.	
+532	[NO TRANSLATION]	missing translation
+533	Mitä nyt?	
+534	Tämä on todella tärkeää.	
+535	Kun sota syttyy, ensimmäiseksi katkaistaan vedet ja sähköt.	
+536	Tämä täytyisi pitää täynnä, käyttää suihkuanne, alakerran lavuaaria, puutarhaletkua.	
+537	Hyviä ideoita.	
+538	Minusta sinun ei tarvitse olla huolissasi.	
+539	Sireenien soidessa ei ehkä ole aikaa täyttää ammetta ja lavuaareja.	
+540	Eivät sireenit tule soimaan.	
+541	Mikä tämä on?	
+542	Punaiset tähtäävät pommin Empire State Buildingiin.	
+543	Mutta pommi räjähtää 3000 metrissä.	
+544	Lifen mukaan se on ilmaräjähde. Jos pommi on 50 megatonnia, räjähdysaalto leviää laajalle ja sulattaa kaiken täältä tänne.	
+545	Myös talomme.	
+546	Tässä.	
+547	Siinä.	
+548	Mutta kukaan ei pudota atomipommia päällemme.	
+549	Venäläiset haluavat.	
+550	Se puolustamasi venäläinen...	
+551	Hän valmistelee pommin pudotusta.	
+552	[NO TRANSLATION]	missing translation
+553	Ei hän ole täällä sen takia.	
+554	Ei ole edes venäläinen.	
+555	Syntyi ehkä Pohjois-Englannissa.	
+556	Mutta on Venäjän vakooja.	
+557	En ymmärrä mitä teet.	
+558	Et ole kommunisti. Miksi puolustat häntä?	
+559	Koska se on työtäni.	
+560	Ei ollut ennen.	
+561	Jutussa liittovaltio vastaan Rudolf Abel. Mikä on päätöksenne ensimmäisestä syytekohdasta?	
+562	Syyllinen vai syytön?	
+563	Syyllinen.	
+564	Toisesta syytekohdasta?	
+565	Syyllinen.	
+566	Kolmannesta syytekohdasta?	
+567	Syyllinen.	
+568	Herra tuomari, esitän päätösten hylkäämistä riittämättömien todisteiden perusteella.	
+569	Kumotaan.	
+570	Valamiehistö vapautetaan.	
+571	Kiitos kaikille.	
+572	Haluaisin lisätä, että olisin päättänyt samoin.	
+573	Tuomio luetaan... marraskuun 15. päivänä.	
+574	Kuolemantuomio ei ole itsestäänselvyys.	
+575	Ei huolta.	
+576	En pelkää kuolla, herra Donovan.	
+577	Tosin... se ei olisi etusijalla.	
+578	Unohditte tämän.	
+579	Kiitos.	
+580	Kiitos paljon!	
+581	Ette ole kysynyt, oliko syytteissä perää.	
+582	Että olenko todellakin vakooja.	
+583	Näin me sen hoidamme.	
+584	Juttu teitä vastaan on tärkeä.	
+585	Näytön löytäminen on tärkeää.	
+586	Olettamus on...	
+587	Ei ole tärkeää, teittekö sen.	
+588	Valtion on todistettava teidät vakoojaksi.	
+589	Eikö se siis kiinnosta?	
+590	Ei oikeastaan.	
+591	Pidän teitä taiteilijana.	
+592	Vaimoni on taiteilija.	
+593	Muusikko... Moskovan lastenorkesterissa.	
+594	Mikä soitin?	
+595	Harppu.	
+596	[NO TRANSLATION]	missing translation
+597	Hän on siis enkeli.	
+598	Seistessänne noin muistutatte miestä, joka kävi meillä ollessani nuori.	
+599	Isäni sanoi: Tarkkaile tätä miestä.	
+600	Joten tein niin, aina kun hän kävi.	
+601	Eikä kertaakaan hän tehnyt mitään merkittävää.	
+602	Muistutan siis häntä?	
+603	Kerran, kun olin suunnilleen poikanne ikäinen,	
+604	partisaanirajavartijat valtasivat talomme.	
+605	Heitä oli kymmeniä.	
+606	Isäni ja äitini pahoinpideltiin, ja se mies, isäni ystävä, pahoinpideltiin.	
+607	Katsoin sitä miestä.	
+608	Joka kerta kun he löivät häntä... hän nousi ylös uudestaan.	
+609	Häntä lyötiin kovemmin.	
+610	Silti hän nousi taas jaloilleen.	
+611	Luulen, että se lopetti hakkaamisen.	
+612	Jättivät hänet eloon.	
+613	Muistan kun sanoivat sen.	
+614	Se tarkoittaa suunnilleen... seisovaa miestä.	
+615	Seisova mies.	
+616	Hei, Jim!	
+617	Millie, olet ilo silmälle.	
+618	Mortie on laittautumassa valmiiksi.	
+619	Mutta käy sisään.	
+620	Skottilaista, Jim?	
+621	Kyllä,	
+622	kiitos.	
+623	Tilkka vettä sekaan.	
+624	Herra tuomari.	
+625	Hei, Jim!	
+626	Olen menossa ulos.	
+627	Mutta on tässä hetki.	
+628	Hyväntekeväisyysillallinen.	
+629	Millie on toimelias.	
+630	Kiitos tästä.	
+631	Halusin vain kertoa näkemykseni tuomiosta.	
+632	Ajattelin kiusata kotona, sillä tämä ei ole tarkkaan ottaen lainmukaista.	
+633	No, juttu on sellainen.	
+634	Toivon etten ollut liian ankara, mutta se on juuri niin.	
+635	Koko juttu ei ole tarkkaan ottaen lainmukainen.	
+636	Suuremmat asiat kyseessä.	
+637	Suuremmat asiat!	
+638	Kiitos, kiitos.	
+639	[NO TRANSLATION]	missing translation
+640	Herra tuomari...	
+641	Mielestäni voisi olla maamme edun mukaista, että Abel jää henkiin.	
+642	Miksi?	
+643	Mietin yhä, mutta jos hän halusi auttaa meitä, hän olisi auttanutjo.	
+644	Totta, mutta...	
+645	[NO TRANSLATION]	missing translation
+646	Anteeksi.	
+647	Et voi sanoa, että on Yhdysvaltain etu, jos hän viettää loppuikänsä vankisellissä.	
+648	Miten se olisi kansallinen etu?	
+649	Ei itse vangitseminen.	
+650	On mahdollista, että lähitulevaisuudessa samanarvoisen amerikkalaisupseerin sieppaa Neuvosto-Venäjä.	
+651	Meillä olisi hyvä olla joku vaihtoon.	
+652	[NO TRANSLATION]	missing translation
+653	Kuulostaa jossittelulta.	
+654	Sitä voi tehdä maailman tappiin.	
+655	Jossittelu on alaani.	
+656	Vakuutusala.	
+657	Tässä ei ole mitään epäuskottavaa.	
+658	Sellainen voisi hyvinkin tapahtua.	
+659	Sellaisen varalle otetaan vakuutuksia.	
+660	Jos tuomitsemme hänet kuolemaan, jättäydymme alttiiksi.	
+661	Ei vakuutusta takataskussa tulevan myrskyn varalle.	
+662	Hieno puhe.	
+663	Tässä on myös humanitaarinen aspekti.	
+664	Pitäisikö hänen kuolla toteltuaan esimiehiään?	
+665	No niin...	
+666	Täytyy rientää.	
+667	Oli mukava nähdä, Jim.	
+668	Saatan sinut ulos.	
+669	Pyydän nousemaan.	
+670	New Yorkin itäisen piirin käräjäistunto alkaa.	
+671	Tuomari Mortimer Byers johtaa.	
+672	Istuutukaa.	
+673	Pyydän syytettyä nousemaan.	
+674	Tuomioistuimen päätöksellä seuraava tuomio, perustuen valamiehistön päätökseen jokaisesta syytekirjelmän kohdasta, on uskoakseni lainmukainen.	
+675	Langettavan tuomion mukaisesti syytetty passitetaan Yhdysvaltain oikeusministerin valitsemaan liittovaltion vankilaan 30 vuoden vankeuteen.	
+676	Voitte ottaa syytetyn huostaan.	
+677	[NO TRANSLATION]	missing translation
+678	Eikö sähkötuolia?	
+679	Ei.	
+680	[NO TRANSLATION]	missing translation
+681	Miksei hirtetä?	
+682	Jumalan nimeen, miksei hirtetä?	
+683	Istukaa alas!	
+684	Hän on vakooja!	
+685	Tappaa meidät valeillaan!	
+686	Miksei häntä hirtetä?	
+687	Niin!	
+688	Hän on vakooja!	
+689	Herra Donovan!	
+690	Herra Donovan!	
+691	Vain yksi kysymys.	
+692	Yksi kysymys.	
+693	Hattuni,	
+694	hattuni!	
+695	Hattuni!	
+696	Kukaan ei kommentoi.	
+697	Donovanit eivät vastaa.	
+698	Miltä tuntuu nyt?	
+699	Tyydyttääkö tuomio?	
+700	[NO TRANSLATION]	missing translation
+701	Meillä on vahva valitusperuste.	
+702	Valitus?	
+703	Niin.	
+704	Jim, teit loistavaa työtä.	
+705	Täytit tehtäväsi ja vähän päälle.	
+706	Mutta se mies on vakooja.	
+707	Tuomio on oikea, ei syytä valitukseen.	
+708	On menettelytapasyitä.	
+709	Etsintä oli virheellinen.	
+710	Sellainen painaa aina enemmän muutoksenhakutuomioistuimessa.	
+711	Voimme onnistua.	
+712	Mistä hitosta sinä puhut?	
+713	Näytimme, että hänellä on pätevä puolustus.	
+714	Miksi siteeraat perustuslakia minulle?	
+715	Jos sanot rehellisesti ettei perustetta valitukseen ole, annan olla.	
+716	[NO TRANSLATION]	missing translation
+717	Tiedät mitä tarkoitan.	
+718	Sitä, että näillä on hintansa.	
+719	Niin juuri.	
+720	Hinta sekä perheellesi että firmalle.	
+721	Olen kaivannut musiikkia.	
+722	Tutkivat radion lähettimen varalta.	
+723	Niin varmasti.	
+724	Shostakovitshia.	
+725	[NO TRANSLATION]	missing translation
+726	Suuri taiteilija, Shostakovitsh.	
+727	Luulen, että... vahvimmat perusteemme tuomion kumoamiseen ovat perustuslaillisia.	
+728	Paras mahdollisuuteemme olisi korkein oikeus.	
+729	Jim...	
+730	Ole varovainen.	
+731	Varovainen.	
+732	[NO TRANSLATION]	missing translation
+733	[NO TRANSLATION]	missing translation
+734	[NO TRANSLATION]	missing translation
+735	[NO TRANSLATION]	missing translation
+736	[NO TRANSLATION]	missing translation
+737	[NO TRANSLATION]	missing translation
+738	[NO TRANSLATION]	missing translation
+739	[NO TRANSLATION]	missing translation
+740	Äiti!	
+741	Mitä Jumalan nimeen tapahtui?	
+742	Oletko kunnossa?	
+743	Äiti!	
+744	Sattuiko?	
+745	[NO TRANSLATION]	missing translation
+746	Yläkertaan!	
+747	Oletteko kunnossa?	
+748	[NO TRANSLATION]	missing translation
+749	Oletko kunnossa?	
+750	[NO TRANSLATION]	missing translation
+751	Olin seinää vasten, en ikkunassa.	
+752	Oikein hyvä.	
+753	[NO TRANSLATION]	missing translation
+754	[NO TRANSLATION]	missing translation
+755	Hyvä poika.	
+756	[NO TRANSLATION]	missing translation
+757	Ei hätää.	
+758	Ei hätää, he häipyivät.	
+759	Ne pelkurit häipyivät.	forced duplication
+760	Ne pelkurit häipyivät.	forced duplication
+761	Etsivämme haravoivat naapurustoa.	
+762	Ehkä saamme kuvauksen autosta, mutta tuskin.	
+763	Tarvitsemme suojelua.	
+764	Sain määräyksen jättää kaksi autoa tänne.	
+765	On selvää...	
+766	Miten pitkään?	
+767	Lähden Washingtoniin tällä viikolla.	
+768	Mitä te teette?	
+769	Mitä teette perheellenne?	
+770	Anteeksi kuinka?	
+771	Puolustatteko häntä yhä?	
+772	Miksi?	
+773	Lopettakaa tuo.	
+774	Enkä lopeta.	
+775	Taistelin Omaha Beachilla.	
+776	Kävin armeijan.	
+777	Puolustatte niitä.	
+778	Tehkää te vain työnne lainvalvojana.	
+779	Pahoittelen.	
+780	Mennään.	
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	Antaa olla.	
+784	Mitä en tajua?	
+785	Ulos, konstaapeli.	
+786	Anteeksi.	
+787	Puolustaa kommarivakoojaa.	
+788	Voi Luoja!	
+789	Tunnetteko ansaitsevanne tämän?	
+790	Jos täytyisi jättää kone Neuvostoliiton yllä, kilon räjähdyspanos on kiinnitetty koneen runkoon.	
+791	Ensin... aktivoidaan piirit.	
+792	70 sekunnin aikalaukaisimen käynnistämiseksi pitää napsauttaa kytkintä, jossa lukee Tuho.	
+793	On ehdotonta, että lennot pysyvät salassa eikä laitteisto päädy vihollisen käsiin.	
+794	Entä me?	
+795	En tiedä lasketteko leikkiä, luutnantti.	
+796	Minä en.	
+797	Se, mitä tiedätte koneesta, on yhtä salaista kuin itse kone.	
+798	Jos kiinni jääminen on selvää, putoatte koneenne kanssa.	
+799	Jos voitte hypätä ja päästä pakoon lähellä rajaa, se käy.	
+800	Tunnette koneestapoistumismenettelyn.	
+801	Mutta jos hyppäätte, otatte dollarin mukaanne.	
+802	Sisällä on neula.	
+803	Kun raaputatte ihoa, se vaikuttaa heti.	
+804	Jos uskotte joutuvanne kiinni, käytätte sitä.	
+805	Ymmärrättekö, lentäjät?	
+806	Käytätte sen dollarin.	
+807	Herra korkeimman oikeuden presidentti.	
+808	Kylmä sota ei ole vain fraasi, arvoisa tuomari.	
+809	Se ei ole vain kielikuva.	
+810	Todellakin, on käynnissä taistelu kahden kilpailevan ideologian välillä.	
+811	Kyseenalaistan, että Rudolf Ivanovich Abel, eversti Abel, joksi jopa pidättäjät häntä nimittivät, olisi vihollisemme siinä taistelussa.	
+812	Apuvoimalaite?	
+813	Kytketty, päällä.	
+814	Istuimen happisäiliö?	
+815	Säiliön paine 120 atm.	
+816	Invertteri?	
+817	Päällä, valo sammunut.	
+818	Häntä kohdeltiin sen sodan taistelijana, kunnes hallituksellemme ei enää sopinut se.	
+819	Sen mukaisesti hän jäi vaille turvaa, jonka annamme omille kansalaisillemme.	
+820	Hänet alistettiin kohtelulle, joka on asiamukaista viholliseksi epäillylle, muttei rikoksesta epäillylle.	
+821	Polttoaineen siirto?	
+822	Kytkin päällä.	
+823	Tuholaite?	
+824	Tuholaitteen varmistin.	
+825	Nousutietokortti.	
+826	Asennettu koneeseen.	
+827	Tunnen tämän miehen.	
+828	Jos syyte on tosi, hän palvelee vierasta maata, mutta uskollisesti.	
+829	Jos hän on vihollisarmeijan sotilas, hän on hyvä sotilas.	
+830	Ei ole karannut taistelusta pelastautuakseen.	
+831	Hän on kieltäytynyt palvelemasta vangitsijaansa.	
+832	Hän on kieltäytynyt pettämästä asiaansa.	
+833	Hän ei ole tehnyt pelkurin ratkaisua.	
+834	Pelkurin täytyy hylätä kunniallisuutensa ennen karkuruutta.	
+835	Sitä Rudolf Abel ei tule koskaan tekemään.	
+836	Eikö meidän pitäisi, suomalla hänelle järjestelmäämme määrittävät täydet oikeudet, näyttää tälle miehelle keitä me olemme?	
+837	Keitä me olemme.	
+838	Eikö se ole paras aseemme tässä kylmässä sodassa?	
+839	Pysymmekö omassa asiassamme vähemmän määrätietoisena kuin hän omassaan?	
+840	Presidentti ilmoitti säähavaintokoneen kadonneen neljä päivää sitten Turkista pohjoiseen.	
+841	Avaruushallinto pelkää lentäjän saaneen surmansa.	
+842	Tutkan mukaan kone harhautui reitiltään Neuvostoliiton alueelle ennen yhteyskatkoa mutkistaen yrityksiä palauttaa se tai lentäjän jäännökset.	
+843	Nyt uutinen Washingtonista.	
+844	Täpärässä äänestyksessä korkein oikeus pysytti venäläisvakooja Rudolf Abelin tuomion äänin viisi neljä.	
+845	Siinä otettiin esiin kansalaisoikeuskysymyksiä venäläisen lakimiehen James B. Donovanin mukaan.	
+846	Kysyttäessä miltä tappio tuntui, herra Donovan sanoi vain: Väsyttää	
+847	Lisää uutisia mainoskatkon jälkeen.	
+848	[NO TRANSLATION]	missing translation
+849	Se on ohi.	
+850	[NO TRANSLATION]	missing translation
+851	Marty.	
+852	En löydä mistään sitä Prudentialin juttua.	
+853	Hra Watters pyysi antamaan sen Jack Elwesille muutoksenhakupapereiden kanssa.	
+854	Niinkö?	
+855	Hän jätti sen sisään ollessanne Washingtonissa.	
+856	[NO TRANSLATION]	missing translation
+857	Käyttäydyt kuin en olisi ennen tehnyt sopimusta.	
+858	Järjestä tapaaminen.	
+859	Hienossa paikassa.	
+860	Herra Young pitänee New Yorkin parhaimmista paikoista.	
+861	Ja laadi yhteenveto...	
+862	Tunnetko ketään Leipzigistä?	
+863	Leipzigistä.	
+864	Saanko jo vihapostia Saksasta?	
+865	Itä-Saksasta.	
+866	Onko lähettäjä vaimonne?	
+867	Ei.	
+868	Ei, ei.	
+869	Hän teeskentelee olevansa, mutta huonosti.	
+870	Otan vapauden kirjoittaa teille luettuani lehdistä inhimillisestä suhtautumisestanne rakasta miestäni, Rudolf Abelia kohtaan.	
+871	Vastaanko kirjeeseen?	
+872	Käyhän se.	
+873	Mikä on seuraava siirto, kun ei tiedä mitä peliä pelataan?	
+874	Francis Gary Powers...	
+875	Neuvostoliiton rikoslain toisen artikkelin, valtioon kohdistuvien rikosten nojalla, 10 vuodeksi vankeuteen, joista kolme ensimmäistä vuotta vankilassa.	
+876	Rangaistusaika, sisältäen tutkintavankeuden, lasketaan toukokuun 1. päivästä, 1960.	
+877	Herra Donovan, kiitos että tulitte.	
+878	Mukava tavata, herra Dulles.	
+879	Tämä on kunnia.	
+880	Nescaféta, kermaa, kaksi sokeripalaa.	
+881	Kiitos.	
+882	Tämä kirje, jonka saitte...	
+883	Neukut näyttävät tekevän avauksen tässä.	
+884	Itä-Saksan kautta, koska eivät tunnusta Abelia NL:n kansalaiseksi eivätkä etenkään vakoojäksi.	
+885	[NO TRANSLATION]	missing translation
+886	Fiktiota ilmassa.	
+887	Mutta minkä takia?	
+888	Heillä on meidän miehemme, vakoojalentäjä.	
+889	Meillä heidän miehensä.	
+890	Uskon heidän haluavan vankienvaihtoa.	
+891	Mikä on tuskin yllätys teille.	
+892	Taisitte aavistaa sen mahdollisuuden.	
+893	Niin todellakin, ja olen niin harvoin oikeassa.	
+894	Onnitteluni.	
+895	Merkittävä päivä.	
+896	No niin, oma miehemme on siellä.	
+897	Powers.	
+898	Hyvä mies, mutta pää täynnä sälaista tietoa.	
+899	Abelillakin on salaista tietoa, muttei ole kertonut mitään.	
+900	Uskokaa pois, ei kerrokaan.	
+901	Me tiedämme sen, mutta venäläiset eivät.	
+902	Haluavat miehen takaisin ennen murtumista.	
+903	Ja me haluamme Powersin takaisin samasta syystä.	
+904	Taidatte sanoa, että tässä voisi olla onnellinen loppu kaikille.	
+905	Kyllä, jos lähdemme mukaan heidän peliinsä.	
+906	Haluamme teidän neuvottelevan vaihdon yksityishenkilönä, ilman hallituksia.	
+907	He eivät tunnusta Abelia neuvostokansalaiseksi emmekä me Itä-Saksaa riippumattomaksi maaksi.	
+908	Emme ole tunnustaneet Itä-Berliiniä NL:n haltuunoton jälkeen -45.	
+909	Toimin siis neuvottelijana, edustaen...	
+910	Ette edusta ketään.	
+911	[NO TRANSLATION]	missing translation
+912	Teillä ei ole virallista asemaa.	
+913	Siis fiktiota meidänkin puolellamme.	
+914	Aivan.	
+915	Ette siis voi odottaa minkäänlaista apua, jos asiat menevät pieleen.	
+916	CIA ei voi olla vastuussa.	
+917	Emme voi tulla nolatuksi.	
+918	Missä haluavat neuvotteluja käytävän?	
+919	Siellä.	
+920	Siellä?	
+921	Itä-Berliinissä.	
+922	Eikö siellä ala olla melko...	
+923	Kyllä, tilanne käy mutkikkaaksi.	
+924	Mutkikkaaksi.	
+925	Neuvostopuoli on perustanut tarkastuspisteitä estääkseen väkeä siirtymästä länsisektoreille, eikä se ole tepsinyt.	
+926	Tiedustelun mukaan he voivat mennä vielä pidemmälle ja sulkea muurilla koko itäisen sektorin.	
+927	Siinä se oli pähkinänkuoressa.	
+928	Päätös on täysin teidän.	
+929	Tarvinnette miettimisaikaa päätöksellenne.	
+930	En.	
+931	En tarvitse.	
+932	Hieno juttu.	
+933	Hieno juttu.	
+934	Tämä on luottamuksellista.	
+935	Ei puhuta tästä Maryn tai kenenkään muunkaan kanssa.	
+936	Näytätte kirjeenvaihdon vain meille.	
+937	Kerrotte mitä haluavatja milloin.	
+938	Ei päämiestä, ei vaimoa, ei maata.	
+939	En tiedä mitä teen, milloin tai kenen puolesta.	
+940	Maanne puolesta, mutta se ei tiedä sitä vielä.	
+941	Entä päämieheni, toinen henkilö tässä yhtälössä?	
+942	[NO TRANSLATION]	missing translation
+943	[NO TRANSLATION]	missing translation
+944	Tarkoitatteko venäläistä?	
+945	Hän ei ole enää kaverinne.	
+946	Francis Gary Powers on.	
+947	Mitä kerron Rudolf Abelille?	
+948	Kehottakaa pysymään elossa.	
+949	Professori?	
+950	Professori?	
+951	Isä lähti yliopistolle.	
+952	Et saisi olla täällä.	
+953	Onko tänään luentoja?	
+954	Hän meni katsomaan.	
+955	Siellä hän käy.	
+956	Miksi tulit?	
+957	Hakemaan sinutja isäsi.	
+958	[NO TRANSLATION]	missing translation
+959	Ette ehkä pääse pois enää huomenna.	
+960	[NO TRANSLATION]	missing translation
+961	Lähtisimme vain?	
+962	Niin,	
+963	[NO TRANSLATION]	missing translation
+964	heti paikalla.	
+965	Palaa takaisin.	
+966	Palaa takaisin.	
+967	Selviän kyllä. Olen amerikkalainen.	
+968	[NO TRANSLATION]	missing translation
+969	Palaa isäsi luo.	
+970	Keksimme toisen keinon.	
+971	[NO TRANSLATION]	missing translation
+972	Hei vaan.	
+973	[NO TRANSLATION]	missing translation
+974	Saisinko paperit?	
+975	Olen opiskelija Frederic Pryor.	
+976	Niin, opiskelija.	
+977	Frederic Pryor,	
+978	taloustieteen opiskelija.	
+979	[NO TRANSLATION]	missing translation
+980	Tämä on tutkielmani,	
+981	väitöskirjani.	
+982	[NO TRANSLATION]	missing translation
+983	[NO TRANSLATION]	missing translation
+984	Ulkomainen kauppajärjestelmä Euroopan kommunistisissa valtioissa.	
+985	[NO TRANSLATION]	missing translation
+986	Suuritöinen.	
+987	Ei, se on ainoa kappaleeni.	
+988	Ei!	
+989	Kerro jotain.	
+990	Tämä tuli viime hetkellä.	
+991	Heillä on toimistoja Lontoossa.	
+992	Näillä päämiehillä.	
+993	Ei minun ideani.	
+994	Skotlanti, kalastusretki.	
+995	Millainen kalastusretki, Jim?	
+996	Lohenkalastusta.	
+997	Sano ettetjoudu vaaraan, että tämä on vain liikematka, niin en huolestu.	
+998	Tarvitsen passini.	
+999	Sano jotain lohdullista.	
+1000	Vaikkei se olisi totta.	
+1001	Teen tämän meidän takiamme.	
+1002	Herra Michener on oppaanne Berliinissä.	
+1003	Hän on Yhdysvaltain suurlähetystön attasea.	
+1004	Juttu on mennyt mutkikkaaksi.	
+1005	[NO TRANSLATION]	missing translation
+1006	Rouva Abel, kuka lie, kirjoitti jostain juristi Vogelista Itä-Berliinissä, joka edustaa häntä.	
+1007	Vogel meni Venäjän lähetystöön Itä-Berliinissä. He haluavat ehkä vaihtaa Abelin Powersiin.	
+1008	Ketään ei tunneta, mutta lienevät venäläisiä?	
+1009	Neuvostoliittolaisia.	
+1010	Uskomme niin.	
+1011	Mitä tarkoitatte?	
+1012	Saisiko lämmön päälle?	
+1013	On pikku ongelma.	
+1014	Voivat heittää kierrepallon.	
+1015	Yrittävät ehkä vaihtaa eri vangin kuin Powers.	
+1016	Toisen amerikkalaisen?	
+1017	Stasi nappasi amerikkalaisopiskelijan,	
+1018	Frederic Pryorin.	
+1019	Oli muurin väärällä puolella.	
+1020	Yalen opiskelija,	
+1021	tuli lukemaan taloustieteitä.	
+1022	[NO TRANSLATION]	missing translation
+1023	Uhkaavat poikaa oikeusjutulla vakoilusta.	
+1024	Vakava rikos, kuolemanrangaistus.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel otti yhteyttä, sanoi edustavansa Pryoria.	
+1027	Hetkinen.	
+1028	Edustaako Vogel rouva Abelia ja tätä nuorta?	
+1029	Kiireinen mies.	
+1030	Mikä Vogel on?	
+1031	Itäsaksalainen vai venäläinen?	
+1032	Yrittäkää selvittää tavatessanne.	
+1033	Venäjän lähetystö, Itä-Berliini, huomenna 12.00.	
+1034	Hoffman näyttää miten sinne pääsee.	
+1035	Näyttää miten päästään?	
+1036	Saan saattajan.	
+1037	Vai mitä?	
+1038	Niin piti, mutta tuli ongelma.	
+1039	En vie teitä.	
+1040	Päätös on tehty.	
+1041	Kukaan USA:n virkamies ei saa ylittää rajaa.	
+1042	Miksei?	
+1043	Liian vaarallista.	
+1044	Itä-Saksa sieppasi sen pojan.	
+1045	Emme osanneet odottaa sellaista.	
+1046	Itä-Saksan ja Venäjän suunnitelmatvoivat olla erilaiset.	
+1047	Yrittäkää selvittää se.	
+1048	Tavoitelkaa sopimusta.	
+1049	Powers Abelista.	
+1050	Entä se opiskelija, Pryor?	
+1051	[NO TRANSLATION]	missing translation
+1052	Älkää langetko siihen.	
+1053	Saamme hänet ulos muulloin.	
+1054	On kyse Powersista.	
+1055	Missä on huoneenne?	
+1056	Asun Hiltonissa.	
+1057	Se ei ole kaukana.	
+1058	Puhelinnumero Länsi-Berliinissä.	
+1059	Opetelkaa ja antakaa takaisin.	
+1060	[NO TRANSLATION]	missing translation
+1061	[NO TRANSLATION]	missing translation
+1062	Tarkoitan heti.	
+1063	Neukut katkovat kansainvälisiä yhteyksiä, mutta paikallispuhelut toimivat.	
+1064	Joku vastaa päivin öin.	
+1065	Tämä passiinne liitetty viisumi on lippunne neuvostosektorille ja sieltä pois.	
+1066	Tapaatte Vogelin huomenna klo 12.	
+1067	Reittejä itään on vain muutama.	
+1068	Menette S-Bahnilla, asema jonka näytimme.	
+1069	Jäätte pois Friedrichstrassen asemalla tässä, kävelette NL:n lähetystöön Unter den Lindenillä.	
+1070	Katsokaa karttaa nyt.	
+1071	Älkää ottako mukaan.	
+1072	Jos katsoo karttaa, on amerikkalainen, vakooja.	
+1073	Teidät voitaisiin pidättää.	
+1074	Välttäkää kanssakäymistä.	
+1075	[NO TRANSLATION]	missing translation
+1076	Ette kuulu sinne, älkää erottuko.	
+1077	Ruoka on vähissä, rappio alkanut.	
+1078	Siellä on rikollisjoukkioita. Lainkunnioitus on heikompaa siellä.	
+1079	Pysykää kaukana muurista.	
+1080	Muurin viereltä on purettu rakennukset.	
+1081	Kuolemankaista.	
+1082	Sen ylittäjät ammutaan.	
+1083	Onko skenaariota, jossa ei pidätetä tai ammuta?	
+1084	Älkää huolestuko Michenerin puheista.	
+1085	Olen huolestunut teidän puheistanne.	
+1086	Tämä Itä-Saksan nappaama Pryor, miten vanha?	
+1087	25	
+1088	Miten niin?	
+1089	Dougien ikäinen.	
+1090	Kenen?	
+1091	Kollegani.	
+1092	Frederic Pryor.	
+1093	Hyvä on.	
+1094	[NO TRANSLATION]	missing translation
+1095	Pyydämme anteeksi, jos tämä loukkaa.	
+1096	[NO TRANSLATION]	missing translation
+1097	Takki?	
+1098	Hyvä on.	
+1099	Ymmärrättekö englantia?	
+1100	Kyllä.	
+1101	James Donovan.	
+1102	Tulin tapaamaan hra Vogelia.	
+1103	[NO TRANSLATION]	missing translation
+1104	Ei ole töissä täällä.	
+1105	Meidän piti vain tavata.	
+1106	[NO TRANSLATION]	missing translation
+1107	Herra Donovan!	
+1108	Lopultakin tapaamme.	
+1109	Olen Helen Abel.	
+1110	Miten aviomiehemme voi?	
+1111	[NO TRANSLATION]	missing translation
+1112	Hyvin.	
+1113	Rudolfini.	
+1114	Niin hyvin kuin odottaa voi.	
+1115	Ja saamme hänet takaisin?	
+1116	Tämä on tyttäremme.	
+1117	Päivää.	
+1118	Lydia.	
+1119	Oletteko herra Vogel?	
+1120	Ei, ei.	
+1121	En ole Vogel.	
+1122	Olen Drews-serkku.	
+1123	Rudolfin rakas Drews-serkku.	
+1124	Drews-serkku.	
+1125	Olen Drews-serkku.	
+1126	Drews-serkku, aivan.	
+1127	Olen Helen Abel.	
+1128	Milloin näette hänet?	
+1129	Milloin hallituksenne vapauttaa hänet?	
+1130	Olen hieman hämilläni.	
+1131	Minun piti tavata herra Vogel.	
+1132	Herra Vogel on lakimiehemme.	
+1133	Meidän piti neuvotella vaihdosta.	
+1134	Rudolfin tuomiseksi tänne?	
+1135	Niin, aivan.	
+1136	Mutta se ei tapahdu yksipuolisesti, käsitättekö?	
+1137	Sen täytyy olla vaihto.	
+1138	Ei tänne?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Herra Donovan?	
+1143	Herra Vogel.	
+1144	Ei toki.	
+1145	[NO TRANSLATION]	missing translation
+1146	Nimeni on Ivan Schischkin.	
+1147	[NO TRANSLATION]	missing translation
+1148	Neuvostoliiton suurlähetystön lähetystösihteeri.	
+1149	Herra Vogelin ei olisi sopivaa liittyä seuraan.	
+1150	Hän on Saksan kansalainen.	
+1151	Ette siis tullut tänne...	
+1152	Tulin helpottamaan tapaamista.	
+1153	Ehkäpä rouva Abel haluaisi rauhoittua itsekseen.	
+1154	Jotta herra Donovan ja minä voisimme jutella.	
+1155	Kiitos.	
+1156	Olen hämilläni.	
+1157	Aivan.	
+1158	On sama kenelle puhun, kunhan on kyse henkilöiden vaihdosta.	
+1159	Puhunko teidän kanssanne?	
+1160	Kyllä vain.	
+1161	Meidän pitäisi jutella.	
+1162	Käykää istumaan, herra Donovan.	
+1163	Miten tulitte itäiselle sektorille?	
+1164	Junalla.	
+1165	S-Bahnilla.	
+1166	Olitteko yksin?	
+1167	Olin.	
+1168	Oletteko akkreditoitu?	
+1169	Tiedätte varmasti minusta.	
+1170	Olen yksityishenkilö.	
+1171	Olen juristi Brooklynista Yhdysvalloista ja irtauduin kiireisestä työstäni auttaakseni päämiestäni, Rudolf Abelia.	
+1172	Minulla on valtuudet järjestää Abelin vaihto Francis Gary Powersiin.	
+1173	Tämä on Abelin armahdus, joka allekirjoitetaan vaihdon tapahtuessa.	
+1174	Vain siksi olen täällä.	
+1175	Toivoakseni asia järjestyy nopeasti.	
+1176	Abel Francis Gary Powersista... ja Frederic Pryorista.	
+1177	Meillä ei ole Pryoria.	
+1178	[NO TRANSLATION]	missing translation
+1179	Eikö?	
+1180	Tiedän Pryorin. Han on Saksan demokraattisen tasavallan vankina. Ei Sosialististen neuvostotasavaltojen liiton.	
+1181	Kerron ensimmäisen ongelman.	
+1182	Maidenne nimet ovat liian pitkiä.	
+1183	Aivan.	
+1184	Jos vapautamme Powersin, teemme sen vain hyväntahdoneleenä.	
+1185	Se ei siis voi olla vaihtokauppa.	
+1186	[NO TRANSLATION]	missing translation
+1187	Ehkäpä voisitte vapauttaa Abelin hyväntahdoneleenä saksalaisystäviämme kohtaan, ja sitten joitain kuukausia myöhemmin vapauttaisimme Powersin.	
+1188	Siinä olisi ideaa.	
+1189	[NO TRANSLATION]	missing translation
+1190	Ei käy meille.	
+1191	Sen täytyy olla vaihtokauppa.	
+1192	Sanokaa sitä miksi haluatte, mutta sen täytyy olla vaihto.	
+1193	Saisitte Abelin kahdessa vuorokaudessa.	
+1194	Haluamme Powersin samalla kun saatte Abelin.	
+1195	[NO TRANSLATION]	missing translation
+1196	Tämä on...	
+1197	Voimmeko sanoa tätä malttamattomaksi suunnitelmaksi?	
+1198	Sanokaa miksi haluatte.	
+1199	Voin välittää malttamattoman suunnitelmanne Moskovaan,	
+1200	mutta siellä tullaan ihmettelemään sitä.	
+1201	Syynä on vilustumiseni.	
+1202	En asu Berliinissä, haluan kotiin.	
+1203	He ajattelevat: Amerikkalaiset ovat varmaan saaneet kaikki tiedot, mitä Abel saattoi antaa.	
+1204	Nyt he ovat malttamattomia vaihtamaan hänettoivoen saavansa vaihdossa tämän Powersin, joka kenties ei ole antanut kaikkia tietojaan.	
+1205	Tämä ei ole reilu kauppa.	
+1206	Sanotte, että jos Powers on antanut tietonsa, Moskova suostuisi vaihtoon?	
+1207	Mikseivät suostuisi?	
+1208	Jos Abel kuolee amerikkalaisessa vankilassa, seuraava kiinni jäävä venäläistoimija voisi miettiä tarkkaan vaikeneeko.	
+1209	Eihän sitä tiedä.	
+1210	Abel voisi haluta nähdä vielä taivaan ja vaihtaa venäläissalaisuuksia amerikkalaispalveluksiin.	
+1211	Miten voimme tietää sen?	
+1212	Me vähäpätöiset miehet vain teemme työmme.	
+1213	Kuten luutnantti Powers.	
+1214	Hän on vain lentäjä.	
+1215	Hän otti valokuvia 20 000 metristä, kun hänet ammuttiin alas.	
+1216	Maanmieheni pitävät sitä sotatoimena.	
+1217	Meidän pitää hypätä tästä karusellistä.	
+1218	Maidemme seuraava virhe voisi olla viimeinen.	
+1219	Meidän pitää käydä keskustelu, jota hallituksemme eivät voi käydä.	
+1220	Kysyn Moskovalta.	
+1221	Kuka tietää, mitä sanovat.	
+1222	On paljon niitä, herra Donovan, jotka eivät halua tämän vaihdon tapahtuvan.	
+1223	Voitteko palata huomenna keskustelemaan vastauksesta?	
+1224	Powers Abelista.	
+1225	Ja Frederic Pryor.	
+1226	Pryor on Saksan demokraattisen tasavallan turvallisuuselimen käsissä.	
+1227	Hoitanette asian.	
+1228	Olen vain vieraan vallan lähetystösihteeri.	
+1229	Selvä.	
+1230	Teidän pitää tavata hra Vogel.	
+1231	Annan osoitteen.	
+1232	Herra Vogel on siis olemassa?	
+1233	Miksi kuvittelisitte muuta?	
+1234	Lyhyt taksimatka.	
+1235	Ja pyydän, herra Donovan, käyttäkää päällystakkia tässä säässä.	
+1236	Takkini varastettiin.	
+1237	Mitä odottaisitte?	
+1238	Sehän oli Saks Fifth Avenuelta.	
+1239	Eikö vain?	
+1240	Herra Donovan.	
+1241	Herra Vogel.	
+1242	Käykää sisään.	
+1243	[NO TRANSLATION]	missing translation
+1244	Pahoittelen lähetystöasiaa.	
+1245	Neuvostoliittolaiset torjuivat minut.	
+1246	Hyvin ärsyttävää.	
+1247	Yritän yhä ymmärtää kunkin osapuolen...	
+1248	Asemaa?	
+1249	Niin.	
+1250	Ja intressiä prosessiin.	
+1251	[NO TRANSLATION]	missing translation
+1252	Uusi maailma.	
+1253	Kaikki on hyvin hämmentävää, eikö vain?	
+1254	Kerron mitä minulla on tarjota.	
+1255	Olen hyvä ystävä...	
+1256	Ystävä.	
+1257	Ei, hän on vanhempi.	
+1258	Suojatti?	
+1259	Saksan demokraattisen tasavallan oikeusministerin suojatti.	
+1260	Istumaan.	
+1261	Tämä onneton... Frederic Pryor. Hän oli väärässä paikassa väärään aikaan.	
+1262	Mutta jokainen onnettomuus, tarkemmin katsoen, on mahdollisuus, eikö vain?	
+1263	[NO TRANSLATION]	missing translation
+1264	Maanne kieltäytyy tunnustamasta Saksan demokraattista tasavaltaa.	
+1265	Keksivät mieluummin tarinoita, esimerkiksi että DDR:ää ei ole olemassa.	
+1266	Anteeksi.	
+1267	Keinona pakottaa hallituksenne tunnustamaan tämä todellinen paikka, jossa olette, DDR, oikeusministeri haluaa neuvotella kanssanne hallituksenne edustajana herra Pryorin palauttamiseksi.	
+1268	En ole täällä hallitukseni edustajana.	
+1269	Hyvä on.	
+1270	Tuo on lapsellista, herra Donovan.	
+1271	[NO TRANSLATION]	missing translation
+1272	Minulla ei ole virallista asemaa.	
+1273	Selvä.	
+1274	Te ette edusta USA:ta, minä en edusta DDR:ää.	
+1275	Päämieheni on Lydia Abel, Rudolfin vaimo.	
+1276	Lisäksi...	
+1277	Lydia on tytär.	
+1278	Helen on vaimo.	
+1279	[NO TRANSLATION]	missing translation
+1280	Olen valmis tarjoamaan Frederic Pryoria vaihdossa Rudolf Abeliin.	
+1281	Sanotaan selvästi:	
+1282	Luovutamme Rudolf Abelin.	
+1283	Te luovutatte samaan aikaan opiskelija Pryorin.	
+1284	Samaan aikaan?	
+1285	Ehdottomasti.	
+1286	vaihdossa on tarjolla venäläinen elämänsä iltapuolella... amerikkalaisopiskelijasta elämänsä alussa.	
+1287	Schischkin?	
+1288	Ei hän ole lähetystösihteeri.	
+1289	Ivan Schischkin on KGB:n pomo Länsi-Euroopassa.	
+1290	Mikä liekin, hän välittää ehdotuksemme Moskovaan, ja he päättävät.	
+1291	Voisinko lainata takkia?	
+1292	Menetin omani.	
+1293	Miten se tapahtui?	
+1294	Vakoojajuttuja...	
+1295	Hankin teille takin.	
+1296	Hyvä, sillä...	
+1297	Kuka se Vogel on?	
+1298	Emme tunne häntä.	
+1299	Voi olla mikä sanoi olevansa,	
+1300	oikeusministerin ystävä.	
+1301	Joku vain, jonka DDR otti hoitamaan tämän.	
+1302	Itäsaksalaiset tuntuvat tappelevan paikasta pöydässämme.	
+1303	DDR saa Abelin takaisin venäläisille saaden heidän kunnioituksensa -	
+1304	ja päästen otsikoihin asiansa puolesta.	
+1305	Laittaen Itä-Saksan kartalle.	
+1306	Mutta emme piittaa heidän kartastaan.	
+1307	Pysykää venäläisten kelkassa.	
+1308	Pysykää venäläisten kelkassa.	
+1309	Powers Abelista.	
+1310	Tarkoittaako tämä, että voimme onnistua?	
+1311	Niin tunnutte kertovan.	
+1312	Laitamme Abelin koneeseen, tulee perjantaina.	
+1313	Jos Schischkin saa hyväksynnän, jää vain käytännön järjestely.	
+1314	Miten vaihdamme miehet.	
+1315	Meidän kaksi miestämme.	forced duplication
+1316	Meidän kaksi miestämme.	forced duplication
+1317	Powersin ja Pryorin.	
+1318	Älkää alkako tunteilla.	
+1319	Powers on asian ydin.	
+1320	Unohtakaa se yläluokan poika, josta oli hyvä idea opiskella neuvostotaloutta Berliinissä keskellä kylmää sotaa.	
+1321	Powersin me tarvitsemme.	
+1322	Ette edes pidä Powersista.	
+1323	Kaikki vihaavat Powersia.	
+1324	Ei tappanut itseään ja meni kommareiden televisioon.	
+1325	Hän on Amerikan vihatuin mies.	
+1326	Ehkä Rudolf Abelin jälkeen.	
+1327	Ja minun.	
+1328	H erätys!	
+1329	Täytyy nukkua.	
+1330	Minun täytyy nukkua.	
+1331	Saat nukkua, kunhan olemme jutelleet.	
+1332	Keskity minuun.	
+1333	Hallituksesi ei piittaa sinusta,	
+1334	tiedät sen.	
+1335	Kenestäkään teistä.	
+1336	Tiedätkö, että 12 U-2 -lentäjää sai aivovaurion?	
+1337	Korkealla lentäminen aiheutti hapenpuutetta.	
+1338	Mutta he lennättävät sinua, Gary.	
+1339	Ja ystäviäsi.	
+1340	Hehän antoivat tämän,	
+1341	naarmuttimen?	
+1342	Syankaliumia.	
+1343	Vaikuttavatko piittaavan sinusta?	
+1344	Mikä on tuholaitteen rakenne?	
+1345	Miten se yksikkö toimii?	
+1346	Millä räjähteillä se on ladattu ja millaista tuhoa se voi aiheuttaa?	
+1347	En tiedä.	
+1348	Lentäjille ei näytetty laitteistoa.	
+1349	Miten pitkälle tutka voi kartoittaa alueen ylilennon aikana?	
+1350	En tiedä!	
+1351	Lensitkö 9. huhtikuuta yli teollisuusalueen ja MiGpommikonetukikohdan Baranovichissa?	
+1352	En.	
+1353	Tämä oli ensimmäinen ylilentoni.	
+1354	Haluan tietää koneen liito-ominaisuuksista.	
+1355	Miten se pääsee niin korkealle.	
+1356	Tiedämme sen nousevan 20 000 metriin.	
+1357	Gary, tiedämme sen.	
+1358	Haluan tietää, minne koneet ovat lentäneet.	
+1359	Minne ne ovat lentäneet, Gary.	
+1360	Meidän on puhuttava tästä nyt.	
+1361	Nyt.	
+1362	Sitten voit nukkua hiukan.	
+1363	Herätkää.	
+1364	Herätkää.	
+1365	Voitteko tulla kanssani?	
+1366	[NO TRANSLATION]	missing translation
+1367	Täytyy lähteä.	
+1368	Selvä.	
+1369	Voitteko tulla?	
+1370	Voin.	
+1371	Selvä.	
+1372	Onko lasit mukana?	
+1373	[NO TRANSLATION]	missing translation
+1374	Mitä kello?	
+1375	On myöhä, mutta pitää jutella ja laittaa teidät koneeseen.	
+1376	[NO TRANSLATION]	missing translation
+1377	[NO TRANSLATION]	missing translation
+1378	Uppistakeikkaa!	
+1379	Uppistakeikkaa.	
+1380	Aivan.	
+1381	No niin, mennään vain.	
+1382	[NO TRANSLATION]	missing translation
+1383	Kiitos.	
+1384	Toiseen suuntaan.	
+1385	Hyvä.	
+1386	Sanoitteko koneeseen?	
+1387	Tänne päin...	
+1388	[NO TRANSLATION]	missing translation
+1389	Sain myönteisen päätöksen Moskovasta ehdotuksellenne, että autamme ystäviämme DDR:ssä vaihtamalla herra Powersin herra Abeliin.	
+1390	Loistavaa.	
+1391	Ehdottaisin Glienicken siltaa vaihtopaikaksi.	
+1392	Miksei Checkpoint Charlie?	
+1393	Emme hae julkisuutta.	
+1394	Glienicken silta on hiljainen aamuvarhaisella.	
+1395	Glienicken silta.	
+1396	Kysyn meikäläisiltä.	
+1397	Saamme Abelin tänne perjantaina.	
+1398	Lauantaiaamuna?	
+1399	Aina malttamaton.	
+1400	Haluan kotiin nukkumaan.	
+1401	Lauantaiaamuna?	
+1402	05.30?	
+1403	Hyvä on.	
+1404	Valmista tuli.	
+1405	Tässä on puhelinnumero, kaiken varalta.	
+1406	Selvä.	
+1407	Joku vastaa mihin aikaan tahansa.	
+1408	Tuskin tarvitsen sitä.	
+1409	Juommeko maljan järjestelylle?	
+1410	Mikäpä siinä.	
+1411	Armenialaista brandya,	
+1412	vilustumiseenne.	
+1413	Kiitos.	
+1414	Sopisiko...	
+1415	Ei kuulu tähän, mutta haluaisin kysyä jotain.	
+1416	Ei tarvitse vastata.	
+1417	Vastaan jos osaan.	
+1418	Pidän siitä teidän miehestänne.	
+1419	Mitä hänelle tapahtuu kun pääsee kotiin?	
+1420	Meidän täytyy selvittää onko meidän miehemme nyt teidän miehenne.	
+1421	Kuten sanoin, hän on toiminut kunniallisesti.	
+1422	Hän on yhä miehenne.	
+1423	Tietysti sanotte noin, onpa se totta tai ei.	
+1424	Siihen on kai päädytty.	
+1425	Anteeksi ahdisteluni, mutta onko hän vaarassa selvityksen takia?	
+1426	Hyvänen aika.	
+1427	Nykytilanteessa kaikki ovat vaarassa.	
+1428	Kippis.	
+1429	[NO TRANSLATION]	missing translation
+1430	Glienicken sillalla ei tapahdu vaihtoa.	
+1431	Anteeksi?	
+1432	Ei tapahdu vaihtoa.	
+1433	Ei Frederic Pryorista.	
+1434	Herra Vogel, luulin sopineemme siitä eilen.	
+1435	Sovimme Abelin vaihdosta Pryoriin.	
+1436	Nyt huomaan, että olette mattokauppias, myytte samaa mattoa kahdelle asiakkaalle.	
+1437	Myytte meille Abelin Pryorista.	
+1438	Niin.	
+1439	Ja Abelin Powersista venäläisille.	
+1440	En tiedä mikä tässä on ongelma, jos järjestely tyydyttää useampia osapuolia.	
+1441	[NO TRANSLATION]	missing translation
+1442	Järjestely ei tyydytä tätä osapuolta.	
+1443	Herra Vogel...	
+1444	Ette ilmeisesti tiedä mistä tässä on kyse.	
+1445	Saksan demokraattisen tasavallan intressinä -	
+1446	on tulla nähdyksi käymässä kauppaa toisen riippumattoman valtion, USA:n kanssa.	
+1447	Yhtäläisen valtion.	
+1448	Kohtelette meitä neuvostoliittolaisten apureina.	
+1449	Puhutaanko venäläisistä?	
+1450	Säästyy aikaa.	
+1451	Minulla on tapaaminen.	
+1452	Te tässä hukkaatte aikaa.	
+1453	Sanokaa, jos kuvailen tämän väärin.	
+1454	Teillä on opiskelija, jonka tiedätte vaarattomaksi teille.	
+1455	Tämän teille arvottoman ihmisen vaihdolla pelaatte yhtäläistä osaa vaihdossa NL:n ja USA:n välillä.	
+1456	Tämä on yksi kauppa meidän ja teidän kahden välillä.	
+1457	Emme yritä tehdä kahta asiaa,	
+1458	vaan yhden.	
+1459	Yhden.	
+1460	Minun on vaikea nähdä, miten Itä-Saksan demokraattien tasavaltaa syrjitään.	
+1461	Sovitte venäläisten kanssa puhumatta minulle.	
+1462	Neuvottelu vai salaliitto?	
+1463	ollakseen salaliitto siitä olisi haittaa.	
+1464	Tässä on vain hyötyjä.	
+1465	Yhteiset intressit.	
+1466	Vain teidän mielestänne.	
+1467	Missä tapaamisenne on?	
+1468	Lännessä.	
+1469	Ku'dammilla.	
+1470	Hyvä.	
+1471	Katsokaa ympärillenne.	
+1472	Miltä itäsektori näyttää läntiseen verrattuna?	
+1473	[NO TRANSLATION]	missing translation
+1474	Venäläisystävämme ovat päättäneet, ettemme saa korjata pääkaupunkiamme.	
+1475	Elämme näissä venäläisten tekemissä räunioissä.	
+1476	Tehkää sopimuksenne venäläisten kanssa.	
+1477	Me emme osallistu.	
+1478	Ei sopimusta ilman Pryoria.	
+1479	Häntä ei jätetä.	
+1480	Teidän vai hallituksenne kanta?	
+1481	Hyvä herra. Olen tässä,	
+1482	puhun teille.	
+1483	Mutta ette edusta hallitustanne.	
+1484	Ette tiedä kuka olette.	
+1485	Emme mekään.	
+1486	Olkaa varovainen.	
+1487	Tämä ei ole Brooklyn.	
+1488	Kuulkaahan.	
+1489	Tiedätte varmasti, että edustan hallitustani.	
+1490	Tiedätte kuka olen.	
+1491	Tiedänkö?	
+1492	[NO TRANSLATION]	missing translation
+1493	Onko teillä asianmukaiset paperit?	
+1494	Ei tietenkään.	
+1495	Ei sillä väliä.	
+1496	Amerikkalaisjuristi selviää puhumalla kaikesta.	
+1497	Eikö niin?	
+1498	Menkää hänen mukaansa.	
+1499	Miksi?	
+1500	Passiongelma.	
+1501	[NO TRANSLATION]	missing translation
+1502	[NO TRANSLATION]	missing translation
+1503	Mikä on ongelmana?	
+1504	Menkää hänen mukaansa.	
+1505	Muistakaa... Frederic Pryorin kohtalo on meidän käsissämme.	
+1506	Hyvä Jumala!	
+1507	Aloittaisin kahvilla, kiitos.	
+1508	Sitten otan Hilton-annoksen ja amerikkalaisen aamiaisen	
+1509	sen kahvin jälkeen.	
+1510	Molemmat aamiaiset?	
+1511	Niin.	
+1512	Toinen ensin, vai...	
+1513	Molemmat ensin.	
+1514	Heti kun käy.	
+1515	Ja kahvia.	
+1516	[NO TRANSLATION]	missing translation
+1517	Ette saisi olla täällä.	
+1518	Joskus Saksassa sitä haluaa ison amerikkalaisaamiaisen.	
+1519	[NO TRANSLATION]	missing translation
+1520	Missä olitte illalla?	
+1521	Vogel järjesti minut hetkeksi itään.	
+1522	Voi ei.	
+1523	Ei se ole niin paljon pahempi kuin asuinpaikkani täällä.	
+1524	Vaihto käy venäläisille, mutta Vogel sanoo, ettei itäsaksalaisille käy.	
+1525	Emme saa Pryoria.	
+1526	Hieno juttu.	
+1527	Neukut suostuvat.	
+1528	Saamme Powersin.	
+1529	Saamme Powersin.	
+1530	Hienoa työtä.	
+1531	Ei, itäsaksalaisille ei käy.	
+1532	Emme saa Pryoria. Se poika on tärkeä.	
+1533	Jokainen on tärkeä.	
+1534	Tietysti, siksihän te yrititte.	
+1535	[NO TRANSLATION]	missing translation
+1536	Abel on matkalla, kaikki on valmista.	
+1537	Hetkinen.	
+1538	Yksinkertaistaa asioita.	
+1539	Yksinkertaistaa asioita.	
+1540	Emme saa sitä poikaa.	
+1541	Ymmärrän.	
+1542	Olemme valmiit.	
+1543	Voimme unohtaa aamuisen viestin.	
+1544	Minkä viestin?	
+1545	Itäsaksalaisilta.	
+1546	Soittivat antamaani numeroon.	
+1547	Halusivat puhua kanssanne tänään.	
+1548	Soittiko Vogel?	
+1549	Ei.	
+1550	Harald Ottin, DDR:n oikeusministerin toimistosta soitettiin.	
+1551	[NO TRANSLATION]	missing translation
+1552	Mitä hän haluaa?	
+1553	Puhua kanssanne.	
+1554	Mutten voi pyytää teitä palaamaan.	
+1555	Tunnutte olevan epätoivottu henkilö, joten emme koettele onneamme.	
+1556	Hän haluaa siis tavata.	
+1557	Mihin aikaan?	
+1558	Ei, ei.	
+1559	Kuulkaas nyt.	
+1560	Ei tarvitse mennä.	
+1561	Ei pitäisi mennä.	
+1562	Ette saa mennä.	
+1563	[NO TRANSLATION]	missing translation
+1564	Emme halua pilata asiaa neukkujen kanssa.	
+1565	En pilaa sitä.	
+1566	Ette mene!	
+1567	Älkää olko rasittava.	
+1568	Minä tilasin.	
+1569	Nauttikaa isosta amerikkalaisaamiaisestanne.	
+1570	Halusin neuvotella korkeimmalla tasolla, kohteliaisuutena teille.	
+1571	Kiitän siitä.	
+1572	En tiedä miten tästä tuli niin sekavaa.	
+1573	Joskus niin vain käy.	
+1574	Selvyyden vuoksi - sanon, että olemme valmiitvaihtamaan sen opiskelijan, Pryorin, Rudolf Abeliin.	
+1575	Käsittääkseni Pryor on hyvin tärkeä teille.	
+1576	Kyllä, mutta...	
+1577	Teemme muistion, jossa näin kerrotaan.	
+1578	Muistion.	
+1579	Suoritamme varmasti kahdenvälisen vaihdon.	
+1580	Kyllä.	
+1581	En ole varma mitä se tarkoittaa, mutta...	
+1582	Maani vaatii myös Francis Gary Powersin.	
+1583	Ei!	
+1584	Näin asioista tuli niin sekavia.	
+1585	Powers.	
+1586	Mitä hyötyä hänestä on?	
+1587	Haluatteko rangaista häntä?	
+1588	Tehty mikä tehty.	
+1589	Hän on sanottavansa sanonut, kuten Abelkin.	
+1590	Tarjoamme sen sijaan jotakuta, jota väitätte viattomaksi.	
+1591	Tämä on oikein.	
+1592	Hänet teidän pitäisi saada.	
+1593	Tulevaisuus.	
+1594	Katsokaa tulevaisuuteen.	
+1595	Ott.	
+1596	Ott.	
+1597	Anteeksi,	
+1598	poistuisitteko hetkeksi?	
+1599	Pahoittelen.	
+1600	Oikeusministeri joutui lähtemään kiireesti.	
+1601	Lähtikö hän?	
+1602	Kyllä.	
+1603	Pahoittelemme kovasti.	
+1604	Olen odottanut yli tunnin.	
+1605	Olen kovin pahoillani.	
+1606	Nuorimies.	
+1607	Tulkaa tänne.	
+1608	[NO TRANSLATION]	missing translation
+1609	Tulkaa vain.	
+1610	[NO TRANSLATION]	missing translation
+1611	Käykää istumaan.	
+1612	[NO TRANSLATION]	missing translation
+1613	Istukaa nyt.	
+1614	Pidättekö työstänne täällä?	
+1615	Oikein hyvä työ.	
+1616	[NO TRANSLATION]	missing translation
+1617	Varmaan mielenkiintoista.	
+1618	Kyllä vain.	
+1619	Ja tärkeää työtä.	
+1620	Puhutte hyvää englantia.	
+1621	Epäröin sanoa erinomaiseksi,	
+1622	mutta sitä se on.	
+1623	Hyvä, hyvä.	
+1624	[NO TRANSLATION]	missing translation
+1625	Menetin juuri neuvottelukumppanini ja minulla on tarve puhua. Vaikutatte järkevältä nuorukaiselta.	
+1626	Voinko puhua teille?	
+1627	[NO TRANSLATION]	missing translation
+1628	Ei hätää.	
+1629	Ei hätää.	
+1630	[NO TRANSLATION]	missing translation
+1631	Haluan vain, että kerrotte viestin pomollenne.	
+1632	Mutta sen on oltava hyvin selkeä.	
+1633	Ymmärrättekö?	
+1634	Kyllä,	
+1635	mutta olisi ehkä paras odottaa...	
+1636	Ei, ei.	
+1637	Olen vilustunutja haluan kotiin - Ja sänkyyn.	
+1638	Voitteko välittää viestin?	
+1639	Toki.	
+1640	Viesti kuuluu näin.	
+1641	Ei sopimusta, ellemme saa Powersia ja Pryoria.	
+1642	Ymmärrättekö?	
+1643	Ymmärrän.	
+1644	Se tapahtuu huomisaamuna,	
+1645	mutta vain jos saamme kaksi miestä.	
+1646	Ne kaksi miestä.	
+1647	Kaksi.	
+1648	Selvä.	
+1649	Ellei tule sopimusta, pomonne täytyy kertoa se neukuille.	
+1650	Hänen on kerrottava, että he eivät saa Rudolf Abelia.	
+1651	Hyvä on.	
+1652	Sanokaa myös tämä.	
+1653	Toistaiseksi Abel on ollut hyvä sotilas, mutta hän uskoo pääsevänsä kotiin.	
+1654	Jos joudumme kertomaan ettei pääse, ettei hän palaa koskaan kotiin, -	
+1655	voin kuvitella hänen käytöksensä muuttuvan.	
+1656	Ja kenen vastuulle se menee?	
+1657	Pitkä viesti.	
+1658	Muistatteko kaiken?	
+1659	Kyllä	
+1660	muistan.	
+1661	Hyvä.	
+1662	Olette kunnon mies.	
+1663	[NO TRANSLATION]	missing translation
+1664	Sanokaa myös... Ei sopimusta, ellei kuulu mitään ennen työajan päättymistä.	
+1665	Hän tietää numeron.	
+1666	Ellei vaihtoa tapahdu, kaikkien ei tarvitse herätä aamuvarhain.	
+1667	Ei, se olisi aiheetonta.	
+1668	Laskette leikkiä!	
+1669	Laskette leikkiä!	
+1670	En.	
+1671	Tarvitsen kolikoita.	
+1672	Juuri näin ei pitänyt tehdä.	
+1673	Sain ohjeen tunnustella tilannetta.	
+1674	Teidän piti palauttaa Powers, ei Pryoria.	
+1675	Niin ei sovittu.	
+1676	Pilasitte kaiken!	
+1677	Mistä tiedätte?	
+1678	Minulla on hyvä tunne.	
+1679	Tyritte koko jutun!	
+1680	Ei huolta.	
+1681	Uskon kaiken hoituvan.	
+1682	Mistä tiedätte?	
+1683	Ette tiedä.	
+1684	Yhdysvallat,	
+1685	New Yorkin kaupunki.	
+1686	Danke.	
+1687	Koko jutulla on tunnusteltu minua.	
+1688	Vaihtaisinko yhden yhteen, ja kumpaan?	
+1689	Mutta sanoin: Ei, kaksi yhdestä.	
+1690	Joten tietävät kantamme.	
+1691	Jospa he sanovat:	
+1692	Antaa olla!	
+1693	Pitäkää miehemme, me pidämme miehenne.	
+1694	Silloin olen tyrinyt kaiken.	
+1695	Hei, kulta!	
+1696	Minä tässä.	
+1697	On.	
+1698	Kalastus on sujunut hienosti.	
+1699	Olen Lontoossa. Vielä yksi kokous, sitten tulen kotiin.	
+1700	Muistan sen marmeladin.	
+1701	Se kauppa Regent's Parkin laidalla.	
+1702	Selvä, jos ehdin.	
+1703	Saanko puhua Rogerin kanssa?	
+1704	Ja tyttöjen?	
+1705	Ehtiikö kukaan?	
+1706	Ovatko edes huomanneet, etten ole kotona?	
+1707	Se onnistuu.	
+1708	Kaksi yhdestä.	
+1709	Voi peijakas.	
+1710	Otetaan ryyppy-	
+1711	Yksi ongelma.	
+1712	Mikä?	
+1713	Eivät vapauta Pryoria Powersin kanssa sillalla.	
+1714	Vapautus on samaan aikaan.	
+1715	Kun venäläiset luovuttavat Powersin sillalla, Pryor vapautuu Checkpoint Charliella.	
+1716	Mitä se tarkoittaa?	
+1717	Luuüavasüz Me haluamme viimeisen sanan.	
+1718	Mutta he tekevät sen.	
+1719	Sanokaa te.	
+1720	Te tunnustelitte.	
+1721	Missä he ovat?	
+1722	Missä on miehemme?	
+1723	Missä on miehemme?	
+1724	He ovat myöhässä.	
+1725	Eivät ole.	
+1726	Me olemme aikaisessa.	
+1727	Saisinko?	
+1728	[NO TRANSLATION]	missing translation
+1729	Hoffman.	
+1730	Niin?	
+1731	Heillä taitaa olla...	
+1732	Mitä?	
+1733	tarkka-ampujia.	
+1734	Niin varmasti.	
+1735	Miksi luulette niin?	
+1736	Koska meilläkin on tarkka-ampujia.	
+1737	Astukaa ulos.	
+1738	Jim.	
+1739	Hyvä Jim.	
+1740	Miten voit?	
+1741	Ilahtunut näkemisestäsi.	
+1742	Järjestitkö tämän minulle?	
+1743	Katsotaan miten käy, ennen kuin otan kunnian.	
+1744	Onko kuulunut Pryorista Checkpoint Charlielta?	
+1745	Ei tapahdu vielä mitään.	
+1746	Anteeksi, herra.	
+1747	Luutnantti Joe Murphy ilmavoimista tuli tunnistamaan Powersia.	
+1748	Luutnantti Murphy.	
+1749	Herra.	
+1750	Voi tulla pikku ongelma.	
+1751	Olin nuorukainen lähtiessäni.	
+1752	Kenet he löytävät tunnistamaan minut?	
+1753	Toivottavasti eivät itäsaksalaista perhettäsi.	
+1754	Tuskin tunnistaisivat toisiaan.	
+1755	Vaikuttaa seurueeltamme.	
+1756	Mennään sitten.	
+1757	Voitte jäädä tähän, Donovan.	
+1758	Tuskinpa vain.	
+1759	Avatkaa portti.	
+1760	Mitähän tapahtuu, kun pääset kotiin?	
+1761	Luulen...	
+1762	että otan vodkan.	
+1763	Niin.	
+1764	Niin.	
+1765	Mutta Rudolf, eikö olisi mahdollista...	
+1766	Että meikäläiset ampuvat minut?	
+1767	Niin.	
+1768	Eikö huolestuta?	
+1769	Auttaisiko se?	
+1770	Vastatakseni kysymykseesi, ystäväni... toimin kunniallisesti.	
+1771	He tiennevät sen.	
+1772	Mutta joskus luullaan väärin.	
+1773	Ihmiset erehtyvät.	
+1774	Katsotaan, miten tervehtivät minua.	
+1775	Mihin kiinnitän huomiota?	
+1776	Syleilläänkö minua, vai näytetäänkö takapenkkiä.	
+1777	[NO TRANSLATION]	missing translation
+1778	Hattu pois päästä.	
+1779	Hei, Powers!	
+1780	Hei, Murph.	
+1781	On se Powers.	
+1782	No niin, herra Donovan.	
+1783	Lähdemme nyt!	
+1784	Odottakaa!	
+1785	Uskokaa pois.	
+1786	Täällä ei ole ketään.	
+1787	Toinen mies vapautetaan Checkpoint Charliella.	
+1788	Vahvistamme hänen olevan siellä.	
+1789	Nyt!	
+1790	Suunnitelman mukaan, jos sopii.	
+1791	Mennään.	
+1792	Pryor ilmestyy, tai ei.	
+1793	Mennään.	
+1794	Odottavat nähdäkseen, toimimmeko ilman häntä.	
+1795	Täytyy vain seistä tässä, näyttää että emme.	
+1796	Paskan hailee mitä haluavat.	
+1797	Saimme kohteemme.	
+1798	Menkää, Abel.	
+1799	Menkää.	
+1800	Voitte mennä.	
+1801	Ellei ole suunnitelman mukaan, menemme kotiin.	
+1802	vaihdamme nyt, tai menemme kotiin!	
+1803	Odotatteko toista miestä?	
+1804	Jep.	
+1805	Haluatte hänetkin.	
+1806	Minä haluan.	
+1807	Sillä ei ole väliä.	
+1808	Olen pomo, voitte mennä.	
+1809	Menkää nyt.	
+1810	Kävelkää sillan yli.	
+1811	Voin odottaa.	
+1812	Näkyy jotain.	
+1813	En ole varma vielä.	
+1814	Odottakaa!	
+1815	[NO TRANSLATION]	missing translation
+1816	Saimme hänet!	
+1817	[NO TRANSLATION]	missing translation
+1818	Lähetin sinulle lahjan, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Se on maalaus.	
+1821	Toivon sen merkitsevän sinulle jotain.	
+1822	Anteeksi,	
+1823	en hankkinut sinulle lahjaa.	
+1824	Tämä on sinun lahjasi.	
+1825	Tämä on lahjasi.	
+1826	[NO TRANSLATION]	missing translation
+1827	Vauhtia, vauhtia!	
+1828	Herra Donovan.	
+1829	Eversti Abel pyysi antamaan tämän.	
+1830	Anteeksi...	
+1831	Olitteko te vastuussa tästä?	
+1832	Olin.	
+1833	Täytyy kiittää teitä.	
+1834	Täytyy kiittää jotakuta.	
+1835	En kertonut heille mitään.	
+1836	En mitään.	
+1837	Ei sillä ole väliä.	
+1838	Ihmisten luuloilla ei ole väliä.	
+1839	Tiedätte mitä teitte.	
+1840	Tervetuloa kotiin.	
+1841	Mikä reissu!	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Voitko hyvin?	
+1845	Voin mainiosti.	
+1846	Saitko sen marmeladin?	
+1847	Sain, sain.	
+1848	Jep.	
+1849	Jep.	
+1850	Kyllä sain.	
+1851	Tilauksen mukaan.	
+1852	Jim.	
+1853	Tämä on Arno'silta.	
+1854	Entä sitten?	
+1855	Kulmakaupasta!	
+1856	Kulta, olin kiireinen.	
+1857	Anteeksi.	
+1858	[NO TRANSLATION]	missing translation
+1859	Taivaan tähden.	
+1860	[NO TRANSLATION]	missing translation
+1861	Onko Roger kotona?	
+1862	Hän on kotona,	
+1863	[NO TRANSLATION]	missing translation
+1864	kaikki ovat kotona.	
+1865	Äiti,	
+1866	tule pian katsomaan!	
+1867	[NO TRANSLATION]	missing translation
+1868	Äiti, tule tänne!	
+1869	Äiti, tule tänne!	
+1870	Tule katsomaan!	
+1871	[NO TRANSLATION]	missing translation
+1872	[NO TRANSLATION]	missing translation
+1873	[NO TRANSLATION]	missing translation
+1874	Francis Gary Powers on vapautettu vankilasta Neuvostoliitossa ja luovutettu amerikkalaisviranomaisille varhain tänä aamuna Berliinissä.	
+1875	Presidentti on lieventänyt Rudolf Abelin rangaistusta.	
+1876	Herra Abel on karkotettu ja vapautettu Berliinissä.	
+1877	Ponnisteluja herra Powersin vapauttamiseksi on tehty jonkin aikaa.	
+1878	Viimeisimmässä vaiheessa Yhdysvaltain hallitus on saanut apua James B. Donovanilta, newyorkilaisjuristilta.	
+1879	Amerikkalaisopiskelüa Frederic L. Pryor, joka oli Itä-Saksan viranomaisten huostassa elokuusta 1961 asti...	
+1880	Luulin, että isä oli kalastamassa.	
+1881	Lohia.	
+1882	Abel on nyt kadonnut kommunistimaailmaan.	
+1883	Powers on täällä vastaamassa kysymyksiin.	
+1884	Ja Donovan on palannut lakityönsä pariin.	
+1885	Tässä on George Fenneman, puhumassa...	

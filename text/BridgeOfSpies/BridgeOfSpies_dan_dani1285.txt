@@ -1,0 +1,1885 @@
+1	Næste stop, Broad Street.	
+2	Det er Broad Street næste gang.	
+3	Ovenpå.	
+4	[NO TRANSLATION]	missing translation
+5	Er han kommet her forbi?	
+6	[NO TRANSLATION]	missing translation
+7	Han er ikke heroppe.	
+8	[NO TRANSLATION]	missing translation
+9	Undskyld.	
+10	Undskyld.	
+11	Parkér rundt om hjørnet.	
+12	Gæster.	
+13	Må jeg lige tage mine tænder?	
+14	Vær venlig at vende Dem om, hr. oberst.	
+15	Sæt Dem på sengen.	
+16	[NO TRANSLATION]	missing translation
+17	[NO TRANSLATION]	missing translation
+18	Tænderne ligger på vasken.	
+19	Se på mig.	
+20	Vi er agenter fra FBI.	
+21	Se på mig!	
+22	Jeg taler til Dem.	
+23	Vi har fået oplysninger om, at De bedriver spionage.	
+24	De kan enten samarbejde eller blive anholdt.	
+25	Er De med, hr. oberst?	
+26	Nej, ikke rigtigt.	
+27	Hvorfor kalder De mig hr. oberst?	
+28	Se at komme i tøjet.	
+29	Vi skal ransage Deres lejlighed.	
+30	Må jeg have lov til at tørre min palet af?	
+31	Ellers bliver den ødelagt af malingen.	
+32	Den ligger lige bag Dem.	
+33	Jeg har selv en klud.	
+34	Tak.	
+35	Sæt ransagningen i gang.	
+36	Tak.	
+37	Undersøg madrassen, sengen, gulvbrædderne...	
+38	Gider De lægge den i askebægret? Det står henne i vindueskarmen.	
+39	[NO TRANSLATION]	missing translation
+40	Lad os se på skrivebordet.	
+41	Den skulle nødigt blive ødelagt.	
+42	Lad være med at sige min mand.	
+43	Han er ikke min mand.	
+44	Jo, han er Deres mand.	
+45	Hvem taler vi om?	
+46	Vi taler om en mand, der var forsikret hos min klient.	
+47	Det gør ham ikke til min mand.	
+48	Okay, fint nok.	
+49	Jeg mener bare, at manden, der er forsikret hos Deres klient, ikke nægter, at disse ting er sket.	
+50	[NO TRANSLATION]	missing translation
+51	Disse ting?	
+52	Ja, disse fem ting.	
+53	Vent nu lige lidt.	
+54	Det er ikke fem ting.	
+55	Én ting.	
+56	Det er tydeligvis fem ting.	
+57	Det er ikke tydeligt for mig.	
+58	[NO TRANSLATION]	missing translation
+59	Forklar de fem ting for mig.	
+60	Det er da selvindlysende.	
+61	Så fortæl mig, hvad der skete.	
+62	Fortæl mig lige, hvordan det kan blive til fem ting.	
+63	Så gerne.	
+64	Deres mand...	
+65	Han er ikke min mand.	
+66	[NO TRANSLATION]	missing translation
+67	Manden, der er forsikret af Deres klient, kører ud ad landevejen, da han rammer mine fem folk. De fem, der hyrede mig, fordi De ikke efterkommer fordringen.	
+68	Fordi min klient, forsikringsselskabet, ikke efterkommer fordringen?	
+69	Hr. Donovan, vi ved godt, hvem der er hvem.	
+70	Min klient efterkommer enhver fordring.	
+71	Det gør de.	
+72	Enhver berettiget fordring inden for erstatningsansvarets rammer, der er 100.000 dollars per ulykke i denne mands tilfælde.	
+73	Og det er én fordring.	
+74	De påstår, at han ramte Deres fem folk.	
+75	Manden, der er forsikret hos min klient, kom kun ud for én ulykke.	
+76	[NO TRANSLATION]	missing translation
+77	Han mistede herredømmet og ramte fem motorcyklister.	
+78	De betragter det, som om der skete fem ting.	
+79	Hør her, Bob...	
+80	Må jeg kalde dig Bob?	forced duplication
+81	Må jeg kalde dig Bob?	forced duplication
+82	Jim.	
+83	Hvis jeg får en strike i bowling, er det én hændelse,	
+84	ikke ti.	
+85	Mine folk er ikke kegler, omend han behandlede dem som sådan.	
+86	[NO TRANSLATION]	missing translation
+87	Lad mig tale ud.	
+88	Lad mig tale ud.	
+89	Hvis dit hus er forsikret for 100.000, og det bliver taget af en tornado, så tog den ét hus.	
+90	Den tog ikke hvert enkelt møbel og ødelagde dem hver for sig.	
+91	Hvis det er det, du hævder, så er der jo ingen grænser for vores erstatningsansvar, og så kan forsikringsbranchen godt lukke og slukke.	
+92	Og så kan ingen vide sig sikre.	
+93	Watters, Cowan & Donovan.	
+94	Hvem skal De tale med?	
+95	Godmorgen, hr. Donovan.	
+96	[NO TRANSLATION]	missing translation
+97	Jeg har flyttet Deres møde med Prudential klokken ni.	
+98	Hvorfor?	
+99	Jeg bad hende om det.	
+100	Alt i orden, Tom?	
+101	Læg dine ting,	
+102	og kom med ind.	
+103	Der er sket noget vigtigt.	
+104	Vi har fået besøg.	
+105	Natalie laver kaffe til dig.	
+106	Nescafé, fløde, to sukker, ikke?	
+107	Netop.	
+108	Tak.	
+109	Lynn.	
+110	Jim.	
+111	Godt at se dig.	
+112	Alt vel derhjemme?	
+113	[NO TRANSLATION]	missing translation
+114	Jo tak.	
+115	Hvordan har Annie det?	
+116	Klar til at begå mord.	
+117	Hendes forældre er på besøg.	
+118	Hvis hun gør alvor af det, har hun jo en god sagfører.	
+119	Hvad skylder man æren?	
+120	Nu skal du høre.	
+121	Den sovjetiske spion, man har fanget, ønsker vi, du skal forsvare.	
+122	Her er anklageskriftet.	
+123	[NO TRANSLATION]	missing translation
+124	Jeg er ikke sikker på, jeg har lyst til at røre det.	
+125	Den tiltalte kender ingen sagførere,	
+126	så retten smed ham i vores skød.	
+127	Advokatrådet har stemt om det.	
+128	Du blev enstemmigt valgt.	
+129	Det er vigtigt for os	
+130	og vigtigt for nationen, at manden får en fair rettergang.	
+131	Hele vores retssystem kommer under lup.	
+132	Når du formulerer det sådan, er det en ære at blive spurgt.	
+133	[NO TRANSLATION]	missing translation
+134	Men jeg har jo ikke praktiseret kriminalret i årevis.	
+135	Det er ligesom at køre på cykel.	
+136	Du udmærkede dig i Nürnberg.	
+137	Det var som anklager.	
+138	Det er uvedkommende.	
+139	Du er velbevandret i kriminalret.	
+140	Tænk på omstændighederne.	
+141	Manden er hadet som pesten.	
+142	Det bliver jeg også.	
+143	Blandt de småtbegavede.	
+144	Men det er netop derfor, sagen skal føres kompetent.	
+145	Det må ikke synes, at vores retssystem hælder folk ud med badevandet.	
+146	Hvordan ser bevismaterialet ud?	
+147	Overvældende.	
+148	Pragtfuldt.	
+149	Pragtfuldt.	
+150	Alle vil hade mig, men i det mindste taber jeg sagen.	
+151	Hvad siger du, Tom?	
+152	Det vil jo gå ud over mit arbejde i firmaet.	
+153	[NO TRANSLATION]	missing translation
+154	Jeg mener, det er vores borgerpligt.	
+155	Det er en vigtig opgave.	
+156	Firmaet kan ikke sige nej, og det vil du også have svært ved.	
+157	Du bliver nok nødt til at forsvare svinet.	
+158	Så gør De det altså?	
+159	Hvad gør jeg?	
+160	De forsvarer Abel, den sovjetiske spion.	
+161	Måske.	
+162	[NO TRANSLATION]	missing translation
+163	Hvor ved du det fra?	
+164	Har de slået det op på tavlen?	
+165	[NO TRANSLATION]	missing translation
+166	Jeg talte med Richard Earl...	
+167	Hvis jeg tager sagen, får jeg brug for din hjælp.	
+168	Har du tid til at arbejde i aften?	
+169	Jeg har en middagsaftale.	
+170	Vent, er det tirsdag?	
+171	Så skal jeg ikke noget.	
+172	Mange tak.	
+173	Men det er også en ære.	
+174	Og Advokatsamfundet kom til mig, fordi de vil vise, at selv en spion får en kompetent advokat.	
+175	Det er en ære, vi godt kunne undvære.	
+176	Hvad laver du her, skat?	
+177	Jeg blev brændt af.	
+178	Det var dog den stiveste.	
+179	Hvad er han for en kvajpande?	
+180	Det vil jeg helst ikke sige.	
+181	Sæt dig ned og spis.	
+182	[NO TRANSLATION]	missing translation
+183	Folk er bange.	
+184	De bygger beskyttelsesrum på grund af hans slags.	
+185	Når jeg handler ind, ser jeg folk købe dåsemad og kaliumtabletter.	
+186	Alt sammen på grund af den mand.	
+187	Han er til fare for os,	
+188	en forræder.	
+189	Hvem er en forræder?	
+190	Rosenberg-parret var forrædere.	
+191	[NO TRANSLATION]	missing translation
+192	De udleverede atomhemmeligheder til russerne.	
+193	De var amerikanere.	
+194	[NO TRANSLATION]	missing translation
+195	Abel er ikke nogen forræder.	
+196	Han er ikke amerikaner.	
+197	Hør lige dig selv.	
+198	Du forsvarer ham allerede.	
+199	[NO TRANSLATION]	missing translation
+200	Du sagde, du kun overvejede at tage sagen.	
+201	Jeg overvejer det stadig, meget nøje.	
+202	Enhver fortjener et forsvar.	
+203	Ethvert menneske er vigtigt.	
+204	Hvad fortjener vi så?	
+205	Hvad vil folk ikke tænke om os?	
+206	Familien til en mand, der går i forbøn for en forræder.	
+207	Han er ikke forræder.	
+208	[NO TRANSLATION]	missing translation
+209	Roger, du lukker op.	
+210	[NO TRANSLATION]	missing translation
+211	Hvorfor skal jeg lave det hele?	
+212	[NO TRANSLATION]	missing translation
+213	[NO TRANSLATION]	missing translation
+214	[NO TRANSLATION]	missing translation
+215	Han er landets mest upopulære mand, og nu vil du indtage andenpladsen.	
+216	Og jeg er nummer tre.	
+217	Du har bare fundet en sjuft, Carol.	
+218	[NO TRANSLATION]	missing translation
+219	[NO TRANSLATION]	missing translation
+220	Du kan ikke fremstille det, som om du er imod ham, og jeg er for ham.	
+221	[NO TRANSLATION]	missing translation
+222	Jeg er ikke for, at russerne skal udspionere os.	
+223	Jeg er for hans ret til at blive forsvaret i en retssal. Det er derfor, det hedder en retssal.	
+224	Undskyld, jeg forstyrrer midt i maden.	
+225	[NO TRANSLATION]	missing translation
+226	Hej, Doug.	
+227	Det skal du ikke tænke på.	
+228	[NO TRANSLATION]	missing translation
+229	Jim sidder bare og væver.	
+230	Jeg væver overhovedet ikke.	
+231	Sid ned og spis med.	
+232	Vi får forloren hare.	
+233	Kommer du for at hjælpe Jim med at overveje at tage sagen?	
+234	Vi tager den skam.	
+235	Er det ikke spændende?	
+236	Herre, vi takker dig for gaverne, vi nu skal modtage.	
+237	Ved Kristus, vor Herre.	
+238	Amen.	
+239	Godmorgen.	
+240	Mit navn er Jim Donovan.	
+241	Her er min legitimation.	
+242	Jeg er partner hos Watters, Cowan & Donovan.	
+243	Jeg opnåede min bestalling i 1941.	
+244	De er tiltalt for tre forhold og 19 åbenlyse handlinger.	
+245	Intention om at udlevere amerikanske atomhemmeligheder til Sovjetunionen, indsamling af hemmeligheder og undladelse af at give Dem til kende som udenlandsk agent.	
+246	Er der mange udenlandske agenter, der giver sig til kende?	
+247	Tillad mig at spørge: Efter De blev anholdt, hvor har De da været?	
+248	Det kan jeg ikke sige med sikkerhed.	
+249	Ved De det ikke?	
+250	Jeg blev kørt i lufthavnen, sat på et fly og lukket ud igen.	
+251	Et sted, hvor der var varmt.	
+252	Der er varmt her.	
+253	Varmt og meget fugtigt.	
+254	Jeg blev anbragt i et lokale.	
+255	Slog man Dem?	
+256	Nej.	
+257	Man talte til mig.	
+258	Gav mig tilbud.	
+259	Hvad mener De?	
+260	Man tilbød mig arbejde i Deres myndigheders tjeneste.	
+261	Jeg fik at vide, at hvis jeg samarbejdede, ville man undlade at rejse yderligere sigtelser mod mig	
+262	og give mig penge.	
+263	[NO TRANSLATION]	missing translation
+264	Og De afslog?	
+265	Som De ser.	
+266	Det kan jeg ikke tilslutte mig.	
+267	Jeg må indstændigt råde Dem til at samarbejde med myndighederne.	
+268	Jeg sagde nej.	
+269	Vær venlig at fortælle Deres venner hos CIA, at jeg mente det.	
+270	Nej, nej, nej...	
+271	[NO TRANSLATION]	missing translation
+272	Jeg arbejder ikke for direktoratet.	
+273	Jeg arbejder ikke for myndighederne.	
+274	Jeg er her for at tilbyde mig som Deres sagfører.	
+275	Hvis De godtager det... arbejder jeg for Dem.	
+276	Hvis jeg godtager Dem?	
+277	Er De god til Deres arbejde?	
+278	[NO TRANSLATION]	missing translation
+279	Ja, jeg er rimeligt god.	
+280	Har De forsvaret mange formodede spioner?	
+281	Nej, ikke endnu.	
+282	Det her er nyt for os begge.	
+283	[NO TRANSLATION]	missing translation
+284	Udmærket.	
+285	[NO TRANSLATION]	missing translation
+286	De godtager mig altså?	
+287	Ja, udmærket.	
+288	Storartet.	
+289	[NO TRANSLATION]	missing translation
+290	Hvis De er fast besluttet på ikke at samarbejde med myndighederne...	
+291	Det er jeg.	
+292	[NO TRANSLATION]	missing translation
+293	Så skal De undlade at tale med nogen som helst andre om sagen.	
+294	Tal kun med mig i det omfang, De stoler på mig.	
+295	Jeg er beskikket til at tjene Dem.	
+296	[NO TRANSLATION]	missing translation
+297	Alle andre er kun ude på at sende Dem i den elektriske stol.	
+298	Udmærket.	
+299	De virker ikke bekymret.	
+300	Ville det nytte?	
+301	[NO TRANSLATION]	missing translation
+302	Jeg vil gerne have noget at tegne med.	
+303	Det kan ikke lade sig gøre.	
+304	En blyant, et stykke papir	
+305	og cigaretter.	
+306	Må jeg få det?	
+307	Hr. Donovan, der findes mænd som mig, der gør det samme for Deres land.	
+308	Hvis de blev fanget, er jeg sikker på, De ville ønske, at man behandlede dem ordentligt.	
+309	Hvad er Deres navn?	
+310	Francis Gary Powers.	
+311	Rang og værn?	
+312	Premierløjtnant, USA's luftvåben.	
+313	Har De noget tilhørsforhold til Sovjetunionen?	
+314	Tager De gas på mig?	
+315	Vær venlig at svare.	
+316	Ja, nej eller ganske kort.	
+317	Har De noget tilhørsforhold til Sovjetunionen?	
+318	Fandeme nej.	
+319	Ved De, hvorfor De er her?	
+320	[NO TRANSLATION]	missing translation
+321	Betyder det nej?	
+322	Ja.	
+323	Jeg mener...	
+324	Nej, det betyder nej.	
+325	Jeg aner ikke, hvorfor jeg er her.	
+326	Se lige ud, hr. løjtnant.	
+327	Javel.	
+328	Hvordan gik det, Gary?	
+329	Rimelig godt.	
+330	Jeg svarede mit navn rigtigt.	
+331	Så klarede du dig sikkert bedre end Shinn.	
+332	Hvem vinder?	
+333	Det gør jeg.	
+334	[NO TRANSLATION]	missing translation
+335	Jeg er med.	
+336	Alt det her må så være mit.	
+337	Jeg advarede jer mod at spille med ham.	
+338	Hør så her, flyvere.	
+339	I er blevet udvalgt til en mission, som I ikke må drøfte med nogen som helst uden for dette lokale.	
+340	[NO TRANSLATION]	missing translation
+341	Uanset hvem I stoler på.	
+342	Jeres kone, mor, kæreste 	
+343	eller selveste Vorherre.	
+344	De må ikke høre et ord af det, jeg nu vil fortælle jer.	
+345	Alle I flyvere opfylder visse krav.	
+346	Høj sikkerhedsgodkendelse,	
+347	fremragende pilotklassificering og mange flyvetimer i et énpersons luftfartøj.	
+348	Vi ligger i krig.	
+349	Denne krig føres for nuværende ikke med kamptropper,	
+350	men med oplysninger.	
+351	I vil skulle indsamle oplysninger.	
+352	I vil skulle indsamle efterretninger om fjenden.	
+353	Efterretninger, der vil kunne give os sejren i en termonuklear ildkamp med Sovjetunionen.	
+354	Eller forhindre en.	
+355	For så vidt angår omverdenen, jeres kone, mor, kæreste og Vorherre i sin himmel, eksisterer jeres mission ikke,	
+356	og derfor eksisterer I heller ikke.	
+357	I må ikke blive skudt ned,	
+358	og I må ikke blive fanget.	
+359	I arbejder for CIA nu.	
+360	Jim, jeg hører, at din mand taler med falsk accent.	
+361	Gør han det konsekvent?	
+362	Det er vist bare sådan, han taler.	
+363	Han har et russisk navn, men britisk pas.	
+364	Jeg tvivler på, det er ægte.	
+365	Nå, Jim, hvor langt er vi så?	
+366	Jo, forstår De...	
+367	Jeg tror altså ikke, at tre uger er nok i denne sag.	
+368	[NO TRANSLATION]	missing translation
+369	Vi har en masse bevismateriale.	
+370	Vil du have sagen udskudt?	
+371	I seks uger.	
+372	Vi er kun mig og min medhjælper.	
+373	Er det dit alvor?	
+374	Hvabehar?	
+375	Er det dit alvor?	
+376	[NO TRANSLATION]	missing translation
+377	Ja, det er det.	
+378	Som der står i begæringen...	
+379	Manden er jo sovjetisk spion.	
+380	Angiveligt.	
+381	Hold nu op, hr. sagfører.	
+382	Høje dommer.	
+383	[NO TRANSLATION]	missing translation
+384	Hatten af for, at du påtager dig en utaknemmelig opgave.	
+385	Han skal jo have en behørig rettergang,	
+386	men lad os nu være ærlige.	
+387	Han får et anstændigt forsvar...	
+388	og om Gud vil det, bliver han dømt.	
+389	Hold nu op, hr. sagfører.	
+390	Der skal ikke leges julelege i min retssal.	forced duplication
+391	Der skal ikke leges julelege i min retssal.	forced duplication
+392	Vi har en dato, og der bliver retten sat.	
+393	Taxi!	
+394	Taxi!	
+395	Din lampe er jo tændt!	
+396	Dit møgdyr.	
+397	Han har vist travlt med at komme tilbage til Manhattan.	
+398	Var hans lampe ikke tændt?	
+399	Det møgdyr.	
+400	Det er dem meget imod.	
+401	Vedtægten er uændret.	
+402	Det må De undskylde.	
+403	Om forladelse.	
+404	[NO TRANSLATION]	missing translation
+405	[NO TRANSLATION]	missing translation
+406	Hr. Donovan.	
+407	Hvad?	
+408	Hvad?	
+409	CIA.	
+410	Ja.	
+411	Jeg ville bare sludre lidt.	
+412	Hvordan skrider sagen frem?	
+413	Fint.	
+414	Over al forventning.	
+415	[NO TRANSLATION]	missing translation
+416	Har manden kvidret?	
+417	Hvabehar?	
+418	[NO TRANSLATION]	missing translation
+419	Har han kvidret?	
+420	Har han fortalt Dem noget endnu?	
+421	Vi drøfter ikke det her.	
+422	Nej, naturligvis ikke.	
+423	Vi skal slet ikke drøfte det.	
+424	De beder mig om at bryde min tavshedspligt.	
+425	Hold nu op, hr. sagfører.	
+426	Det må I godt snart lade være med at sige.	
+427	Jeg brød mig ikke om det, da dommeren sagde det.	forced duplication
+428	Jeg brød mig ikke om det, da dommeren sagde det.	forced duplication
+429	Jo mere jeg hører det, jo mindre bryder jeg mig om det.	
+430	Jeg forstår godt det med tavshedspligten	
+431	og alle jeres juridiske fiksfakserier.	
+432	Og jeg forstår godt, det er det, De lever af.	
+433	Men jeg taler om noget andet.	
+434	Deres lands sikkerhed.	
+435	Jeg beklager, hvis jeg har fornærmet Dem,	
+436	men vi har brug for at vide, hvad Abel fortæller Dem.	
+437	Er De med, Donovan?	
+438	Vi har brug for at vide det.	
+439	Lad være med at spille spejderdreng.	
+440	Der gælder ikke noget regelsæt her.	
+441	De hedder Hoffman, ikke?	
+442	Jo.	
+443	Tyske aner.	
+444	Og hvad så?	
+445	Jeg hedder Donovan.	
+446	Irer på både min mors og fars side.	forced duplication
+447	Irer på både min mors og fars side.	forced duplication
+448	Jeg er irer, De er tysker.	
+449	Men hvad gør os begge til amerikanere?	
+450	Én enkelt ting.	
+451	Én eneste.	
+452	Regelsættet.	
+453	Vi kalder det Forfatningen, og vi adlyder de regler.	
+454	Det er det, der gør os til amerikanere. Så du skal ikke påstå, der ikke gælder noget regelsæt. Og du skal ikke nikke ad mig, din skiderik.	
+455	Har vi grund til at være bekymrede for Dem?	
+456	Ikke hvis jeg får lov til at udføre mit arbejde.	
+457	Fremover må I ikke omtale U-2 som et spionfly eller et rekognosceringsfartøj.	
+458	I skal omtale det som genstanden.	
+459	Genstanden har et vingefang på 25 meter	
+460	og drives af en enkelt Pratt & Whitney J57/P37-motor.	
+461	4,5 tons motortryk og en tophastighed på 700 kilometer i timen.	
+462	Det lyder ikke af meget, men i 20.000 meters højde kommer intet i nærheden af jer.	
+463	20.000?	
+464	Fjenden opdager aldrig, I er der.	
+465	Den ser skrøbelig ud.	
+466	Hvert eneste ekstra kilo koster en halv meters flyvehøjde, og vi skal have plads til kameraerne.	
+467	Det er tre styk 4.500 mm-linser.	
+468	Et knivskarpt panoramakamera, der er fire gange kraftigere end noget kamera, vi før har brugt.	
+469	I skal tage billeder.	
+470	Masser af billeder. I 20.000 meters højde kan genstanden affotografere 5.000 kvadratkilometer på én overflyvning.	
+471	Nu bedes I give agent Sumner jeres fulde opmærksomhed.	
+472	Jeres udstyr til missionen ligger herovre.	
+473	Revere 8 Model 40 Magazine-kamera. Sølvfarvet Keystone Capri K25.	
+474	Barberkost med hult skaft.	
+475	Et sæt chiffernøgler på spiselig sølvfolie.	
+476	Avanceret fotografiudstyr.	
+477	[NO TRANSLATION]	missing translation
+478	Jeg tror, vi er med.	
+479	Tak.	
+480	Undskyld, agent Bosco...	
+481	Blasco.	
+482	Ja?	
+483	Der er et underafsnit på listen her.	
+484	Det meste er fra hans atelier, men resten er fra hotelværelset, hvor han skjulte sig.	
+485	Hvor vi fandt ham.	
+486	Hotelværelset, De ransagede?	
+487	Ja.	
+488	Må jeg se kendelsen?	
+489	Hvad for en?	
+490	[NO TRANSLATION]	missing translation
+491	Jamen der forelå jo en kendelse.	
+492	Jamen der forelå jo en kendelse.	
+493	Der forelå en arrestordre gældende en udlænding, men ingen ransagningskendelse grundet mistanke om kriminel aktivitet.	
+494	Derfor er det frembragte bevismateriale ulovligt og uegnet til påkendelse.	
+495	Hvilken beskyttelse har manden krav på?	
+496	[NO TRANSLATION]	missing translation
+497	Hvad er denne Rudolf Ivanovich Abel?	forced duplication
+498	Hvad er denne Rudolf Ivanovich Abel?	forced duplication
+499	Han er sovjetborger,	
+500	ikke amerikaner.	
+501	1886, Yick Wo mod Hopkins.	
+502	Retten fastslog, at selv udenlandske statsborgere ikke kan dømmes for en forbrydelse uden rettergang. Det gælder også dem, der er her ulovligt.	
+503	Justitsministeriet skal først og fremmest tjene De Forenede Stater.	
+504	En udlænding, der er her ulovligt, kan dårligt føle sig krænket på sine rettigheder.	
+505	Rettigheder som hvad?	
+506	Som amerikaner?	
+507	Rettigheder som hvad, hr. sagfører?	
+508	Vi ligger i krig.	
+509	Denne russiske spion er kommet for at true vores levevis.	
+510	Folk i retssalen venter.	
+511	Sæt Dem ud ved siden af russeren.	
+512	Lad os få det her overstået.	
+513	Deres begæring er afvist.	
+514	Han burde tegne en livsforsikring.	
+515	Hvordan gik det?	
+516	Derinde?	
+517	[NO TRANSLATION]	missing translation
+518	Ikke for godt.	
+519	De er åbenbart ikke amerikansk statsborger.	
+520	Sandt nok.	
+521	Og ifølge Deres chef er De heller ikke sovjetborger.	
+522	Chefen har ikke altid ret. Men han er altid chefen.	
+523	Bliver De aldrig bekymret?	
+524	Ville det nytte?	
+525	Alle bedes rejse sig.	
+526	Jeg sværger troskab mod Amerikas Forenede Staters flag og mod republikken, det står for. Én nation under Gud, udelelig, med frihed og retfærdighed for alle.	
+527	Først skal I lære, hvad der sker, når en atombombe eksploderer.	
+528	Den udsender et lysglimt skarpere end solen.	
+529	Den kan smadre bygninger og knuse ruder over hele byen.	
+530	Men hvis I går i dækning ligesom Bert, er I langt bedre beskyttet.	
+531	Der findes to slags angreb: med varsel og uden varsel.	
+532	[NO TRANSLATION]	missing translation
+533	Hvad foregår der?	
+534	Det er meget vigtigt, far.	
+535	Når krigen begynder, vil de allerførst kappe alt vores vand og elektricitet.	
+536	Derfor må vi sørge for at holde det her fyldt. Vi må tage brusebad, bruge køkkenvasken og haveslangen...	
+537	Det er nogle gode ideer.	
+538	Men det er næppe noget, du behøver at bekymre dig om.	
+539	Men når sirenen lyder, kan vi måske ikke nå at fylde badekarret og vaskene.	
+540	Der bliver ingen sirener.	
+541	Hvad er det der?	
+542	Når bomben falder, vil de røde sigte efter Empire State Building.	
+543	Men bomben springer i 3.000 meters højde.	
+544	Life kalder det en luftdetonation, og hvis bomben er på 50 megaton, går trykbølgen ud, ud, ud og smelter alting herfra og dertil.	
+545	Det gælder også her, hvor vi bor.	
+546	[NO TRANSLATION]	missing translation
+547	Ja, det er dér.	
+548	Men, Roger, der er ingen, der smider atombomber over os.	
+549	Russerne vil gerne.	
+550	Ham russeren, du forsvarer,	
+551	han er fortrop for dem, der skal kaste bomberne.	
+552	Nej, det er han ikke.	
+553	[NO TRANSLATION]	missing translation
+554	Han er ikke engang russer.	
+555	Vi mener, han er født i England.	
+556	Men han spionerer for Rusland.	
+557	Jeg forstår det ikke.	
+558	Du er jo ikke kommunist. Hvorfor forsvarer du så en?	
+559	Fordi det er mit job.	
+560	Det har det ikke altid været.	
+561	Sagen Amerikas Forenede Stater mod Rudolf Abel. For så vidt angår anklageskriftets første forhold, hvorledes findes tiltalte?	
+562	Skyldig eller ikke skyldig?	
+563	Skyldig.	
+564	For så vidt angår det andet forhold?	
+565	Skyldig.	
+566	For så vidt angår det tredje forhold?	
+567	Skyldig.	
+568	Jeg begærer kendelserne omstødt i lyset af bevismaterialet.	
+569	Afvist.	
+570	Nævningene kan gå.	
+571	Tak for indsatsen.	
+572	Havde jeg været i Deres sko, ville jeg have truffet samme kendelse.	
+573	Domsafsigelse vil finde sted... 15. november.	
+574	Det ender ikke nødvendigvis med en dødsdom,	
+575	bare rolig.	
+576	Jeg er ikke bange for at dø, hr. Donovan.	
+577	Omend... jeg helst vil være fri for det.	
+578	De glemte den her.	
+579	Tak.	
+580	Tusind tak.	
+581	De har aldrig spurgt mig, om anklagerne var berettigede.	
+582	Om jeg rent faktisk er spion.	
+583	Det er sådan, det fungerer.	
+584	Sagen mod Dem er vigtig.	
+585	At få dem til at fremlægge beviser er vigtigt.	
+586	Fiktionen er...	
+587	Om De er skyldig, er ikke så vigtigt.	
+588	Det er myndighederne, der har bevisbyrden.	
+589	De er slet ikke nysgerrig?	
+590	Nej, egentlig ikke.	
+591	Jeg formodede, at De var kunstner.	
+592	Min hustru er kunstner.	
+593	Hun er musiker i Moskvas børneorkester.	
+594	Hvilket instrument?	
+595	Harpe.	
+596	[NO TRANSLATION]	missing translation
+597	Så må hun være en engel.	
+598	Som De står der, minder De mig om en mand, der kom i vores hjem, da jeg var dreng.	
+599	Min far sagde: Kig godt på ham.	
+600	Så det gjorde jeg, hver gang han kom.	
+601	Og ikke en eneste gang gjorde han noget bemærkelsesværdigt.	
+602	Og ham minder jeg om?	
+603	Engang, da jeg var på Deres søns alder,	
+604	blev vores hus raseret af partisangrænsevagter.	
+605	I hobetal.	
+606	Min far fik tæsk, min mor fik tæsk, og min fars ven fik tæsk.	
+607	Og jeg kiggede på ham.	
+608	Hver gang de slog ham... rejste han sig igen.	
+609	Så slog de hårdere.	
+610	Men han rejste sig alligevel.	
+611	Jeg tror, det var derfor, de holdt op med at slå	
+612	og lod ham leve.	
+613	Det kan jeg huske, de sagde.	
+614	Det betyder noget i retning af... standhaftig mand.	
+615	Standhaftig mand.	
+616	Goddag, Jim.	
+617	Du er henrivende, Millie.	
+618	Mortie er ved at trække i stadstøjet,	
+619	men kom indenfor.	
+620	En whisky?	
+621	Ja tak.	
+622	[NO TRANSLATION]	missing translation
+623	Med et skvæt vand.	
+624	Høje dommer.	
+625	Hej, Jim.	
+626	Jeg er på vej ud ad døren,	
+627	men jeg har lige et par minutter.	
+628	En velgørenhedsmiddag.	
+629	Millies store passion.	
+630	Tak, fordi jeg måtte komme.	
+631	Jeg ville bare give mit besyv med angående domsafsigelsen.	
+632	Og jeg tænkte, jeg hellere måtte gøre det privat, da mine argumenter ikke hidrører det rent juridiske.	
+633	Sådan er sagen jo.	
+634	Jeg håber ikke, jeg var for skrap, men du har ganske ret.	
+635	Sagen hidrører slet ikke det rent juridiske.	
+636	Der er større sager i spil.	
+637	Større sager.	
+638	Mange tak.	
+639	[NO TRANSLATION]	missing translation
+640	[NO TRANSLATION]	missing translation
+641	Jeg mener, det vil være i USA's bedste interesse, at Abel får lov at leve.	
+642	Hvorfor?	
+643	Jeg siger ikke, jeg har besluttet mig, men hvis han var indstillet på at samarbejde, havde han gjort det.	
+644	Jo, men sagens kerne...	
+645	[NO TRANSLATION]	missing translation
+646	Må jeg lige have lov?	
+647	Det kan umuligt være i USA's interesse, at han skal tilbringe resten af sine dage i en celle.	
+648	Hvordan tjener det nationens interesser?	
+649	Ikke frihedsberøvelsen i sig selv.	
+650	Det er muligt, inden for en overskuelig fremtid, at en amerikaner af tilsvarende rang kan blive fanget af Sovjetunionen.	
+651	Så kunne det være rart at have en at handle med.	
+652	[NO TRANSLATION]	missing translation
+653	Det lyder som ren spekulation.	
+654	Den slags får jo aldrig en ende.	
+655	Spekulation er min metier.	
+656	Jeg arbejder med forsikring.	
+657	Og situationen er ikke utænkelig.	
+658	Det kunne meget vel komme til at ske.	
+659	Det er den slags hændelser, folk forsikrer sig imod.	
+660	Hvis vi dømmer manden til døden, blotter vi os fuldstændigt.	
+661	Så har vi ingen nødløsning, den dag stormen rammer.	
+662	Nydelig tale.	
+663	Og så er der jo også det humanitære argument.	
+664	Skal han dø for at have udført det arbejde, de satte ham til?	
+665	Nuvel, hr. sagfører.	
+666	Jeg må ile.	
+667	Godt at se dig, Jim.	
+668	Nu skal jeg følge dig ud.	
+669	Alle bedes rejse sig.	
+670	Distriktsretten i New Yorks Østlige Retskreds er hermed sat.	
+671	Dommer Mortimer Byers er retsformand.	
+672	Vær venlige at sætte Dem.	
+673	Tiltalte bedes rejse sig.	
+674	Det er rettens vurdering, at følgende straffedom udmålt efter nævningenes fældende kendelse i anklageskriftets forhold efterlever det retslige grundlag.	
+675	I henhold til den i alle forhold fældende kendelse... gives den tiltalte i rigsadvokatens varetægt... med henblik på forvaring i et af denne udpeget fængsel i en periode på 30 år.	
+676	Retsbetjentene bedes tage tiltalte i forvaring.	
+677	[NO TRANSLATION]	missing translation
+678	Ingen henrettelse?	
+679	Nej.	
+680	[NO TRANSLATION]	missing translation
+681	Hvorfor skal han ikke hænges?	
+682	Hvorfor skal han ikke hænges?!	
+683	Sæt Dem ned!	
+684	Han er spion!	
+685	Han dræber os med sine løgne!	
+686	Hvorfor skal han ikke hænges?	
+687	Nemlig!	
+688	Han er spion!	
+689	Hr. Donovan!	
+690	Hr. Donovan!	
+691	Lige et enkelt spørgsmål.	
+692	Ét enkelt spørgsmål!	
+693	Min hat,	
+694	min hat,	
+695	min hat!	
+696	Ingen kommentarer.	
+697	Hr. og fru Donovan besvarer ikke spørgsmål.	
+698	[NO TRANSLATION]	missing translation
+699	Er De tilfreds med dommen?	
+700	[NO TRANSLATION]	missing translation
+701	Vi har et solidt grundlag for at føre en ankesag.	
+702	En ankesag?	
+703	Ja.	
+704	Du klarede opgaven flot, Jim.	
+705	Til ug med kryds og slange.	
+706	Men manden er spion.	
+707	Der er ingen grund til at anke dommen.	
+708	Der er proceduremæssig hjemmel.	
+709	Ransagningen var ulovlig,	
+710	og retskrænkelser vejer altid tungere ved en appelinstans.	
+711	[NO TRANSLATION]	missing translation
+712	Hvad fanden snakker du om?	
+713	Vi skulle bare sørge for, at han fik et behørigt forsvar.	
+714	Hvorfor foreholder du mig pludselig Forfatningen?	
+715	Tom, kan du se mig i øjnene og sige, at vi ikke har grundlag for en ankesag?	
+716	[NO TRANSLATION]	missing translation
+717	Du ved udmærket godt, hvad jeg mener.	
+718	Tom mener, at den slags har konsekvenser.	
+719	[NO TRANSLATION]	missing translation
+720	Konsekvenser for både din familie og dit firma.	
+721	Jeg har savnet musik.	
+722	Vagterne har efterset transistoren for radiosendere.	
+723	Det tror jeg gerne.	
+724	Sjostakovitj.	
+725	[NO TRANSLATION]	missing translation
+726	Han er en stor kunstner, Sjostakovitj.	
+727	Jeg tror... at vores stærkeste grundlag for at få dommen omstødt... er forfatningsmæssigt.	
+728	Vores bedste chance er, hvis Højesteret tager sagen op.	
+729	Jim...	
+730	De skal tage Dem i agt.	
+731	Tag Dem i agt.	
+732	[NO TRANSLATION]	missing translation
+733	[NO TRANSLATION]	missing translation
+734	[NO TRANSLATION]	missing translation
+735	[NO TRANSLATION]	missing translation
+736	[NO TRANSLATION]	missing translation
+737	[NO TRANSLATION]	missing translation
+738	[NO TRANSLATION]	missing translation
+739	[NO TRANSLATION]	missing translation
+740	Mor!	
+741	Hvad i alverden skete der?	
+742	Er du uskadt?	
+743	[NO TRANSLATION]	missing translation
+744	Er du kommet noget til?	
+745	[NO TRANSLATION]	missing translation
+746	Ovenpå!	
+747	Er I uskadt?	
+748	Jeg satte mig op ad væggen, væk fra vinduerne.	
+749	Er du uskadt?	
+750	[NO TRANSLATION]	missing translation
+751	[NO TRANSLATION]	missing translation
+752	Godt, godt, godt.	
+753	[NO TRANSLATION]	missing translation
+754	[NO TRANSLATION]	missing translation
+755	Du er en dygtig dreng.	
+756	Tag det helt roligt.	
+757	[NO TRANSLATION]	missing translation
+758	De er væk nu.	
+759	De er nogle kujoner.	
+760	[NO TRANSLATION]	missing translation
+761	Vi finkæmmer kvarteret.	
+762	Måske kan nogen beskrive bilen, men det er næppe sandsynligt.	
+763	Vi har brug for beskyttelse.	
+764	Jeg efterlader to vogne her,	
+765	så det er tydeligt for enhver...	
+766	Hvor længe?	
+767	Jeg skal til Washington senere på ugen.	
+768	[NO TRANSLATION]	missing translation
+769	Hvad er det, De udsætter Deres familie for?	
+770	Hvabehar?	
+771	Hvorfor forsvarer De den stud?	
+772	[NO TRANSLATION]	missing translation
+773	Så er det godt, hr. betjent.	
+774	Overhovedet ikke.	
+775	Jeg var med i tredje bølge ved Omaha Beach.	
+776	[NO TRANSLATION]	missing translation
+777	Jeg bekæmpede dem, De forsvarer.	
+778	Hvad med bare at passe Deres job som politimand?	
+779	Det må De undskylde.	
+780	Så går vi udenfor.	
+781	[NO TRANSLATION]	missing translation
+782	[NO TRANSLATION]	missing translation
+783	[NO TRANSLATION]	missing translation
+784	Hvad er det, jeg ikke forstår?	
+785	Udenfor!	
+786	Om forladelse.	
+787	Tænk at forsvare et kommunistsvin.	
+788	[NO TRANSLATION]	missing translation
+789	Føler De, De får som fortjent?	
+790	Skulle det blive nødvendigt at forlade fartøjet i sovjetisk luftrum, er skroget udstyret med en 1.100 gram tung sprængladning.	
+791	Først aktiverer I strømkredsen.	
+792	Men for at starte de 70 sekunders nedtælling skal I trykke på Destruct-knappen.	
+793	Det er altafgørende, at disse togter forbliver hemmelige, og at udstyret ikke falder i fjendens hænder.	
+794	Hvad med os?	
+795	Jeg ved ikke, om De spøger, løjtnant Powers.	
+796	Det gør jeg ikke.	
+797	Hvad I ved om flyet, er lige så hemmeligt som flyet selv.	
+798	Er tilfangetagelse uundgåeligt, må I styrte ned med jeres fly.	
+799	Hvis I mener, I kan skyde jer ud og slippe over en grænse, så værsgo.	
+800	I kender katapultreglementet.	
+801	Men hvis I skyder jer ud... så tager I dollaren med.	
+802	Der er en nål gemt i den.	
+803	Prik hul på huden, og den virker øjeblikkeligt.	
+804	Hvis I tror, I er i fare for at blive taget til fange, så bruger I den.	
+805	Er det forstået, flyvere?	
+806	Brug dollaren.	
+807	Hr. højesteretsdommer, høje ret.	
+808	Den kolde krig er ikke blot et udtryk, høje dommer.	
+809	Det er ikke blot en talemåde.	
+810	Der udkæmpes et reelt slag mellem to modsatrettede verdensanskuelser.	
+811	Jeg anfører, at Rudolf Ivanovich Abel, oberst Abel, som han blev kaldt selv af dem, der anholdt ham, er vores fjende i det slag.	
+812	Reservestrøm?	
+813	Tilsluttet og slået til.	
+814	Iltforsyning?	
+815	Iltforsyning 1.800 PSI.	
+816	Vekselretter?	
+817	Aktiveret, lys slukket.	
+818	Han blev behandlet som kombattant i den krig, indtil det ikke længere passede ind i myndighedernes kram.	
+819	Følgelig fik han ikke den beskyttelse, vi yder vore egne statsborgere.	
+820	Han fik en behandling, der nok var passende for en formodet fjende, men ikke for en formodet kriminel.	
+821	Brændstofoverførsel?	
+822	Slået fra.	
+823	Destructor?	
+824	Sikret.	
+825	Datakort?	
+826	Installeret i fartøjet.	
+827	Jeg kender denne mand.	
+828	Hvis tiltalen holder stik, så tjener han for en fremmed magt, men gør det trofast.	
+829	Hvis han er soldat i fjendens hær, er han en god soldat.	
+830	Han flygtede ikke fra slagmarken for at redde sit eget skind.	
+831	Han nægter at adlyde dem, der holder ham fanget.	
+832	Han nægter at forråde sin sag.	
+833	Han nægter at følge krysterens vej.	
+834	Krysteren må opgive sin værdighed, før han opgiver kampen.	
+835	Det vil Rudolf Abel aldrig gøre.	
+836	Bør vi da ikke ved at yde ham de rettigheder, der definerer vores styreform, vise ham, hvem vi er?	
+837	Hvem vi er.	
+838	Er det ikke det mægtigste våben, vi har i denne kolde krig?	
+839	Skulle vi værne mindre standhaftigt om vores sag, end han værner om sin?	
+840	Præsidenten har meddelt, at et af NASAs vejrfly forsvandt for fire dage siden nord for Tyrkiet.	
+841	Rumfartsagenturet frygter, at piloten er omkommet ved styrtet.	
+842	Radaren viste, at flyet kom ud af kurs og havnede i sovjetisk luftrum, inden man mistede kontakten. Det gør det vanskeligt at bjærge henholdsvis flyet og pilotens lig.	
+843	Og nu til nyt fra Washington.	
+844	Efter en tæt afstemning stadfæstede Højesteret dommen over den russiske spion Rudolf Ivanovich Abel med fem stemmer for, fire imod.	
+845	Sagen angik borgerfriheder, hævder russerens forsvarer, James B. Donovan.	
+846	Til spørgsmålet om, hvad han følte oven på nederlaget, svarede hr. Donovan blot: Udmattelse.	
+847	Der er flere nyheder på vej efter dette indslag.	
+848	[NO TRANSLATION]	missing translation
+849	Det er overstået.	
+850	[NO TRANSLATION]	missing translation
+851	Marty...	
+852	Jeg kan sgu ikke finde Prudential-sagen.	
+853	Hr. Watters bad mig lægge den ind til Jack Elwes sammen med klageudkastet.	
+854	Gjorde han det?	
+855	Ja, han indgav klageskrivelsen, mens De var i Washington.	
+856	[NO TRANSLATION]	missing translation
+857	Du opfører dig, som om jeg aldrig har fået en aftale i hus.	
+858	Aftal et møde.	
+859	Et dyrt sted.	
+860	Hr. Young vil utvivlsomt påskønne nogle af byens mere udsøgte tilbud.	
+861	[NO TRANSLATION]	missing translation
+862	Kender De nogen i Liepzig?	
+863	Leipzig.	
+864	Får jeg nu også hadepost fra Tyskland?	
+865	Fra Østtyskland.	
+866	Er det fra Deres hustru?	
+867	Nej.	
+868	Nej, nej, nej.	
+869	Det udgiver hun sig for at være, men det er ikke overbevisende.	
+870	Jeg tillader mig at skrive til Dem efter at have læst i aviserne om den medmenneskelighed, De har vist min elskede mand, Rudolf Abel.	
+871	Skal jeg skrive tilbage?	
+872	Ja, ja, ja.	
+873	Hvad er næste træk, når man ikke ved, hvad spillet går ud på?	
+874	Francis Gary Powers.	
+875	I henhold til paragraf 2 i den sovjetiske lov om strafansvar for statsforbrydelser idømmes De ti års forvaring, hvoraf de første tre skal afsones i fængsel.	
+876	Afsoning af dommen, herunder varetægtsfængsling, tælles fra 1. maj 1960.	
+877	Hr. Donovan, det er venligt af Dem at komme.	
+878	En fornøjelse at møde Dem, hr. Dulles.	
+879	Det er mig en ære.	
+880	Nescafé, fløde, to sukker.	
+881	Tak.	
+882	Nå, dette brev.	
+883	Det er tydeligvis en åbning fra russernes side.	
+884	De går gennem Østtyskland for ikke at anerkende Abel som sovjetborger endsige som sovjetisk spion.	
+885	[NO TRANSLATION]	missing translation
+886	Der foregår meget spilfægteri.	
+887	Ja, men med hvilket formål?	
+888	De har vores spionpilot,	
+889	vi har deres mand.	
+890	Jeg tror, de er interesserede i en fangeudveksling.	
+891	Det kan næppe komme bag på Dem.	
+892	Jeg hører, at De forudså situationen.	
+893	Det gjorde jeg, og jeg har ellers sjældent ret.	
+894	Tillykke.	
+895	Så er det jo en mærkedag.	
+896	Vores mand er strandet derovre.	
+897	Powers.	
+898	God soldat, men med hovedet fuldt af fortrolige oplysninger.	
+899	Abel har også hovedet fuldt af fortrolige oplysninger, men han har intet afsløret.	
+900	Det kommer han heller ikke til.	
+901	Nej, men det ved russerne ikke.	
+902	De vil have ham tilbage, inden han knækker.	
+903	Og vi vil have Powers tilbage af samme grund.	
+904	Jeg tror, det, De siger, er, at alle kan få en lykkelig slutning.	
+905	Hvis vi går med på spilfægteriet.	
+906	Vi ønsker, at De skal forhandle udvekslingen, så myndighederne ikke bliver indblandet.	
+907	De anerkender ikke Abel som sovjetborger, og vi anerkender ikke Østtyskland som en suveræn nation.	
+908	Vi har ikke anerkendt Østberlin, siden den blev annekteret af Sovjet i 45.	
+909	Jeg skal altså være forhandler på vegne af...	
+910	Ikke på vegne af nogen.	
+911	[NO TRANSLATION]	missing translation
+912	De har ingen officiel status.	
+913	Altså spilfægteri fra vores side?	
+914	Korrekt.	
+915	Derfor kan De selvsagt ikke regne med at få hjælp, hvis noget går galt.	
+916	CIA må ikke blive holdt ansvarlige.	
+917	Vi tåler ikke den forlegenhed.	
+918	Hvor skal forhandlingen foregå?	
+919	Dér.	
+920	Dér?	
+921	Østberlin.	
+922	Er Østberlin ikke blevet...	
+923	Jo, det er et problematisk sted.	
+924	Ja, problematisk.	
+925	Russerne har etableret kontrolposter de seneste måneder i et forgæves forsøg på at standse flygtningestrømmen til Vestens sektorer.	
+926	Vores efterretninger peger på, at de vil gå skridtet videre og indhegne hele den østlige sektor.	
+927	Det er sagen i en nøddeskal.	
+928	Beslutningen er helt op til Dem.	
+929	Har De brug for tid til at fordøje det?	
+930	Nej.	
+931	Det har jeg ikke.	
+932	Storartet,	
+933	storartet.	
+934	Lad det forblive fortroligt.	
+935	Det er ikke noget, De skal drøfte med Mary eller nogen anden.	
+936	Indvi kun os i brevvekslingen.	
+937	Fortæl os, hvad de vil, og hvornår.	
+938	Jeg har ingen klient, ingen hustru, intet land.	
+939	Jeg aner ikke, hvad jeg gør, eller hvem jeg gør det for.	
+940	De gør det for fædrelandet, men fædrelandet ved det ikke endnu.	
+941	Hvad med min klient,	
+942	min mand?	
+943	[NO TRANSLATION]	missing translation
+944	Mener De russeren?	
+945	Han er ikke Deres mand længere.	
+946	Deres mand er Francis Gary Powers.	
+947	Hvad skal jeg så sige til Rudolf Abel?	
+948	At han skal undgå at dø.	
+949	Hr. professor?	
+950	Hr. professor?	
+951	Far er på universitetet.	
+952	Du bør ikke være her, Frederic.	
+953	Er der undervisning i dag?	
+954	Han er taget derhen for at se efter.	
+955	[NO TRANSLATION]	missing translation
+956	Hvad laver du her?	
+957	Jeg ville hente dig og din far.	
+958	[NO TRANSLATION]	missing translation
+959	I morgen er det måske for sent at slippe ud.	
+960	[NO TRANSLATION]	missing translation
+961	Skulle vi bare rejse?	
+962	[NO TRANSLATION]	missing translation
+963	Ja, rejs lige med det samme.	forced duplication
+964	Ja, rejs lige med det samme.	forced duplication
+965	Gå hjem.	
+966	Gå hjem.	
+967	Jeg skal nok klare mig. Jeg er amerikaner.	
+968	Gå hjem.	
+969	Gå hjem igen.	
+970	Vi finder en anden vej.	
+971	[NO TRANSLATION]	missing translation
+972	[NO TRANSLATION]	missing translation
+973	[NO TRANSLATION]	missing translation
+974	Deres papirer.	
+975	Ich bin Student Frederic Pryor.	
+976	Ja, Student.	
+977	Jeg hedder Frederic Pryor.	
+978	Jeg studerer økonomi.	
+979	Se,	
+980	her er min afhandling,	
+981	mit speciale.	
+982	[NO TRANSLATION]	missing translation
+983	Se selv.	
+984	International handel i Europas kommunistiske lande.	
+985	[NO TRANSLATION]	missing translation
+986	Det var et stort arbejde.	
+987	Det er mit eneste eksemplar.	
+988	Nej!	
+989	Fortæl mig om det.	
+990	Det kom bare ud af det blå.	
+991	De har kontorer i London.	
+992	Pokkers klienter.	
+993	Det var ikke min ide.	
+994	Fisketur til Skotland...	
+995	Hvad er det for en slags fisketur?	
+996	Laksefiskeri.	
+997	Bare lov mig, det ikke er farligt. Sig, det er ren rutine, så er jeg ikke bekymret.	
+998	Jeg skal have mit pas.	
+999	Giv mig noget, jeg kan tro på.	
+1000	Pyt med, om det er sandheden.	
+1001	Jeg gør det for vores skyld.	
+1002	Hr. Michener er Deres ledsager.	
+1003	Han er attaché ved den amerikanske ambassade.	
+1004	Det er fandeme blevet kringlet.	
+1005	[NO TRANSLATION]	missing translation
+1006	I det seneste brev fra fru Abel nævnes en sagfører i Østberlin, hr. Vogel, der repræsenterer hende.	
+1007	Vogel skriver, at han er på russernes ambassade i Østberlin, og at de er indstillede på at udveksle Abel og Powers.	
+1008	Ingen ved, hvem der er hvem, men de er vel alle sammen russere.	
+1009	Sovjetborgere.	
+1010	Det tror vi i al fald.	
+1011	Hvad mener De?	
+1012	Kan vi ikke skrue op for varmen?	
+1013	Der er en lille krølle.	
+1014	De vil muligvis prøve at snøre Dem.	
+1015	At få Dem til at godtage en anden fange end Powers.	
+1016	En amerikaner?	
+1017	Østtyskernes Stasi har anholdt en amerikansk student.	
+1018	Frederic Pryor.	
+1019	De fandt ham på den forkerte side af muren.	
+1020	En elev fra Yale,	
+1021	der er her for at studere økonomi.	
+1022	[NO TRANSLATION]	missing translation
+1023	Nu truer de så med at sigte knægten for spionage.	
+1024	En alvorlig forbrydelse, der straffes med døden.	
+1025	[NO TRANSLATION]	missing translation
+1026	Vogel har kontaktet os og sagt, at han repræsenterer Pryor.	
+1027	Undskyld,	
+1028	repræsenterer Vogel både fru Abel og den unge mand?	
+1029	En travl herre.	
+1030	Hvad er han for en?	
+1031	Er Vogel østtysker eller russer?	
+1032	De skal snart møde ham.	
+1033	Den russiske ambassade, Østberlin, kl. 12 i morgen.	
+1034	Hoffman skal nok forklare Dem vejen.	
+1035	[NO TRANSLATION]	missing translation
+1036	Jamen jeg får vel eskorte.	
+1037	Ikke?	
+1038	Det var planen, men så opstod den lille krølle.	
+1039	[NO TRANSLATION]	missing translation
+1040	[NO TRANSLATION]	missing translation
+1041	Ingen amerikanske embedsmænd må krydse grænsen indtil videre.	
+1042	Hvorfor ikke?	
+1043	Det er farligt.	
+1044	[NO TRANSLATION]	missing translation
+1045	Østtyskerne er begyndt at tillade sig mere, end vi havde forudset.	
+1046	Det er muligt, at østtyskerne og russerne ikke har samme dagsorden.	
+1047	Prøv at finde ud af det,	
+1048	og få aftalt en byttehandel.	
+1049	Powers mod Abel.	
+1050	Hvad så med ham Pryor?	
+1051	[NO TRANSLATION]	missing translation
+1052	Den må De ikke hoppe på.	
+1053	Ham får vi ud en anden gang.	
+1054	Powers er alfa og omega.	
+1055	Hvor er Deres værelse?	
+1056	Jeg bor på Hilton.	
+1057	Det er ikke ret langt væk.	
+1058	Et telefonnummer her i Vestberlin.	
+1059	Lær det udenad, og giv mig det igen.	
+1060	Nej,	
+1061	[NO TRANSLATION]	missing translation
+1062	nu og her.	
+1063	Russerne kapper de internationale linjer, men lokale samtaler går igennem.	
+1064	Der vil blive svaret dag og nat.	
+1065	Denne påtegning i Deres pas er Deres billet ind og ud af den sovjetiske sektor.	
+1066	Mødet med Vogel er i morgen klokken 12.	
+1067	Der er kun få adgangsveje tilbage til Østberlin.	
+1068	De skal tage S-Bahn'en.	
+1069	De skal stå af på Friedrichstrasse og gå hen til den sovjetiske ambassade på Unter den Linden.	
+1070	Kig på kortet nu.	
+1071	Tag det ikke med.	
+1072	En mand med et kort må være spion.	
+1073	De risikerer at blive anholdt.	
+1074	Undgå at tale med folk,	
+1075	[NO TRANSLATION]	missing translation
+1076	og undgå at skille Dem ud.	
+1077	Der er mangel på mad, og alting sejler.	
+1078	Der er gadebander, og lov og orden har ikke ret godt fat derovre.	
+1079	Og hold Dem væk fra muren.	
+1080	Der er et ingenmandsland langs muren,	
+1081	der kaldes Dødsstriben.	
+1082	Krydser De den, bliver De skudt.	
+1083	Kan jeg overhovedet undgå at blive anholdt eller skudt?	
+1084	Tag Dem ikke af det, Michener sagde.	
+1085	Jeg er mere bekymret for det, De siger.	
+1086	Ham Pryor, østtyskerne har, hvor gammel er han?	
+1087	25	
+1088	Hvorfor?	
+1089	Samme alder som Dougie.	
+1090	Hvem?	
+1091	Bare en kollega.	
+1092	[NO TRANSLATION]	missing translation
+1093	[NO TRANSLATION]	missing translation
+1094	[NO TRANSLATION]	missing translation
+1095	Vi beklager, hvis vi fornærmer Dem.	
+1096	[NO TRANSLATION]	missing translation
+1097	Frakken.	
+1098	[NO TRANSLATION]	missing translation
+1099	Forstår De engelsk?	
+1100	Ja.	
+1101	James Donovan.	
+1102	Jeg har en aftale med hr. Vogel.	
+1103	[NO TRANSLATION]	missing translation
+1104	[NO TRANSLATION]	missing translation
+1105	Jeg fik bare at vide, jeg skulle møde ham her.	
+1106	[NO TRANSLATION]	missing translation
+1107	Hr. Donovan!	
+1108	Endelig møder vi Dem!	
+1109	Jeg er Helen Abel.	
+1110	Hvordan har vores mand det?	
+1111	[NO TRANSLATION]	missing translation
+1112	Han har det fint.	
+1113	[NO TRANSLATION]	missing translation
+1114	Så godt, som man nu kan forvente.	
+1115	Og vi får ham tilbage?	
+1116	Dette er vores datter.	
+1117	[NO TRANSLATION]	missing translation
+1118	Goddag. Lydia.	
+1119	Er De hr. Vogel?	
+1120	Nej, nej, nej,	
+1121	jeg er ikke Vogel.	
+1122	Jeg er fætter Drews.	
+1123	Det er Rudolfs kære fætter Drews.	
+1124	Fætter Drews.	
+1125	Jeg er fætter Drews.	
+1126	Fætter Drews, ja.	
+1127	Jeg er Helen Abel.	
+1128	Hvornår skal De se ham?	
+1129	Hvornår bliver han løsladt?	
+1130	Jeg er ikke helt med.	
+1131	Jeg skulle mødes med en hr. Vogel.	
+1132	Hr. Vogel er vores sagfører.	
+1133	Vi skulle forhandle om udvekslingen.	
+1134	For at få Rudolf hertil?	
+1135	Ja, netop.	
+1136	Men det sker ikke ensidigt.	
+1137	Der skal finde en udveksling sted.	
+1138	Ikke her?	
+1139	[NO TRANSLATION]	missing translation
+1140	[NO TRANSLATION]	missing translation
+1141	[NO TRANSLATION]	missing translation
+1142	Hr. Donovan?	
+1143	Hr. Vogel.	
+1144	Nej, nej, nej.	
+1145	[NO TRANSLATION]	missing translation
+1146	Mit navn er Ivan Schischkin.	forced duplication
+1147	Mit navn er Ivan Schischkin.	forced duplication
+1148	Jeg er andensekretær på den sovjetiske ambassade.	
+1149	Det ville være upassende, at hr. Vogel var til stede.	
+1150	Han er tysk statsborger.	
+1151	De er her altså ikke for at...	
+1152	For at formidle Deres møde.	
+1153	Måske fru Abel kunne gå afsides og genvinde fatningen,	
+1154	så hr. Donovan og jeg kan tale sammen?	
+1155	Tak.	
+1156	Jeg er forvirret.	
+1157	Ja.	
+1158	Det er mig ligegyldigt, hvem jeg taler med om udvekslingen.	
+1159	Er det Dem, jeg skal tale med?	
+1160	Ja, naturligvis.	
+1161	Lad os tale sammen.	
+1162	Værsgo at tage plads, hr. Donovan.	
+1163	Hvordan kom De til den østlige sektor?	
+1164	[NO TRANSLATION]	missing translation
+1165	Med S-Bahn'en.	
+1166	Var De alene?	
+1167	Ja.	
+1168	Og De er akkrediteret?	
+1169	Som De sikkert ved,	
+1170	er jeg privatmand.	
+1171	Jeg er advokat fra Brooklyn i USA, og jeg er taget hertil for at hjælpe min klient, Rudolf Abel.	
+1172	Jeg har hjemmel til at aftale en udveksling af Abel mod Francis Gary Powers.	
+1173	Her er en fuld benådning af Abel. Den vil blive underskrevet, når udvekslingen finder sted.	
+1174	Det er kun derfor, jeg er her.	
+1175	Jeg håber, at aftalen hurtigt kan komme på plads.	
+1176	Abel mod Francis Gary Powers... og Frederic Pryor.	
+1177	Vi har ikke Pryor.	
+1178	[NO TRANSLATION]	missing translation
+1179	Har I ikke det?	
+1180	Jeg har hørt om Pryor, men han bliver tilbageholdt af Den Tyske Demokratiske Republik, ikke af Unionen af Socialistiske Sovjetrepublikker.	
+1181	Jeg kan godt fortælle Dem det første problem.	
+1182	Jeres lande har alt for lange navne.	
+1183	Sandt nok.	
+1184	Hvis vi løslader Powers, bliver det kun for at fremme goodwill mellem vores lande.	
+1185	Ergo kan det ikke blive en udveksling.	
+1186	[NO TRANSLATION]	missing translation
+1187	Måske kunne De løslade Abel som en gestus mod vores tyske venner. Og så kunne vi nogle måneder senere løslade Powers.	
+1188	Det er en mulighed.	
+1189	[NO TRANSLATION]	missing translation
+1190	Det duer slet ikke for os.	
+1191	Det skal være en udveksling.	
+1192	Kald det, hvad De vil, men det skal være en udveksling.	
+1193	Vi kan få Abel hertil på 48 timer.	
+1194	Vi vil have Powers, samtidig med vi udleverer Abel.	
+1195	[NO TRANSLATION]	missing translation
+1196	Det er...	
+1197	Skal vi kalde det den forivrede plan?	
+1198	Kald det, hvad De vil.	
+1199	Jeg kan godt fremlægge Deres forivrede plan for Moskva,	
+1200	men det vil undre dem, hvorfor De er så forivret.	
+1201	Fordi jeg er forkølet.	
+1202	Og fordi jeg gerne snart vil hjem.	
+1203	De vil tænke: Amerikanerne må have presset Abel for alle de oplysninger, han havde.	
+1204	Og nu har de travlt med at udlevere ham i håb om til gengæld at få denne Powers, der måske ikke har givet os alle de oplysninger, han ligger inde med.	
+1205	Det er ikke noget rimeligt bytte.	
+1206	Men hvis Powers har afsløret alt, hvad han ved, hvorfor skulle Moskva så ikke være villige til at bytte?	
+1207	[NO TRANSLATION]	missing translation
+1208	Hvis Abel dør i et amerikansk fængsel, vil den næste russiske spion, vi fanger, måske overveje at løsne tungebåndet.	
+1209	[NO TRANSLATION]	missing translation
+1210	Og det kunne jo være, at Abel fik lyst til at se blå himmel igen... og bytte russiske hemmeligheder mod små, amerikanske goder.	
+1211	Hvad ved vi om den slags?	
+1212	Vi små mænd udfører bare vores arbejde.	
+1213	Ligesom løjtnant Powers.	
+1214	Han er bare pilot.	
+1215	Han fotograferede i 20.000 meters højde, da han blev skudt ned.	
+1216	I mit land betragtes det som en krigshandling.	
+1217	Vi må stoppe den her karrusel.	
+1218	Den næste fejl, vores lande begår, kan ende med at blive den sidste.	
+1219	Vi to må føre den samtale, vores myndigheder ikke kan.	
+1220	Jeg spørger Moskva.	
+1221	Hvem ved, hvad de siger til det?	
+1222	Der findes en hel del mennesker, der ikke ønsker, at udvekslingen overhovedet skal finde sted.	
+1223	Kan De komme tilbage i morgen og drøfte deres svar?	
+1224	Powers mod Abel.	
+1225	Og Frederic Pryor.	
+1226	Som sagt er Pryor i hænderne på statssikkerhedsmyndighederne hos Den Tyske Demokra...	
+1227	Jeg er overbevist om, De finder ud af noget.	
+1228	Jeg er jo blot sekretær på en fremmed magts ambassade.	
+1229	[NO TRANSLATION]	missing translation
+1230	De må tale med hr. Vogel.	
+1231	Nu skal De få hans adresse.	
+1232	Så findes hr. Vogel altså?	
+1233	Hvad får Dem til at tro andet?	
+1234	Det er en kort taxitur herfra.	
+1235	Og De bør nok tage en overfrakke på i det her vejr.	
+1236	Min frakke er blevet stjålet.	
+1237	Forventeligt nok.	
+1238	Den var jo fra Saks Fifth Avenue.	
+1239	Ikke sandt?	
+1240	Hr. Donovan.	
+1241	Hr. Vogel.	
+1242	Kom indenfor.	
+1243	[NO TRANSLATION]	missing translation
+1244	Undskyld polemikken på ambassaden.	
+1245	Russerne besluttede at formene mig adgang.	
+1246	Meget irriterende.	
+1247	Jeg forsøger stadig at forstå begge parters...	
+1248	Status?	
+1249	Ja,	
+1250	og interesse i forhandlingerne.	
+1251	[NO TRANSLATION]	missing translation
+1252	Det er en ny verden.	
+1253	Temmelig forvirrende, ikke sandt?	
+1254	Nu skal De høre, hvad jeg kan tilbyde.	
+1255	Jeg er nær ven...	
+1256	Ven?	
+1257	Nej, han er ældre.	
+1258	Protegé?	
+1259	Af Den Tyske Demokratiske Republiks justitsminister.	
+1260	Sid ned.	
+1261	Denne uheldige Frederic Pryor... Han var det forkerte sted på det forkerte tidspunkt.	
+1262	Men set i det rette lys udgør ethvert uheld en mulighed, ikke sandt?	
+1263	[NO TRANSLATION]	missing translation
+1264	Deres land nægter at anerkende Den Tyske Demokratiske Republik.	
+1265	De foretrækker at opdigte historier, såsom at DDR slet ikke findes.	
+1266	Undskyld.	
+1267	For at tvinge Deres regering til at anerkende dette virkelige sted, hvor De befinder Dem, DDR, vil justitsministeren forhandle med Dem som repræsentant for Deres regering om en udlevering af hr. Pryor.	
+1268	Jeg er her ikke som repræsentant for regeringen.	
+1269	Javel ja.	
+1270	Nu er De barnlig, hr. Donovan.	
+1271	[NO TRANSLATION]	missing translation
+1272	Jeg har ingen officiel status.	
+1273	Fint.	
+1274	De repræsenterer ikke USA, jeg repræsenterer ikke DDR.	
+1275	Min klient er Lydia Abel, Rudolfs hustru.	
+1276	[NO TRANSLATION]	missing translation
+1277	Lydia er datteren.	
+1278	Helen er hustruen.	
+1279	[NO TRANSLATION]	missing translation
+1280	Jeg er indstillet på at udveksle Frederic Pryor mod Rudolf Abel.	
+1281	Så lad os tale åbent.	
+1282	Vi udleverer Rudolf Abel.	
+1283	Samtidig udleverer I studenten Pryor.	
+1284	Samtidig?	
+1285	Naturligvis.	
+1286	Udleveringen gælder en russer i sit livs efterår... mod en amerikansk student i sit livs vår.	
+1287	Schischkin?	
+1288	Han er ikke ambassadesekretær.	
+1289	Ivan Schischkin er KGB's chef i Vesteuropa.	
+1290	Uanset hvad fremlægger han vores forslag for Moskva... og så træffer de en beslutning.	
+1291	Må jeg låne en frakke?	
+1292	Jeg har mistet min.	
+1293	Hvordan har De mistet Deres frakke?	
+1294	Spionaktiviteter, De ved.	
+1295	Jeg finder en frakke til Dem.	
+1296	Godt, fordi...	
+1297	Hvem er så ham Vogel?	
+1298	Ham kender vi ikke.	
+1299	Måske er han det, han sagde.	
+1300	En ven af justitsministeren udpeget af DDR til at tage sig af sagen.	forced duplication
+1301	En ven af justitsministeren udpeget af DDR til at tage sig af sagen.	forced duplication
+1302	Det lyder, som om østtyskerne vil have en plads ved vores bord.	
+1303	Kan DDR skaffe russerne Abel tilbage, vil de vinde deres respekt	
+1304	og få en masse presseomtale,	
+1305	hvilket vil sætte Østtyskland på landkortet.	
+1306	Men vi er ligeglade med deres landkort.	
+1307	Hold Dem til russerne.	
+1308	Hold Dem til russerne.	
+1309	Vi skal have Powers for Abel.	
+1310	Vil det sige, det rent faktisk bliver til noget?	
+1311	Ja, det lyder sådan.	
+1312	Vi kan flyve Abel hertil, så han er her fredag.	
+1313	Hvis Schischkin får grønt lys, mangler vi kun det rent praktiske.	
+1314	Hvordan vi bytter vores mand med deres.	
+1315	Vores mænd.	
+1316	To mænd.	
+1317	Powers og Pryor.	
+1318	Nu skal De ikke blive rørstrømsk.	
+1319	Powers er alfa og omega.	
+1320	Glem ham overklasseløget, der syntes, det var en god ide at studere sovjetisk økonomi i Berlin midt under den kolde krig.	
+1321	Det er Powers, vi har brug for.	
+1322	De bryder Dem ikke engang om Powers.	
+1323	Alle hader Powers.	
+1324	Han tog ikke sit eget liv, og han lod kommunisterne vise ham frem i tv.	
+1325	Han er den mest forhadte mand i USA.	
+1326	Næst efter Rudolf Abel, måske.	
+1327	Og mig.	
+1328	Vågn op!	
+1329	Jeg har brug for søvn.	
+1330	Jeg har brug for søvn.	
+1331	Du kan sove, når vi har talt færdig.	
+1332	Koncentrer dig om mig.	
+1333	Jeres myndigheder er ligeglade med dig,	
+1334	[NO TRANSLATION]	missing translation
+1335	med jer alle sammen.	
+1336	Vidste du, at 12 U-2-piloter blev hjerneskadede?	
+1337	De fik for lidt ilt i de tynde luftlag.	
+1338	Men de lader dig flyve videre, Gary.	
+1339	Dig og dine venner.	
+1340	Og de gav dig den her.	
+1341	En nål, ikke sandt?	
+1342	Cyankalium.	
+1343	Vidner det om, at du er vigtig for dem?	
+1344	Hvordan er Destructor-enheden opbygget?	
+1345	Hvordan aktiverer man enheden?	
+1346	Hvilken slags sprængstof indeholder den, og hvor kraftig vil eksplosionen være?	
+1347	Aner det ikke.	
+1348	Vi fik aldrig noget af udstyret at se.	
+1349	Hvor stort et område kan radaren kortlægge under en overflyvning?	
+1350	Aner det ikke!	
+1351	Gennemførte De en overflyvning den 9. april over industriområdet og MiG-flyvebasen i Baranovitji?	
+1352	Nej.	
+1353	Det her var min første overflyvning.	
+1354	Jeg vil høre om flyets glidetal.	
+1355	Hvordan det når så højt op.	
+1356	Vi ved, det kan nå op i 20.000 meters højde.	
+1357	Det ved vi, Gary.	
+1358	Jeg vil også vide, hvor flyene har fløjet.	
+1359	Hvor de har fløjet, Gary.	
+1360	Og det skal vi tale om nu.	
+1361	Lige nu.	
+1362	Så får du lov at sove lidt.	
+1363	Vågn op.	
+1364	Vågn op.	
+1365	Vær venlig at følge med mig.	
+1366	[NO TRANSLATION]	missing translation
+1367	Vi skal af sted.	
+1368	Selvfølgelig.	
+1369	Vil De være venlig at følge med?	
+1370	Ja.	
+1371	[NO TRANSLATION]	missing translation
+1372	Har De Deres briller?	
+1373	[NO TRANSLATION]	missing translation
+1374	Hvad er klokken?	
+1375	Mange, men vi må lige have en snak, og så skal vi om bord på et fly, okay?	
+1376	Ja.	
+1377	[NO TRANSLATION]	missing translation
+1378	Opsedasse.	
+1379	Opsedasse.	
+1380	Nemlig.	
+1381	[NO TRANSLATION]	missing translation
+1382	Kom så, af sted.	
+1383	Tak.	
+1384	Den anden vej, sådan.	
+1385	[NO TRANSLATION]	missing translation
+1386	Sagde De et fly?	
+1387	Fortsæt den vej.	
+1388	[NO TRANSLATION]	missing translation
+1389	Jeg har fået et positivt svar fra Moskva angående Deres forslag. Vi vil gerne hjælpe vores venner i Den Tyske Demokratiske Republik ved at udveksle hr. Powers mod hr. Abel.	
+1390	Den er fjong.	
+1391	Må jeg foreslå Glienicke-broen til udvekslingen?	
+1392	Hvorfor ikke Checkpoint Charlie?	
+1393	Vi ønsker ikke presseomtale.	
+1394	Glienicke-broen er meget lidt befærdet tidligt om morgenen.	
+1395	Glienicke-broen,	
+1396	det skal jeg foreslå vores folk.	
+1397	Abel kan være her fredag.	
+1398	Skal vi sige lørdag morgen?	
+1399	Stadig forivret, hvad?	
+1400	Jeg vil gerne hjem i seng.	
+1401	Lørdag morgen?	
+1402	Klokken halv seks?	
+1403	Udmærket.	
+1404	Så er det en aftale.	
+1405	Her er et nummer, hvis der skulle komme noget i vejen.	
+1406	Udmærket.	
+1407	Der vil blive svaret døgnet rundt.	
+1408	Jeg regner ikke med at få brug for det.	
+1409	Skal vi skåle på vores aftale?	
+1410	Hvorfor ikke?	
+1411	Armensk brændevin.	
+1412	Den vil hjælpe på forkølelsen.	
+1413	[NO TRANSLATION]	missing translation
+1414	Må jeg...?	
+1415	Det er uden for aftalen, men jeg vil gerne stille Dem et par spørgsmål.	
+1416	De behøver ikke at svare.	
+1417	Jeg svarer, hvis jeg kan.	
+1418	Jeg kan godt lide ham jeres mand.	
+1419	Hvad skal der ske med ham, når han kommer hjem?	
+1420	Så skal vi træffe en afgørelse om, hvorvidt vores mand nu er jeres mand.	
+1421	Som sagt har han opført sig ærefuldt.	
+1422	Tro mig, han er stadig jeres mand.	
+1423	Det siger De selvfølgelig, både hvis det er sandt, og hvis det ikke er.	
+1424	Ja, sådan er det vel blevet.	
+1425	Tilgiv mig min emsighed, men vil han være i fare, hvis man træffer den afgørelse?	
+1426	Tak skæbne.	
+1427	Som situationen er nu, er alle i fare.	
+1428	Skål.	
+1429	[NO TRANSLATION]	missing translation
+1430	Der bliver ingen udveksling på Glienicke-broen.	
+1431	Hvabehar?	
+1432	Der bliver ingen udveksling.	
+1433	Ikke af Frederic Pryor.	
+1434	Hr. Vogel, jeg troede, vi havde en aftale.	
+1435	Vi aftalte at udveksle Abel mod Pryor.	
+1436	Nu erfarer jeg, at De er en brugtvognsforhandler, der sælger den samme bil til to kunder.	
+1437	De sælger os Abel mod Pryor.	
+1438	[NO TRANSLATION]	missing translation
+1439	Og De sælger russerne Abel mod Powers.	
+1440	Jeg kan ikke se, det er et problem, hvis aftalen kommer to, tre eller fire parter til gode.	
+1441	[NO TRANSLATION]	missing translation
+1442	Aftalen kommer ikke denne part til gode.	
+1443	Hr. Vogel...	
+1444	De ved tydeligvis ikke, hvem De har med at gøre.	
+1445	Dette er, hvad der interesserer Den Tyske Demokratiske Republik.	
+1446	At handle med og blive set handle med en anden suveræn magt, nemlig USA.	
+1447	En ligeværdig magt.	
+1448	I behandler os som håndlangere for Unionen af Socialistiske Sovjetrepublikker.	
+1449	Kan vi ikke bare kalde dem russerne?	
+1450	Det vil spare tid.	
+1451	Jeg har en aftale.	
+1452	Det er Dem, der spilder vores tid.	
+1453	Sig til, hvis jeg tager fejl.	
+1454	I har en ung student, som ikke er spion og ikke udgør nogen trussel mod jer.	
+1455	Til gengæld for denne i jeres bog ligegyldige person tager I del i udvekslingen på lige fod med russerne og amerikanerne.	
+1456	Det er en transaktion mellem os og jer i fællesskab.	
+1457	Vi spiller ikke dobbeltspil her.	
+1458	Vi gør kun den ene ting.	
+1459	[NO TRANSLATION]	missing translation
+1460	Jeg har svært ved at se, at De Østtyske Demokraters Republik bliver forfordelt.	
+1461	De indgik en aftale med russerne bag min ryg.	
+1462	Er det en sammensværgelse?	
+1463	Så skulle det være til skade for Dem.	
+1464	Aftalen er kun til Deres fordel.	
+1465	Vi har fælles interesser.	
+1466	Det er noget, De påstår.	
+1467	Hvor har De en aftale?	
+1468	I den vestlige sektor.	
+1469	Ku'damm.	
+1470	Godt.	
+1471	[NO TRANSLATION]	missing translation
+1472	Hvad synes De så om den østlige sektor sammenlignet med den vestlige?	
+1473	[NO TRANSLATION]	missing translation
+1474	Vores russiske venner har besluttet, at hovedstaden ikke skal genopbygges.	
+1475	Vi lever i den ruin, vores russiske venner har skabt.	
+1476	Slå De bare en handel af med dem.	
+1477	Det bliver uden os.	
+1478	Der bliver ingen handel uden Pryor.	
+1479	[NO TRANSLATION]	missing translation
+1480	Taler De på Deres regerings vegne?	
+1481	Jeg sidder her.	
+1482	Jeg taler til Dem.	
+1483	Men ikke som repræsentant for Deres regering.	
+1484	[NO TRANSLATION]	missing translation
+1485	Vi ved ikke, hvem De er.	
+1486	Tag Dem i agt.	
+1487	De er ikke hjemme i Brooklyn.	
+1488	Hør nu her.	
+1489	I alle væsentlige henseender repræsenterer jeg regeringen.	
+1490	De ved, hvem jeg er.	
+1491	Gør jeg?	
+1492	[NO TRANSLATION]	missing translation
+1493	Har De de behørige papirer?	
+1494	Selvfølgelig ikke.	
+1495	Det er også ligegyldigt.	
+1496	En amerikansk sagfører som Dem kan vel tale sig fra hvad som helst.	
+1497	[NO TRANSLATION]	missing translation
+1498	De følger med ham.	
+1499	Hvorfor?	
+1500	Der er pasproblemer.	
+1501	[NO TRANSLATION]	missing translation
+1502	[NO TRANSLATION]	missing translation
+1503	Hvad er det for problemer?	
+1504	De følger med ham.	
+1505	Og husk på, at det er os, der afgør Frederic Pryors skæbne.	
+1506	Åh gud!	
+1507	Allerførst en kop kaffe.	
+1508	Og så skal jeg bede om et Hilton-complet og det amerikanske complet.	
+1509	Og kaffe.	
+1510	Begge morgencompleter?	
+1511	Ja.	
+1512	Det ene først...?	
+1513	Samtidig.	
+1514	Så snart de er klar.	
+1515	Og kaffe.	
+1516	[NO TRANSLATION]	missing translation
+1517	De burde ikke være her.	
+1518	Det kan jo ske, man får lyst til et stort, amerikansk morgenbord.	
+1519	[NO TRANSLATION]	missing translation
+1520	Hvor har De tilbragt natten?	
+1521	Vogel arrangerede et mindre ophold i østsektoren til mig.	
+1522	[NO TRANSLATION]	missing translation
+1523	Det var ikke stort værre end det, I har budt mig her i Vesten.	
+1524	Russerne siger god for udvekslingen, men nu siger Vogel, at østtyskerne ikke vil udlevere Pryor.	forced duplication
+1525	Russerne siger god for udvekslingen, men nu siger Vogel, at østtyskerne ikke vil udlevere Pryor.	forced duplication
+1526	Storartet.	
+1527	Russerne er altså parate til at give os Powers.	forced duplication
+1528	Russerne er altså parate til at give os Powers.	forced duplication
+1529	Vi får Powers.	
+1530	Flot klaret.	
+1531	[NO TRANSLATION]	missing translation
+1532	Men vi får ikke Pryor, og han er også vigtig.	
+1533	Ethvert menneske er vigtigt.	
+1534	Selvfølgelig, og De gjorde, hvad De kunne.	
+1535	[NO TRANSLATION]	missing translation
+1536	Abel er på vej, så alt er klar til i morgen tidlig.	
+1537	[NO TRANSLATION]	missing translation
+1538	Dejligt enkelt.	
+1539	Dejligt enkelt.	
+1540	Vi får ikke den unge mand.	
+1541	Forstået,	
+1542	alt er klar.	
+1543	Vi ser bare bort fra den besked, vi fik her til morgen.	
+1544	Hvilken besked?	
+1545	Fra østtyskerne.	
+1546	De ringede til det nummer, jeg gav Dem.	
+1547	De ville tale med Dem.	
+1548	Var det Vogel, der ringede?	
+1549	Nej,	
+1550	det var fra Harald Ott, deres justitsministers kontor.	
+1551	[NO TRANSLATION]	missing translation
+1552	Hvad ville han?	
+1553	Tale med Dem.	
+1554	Men jeg kan ikke bede Dem tage tilbage dertil.	
+1555	De er vist persona non grata nu, så lad os ikke udfordre skæbnen.	
+1556	Han vil altså mødes med mig.	
+1557	Hvornår?	
+1558	Nej,	
+1559	hør nu her...	
+1560	De behøver ikke at tage af sted.	
+1561	De må ikke tage af sted.	
+1562	[NO TRANSLATION]	missing translation
+1563	Vi må ikke forpurre aftalen med russerne.	
+1564	Vi må ikke forpurre aftalen med russerne.	
+1565	Jeg forpurrer ikke noget.	
+1566	[NO TRANSLATION]	missing translation
+1567	Vær nu ikke så genstridig.	
+1568	Det er mig, der har bestilt.	
+1569	Nyd det amerikanske morgenbord.	
+1570	Jeg mente, at sagen burde forhandles på højeste sted af respekt for Dem.	
+1571	De er meget venlig.	
+1572	Jeg forstår ikke, hvorfor det hele blev så forplumret.	
+1573	Tja, det er jo, hvad der kan ske.	
+1574	Lad mig med det samme sige, at vi er fuldt ud indstillede på at udveksle denne såkaldte student, Pryor, med Rudolf Abel.	
+1575	Jeg kan forstå på hr. Vogel, at Pryor er meget vigtig for Dem.	
+1576	[NO TRANSLATION]	missing translation
+1577	Vi skriver det i et memorandum.	
+1578	Et memorandum.	
+1579	Vi forpligter os naturligvis til en bilateral udveksling.	
+1580	Ja, selvfølgelig,	
+1581	omend jeg ikke helt forstår, hvad det vil sige.	
+1582	Mit land insisterer på også at få Francis Gary Powers.	
+1583	Nej!	
+1584	Det var sådan, det hele blev så forplumret.	
+1585	Hvad vil De med Powers?	forced duplication
+1586	Hvad vil De med Powers?	forced duplication
+1587	Vil De retsforfølge ham?	
+1588	Gjort er gjort.	
+1589	Han har afsløret, hvad han ved, hvilket Abel formentlig også har.	
+1590	I stedet tilbyder vi Dem en, som De bedyrer er uskyldig.	
+1591	Og det er det rigtige.	
+1592	Det er ham, De bør hente hjem.	
+1593	Fremtiden.	
+1594	Fokusér på fremtiden.	
+1595	Ott.	
+1596	Ott.	
+1597	[NO TRANSLATION]	missing translation
+1598	Vil De lige have mig undskyldt et øjeblik?	
+1599	Jeg beklager,	
+1600	men justitsministeren måtte gå i et presserende ærinde.	
+1601	Er han gået?	
+1602	Ja.	
+1603	Beklager meget.	
+1604	Jeg har ventet i over en time.	
+1605	Det er jeg meget ked af.	
+1606	Unge mand.	
+1607	Kom her.	
+1608	[NO TRANSLATION]	missing translation
+1609	Kom lige her.	
+1610	[NO TRANSLATION]	missing translation
+1611	Sid ned.	
+1612	Kom nu,	
+1613	sæt Dem ned.	
+1614	Er De glad for Deres job her?	
+1615	Det er et rigtig godt job.	
+1616	[NO TRANSLATION]	missing translation
+1617	Det må være interessant.	
+1618	Meget.	
+1619	Og betydningsfuldt.	
+1620	Og De taler godt engelsk.	
+1621	Jeg vil driste mig til at sige, at jeg taler det formfuldendt.	
+1622	[NO TRANSLATION]	missing translation
+1623	Godt, godt.	
+1624	[NO TRANSLATION]	missing translation
+1625	Jeg har lige mistet min forhandlingspartner, så jeg mangler en at tale med, og De virker som en fornuftig, ung mand.	
+1626	Kan jeg tale med Dem?	
+1627	[NO TRANSLATION]	missing translation
+1628	Det er ikke farligt.	
+1629	Det er ikke farligt.	
+1630	[NO TRANSLATION]	missing translation
+1631	Jeg vil bare bede Dem give Deres chef en besked.	
+1632	Men det skal være klart og tydeligt.	
+1633	Er det forstået?	
+1634	Ja.	
+1635	Men måske skulle De vente, til han...	
+1636	Nej,	
+1637	jeg er forkølet, så jeg vil rigtig gerne hjem og i seng.	
+1638	Vil De give ham beskeden?	
+1639	Så gerne.	
+1640	Beskeden er som følger:	
+1641	Abel bliver kun udleveret, hvis vi får Powers og Pryor.	
+1642	Er det forstået?	
+1643	Ja.	
+1644	Det er aftalt til i morgen tidlig,	
+1645	men kun, hvis vi får to personer.	
+1646	De to personer.	
+1647	To, to, to.	
+1648	Javel.	
+1649	Hvis aftalen bliver sløjfet... så må Deres chef fortælle det til russerne.	
+1650	Han må fortælle russerne, at de ikke får Rudolf Abel.	
+1651	Javel.	
+1652	Og sig til ham...	
+1653	at nok har Abel været en god soldat indtil nu, men han tror, han skal hjem.	
+1654	Hvis vi må skuffe ham og fortælle, at russerne ikke vil have ham, og at han aldrig kommer hjem,	
+1655	så vil han formentlig ændre adfærd.	
+1656	Og hvem vil så blive stillet til ansvar for det?	
+1657	Det blev en lang besked.	
+1658	Fik De det hele med?	
+1659	Ja,	
+1660	jeg fik det.	
+1661	Godt.	
+1662	De er en kvik fyr.	
+1663	[NO TRANSLATION]	missing translation
+1664	Og sig til ham, at aftalen bortfalder, hvis ikke vi hører fra ham inden for almindelig kontortid i dag.	
+1665	[NO TRANSLATION]	missing translation
+1666	Hvis udvekslingen ikke bliver til noget, behøver vi jo ikke at stå så tidligt op.	
+1667	Nej, det ville være formålsløst.	
+1668	De tager gas på mig.	
+1669	De tager gas på mig.	
+1670	Nej.	
+1671	Jeg skal bruge småpenge.	
+1672	Det var præcis det, De ikke skulle gøre.	
+1673	Jeg fik besked på at føle mig frem.	
+1674	De fik besked på at få udleveret Powers, ikke Pryor.	
+1675	[NO TRANSLATION]	missing translation
+1676	De har spoleret det hele!	
+1677	[NO TRANSLATION]	missing translation
+1678	Jeg har en god mavefornemmelse.	
+1679	De har ødelagt hele lortet!	
+1680	Tag det roligt.	
+1681	Jeg tror på, det nok skal gå.	
+1682	[NO TRANSLATION]	missing translation
+1683	Det kan De ikke vide.	
+1684	USA.	
+1685	New York, New York.	
+1686	[NO TRANSLATION]	missing translation
+1687	Formålet med alt det her har været at føle mig på tænderne.	
+1688	Ville jeg bytte den ene mod at få den anden?	
+1689	Men jeg holdt på to for én,	
+1690	så de ved, hvor vi står.	
+1691	Hvad så hvis de beslutter at sige:	
+1692	Glem det.	
+1693	Behold vores mand, så beholder vi jeres?	
+1694	Så har jeg ødelagt hele lortet.	
+1695	Hej, skat,	
+1696	det er mig.	
+1697	Ja,	
+1698	det var en skøn fisketur.	
+1699	Jeg er i London. Bare ét sidste møde, så vender jeg hjemad.	
+1700	Ja, jeg kan godt huske den marmelade.	
+1701	Fra butikken ved Regent's Park.	
+1702	Det skal jeg nok, hvis jeg når det.	
+1703	Må jeg lige sige hej til Roger?	
+1704	Må jeg sige hej til pigerne?	
+1705	Er der nogen, der ikke er travlt optaget?	
+1706	Har de overhovedet bemærket, jeg ikke er der?	
+1707	Den er hjemme.	
+1708	To for én.	
+1709	Av, min arm.	
+1710	Det må vi skåle på.	
+1711	Der er en krølle.	
+1712	Hvad?	
+1713	De vil ikke løslade Pryor på broen.	
+1714	De vil løslade ham samtidig.	
+1715	Når russerne giver os Powers på broen, løslader de Pryor ved Checkpoint Charlie.	
+1716	Hvad skal det betyde?	
+1717	Jeg tror, det betyder, at de vil have det sidste ord.	
+1718	Men de gør det?	
+1719	Det ved De nok bedre end jeg.	
+1720	[NO TRANSLATION]	missing translation
+1721	Hvor er de?	
+1722	Hvor er vores mand?	
+1723	Hvor er vores mand?	
+1724	De kommer for sent.	
+1725	[NO TRANSLATION]	missing translation
+1726	Det er os, der er tidligt på den.	
+1727	Må jeg have lov?	
+1728	Ja.	
+1729	Hoffman...	
+1730	Ja?	
+1731	Jeg tror, de har...	
+1732	Hvad?	
+1733	Skarpskytter.	
+1734	Det regner jeg da med.	
+1735	Hvorfor regner De med det?	
+1736	Fordi vi har skarpskytter.	
+1737	Stig ud af bilen.	
+1738	Jim.	
+1739	Kære Jim.	
+1740	Hvordan har De det?	
+1741	Jeg er glad for at se Dem.	
+1742	Har De gjort alt det her for min skyld?	
+1743	Lad os nu se, hvad det her er, inden jeg tager æren for det.	
+1744	Noget nyt om Pryor fra Checkpoint Charlie?	
+1745	Der sker ikke noget.	
+1746	Undskyld...	
+1747	Løjtnant Joe Murphy fra luftvåbnet. Han skal identificere Powers.	
+1748	Løjtnant Murphy.	
+1749	[NO TRANSLATION]	missing translation
+1750	Der kan blive problemer.	
+1751	Jeg var ung, da jeg tog af sted.	
+1752	Hvem vil kunne identificere mig?	
+1753	Forhåbentlig ikke Deres østtyske familie.	
+1754	De kan dårligt nok identificere hinanden.	
+1755	Det er vist dem.	
+1756	Godt, kom så.	
+1757	De kan bare blive her, Donovan.	
+1758	Ikke på vilkår.	
+1759	Luk bommen op.	
+1760	Hvad tror De, der vil ske, når De kommer hjem?	
+1761	Jeg tror...	
+1762	jeg vil tage mig en vodka.	
+1763	[NO TRANSLATION]	missing translation
+1764	[NO TRANSLATION]	missing translation
+1765	Men kan det ikke tænkes...	
+1766	At man vil lade mig skyde?	
+1767	Ja.	
+1768	Er De ikke bekymret?	
+1769	Ville det nytte?	
+1770	For at svare på Deres spørgsmål, min ven, så tror jeg godt, de ved, jeg opførte mig ærefuldt.	forced duplication
+1771	For at svare på Deres spørgsmål, min ven, så tror jeg godt, de ved, jeg opførte mig ærefuldt.	forced duplication
+1772	Men nogle gange tager folk fejl.	
+1773	Det er menneskeligt.	
+1774	Lad os se, hvordan de tager imod mig.	
+1775	Hvad skal jeg holde øje med?	
+1776	Om jeg bliver omfavnet eller bare sat ind på bagsædet.	
+1777	[NO TRANSLATION]	missing translation
+1778	Tag hatten af.	
+1779	Hej, Powers.	
+1780	Hej, Murph.	
+1781	Det er Powers.	
+1782	Godt, hr. Donovan,	
+1783	så er det nu!	
+1784	Øjeblik.	
+1785	Jeg skal nok sige til.	
+1786	Her er ikke en sjæl.	
+1787	De løslader en mand mere.	
+1788	Vi må have bekræftet, at han er der.	
+1789	Nu!	
+1790	Som det var aftalt.	
+1791	Kom så.	
+1792	Pryor må dukke op eller lade være.	
+1793	[NO TRANSLATION]	missing translation
+1794	De vil se, om vi vil gennemføre det uden ham.	
+1795	Vi må bare blive stående og vise, at det vil vi ikke.	
+1796	Det rager mig, hvad de vil.	
+1797	Vi har fået det, vi ville.	
+1798	Gå bare, Abel.	
+1799	Værsgo,	
+1800	gå De bare.	
+1801	Vi følger planen, eller også går vi.	
+1802	Udvekslingen skal ske nu!	
+1803	Venter De på en anden mand?	
+1804	Jep.	
+1805	De vil have ham med i købet.	
+1806	Det vil jeg.	
+1807	Hvad han vil, er sagen uvedkommende.	
+1808	Det er mig, der bestemmer.	
+1809	Værsgo at gå.	
+1810	Gå over broen.	
+1811	Jeg venter gerne.	
+1812	Der sker noget.	
+1813	Jeg kan ikke være sikker.	
+1814	Vent!	
+1815	[NO TRANSLATION]	missing translation
+1816	Vi har ham!	
+1817	[NO TRANSLATION]	missing translation
+1818	Jeg har sendt en gave til Dem, Jim.	
+1819	[NO TRANSLATION]	missing translation
+1820	Det er et maleri.	
+1821	Jeg håber, De vil forstå det.	
+1822	Jeg har desværre ikke nogen gave med til Dem.	forced duplication
+1823	Jeg har desværre ikke nogen gave med til Dem.	forced duplication
+1824	Det her er Deres gave.	
+1825	Det her er Deres gave.	
+1826	[NO TRANSLATION]	missing translation
+1827	Af sted, af sted!	
+1828	Hr. Donovan.	
+1829	Oberst Abel bad mig give Dem det her.	
+1830	Undskyld...	
+1831	Er det Dem, der har stået for det her?	
+1832	Ja.	
+1833	Så må jeg takke Dem.	
+1834	Nogen må jeg da takke.	
+1835	Jeg fortalte dem ingenting.	
+1836	Ingenting.	
+1837	Det er underordnet.	
+1838	Det er underordnet, hvad folk tror.	
+1839	De ved, hvad De har gjort.	
+1840	Velkommen hjem.	
+1841	Sikke en tur.	
+1842	[NO TRANSLATION]	missing translation
+1843	[NO TRANSLATION]	missing translation
+1844	Er alt i orden?	
+1845	Ja, i skønneste orden.	
+1846	Fik du marmeladen?	
+1847	Ja.	
+1848	Jep,	
+1849	jep.	
+1850	Det gjorde jeg.	
+1851	Som du bad om.	
+1852	Jim...	
+1853	Den er jo købt hos Arno's henne på hjørnet.	forced duplication
+1854	[NO TRANSLATION]	missing translation
+1855	Den er jo købt hos Arno's henne på hjørnet.	forced duplication
+1856	Jeg havde virkelig travlt, skat.	
+1857	[NO TRANSLATION]	missing translation
+1858	[NO TRANSLATION]	missing translation
+1859	[NO TRANSLATION]	missing translation
+1860	[NO TRANSLATION]	missing translation
+1861	Er Roger hjemme?	
+1862	Ja,	
+1863	og Carol og Peggy er her.	
+1864	Vi er alle sammen hjemme.	
+1865	Mor, kom og se!	forced duplication
+1866	Mor, kom og se!	forced duplication
+1867	Mor, kom og se!	forced duplication
+1868	Mor, kom her!	
+1869	Mor, kom her!	
+1870	Du skal se det her.	
+1871	[NO TRANSLATION]	missing translation
+1872	Se engang.	
+1873	[NO TRANSLATION]	missing translation
+1874	Francis Gary Powers er blevet løsladt fra fængslet i Sovjetunionen og overdraget til de amerikanske myndigheder her til morgen i Berlin.	
+1875	Præsidenten har nedsat Rudolf Abels straf.	
+1876	Abel er blevet udvist og løsladt i Berlin.	
+1877	Bestræbelserne på at få frigivet hr. Powers har stået på i en rum tid.	
+1878	På det seneste er de amerikanske myndigheder blevet bistået og assisteret af James B. Donovan, en sagfører fra New York.	
+1879	Frederic L. Pryor, en amerikansk student, der er blevet tilbageholdt af de østtyske myndigheder siden august 1961...	
+1880	Jeg troede, far var ude at fiske.	
+1881	Efter laks.	
+1882	Abel er nu forsvundet ind i den kommunistiske verden.	
+1883	Powers er her og bliver afhørt,	
+1884	og Donovan er vendt tilbage til sin advokatpraksis.	
+1885	[NO TRANSLATION]	missing translation
