@@ -7,13 +7,13 @@ Of these, 68 texts were taken directly from ParTree, while 24 have been added fr
 42 languages with available models were further automatically annotated following the Universal Dependencies (UD) framework (v2.17; Zeman et al., 2025) using UDPipe2 (Straka, 2018).
 
 The corpus files are organised into three folders, following the structure implemented in the ParTree corpus. 
-The raw folder contains the original subtitle files in the .SRT format. 
-The text folder contains files that have been converted to the .TXT format, their text aligned and lines numbered. 
-The conllu folder contains the files in the .CONLLU format that have been annotated with Universal Dependencies. 
+The raw folder contains the original subtitle files in the ._SRT_ format. 
+The text folder contains files that have been converted to the ._TXT_ format, their text aligned and lines numbered. 
+The conllu folder contains the files in the ._CONLLU_ format that have been annotated with Universal Dependencies. 
 Inside each folder, the files are organised into subfolders by movie title.
 
-For each movie text file, the file name includes the movie title, the ISO 639-3 language code1, and the language Glottocode, e.g. Godfather_eng_stan1293. 
-The corresponding annotated .CONLLU filename additionally includes the UDPipe model identifier after the Glottocode, e.g. Godfather_eng_stan1293_english-ewt.
+For each movie text file, the file name includes the movie title, the ISO 639-3 language code1, and the language Glottocode, e.g. _Godfather_eng_stan1293_. 
+The corresponding annotated .CONLLU filename additionally includes the UDPipe model identifier after the Glottocode, e.g. _Godfather_eng_stan1293_english-ewt_.
 
 _____________
 
