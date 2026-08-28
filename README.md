@@ -14,8 +14,12 @@ Inside each folder, the files are organised into subfolders by movie title.
 
 For each movie text file, the file name includes the movie title, the ISO 639-3 language code1, and the language Glottocode, e.g. _Godfather_eng_stan1293_. 
 The corresponding annotated .CONLLU filename additionally includes the UDPipe model identifier after the Glottocode, e.g. _Godfather_eng_stan1293_english-ewt_.
+_____________
+**How to cite**
+Nogina, Alexandra, Siavash Hajbahramian, Kira Tulchynska, Natalia Levshina, Jessica K. Ivani & Alena Witzlack-Makarevich. 2026. FilmTree: A parallel corpus of film subtitles [data set]. Zenodo. 
 
 _____________
+**References**
 
 Ebert, C., N. Levshina & P. Widmer. 2023. Partree – parallel treebanks: A multilingual corpus of movie
 subtitles (version 1.0.0) [data set]. _Tech. rep. LaRS - Language Repository of Switzerland._ https://doi.org/10.48656/5mz4-x435.
