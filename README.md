@@ -16,7 +16,8 @@ For each movie text file, the file name includes the movie title, the ISO 639-3 
 The corresponding annotated .CONLLU filename additionally includes the UDPipe model identifier after the Glottocode, e.g. _Godfather_eng_stan1293_english-ewt_.
 _____________
 **How to cite**
-Nogina, Alexandra, Siavash Hajbahramian, Kira Tulchynska, Natalia Levshina, Jessica K. Ivani & Alena Witzlack-Makarevich. 2026. FilmTree: A parallel corpus of film subtitles [data set]. Zenodo. 
+
+Nogina, Alexandra, Siavash Hajbahramian, Kira Tulchynska, Natalia Levshina, Jessica K. Ivani & Alena Witzlack-Makarevich. 2026. FilmTree: A parallel corpus of film subtitles [data set]. _Zenodo_. ADD DOI
 
 _____________
 **References**
