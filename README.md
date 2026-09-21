@@ -3,7 +3,7 @@
 This corpus extends the ParTree corpus developed by Ebert et al. (2023), which, in turn, builds on the ParTy corpus by Levshina (2016). 
 We selected subtitles for two movies, ‘Bridge of Spies’ and ‘The Godfather’, and performed a fully manual alignment in order to improve cross-linguistic correspondences between translations. 
 The resulting corpus consists of 53 languages from 13 language families: 92 texts in total for two films. 
-Of these, 68 texts were taken directly from ParTree, while 24 have been added from other sources. 
+Of these, 68 texts were taken directly from ParTree, while 24 were added from other sources. 
 42 languages with available models were further automatically annotated following the Universal Dependencies (UD) framework (v2.17; Zeman et al., 2025) using UDPipe2 (Straka, 2018).
 
 The corpus files are organised into three folders, following the structure implemented in the ParTree corpus. 
