@@ -22,15 +22,15 @@ Nogina, Alexandra, Siavash Hajbahramian, Kira Tulchynska, Natalia Levshina, Jess
 _____________
 **References**
 
-Ebert, C., N. Levshina & P. Widmer. 2023. Partree – parallel treebanks: A multilingual corpus of movie
-subtitles (version 1.0.0) [data set]. _Tech. rep. LaRS - Language Repository of Switzerland._ https://doi.org/10.48656/5mz4-x435.
+Ebert, Christian, Natalia Levshina & Paul Widmer. 2023. _Partree – parallel treebanks: A multilingual corpus of movie
+subtitles_ (version 1.0.0) [data set]. Tech. rep. LaRS - Language Repository of Switzerland. https://doi.org/10.48656/5mz4-x435.
 
 Levshina, Natalia. 2016. Verbs of letting in Germanic and Romance: A quantitative investigation based on
-a parallel corpus of film subtitles. _Languages in Contrast 16(1)_. 84–117. https://doi.org/10.1075/lic.16.1.04lev.
+a parallel corpus of film subtitles. _Languages in Contrast_ 16(1). 84–117. https://doi.org/10.1075/lic.16.1.04lev.
 
 Straka, Milan. 2018. UDPipe 2.0 prototype at CoNLL 2018 UD shared task. 
 In _Proceedings of the CoNLL 2018 shared task: Multilingual parsing from raw text to universal dependencies_, 197–207. Brussels, Belgium: Association for Computational Linguistics. 
 doi:10.18653/v1/K18-2020. https://www.aclweb.org/anthology/K18-2020.
 
-Zeman, Daniel et al. 2025. Universal dependencies 2.17. _LINDAT/CLARIAH-CZ digital library at the
-Institute of Formal and Applied Linguistics (ÚFAL)_. http://hdl.handle.net/11234/1-6036.
+Zeman, Daniel et al. 2025. _Universal dependencies 2.17_. LINDAT/CLARIAH-CZ digital library at the
+Institute of Formal and Applied Linguistics (ÚFAL). http://hdl.handle.net/11234/1-6036.
