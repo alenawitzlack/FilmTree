@@ -2,14 +2,14 @@
 
 This corpus extends the ParTree corpus developed by Ebert et al. (2023), which, in turn, builds on the ParTy corpus by Levshina (2016). 
 We selected subtitles for two movies, ‘Bridge of Spies’ and ‘The Godfather’, and performed a fully manual alignment in order to improve cross-linguistic correspondences between translations. 
-The resulting corpus consists of 53 languages from 13 language families: 92 texts in total for two films. 
+The resulting corpus consists of 53 languages from 13 language families: 92 texts in total for the two films. 
 Of these, 68 texts were taken directly from ParTree, while 24 were added from other sources. 
 42 languages with available models were further automatically annotated following the Universal Dependencies (UD) framework (v2.17; Zeman et al. 2025) using UDPipe2 (Straka 2018).
 
 The corpus files are organised into three folders, following the structure implemented in the ParTree corpus. 
-The raw folder contains the original subtitle files in the `.SRT` format. 
-The text folder contains files that have been converted to the `.TXT` format, their text aligned and lines numbered. 
-The conllu folder contains the files in the `.CONLLU` format that have been annotated with Universal Dependencies. 
+* The raw folder contains the original subtitle files in the `.SRT` format. 
+* The text folder contains files that have been converted to the `.TXT` format, their text aligned and lines numbered. 
+* The conllu folder contains the files in the `.CONLLU` format that have been annotated with Universal Dependencies. 
 Inside each folder, the files are organised into subfolders by movie title.
 
 For each movie text file, the file name includes the movie title, the ISO 639-3 language code, and the Glottocode, e.g. `Godfather_eng_stan1293`. 
