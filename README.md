@@ -17,7 +17,7 @@ The corresponding annotated `.CONLLU` filename additionally includes the UDPipe 
 _____________
 **How to cite**
 
-Nogina, Alexandra, Siavash Hajbahramian, Kira Tulchynska, Natalia Levshina, Jessica K. Ivani & Alena Witzlack-Makarevich. 2026. FilmTree: A parallel corpus of film subtitles [data set]. _Zenodo_. ADD DOI
+Nogina, Alexandra, Siavash Hajbahramian, Kira Tulchynska, Natalia Levshina, Jessica K. Ivani & Alena Witzlack-Makarevich. 2026. FilmTree: A parallel corpus of film subtitles. https://doi.org/10.5281/zenodo.22145672
 
 _____________
 **References**
